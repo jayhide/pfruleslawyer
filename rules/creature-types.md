@@ -1,7 +1,3 @@
-##### [Subscribe to the Open Gaming Network and get everything ad-free!](https://account.opengamingnetwork.com/manage/subscription)
-
-[Home](https://www.d20pfsrd.com/ "Home") >[Bestiary](https://www.d20pfsrd.com/bestiary/ "Bestiary") >[Rules for Monsters](https://www.d20pfsrd.com/bestiary/rules-for-monsters/ "Rules for Monsters") >
-
 # Creature Types & Subtypes
 
 Each creature has one type, which broadly defines its abilities. Some creatures also have one or more subtypes. A creature cannot violate the rules of its subtype without a special ability or quality to explain the differenceâtemplates can often change a creature’s type drastically.
@@ -12,105 +8,6 @@ When discussing or considering a playable race’s type, it’s type is similar 
 
   * The first difference is that each **race type** assumes members of the race are roughly [humanoid](https://www.d20pfsrd.com/bestiary/rules-for-monsters/creature-types#TOC-Humanoid) in shape and have two arms, two legs, a torso, and a head. This is important so that a race can take advantage of all the various magic item slots available to characters and can utilize the standard weapon and armor options.
   * The second difference is that all of these race types are 0-Hit Dice creatures, which means that their [Hit Dice](https://www.d20pfsrd.com/basics-ability-scores/glossary#TOC-Hit-Dice-HD-), [base attack bonus](https://www.d20pfsrd.com/gamemastering/combat#TOC-Attack-Bonus), saving throw progression, skill points, class skills, and weapon and armor proficiencies are based on the class levels each member of a race takes.
-
-
-
-Contents
-
-    *       * PC Playable Races
-  * Types
-    *       *         * Aberration
-        * Animal
-        * Construct
-        * Dragon
-        * Fey
-        * Humanoid
-        * Magical Beast
-        * Monstrous Humanoid
-        * Ooze
-        * Outsider
-        * Plant
-        * Undead
-      * Five Things Almost Everyone Knows About Undead
-        * Vermin
-  * Subtypes
-    *       *         * Adlet Subtype
-        * Aeon Subtype
-        * Agathion Subtype
-        * Air Subtype
-        * Angel Subtype
-        * Aquatic Subtype
-        * Archon Subtype
-        * Asura Subtype
-        * Augmented Subtype
-        * Automaton Subtype
-        * Azata Subtype
-        * Behemoth Subtype
-        * Catfolk Subtype
-        * Chaotic Subtype
-        * Clockwork Subtype
-        * Cold Subtype
-        * Colossus Subtype
-        * Daemon Subtype
-        * Dark Folk Subtype
-        * Deep One Subtype
-        * Demodand Subtype
-        * Demon Subtype
-        * Devil Subtype
-        * Div Subtype
-        * Dwarf Subtype
-        * Earth Subtype
-        * Elemental Subtype
-        * Elf Subtype
-        * Evil Subtype
-        * Extraplanar Subtype
-        * Fire Subtype
-        * Giant Subtype
-        * Gnome Subtype
-        * Goblinoid Subtype
-        * Godspawn Subtype
-        * Good Subtype
-        * Great Old One Subtype
-        * Halfling Subtype
-        * Herald Subtype
-        * Hive Subtype
-        * Human Subtype
-        * Incorporeal Subtype
-        * Inevitable Subtype
-        * Kaiju Subtype
-        * Kami Subtype
-        * Kasatha Subtype
-        * Kitsune Subtype
-        * Kyton Subtype
-        * Lawful Subtype
-        * Leshy Subtype
-        * Mortic Subtype
-        * Mythic Subtype
-        * Native Subtype
-        * Nightshade Subtype
-        * Oni Subtype
-        * Orc Subtype
-        * Protean Subtype
-        * Psychopomp Subtype
-        * Qlippoth Subtype
-        * Rakshasa Subtype
-        * Ratfolk Subtype
-        * Reptilian Subtype
-        * Robot Subtype
-        * Samsaran Subtype
-        * Sasquatch Subtype
-        * Shapechanger Subtype
-        * Swarm Subtype
-        * Troop Subtype
-        * Udaeus Subtype
-        * Unbreathing Subtype
-        * Vanara Subtype
-        * Vishkanya Subtype
-        * Water Subtype
-        * Wayang Subtype
-        * Wild Hunt Subtype
-
-
 
 Table: Creature Statistics by Type Type | Hit Die | Base Attack Bonus (BAB) | Good Saving Throws | Skill Ranks* | Class Skills  
 ---|---|---|---|---|---  
@@ -1261,25 +1158,3 @@ All creatures that ride as a part of the wild hunt are chaotic neutral fey that 
   * _Wild Gaze (Su)_ : All creatures within 30 feet that fail a Will save against the gaze of a member of the wild hunt instinctively recognize their power. Humanoids and monstrous humanoids stand frozen in awe, becoming paralyzed. Magical beasts and animals become frightened, and all other creatures become confused. These effects last for 1 round, and multiple failed saving throws against multiple members of the wild hunt in a single round do not cause this duration to stack. A creature that succeeds on a saving throw against this special attack is immune to the wild gaze from any member of the wild hunt for 24 hours. This is a mind-affecting effect. The save DC is Charisma-based.
   * _Wild Grace (Su)_ : Wild hunt creatures add their Charisma modifier as a deflection bonus to their AC.
   * _Wild Hunt Link (Su)_ : Members of the wild hunt can communicate telepathically across great distances and share abilities with each other. As long as a member of the hunt is not more than 500 feet away from the nearest other member of its hunt, it can participate in the wild hunt link. Each wild hunt creature shares a different set of abilities with other creatures in the link. A lone member of the wild hunt does not gain the benefit of any abilities it grants via its wild hunt link, and identical abilities granted by multiple wild hunt fey do not stack.
-
-
-
-#### Discuss!
-
-[Join Our Discord!](https://discord.gg/FPJFPSUpgJ)
-
-#### [![RSS](https://www.d20pfsrd.com/wp-includes/images/rss.png)](https://www.opengamingstore.com/collections/pathfinder/all.atom) [Latest Pathfinder products in the Open Gaming Store](https://www.opengamingstore.com/collections/all)
-
-  * [The Reaping Stone Deluxe Adventure Battlemaps](https://www.opengamingstore.com/products/the-reaping-stone-deluxe-adventure-battlemaps)
-  * [The Reaping Stone Deluxe Adventure](https://www.opengamingstore.com/products/the-reaping-stone-deluxe-adventure)
-  * [Ultimate Pathfinder 1e Bundle - 7 Complete Mega-Bundles (10,000+ Pages)](https://www.opengamingstore.com/products/ultimate-pathfinder-library-complete-publisher-collection-bundle)
-  * [Rhune: Dawn of Twilight Stormpunk Character Primer](https://www.opengamingstore.com/products/rhune-dawn-of-twilight-stormpunk-character-primer)
-  * [The City-States of Vallinar (map)](https://www.opengamingstore.com/products/the-city-states-of-vallinar)
-
-
-
-![scroll to top](https://www.d20pfsrd.com/wp-content/themes/srdtheme/images/Up1Blue.png)
-
-#### Patreon Supporters
-
-[![](https://www.d20pfsrd.com/_/images/Dingles-Games-Patreon.png)](http://www.dinglesgames.com/tools/NPCGenerator/pathfinder/) [![](https://www.d20pfsrd.com/wp-content/uploads/sites/12/2019/02/FWP-Ad.gif)](http://bit.ly/FWPLAUNCH) [![](https://www.d20pfsrd.com/wp-content/uploads/sites/12/2020/06/d20PFSRD-banner.jpg)](https://www.patreon.com/themadcartographer)

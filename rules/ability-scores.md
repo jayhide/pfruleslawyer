@@ -1,40 +1,4 @@
-##### [Subscribe to the Open Gaming Network and get everything ad-free!](https://account.opengamingnetwork.com/manage/subscription)
-
-[Home](https://www.d20pfsrd.com/ "Home") >[Basics & Ability Scores](https://www.d20pfsrd.com/basics-ability-scores/ "Basics & Ability Scores") >
-
 # Ability Scores
-
-  
-
-
-  
-
-
-Contents
-
-  * Generating Ability Scores
-    * Determine Bonuses (or Penalties)
-  * Abilities and Spellcasters
-  * The Abilities
-    * Strength (Str)
-    * Dexterity (Dex)
-    * Constitution (Con)
-      * Notes:
-    * Intelligence (Int)
-      * Unoffical Paizo Board Post…
-      * Notes:
-    * Wisdom (Wis)
-      * Notes:
-    * Charisma (Cha)
-      * Notes:
-  * Ability Score Bonuses
-    * Temporary Bonuses
-    * Permanent Bonuses
-  * Ability Score Damage
-  * Ability Score Penalties
-  * Ability Drain
-
-
 
 Each character has six ability scores that represent his character’s most basic attributes. They are his raw talent and prowess. While a character rarely rolls a check using just an ability score, these scores, and the modifiers they create, affect nearly every aspect of a character’s skills and abilities. Each ability score generally ranges from 3 to 18, although racial bonuses and penalties can alter this; an average ability score is 10.
 
@@ -474,23 +438,3 @@ Some spells and abilities cause you to take an ability penalty for a limited amo
 ## Ability Drain
 
 Ability drain actually reduces the relevant ability score. Modify all skills and statistics related to that ability. This might cause you to lose skill points, [hit points](https://www.d20pfsrd.com/basics-ability-scores/glossary#hit-points), and other bonuses. Ability drain can be healed through the use of spells such as [restoration](https://www.d20pfsrd.com/magic/all-spells/r/restoration).
-
-#### Discuss!
-
-[Join Our Discord!](https://discord.gg/FPJFPSUpgJ)
-
-#### [![RSS](https://www.d20pfsrd.com/wp-includes/images/rss.png)](https://www.opengamingstore.com/collections/pathfinder/all.atom) [Latest Pathfinder products in the Open Gaming Store](https://www.opengamingstore.com/collections/all)
-
-  * [The Reaping Stone Deluxe Adventure Battlemaps](https://www.opengamingstore.com/products/the-reaping-stone-deluxe-adventure-battlemaps)
-  * [The Reaping Stone Deluxe Adventure](https://www.opengamingstore.com/products/the-reaping-stone-deluxe-adventure)
-  * [Ultimate Pathfinder 1e Bundle - 7 Complete Mega-Bundles (10,000+ Pages)](https://www.opengamingstore.com/products/ultimate-pathfinder-library-complete-publisher-collection-bundle)
-  * [Rhune: Dawn of Twilight Stormpunk Character Primer](https://www.opengamingstore.com/products/rhune-dawn-of-twilight-stormpunk-character-primer)
-  * [The City-States of Vallinar (map)](https://www.opengamingstore.com/products/the-city-states-of-vallinar)
-
-
-
-![scroll to top](https://www.d20pfsrd.com/wp-content/themes/srdtheme/images/Up1Blue.png)
-
-#### Patreon Supporters
-
-[![](https://www.d20pfsrd.com/_/images/Dingles-Games-Patreon.png)](http://www.dinglesgames.com/tools/NPCGenerator/pathfinder/) [![](https://www.d20pfsrd.com/wp-content/uploads/sites/12/2019/02/FWP-Ad.gif)](http://bit.ly/FWPLAUNCH) [![](https://www.d20pfsrd.com/wp-content/uploads/sites/12/2020/06/d20PFSRD-banner.jpg)](https://www.patreon.com/themadcartographer)

@@ -1,163 +1,6 @@
-##### [Subscribe to the Open Gaming Network and get everything ad-free!](https://account.opengamingnetwork.com/manage/subscription)
-
-[Home](https://www.d20pfsrd.com/ "Home") >[Bestiary](https://www.d20pfsrd.com/bestiary/ "Bestiary") >[Rules for Monsters](https://www.d20pfsrd.com/bestiary/rules-for-monsters/ "Rules for Monsters") >
-
 # Universal Monster Rules
 
-Contents
-
-  * Ability Damage and Drain (Ex or Su)
-  * Absurd Reactions (Ex) [3PP]
-  * All-Around Vision (Ex)
-  * All-Knowing [3PP]
-  * All-Sensing [3PP]
-  * Amazing Initiative [MA] (Ex)
-  * Amorphous (Ex)
-  * Amphibious (Ex)
-  * Apocalyptic Resurrection (Ex)
-  * Archdevil Traits (Ex, Sp, or Su)
-  * Attach (Ex)
-  * Bleed (Ex)
-  * Blindsense (Ex)
-  * Blindsight (Ex)
-  * Block Sensing [3PP]
-  * Blood Drain (Ex)
-  * Blood Rage (Ex)
-  * Breath Weapon (Su)
-  * Burn (Ex)
-  * *Burrow (Ex)
-  * Capsize (Ex)
-  * Change Shape (Su)
-  * Channel Resistance (Ex)
-  * Climb
-  * Compression (Ex)
-  * Constrict (Ex)*
-  * Construct Traits (Ex)
-  * Curse (Su)
-  * Curse of Lycanthropy (Su)
-  * Damage Reduction (Ex or Su)
-  * Darkvision (Ex or Su)
-  * Demon Lord Traits (Ex, Sp, or Su)
-  * Disease (Ex or Su)
-  * Display of Strength [MA] (Su)
-  * Distraction (Ex)
-  * Dragon Senses (Ex)
-  * Dual Initiative [MA] (Ex)
-  * Earth Glide (Ex)
-  * Echosense/Echosight [3PP]
-  * Emotion Aura (Su)
-  * Empyreal Lord Traits (Ex, Sp, or Su)
-  * Energy Drain (Su)*
-  * Engulf (Ex)
-  * Entrap (Ex or Su)
-  * Expanding Blindsense
-  * Fast Healing (Ex)
-  * Fast Swallow (Ex)
-  * Fear (Su or Sp)
-  * Fear Cone (Sp) and Ray (Su)
-  * Ferocity (Ex)
-  * Flight (Ex or Su)
-  * Fight Through Restriction (Ex) [3PP]
-  * Formian Traits (Ex or Su)
-  * Fortification (Ex)
-  * Freeze (Ex)
-  * Frightful Presence (Ex)
-  * Gaze (Su)
-  * Grab (Ex)
-  * Greensight (Su)
-  * Heat (Ex)
-  * Hold Breath (Ex)
-  * Horseman Traits (Ex, Sp, or Su)
-  * Immunity (Ex or Su)
-  * Incorporeal (Ex)
-  * Instant Action (Ex) [3PP]
-  * Jet (Ex)
-  * Keen Scent (Ex)
-  * Legendary Concentration (Ex) [3PP]
-  * Legendary Saving Throw (Ex) [3PP]
-  * Lifesense (Su)
-  * Light Blindness (Ex)
-  * Light Sensitivity (Ex)
-  * Low-Light Vision (Ex)
-  * Lycanthropic Empathy (Ex)
-  * Material Sense [3PP]
-  * Mental Static Aura (Su)
-  * Mistsight (Ex)
-  * Mythic Durability (Ex) [3PP]
-  * Mythic Immortality [MA] (Su)
-  * Mythic Magic [MA] (Su)
-  * Mythic Power [MA] (Su)
-  * Multiweapon Mastery (Ex)
-  * Natural Attacks
-  * Table: Natural Attacks by Size
-  * Natural Invisibility (Ex or Su)
-  * Negative Energy Affinity (Ex)*
-  * Negative Energy Affinity (Ex)
-  * No Breath (Ex)
-  * Outside Time (Su) [3PP]
-  * Paralysis (Ex or Su)
-  * Planar Knowledge [3PP]
-    * Planar Omniscience (Su) [3PP]
-  * Plantbringer [MA] (Su)
-  * Plant Traits (Ex)
-  * Poison (Ex or Su)
-  * Poisonous Blood (Ex)
-  * Pounce (Ex)
-  * Powerful Blows (Ex)
-  * Powerful Charge (Ex)
-  * Primed Action (Ex) [3PP]
-  * Psychic Magic (Sp)
-  * Psychic Resilience (Ex)
-  * Pull (Ex)
-  * Push (Ex)
-  * Qlippoth Lord Traits (Ex, Sp, or Su)
-  * Rake (Ex)
-  * Recuperation [MA] (Ex)
-  * Regeneration (Ex)
-  * Rend (Ex)
-  * Resistance (Ex)
-  * Rock Catching (Ex)
-  * Rock Throwing (Ex)
-  * Thermal Sense/Thermal Sight [3PP]
-  * Tremorsense/Tremorsight [3PP]
-  * Scent (Ex)
-  * See in Darkness (Su)
-  * Smother (Ex)
-  * Sound Mimicry (Ex)
-  * Spells/Spellcasting
-  * Spell-Like Abilities (Sp)
-  * Spell Resistance (Ex)
-  * Spirit Sense [3PP]
-  * Split (Ex)
-  * Stench (Ex)
-  * Strangle (Ex)
-  * Summon (Sp)
-  * Sunlight Powerlessness (Ex)
-  * Superior Scent/Scentsight [3PP]
-  * Surge [MA] (Su)
-  * Swallow Whole (Ex)
-  * Telepathy (Su)
-  * Thoughtsense (Su)
-  * Touchsight [3PP]
-  * Trample (Ex)
-  * Tremorsense (Ex)
-  * Trip (Ex)
-  * Unbound Action (Ex) [3PP]
-  * Undead Traits (Ex)
-  * Undersized Weapons (Ex)
-  * Unnatural Aura (Su)
-  * Unstoppable [MA] (Ex)
-  * Vulnerabilities (Ex or Su)
-  * Water Breathing (Ex)
-  * Water Dependency (Ex)
-  * Web (Ex)
-  * Whirlwind (Su)
-
-
-
 The following specific rules are referenced in monster stat blocks. Each rule includes a format guide for how it appears in a monster’s listing and its location in the stat block.
-
-Additionally, we have included new monster rules from other publishers. These are indicated by [3PP] which stands for “3rd Party Publisher”.
 
 Have fun!
 
@@ -167,31 +10,11 @@ Some attacks or special abilities cause [ability damage](https://www.d20pfsrd.co
 
 _Format_ : 1d4 Str [drain](https://www.d20pfsrd.com/basics-ability-scores/ability-scores#TOC-Ability-Drain); _Location_ : Special Attacks or individual attacks.
 
-### Absurd Reactions (Ex) [3PP]
-
-[[Source](https://www.opengamingstore.com/products/arcforge-universe-cyclopedia)]
-
-The creature may take up to one additional [immediate action](https://www.d20pfsrd.com/gamemastering/combat#TOC-Immediate-Actions) each turn. The creature may only take one of these [immediate actions](https://www.d20pfsrd.com/gamemastering/combat#TOC-Immediate-Actions) on a given creatureâs turn.
-
 ### All-Around Vision (Ex)
 
 The creature sees in all directions at once. It cannot be flanked.
 
 _Format_ : all-around vision; _Location_ : Defensive Abilities.
-
-### All-Knowing [3PP]
-
-[Source: TOHC]
-
-When a living creature enters any layer controlled by the entity, that [outsider](https://www.d20pfsrd.com/bestiary/rules-for-monsters/creature-types#TOC-Outsider) knows immediately where the creature is. This ability functions similar to a [discern location](https://www.d20pfsrd.com/magic/all-spells/d/discern-location) spell ([caster level](https://www.d20pfsrd.com/magic#TOC-Caster-Level) is the same as that of the [outsider’s](https://www.d20pfsrd.com/bestiary/rules-for-monsters/creature-types#TOC-Outsider) [spell-like abilities](https://www.d20pfsrd.com/magic#TOC-Spell-Like-Abilities-Sp-)) except the entity is not required to have seen the creature or have some item that once belonged to it. He is not required to have touched an object if it is the target of this ability.
-
-### All-Sensing [3PP]
-
-[Source: TOHC]
-
-By concentrating for 1 minute, the entity can extend its senses (hearing and vision for example, including [darkvision](https://www.d20pfsrd.com/gamemastering/special-abilities#TOC-Darkvision)) from its present location out to a radius of 1 mile per 5 [Hit Dice](https://www.d20pfsrd.com/basics-ability-scores/glossary#TOC-Hit-Dice-HD-) the entity possesses. The sensing power can penetrate any barrier an area otherwise blocked by an entity of equal or higher [Hit Dice](https://www.d20pfsrd.com/basics-ability-scores/glossary#TOC-Hit-Dice-HD-) or a deity. All-sensing is not fooled by [misdirection](https://www.d20pfsrd.com/magic/all-spells/m/misdirection) or [nondetection](https://www.d20pfsrd.com/magic/all-spells/n/nondetection) or similar spells, and it does not create a magical sensor that other creatures can detect. An entity can extend its senses to one location at a time and still sense whatâs going on nearby.
-
-Once an entity chooses a remote location to sense, it automatically receives sensory information from that location until it chooses a new location to sense (as a [standard action](https://www.d20pfsrd.com/gamemastering/combat#TOC-Standard-Actions)), or until it canât sense the location.
 
 ### Amazing Initiative [MA] (Ex)
 
@@ -230,8 +53,6 @@ An archdevil rules a domain in Hell. Archdevils are lawful evil outsiders with a
   * **Summon Devils (Sp)** : Three times per day as a swift action, an archdevil can summon any devil or combination of devils whose total combined CR is 20 or lower. This otherwise works like the summon universal monster rule with a 100% chance of success, and it counts as a 9th-level spell effect.
   * Telepathy 300 feet.
 
-
-
 ### Attach (Ex)
 
 The creature automatically latches onto its target when it successfully makes the listed attack. The creature is considered [grappling](https://www.d20pfsrd.com/gamemastering/combat#TOC-Grapple), but the target is not. The target can attack or [grapple](https://www.d20pfsrd.com/gamemastering/combat#TOC-Grapple) the creature as normal, or break the attach with a successful [grapple](https://www.d20pfsrd.com/gamemastering/combat#TOC-Grapple) or [Escape Artist](https://www.d20pfsrd.com/skills/escape-artist) check. Most creatures with this ability have a [racial bonus](https://www.d20pfsrd.com/basics-ability-scores/glossary#TOC-Racial-Bonus) to maintain a [grapple](https://www.d20pfsrd.com/gamemastering/combat#TOC-Grapple) (listed in its [CMB](https://www.d20pfsrd.com/gamemastering/combat#TOC-Combat-Maneuver-Bonus) entry).
@@ -255,12 +76,6 @@ _Format_ : blindsense 60 ft.; _Location_ : Senses.
 This ability is similar to [blindsense](https://www.d20pfsrd.com/gamemastering/special-abilities#TOC-Blindsight-and-Blindsense), but is far more discerning. Using nonvisual senses, such as sensitivity to vibrations, keen smell, acute hearing, or echolocation, a creature with blindsight maneuvers and fights as well as a sighted creature. Invisibility, darkness, and most kinds of [concealment](https://www.d20pfsrd.com/gamemastering/combat#TOC-Concealment) are irrelevant, though the creature must have line of effect to a creature or object to discern that creature or object. The ability’s range is specified in the creature’s descriptive text. The creature usually does not need to make [Perception](https://www.d20pfsrd.com/skills/perception) checks to notice creatures within range of its blindsight ability. Unless noted otherwise, blindsight is continuous, and the creature need do nothing to use it. Some forms of blindsight, however, must be triggered as a free action. If so, this is noted in the creature’s description. If a creature must trigger its blindsight ability, the creature gains the benefits of blindsight only during its turn.
 
 _Format_ : blindsight 60 ft.; _Location_ : Senses.
-
-### Block Sensing [3PP]
-
-[Source: TOHC]
-
-As a [standard action](https://www.d20pfsrd.com/gamemastering/combat#TOC-Standard-Actions), the entity can block the sensing ability of other entities of its [Hit Dice](https://www.d20pfsrd.com/basics-ability-scores/glossary#TOC-Hit-Dice-HD-) or lower. This power extends for a radius of one mile per 5 [Hit Dice](https://www.d20pfsrd.com/basics-ability-scores/glossary#TOC-Hit-Dice-HD-) of the entity. The creature can block the area within one mile of itself while blocking a remote location. The blockage lasts 1 hour per 5 [Hit Dice](https://www.d20pfsrd.com/basics-ability-scores/glossary#TOC-Hit-Dice-HD-) the entity possesses.
 
 ### Blood Drain (Ex)
 
@@ -412,8 +227,6 @@ A [demon lord](https://www.d20pfsrd.com/bestiary/monster-listings/outsiders/demo
   * _Summon Demons (Sp)_ Three times per day as a [swift action](https://www.d20pfsrd.com/gamemastering/combat#TOC-Swift-Actions), a [demon lord](https://www.d20pfsrd.com/bestiary/monster-listings/outsiders/demon/demon-lords) can [summon](https://www.d20pfsrd.com/bestiary/rules-for-monsters/universal-monster-rules/universal-monster-rules#TOC-Summon-Sp-) any [demon](https://www.d20pfsrd.com/bestiary/rules-for-monsters/creature-types#TOC-Demon) or combination of [demons](https://www.d20pfsrd.com/bestiary/monster-listings/outsiders/demon) whose total combined CR is 20 or lower. This otherwise works like the [summon](https://www.d20pfsrd.com/bestiary/rules-for-monsters/universal-monster-rules/universal-monster-rules#TOC-Summon-Sp-) universal monster rule with a 100% chance of success, and counts as a 9th-level spell effect.
   * _Telepathy_ 300 feet.
 
-
-
 ### Disease (Ex or Su)
 
 A creature with this ability causes [disease](https://www.d20pfsrd.com/gamemastering/afflictions#TOC-Diseases) in those it contacts. The effects of the [disease](https://www.d20pfsrd.com/gamemastering/afflictions#TOC-Diseases), including its save, frequency, and cure, are included in the creature’s description. The [saving throw](https://www.d20pfsrd.com/gamemastering/combat#TOC-Saving-Throws) to negate the [disease](https://www.d20pfsrd.com/gamemastering/afflictions#TOC-Diseases) is usually a [Fort](https://www.d20pfsrd.com/gamemastering/combat#TOC-Fortitude) save (DC 10 + 1/2 the infecting creatureâs racial [HD](https://www.d20pfsrd.com/basics-ability-scores/glossary#TOC-Hit-Dice-HD-) \+ the creatureâs [Con](https://www.d20pfsrd.com/basics-ability-scores/ability-scores#TOC-Constitution-Con-) modifier; the exact DC is given in the creature’s descriptive text). [Disease](https://www.d20pfsrd.com/gamemastering/afflictions#TOC-Diseases) can be removed through [remove disease](https://www.d20pfsrd.com/magic/all-spells/r/remove-disease) and similar effects.
@@ -450,12 +263,6 @@ When the creature [burrow](https://www.d20pfsrd.com/gamemastering/monsters-foes/
 
 _Format_ : earth glide; _Location_ : Speed.
 
-### Echosense/Echosight [3PP]
-
-[[Source](https://www.opengamingstore.com/products/arcforge-universe-cyclopedia)]
-
-The character detects their environment through the reflection of soundwaves. A character cannot use echosense to distinguish color or visual contrast, meaning that they will not be able to use this sense to perceive any writing or visual images that do not have raised surfaces. Characters can use this sense without being subject to [gaze](https://www.d20pfsrd.com/bestiary/rules-for-monsters/universal-monster-rules#TOC-Gaze-Su-) attacks, blinding, or visual effects when perceiving a target. A character cannot use echosense when they are [deafened](https://www.d20pfsrd.com/gamemastering/conditions#TOC-Deafened) or in a soundless environment such as the vacuum of space. Echosense requires line of effect to function but can reveal living and nonliving material alike. Echosense and echosight can be foiled by illusions with the Illusionary Sound talent and [illusion](https://www.d20pfsrd.com/magic#TOC-Illusion) spells which can create or manipulate sound.
-
 ### Emotion Aura (Su)
 
 **Source** [PRG:OB](http://www.amazon.com/gp/product/1601257678/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1601257678&linkCode=as2&tag=httpwwwd20pfs-20&linkId=NZXU3XBU465PLWZ3)
@@ -482,13 +289,9 @@ Empyreal lords are the greatest members of the [agathion](https://www.d20pfsrd.c
   * _Regeneration (Ex)_ Only epic and evil damage, or damage from a creature of equal or greater power (such as an archdevil, deity, [demon lord](https://www.d20pfsrd.com/bestiary/monster-listings/outsiders/demon/demon-lords), or [protean](https://www.d20pfsrd.com/bestiary/rules-for-monsters/creature-types#TOC-Protean) lord) interrupts an empyreal lord’s [regeneration](https://www.d20pfsrd.com/bestiary/rules-for-monsters/universal-monster-rules/universal-monster-rules#TOC-Regeneration-Ex-).
   * _Seed of Life (Sp)_ An empyreal lord can touch a willing creature and imbue it with magical healing power. The target radiates an aura of good as if it were an [outsider](https://www.d20pfsrd.com/bestiary/rules-for-monsters/creature-types#TOC-Outsider) and gains a +2 [insight bonus](https://www.d20pfsrd.com/basics-ability-scores/glossary#TOC-Insight-Bonus) on all saving throws against negative energy and death effects. As a [standard action](https://www.d20pfsrd.com/gamemastering/combat#TOC-Standard-Actions), the target can release this energy, turning it inward as a [heal](https://www.d20pfsrd.com/magic/all-spells/h/heal) spell upon itself or outward as a [mass cure serious wounds](https://www.d20pfsrd.com/magic/all-spells/c/cure-serious-wounds) spell on allies within 30 feet ([caster level](https://www.d20pfsrd.com/magic#TOC-Caster-Level) 15th). If not released, the energy dissipates harmlessly after 24 hours. The empyreal lord can use this ability 5 times per day, but only on other creatures.
 
-
-
 ### Energy Drain (Su)*
 
   * _Energy Drain (Su)_ This attack saps a living opponent’s vital energy and happens automatically when a melee or ranged attack hits. Each successful energy drain bestows one or more [negative levels](https://www.d20pfsrd.com/gamemastering/special-abilities#TOC-Energy-Drain-and-Negative-Levels) (the creature’s description specifies how many). If an attack that includes an energy drain scores a [critical hit](https://www.d20pfsrd.com/gamemastering/combat#TOC-Critical-Hits), it bestows twice the listed number of [negative levels](https://www.d20pfsrd.com/gamemastering/special-abilities#TOC-Energy-Drain-and-Negative-Levels). Unless otherwise specified in the creature’s description, a draining creature gains 5 [temporary hit points](https://www.d20pfsrd.com/gamemastering/combat#TOC-Temporary-Hit-Points) for each [negative level](https://www.d20pfsrd.com/gamemastering/special-abilities#TOC-Energy-Drain-and-Negative-Levels) it bestows on an opponent. These [temporary hit points](https://www.d20pfsrd.com/gamemastering/combat#TOC-Temporary-Hit-Points) last for a maximum of 1 hour. Negative levels remain until 24 hours have passed or until they are removed with a spell, such as [restoration](https://www.d20pfsrd.com/magic/all-spells/r/restoration). If a [negative level](https://www.d20pfsrd.com/gamemastering/special-abilities#TOC-Energy-Drain-and-Negative-Levels) is not removed before 24 hours have passed, the affected creature must attempt a [Fortitude](https://www.d20pfsrd.com/gamemastering/combat#TOC-Fortitude) save (DC 10 + 1/2 draining creature’s racial HD + draining creature’s [Cha](https://www.d20pfsrd.com/basics-ability-scores/ability-scores#TOC-Charisma-Cha-) modifier; the exact DC is given in the creature’s descriptive text). On a success, the [negative level](https://www.d20pfsrd.com/gamemastering/special-abilities#TOC-Energy-Drain-and-Negative-Levels) goes away with no harm to the creature. On a failure, the [negative level](https://www.d20pfsrd.com/gamemastering/special-abilities#TOC-Energy-Drain-and-Negative-Levels) becomes permanent. A separate saving throw is required for each [negative level](https://www.d20pfsrd.com/gamemastering/special-abilities#TOC-Energy-Drain-and-Negative-Levels).
-
-
 
 _Format_ : energy drain (2 levels, DC 18); _Location_ : Special Attacks and individual attacks.
 
@@ -584,17 +387,9 @@ A creature with this ability can cease or resume flight as a free action. If the
   * Good +4
   * Perfect +8
 
-
-
 Creatures without a maneuverability rating are assumed to have average maneuverability and take no penalty on Fly checks.
 
 _Format_ : fly 30 ft. (average); _Location_ : Speed.
-
-### Fight Through Restriction (Ex) [3PP]
-
-[[Source](https://www.opengamingstore.com/products/arcforge-universe-cyclopedia)]
-
-If the creature has the dual [initiative](https://www.d20pfsrd.com/gamemastering/combat#TOC-Initiative) universal monster ability and would become [dazed](https://www.d20pfsrd.com/gamemastering/conditions#TOC-Dazed), [nauseated](https://www.d20pfsrd.com/gamemastering/conditions#TOC-Nauseated), [paralyzed](https://www.d20pfsrd.com/gamemastering/conditions#TOC-Paralyzed), [petrified](https://www.d20pfsrd.com/gamemastering/conditions#TOC-Petrified), [staggered](https://www.d20pfsrd.com/gamemastering/conditions#TOC-Staggered), or [stunned](https://www.d20pfsrd.com/gamemastering/conditions#TOC-Stunned), it is only affected by this condition on its first [initiative](https://www.d20pfsrd.com/gamemastering/combat#TOC-Initiative) count, acting normally outside of its turn and on its second [initiative](https://www.d20pfsrd.com/gamemastering/combat#TOC-Initiative) count.
 
 ### Formian Traits (Ex or Su)
 
@@ -605,8 +400,6 @@ Formians are a spacefaring race of insectlike creatures from a forest world that
   * _Resistance_ to sonic 10.
   * _Telepathic Caster (Ex)_ Due to a formianâs telepathic nature, if it casts spells it does so as spell-like abilities.
   * _Telepathy_ 60 ft.
-
-
 
 ### Fortification (Ex)
 
@@ -681,8 +474,6 @@ A Horseman is a powerful, unique daemon that rules a major portion of Abaddon an
   * A Horseman can grant spells to its worshipers as if it were a deity. A Horsemanâs domains are Evil and three other domains and four subdomains relevant to its theme and interests. Like a deity, a Horseman has a favored weapon.
   * A Horsemanâs natural weapons, as well as any weapons it wields, are treated as epic and evil for the purpose of overcoming damage reduction.
 
-
-
 ### Immunity (Ex or Su)
 
 A creature with immunities takes no damage from listed sources. Immunities can also apply to afflictions, conditions, spells (based on school, level, or save type), and other effects. A creature that is immune does not suffer from these effects, or any secondary effects that are triggered due to an immune effect.
@@ -703,12 +494,6 @@ An incorporeal creature moves silently and cannot be heard with [Perception](htt
 
 _Format_ : incorporeal; _Location_ : Defensive Abilities.
 
-### Instant Action (Ex) [3PP]
-
-[[Source](https://www.opengamingstore.com/products/arcforge-universe-cyclopedia)]
-
-The creature can spend three uses of [mythic power](https://www.d20pfsrd.com/mythic#TOC-Mythic-Power) to take its turn immediately. Treat this as a [readied](https://www.d20pfsrd.com/gamemastering/combat#TOC-Ready) action, moving the creatureâs [initiative](https://www.d20pfsrd.com/gamemastering/combat#TOC-Initiative) to just before the currently acting creature. The creature may only take a move or a [standard action](https://www.d20pfsrd.com/gamemastering/combat#TOC-Standard-Actions) on this turn. A creature can only use this ability once per round.
-
 ### Jet (Ex)
 
 The creature can swim backward as a full-round action at the listed speed. It must move in a straight line while jetting, and does not provoke [attacks of opportunity](https://www.d20pfsrd.com/gamemastering/combat#TOC-Attacks-of-Opportunity) when it does so.
@@ -720,18 +505,6 @@ _Format_ : jet (200 ft.); _Location_ : Speed.
 The creature can notice other creatures by [scent](https://www.d20pfsrd.com/gamemastering/special-abilities#TOC-Scent) in a 180-foot radius underwater and can detect blood in the water at ranges of up to a mile.
 
 _Format_ : keen scent; _Location_ : Senses.
-
-### Legendary Concentration (Ex) [3PP]
-
-[[Source](https://www.opengamingstore.com/products/arcforge-universe-cyclopedia)]
-
-When the creature rolls a [concentration](https://www.d20pfsrd.com/magic#TOC-Concentration) check, it may spend 2 points of [mythic power](https://www.d20pfsrd.com/mythic#TOC-Mythic-Power) after seeing the result to treat the [concentration](https://www.d20pfsrd.com/magic#TOC-Concentration) as if they had rolled a 13 on the d20.
-
-### Legendary Saving Throw (Ex) [3PP]
-
-[[Source](https://www.opengamingstore.com/products/arcforge-universe-cyclopedia)]
-
-When the creature rolls a saving throw, it may spend 2 points of [mythic power](https://www.d20pfsrd.com/mythic#TOC-Mythic-Power) after seeing the result to treat the saving throw as if they had rolled a 13 on the d20.
 
 ### Lifesense (Su)
 
@@ -763,12 +536,6 @@ In any form, natural lycanthropes can communicate and empathize with [animals](h
 
 _Format_ : lycanthropic empathy (bears and dire bears); _Location_ : Special Qualities.
 
-### Material Sense [3PP]
-
-[[Source](https://www.opengamingstore.com/products/arcforge-universe-cyclopedia)]
-
-The character detects the presence of one or more materials (such as stone, metal, wood, or water) within range as if they could see it. A character can use material sense to distinguish color or visual contrast so long as the distinct [components](https://www.d20pfsrd.com/magic#TOC-Components) are perceptible if one can only see the specific materials sensed (for example, a character who selects [ink](https://www.d20pfsrd.com/equipment/goods-and-services/books-paper-writing-supplies#TOC-Ink) with material sense could read documents written in [ink](https://www.d20pfsrd.com/equipment/goods-and-services/books-paper-writing-supplies#TOC-Ink) but could not see goldfoil illuminations). However, the character is not subject to [gaze](https://www.d20pfsrd.com/bestiary/rules-for-monsters/universal-monster-rules#TOC-Gaze-Su-) attacks, blinding, or visual effects when perceiving a target with only this sense. A character can detect creatures who have the material as part of their body but does need line of effect to detect objects made of the material. Material Sense can be foiled by illusions with the Manipulate Aura talent and [illusion](https://www.d20pfsrd.com/magic#TOC-Illusion) spells which can create or manipulate tangible feelings.
-
 ### Mental Static Aura (Su)
 
 **Source** [PRG:OB](http://www.amazon.com/gp/product/1601257678/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1601257678&linkCode=as2&tag=httpwwwd20pfs-20&linkId=NZXU3XBU465PLWZ3)
@@ -784,12 +551,6 @@ _Format_ : mental static (DC 18); _Location_ : Aura.
 The monster can see through fog, mist, and murky water as if they were perfectly clear, ignoring the miss chance for these obstructions, up to its normal range of [vision](https://www.d20pfsrd.com/magic/all-spells/v/vision).
 
 _Format_ : mistsight; _Location_ : Senses.
-
-### Mythic Durability (Ex) [3PP]
-
-[[Source](https://www.opengamingstore.com/products/arcforge-universe-cyclopedia)]
-
-The creature has twice the number of [hit points](https://www.d20pfsrd.com/gamemastering/combat#TOC-Hit-Points) from [mythic](https://www.d20pfsrd.com/mythic#TOC-Mythic) ranks as normal (for example, an [outsider](https://www.d20pfsrd.com/bestiary/rules-for-monsters/creature-types#TOC-Outsider) with 4 [mythic](https://www.d20pfsrd.com/mythic#TOC-Mythic) ranks would have 80 additional hp rather than 40).
 
 ### Mythic Immortality [MA] (Su)
 
@@ -913,31 +674,11 @@ The monster does not breathe, and is immune to effects that require breathing (s
 
 _Format_ : no breath; _Location_ : Special Qualities.
 
-### Outside Time (Su) [3PP]
-
-[[Source](https://www.opengamingstore.com/products/arcforge-universe-cyclopedia)]
-
-The [mythic](https://www.d20pfsrd.com/mythic#TOC-Mythic) creature is immune to the slow spell and similar effects. Whenever a creature under the effect of [time stop](https://www.d20pfsrd.com/magic/all-spells/t/time-stop) (or a similar effect) comes within 1 mile of the [mythic](https://www.d20pfsrd.com/mythic#TOC-Mythic) creature with this ability, the [mythic](https://www.d20pfsrd.com/mythic#TOC-Mythic) creature instantly gains the ability to act normally during the remaining duration of the effect, allowing the two creatures to interact.
-
 ### Paralysis (Ex or Su)
 
 This special attack renders the victim immobile. Paralyzed creatures cannot move, speak, or take any physical actions. The creature is rooted to the spot, frozen and [helpless](https://www.d20pfsrd.com/gamemastering/conditions#TOC-Helpless). [Paralysis](https://www.d20pfsrd.com/bestiary/rules-for-monsters/universal-monster-rules/universal-monster-rules#TOC-Paralysis-Ex-or-Su-) works on the body, and a character can usually resist it with a [Fortitude](https://www.d20pfsrd.com/gamemastering/combat#TOC-Fortitude) [saving throw](https://www.d20pfsrd.com/gamemastering/combat#TOC-Saving-Throws) (DC 10 + 1/2 the paralyzing creatureâs racial [HD](https://www.d20pfsrd.com/basics-ability-scores/glossary#TOC-Hit-Dice-HD-) \+ the paralyzing creatureâs [Con](https://www.d20pfsrd.com/basics-ability-scores/ability-scores#TOC-Constitution-Con-) modifier; the DC is given in the creatureâs description). Unlike [hold person](https://www.d20pfsrd.com/magic/all-spells/h/hold-person) and similar effects, a [paralysis](https://www.d20pfsrd.com/gamemastering/special-abilities#TOC-Paralysis) effect does not allow a new save each round. A winged creature flying in the air at the time that it is [paralyzed](https://www.d20pfsrd.com/gamemastering/conditions#TOC-Paralyzed) cannot flap its wings and falls. A swimmer canât swim and may drown. The duration of the [paralysis](https://www.d20pfsrd.com/gamemastering/special-abilities#TOC-Paralysis) varies and is included in the creatureâs description.
 
 _Format_ : paralysis (1d4 rounds, DC 18); _Location_ : Special Attacks and individual attacks.
-
-### Planar Knowledge [3PP]
-
-[Source: TOHC]
-
-These powerful entities are attuned to their home plane. They always treat any location as familiar for the purpose of spells and effects such as [teleport](https://www.d20pfsrd.com/magic/all-spells/t/teleport).
-
-_Format_ : **SQ** planar omniscience; **Location** : Special Qualities.
-
-#### Planar Omniscience (Su) [3PP]
-
-[Source: TOHC]
-
-Powerful unique [outsiders](https://www.d20pfsrd.com/bestiary/rules-for-monsters/creature-types#TOC-Outsider), such as [demon lords](https://www.d20pfsrd.com/bestiary/monster-listings/outsiders/demon/demon-lords) and princes, unique [devils](https://www.d20pfsrd.com/bestiary/rules-for-monsters/creature-types#TOC-Devil), and the Oinodaemon have several special abilities that set them above and beyond other such powerful entities. These abilities function only when the creature is on his home plane (defined as any plane or planar layer the creature holds dominion over).
 
 ### Plantbringer [MA] (Su)
 
@@ -1001,12 +742,6 @@ When a creature with this special attack makes a [charge](https://www.d20pfsrd.c
 
 _Format_ : powerful charge (gore, 4d8+24); _Location_ : Special Attacks.
 
-### Primed Action (Ex) [3PP]
-
-[[Source](https://www.opengamingstore.com/products/arcforge-universe-cyclopedia)]
-
-At the start of each combat round, the creature may take a [swift action](https://www.d20pfsrd.com/gamemastering/combat#TOC-Swift-Actions) and any number of free actions.
-
 ### Psychic Magic (Sp)
 
 **Source** [PRG:OB](http://www.amazon.com/gp/product/1601257678/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1601257678&linkCode=as2&tag=httpwwwd20pfs-20&linkId=NZXU3XBU465PLWZ3)
@@ -1041,8 +776,6 @@ A qlippoth lord is a powerful, unique qlippoth that once ruled a region of the A
   * A qlippoth lordâs natural weapons, as well as any weapons it wields, are treated as chaotic, epic, and evil for the purpose of overcoming damage reduction.
   * **Horrific Appearance (Su)** This ability functions similarly to the typical qlippoth ability, save that a qlippoth lordâs horrific appearance creates physical effects and changes in its victims. Despite these physical effects, a qlippoth lordâs horrific appearance remains a mind-affecting effect.
   * Immunity to cold, death effects, mind-affecting effects, and poison.
-
-
 
 ### Rake (Ex)
 
@@ -1091,18 +824,6 @@ This creature is an accomplished rock thrower and has a +1 [racial bonus](https:
 _Format_ : rock throwing (120 ft.); _Location_ : Special Attacks (damage is listed in Ranged attack).
 
 ![](http://d20pfsrd.opengamingnetwork.com/wp-content/uploads/sites/12/2017/01/Clarification-Rock-Hurling.gif)
-
-### Thermal Sense/Thermal Sight [3PP]
-
-[[Source](https://www.opengamingstore.com/products/arcforge-universe-cyclopedia)]
-
-The character detects their environment through thermal discrepancies. A character cannot use thermal sense to distinguish color or visual contrast and is not subject to [gaze](https://www.d20pfsrd.com/bestiary/rules-for-monsters/universal-monster-rules#TOC-Gaze-Su-) attacks, blinding, or visual effects when perceiving a target. A character cannot use thermal sense in areas with [Heat](https://www.d20pfsrd.com/bestiary/rules-for-monsters/universal-monster-rules#TOC-Heat-Ex-) or [Cold](https://www.d20pfsrd.com/bestiary/rules-for-monsters/creature-types#TOC-Cold) of severity 3 or higher (thus having no effect in environments below 40Â° F or above 90Â° F). Thermal sense requires line of effect to function but can reveal living targets and nonliving material alike. Thermal sense or thermal sight can be foiled by illusions with the Illusionary Touch talent and [illusion](https://www.d20pfsrd.com/magic#TOC-Illusion) spells which can create or manipulate perceived temperature.
-
-### Tremorsense/Tremorsight [3PP]
-
-[[Source](https://www.opengamingstore.com/products/arcforge-universe-cyclopedia)]
-
-The character detects their environment through vibrations moving through solid or liquid surfaces. A character cannot use [tremorsense](https://www.d20pfsrd.com/bestiary/rules-for-monsters/universal-monster-rules#TOC-Tremorsense-Ex-) to distinguish color or visual contrast and is not subject to [gaze](https://www.d20pfsrd.com/bestiary/rules-for-monsters/universal-monster-rules#TOC-Gaze-Su-) attacks, blinding, or visual effects when perceiving a target. A character cannot use [tremorsense](https://www.d20pfsrd.com/bestiary/rules-for-monsters/universal-monster-rules#TOC-Tremorsense-Ex-) to detect targets which are not in contact with the same surface or body of liquid as the character. [Tremorsense](https://www.d20pfsrd.com/bestiary/rules-for-monsters/universal-monster-rules#TOC-Tremorsense-Ex-) requires line of effect to function but can reveal living targets and nonliving material alike. [Tremorsense](https://www.d20pfsrd.com/bestiary/rules-for-monsters/universal-monster-rules#TOC-Tremorsense-Ex-) and tremorsight can be foiled by illusions with the Illusionary Touch talent and [illusion](https://www.d20pfsrd.com/magic#TOC-Illusion) spells which can create or manipulate tangible feelings. Additional forms of alternate senses may be available through other means, such as the forms discussed below.
 
 ### Scent (Ex)
 
@@ -1156,12 +877,6 @@ A creature with spell resistance can avoid the effects of spells and [spell-like
 
 _Format_ : **SR** 18; _Location_ : Defensive Abilities.
 
-### Spirit Sense [3PP]
-
-[[Source](https://www.opengamingstore.com/products/arcforge-universe-cyclopedia)]
-
-The character automatically senses the presence of [undead](https://www.d20pfsrd.com/bestiary/rules-for-monsters/creature-types#TOC-Undead); [fey](https://www.d20pfsrd.com/bestiary/rules-for-monsters/creature-types#TOC-Fey); [outsiders](https://www.d20pfsrd.com/bestiary/rules-for-monsters/creature-types#TOC-Outsider); and astral, ethereal, or [incorporeal](https://www.d20pfsrd.com/bestiary/rules-for-monsters/creature-types#TOC-Incorporeal) creatures within range, as if they could see them. A character cannot use spirit sense to distinguish color or visual contrast and is not subject to [gaze](https://www.d20pfsrd.com/bestiary/rules-for-monsters/universal-monster-rules#TOC-Gaze-Su-) attacks, blinding, or visual effects when perceiving a target with only this sense. A character cannot perceive noncreature nonliving material using spirit sense but does need line of effect to detect creatures. Spirit sense can be foiled by illusions with the Manipulate Aura talent and [illusion](https://www.d20pfsrd.com/magic#TOC-Illusion) spells which can create or manipulate magic auras.
-
 ### Split (Ex)
 
 The creature splits into two identical copies of itself if subject to certain attacks or effects. Each copy has half the originalâs current [hit points](https://www.d20pfsrd.com/gamemastering/combat#TOC-Hit-Points) (rounded down). A creature reduced below the listed hit points cannot be further split and can be killed normally.
@@ -1191,12 +906,6 @@ _Format_ : 1/dayâsummon (level 4, 1 hezrou 35%); _Location_ : Spell-Like Ab
 If the creature is in sunlight (but not in an area of [daylight](https://www.d20pfsrd.com/magic/all-spells/d/daylight) or similar spells), it cannot attack and is [staggered](https://www.d20pfsrd.com/gamemastering/conditions#TOC-Staggered).
 
 _Format_ : sunlight powerlessness; _Location_ : Weaknesses.
-
-### Superior Scent/Scentsight [3PP]
-
-[[Source](https://www.opengamingstore.com/products/arcforge-universe-cyclopedia)]
-
-The character detects their environment through a [keen](https://www.d20pfsrd.com/magic-items/magic-weapons/magic-weapon-special-abilities/keen) sense of smell or taste. A character cannot use superior [scent](https://www.d20pfsrd.com/gamemastering/special-abilities#TOC-Scent) to distinguish color or visual contrast and is not subject to [gaze](https://www.d20pfsrd.com/bestiary/rules-for-monsters/universal-monster-rules#TOC-Gaze-Su-) attacks, blinding, or visual effects when perceiving a target. A character cannot use superior [scent](https://www.d20pfsrd.com/gamemastering/special-abilities#TOC-Scent) in an airless environment such as the vacuum of space. Superior [scent](https://www.d20pfsrd.com/gamemastering/special-abilities#TOC-Scent) requires line of effect to function but can reveal living and nonliving material alike. Superior [scent](https://www.d20pfsrd.com/gamemastering/special-abilities#TOC-Scent) or scentsight can be foiled by illusions with the Illusionary Odor talent and [illusion](https://www.d20pfsrd.com/magic#TOC-Illusion) spells which can create or manipulate smell or taste.
 
 ### Surge [MA] (Su)
 
@@ -1234,12 +943,6 @@ Thoughtsense can distinguish between sentient ([Intelligence](https://www.d20pfs
 
 _Format_ : thoughtsense 60 ft.; _Location_ : Senses.
 
-### Touchsight [3PP]
-
-[[Source](https://www.opengamingstore.com/products/arcforge-universe-cyclopedia)]
-
-The character can âfeelâ their surroundings even when sight would otherwise be obscured by your physical environment. They ignore [invisibility](https://www.d20pfsrd.com/magic/all-spells/i/invisibility), [darkness](https://www.d20pfsrd.com/magic/all-spells/d/darkness), and [concealment](https://www.d20pfsrd.com/gamemastering/combat#TOC-Concealment), though they must have line of effect to a creature or an object to discern it. They automatically detect and pinpoint all creatures within range as if you could see them. In many circumstances, comparing regular senses to touchsight is enough to tell you the difference between visible, [invisible](https://www.d20pfsrd.com/gamemastering/conditions#TOC-Invisible), hiding, and concealed creatures. A character cannot use touchsight to distinguish color or visual contrast and is not subject to [gaze](https://www.d20pfsrd.com/bestiary/rules-for-monsters/universal-monster-rules#TOC-Gaze-Su-) attacks, blinding, or visual effects when perceiving a target with only this sense. Touchsight can be foiled by illusions with the Illusionary Touch talent and [illusion](https://www.d20pfsrd.com/magic#TOC-Illusion) spells which can create or manipulate tangible feelings.
-
 ### Trample (Ex)
 
 As a full-round action, a creature with the [trample](https://www.d20pfsrd.com/feats/combat-feats/trample-combat) ability can attempt to [overrun](https://www.d20pfsrd.com/gamemastering/combat#TOC-Overrun) any creature that is at least one size category Smaller than itself. This works just like the [overrun](https://www.d20pfsrd.com/gamemastering/combat#TOC-Overrun) [combat maneuver](https://www.d20pfsrd.com/gamemastering/combat#TOC-Combat-Maneuvers), but the trampling creature does not need to make a check, it merely has to move over opponents in its path. Targets of a [trample](https://www.d20pfsrd.com/feats/combat-feats/trample-combat) take an amount of damage equal to the trampling creatureâs slam damage + 1-1/2 times its [Str](https://www.d20pfsrd.com/basics-ability-scores/ability-scores#TOC-Strength-Str-) modifier. Targets of a [trample](https://www.d20pfsrd.com/feats/combat-feats/trample-combat) can make an [attack of opportunity](https://www.d20pfsrd.com/gamemastering/combat#TOC-Attacks-of-Opportunity), but at a â4 penalty. If targets forgo an [attack of opportunity](https://www.d20pfsrd.com/gamemastering/combat#TOC-Attacks-of-Opportunity), they can attempt to avoid the trampling creature and receive a [Reflex](https://www.d20pfsrd.com/gamemastering/combat#TOC-Reflex) save to take half damage. The save DC against a creatureâs [trample](https://www.d20pfsrd.com/feats/combat-feats/trample-combat) attack is 10 + 1/2 the creatureâs [HD](https://www.d20pfsrd.com/basics-ability-scores/glossary#TOC-Hit-Dice-HD-) \+ the creatureâs [Str](https://www.d20pfsrd.com/basics-ability-scores/ability-scores#TOC-Strength-Str-) modifier (the exact DC is given in the creatureâs descriptive text). A trampling creature can only deal trampling damage to each target once per round, no matter how many times its movement takes it over a target creature.
@@ -1257,12 +960,6 @@ _Format_ : [tremorsense](https://www.d20pfsrd.com/gamemastering/monsters-foes/#T
 A creature with the trip special attack can attempt to [trip](https://www.d20pfsrd.com/gamemastering/combat#TOC-Trip) its opponent as a free action without provoking an [attack of opportunity](https://www.d20pfsrd.com/gamemastering/combat#TOC-Attacks-of-Opportunity) if it hits with the specified attack. If the attempt fails, the creature is not [tripped](https://www.d20pfsrd.com/gamemastering/combat#TOC-Trip) in return.
 
 _Format_ : trip (bite); _Location_ : individual attacks.
-
-### Unbound Action (Ex) [3PP]
-
-[[Source](https://www.opengamingstore.com/products/arcforge-universe-cyclopedia)]
-
-By spending three points of [mythic power](https://www.d20pfsrd.com/mythic#TOC-Mythic-Power) as a [swift action](https://www.d20pfsrd.com/gamemastering/combat#TOC-Swift-Actions), the creature may take all of their actions without provoking [attacks of opportunity](https://www.d20pfsrd.com/gamemastering/combat#TOC-Attacks-of-Opportunity) for 1 round.
 
 ### Undead Traits (Ex)
 
@@ -1331,23 +1028,3 @@ Creatures trapped in the whirlwind cannot move except to go where the whirlwind 
 If the whirlwindâs base touches the ground, it creates a swirling cloud of debris. This cloud is centered on the creature and has a diameter equal to half the whirlwindâs height. The cloud obscures all vision, including [darkvision](https://www.d20pfsrd.com/gamemastering/special-abilities#TOC-Darkvision), beyond 5 feet. Creatures 5 feet away have [concealment](https://www.d20pfsrd.com/gamemastering/combat#TOC-Concealment), while those farther away have total [concealment](https://www.d20pfsrd.com/gamemastering/combat#TOC-Concealment). Those caught in the cloud of debris must succeed on a [concentration](https://www.d20pfsrd.com/magic#TOC-Concentration) check (DC 15 + spell level) to cast a spell.
 
 _Format_ : whirlwind (3/day, 10â30 ft. high, 1d6+6 damage, DC 15); _Location_ : Special Attacks.
-
-#### Discuss!
-
-[Join Our Discord!](https://discord.gg/FPJFPSUpgJ)
-
-#### [![RSS](https://www.d20pfsrd.com/wp-includes/images/rss.png)](https://www.opengamingstore.com/collections/pathfinder/all.atom) [Latest Pathfinder products in the Open Gaming Store](https://www.opengamingstore.com/collections/all)
-
-  * [The Reaping Stone Deluxe Adventure Battlemaps](https://www.opengamingstore.com/products/the-reaping-stone-deluxe-adventure-battlemaps)
-  * [The Reaping Stone Deluxe Adventure](https://www.opengamingstore.com/products/the-reaping-stone-deluxe-adventure)
-  * [Ultimate Pathfinder 1e Bundle - 7 Complete Mega-Bundles (10,000+ Pages)](https://www.opengamingstore.com/products/ultimate-pathfinder-library-complete-publisher-collection-bundle)
-  * [Rhune: Dawn of Twilight Stormpunk Character Primer](https://www.opengamingstore.com/products/rhune-dawn-of-twilight-stormpunk-character-primer)
-  * [The City-States of Vallinar (map)](https://www.opengamingstore.com/products/the-city-states-of-vallinar)
-
-
-
-![scroll to top](https://www.d20pfsrd.com/wp-content/themes/srdtheme/images/Up1Blue.png)
-
-#### Patreon Supporters
-
-[![](https://www.d20pfsrd.com/_/images/Dingles-Games-Patreon.png)](http://www.dinglesgames.com/tools/NPCGenerator/pathfinder/) [![](https://www.d20pfsrd.com/wp-content/uploads/sites/12/2019/02/FWP-Ad.gif)](http://bit.ly/FWPLAUNCH) [![](https://www.d20pfsrd.com/wp-content/uploads/sites/12/2020/06/d20PFSRD-banner.jpg)](https://www.patreon.com/themadcartographer)

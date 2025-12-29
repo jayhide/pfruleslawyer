@@ -1,33 +1,4 @@
-##### [Subscribe to the Open Gaming Network and get everything ad-free!](https://account.opengamingnetwork.com/manage/subscription)
-
-[Home](https://www.d20pfsrd.com/ "Home") >[Gamemastering](https://www.d20pfsrd.com/gamemastering/ "Gamemastering") >
-
 # Special Abilities
-
-Contents
-
-  * Extraordinary Abilities (Ex)
-  * Spell-Like Abilities (Sp)
-  * Supernatural Abilities (Su)
-    * Blindsight
-    * Blindsense
-    * Channel Resistance
-    * Charm and Compulsion
-    * Damage Reduction
-    * Darkvision
-    * Death Attacks
-    * Energy Drain and Negative Levels
-    * Energy Immunity and Vulnerability
-    * Energy Resistance
-    * Ethereal
-    * Fear (Su or Sp)
-    * Invisibility
-    * Low-Light Vision
-    * Paralysis
-    * Scent
-    * Spell Resistance
-
-
 
 The following special abilities include rules commonly used by a number of creatures, spells, and traps.
 
@@ -340,23 +311,3 @@ Magic actually has to be working for spell resistance to apply. Spells that have
 Spell resistance prevents a spell or a [spell-like ability](https://www.d20pfsrd.com/magic/#Spell-Like_Abilities_Sp) from affecting or harming the resistant creature, but it never removes a magical effect from another creature or negates a spell’s effect on another creature. Spell resistance prevents a spell from disrupting another spell.
 
 Against an ongoing spell that has already been cast, a failed check against spell resistance allows the resistant creature to ignore any effect the spell might have. The magic continues to affect others normally.
-
-#### Discuss!
-
-[Join Our Discord!](https://discord.gg/FPJFPSUpgJ)
-
-#### [![RSS](https://www.d20pfsrd.com/wp-includes/images/rss.png)](https://www.opengamingstore.com/collections/pathfinder/all.atom) [Latest Pathfinder products in the Open Gaming Store](https://www.opengamingstore.com/collections/all)
-
-  * [The Reaping Stone Deluxe Adventure Battlemaps](https://www.opengamingstore.com/products/the-reaping-stone-deluxe-adventure-battlemaps)
-  * [The Reaping Stone Deluxe Adventure](https://www.opengamingstore.com/products/the-reaping-stone-deluxe-adventure)
-  * [Ultimate Pathfinder 1e Bundle - 7 Complete Mega-Bundles (10,000+ Pages)](https://www.opengamingstore.com/products/ultimate-pathfinder-library-complete-publisher-collection-bundle)
-  * [Rhune: Dawn of Twilight Stormpunk Character Primer](https://www.opengamingstore.com/products/rhune-dawn-of-twilight-stormpunk-character-primer)
-  * [The City-States of Vallinar (map)](https://www.opengamingstore.com/products/the-city-states-of-vallinar)
-
-
-
-![scroll to top](https://www.d20pfsrd.com/wp-content/themes/srdtheme/images/Up1Blue.png)
-
-#### Patreon Supporters
-
-[![](https://www.d20pfsrd.com/_/images/Dingles-Games-Patreon.png)](http://www.dinglesgames.com/tools/NPCGenerator/pathfinder/) [![](https://www.d20pfsrd.com/wp-content/uploads/sites/12/2019/02/FWP-Ad.gif)](http://bit.ly/FWPLAUNCH) [![](https://www.d20pfsrd.com/wp-content/uploads/sites/12/2020/06/d20PFSRD-banner.jpg)](https://www.patreon.com/themadcartographer)

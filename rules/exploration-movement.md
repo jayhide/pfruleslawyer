@@ -1,60 +1,5 @@
-##### [Subscribe to the Open Gaming Network and get everything ad-free!](https://account.opengamingnetwork.com/manage/subscription)
-
-[Home](https://www.d20pfsrd.com/ "Home") >[Gamemastering](https://www.d20pfsrd.com/gamemastering/ "Gamemastering") >
-
 # Exploration & Movement
 
-Contents
-
-  * Exploration
-    * The Exploration Process
-    * Character Actions
-    * Additional Factors
-    * Exploration Rewards
-    * Creating A Territory
-    * Example Territory: Gnoll Canyon
-      * Gnoll Canyon Territory CR 5
-  * Carrying Capacity
-    * Armor and Encumbrance for Other Base Speeds
-  * Movement
-    * Modes of Movement
-    * Tactical Movement
-    * Local Movement
-    * Overland Movement
-  * Evasion and Pursuit
-  * Exploration
-  * Vision and Light
-    * Bright Light
-    * Normal Light
-    * Dim Light
-    * Darkness
-  * Breaking and Entering
-    * Smashing an Object
-    * Breaking Items
-
-
-
-Carrying Capacity Armor and Encumbrance for Other Base Speeds Movement Tactical Movement  
-Local Movement  
-Overland Movement  
-Evasion and Pursuit |  Exploration Vision and Light Breaking and Entering Smashing an Object  
-Breaking Items |  Tables on this Page Table: Exploration DCs  
-Table: Discovery Score Modifiers  
-Table: Strength, Carrying Capacity, Examples and Descriptions  
-Table: Armor and Encumbrance for Other Base Speeds  
-Table: Encumbrance Effects  
-Table: Movement and Distance  
-Table: Hampered Movement  
-Table: Terrain and Overland Movement  
-Table: Mounts and Vehicles  
-Table: Light Sources and Illumination  
-Table: Size and Armor Class of Objects  
-Table: Substance Hardness and Hit Points  
-Table: DCs to Break or Burst Items  
-Table: Object Hardness and Hit Points  
-Table: Common Armor Weapon and Shield Hardness and Hit Points  
----|---|---  
-  
 ## Exploration
 
 Unspoiled wilderness and uncharted lands represent an opportunity for exploration and the discovery of ancient secrets, lost treasures, natural wonders, and the remote lairs of terrible beasts. As exciting as exploring wilderness can be, the fact that there are no city streets or dungeon walls to guide choices can make running exploration in uncharted wilds a challenge. The rules presented in this section can be used when a group enters such uncharted lands to discover what lies within, and at your discretion can serve as an expansion on the rules for exploration. Brief definitions of terms used in this section are listed below.
@@ -224,8 +169,6 @@ d% | Encounter | CR
 96â100 | 2 ghuls | 7  
   
 ## Carrying Capacity
-
-[ ![](http://d20pfsrd.opengamingnetwork.com/wp-content/uploads/sites/12/2017/01/patreon-jr-1.png) ](https://www.patreon.com/d20pfsrd?ref=d20pfsrd.com)
 
 These carrying capacity rules determine how much a character’s equipment slows him down. Encumbrance comes in two parts: encumbrance by armor and encumbrance by total weight.
 
@@ -647,27 +590,3 @@ Tower shield | 5 | 20
 2 The hp value given is for Medium [armor](https://www.d20pfsrd.com/basics-ability-scores/glossary#TOC-Armor-Bonus), weapons, and shields. Divide by 2 for each size category of the item smaller than Medium, or multiply it by 2 for each size category larger than Medium.  
 3 Add 10 hp for each +1 enhancement bonus of magic items.  
 4 Varies by material; see **Table: Substance Hardness and Hit Points**.
-
-Section 15: Copyright Notice
-
-[Pathfinder RPG Core Rulebook](http://www.amazon.com/gp/product/1601251505/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1601251505&linkCode=as2&tag=httpwwwd20pfs-20 "Pathfinder RPG Core Rulebook"). Copyright 2009, Paizo Publishing, LLC; Author: Jason Bulmahn, based on material by Jonathan Tweet, Monte Cook, and Skip Williams.
-
-#### Discuss!
-
-[Join Our Discord!](https://discord.gg/FPJFPSUpgJ)
-
-#### [![RSS](https://www.d20pfsrd.com/wp-includes/images/rss.png)](https://www.opengamingstore.com/collections/pathfinder/all.atom) [Latest Pathfinder products in the Open Gaming Store](https://www.opengamingstore.com/collections/all)
-
-  * [The Reaping Stone Deluxe Adventure Battlemaps](https://www.opengamingstore.com/products/the-reaping-stone-deluxe-adventure-battlemaps)
-  * [The Reaping Stone Deluxe Adventure](https://www.opengamingstore.com/products/the-reaping-stone-deluxe-adventure)
-  * [Ultimate Pathfinder 1e Bundle - 7 Complete Mega-Bundles (10,000+ Pages)](https://www.opengamingstore.com/products/ultimate-pathfinder-library-complete-publisher-collection-bundle)
-  * [Rhune: Dawn of Twilight Stormpunk Character Primer](https://www.opengamingstore.com/products/rhune-dawn-of-twilight-stormpunk-character-primer)
-  * [The City-States of Vallinar (map)](https://www.opengamingstore.com/products/the-city-states-of-vallinar)
-
-
-
-![scroll to top](https://www.d20pfsrd.com/wp-content/themes/srdtheme/images/Up1Blue.png)
-
-#### Patreon Supporters
-
-[![](https://www.d20pfsrd.com/_/images/Dingles-Games-Patreon.png)](http://www.dinglesgames.com/tools/NPCGenerator/pathfinder/) [![](https://www.d20pfsrd.com/wp-content/uploads/sites/12/2019/02/FWP-Ad.gif)](http://bit.ly/FWPLAUNCH) [![](https://www.d20pfsrd.com/wp-content/uploads/sites/12/2020/06/d20PFSRD-banner.jpg)](https://www.patreon.com/themadcartographer)

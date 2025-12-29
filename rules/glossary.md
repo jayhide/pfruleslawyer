@@ -1,98 +1,4 @@
-##### [Subscribe to the Open Gaming Network and get everything ad-free!](https://account.opengamingnetwork.com/manage/subscription)
-
-[Home](https://www.d20pfsrd.com/ "Home") >[Basics & Ability Scores](https://www.d20pfsrd.com/basics-ability-scores/ "Basics & Ability Scores") >
-
 # Common Terms
-
-  
-
-
-Contents
-
-    * 5-foot Step
-    * Ability Score
-    * Action
-    * Adventure
-    * Aid Another
-    * Alignment
-    * Ally
-    * Armor Class (AC)
-    * At-Will
-    * Base Attack Bonus (BAB)
-    * Base Class
-    * Bonus
-    * Campaign
-    * Campaign Arc
-    * Cantrip
-    * Caster Level (CL)
-    * Caster Level Check
-    * Character Level
-    * Check
-    * Class
-    * Class Level
-    * Combat Maneuver
-    * Combat Maneuver Bonus (CMB)
-    * Combat Maneuver Defense (CMD)
-    * Concentration Check
-    * Core Class
-    * Creature
-    * Critical Hit
-    * Damage
-    * Damage Reduction (DR)
-    * Dice (d4, d6, d8, d10, d12, d20, and d%)
-    * Difficulty Class (DC)
-    * Encounter
-    * Extraordinary Abilities (Ex)
-    * Experience Points (XP)
-    * Feat
-    * Game Master (GM)
-    * Hit Dice (HD)
-    * Hit Points (hp)
-    * Initiative
-    * Language-Dependent
-    * Level
-    * Line of Effect
-    * Line of Sight
-    * Melee Attack
-    * Metagaming
-    * Mind-Affecting
-    * Mindless
-    * Modifier*
-    * Monster
-    * Movement
-    * Multiplying
-    * Natural 1
-    * Natural 20
-    * Nonplayer Character (NPC)
-    * Orison
-    * Penalty
-    * Player Character (Character, PC)
-    * Ranged attack
-    * Rest
-  * Sleeping & Resting Rules (3pp)
-    * Sleep Deprivation
-    * Sleep Deprivation and Madness
-    * Recovering from Sleep Deprivation
-    * Round
-    * Rounding
-    * Saving Throw
-    * Session
-    * Size
-    * Skill
-    * Skill Check
-    * Speed
-    * Spell
-    * Spell-Like Abilities (Sp)
-    * Spell Resistance (SR)
-    * Stacking
-    * Supernatural Abilities (Su)
-    * Take 10
-    * Take 20
-    * Temporary Hit Points
-    * TPK
-    * Turn
-
-
 
 This game uses a number of terms, abbreviations, and definitions in presenting the rules of the game. The following are among the most common.
 
@@ -454,30 +360,6 @@ _Long-term care_ : A character recovers hit points at twice the normal rate if a
 
 Some spellcasting classes, particularly divine spellcasting classes such as clerics, druids, inquisitors (and others), do not need to rest to regain spells but instead regain spells at a set time each day regardless of rest.
 
-### Sleeping & Resting Rules (3pp)
-
-**Source** [Everyman Minis: Sleeping Rules](https://www.opengamingstore.com/products/everyman-minis-sleeping-rules) by Rogue Genius Games
-
-Characters often find themselves unable to maintain regular sleep patterns during the course of adventuring, a condition that quickly leads to significant mental and emotional strain.
-
-Most characters need 8 hours of sleep to every 16 hours of wakefulness, though this often varies differs from creature to creature based on type and subtype. A character doesnât need to get all of its sleep in a single, uninterrupted session. As long as at least half its sleep occurs in a consecutive session, it avoids taking any penalties from sleep deprivation.
-
-#### Sleep Deprivation
-
-A character can stay awake for a number of additional hours beyond its normal waking hours (16 hours for most characters) equal to her [Wisdom](https://www.d20pfsrd.com/basics-ability-scores/ability-scores#TOC-Wisdom-Wis-) bonus without suffering any ill effects.
-
-For each hour that a character remains awake beyond this amount, she must attempt a [Wisdom](https://www.d20pfsrd.com/basics-ability-scores/ability-scores#TOC-Wisdom-Wis-) check (DC 10, +1 for each previous check) or take 1 point of sanity damage (see the sanity rules). Characters who have taken sanity damage from sleep deprivation are drowsy (see below). The severity of this condition is based upon the total amount of sanity damage taken from sleep deprivationâshe has minor drowsiness if she has any amount of sanity damage from sleep deprivation, moderate drowsiness if her sanity damage from sleep deprivation exceeds half her sanity edge, and severe drowsiness if her sanity damage from sleep deprivation exceeds her sanity edge. If a characterâs sanity damage equals or exceeds her sanity score, she becomes comatose (as if she had a [Wisdom](https://www.d20pfsrd.com/basics-ability-scores/ability-scores#TOC-Wisdom-Wis-) score of 0) for 48 hours if at least one-quarter (25%) of that sanity damage is the result of sleep deprivation.
-
-Sanity damage from sleep deprivation can only be recovered by sleeping (see below).
-
-#### Sleep Deprivation and Madness
-
-As with all sources of sanity damage, sleep deprivation can induce madness (see the madness section in Chapter 5 of Pathfinder Roleplaying Game: Horror Adventures). Lesser madness caused by lack of sleep takes the form of delirium, fugue, hallucination, or melancholia, while greater madness takes the form of amnesia, catatonia, psychosomatic loss, or schizophrenia.
-
-#### Recovering from Sleep Deprivation
-
-Sanity damage from sleep deprivation cannot be recovered until the character gets sleep. No magic that restores sanity damage short of [wish](https://www.d20pfsrd.com/magic/all-spells/w/wish) or [miracle](https://www.d20pfsrd.com/magic/all-spells/m/miracle) heals this damage. A character doesnât need to make [Wisdom](https://www.d20pfsrd.com/basics-ability-scores/ability-scores#TOC-Wisdom-Wis-) checks to avoid sanity damage while she is [unconscious](https://www.d20pfsrd.com/gamemastering/conditions#TOC-Unconscious) or sleeping. A character who gains two consecutive nights of good sleep heals a number of points of sanity damage from sleep deprivation equal to her [Wisdom](https://www.d20pfsrd.com/basics-ability-scores/ability-scores#TOC-Wisdom-Wis-) modifier (minimum 0) + 1 point per consecutive good nightâs sleep. A character who has become comatose from sleep deprivation (see above) heals an amount of sanity damage equal to this amount upon waking up, as if she had gotten two nights of good sleep.
-
 #### Round
 
 Combat is measured in rounds. During an individual round, all creatures have a chance to take a turn to act, in order of initiative. A round represents 6 seconds in the game world.
@@ -648,24 +530,4 @@ TPK stands for “Total Party Kill” a sometimes accidental result of a poorly 
 
 #### Turn
 
-In a round, a creature receives one turn, during which it can perform a wide variety of actions. Generally in the course of one turn, a character can perform one [standard](https://www.d20pfsrd.com/gamemastering/combat#TOC-Standard-Actions) action, one [move](https://www.d20pfsrd.com/gamemastering/combat#TOC-Move-Actions) action, one [swift](https://www.d20pfsrd.com/gamemastering/combat#TOC-Swift-Actions) action, and a number of [free](https://www.d20pfsrd.com/gamemastering/combat#TOC-Free-Actions) actions. Less-common combination’s of actions are permissible as well, see [Combat](https://www.d20pfsrd.com/gamemastering/combat) for more details.
-
-#### Discuss!
-
-[Join Our Discord!](https://discord.gg/FPJFPSUpgJ)
-
-#### [![RSS](https://www.d20pfsrd.com/wp-includes/images/rss.png)](https://www.opengamingstore.com/collections/pathfinder/all.atom) [Latest Pathfinder products in the Open Gaming Store](https://www.opengamingstore.com/collections/all)
-
-  * [The Reaping Stone Deluxe Adventure Battlemaps](https://www.opengamingstore.com/products/the-reaping-stone-deluxe-adventure-battlemaps)
-  * [The Reaping Stone Deluxe Adventure](https://www.opengamingstore.com/products/the-reaping-stone-deluxe-adventure)
-  * [Ultimate Pathfinder 1e Bundle - 7 Complete Mega-Bundles (10,000+ Pages)](https://www.opengamingstore.com/products/ultimate-pathfinder-library-complete-publisher-collection-bundle)
-  * [Rhune: Dawn of Twilight Stormpunk Character Primer](https://www.opengamingstore.com/products/rhune-dawn-of-twilight-stormpunk-character-primer)
-  * [The City-States of Vallinar (map)](https://www.opengamingstore.com/products/the-city-states-of-vallinar)
-
-
-
-![scroll to top](https://www.d20pfsrd.com/wp-content/themes/srdtheme/images/Up1Blue.png)
-
-#### Patreon Supporters
-
-[![](https://www.d20pfsrd.com/_/images/Dingles-Games-Patreon.png)](http://www.dinglesgames.com/tools/NPCGenerator/pathfinder/) [![](https://www.d20pfsrd.com/wp-content/uploads/sites/12/2019/02/FWP-Ad.gif)](http://bit.ly/FWPLAUNCH) [![](https://www.d20pfsrd.com/wp-content/uploads/sites/12/2020/06/d20PFSRD-banner.jpg)](https://www.patreon.com/themadcartographer)
+In a round, a creature receives one turn, during which it can perform a wide variety of actions. Generally in the course of one turn, a character can perform one [standard](https://www.d20pfsrd.com/gamemastering/combat#TOC-Standard-Actions) action, one [move](https://www.d20pfsrd.com/gamemastering/combat#TOC-Move-Actions) action, one [swift](https://www.d20pfsrd.com/gamemastering/combat#TOC-Swift-Actions) action, and a number of [free](https://www.d20pfsrd.com/gamemastering/combat#TOC-Free-Actions) actions. Less-common combination's of actions are permissible as well, see [Combat](https://www.d20pfsrd.com/gamemastering/combat) for more details.
