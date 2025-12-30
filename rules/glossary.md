@@ -14,11 +14,11 @@ You may not take a 5-foot step using a form of movement for which you do not hav
 
 #### Ability Score
 
-Each creature has six [ability scores](https://www.d20pfsrd.com/basics-ability-scores/ability-scores): [Strength](https://www.d20pfsrd.com/basics-ability-scores/ability-scores#TOC-Strength-Str-), [Dexterity](https://www.d20pfsrd.com/basics-ability-scores/ability-scores#TOC-Dexterity-Dex-), [Constitution](https://www.d20pfsrd.com/basics-ability-scores/ability-scores#TOC-Constitution-Con-), [Intelligence](https://www.d20pfsrd.com/basics-ability-scores/ability-scores#TOC-Intelligence-Int-), [Wisdom](https://www.d20pfsrd.com/basics-ability-scores/ability-scores#TOC-Wisdom-Wis-), and [Charisma](https://www.d20pfsrd.com/basics-ability-scores/ability-scores#TOC-Charisma-Cha-). These scores represent a creature’s most basic attributes. The higher the score, the more raw potential and talent your character possesses.
+Each creature has six ability scores: Strength, Dexterity, Constitution, Intelligence, Wisdom, and Charisma. These scores represent a creature’s most basic attributes. The higher the score, the more raw potential and talent your character possesses.
 
 #### Action
 
-An action is a discrete measurement of time during a round of combat. Using abilities, casting spells, and making attacks all require actions to perform. There are a number of different kinds of actions, such as a [standard](https://www.d20pfsrd.com/gamemastering/combat#TOC-Standard-Actions) action, [move](https://www.d20pfsrd.com/gamemastering/combat#TOC-Move-Actions) action, [swift](https://www.d20pfsrd.com/gamemastering/combat#TOC-Swift-Actions) action, [free](https://www.d20pfsrd.com/gamemastering/combat#TOC-Free-Actions) action, and [full-round](https://www.d20pfsrd.com/gamemastering/combat#TOC-Full-Round-Actions) action.
+An action is a discrete measurement of time during a round of combat. Using abilities, casting spells, and making attacks all require actions to perform. There are a number of different kinds of actions, such as a standard action, move action, swift action, free action, and full-round action.
 
 #### Adventure
 
@@ -26,11 +26,11 @@ An adventure is a self-contained storyline the PCs experience. An adventure is c
 
 #### Aid Another
 
-“Aid Another” is a way to help someone else on a skill check by making the same kind of skill check in a cooperative effort. If you roll a 10 or higher on your check, the character you’re helping gets a +2 bonus on his or her check. (You can’t take 10 on a skill check to aid another.) In many cases, a character’s help won’t be beneficial, or only a limited number of characters can help at once. In cases where the skill restricts who can achieve certain results, such as trying to open a lock using [Disable Device](https://www.d20pfsrd.com/skills/disable-device), you can’t aid another to grant a bonus to a task that your character couldn’t achieve alone. The GM might impose further restrictions to aiding another on a case-by-case basis as well.
+“Aid Another” is a way to help someone else on a skill check by making the same kind of skill check in a cooperative effort. If you roll a 10 or higher on your check, the character you’re helping gets a +2 bonus on his or her check. (You can’t take 10 on a skill check to aid another.) In many cases, a character’s help won’t be beneficial, or only a limited number of characters can help at once. In cases where the skill restricts who can achieve certain results, such as trying to open a lock using Disable Device, you can’t aid another to grant a bonus to a task that your character couldn’t achieve alone. The GM might impose further restrictions to aiding another on a case-by-case basis as well.
 
 #### Alignment
 
-[Alignment](https://www.d20pfsrd.com/alignment-description/additional-rules) represents a creature’s basic moral and ethical attitude. [Alignment](https://www.d20pfsrd.com/alignment-description/additional-rules) has two components: one describing whether a creature is lawful, neutral, or chaotic, followed by another that describes whether a character is good, neutral, or evil. [Alignment](https://www.d20pfsrd.com/alignment-description/additional-rules)s are usually abbreviated using the first letter of each alignment component, such as LN for lawful neutral or CE for chaotic evil. Creatures that are neutral in both components are denoted by a single âN.â
+Alignment represents a creature’s basic moral and ethical attitude. Alignment has two components: one describing whether a creature is lawful, neutral, or chaotic, followed by another that describes whether a character is good, neutral, or evil. Alignments are usually abbreviated using the first letter of each alignment component, such as LN for lawful neutral or CE for chaotic evil. Creatures that are neutral in both components are denoted by a single âN.â
 
 #### Ally
 
@@ -42,9 +42,9 @@ Do you count as your own ally?
 
 You count as your own ally unless otherwise stated or if doing so would make no sense or be impossible. Thus, “your allies” almost always means the same as “you and your allies.”
 
-#### Armor Class ([AC](https://www.d20pfsrd.com/gamemastering/combat#TOC-Armor-Class))
+#### Armor Class (AC)
 
-All creatures in the game have an [Armor Class](https://www.d20pfsrd.com/gamemastering/combat#TOC-Armor-Class). This score represents how difficult a character is to hit with weapons and some spells, and works much like a [Difficulty Class](https://www.d20pfsrd.com/basics-ability-scores/glossary#TOC-Difficulty-Class-DC-) for attacks. As with other scores, higher is better. This is the target number enemies need to hit you. Your basic AC is 10 + [Dex](https://www.d20pfsrd.com/basics-ability-scores/ability-scores#TOC-Dexterity-Dex-) modifier + armor bonus + shield bonus + spells or magic items that grant an AC bonus. An average unarmored person has an AC of 10. Armor and various abilities can increase this number.
+All creatures in the game have an Armor Class. This score represents how difficult a character is to hit with weapons and some spells, and works much like a Difficulty Class for attacks. As with other scores, higher is better. This is the target number enemies need to hit you. Your basic AC is 10 + Dex modifier + armor bonus + shield bonus + spells or magic items that grant an AC bonus. An average unarmored person has an AC of 10. Armor and various abilities can increase this number.
 
 #### At-Will
 
@@ -52,7 +52,7 @@ Something that is “at-will” can be used an unlimited number of times per day
 
 #### Base Attack Bonus (BAB)
 
-Each creature has a base attack bonus and it represents its skill in combat. As a character gains levels or Hit Dice, his base attack bonus improves. When a creature’s base attack bonus reaches +6, +11, or +16, he receives an additional attack in combat when he takes a full-attack action (which is one type of full-round actionâsee [Combat](https://www.d20pfsrd.com/gamemastering/combat)).
+Each creature has a base attack bonus and it represents its skill in combat. As a character gains levels or Hit Dice, his base attack bonus improves. When a creature’s base attack bonus reaches +6, +11, or +16, he receives an additional attack in combat when he takes a full-attack action (which is one type of full-round actionâsee Combat).
 
 #### Base Class
 
@@ -62,7 +62,7 @@ A class that progresses from level 1-20 with no special prerequisites.
 
 Bonuses are numerical values that are added to checks and statistical scores. Most bonuses have a type, and as a general rule, bonuses of the same type are not cumulative (do not âstackâ)âonly the greater bonus granted applies.
 
-The important aspect of bonus types is that two bonuses of the same type don’t generally stack. With the exception of [dodge bonuses](https://www.d20pfsrd.com/gamemastering/combat#dodge-bonus), **most** circumstance bonuses, and racial bonuses, only the better bonus of a given type works. Bonuses without a type always stack, **unless they are from the same source**.
+The important aspect of bonus types is that two bonuses of the same type don’t generally stack. With the exception of dodge bonuses, **most** circumstance bonuses, and racial bonuses, only the better bonus of a given type works. Bonuses without a type always stack, **unless they are from the same source**.
 
 Editor’s Note
 
@@ -70,28 +70,28 @@ The “can affect” part of the table is for purposes of creating more balanced
 
 Table: Bonus Types and Effects Bonus Type | Description | Can Affect | Sample Item | Sample Spell  
 ---|---|---|---|---  
-Alchemical | An **alchemical bonus** is granted by the use of a non-magical, alchemical substance such as [antitoxin](https://www.d20pfsrd.com/equipment/goods-and-services/herbs-oils-other-substances#TOC-Antitoxin). | Ability scores, saves | [Antitoxin](https://www.d20pfsrd.com/equipment/goods-and-services/herbs-oils-other-substances#TOC-Antitoxin) | â  
-Armor | An **armor bonus** applies to [armor class](https://www.d20pfsrd.com/basics-ability-scores/glossary#35TOC-Armor-Class-AC-) and is granted by armor or by a spell or magical effect that mimics armor. Armor bonuses stack with all other bonuses to [armor class](https://www.d20pfsrd.com/basics-ability-scores/glossary#35TOC-Armor-Class-AC-) (even with [natural armor](https://www.d20pfsrd.com/basics-ability-scores/glossary#TOC-Natural-Armor-Bonus) bonuses) except other armor bonuses. An [armor bonus](https://www.d20pfsrd.com/basics-ability-scores/glossary#TOC-Armor-Bonus) doesn’t apply against [touch](https://www.d20pfsrd.com/gamemastering/combat#TOC-Touch-Attacks) attacks, except for armor bonuses granted by force effects (such as the [_mage armor_](https://www.d20pfsrd.com/magic/all-spells/m/mage-armor) spell) which apply against incorporeal touch attacks, such as that of a [shadow](https://www.d20pfsrd.com/bestiary/monster-listings/undead/shadow). | AC | [Bracers of armor](https://www.d20pfsrd.com/magic-items/wondrous-items/wondrous-items/a-b/bracers-of-armor) | [Mage armor](https://www.d20pfsrd.com/magic/all-spells/m/mage-armor)  
-Base Attack Bonus (BAB)* | This number is a modifier added to your [attack rolls](https://www.d20pfsrd.com/gamemastering/combat#TOC-Attack-Roll). A higher number means you’re better at combat. | +++ | +++ | +++  
-Circumstance | A **circumstance bonus** (or penalty) arises from specific conditional factors impacting the success of the task at hand. Circumstance bonuses stack with all other bonuses, including other circumstance bonuses, unless they arise from essentially the same source. | Attacks, checks | [Robe of blending](https://www.d20pfsrd.com/magic-items/wondrous-items/wondrous-items/r-z/robe-of-blending) | â  
-Competence | A **competence bonus** (or penalty) affects a character’s performance of a particular task, as in the case of the bardic ability to [inspire competence](https://www.d20pfsrd.com/classes/core-classes/bard#TOC-Inspire-Competence-Su-). Multiple competence bonuses don’t stack; only the highest bonus applies. | Attacks, checks, saves | [Boots of elvenkind](https://www.d20pfsrd.com/magic-items/wondrous-items/wondrous-items/a-b/boots-of-elvenkind) | [Guidance](https://www.d20pfsrd.com/magic/all-spells/g/guidance)  
-Deflection | A **deflection bonus** affects [armor class](https://www.d20pfsrd.com/basics-ability-scores/glossary#35TOC-Armor-Class-AC-) and is granted by a spell or magic effect that makes attacks veer off harmlessly. Deflection bonuses stack with all other bonuses to [AC](https://www.d20pfsrd.com/basics-ability-scores/glossary#35TOC-Armor-Class-AC-) except other deflection bonuses. A deflection bonus applies against [touch](https://www.d20pfsrd.com/gamemastering/combat#TOC-Touch-Attacks) attacks. | AC | Ring of protection | â  
-Dodge | A **dodge bonus** improves [armor class](https://www.d20pfsrd.com/basics-ability-scores/glossary#35TOC-Armor-Class-AC-) (and sometimes [Reflex](https://www.d20pfsrd.com/gamemastering/combat#35TOC-Reflex) saves) resulting from physical skill at avoiding blows and other ill effects. Dodge bonuses are  never 1 usually not granted by spells or magic items. Any situation or effect (except wearing armor) that negates a character’s [Dexterity](https://www.d20pfsrd.com/basics-ability-scores/ability-scores#35TOC-Dexterity-Dex-) bonus also negates any dodge bonuses the character may have. Dodge bonuses stack with all other bonuses to [AC](https://www.d20pfsrd.com/basics-ability-scores/glossary#35TOC-Armor-Class-AC-), even other dodge bonuses. Dodge bonuses apply against [touch](https://www.d20pfsrd.com/gamemastering/combat#TOC-Touch-Attacks) attacks. | AC | Never* | Never*  
-Enhancement | An **enhancement bonus** represents an increase in the sturdiness and/or effectiveness of armor or [natural armor](https://www.d20pfsrd.com/basics-ability-scores/glossary#TOC-Natural-Armor-Bonus), or the effectiveness of a weapon, or a general bonus to an ability score. Multiple enhancement bonuses on the same object (in the case of armor and weapons), creature (in the case of [natural armor](https://www.d20pfsrd.com/basics-ability-scores/glossary#TOC-Natural-Armor-Bonus)), or ability score do not stack. Only the highest [enhancement bonus](https://www.d20pfsrd.com/basics-ability-scores/glossary#TOC-Enhancement-Bonus) applies. Since enhancement bonuses to armor or [natural armor](https://www.d20pfsrd.com/basics-ability-scores/glossary#TOC-Natural-Armor-Bonus) effectively increase the armor or natural armor’s bonus to [AC](https://www.d20pfsrd.com/basics-ability-scores/glossary#35TOC-Armor-Class-AC-), they don’t apply against [touch](https://www.d20pfsrd.com/gamemastering/combat#TOC-Touch-Attacks) attacks. | Ability scores, AC, attacks, damage, speed | [Belt of giant strength](https://www.d20pfsrd.com/magic-items/wondrous-items/wondrous-items/a-b/belt-of-giant-strength) | [Magic weapon](https://www.d20pfsrd.com/magic/all-spells/m/magic-weapon)  
-Inherent | â | Ability scores | Manual of bodily health | [Wish](https://www.d20pfsrd.com/magic/all-spells/w/wish)  
-Insight | An **insight bonus** improves performance of a given activity by granting the character an almost precognitive knowledge of what might occur. Multiple insight bonuses on the same character or object do not stack. Only the highest insight bonus applies. | AC, attacks, checks, saves | [Ioun stone](https://www.d20pfsrd.com/magic-items/wondrous-items/wondrous-items/h-l/ioun-stones) | [True strike](https://www.d20pfsrd.com/magic/all-spells/t/true-strike)  
-Luck | A **luck bonus** represents good (or bad) fortune. Multiple luck bonuses on the same character or object do not stack. Only the highest luck bonus applies. | AC, attacks, checks, damage, saves | Stone of good luck | [Divine favor](https://www.d20pfsrd.com/magic/all-spells/d/divine-favor)  
-Morale | A **morale bonus** represents the effects of greater hope, courage, and determination (or hopelessness, cowardice, and despair in the case of a morale penalty). Multiple morale bonuses on the same character do not stack. Only the highest morale bonus applies. Non-intelligent creatures (creatures with an [Intelligence](https://www.d20pfsrd.com/basics-ability-scores/ability-scores#35TOC-Intelligence-Int-) of 0 or no [Intelligence](https://www.d20pfsrd.com/basics-ability-scores/ability-scores#35TOC-Intelligence-Int-) at all) cannot benefit from morale bonuses. | Attacks, checks, damage, saves, [Str](https://www.d20pfsrd.com/basics-ability-scores/ability-scores#TOC-Strength-Str-), [Con](https://www.d20pfsrd.com/basics-ability-scores/ability-scores#TOC-Constitution-Con-), [Dex](https://www.d20pfsrd.com/basics-ability-scores/ability-scores#TOC-Dexterity-Dex-) | [Candle of invocation](https://www.d20pfsrd.com/magic-items/wondrous-items/wondrous-items/c-d/candle-of-invocation) | [Bless](https://www.d20pfsrd.com/magic/all-spells/b/bless)  
-Natural Armor | A **natural armor bonus** improves [armor class](https://www.d20pfsrd.com/basics-ability-scores/glossary#35TOC-Armor-Class-AC-) resulting from a creature’s naturally tough hide. Natural armor bonuses stack with all other bonuses to [armor class](https://www.d20pfsrd.com/basics-ability-scores/glossary#35TOC-Armor-Class-AC-) (even with armor bonuses) except other [natural armor](https://www.d20pfsrd.com/basics-ability-scores/glossary#TOC-Natural-Armor-Bonus) bonuses. Some magical effects (such as the [_barkskin_](https://www.d20pfsrd.com/magic/all-spells/b/barkskin) spell) grant an [enhancement bonus](https://www.d20pfsrd.com/basics-ability-scores/glossary#TOC-Enhancement-Bonus) to the creature’s existing natural armor bonus, which has the effect of increasing the natural armor’s overall bonus to [armor class](https://www.d20pfsrd.com/basics-ability-scores/glossary#35TOC-Armor-Class-AC-). A natural armor bonus doesn’t apply against [touch](https://www.d20pfsrd.com/gamemastering/combat#TOC-Touch-Attacks) attacks. | AC | [Amulet of natural armor](https://www.d20pfsrd.com/magic-items/wondrous-items/wondrous-items/a-b/amulet-of-natural-armor) | [Barkskin](https://www.d20pfsrd.com/magic/all-spells/b/barkskin)  
-Profane | A **profane bonus** (or penalty) stems from the power of evil. Multiple profane bonuses on the same character or object do not stack. Only the highest profane bonus applies. | AC, checks, damage, DCs, saves | â | [Desecrate](https://www.d20pfsrd.com/magic/all-spells/d/desecrate)  
+Alchemical | An **alchemical bonus** is granted by the use of a non-magical, alchemical substance such as antitoxin. | Ability scores, saves | Antitoxin | â  
+Armor | An **armor bonus** applies to armor class and is granted by armor or by a spell or magical effect that mimics armor. Armor bonuses stack with all other bonuses to armor class (even with natural armor bonuses) except other armor bonuses. An armor bonus doesn’t apply against touch attacks, except for armor bonuses granted by force effects (such as the _mage armor_ spell) which apply against incorporeal touch attacks, such as that of a shadow. | AC | Bracers of armor | Mage armor  
+Base Attack Bonus (BAB)* | This number is a modifier added to your attack rolls. A higher number means you’re better at combat. | +++ | +++ | +++  
+Circumstance | A **circumstance bonus** (or penalty) arises from specific conditional factors impacting the success of the task at hand. Circumstance bonuses stack with all other bonuses, including other circumstance bonuses, unless they arise from essentially the same source. | Attacks, checks | Robe of blending | â  
+Competence | A **competence bonus** (or penalty) affects a character’s performance of a particular task, as in the case of the bardic ability to inspire competence. Multiple competence bonuses don’t stack; only the highest bonus applies. | Attacks, checks, saves | Boots of elvenkind | Guidance  
+Deflection | A **deflection bonus** affects armor class and is granted by a spell or magic effect that makes attacks veer off harmlessly. Deflection bonuses stack with all other bonuses to AC except other deflection bonuses. A deflection bonus applies against touch attacks. | AC | Ring of protection | â  
+Dodge | A **dodge bonus** improves armor class (and sometimes Reflex saves) resulting from physical skill at avoiding blows and other ill effects. Dodge bonuses are  never 1 usually not granted by spells or magic items. Any situation or effect (except wearing armor) that negates a character’s Dexterity bonus also negates any dodge bonuses the character may have. Dodge bonuses stack with all other bonuses to AC, even other dodge bonuses. Dodge bonuses apply against touch attacks. | AC | Never* | Never*  
+Enhancement | An **enhancement bonus** represents an increase in the sturdiness and/or effectiveness of armor or natural armor, or the effectiveness of a weapon, or a general bonus to an ability score. Multiple enhancement bonuses on the same object (in the case of armor and weapons), creature (in the case of natural armor), or ability score do not stack. Only the highest enhancement bonus applies. Since enhancement bonuses to armor or natural armor effectively increase the armor or natural armor’s bonus to AC, they don’t apply against touch attacks. | Ability scores, AC, attacks, damage, speed | Belt of giant strength | Magic weapon  
+Inherent | â | Ability scores | Manual of bodily health | Wish  
+Insight | An **insight bonus** improves performance of a given activity by granting the character an almost precognitive knowledge of what might occur. Multiple insight bonuses on the same character or object do not stack. Only the highest insight bonus applies. | AC, attacks, checks, saves | Ioun stone | True strike  
+Luck | A **luck bonus** represents good (or bad) fortune. Multiple luck bonuses on the same character or object do not stack. Only the highest luck bonus applies. | AC, attacks, checks, damage, saves | Stone of good luck | Divine favor  
+Morale | A **morale bonus** represents the effects of greater hope, courage, and determination (or hopelessness, cowardice, and despair in the case of a morale penalty). Multiple morale bonuses on the same character do not stack. Only the highest morale bonus applies. Non-intelligent creatures (creatures with an Intelligence of 0 or no Intelligence at all) cannot benefit from morale bonuses. | Attacks, checks, damage, saves, Str, Con, Dex | Candle of invocation | Bless  
+Natural Armor | A **natural armor bonus** improves armor class resulting from a creature’s naturally tough hide. Natural armor bonuses stack with all other bonuses to armor class (even with armor bonuses) except other natural armor bonuses. Some magical effects (such as the _barkskin_ spell) grant an enhancement bonus to the creature’s existing natural armor bonus, which has the effect of increasing the natural armor’s overall bonus to armor class. A natural armor bonus doesn’t apply against touch attacks. | AC | Amulet of natural armor | Barkskin  
+Profane | A **profane bonus** (or penalty) stems from the power of evil. Multiple profane bonuses on the same character or object do not stack. Only the highest profane bonus applies. | AC, checks, damage, DCs, saves | â | Desecrate  
 Racial | A **racial bonus** comes from the culture a particular creature was brought up in or because of innate characteristics of that type of creature. If a creature’s race changes (for instance, if it dies and is reincarnated), it loses all racial bonuses it had in its previous form. | â | ?? | ??  
-Resistance | A **resistance bonus** affects saving throws, providing extra protection against harm. Multiple resistance bonuses on the same character or object do not stack. Only the highest resistance bonus applies. | Saves | [Cloak of resistance](https://www.d20pfsrd.com/magic-items/wondrous-items/wondrous-items/c-d/cloak-of-resistance) | [Mind blank](https://www.d20pfsrd.com/magic/all-spells/m/mind-blank)  
-Sacred | A **sacred bonus** (or penalty) stems from the power of good. Multiple sacred bonuses on the same character or object do not stack. Only the highest sacred bonus applies. | AC, checks, damage, DCs, saves | â | [Consecrate](https://www.d20pfsrd.com/magic/all-spells/c/consecrate)  
-Shield | A **shield bonus** improves [armor class](https://www.d20pfsrd.com/basics-ability-scores/glossary#35TOC-Armor-Class-AC-) and is granted by a shield or by a spell or magic effect that mimics a shield. Shield bonuses stack with all other bonuses to [AC](https://www.d20pfsrd.com/basics-ability-scores/glossary#35TOC-Armor-Class-AC-) except other shield bonuses. A magic shield typically grants an [enhancement bonus](https://www.d20pfsrd.com/basics-ability-scores/glossary#TOC-Enhancement-Bonus) to the shield’s shield bonus, which has the effect of increasing the shield’s overall bonus to [AC](https://www.d20pfsrd.com/basics-ability-scores/glossary#35TOC-Armor-Class-AC-). A shield bonus granted by a spell or magic item typically takes the form of an [invisible](https://www.d20pfsrd.com/gamemastering/conditions#TOC-Invisible), tangible field of force that protects the recipient. A shield bonus doesn’t apply against [touch](https://www.d20pfsrd.com/gamemastering/combat#TOC-Touch-Attacks) attacks. | AC | Ring of force shield | [Shield](https://www.d20pfsrd.com/magic/all-spells/s/shield)  
-Size | A **size bonus** or penalty is derived from a creature’s size category. Size modifiers of different kinds apply to [armor class](https://www.d20pfsrd.com/basics-ability-scores/glossary#35TOC-Armor-Class-AC-), [attack rolls](https://www.d20pfsrd.com/gamemastering/combat#TOC-Attack-Roll), [Stealth](https://www.d20pfsrd.com/skills/stealth) checks, [combat maneuver](https://www.d20pfsrd.com/gamemastering/combat#TOC-Combat-Maneuvers) checks, and various other checks. | Ability scores, attacks, AC | â | [Enlarge person](https://www.d20pfsrd.com/magic/all-spells/e/enlarge-person)  
-Trait | A **trait bonus** is a bonus granted via a [character trait](https://www.d20pfsrd.com/traits). Character traits are an optional additional character defining feature like feats but less powerful (typically about half as strong as a feat.) As with other named bonuses, trait bonuses do not “stack” with other trait bonuses. | â | â | â  
+Resistance | A **resistance bonus** affects saving throws, providing extra protection against harm. Multiple resistance bonuses on the same character or object do not stack. Only the highest resistance bonus applies. | Saves | Cloak of resistance | Mind blank  
+Sacred | A **sacred bonus** (or penalty) stems from the power of good. Multiple sacred bonuses on the same character or object do not stack. Only the highest sacred bonus applies. | AC, checks, damage, DCs, saves | â | Consecrate  
+Shield | A **shield bonus** improves armor class and is granted by a shield or by a spell or magic effect that mimics a shield. Shield bonuses stack with all other bonuses to AC except other shield bonuses. A magic shield typically grants an enhancement bonus to the shield’s shield bonus, which has the effect of increasing the shield’s overall bonus to AC. A shield bonus granted by a spell or magic item typically takes the form of an invisible, tangible field of force that protects the recipient. A shield bonus doesn’t apply against touch attacks. | AC | Ring of force shield | Shield  
+Size | A **size bonus** or penalty is derived from a creature’s size category. Size modifiers of different kinds apply to armor class, attack rolls, Stealth checks, combat maneuver checks, and various other checks. | Ability scores, attacks, AC | â | Enlarge person  
+Trait | A **trait bonus** is a bonus granted via a character trait. Character traits are an optional additional character defining feature like feats but less powerful (typically about half as strong as a feat.) As with other named bonuses, trait bonuses do not “stack” with other trait bonuses. | â | â | â  
   
-* Spells and magic items should never grant dodge bonuses because dodge bonuses always stack, and it would be a simple matter to stack various low-power items or spells with small dodge bonuses and get an incredibly high armor class more cheaply than by achieving that AC using the [armor](https://www.d20pfsrd.com/basics-ability-scores/glossary#TOC-Armor-Bonus), deflection, enhancement, and natural armor bonuses in the game.
+* Spells and magic items should never grant dodge bonuses because dodge bonuses always stack, and it would be a simple matter to stack various low-power items or spells with small dodge bonuses and get an incredibly high armor class more cheaply than by achieving that AC using the armor, deflection, enhancement, and natural armor bonuses in the game.
 
 #### Campaign
 
@@ -111,7 +111,7 @@ Caster level represents a creature’s power and ability when casting spells. Wh
 
 #### Caster Level Check
 
-A Caster Level Check is made by rolling 1d20 and adding the caster level of the character or creature casting the spell. Many spells (such as [_dispel magic_](https://www.d20pfsrd.com/magic/all-spells/d/dispel-magic), [_nondetection_](https://www.d20pfsrd.com/magic/all-spells/n/nondetection), [_planar binding_](https://www.d20pfsrd.com/magic/all-spells/p/planar-binding), [_remove curse_](https://www.d20pfsrd.com/magic/all-spells/r/remove-curse), and many more) require or include Caster Level Checks to function.
+A Caster Level Check is made by rolling 1d20 and adding the caster level of the character or creature casting the spell. Many spells (such as _dispel magic_, _nondetection_, _planar binding_, _remove curse_, and many more) require or include Caster Level Checks to function.
 
 #### Character Level
 
@@ -123,7 +123,7 @@ A check is a d20 roll which may or may not be modified by another value. The mos
 
 #### Class
 
-Classes represent chosen professions taken by characters and some other creatures. Classes give a host of bonuses and allow characters to take actions that they otherwise could not, such as casting spells or changing shape. As a creature gains levels in a given class, it gains new, more powerful abilities. Most PCs gain levels in the [core classes](https://www.d20pfsrd.com/classes/core-classes) or [prestige classes](https://www.d20pfsrd.com/classes/prestige-classes), since these are the most powerful. Most NPCs gain levels in [NPC Classes](https://www.d20pfsrd.com/classes/npc-classes), which are less powerful.
+Classes represent chosen professions taken by characters and some other creatures. Classes give a host of bonuses and allow characters to take actions that they otherwise could not, such as casting spells or changing shape. As a creature gains levels in a given class, it gains new, more powerful abilities. Most PCs gain levels in the core classes or prestige classes, since these are the most powerful. Most NPCs gain levels in NPC Classes, which are less powerful.
 
 #### Class Level
 
@@ -131,23 +131,23 @@ The level of a character in a particular class. For a character with levels in o
 
 #### Combat Maneuver
 
-This is an action taken in combat that does not directly cause harm to your opponent, such as attempting to [Trip](https://www.d20pfsrd.com/gamemastering/combat#TOC-Trip) him, [Disarm](https://www.d20pfsrd.com/gamemastering/combat#TOC-Disarm) him, or [Grapple](https://www.d20pfsrd.com/gamemastering/combat#TOC-Grapple) with him.
+This is an action taken in combat that does not directly cause harm to your opponent, such as attempting to Trip him, Disarm him, or Grapple with him.
 
-#### Combat Maneuver Bonus (CMB**)**
+#### Combat Maneuver Bonus (CMB)
 
-[Combat Maneuver Bonus](https://www.d20pfsrd.com/gamemastering/combat#TOC-Combat-Maneuver-Bonus) represents how skilled a creature is at performing a [combat maneuver](https://www.d20pfsrd.com/gamemastering/combat#TOC-Combat-Maneuvers). When attempting to perform a [combat maneuver](https://www.d20pfsrd.com/gamemastering/combat#TOC-Combat-Maneuvers), this value is added to the character’s d20 roll.
+Combat Maneuver Bonus represents how skilled a creature is at performing a combat maneuver. When attempting to perform a combat maneuver, this value is added to the character’s d20 roll.
 
-#### Combat Maneuver Defense (CMD**)**
+#### Combat Maneuver Defense (CMD)
 
-[Combat Maneuver Defense](https://www.d20pfsrd.com/gamemastering/combat#TOC-Combat-Maneuver-Defense) represents how hard it is to perform a [combat maneuver](https://www.d20pfsrd.com/gamemastering/combat#TOC-Combat-Maneuvers) against this creature. A creature’s [CMD](https://www.d20pfsrd.com/gamemastering/combat#TOC-Combat-Maneuver-Defense) is used as the difficulty class when performing a [maneuver](https://www.d20pfsrd.com/gamemastering/combat#TOC-Combat-Maneuvers) against that creature.
+Combat Maneuver Defense represents how hard it is to perform a combat maneuver against this creature. A creature’s CMD is used as the difficulty class when performing a maneuver against that creature.
 
 #### Concentration Check
 
-When a creature is casting a spell, but is disrupted during the casting, he must make a [concentration](https://www.d20pfsrd.com/magic#TOC-Concentration) check or fail to cast the spell.
+When a creature is casting a spell, but is disrupted during the casting, he must make a concentration check or fail to cast the spell.
 
 #### Core Class
 
-One of the standard classes found in [Classes](https://www.d20pfsrd.com/classes).
+One of the standard classes found in Classes.
 
 #### Creature
 
@@ -155,23 +155,23 @@ A creature is an active participant in the story or world. This includes PCs, NP
 
 #### Critical Hit
 
-When you make an attack roll and get a natural 20 (the d20 shows 20), you hit regardless of your target’s [Armor Class](https://www.d20pfsrd.com/gamemastering/combat#TOC-Armor-Class), and you have scored a âthreat,â meaning the hit might be a critical hit (or âcritâ). To find out if it’s a critical hit, you immediately make an attempt to âconfirmâ the critical hitâanother attack roll with all the same modifiers as the attack roll you just made. If the confirmation roll also results in a hit against the target’s [AC](https://www.d20pfsrd.com/gamemastering/combat#TOC-Armor-Class), your original hit is a critical hit. (The critical roll just needs to hit to give you a crit, it doesn’t need to come up 20 again.) If the confirmation roll is a miss, then your hit is just a regular hit.
+When you make an attack roll and get a natural 20 (the d20 shows 20), you hit regardless of your target’s Armor Class, and you have scored a âthreat,â meaning the hit might be a critical hit (or âcritâ). To find out if it’s a critical hit, you immediately make an attempt to âconfirmâ the critical hitâanother attack roll with all the same modifiers as the attack roll you just made. If the confirmation roll also results in a hit against the target’s AC, your original hit is a critical hit. (The critical roll just needs to hit to give you a crit, it doesn’t need to come up 20 again.) If the confirmation roll is a miss, then your hit is just a regular hit.
 
 #### Damage
 
-Damage is determined by rolling the dice listed with the weapon. Melee weapons deal their listed damage + [Strength](https://www.d20pfsrd.com/basics-ability-scores/ability-scores#TOC-Strength-Str-) modifier. Ranged weapons usually do only their listed damage. Some weapons gain additional bonuses from magic or other effects. Spells do their listed damage.
+Damage is determined by rolling the dice listed with the weapon. Melee weapons deal their listed damage + Strength modifier. Ranged weapons usually do only their listed damage. Some weapons gain additional bonuses from magic or other effects. Spells do their listed damage.
 
 Editor’s Note
 
-The following information was compiled from multiple places for ease of reference. The text below is only meant as an aid to understanding various aspects of the different damage types. If you see or believe you see an error, please let us know by reporting it using the [Report a Problem link](../trouble) in the left menu sidebar.
+The following information was compiled from multiple places for ease of reference. The text below is only meant as an aid to understanding various aspects of the different damage types. If you see or believe you see an error, please let us know by reporting it using the Report a Problem link in the left menu sidebar.
 
 **Damage Types** : There are many “types” of damage. Here are some of the more common forms:
 
 Weapon/Natural Attacks
 
-Weapon/[natural attacks](https://www.d20pfsrd.com/bestiary/rules-for-monsters/universal-monster-rules#TOC-Natural-Attacks) typically deal hit point (hp) damage and as such can be reduced by [damage reduction](https://www.d20pfsrd.com/gamemastering/special-abilities#TOC-Damage-Reduction).
+Weapon/natural attacks typically deal hit point (hp) damage and as such can be reduced by damage reduction.
 
-  * **Bludgeoning** : Bludgeoning damage is typically caused by blunt objects such as clubs, hammers, boulders, or [natural attacks](https://www.d20pfsrd.com/bestiary/rules-for-monsters/universal-monster-rules#TOC-Natural-Attacks) that are blunt in nature. Some spells that summon or conjure solid objects may also say the damage the spell deals is bludgeoning damage. A monsters slam attacks usually deal bludgeoning damage.
+  * **Bludgeoning** : Bludgeoning damage is typically caused by blunt objects such as clubs, hammers, boulders, or natural attacks that are blunt in nature. Some spells that summon or conjure solid objects may also say the damage the spell deals is bludgeoning damage. A monsters slam attacks usually deal bludgeoning damage.
   * **Piercing** : Piercing damage is typically dealt by physical attacks that stab or thrust. A monster’s gore or sting attacks usually deal piercing damage.
   * **Slashing** : Slashing damage is typically caused by sharp-edged weapons or natural physical attacks that cut. A monsters claws and talons usually deal slashing damage.
 
@@ -179,48 +179,48 @@ Weapon/[natural attacks](https://www.d20pfsrd.com/bestiary/rules-for-monsters/un
 
 Energy Damage
 
-Energy damage is typically dealt by spells (usually [evocation](https://www.d20pfsrd.com/magic#TOC-Evocation) spells such as [fireball](https://www.d20pfsrd.com/magic/all-spells/f/fireball) or [cone of cold](https://www.d20pfsrd.com/magic/all-spells/c/cone-of-cold)) and typically deals hit point (hp) damage, but unlike damage dealt by weapons or [natural attacks](https://www.d20pfsrd.com/bestiary/rules-for-monsters/universal-monster-rules#TOC-Natural-Attacks), [damage reduction](https://www.d20pfsrd.com/gamemastering/special-abilities#TOC-Damage-Reduction) usually is not effective against it. Instead, a creature typically must have [energy resistance](https://www.d20pfsrd.com/gamemastering/special-abilities#TOC-Energy-Resistance) to reduce the amount of damage it takes from one of these sources.
+Energy damage is typically dealt by spells (usually evocation spells such as fireball or cone of cold) and typically deals hit point (hp) damage, but unlike damage dealt by weapons or natural attacks, damage reduction usually is not effective against it. Instead, a creature typically must have energy resistance to reduce the amount of damage it takes from one of these sources.
 
-Spells or effects with any of the [descriptors](https://www.d20pfsrd.com/magic#TOC-Descriptor-) [acid], [cold], [electricity], [fire], or [sonic] typically deal energy damage. [Energy resistance](https://www.d20pfsrd.com/gamemastering/special-abilities#TOC-Energy-Resistance) is usually effective against these types of energy damage.
+Spells or effects with any of the descriptors [acid], [cold], [electricity], [fire], or [sonic] typically deal energy damage. Energy resistance is usually effective against these types of energy damage.
 
 Special Damage Types
 
-  * **Ability Damage** : [Ability damage](https://www.d20pfsrd.com/bestiary/rules-for-monsters/universal-monster-rules#TOC-Ability-Damage-and-Drain-Ex-or-Su-) is a special type of damage that applies to a creatures ability scores, not to its [hit points](https://www.d20pfsrd.com/gamemastering/combat#TOC-Hit-Points) as most other damage types do. When a creature takes [ability damage](https://www.d20pfsrd.com/basics-ability-scores/ability-scores#TOC-Ability-Score-Damage) it applies a penalty to all skills and other checks which are normally affected or modified by that ability score. Diseases, poisons, spells, and other abilities can all deal [ability damage](https://www.d20pfsrd.com/basics-ability-scores/ability-scores#TOC-Ability-Score-Damage). This damage does not actually reduce an ability, but it does apply a penalty to the skills and statistics that are based on that ability. Damage reduction is not effective against [ability damage](https://www.d20pfsrd.com/basics-ability-scores/ability-scores#TOC-Ability-Score-Damage) because [damage reduction](https://www.d20pfsrd.com/gamemastering/special-abilities#TOC-Damage-Reduction) reduces the number of [hit points](https://www.d20pfsrd.com/gamemastering/combat#TOC-Hit-Points) of damage an attack deals whereas [ability damage](https://www.d20pfsrd.com/basics-ability-scores/ability-scores#TOC-Ability-Score-Damage) is not hp (hit point) damage.
-  * **Nonlethal** : Nonlethal damage is typically dealt by blunt [natural attacks](https://www.d20pfsrd.com/bestiary/rules-for-monsters/universal-monster-rules#TOC-Natural-Attacks) such as fists. Unlike weapon or [natural attacks](https://www.d20pfsrd.com/bestiary/rules-for-monsters/universal-monster-rules#TOC-Natural-Attacks), [nonlethal damage](https://www.d20pfsrd.com/gamemastering/combat#TOC-Nonlethal-Damage) does not reduce a creatures current [hit points](https://www.d20pfsrd.com/gamemastering/combat#TOC-Hit-Points) (hp) but instead is tracked separately. When the amount of [nonlethal damage](https://www.d20pfsrd.com/gamemastering/combat#TOC-Nonlethal-Damage) a creature has taken equals its current [hit points](https://www.d20pfsrd.com/gamemastering/combat#TOC-Hit-Points) it gains the [staggered](https://www.d20pfsrd.com/gamemastering/conditions#TOC-Staggered) condition. When the amount of [nonlethal damage](https://www.d20pfsrd.com/gamemastering/combat#TOC-Nonlethal-Damage) a creature has taken exceeds its current [hit points](https://www.d20pfsrd.com/gamemastering/combat#TOC-Hit-Points) it gains the [unconscious](https://www.d20pfsrd.com/gamemastering/conditions#TOC-Unconscious) condition. Nonlethal damage is healed (recovered) much more quickly than hit point (hp) damage.
-  * **Precision Damage** : Precision damage is a special type of damage, which might more appropriately be called a “category” of damage because any of the other damage types listed here might also be considered “precision” damage under the right circumstances. Precision damage is usually dealt by classes like the [rogue](https://www.d20pfsrd.com/classes/core-classes/rogue) when he is able to catch an opponent unable to fully protect itself. Precision damage assumes that the target has a somewhat normal anatomy or at least has a physical form which might have weak spots which could be detected or taken advantage of. Previous editions of this game limited what sorts of creatures are vulnerable to precision damage more than this one does. This was a deliberate change to make a key class feature of classes like the [rogue](https://www.d20pfsrd.com/classes/core-classes/rogue) more frequently usable. Attacks which affect areas (such as [splash weapons](https://www.d20pfsrd.com/gamemastering/combat#TOC-Throw-Splash-Weapon)) usually do not deal precision damage.
-  * **Positive and Negative Energy** : Negative energy attacks a creatures life force and is typically dealt by [undead](https://www.d20pfsrd.com/bestiary/rules-for-monsters/creature-types#TOC-Undead) or necromantic effects. Positive energy instills a surge of life energy which typically heals living creatures but damages [undead](https://www.d20pfsrd.com/bestiary/rules-for-monsters/creature-types#TOC-Undead) creatures. While it is referred to as “energy” [energy resistance](https://www.d20pfsrd.com/gamemastering/special-abilities#TOC-Energy-Resistance) typically isn’t effective against either of these types of energy.
+  * **Ability Damage** : Ability damage is a special type of damage that applies to a creatures ability scores, not to its hit points as most other damage types do. When a creature takes ability damage it applies a penalty to all skills and other checks which are normally affected or modified by that ability score. Diseases, poisons, spells, and other abilities can all deal ability damage. This damage does not actually reduce an ability, but it does apply a penalty to the skills and statistics that are based on that ability. Damage reduction is not effective against ability damage because damage reduction reduces the number of hit points of damage an attack deals whereas ability damage is not hp (hit point) damage.
+  * **Nonlethal** : Nonlethal damage is typically dealt by blunt natural attacks such as fists. Unlike weapon or natural attacks, nonlethal damage does not reduce a creatures current hit points (hp) but instead is tracked separately. When the amount of nonlethal damage a creature has taken equals its current hit points it gains the staggered condition. When the amount of nonlethal damage a creature has taken exceeds its current hit points it gains the unconscious condition. Nonlethal damage is healed (recovered) much more quickly than hit point (hp) damage.
+  * **Precision Damage** : Precision damage is a special type of damage, which might more appropriately be called a “category” of damage because any of the other damage types listed here might also be considered “precision” damage under the right circumstances. Precision damage is usually dealt by classes like the rogue when he is able to catch an opponent unable to fully protect itself. Precision damage assumes that the target has a somewhat normal anatomy or at least has a physical form which might have weak spots which could be detected or taken advantage of. Previous editions of this game limited what sorts of creatures are vulnerable to precision damage more than this one does. This was a deliberate change to make a key class feature of classes like the rogue more frequently usable. Attacks which affect areas (such as splash weapons) usually do not deal precision damage.
+  * **Positive and Negative Energy** : Negative energy attacks a creatures life force and is typically dealt by undead or necromantic effects. Positive energy instills a surge of life energy which typically heals living creatures but damages undead creatures. While it is referred to as “energy” energy resistance typically isn’t effective against either of these types of energy.
 
 
 
 #### Damage Reduction (DR)
 
-Creatures that are resistant to harm typically have [damage reduction](https://www.d20pfsrd.com/gamemastering/special-abilities#TOC-Damage-Reduction). This amount is subtracted from any damage dealt to them from a physical source. Most types of [DR](https://www.d20pfsrd.com/gamemastering/special-abilities#TOC-Damage-Reduction) can be bypassed by certain types of weapons. This is denoted by a â/â followed by the type, such as â10/cold iron.â Some types of [DR](https://www.d20pfsrd.com/gamemastering/special-abilities#TOC-Damage-Reduction) apply to all physical attacks. Such [DR](https://www.d20pfsrd.com/gamemastering/special-abilities#TOC-Damage-Reduction) is denoted by the âââ symbol. See [Special Abilities](https://www.d20pfsrd.com/gamemastering/special-abilities) for more information.
+Creatures that are resistant to harm typically have damage reduction. This amount is subtracted from any damage dealt to them from a physical source. Most types of DR can be bypassed by certain types of weapons. This is denoted by a â/â followed by the type, such as â10/cold iron.â Some types of DR apply to all physical attacks. Such DR is denoted by the âââ symbol. See Special Abilities for more information.
 
 #### Dice (d4, d6, d8, d10, d12, d20, and d%)
 
-When the lowercase letter d is followed by a number, it refers to a die with that many sides. For example, a d6 is a six-sided die, and a d20 is a 20-sided die. Sometimes you roll multiple [dice](https://www.d20pfsrd.com/equipment/goods-and-services/toys-games-puzzles#TOC-Dice) and add them together; in these cases, the number of [dice](https://www.d20pfsrd.com/equipment/goods-and-services/toys-games-puzzles#TOC-Dice) goes in front of the âdâ and the type of die goes after it. For example, 4d6 means âroll four six-sided [dice](https://www.d20pfsrd.com/equipment/goods-and-services/toys-games-puzzles#TOC-Dice) and add them together.â See Roleplaying [Dice](https://www.d20pfsrd.com/equipment/goods-and-services/toys-games-puzzles#TOC-Dice) on page 8 for more on this.
+When the lowercase letter d is followed by a number, it refers to a die with that many sides. For example, a d6 is a six-sided die, and a d20 is a 20-sided die. Sometimes you roll multiple dice and add them together; in these cases, the number of dice goes in front of the âdâ and the type of die goes after it. For example, 4d6 means âroll four six-sided dice and add them together.â See Roleplaying Dice on page 8 for more on this.
 
 #### Difficulty Class (DC)
 
-Whenever a creature attempts to perform an action whose success is not guaranteed, he must make some sort of check (usually a skill check). The result of that check must meet or exceed the Difficulty Class of the action that the creature is attempting to perform in order for the action to be successful. Climbing a slippery wall, dropping [prone](https://www.d20pfsrd.com/gamemastering/conditions#TOC-Prone) to avoid [dragon](https://www.d20pfsrd.com/bestiary/rules-for-monsters/creature-types#TOC-Dragon) breath, and gaining a suspicious guard’s trust all have their own DCs that are determined by the GM. The higher the DC, the more difficult the challenge.
+Whenever a creature attempts to perform an action whose success is not guaranteed, he must make some sort of check (usually a skill check). The result of that check must meet or exceed the Difficulty Class of the action that the creature is attempting to perform in order for the action to be successful. Climbing a slippery wall, dropping prone to avoid dragon breath, and gaining a suspicious guard’s trust all have their own DCs that are determined by the GM. The higher the DC, the more difficult the challenge.
 
 #### Encounter
 
 An encounter is a short scene in which the PCs are actively doing something. Examples of encounters include a combat with a monster, a social interaction significant to the adventureâs plot, an attempt to disarm a trap, or the discovery of a mystery or clue requiring further investigation.
 
-#### Extraordinary Abilities (**Ex)**
+#### Extraordinary Abilities (Ex)
 
-[Extraordinary abilities](https://www.d20pfsrd.com/gamemastering/special-abilities#TOC-Extraordinary-Abilities-Ex-) are unusual abilities that do not rely on magic to function. They are not something that just anyone can do or even learn to do without extensive training. Effects or areas that suppress or negate magic have no effect on extraordinary abilities.
+Extraordinary abilities are unusual abilities that do not rely on magic to function. They are not something that just anyone can do or even learn to do without extensive training. Effects or areas that suppress or negate magic have no effect on extraordinary abilities.
 
-#### Experience Points (**XP)**
+#### Experience Points (XP)
 
 As a character overcomes challenges, defeats monsters, and completes quests, he gains experience points. These points accumulate over time, and when they reach or surpass a specific value, the character gains a level.
 
 #### Feat
 
-A [feat](https://www.d20pfsrd.com/feats) is an ability a creature has mastered. [Feats](https://www.d20pfsrd.com/feats) often allow creatures to circumvent rules or restrictions. Creatures receive a number of [feats](https://www.d20pfsrd.com/feats) based off their Hit Dice, but some classes and other abilities grant bonus [feats](https://www.d20pfsrd.com/feats).
+A feat is an ability a creature has mastered. Feats often allow creatures to circumvent rules or restrictions. Creatures receive a number of feats based off their Hit Dice, but some classes and other abilities grant bonus feats.
 
-#### Game Master (**GM)**
+#### Game Master (GM)
 
 A Game Master is the person who adjudicates the rules and controls all of the elements of the story and world that the players explore. A GM’s duty is to provide a fair and fun game. The gameâs storyteller, referee, and director.
 
@@ -230,7 +230,7 @@ Hit Dice represent a creature’s general level of power and skill. As a creatur
 
 #### Hit Points (hp)
 
-Hit points are an abstraction signifying how robust and healthy a creature is at the current moment. To determine a creature’s hit points, roll the dice indicated by its Hit Dice. A creature gains maximum hit points if its first Hit Die roll is for a character class level. Creatures whose first Hit Die comes from an NPC class or from his race roll their first Hit Die normally. Wounds subtract hit points, while healing (both natural and magical) restores hit points. Some abilities and spells grant temporary hit points that disappear after a specific duration. When a creature’s hit points drop below 0, it becomes unconscious. When a creature’s hit points reach a negative total equal to its [Constitution](https://www.d20pfsrd.com/basics-ability-scores/ability-scores#TOC-Constitution-Con-) score, it dies.
+Hit points are an abstraction signifying how robust and healthy a creature is at the current moment. To determine a creature’s hit points, roll the dice indicated by its Hit Dice. A creature gains maximum hit points if its first Hit Die roll is for a character class level. Creatures whose first Hit Die comes from an NPC class or from his race roll their first Hit Die normally. Wounds subtract hit points, while healing (both natural and magical) restores hit points. Some abilities and spells grant temporary hit points that disappear after a specific duration. When a creature’s hit points drop below 0, it becomes unconscious. When a creature’s hit points reach a negative total equal to its Constitution score, it dies.
 
 #### Initiative
 
@@ -252,7 +252,7 @@ A line of effect is a straight, unblocked path that indicates what a spell can a
 
 #### Line of Sight
 
-A line of sight is the same as a **Line of Effect** but with the additional restriction that that it is blocked by fog, darkness, and other factors that limit normal sight (such as [Concealment](https://www.d20pfsrd.com/gamemastering/combat#TOC-Concealment)).
+A line of sight is the same as a **Line of Effect** but with the additional restriction that that it is blocked by fog, darkness, and other factors that limit normal sight (such as Concealment).
 
 #### Melee Attack
 
@@ -264,19 +264,19 @@ This is when characters act on information that they donât have access to, 
 
 #### Mind-Affecting
 
-[Enchantment](https://www.d20pfsrd.com/magic#TOC-Enchantment) spells affect the minds of others, influencing or controlling their behavior. A mind-affecting spell works only against creatures with an [Intelligence](https://www.d20pfsrd.com/basics-ability-scores/ability-scores#TOC-Intelligence-Int-) score of 1 or higher.
+Enchantment spells affect the minds of others, influencing or controlling their behavior. A mind-affecting spell works only against creatures with an Intelligence score of 1 or higher.
 
-All [enchantments](https://www.d20pfsrd.com/magic#TOC-Enchantment), [illusion](https://www.d20pfsrd.com/magic#TOC-Illusion) (patterns), and [illusion](https://www.d20pfsrd.com/magic#TOC-Illusion) (phantasms) are mind-affecting.
+All enchantments, illusion (patterns), and illusion (phantasms) are mind-affecting.
 
-See [Magic](https://www.d20pfsrd.com/magic) for additional details.
+See Magic for additional details.
 
 #### Mindless
 
-A creature with no [Intelligence](https://www.d20pfsrd.com/basics-ability-scores/ability-scores#TOC-Intelligence-Int-) score. [Constructs](https://www.d20pfsrd.com/bestiary/rules-for-monsters/creature-types#TOC-Construct), most [oozes](https://www.d20pfsrd.com/bestiary/rules-for-monsters/creature-types#TOC-Ooze), some [plants](https://www.d20pfsrd.com/bestiary/rules-for-monsters/creature-types#TOC-Plant), some [undead](https://www.d20pfsrd.com/bestiary/rules-for-monsters/creature-types#TOC-Undead), and most [vermin](https://www.d20pfsrd.com/bestiary/rules-for-monsters/creature-types#TOC-Vermin) are mindless.
+A creature with no Intelligence score. Constructs, most oozes, some plants, some undead, and most vermin are mindless.
 
 #### Modifier*
 
-This is a number added to a die roll or a number on your character sheet. For example, your [attack roll](https://www.d20pfsrd.com/gamemastering/combat#TOC-Attack-Roll) might have a modifier of +5, meaning that when you make an attack, you add 5 to the number you roll on the d20 die to get your result (thus, a 12 on the die would count as a 17, and so on). A bonus is a modifier that is +0 or higher; a penalty is one that’s â1 or lower.
+This is a number added to a die roll or a number on your character sheet. For example, your attack roll might have a modifier of +5, meaning that when you make an attack, you add 5 to the number you roll on the d20 die to get your result (thus, a 12 on the die would count as a 17, and so on). A bonus is a modifier that is +0 or higher; a penalty is one that’s â1 or lower.
 
 #### Monster
 
@@ -300,7 +300,7 @@ A natural 20 (the d20 comes up 20) is always a hit. A natural 20 is also a Criti
 
 #### Nonplayer Character (NPC)
 
-This is a character played by the [Gamemaster](https://www.d20pfsrd.com/basics-ability-scores/glossary#TOC-Game-Master-GM-) (not one of the other players), such as a city guard or innkeeper, or even a monster such as a [goblin](https://www.d20pfsrd.com/races/other-races/featured-races/arg-goblin).
+This is a character played by the Gamemaster (not one of the other players), such as a city guard or innkeeper, or even a monster such as a goblin.
 
 #### Orison
 
@@ -310,7 +310,7 @@ This is a character played by the [Gamemaster](https://www.d20pfsrd.com/basics-a
 
 Penalties are numerical values that are subtracted from a check or statistical score. Penalties do not have a type and most penalties stack with one another.
 
-#### Player Character (Character, **PC)**
+#### Player Character (Character, PC)
 
 This is a character directly controlled by one of the playersâtypically a hero of the story you’re playing.
 
@@ -322,13 +322,13 @@ An attack with a projectile weapon, such as a bow and arrow. A basic ranged atta
 
 Editor’s Note
 
-Characters who do not get a full night’s sleep may suffer the effects of fatigue. If a PC does not get at least 6 hours of sleep, she must make a DC 15 [Fortitude](https://www.d20pfsrd.com/gamemastering/combat/#TOC-Fortitude) save or be fatigued and take a â1 penalty on all other checks and saving throws against sleep effects. A second night without sleep requires another DC 15 [Fortitude](https://www.d20pfsrd.com/gamemastering/combat/#TOC-Fortitude) save. A failed save results in the character becoming exhausted and the penalties increasing to â2. A third failed save on the next night increases the penalties to â3.
+Characters who do not get a full night’s sleep may suffer the effects of fatigue. If a PC does not get at least 6 hours of sleep, she must make a DC 15 Fortitude save or be fatigued and take a â1 penalty on all other checks and saving throws against sleep effects. A second night without sleep requires another DC 15 Fortitude save. A failed save results in the character becoming exhausted and the penalties increasing to â2. A third failed save on the next night increases the penalties to â3.
 
-**Source** [PAP44](http://www.amazon.com/gp/product/1601253095/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1601253095&linkCode=as2&tag=httpwwwd20pfs-20)
+**Source** PAP44
 
 The core rules are somewhat vague on the requirements of resting and sleeping so the following is an extrapolation of existing rules combined with rules taken from d20srd.org combined with a bit of our own personal ideas. Use at your discretion.
 
-The core rules clearly indicate that the only types of creatures that do not sleep are [constructs](https://www.d20pfsrd.com/bestiary/rules-for-monsters/creature-types#35TOC-Construct), [oozes](https://www.d20pfsrd.com/bestiary/rules-for-monsters/creature-types#35TOC-Ooze), [plants](https://www.d20pfsrd.com/bestiary/rules-for-monsters/creature-types#35TOC-Plant) and [undead](https://www.d20pfsrd.com/bestiary/rules-for-monsters/creature-types#35TOC-Undead). Most other creature types must rest on a somewhat regular cycle. There are specific examples that do not, such as [elementals](https://www.d20pfsrd.com/bestiary/rules-for-monsters/creature-types#TOC-Elemental). The exact required duration of that rest is unclear as well as the consequences of having less than the required amount of rest.
+The core rules clearly indicate that the only types of creatures that do not sleep are constructs, oozes, plants and undead. Most other creature types must rest on a somewhat regular cycle. There are specific examples that do not, such as elementals. The exact required duration of that rest is unclear as well as the consequences of having less than the required amount of rest.
 
 We think it is reasonable that most creatures must rest for approximately 1/3 of every day, which in most worlds translates to roughly 8 hours per day.
 
@@ -336,25 +336,25 @@ For most creatures _resting_ means _sleeping_. In some worlds some races can gai
 
 In any case, these are the actual benefits of rest, per the core rules.
 
-**Armor Note** : A creature that rests or sleeps in medium or heavier armor gains the [fatigued](https://www.d20pfsrd.com/gamemastering/conditions#35TOC-Fatigued) condition if they do not possess either the [Endurance](https://www.d20pfsrd.com/feats/general-feats/endurance) feat or some other class or race ability which allows them to sleep in such uncomfortable gear.
+**Armor Note** : A creature that rests or sleeps in medium or heavier armor gains the fatigued condition if they do not possess either the Endurance feat or some other class or race ability which allows them to sleep in such uncomfortable gear.
 
 Duration of Rest | HP Recovery | Ability Damage | Conditions | Magic  
 ---|---|---|---|---  
-1 hour (complete rest) | – | – | [Exhausted](https://www.d20pfsrd.com/gamemastering/conditions#35TOC-Exhausted) reduced to [fatigued](https://www.d20pfsrd.com/gamemastering/conditions#35TOC-Fatigued) | –  
-8 hours | 1 hp x character level | 1 point for each affected ability | [Fatigued](https://www.d20pfsrd.com/gamemastering/conditions#35TOC-Fatigued) reduced to nothing. | Prepare arcane spells normally  
+1 hour (complete rest) | – | – | Exhausted reduced to fatigued | –  
+8 hours | 1 hp x character level | 1 point for each affected ability | Fatigued reduced to nothing. | Prepare arcane spells normally  
 24 hours | 2 hp x character level | 2 points for each affected ability | – | –  
   
-**HP Recovery** : Eight hours of normal rest allows a character to recover 1 hp per character level. A [disabled](https://www.d20pfsrd.com/gamemastering/conditions#35TOC-Disabled) character that is not aided by another can attempt a DC 10 [Constitution](https://www.d20pfsrd.com/basics-ability-scores/ability-scores#35TOC-Constitution-Con-) check after resting for 8 hours, to begin recovering [hit points](https://www.d20pfsrd.com/gamemastering/combat#35TOC-Hit-Points) naturally (see the [disabled](https://www.d20pfsrd.com/gamemastering/conditions#35TOC-Disabled) condition for additional rules.)
+**HP Recovery** : Eight hours of normal rest allows a character to recover 1 hp per character level. A disabled character that is not aided by another can attempt a DC 10 Constitution check after resting for 8 hours, to begin recovering hit points naturally (see the disabled condition for additional rules.)
 
 Twenty-four (24) hours of complete rest allows a character to recover 2 hp per character level.
 
-_Long-term care_ : A character recovers hit points at twice the normal rate if attended to by a character who successfully uses the [Heal](https://www.d20pfsrd.com/skills/heal) skill to provide “long term care.”
+_Long-term care_ : A character recovers hit points at twice the normal rate if attended to by a character who successfully uses the Heal skill to provide “long term care.”
 
-**House Rule** : A common house rule is to allow recovery of hit points from resting to also include the characters [Constitution](https://www.d20pfsrd.com/basics-ability-scores/ability-scores#35TOC-Constitution-Con-) bonus. So, a character that has rested normally overnight would recover 1 hp per character level + his [Con](https://www.d20pfsrd.com/basics-ability-scores/ability-scores#35TOC-Constitution-Con-) bonus.
+**House Rule** : A common house rule is to allow recovery of hit points from resting to also include the characters Constitution bonus. So, a character that has rested normally overnight would recover 1 hp per character level + his Con bonus.
 
-**Ability Damage** : Eight hours of normal rest restores 1 point to each ability score that has been [damaged](https://www.d20pfsrd.com/basics-ability-scores/ability-scores#35TOC-Ability-Score-Damage). Twenty-four (24) hours of complete rest restores 2 points to each ability score that has been [damaged](https://www.d20pfsrd.com/basics-ability-scores/ability-scores#35TOC-Ability-Score-Damage).
+**Ability Damage** : Eight hours of normal rest restores 1 point to each ability score that has been damaged. Twenty-four (24) hours of complete rest restores 2 points to each ability score that has been damaged.
 
-**Conditions** : One hour spent in complete rest reduces the [exhausted](https://www.d20pfsrd.com/gamemastering/conditions#35TOC-Exhausted) condition to the [fatigued](https://www.d20pfsrd.com/gamemastering/conditions#35TOC-Fatigued) condition. Eight hours of complete rest eliminates the [fatigued](https://www.d20pfsrd.com/gamemastering/conditions#35TOC-Fatigued) condition.
+**Conditions** : One hour spent in complete rest reduces the exhausted condition to the fatigued condition. Eight hours of complete rest eliminates the fatigued condition.
 
 **Magic** : For classes that prepare arcane spells, rest is extremely important. If rest is interrupted, each interruption adds 1 hour to the total amount of time the character has to rest and the character must have at least 1 hour of uninterrupted rest immediately prior to preparing spells. If the character does not need to sleep for some reason, he still must have 8 hours of restful calm before preparing any spells.
 
@@ -370,7 +370,7 @@ Occasionally the rules ask you to round a result or value. Unless otherwise stat
 
 #### Saving Throw
 
-When a creature is the subject of a dangerous spell or effect, it often receives a saving throw to mitigate the damage or result. Saving throws are passive, meaning that a character does not need to take an action to make a saving throwâthey are made automatically. There are three types of saving throws: [Fortitude](https://www.d20pfsrd.com/gamemastering/combat#TOC-Fortitude) (used to resist poisons, diseases, and other bodily ailments), [Reflex](https://www.d20pfsrd.com/gamemastering/combat#TOC-Reflex) (used to avoid effects that target an entire area, such as [_fireball_](https://www.d20pfsrd.com/magic/all-spells/f/fireball)), and [Will](https://www.d20pfsrd.com/gamemastering/combat#TOC-Will) (used to resist mental attacks and spells).
+When a creature is the subject of a dangerous spell or effect, it often receives a saving throw to mitigate the damage or result. Saving throws are passive, meaning that a character does not need to take an action to make a saving throwâthey are made automatically. There are three types of saving throws: Fortitude (used to resist poisons, diseases, and other bodily ailments), Reflex (used to avoid effects that target an entire area, such as _fireball_), and Will (used to resist mental attacks and spells).
 
 Saving throws are also sometimes just referred to as saves, as in “ _What is your Reflex Save?_ “.
 
@@ -380,13 +380,13 @@ A session is a single bout of gaming. Not every session ties up an adventure; ma
 
 #### Size
 
-A creatures size comes up frequently. Find below some very commonly referenced information. See page [Size, Reach, & Threatened Areas](https://www.d20pfsrd.com/gamemastering/combat/space-reach-threatened-area-templates) for some examples and diagrams.
+A creatures size comes up frequently. Find below some very commonly referenced information. See page Size, Reach, & Threatened Areas for some examples and diagrams.
 
 Creature Size | Size   
 Modifier14 | Special Size   
 Modifier2 | Size Modifier to   
-[Fly](https://www.d20pfsrd.com/skills/fly)4 | Size Modifier to   
-[Stealth](https://www.d20pfsrd.com/skills/stealth)4 | Space | Natural   
+Fly4 | Size Modifier to   
+Stealth4 | Space | Natural   
 Reach3 | Typical   
 Height/Length3 | Typical   
 Weight3  
@@ -428,36 +428,36 @@ Base Land Speed
 
 Base land speed is your unencumbered speed. Base land speed is calculated by applying all modifiers to your characterâs speed with the exception of armor or encumbrance adjustments or any effect that modifies your ânormal speedâ.
 
-In example, Kraag is a [half-orc](https://www.d20pfsrd.com/races/core-races/half-orc) barbarian wearing light armor and calculates his speed as follows:
+In example, Kraag is a half-orc barbarian wearing light armor and calculates his speed as follows:
 
-_Total base land speed_ : 40â (30â [half-orc](https://www.d20pfsrd.com/races/core-races/half-orc) base speed; +10â [barbarian](https://www.d20pfsrd.com/classes/core-classes/barbarian) in light or medium [armor](https://www.d20pfsrd.com/basics-ability-scores/glossary#TOC-Armor-Bonus), untyped bonus for Fast Movement class feature)
+_Total base land speed_ : 40â (30â half-orc base speed; +10â barbarian in light or medium armor, untyped bonus for Fast Movement class feature)
 
 Full Speed
 
-Your speed after calculating your normal speed and applying all other adjustments that affect your normal speed is your full speed. In most circumstances, your full speed is the same as your normal speed. Some effects modify normal speed however do not specifically add to its total, such as the _[haste](https://www.d20pfsrd.com/magic/all-spells/h/haste)_ spell. This newly modified speed is your full speed.
+Your speed after calculating your normal speed and applying all other adjustments that affect your normal speed is your full speed. In most circumstances, your full speed is the same as your normal speed. Some effects modify normal speed however do not specifically add to its total, such as the _haste_ spell. This newly modified speed is your full speed.
 
-In example, Kraag a [half-orc](https://www.d20pfsrd.com/races/core-races/half-orc) [barbarian](https://www.d20pfsrd.com/classes/core-classes/barbarian), wearing hide armor (medium armor) has just had _[haste](https://www.d20pfsrd.com/magic/all-spells/h/haste)_ cast on him. Kraag calculates his speed as follows:
+In example, Kraag a half-orc barbarian, wearing hide armor (medium armor) has just had _haste_ cast on him. Kraag calculates his speed as follows:
 
-_Total base land speed_ : 40â (30â [half-orc](https://www.d20pfsrd.com/races/core-races/half-orc) base speed; +10â [barbarian](https://www.d20pfsrd.com/classes/core-classes/barbarian) in light or medium [armor](https://www.d20pfsrd.com/basics-ability-scores/glossary#TOC-Armor-Bonus), untyped bonus for Fast Movement class feature)
+_Total base land speed_ : 40â (30â half-orc base speed; +10â barbarian in light or medium armor, untyped bonus for Fast Movement class feature)
 
-_Total normal speed_ : 30â (40â total base land speed; -10â reduction as per **[Table: Encumbrance Effects](https://www.d20pfsrd.com/alignment-description/carrying-capacity)**)
+_Total normal speed_ : 30â (40â total base land speed; -10â reduction as per **Table: Encumbrance Effects**)
 
 _Total full speed_ : 60â (30â total normal speed +30â enhancement speed bonus)
 
 Normal Speed
 
-Your normal speed is your total encumbered speed (if any encumbrance applies). Normal speed is calculated by applying any armor or encumbrance reduction as indicated on **[Table: Armor and Encumbrance for Other Base Speeds](https://www.d20pfsrd.com/alignment-description/carrying-capacity)** , to your base speed.
+Your normal speed is your total encumbered speed (if any encumbrance applies). Normal speed is calculated by applying any armor or encumbrance reduction as indicated on **Table: Armor and Encumbrance for Other Base Speeds** , to your base speed.
 
-In example, Kraag a [half-orc](https://www.d20pfsrd.com/races/core-races/half-orc) barbarian, has just donned hide armor (medium armor). Kraag calculates his speed as follows:
+In example, Kraag a half-orc barbarian, has just donned hide armor (medium armor). Kraag calculates his speed as follows:
 
-  * _Total base land speed_ : 40â (30â [half-orc](https://www.d20pfsrd.com/races/core-races/half-orc) base speed; +10â barbarian in light or medium [armor](https://www.d20pfsrd.com/basics-ability-scores/glossary#TOC-Armor-Bonus), untyped bonus for Fast Movement class feature)
-  * _Total normal speed_ : 30â (40â total base land speed; -10â reduction as per **[Table: Carrying Capacity](https://www.d20pfsrd.com/alignment-description/carrying-capacity)**)
+  * _Total base land speed_ : 40â (30â half-orc base speed; +10â barbarian in light or medium armor, untyped bonus for Fast Movement class feature)
+  * _Total normal speed_ : 30â (40â total base land speed; -10â reduction as per **Table: Carrying Capacity**)
 
 
 
 Overland Speed
 
-Overland Speed (or Overland Movement) is typically referred to as a unit of measurement over vast distances and is measured in miles per hour or miles per day. Overland movement is not the same as your land speed. [ **Table: Movement and Distance**](https://www.d20pfsrd.com/alignment-description/movement) provides overland movement rates which are calculated as follows:
+Overland Speed (or Overland Movement) is typically referred to as a unit of measurement over vast distances and is measured in miles per hour or miles per day. Overland movement is not the same as your land speed.  **Table: Movement and Distance** provides overland movement rates which are calculated as follows:
 
   * _One Hour Overland_ : full speed divided by 10 with the result referenced in miles.
   * _One Day Overland_ : one hour overland speed multiplied by 4 with the result referenced in miles.
@@ -474,7 +474,7 @@ Speed Modes are usually in reference to the different modes of land speeds avail
 
 Speed Type
 
-Speed Type is the type of speed you have available: [burrow](https://www.d20pfsrd.com/bestiary/rules-for-monsters/universal-monster-rules#35TOC-Burrow-Ex-), climb, land, fly and swim.
+Speed Type is the type of speed you have available: burrow, climb, land, fly and swim.
 
 Top Speed
 
@@ -492,13 +492,13 @@ Can I use a metamagic feat to alter a spell-like ability?
 
 No. Metamagic feats specifically only affect spells, not spell-like abilities. Also, spell-like abilities do not have spell slots, so you can’t adjust the effective spell slot of a spell-like ability.
 
-[[Source](http://paizo.com/paizo/faq/v5748nruor1fm#v5748eaic9ofk)]
+[Source]
 
 Spell-like abilities function just like spells, but are granted through a special racial ability or by a specific class ability (as opposed to spells, which are gained by spellcasting classes as a character gains levels).*
 
 #### Spell Resistance (SR)
 
-Some creatures are resistant to magic and gain [spell resistance](https://www.d20pfsrd.com/gamemastering/special-abilities#TOC-Spell-Resistance). When a creature with [spell resistance](https://www.d20pfsrd.com/gamemastering/special-abilities#TOC-Spell-Resistance) is targeted by a spell, the caster of the spell must make a caster level check to see if the spell affects the target. The DC of this check is equal to the target creature’s SR (some spells do not allow SR checks).
+Some creatures are resistant to magic and gain spell resistance. When a creature with spell resistance is targeted by a spell, the caster of the spell must make a caster level check to see if the spell affects the target. The DC of this check is equal to the target creature’s SR (some spells do not allow SR checks).
 
 #### Stacking
 
@@ -522,7 +522,7 @@ Since taking 20 assumes that your character will fail many times before succeedi
 
 #### Temporary Hit Points
 
-When a character gains temporary hit points, note his current [hit point](https://www.d20pfsrd.com/basics-ability-scores/glossary#TOC-Hit-Points-hp-) total. When the temporary hit points go away the characterâs hit points drop to his current hit point total. If the characterâs hit points are below his current hit point total at that time, the characterâs hit point total does not change. Temporary hit points do not stack.
+When a character gains temporary hit points, note his current hit point total. When the temporary hit points go away the characterâs hit points drop to his current hit point total. If the characterâs hit points are below his current hit point total at that time, the characterâs hit point total does not change. Temporary hit points do not stack.
 
 #### TPK
 
@@ -530,4 +530,4 @@ TPK stands for “Total Party Kill” a sometimes accidental result of a poorly 
 
 #### Turn
 
-In a round, a creature receives one turn, during which it can perform a wide variety of actions. Generally in the course of one turn, a character can perform one [standard](https://www.d20pfsrd.com/gamemastering/combat#TOC-Standard-Actions) action, one [move](https://www.d20pfsrd.com/gamemastering/combat#TOC-Move-Actions) action, one [swift](https://www.d20pfsrd.com/gamemastering/combat#TOC-Swift-Actions) action, and a number of [free](https://www.d20pfsrd.com/gamemastering/combat#TOC-Free-Actions) actions. Less-common combination's of actions are permissible as well, see [Combat](https://www.d20pfsrd.com/gamemastering/combat) for more details.
+In a round, a creature receives one turn, during which it can perform a wide variety of actions. Generally in the course of one turn, a character can perform one standard action, one move action, one swift action, and a number of free actions. Less-common combination's of actions are permissible as well, see Combat for more details.

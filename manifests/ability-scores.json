@@ -7,12 +7,12 @@
       "title": "Ability Scores Overview",
       "anchor_heading": "# Ability Scores",
       "includes_subheadings": [],
-      "description": "Introduction to the six ability scores, their ranges, and how they affect character attributes",
+      "description": "Basic introduction to the six ability scores, their ranges, and how they affect character abilities",
       "keywords": [
         "ability scores",
         "basic attributes",
-        "character creation",
-        "ability ranges"
+        "ability score ranges",
+        "modifiers"
       ]
     },
     {
@@ -22,17 +22,18 @@
       "includes_subheadings": [
         "### Determine Bonuses (or Penalties)"
       ],
-      "description": "All methods for generating ability scores including dice rolling, point buy, and racial modifiers. Includes ability modifier calculation",
+      "description": "All methods for generating ability scores including Standard, Classic, Heroic, Dice Pool, and Purchase methods, plus ability score costs and campaign point values",
       "keywords": [
-        "character generation",
-        "dice rolling",
+        "generating ability scores",
+        "rolling ability scores",
         "point buy",
-        "standard",
-        "classic",
-        "heroic",
         "purchase method",
-        "ability modifiers",
-        "racial modifiers"
+        "dice pool",
+        "standard method",
+        "classic method",
+        "heroic method",
+        "ability score costs",
+        "campaign types"
       ]
     },
     {
@@ -40,20 +41,21 @@
       "title": "Abilities and Spellcasters",
       "anchor_heading": "## Abilities and Spellcasters",
       "includes_subheadings": [],
-      "description": "How ability scores affect spellcasting, bonus spells, and minimum scores needed to cast spells for different classes",
+      "description": "How ability scores affect spellcasting, including bonus spells per day table and minimum ability requirements for casting",
       "keywords": [
         "spellcasting",
         "bonus spells",
-        "intelligence",
-        "wisdom",
-        "charisma",
         "spell levels",
+        "intelligence spells",
+        "wisdom spells",
+        "charisma spells",
         "wizards",
         "clerics",
         "druids",
-        "sorcerers",
+        "rangers",
         "bards",
-        "paladins"
+        "paladins",
+        "sorcerers"
       ]
     },
     {
@@ -61,17 +63,18 @@
       "title": "Strength (Str)",
       "anchor_heading": "### Strength (Str)",
       "includes_subheadings": [],
-      "description": "Complete rules for Strength including what it affects, temporary/permanent bonuses, ability damage, carrying capacity, and descriptive examples",
+      "description": "Complete rules for Strength including what it affects, temporary/permanent bonuses, ability damage, carrying capacity table with examples and descriptions",
       "keywords": [
         "strength",
         "melee attacks",
-        "damage",
+        "damage rolls",
         "carrying capacity",
-        "combat maneuvers",
         "climb",
         "swim",
-        "ability damage",
-        "temporary bonuses"
+        "combat maneuver bonus",
+        "combat maneuver defense",
+        "temporary bonuses",
+        "ability damage"
       ]
     },
     {
@@ -79,7 +82,7 @@
       "title": "Dexterity (Dex)",
       "anchor_heading": "### Dexterity (Dex)",
       "includes_subheadings": [],
-      "description": "Complete rules for Dexterity including ranged attacks, AC, reflex saves, skills, temporary/permanent bonuses, and ability damage",
+      "description": "Complete rules for Dexterity including what it affects, temporary/permanent bonuses, ability damage, and examples table",
       "keywords": [
         "dexterity",
         "ranged attacks",
@@ -87,85 +90,113 @@
         "reflex saves",
         "initiative",
         "acrobatics",
+        "disable device",
+        "escape artist",
+        "fly",
+        "ride",
+        "sleight of hand",
         "stealth",
-        "ability damage",
-        "agility"
+        "agility",
+        "reflexes"
       ]
     },
     {
       "id": "constitution",
       "title": "Constitution (Con)",
       "anchor_heading": "### Constitution (Con)",
-      "includes_subheadings": [],
-      "description": "Complete rules for Constitution including hit points, fortitude saves, undead/construct special rules, temporary/permanent bonuses, and ability damage",
+      "includes_subheadings": [
+        "#### Notes:"
+      ],
+      "description": "Complete rules for Constitution including hit points, Fortitude saves, temporary/permanent bonuses, ability damage, and special rules for constructs and undead",
       "keywords": [
         "constitution",
         "hit points",
         "fortitude saves",
         "health",
         "stamina",
-        "undead",
         "constructs",
-        "ability damage",
-        "poison",
-        "disease"
+        "undead",
+        "hit dice",
+        "temporary bonuses",
+        "ability damage"
       ]
     },
     {
       "id": "intelligence",
       "title": "Intelligence (Int)",
       "anchor_heading": "### Intelligence (Int)",
-      "includes_subheadings": [],
-      "description": "Complete rules for Intelligence including skill points, languages, wizard spells, special creature type rules, temporary/permanent bonuses, and ability damage",
+      "includes_subheadings": [
+        "#### Notes:",
+        "#### Unoffical Paizo Board Post\u2026"
+      ],
+      "description": "Complete rules for Intelligence including skill points, bonus languages, wizard spells, temporary/permanent bonuses, ability damage, and special rules for different creature types",
       "keywords": [
         "intelligence",
         "skill points",
-        "languages",
+        "bonus languages",
         "wizard spells",
+        "appraise",
+        "craft",
         "knowledge",
+        "linguistics",
         "spellcraft",
         "animals",
-        "vermin",
         "oozes",
-        "ability damage"
+        "plants",
+        "vermin",
+        "headband of vast intelligence"
       ]
     },
     {
       "id": "wisdom",
       "title": "Wisdom (Wis)",
       "anchor_heading": "### Wisdom (Wis)",
-      "includes_subheadings": [],
-      "description": "Complete rules for Wisdom including will saves, perception, divine spellcasting, temporary/permanent bonuses, and ability damage",
+      "includes_subheadings": [
+        "#### Notes:"
+      ],
+      "description": "Complete rules for Wisdom including Will saves, cleric/druid/ranger spells, temporary/permanent bonuses, ability damage, and related skills",
       "keywords": [
         "wisdom",
         "will saves",
+        "cleric spells",
+        "druid spells",
+        "ranger spells",
+        "heal",
         "perception",
-        "divine spells",
-        "clerics",
-        "druids",
-        "rangers",
+        "profession",
         "sense motive",
         "survival",
-        "ability damage"
+        "willpower",
+        "common sense",
+        "awareness",
+        "intuition"
       ]
     },
     {
       "id": "charisma",
       "title": "Charisma (Cha)",
       "anchor_heading": "### Charisma (Cha)",
-      "includes_subheadings": [],
-      "description": "Complete rules for Charisma including social skills, channel energy, spontaneous spellcasting, undead life force, temporary/permanent bonuses, and ability damage",
+      "includes_subheadings": [
+        "#### Notes:"
+      ],
+      "description": "Complete rules for Charisma including social skills, bard/paladin/sorcerer spells, channel energy, temporary/permanent bonuses, and ability damage",
       "keywords": [
         "charisma",
-        "social skills",
-        "channel energy",
-        "sorcerer spells",
+        "personality",
+        "leadership",
         "bard spells",
         "paladin spells",
-        "undead",
+        "sorcerer spells",
+        "channel energy",
+        "bluff",
         "diplomacy",
+        "disguise",
+        "handle animal",
         "intimidate",
-        "ability damage"
+        "perform",
+        "use magic device",
+        "undead",
+        "lifeforce"
       ]
     },
     {
@@ -176,14 +207,14 @@
         "### Temporary Bonuses",
         "### Permanent Bonuses"
       ],
-      "description": "Rules for temporary and permanent ability score increases, including duration effects and what bonuses apply",
+      "description": "Rules for temporary and permanent ability score increases, including how they affect skills, saves, and spell DCs",
       "keywords": [
-        "ability bonuses",
+        "ability score bonuses",
         "temporary bonuses",
         "permanent bonuses",
-        "spell effects",
-        "enhancement",
-        "duration"
+        "ability score increases",
+        "spell DCs",
+        "supernatural abilities"
       ]
     },
     {
@@ -191,32 +222,43 @@
       "title": "Ability Score Damage",
       "anchor_heading": "## Ability Score Damage",
       "includes_subheadings": [],
-      "description": "Complete rules for ability score damage including penalties, unconsciousness, death conditions, and healing",
+      "description": "Complete rules for ability score damage including penalties, unconsciousness, death, and healing, with effects for each ability score",
       "keywords": [
         "ability damage",
+        "ability score damage",
         "penalties",
         "unconscious",
         "death",
-        "healing",
         "diseases",
         "poisons",
-        "lesser restoration"
+        "lesser restoration",
+        "healing ability damage"
       ]
     },
     {
-      "id": "ability_score_penalties_and_drain",
-      "title": "Ability Score Penalties and Drain",
+      "id": "ability_score_penalties",
+      "title": "Ability Score Penalties",
       "anchor_heading": "## Ability Score Penalties",
-      "includes_subheadings": [
-        "## Ability Drain"
-      ],
-      "description": "Rules for temporary ability penalties and permanent ability drain, including differences from ability damage",
+      "includes_subheadings": [],
+      "description": "Rules for temporary ability score penalties that function like ability damage but cannot cause unconsciousness or death",
       "keywords": [
         "ability penalties",
+        "ability score penalties",
+        "temporary penalties"
+      ]
+    },
+    {
+      "id": "ability_drain",
+      "title": "Ability Drain",
+      "anchor_heading": "## Ability Drain",
+      "includes_subheadings": [],
+      "description": "Rules for ability drain which permanently reduces ability scores and can cause loss of skill points, hit points, and other bonuses",
+      "keywords": [
         "ability drain",
         "permanent reduction",
         "restoration",
-        "temporary effects"
+        "skill points loss",
+        "hit points loss"
       ]
     }
   ]

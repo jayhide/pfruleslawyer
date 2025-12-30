@@ -20,7 +20,7 @@ SECTION_SCHEMA = {
                         "items": {"type": "string"},
                         "description": "List of subheadings included in this section"
                     },
-                    "description": {"type": "string", "description": "Brief description of the rules covered"},
+                    "description": {"type": "string", "description": "Brief description of the rules and terms covered"},
                     "keywords": {
                         "type": "array",
                         "items": {"type": "string"},
@@ -54,14 +54,16 @@ Your task: Identify self-contained "topics" that should be retrieved together wh
 - "Armor Class" as one section including: calculating AC, touch AC, flat-footed AC, all modifier types
 - "Grapple" as one section with all grappling rules together
 - "Blinded" condition as one section with all mechanical effects
-- Keywords include technical game terms like "initiative", "flat-footed", "grapple" which the specific section is about
+- Summary gives a quick overview of which rules are explained in the section, ie "Mechanics around initiating and escaping grapples"
+- Keywords include specific technical game terms like "initiative", "flat-footed", "grapple"
+- Keywords are terms that would indicate this section should be retrieved if they appeared in a user's search, ie "grapple" for the section relevant to "How do I initiate a grapple?"
 
 ## Examples of BAD chunking:
 
 - Splitting "Flat-Footed" away from "Initiative" when they're discussing the same combat concept
 - Splitting "Attack Roll" from "Automatic Misses and Hits" - these belong together
 - Making each small subsection its own chunk when they're all part of one topic
-- Keywords include terms that are only incidental to the section, like "attack" mentioned in passing in a section about invisibility
+- Keywords include terms that are generic or only incidental to the section, like "attack" mentioned in passing in a section about invisibility, or "magical" in a section about transmutation spells
 - **Grouping a list of independent definitions into one giant section** - e.g., creature types or subtypes should each be their OWN section, not lumped together
 
 ## Important: Lists of Definitions

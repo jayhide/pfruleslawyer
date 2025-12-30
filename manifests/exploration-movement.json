@@ -12,41 +12,47 @@
         "### Additional Factors",
         "### Exploration Rewards",
         "### Creating A Territory",
+        "### Example Territory: Gnoll Canyon",
         "#### Gnoll Canyon Territory CR 5"
       ],
-      "description": "Complete exploration system for wilderness territories including Discovery Points, exploration checks, locations, way signs, character actions, rewards, and territory creation guidelines",
+      "description": "Complete system for wilderness exploration including Discovery Points, exploration checks, locations, territories, way signs, character actions, and territory creation",
       "keywords": [
         "exploration",
         "discovery points",
+        "exploration check",
+        "location",
         "territory",
-        "way signs",
-        "survival",
+        "way sign",
         "wilderness",
-        "locations"
+        "survival",
+        "documenting",
+        "seeking location"
       ]
     },
     {
       "id": "carrying_capacity",
-      "title": "Carrying Capacity and Encumbrance",
+      "title": "Carrying Capacity",
       "anchor_heading": "## Carrying Capacity",
       "includes_subheadings": [
         "### Armor and Encumbrance for Other Base Speeds"
       ],
-      "description": "Rules for encumbrance by armor and weight, carrying capacity by Strength score, lifting and dragging limits, size modifiers for creatures, and speed penalties for different load levels",
+      "description": "Rules for carrying capacity, encumbrance by armor and weight, lifting, dragging, and how load affects character movement and abilities",
       "keywords": [
-        "encumbrance",
         "carrying capacity",
-        "strength",
+        "encumbrance",
         "load",
-        "armor",
-        "weight",
+        "light load",
+        "medium load",
+        "heavy load",
         "lifting",
-        "dragging"
+        "dragging",
+        "strength",
+        "armor check penalty"
       ]
     },
     {
-      "id": "movement_modes",
-      "title": "Movement and Distance",
+      "id": "movement_system",
+      "title": "Movement System",
       "anchor_heading": "## Movement",
       "includes_subheadings": [
         "### Modes of Movement",
@@ -54,17 +60,19 @@
         "### Local Movement",
         "### Overland Movement"
       ],
-      "description": "Movement at different scales including tactical, local, and overland movement with rules for walking, hustling, running, terrain effects, forced marches, mounted movement, and waterborne travel",
+      "description": "Complete movement rules covering tactical, local, and overland movement scales, walking, hustling, running, terrain effects, and forced marches",
       "keywords": [
         "movement",
-        "speed",
-        "tactical",
-        "overland",
+        "tactical movement",
+        "local movement",
+        "overland movement",
+        "walk",
         "hustle",
         "run",
         "terrain",
         "forced march",
-        "mounted"
+        "mounted movement",
+        "speed"
       ]
     },
     {
@@ -72,36 +80,40 @@
       "title": "Evasion and Pursuit",
       "anchor_heading": "## Evasion and Pursuit",
       "includes_subheadings": [],
-      "description": "Rules for chases and pursuit including opposed ability checks for equal speed situations and extended overland chases",
+      "description": "Rules for resolving chases and pursuit scenarios using opposed checks for characters of different speeds",
       "keywords": [
-        "chase",
-        "pursuit",
         "evasion",
-        "dexterity",
-        "constitution",
-        "speed"
+        "pursuit",
+        "chase",
+        "opposed checks",
+        "dexterity check",
+        "constitution check",
+        "escape"
       ]
     },
     {
       "id": "vision_light",
       "title": "Vision and Light",
-      "anchor_heading": "### Bright Light",
+      "anchor_heading": "## Vision and Light",
       "includes_subheadings": [
+        "### Bright Light",
         "### Normal Light",
         "### Dim Light",
         "### Darkness"
       ],
-      "description": "Complete lighting rules covering bright light, normal light, dim light, and darkness with effects on visibility, concealment, stealth, and special vision types like darkvision and low-light vision",
+      "description": "Complete rules for lighting conditions, visibility, darkvision, low-light vision, and how different light levels affect gameplay",
       "keywords": [
-        "light",
-        "darkness",
         "vision",
+        "light",
+        "bright light",
+        "normal light",
+        "dim light",
+        "darkness",
         "darkvision",
+        "low-light vision",
         "concealment",
         "stealth",
-        "illumination",
-        "bright light",
-        "dim light"
+        "illumination"
       ]
     },
     {
@@ -112,17 +124,18 @@
         "### Smashing an Object",
         "### Breaking Items"
       ],
-      "description": "Rules for destroying objects including smashing with weapons, breaking with strength, armor class of objects, hardness, hit points, energy attacks, magic item durability, and break DCs",
+      "description": "Rules for destroying objects including smashing with weapons, breaking with strength, hardness, hit points, and various object properties",
       "keywords": [
         "breaking",
+        "smashing",
         "objects",
         "hardness",
         "hit points",
         "sunder",
         "strength check",
-        "AC",
-        "damage",
-        "destroy"
+        "break DC",
+        "armor class",
+        "damage"
       ]
     }
   ]

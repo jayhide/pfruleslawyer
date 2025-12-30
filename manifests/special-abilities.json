@@ -3,47 +3,53 @@
   "source_path": "rules/special-abilities.md",
   "sections": [
     {
-      "id": "special_ability_types",
-      "title": "Special Ability Types",
+      "id": "ability_types_overview",
+      "title": "Special Ability Types Overview",
       "anchor_heading": "# Special Abilities",
       "includes_subheadings": [
         "### Extraordinary Abilities (Ex)",
         "### Spell-Like Abilities (Sp)",
         "### Supernatural Abilities (Su)"
       ],
-      "description": "Rules for the three main types of special abilities: extraordinary, spell-like, and supernatural abilities, including how they interact with magic suppression, dispelling, and spell resistance",
+      "description": "Overview of the three main types of special abilities and their interactions with magic suppression, dispelling, and spell resistance",
       "keywords": [
         "extraordinary",
         "spell-like",
         "supernatural",
-        "antimagic",
-        "dispel",
-        "counterspell",
-        "attacks of opportunity",
-        "ability types"
+        "antimagic field",
+        "dispel magic",
+        "spell resistance",
+        "attacks of opportunity"
       ]
     },
     {
-      "id": "sight_abilities",
-      "title": "Sight and Vision Abilities",
+      "id": "blindsight",
+      "title": "Blindsight",
       "anchor_heading": "#### Blindsight",
-      "includes_subheadings": [
-        "#### Blindsight",
-        "#### **Blindsense**",
-        "#### Darkvision",
-        "#### Low-Light Vision"
-      ],
-      "description": "Rules for special vision and sight abilities including blindsight, blindsense, darkvision, and low-light vision",
+      "includes_subheadings": [],
+      "description": "Rules for the blindsight ability including what it can and cannot do, interactions with various conditions and environments",
       "keywords": [
         "blindsight",
-        "blindsense",
-        "darkvision",
-        "low-light vision",
-        "vision",
-        "sight",
+        "invisibility",
         "concealment",
         "gaze attacks",
-        "darkness"
+        "displacement",
+        "blur",
+        "echolocation"
+      ]
+    },
+    {
+      "id": "blindsense",
+      "title": "Blindsense",
+      "anchor_heading": "#### **Blindsense**",
+      "includes_subheadings": [],
+      "description": "Rules for the blindsense ability including detection limitations, concealment effects, and Dexterity bonus denial",
+      "keywords": [
+        "blindsense",
+        "perception",
+        "concealment",
+        "miss chance",
+        "dexterity bonus"
       ]
     },
     {
@@ -51,11 +57,11 @@
       "title": "Channel Resistance",
       "anchor_heading": "#### Channel Resistance",
       "includes_subheadings": [],
-      "description": "Rules for channel resistance ability that provides bonus on Will saves against channeled energy",
+      "description": "Rules for channel resistance bonus on Will saves against channeled energy",
       "keywords": [
         "channel resistance",
         "channeled energy",
-        "will saves",
+        "will save",
         "undead"
       ]
     },
@@ -64,15 +70,14 @@
       "title": "Charm and Compulsion",
       "anchor_heading": "#### Charm and Compulsion",
       "includes_subheadings": [],
-      "description": "Comprehensive rules for charm and compulsion effects, including how charmed creatures behave, limitations, and breaking free",
+      "description": "Complete rules for charm and compulsion effects including behavioral limitations, resistance methods, and breaking conditions",
       "keywords": [
         "charm",
         "compulsion",
         "enchantment",
-        "mind control",
         "charisma check",
-        "free will",
-        "alignment"
+        "mind control",
+        "free will"
       ]
     },
     {
@@ -82,16 +87,28 @@
       "includes_subheadings": [
         "##### Overcoming DR"
       ],
-      "description": "Complete rules for damage reduction including how it works, what it blocks, overcoming DR with special materials and enhancement bonuses",
+      "description": "Complete rules for damage reduction including how it works, what it negates, overcoming methods, and enhancement bonus equivalents",
       "keywords": [
         "damage reduction",
         "DR",
-        "enhancement bonus",
         "adamantine",
         "cold iron",
         "silver",
-        "magic weapons",
-        "special materials"
+        "enhancement bonus",
+        "magical weapons"
+      ]
+    },
+    {
+      "id": "darkvision",
+      "title": "Darkvision",
+      "anchor_heading": "#### Darkvision",
+      "includes_subheadings": [],
+      "description": "Rules for darkvision including its limitations with color, invisibility, and gaze attacks",
+      "keywords": [
+        "darkvision",
+        "vision",
+        "gaze attacks",
+        "darkness"
       ]
     },
     {
@@ -99,14 +116,13 @@
       "title": "Death Attacks",
       "anchor_heading": "#### Death Attacks",
       "includes_subheadings": [],
-      "description": "Rules for death attacks that can instantly kill, including saves, resurrection restrictions, and protections",
+      "description": "Rules for death attacks including save-or-die effects, resurrection limitations, and protective spells",
       "keywords": [
         "death attack",
         "fortitude save",
-        "instant death",
         "raise dead",
         "death ward",
-        "negative constitution"
+        "instant death"
       ]
     },
     {
@@ -114,36 +130,43 @@
       "title": "Energy Drain and Negative Levels",
       "anchor_heading": "#### Energy Drain and Negative Levels",
       "includes_subheadings": [],
-      "description": "Complete rules for negative levels from energy drain, including penalties, temporary vs permanent negative levels, and removal",
+      "description": "Complete rules for negative levels including penalties, removal methods, permanent vs temporary, and resurrection interactions",
       "keywords": [
         "energy drain",
         "negative levels",
         "level drain",
-        "undead",
         "restoration",
-        "hit dice",
-        "temporary",
-        "permanent"
+        "undead",
+        "hit dice"
       ]
     },
     {
-      "id": "energy_immunity_vulnerability_resistance",
-      "title": "Energy Immunity, Vulnerability, and Resistance",
+      "id": "energy_immunity_vulnerability",
+      "title": "Energy Immunity and Vulnerability",
       "anchor_heading": "#### Energy Immunity and Vulnerability",
-      "includes_subheadings": [
-        "#### Energy Immunity and Vulnerability",
-        "#### Energy Resistance"
-      ],
-      "description": "Rules for energy immunity (complete protection), vulnerability (50% extra damage), and resistance (reduces damage by fixed amount)",
+      "includes_subheadings": [],
+      "description": "Rules for complete energy immunity and vulnerability effects",
       "keywords": [
         "energy immunity",
-        "energy vulnerability",
-        "energy resistance",
+        "vulnerability",
+        "energy damage",
         "fire",
         "cold",
-        "electricity",
         "acid",
-        "sonic"
+        "electricity"
+      ]
+    },
+    {
+      "id": "energy_resistance",
+      "title": "Energy Resistance",
+      "anchor_heading": "#### Energy Resistance",
+      "includes_subheadings": [],
+      "description": "Rules for energy resistance including damage reduction from energy attacks and spell disruption",
+      "keywords": [
+        "energy resistance",
+        "energy damage",
+        "spell disruption",
+        "resistance stacking"
       ]
     },
     {
@@ -151,32 +174,30 @@
       "title": "Ethereal",
       "anchor_heading": "#### Ethereal",
       "includes_subheadings": [],
-      "description": "Rules for ethereal creatures including movement, interaction with material plane, force effects, and combat limitations",
+      "description": "Rules for ethereal creatures including movement, visibility, interaction limitations, and what affects them",
       "keywords": [
         "ethereal",
         "ethereal plane",
         "material plane",
-        "invisible",
-        "insubstantial",
         "force effects",
-        "abjuration"
+        "abjuration",
+        "incorporeal"
       ]
     },
     {
-      "id": "fear_effects",
+      "id": "fear",
       "title": "Fear Effects",
       "anchor_heading": "#### Fear (Su or Sp)",
       "includes_subheadings": [],
-      "description": "Complete rules for fear effects including shaken, frightened, and panicked conditions, fear auras, and cumulative fear",
+      "description": "Complete rules for fear effects including shaken, frightened, and panicked conditions, fear auras, and cumulative effects",
       "keywords": [
         "fear",
         "shaken",
         "frightened",
         "panicked",
         "fear aura",
-        "will save",
         "mind-affecting",
-        "cowering"
+        "will save"
       ]
     },
     {
@@ -184,16 +205,28 @@
       "title": "Invisibility",
       "anchor_heading": "#### Invisibility",
       "includes_subheadings": [],
-      "description": "Comprehensive rules for invisibility including detection, attacking invisible creatures, concealment, and special interactions",
+      "description": "Complete rules for invisibility including detection methods, attack mechanics, concealment, and interaction with various abilities",
       "keywords": [
         "invisibility",
-        "invisible",
         "perception",
         "concealment",
+        "miss chance",
+        "pinpoint",
         "stealth",
-        "blind-fight",
-        "incorporeal",
-        "ethereal"
+        "blind-fight"
+      ]
+    },
+    {
+      "id": "low_light_vision",
+      "title": "Low-Light Vision",
+      "anchor_heading": "#### Low-Light Vision",
+      "includes_subheadings": [],
+      "description": "Rules for low-light vision including range and color vision capabilities",
+      "keywords": [
+        "low-light vision",
+        "dim light",
+        "vision",
+        "color vision"
       ]
     },
     {
@@ -201,12 +234,11 @@
       "title": "Paralysis",
       "anchor_heading": "#### Paralysis",
       "includes_subheadings": [],
-      "description": "Rules for paralysis effects that immobilize creatures, including limitations and effects on flying/swimming creatures",
+      "description": "Rules for paralysis effects including movement restrictions, mental actions, and special situations",
       "keywords": [
         "paralysis",
         "paralyzed",
         "immobilized",
-        "helpless",
         "mental actions",
         "flying",
         "swimming"
@@ -217,16 +249,15 @@
       "title": "Scent",
       "anchor_heading": "#### Scent",
       "includes_subheadings": [],
-      "description": "Complete rules for the scent ability including detection ranges, tracking, environmental effects, and interactions with stealth",
+      "description": "Complete rules for the scent ability including detection ranges, tracking, environmental factors, and survival skill interactions",
       "keywords": [
         "scent",
         "smell",
         "tracking",
         "survival",
+        "perception",
         "upwind",
-        "downwind",
-        "perception bonus",
-        "odor"
+        "downwind"
       ]
     },
     {
@@ -237,15 +268,14 @@
         "##### When Spell Resistance Applies",
         "##### Successful Spell Resistance"
       ],
-      "description": "Comprehensive rules for spell resistance including caster level checks, when it applies to different spell types, and voluntarily lowering SR",
+      "description": "Complete rules for spell resistance including caster level checks, when it applies to different spell types, and voluntary lowering",
       "keywords": [
         "spell resistance",
         "SR",
         "caster level check",
         "targeted spells",
         "area spells",
-        "effect spells",
-        "voluntary"
+        "effect spells"
       ]
     }
   ]

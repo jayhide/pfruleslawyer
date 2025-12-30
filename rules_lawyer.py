@@ -60,7 +60,7 @@ def format_context(results: list[dict], max_sections: int = 5) -> str:
 
 def ask_rules_question(
     question: str,
-    n_results: int = 5,
+    n_results: int = 7,
     model: str = "claude-sonnet-4-20250514",
     verbose: bool = False
 ) -> str:
@@ -88,7 +88,22 @@ def ask_rules_question(
     if verbose:
         print(f"Found {len(results)} relevant sections:", file=sys.stderr)
         for r in results:
-            print(f"  - {r['title']} (score: {r['score']:.3f})", file=sys.stderr)
+            # Build retrieval score breakdown
+            components = [f"semantic: {r.get('semantic_score', 0):.3f}"]
+            if r.get('keyword_boost', 0) > 0:
+                components.append(f"keyword: +{r['keyword_boost']:.2f}")
+            if r.get('subheading_boost', 0) > 0:
+                components.append(f"subheading: +{r['subheading_boost']:.2f}")
+            if r.get('title_boost', 0) > 0:
+                components.append(f"title: +{r['title_boost']:.2f}")
+            retrieval_breakdown = ", ".join(components)
+
+            # Show combined/rerank score if available
+            if 'combined_score' in r:
+                print(f"  - {r['title']}", file=sys.stderr)
+                print(f"      combined: {r['combined_score']:.3f} (rerank: {r['rerank_score']:.2f}, retrieval: {r['score']:.3f})", file=sys.stderr)
+            else:
+                print(f"  - {r['title']} (score: {r['score']:.3f} | {retrieval_breakdown})", file=sys.stderr)
         print(file=sys.stderr)
 
     # Format context and prompt
@@ -150,8 +165,8 @@ def main():
     parser.add_argument(
         "-n", "--results",
         type=int,
-        default=5,
-        help="Number of relevant sections to retrieve (default: 5)"
+        default=7,
+        help="Number of relevant sections to retrieve (default: 7)"
     )
     parser.add_argument(
         "--model",

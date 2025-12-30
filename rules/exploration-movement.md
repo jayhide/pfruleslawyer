@@ -6,9 +6,9 @@ Unspoiled wilderness and uncharted lands represent an opportunity for exploratio
 
 **Discovery Points** : As the PCs explore a territory, they’ll accumulate Discovery Pointsâan abstract measure of how thoroughly they have explored the region. Note that while gazetteers, maps, research, and rumors can grant bonus Discovery Points for a region even before the PCs set foot within the wild, inaccurate information gleaned from such sources can penalize the accumulation of Discovery Points.
 
-**Exploration Check** : As the PCs search a territory, they’ll attempt exploration checks to determine how many Discovery Points they accumulate. Exploration checks are typically [Survival](https://www.d20pfsrd.com/skills/survival) checks, though unusual territories may require other specialized skills. A character can attempt an exploration check using [Perception](https://www.d20pfsrd.com/skills/perception) in place of the required skill with a â5 penalty.
+**Exploration Check** : As the PCs search a territory, they’ll attempt exploration checks to determine how many Discovery Points they accumulate. Exploration checks are typically Survival checks, though unusual territories may require other specialized skills. A character can attempt an exploration check using Perception in place of the required skill with a â5 penalty.
 
-**Location** : A location is an adventure site or other point of interest within a territoryâit could be an ancient ruin, a [dragon’s](https://www.d20pfsrd.com/bestiary/rules-for-monsters/creature-types#TOC-Dragon) cave, a druidic monument, a hidden treasure, a portal to the Fey World, or anything else of note. Each location has a discovery score equal to the number of Discovery Points required to find the location.
+**Location** : A location is an adventure site or other point of interest within a territoryâit could be an ancient ruin, a dragon’s cave, a druidic monument, a hidden treasure, a portal to the Fey World, or anything else of note. Each location has a discovery score equal to the number of Discovery Points required to find the location.
 
 **Territory** : Territories are discrete geographic areas with defined boundaries. These can be political borders or geographical transitions. If you’re using the exploration rules from Ultimate Campaign, a single hex constitutes a territory. Alternately, a territory can be a much larger region; in this case, the PCs’ exploration of the territory is a much more abstract concept and doesn’t involve tracking exact locations on a map. In either case, each territory has its own Challenge Rating, which determines the danger of wandering monsters in the territory as well as the DC for exploration checks to earn Discovery Points.
 
@@ -24,15 +24,15 @@ Once the explorers reach the territory in question, they can begin exploration a
 
 At the start of each day, each character must decide if she will spend the day documenting the territory, exploring, seeking a location, or taking another action (such as crafting magic items, guarding a campsite, resting, or the like). Only the first three optionsâdocumenting, exploring, and seeking a locationâdirectly contribute to the exploration process. Uncovering way signs can also contribute to the process, but the actions required to earn Discovery Points via way signs vary widely and depend on the way signs in question.
 
-**Documenting** : The character spends the day mapping the territory or recording its features in a gazetteer and can attempt one skill check for each day spent documenting. Creating a map requires one or more successful [Profession](https://www.d20pfsrd.com/skills/profession) (cartographer) checks, while creating a gazetteer requires one or more successful [Linguistics](https://www.d20pfsrd.com/skills/linguistics) checks (at the GM’s discretion, other skill checks can be used in place of these). The number of checks needed equals the territory’s CR, and the DC equals the territory’s exploration check DC. Once the character has succeeded at the required checks, she has created a detailed map or gazetteer of the region, which grants a +5 [circumstance bonus](https://www.d20pfsrd.com/basics-ability-scores/glossary#TOC-Circumstance-Bonus) on future exploration checks in that territory (bonuses from multiple maps or gazetteers don’t stack).
+**Documenting** : The character spends the day mapping the territory or recording its features in a gazetteer and can attempt one skill check for each day spent documenting. Creating a map requires one or more successful Profession (cartographer) checks, while creating a gazetteer requires one or more successful Linguistics checks (at the GM’s discretion, other skill checks can be used in place of these). The number of checks needed equals the territory’s CR, and the DC equals the territory’s exploration check DC. Once the character has succeeded at the required checks, she has created a detailed map or gazetteer of the region, which grants a +5 circumstance bonus on future exploration checks in that territory (bonuses from multiple maps or gazetteers don’t stack).
 
-**Exploring** : The character spends the day exploring the territory. At the end of the day, the character attempts an exploration check against the territory’s DC. An exploration check is usually a [Survival](https://www.d20pfsrd.com/skills/survival) check, but in some unusual regions or circumstances, it could require another skill check. A character can always attempt an exploration check using the [Perception](https://www.d20pfsrd.com/skills/perception) skill, but doing so is more difficult since this represents a more generalized method of exploration, and the player attempting a [Perception](https://www.d20pfsrd.com/skills/perception)-based exploration check takes a â5 penalty on the roll as a result.
+**Exploring** : The character spends the day exploring the territory. At the end of the day, the character attempts an exploration check against the territory’s DC. An exploration check is usually a Survival check, but in some unusual regions or circumstances, it could require another skill check. A character can always attempt an exploration check using the Perception skill, but doing so is more difficult since this represents a more generalized method of exploration, and the player attempting a Perception-based exploration check takes a â5 penalty on the roll as a result.
 
-If the character succeeds at the exploration check, she earns 1 Discovery Point for the group, plus 1 additional point for every 5 points by which the result of the check exceeds the DC. Failing the check by 5 or more reduces the group’s Discovery Point total by 1, plus 1 additional point for every additional 5 points by which she failed the check. Unless every character in the group is skilled at the territory’s exploration skill, it’s often prudent for one character to attempt the primary exploration check and for others to engage in other tasks or use the [aid another](https://www.d20pfsrd.com/gamemastering/combat#TOC-Aid-Another) action to improve the primary check’s result.
+If the character succeeds at the exploration check, she earns 1 Discovery Point for the group, plus 1 additional point for every 5 points by which the result of the check exceeds the DC. Failing the check by 5 or more reduces the group’s Discovery Point total by 1, plus 1 additional point for every additional 5 points by which she failed the check. Unless every character in the group is skilled at the territory’s exploration skill, it’s often prudent for one character to attempt the primary exploration check and for others to engage in other tasks or use the aid another action to improve the primary check’s result.
 
 **Seeking a Location** : If the PCs wish to seek out a location, they can do so by spending Discovery Points at the start of the day. If they are seeking a specific location that they know exists in the territory (typically having found clues to it in the form of way signs), they must spend a number of Discovery Points equal to the location’s discovery scoreâa number that determines how difficult that location is to find (with higher values representing locations that are more difficult to discover). If the PCs want to attempt to uncover an unknown location at random, they choose how many Discovery Points from their total that they want to spend. Once the points are spent, divide the total spent in half, then compare that result to the discovery scores of all the locations in the territory. If any of those locations have a discovery score lower than that total, the PCs discover one of those locations (chosen at random if more than one location is a potential discovery). If none of the locations have a discovery score lower than that total, the group recovers half the Discovery Points they spent, but the other half is lost. Once the party discovers a location, travel time to the site varies according to the GM’s discretion and the overall size of the territory.
 
-**Uncovering Way Signs** : Every way sign the characters uncover has an associated skill check with a DC determined by the complexity of the way sign. The amount of time necessary to interpret a given way sign varies; some checks can be attempted with an insignificant time expenditure (such as recalling information about a territory using a [Knowledge](https://www.d20pfsrd.com/skills/knowledge) skill), while some require significant time to complete (like translating ancient texts or visiting a nearby settlement to gather information), which takes away from time spent documenting, exploring, or seeking a location. On a successful skill check, the PCs earn Discovery Points for the territory to which the way sign is linked. A simple way sign grants 1 Discovery Point, a moderately complex way sign grants 3 Discovery Points, and a complex way sign grants 5 Discovery Points. However, misinterpreting a way sign can complicate explorationâif a PC fails a check to interpret a way sign by 5 or more, the misinformation he obtains reduces the PCs’ current Discovery Point total for that territory by 1d4 points. This can result in negative values. The PCs can attempt to interpret a way sign multiple times, but once they have successfully interpreted it, further attempts do not grant additional Discovery Points.
+**Uncovering Way Signs** : Every way sign the characters uncover has an associated skill check with a DC determined by the complexity of the way sign. The amount of time necessary to interpret a given way sign varies; some checks can be attempted with an insignificant time expenditure (such as recalling information about a territory using a Knowledge skill), while some require significant time to complete (like translating ancient texts or visiting a nearby settlement to gather information), which takes away from time spent documenting, exploring, or seeking a location. On a successful skill check, the PCs earn Discovery Points for the territory to which the way sign is linked. A simple way sign grants 1 Discovery Point, a moderately complex way sign grants 3 Discovery Points, and a complex way sign grants 5 Discovery Points. However, misinterpreting a way sign can complicate explorationâif a PC fails a check to interpret a way sign by 5 or more, the misinformation he obtains reduces the PCs’ current Discovery Point total for that territory by 1d4 points. This can result in negative values. The PCs can attempt to interpret a way sign multiple times, but once they have successfully interpreted it, further attempts do not grant additional Discovery Points.
 
 ### Additional Factors
 
@@ -40,9 +40,9 @@ Some factors can affect both the rate and effectiveness of exploration, as detai
 
 **Careful Exploration** : Some groups might choose to explore more slowly and methodically in order to make a more careful search. This allows the group to attempt one extra exploration check for each day spent in careful exploration, but it limits the total number of Discovery Points that can be gained to 1 (a character using careful exploration cannot earn additional Discovery Points by exceeding the DC by 5 or more). Typically, careful exploration can be performed only if the terrain is relatively clear and free of obstructions. The GM is free to limit this option if she believes that a slow search would not garner much benefit due to the terrain.
 
-**Darkness** : Unless the explorer has [darkvision](https://www.d20pfsrd.com/gamemastering/special-abilities#TOC-Darkvision) or another ability to [see in darkness](https://www.d20pfsrd.com/bestiary/rules-for-monsters/universal-monster-rules#TOC-See-in-Darkness-Su-), he takes a â4 penalty on exploration checks he attempts when some but at most half of the hours spent exploring that day occur after nightfall. Explorers take a â8 penalty on checks attempted when more than half of the hours spent exploring occur after nightfall.
+**Darkness** : Unless the explorer has darkvision or another ability to see in darkness, he takes a â4 penalty on exploration checks he attempts when some but at most half of the hours spent exploring that day occur after nightfall. Explorers take a â8 penalty on checks attempted when more than half of the hours spent exploring occur after nightfall.
 
-**Extending the Day** : A day of exploration typically takes 8 hours; the rest of each day is assumed to be split between 8 hours of rest and 8 hours spent eating, making and breaking camp, relaxing, and the like. It’s possible to increase the amount of time in a day used for exploring by spending an additional 8-hour session exploring, but for every additional stretch of time up to 8 hours by which the PCs extend their time spent exploring, they take a cumulative â4 penalty on exploration checks to earn Discovery Points until they next rest for 8 hours. At the GM’s discretion, [fatigue](https://www.d20pfsrd.com/gamemastering/conditions#TOC-Fatigued) and [exhaustion](https://www.d20pfsrd.com/gamemastering/conditions#TOC-Exhausted) can also set in if the PCs don’t rest enough.
+**Extending the Day** : A day of exploration typically takes 8 hours; the rest of each day is assumed to be split between 8 hours of rest and 8 hours spent eating, making and breaking camp, relaxing, and the like. It’s possible to increase the amount of time in a day used for exploring by spending an additional 8-hour session exploring, but for every additional stretch of time up to 8 hours by which the PCs extend their time spent exploring, they take a cumulative â4 penalty on exploration checks to earn Discovery Points until they next rest for 8 hours. At the GM’s discretion, fatigue and exhaustion can also set in if the PCs don’t rest enough.
 
 **Weather** : Inclement weather hampers exploration checks if it is the predominant weather of a given exploration period. For example, the PCs would take a â1 penalty in the case of light fog or light rain, but a â10 penalty in the case of a blizzard or hurricane.
 
@@ -50,7 +50,7 @@ Some factors can affect both the rate and effectiveness of exploration, as detai
 
 Finding a location is often its own reward, but given the time, energy, and sometimes the resources needed to successfully conduct an exploration, you should consider the following additional rewards for parties that successfully discover all of the locations hidden in a territory.
 
-**Experience Points** : The PCs should earn [experience points](https://www.d20pfsrd.com/basics-ability-scores/glossary#TOC-Experience-Points-XP-) equal to what they would have normally earned for defeating a monster of a CR equal to the territory’s CR once all locations within the territory are discovered. (If you’re using this system with the exploration rules in Ultimate Campaign, you should decide if you want to use this method of XP reward, the one detailed in Ultimate Campaign, or both, as appropriate for your game table.)
+**Experience Points** : The PCs should earn experience points equal to what they would have normally earned for defeating a monster of a CR equal to the territory’s CR once all locations within the territory are discovered. (If you’re using this system with the exploration rules in Ultimate Campaign, you should decide if you want to use this method of XP reward, the one detailed in Ultimate Campaign, or both, as appropriate for your game table.)
 
 **Maps and Gazetteers** : The successful completion of a map or gazetteer can generate a monetary reward if the PCs sell their hard work back in civilization. A complete map or gazetteer of a region that has never before been explored can be sold for a number of gold pieces equal to 100 Ã the territory’s CR; once a map or gazetteer of a region has been sold, further copies of a map or gazetteer of that region (regardless of whether the first item sold was a map or gazetteer) are generally worth only 10% of that value or less, depending on GM’s discretion and supply and demand.
 
@@ -60,9 +60,9 @@ The steps listed below present all the information you need to generate territor
 
 Step 1: Define the Territory
 
-The first step is to determine your territory’s Challenge Rating. Typically, this should be the same value as the PCs’ Average Party Level, but you might want to make it easier or harder for the sake of the story. The territory’s CR helps guide the creation of random encounters, but it also determines the base DC of exploration checks, which can be found on Table 4â1. Though most exploration checks use the [Survival](https://www.d20pfsrd.com/skills/survival) skill, you can assign a different skill for particularly unusual or magical territories (for example, exploring a complex [extraplanar](https://www.d20pfsrd.com/bestiary/rules-for-monsters/creature-types#TOC-Extraplanar) library might require a [Knowledge](https://www.d20pfsrd.com/skills/knowledge) check, while exploring the mindscape of a slumbering god in which the PCs are trapped could require a [Sense Motive](https://www.d20pfsrd.com/skills/sense-motive) check).
+The first step is to determine your territory’s Challenge Rating. Typically, this should be the same value as the PCs’ Average Party Level, but you might want to make it easier or harder for the sake of the story. The territory’s CR helps guide the creation of random encounters, but it also determines the base DC of exploration checks, which can be found on Table 4â1. Though most exploration checks use the Survival skill, you can assign a different skill for particularly unusual or magical territories (for example, exploring a complex extraplanar library might require a Knowledge check, while exploring the mindscape of a slumbering god in which the PCs are trapped could require a Sense Motive check).
 
-Exploration check DCs are intended to be moderately difficult. Characters who are heavily invested in the relevant skill for a given check should have a reasonable chance of success, while those who are not adept with the necessary skills are in danger of leading the PCs off track by providing erroneous information or misinterpreting way signs. Often, characters who lack the relevant skills for a particular exploration are better off using their abilities for other tasks or helping more skillful PCs via the [aid another](https://www.d20pfsrd.com/gamemastering/combat#TOC-Aid-Another) action.
+Exploration check DCs are intended to be moderately difficult. Characters who are heavily invested in the relevant skill for a given check should have a reasonable chance of success, while those who are not adept with the necessary skills are in danger of leading the PCs off track by providing erroneous information or misinterpreting way signs. Often, characters who lack the relevant skills for a particular exploration are better off using their abilities for other tasks or helping more skillful PCs via the aid another action.
 
 Table 4â1: Exploration DCs  Territory CR | Exploration DC  
 ---|---  
@@ -93,7 +93,7 @@ As a general rule, each territory should contain at least one location to discov
 
 Each location should be something memorable and significant. Finding a location should grant a reward (such as a supernatural enhancement, valuable treasure, or a way sign), or that location should be an adventure site. Locations can be as simple as a stash of ancient pirate treasure or as complex as a lost city harboring ancient magic and technological mysteries.
 
-Each location in a territory needs its own discovery score. An obvious location (such as a large castle or a [humanoid](https://www.d20pfsrd.com/bestiary/rules-for-monsters/creature-types#TOC-Humanoid) army camp) should have an initial discovery score of 3, while a more obscure location (such as a single house or a cave entrance) should have an initial discovery score of 6. You can modify this initial discovery score total using the values given on Table 4â2, but feel free to come up with your own values based on the exploration’s narrative.
+Each location in a territory needs its own discovery score. An obvious location (such as a large castle or a humanoid army camp) should have an initial discovery score of 3, while a more obscure location (such as a single house or a cave entrance) should have an initial discovery score of 6. You can modify this initial discovery score total using the values given on Table 4â2, but feel free to come up with your own values based on the exploration’s narrative.
 
 Table 4â2: Discovery Score Modifiers  Condition | Modifier to Discovery Score  
 ---|---  
@@ -122,13 +122,13 @@ A territory’s CR sets the average CR of random encounters occurring within tha
 
 ### Example Territory: Gnoll Canyon
 
-Suppose the PCs have learned of a great evil rising in a hidden temple in the arid hills surrounding [gnoll](https://www.d20pfsrd.com/bestiary/monster-listings/humanoids/gnoll)-held territories. Rather than generate a map of the region, you instead use the rules in this section to guide the PCs’ exploration of White Canyon and their search for the hidden temple. You might also include a few other adventure sites in the region for the PCs to seek out and way signs to help them get a jump on locating these sites. Your notes on White Canyon might end up looking like the following.
+Suppose the PCs have learned of a great evil rising in a hidden temple in the arid hills surrounding gnoll-held territories. Rather than generate a map of the region, you instead use the rules in this section to guide the PCs’ exploration of White Canyon and their search for the hidden temple. You might also include a few other adventure sites in the region for the PCs to seek out and way signs to help them get a jump on locating these sites. Your notes on White Canyon might end up looking like the following.
 
 #### Gnoll Canyon Territory CR 5
 
-Arid hills ruled by bickering [gnoll](https://www.d20pfsrd.com/bestiary/monster-listings/humanoids/gnoll) tribes and stalked by desert beasts and ghuls
+Arid hills ruled by bickering gnoll tribes and stalked by desert beasts and ghuls
 
-**Exploration Check** [Survival](https://www.d20pfsrd.com/skills/survival) DC 23
+**Exploration Check** Survival DC 23
 
 Location Discovery Scores
 
@@ -140,17 +140,17 @@ Location Discovery Scores
 
 **Simple Way Signs (1 Discovery Point)**
 
-**Rumors** A successful DC 15 [Diplomacy](https://www.d20pfsrd.com/skills/diplomacy) check to gather information in a nearby settlement can reveal information about the region.
+**Rumors** A successful DC 15 Diplomacy check to gather information in a nearby settlement can reveal information about the region.
 
 **Moderate Way Signs (3 Discovery Points)**
 
-**Recall Lore** A successful DC 20 [Knowledge](https://www.d20pfsrd.com/skills/knowledge) (geography) check reveals information about the region.
+**Recall Lore** A successful DC 20 Knowledge (geography) check reveals information about the region.
 
-**Reconnaissance via Flight** A character who spends at least 30 minutes flying above the region and then succeeds at a DC 20 [Perception](https://www.d20pfsrd.com/skills/perception) check spots landmarks and gets the lay of the land.
+**Reconnaissance via Flight** A character who spends at least 30 minutes flying above the region and then succeeds at a DC 20 Perception check spots landmarks and gets the lay of the land.
 
 **Complex Way Signs (5 Discovery Points)**
 
-**Deciphering a Journal** If the PCs find an ill-fated explorer’s journal in the [wyvern’s](https://www.d20pfsrd.com/bestiary/monster-listings/dragons/wyvern) lair, a PC who can read Aklo and succeeds at a DC 25 [Linguistics](https://www.d20pfsrd.com/skills/linguistics) check correctly interprets her coded notes.
+**Deciphering a Journal** If the PCs find an ill-fated explorer’s journal in the wyvern’s lair, a PC who can read Aklo and succeeds at a DC 25 Linguistics check correctly interprets her coded notes.
 
 **Random Encounters**
 
@@ -161,28 +161,28 @@ Location Discovery Scores
 d% | Encounter | CR  
 ---|---|---  
 1â15 | Giant vulture | 4  
-16â30 | [Mummy](https://www.d20pfsrd.com/bestiary/monster-listings/undead/mummy) | 5  
-31â55 | [Gnoll](https://www.d20pfsrd.com/bestiary/monster-listings/humanoids/gnoll) wild pack | 5  
-56â75 | 2 [dire hyenas](https://www.d20pfsrd.com/bestiary/monster-listings/animals/hyena/dire-hyena) | 5  
-76â85 | [Gnoll](https://www.d20pfsrd.com/bestiary/monster-listings/humanoids/gnoll) hunting party | 5  
-86â95 | 1 [wyvern](https://www.d20pfsrd.com/bestiary/monster-listings/dragons/wyvern) | 6  
+16â30 | Mummy | 5  
+31â55 | Gnoll wild pack | 5  
+56â75 | 2 dire hyenas | 5  
+76â85 | Gnoll hunting party | 5  
+86â95 | 1 wyvern | 6  
 96â100 | 2 ghuls | 7  
   
 ## Carrying Capacity
 
 These carrying capacity rules determine how much a character’s equipment slows him down. Encumbrance comes in two parts: encumbrance by armor and encumbrance by total weight.
 
-**Encumbrance by Armor** : A character’s armor determines his maximum [Dexterity](https://www.d20pfsrd.com/basics-ability-scores/ability-scores#TOC-Dexterity-Dex--Dex-) bonus to [AC](https://www.d20pfsrd.com/gamemastering/combat#TOC-Armor-Class), armor check penalty, speed, and running speed. Unless your character is weak or carrying a lot of gear, that’s all you need to know; the extra gear your character carries won’t slow him down any more than the armor already does.
+**Encumbrance by Armor** : A character’s armor determines his maximum Dexterity bonus to AC, armor check penalty, speed, and running speed. Unless your character is weak or carrying a lot of gear, that’s all you need to know; the extra gear your character carries won’t slow him down any more than the armor already does.
 
 If your character is weak or carrying a lot of gear, however, then you’ll need to calculate encumbrance by weight. Doing so is most important when your character is trying to carry some heavy object.
 
-**Encumbrance by Weight** : If you want to determine whether your character’s gear is heavy enough to slow him down more than his armor already does, total the weight of all the character’s items, including [armor](https://www.d20pfsrd.com/basics-ability-scores/glossary#TOC-Armor-Bonus), weapons, and gear. Compare this total to the character’s Strength on **Table: Carrying Capacity**. Depending on the character’s carrying capacity, he or she may be carrying a light, medium, or heavy load. Like [armor](https://www.d20pfsrd.com/basics-ability-scores/glossary#TOC-Armor-Bonus), a character’s load affects his maximum [Dexterity](https://www.d20pfsrd.com/basics-ability-scores/ability-scores#TOC-Dexterity-Dex-) bonus to [AC](https://www.d20pfsrd.com/gamemastering/combat#TOC-Armor-Class), carries a check penalty (which works like an armor check penalty), reduces the character’s speed, and affects how fast the character can run, as shown on **Table: Encumbrance Effects**. A medium or heavy load counts as medium or heavy armor for the purpose of abilities or skills that are restricted by armor. Carrying a light load does not encumber a character.
+**Encumbrance by Weight** : If you want to determine whether your character’s gear is heavy enough to slow him down more than his armor already does, total the weight of all the character’s items, including armor, weapons, and gear. Compare this total to the character’s Strength on **Table: Carrying Capacity**. Depending on the character’s carrying capacity, he or she may be carrying a light, medium, or heavy load. Like armor, a character’s load affects his maximum Dexterity bonus to AC, carries a check penalty (which works like an armor check penalty), reduces the character’s speed, and affects how fast the character can run, as shown on **Table: Encumbrance Effects**. A medium or heavy load counts as medium or heavy armor for the purpose of abilities or skills that are restricted by armor. Carrying a light load does not encumber a character.
 
-If your character is wearing [armor](https://www.d20pfsrd.com/basics-ability-scores/glossary#TOC-Armor-Bonus), use the worse figure (from armor or from load) for each category. Do not stack the penalties.
+If your character is wearing armor, use the worse figure (from armor or from load) for each category. Do not stack the penalties.
 
 **Lifting and Dragging** : A character can lift as much as his maximum load over his head. A character’s maximum load is the highest amount of weight listed for a character’s Strength in the heavy load column of **Table: Carrying Capacity**.
 
-A character can lift as much as double his maximum load off the ground, but he or she can only stagger around with it. While overloaded in this way, the character loses any [Dexterity](https://www.d20pfsrd.com/basics-ability-scores/ability-scores#TOC-Dexterity-Dex-) bonus to [AC](https://www.d20pfsrd.com/gamemastering/combat#TOC-Armor-Class) and can move only 5 feet per round (as a full-round action).
+A character can lift as much as double his maximum load off the ground, but he or she can only stagger around with it. While overloaded in this way, the character loses any Dexterity bonus to AC and can move only 5 feet per round (as a full-round action).
 
 A character can generally push or drag along the ground as much as five times his maximum load. Favorable conditions can double these numbers, and bad circumstances can reduce them by half or more.
 
@@ -194,30 +194,30 @@ Quadrupeds can carry heavier loads than bipeds can. Multiply the values correspo
 
 Table: Strength, Carrying Capacity, Examples and Descriptions  Score | Light Load (lbs.) | Medium Load (lbs.) | Heavy Load (lbs.) | Modifier | Examples | Description  
 ---|---|---|---|---|---|---  
-â (no score) | â | â | â | â | [Allip](https://www.d20pfsrd.com/bestiary/monster-listings/undead/allip), [shadow](https://www.d20pfsrd.com/bestiary/monster-listings/undead/shadow), [will-o’-wisp](https://www.d20pfsrd.com/bestiary/monster-listings/aberrations/will-o--wisp) | A creature with no Strength score is likely to be [incorporeal](https://www.d20pfsrd.com/bestiary/rules-for-monsters/creature-types#TOC-Incorporeal) (like [ghosts](https://www.d20pfsrd.com/bestiary/monster-listings/undead/ghost))  
-0 | 0 | 0 | 0 | â | â | Too weak to move in any way and is [unconscious](https://www.d20pfsrd.com/gamemastering/conditions#TOC-Unconscious).  
-1 | 0-3 | 4â6 | 7â10 | â5 | [Lantern](https://www.d20pfsrd.com/equipment/goods-and-services/hunting-camping-survival-gear#TOC-Lantern) [archon](https://www.d20pfsrd.com/bestiary/rules-for-monsters/creature-types#TOC-Archon), [bat](https://www.d20pfsrd.com/bestiary/monster-listings/animals/bat/bat), [toad](https://www.d20pfsrd.com/bestiary/monster-listings/animals/toad) | Morbidly weak, has significant trouble lifting own limbs  
-2 | 0-6 | 7â13 | 14â20 | â4 | [Rat](https://www.d20pfsrd.com/bestiary/monster-listings/animals/rat/rat-common) [swarm](https://www.d20pfsrd.com/bestiary/rules-for-monsters/creature-types#TOC-Swarm) | Needs help to stand, can be knocked over by strong breezes  
+â (no score) | â | â | â | â | Allip, shadow, will-o’-wisp | A creature with no Strength score is likely to be incorporeal (like ghosts)  
+0 | 0 | 0 | 0 | â | â | Too weak to move in any way and is unconscious.  
+1 | 0-3 | 4â6 | 7â10 | â5 | Lantern archon, bat, toad | Morbidly weak, has significant trouble lifting own limbs  
+2 | 0-6 | 7â13 | 14â20 | â4 | Rat swarm | Needs help to stand, can be knocked over by strong breezes  
 3 | 0-10 | 11â20 | 21â30 | â4 |  |   
-4 | 0-13 | 14â26 | 27â40 | â3 | [Grig](https://www.d20pfsrd.com/bestiary/monster-listings/fey/grig), [monstrous centipede](https://www.d20pfsrd.com/bestiary/monster-listings/vermin/centipede) | Knocked off balance by swinging something dense  
+4 | 0-13 | 14â26 | 27â40 | â3 | Grig, monstrous centipede | Knocked off balance by swinging something dense  
 5 | 0-16 | 17â33 | 34â50 | â3 |  |   
-6 | 0-20 | 21â40 | 41â60 | â2 | [Hawk](https://www.d20pfsrd.com/bestiary/monster-listings/animals/hawk), [cockatrice](https://www.d20pfsrd.com/bestiary/monster-listin/magical-beasts/cockatrice), [pixie](https://www.d20pfsrd.com/bestiary/monster-listings/fey/pixie) | Difficulty pushing an object of their weight  
+6 | 0-20 | 21â40 | 41â60 | â2 | Hawk, cockatrice, pixie | Difficulty pushing an object of their weight  
 7 | 0-23 | 24â46 | 47â70 | â2 |  |   
-8 | 0-26 | 27â53 | 54â80 | â1 | [Quasit](https://www.d20pfsrd.com/bestiary/monster-listings/outsiders/demon/quasit), [badger](https://www.d20pfsrd.com/bestiary/monster-listings/animals/badger) | Has trouble even lifting heavy objects  
+8 | 0-26 | 27â53 | 54â80 | â1 | Quasit, badger | Has trouble even lifting heavy objects  
 9 | 0-30 | 31â60 | 61â90 | â1 |  |   
-10 | 0-33 | 34â66 | 67â100 | +0 | [Human](https://www.d20pfsrd.com/races/core-races/human) | Can literally [pull](https://www.d20pfsrd.com/bestiary/rules-for-monsters/universal-monster-rules#TOC-Pull-Ex-) their own weight  
+10 | 0-33 | 34â66 | 67â100 | +0 | Human | Can literally pull their own weight  
 11 | 0-38 | 39â76 | 77â115 | +0 |  |   
-12 | 0-43 | 44â86 | 87â130 | +1 | [Dog](https://www.d20pfsrd.com/bestiary/monster-listings/animals/dog/dog), [pony](https://www.d20pfsrd.com/bestiary/monster-listings/animals/horse/pony), [ghoul](https://www.d20pfsrd.com/bestiary/monster-listings/undead/ghoul) | Carries heavy objects for short distances  
+12 | 0-43 | 44â86 | 87â130 | +1 | Dog, pony, ghoul | Carries heavy objects for short distances  
 13 | 0-50 | 51â100 | 101â150 | +1 |  |   
-14 | 0-58 | 59â116 | 117â175 | +2 | [Gnoll](https://www.d20pfsrd.com/bestiary/monster-listings/humanoids/gnoll), [dire badger](https://www.d20pfsrd.com/bestiary/monster-listings/animals/badger/badger-dire), [baboon](https://www.d20pfsrd.com/bestiary/monster-listings/animals/primates/primate-baboon) | Visibly toned, throws small objects for long distances  
+14 | 0-58 | 59â116 | 117â175 | +2 | Gnoll, dire badger, baboon | Visibly toned, throws small objects for long distances  
 15 | 0-66 | 67â133 | 134â200 | +2 |  |   
-16 | 0-76 | 77â153 | 154â230 | +3 | Black pudding, [choker](https://www.d20pfsrd.com/bestiary/monster-listings/aberrations/choker), [shark](https://www.d20pfsrd.com/bestiary/monster-listings/animals/shark/shark) | Carries heavy objects with one arm  
+16 | 0-76 | 77â153 | 154â230 | +3 | Black pudding, choker, shark | Carries heavy objects with one arm  
 17 | 0-86 | 87â173 | 174â260 | +3 |  |   
-18 | 0-100 | 101â200 | 201â300 | +4 | [Centaur](https://www.d20pfsrd.com/bestiary/monster-listings/monstrous-humanoids/centaur), displacer beast, [minotaur](https://www.d20pfsrd.com/bestiary/monster-listings/monstrous-humanoids/minotaur) | Can break objects like wood with bare hands  
+18 | 0-100 | 101â200 | 201â300 | +4 | Centaur, displacer beast, minotaur | Can break objects like wood with bare hands  
 19 | 0-116 | 117â233 | 234â350 | +4 |  |   
-20 | 0-133 | 134â266 | 267â400 | +5 | Ape, [ogre](https://www.d20pfsrd.com/bestiary/monster-listings/humanoids/giants/ogre), [flesh golem](https://www.d20pfsrd.com/bestiary/monster-listings/constructs/golem/golem-flesh), [gorgon](https://www.d20pfsrd.com/bestiary/monster-listin/magical-beasts/gorgon) | Able to out-wrestle a work [animal](https://www.d20pfsrd.com/bestiary/rules-for-monsters/creature-types#TOC-Animal) or catch a falling person  
+20 | 0-133 | 134â266 | 267â400 | +5 | Ape, ogre, flesh golem, gorgon | Able to out-wrestle a work animal or catch a falling person  
 21 | 0-153 | 154â306 | 307â460 | +5 |  |   
-22 | 0-173 | 174â346 | 347â520 | +6 | [Rhinoceros](https://www.d20pfsrd.com/bestiary/monster-listings/animals/rhinoceros), ogre destroyer | Can pull very heavy objects at appreciable speeds  
+22 | 0-173 | 174â346 | 347â520 | +6 | Rhinoceros, ogre destroyer | Can pull very heavy objects at appreciable speeds  
 23 | 0-200 | 201â400 | 401â600 | +6 |  |   
 24 | 0-233 | 234â466 | 467â700 | +7 | Hill giant, troll berserker | Pinnacle of brawn, able to out-lift several people  
 25 | 0-266 | 267â533 | 534â800 | +7 |  |   
@@ -225,7 +225,7 @@ Table: Strength, Carrying Capacity, Examples and Descriptions  Score | Light Loa
 27 | 0-346 | 347â693 | 694â1,040 | +8 |  |   
 28 | 0-400 | 401â800 | 801â1,200 | +9 |  |   
 29 | 0-466 | 467â933 | 934â1,400 | +9 |  |   
-30 | 0-532 | 533â1,066 | 1,067â1,600 | +10 | [Fire giant](https://www.d20pfsrd.com/bestiary/monster-listings/humanoids/giants/giant-true/giant-fire), [triceratops](https://www.d20pfsrd.com/bestiary/monster-listings/animals/dinosaur/triceratops), [elephant](https://www.d20pfsrd.com/bestiary/monster-listings/animals/elephant/elephant) | Amongst the strongest creatures to have ever existed  
+30 | 0-532 | 533â1,066 | 1,067â1,600 | +10 | Fire giant, triceratops, elephant | Amongst the strongest creatures to have ever existed  
 +10 | Ã4 | Ã4 | Ã4 | – |  |   
   
 ### Armor and Encumbrance for Other Base Speeds
@@ -340,7 +340,7 @@ _Walk_ : A character can walk without a problem on the local scale.
 
 _Hustle_ : A character can hustle without a problem on the local scale. See Overland Movement, below, for movement measured in miles per hour.
 
-_Run_ : A character can run for a number of rounds equal to his [Constitution](https://www.d20pfsrd.com/basics-ability-scores/ability-scores#TOC-Constitution-Con-) score on the local scale without needing to rest. See [Combat](https://www.d20pfsrd.com/gamemastering/combat) for rules covering extended periods of running.
+_Run_ : A character can run for a number of rounds equal to his Constitution score on the local scale without needing to rest. See Combat for rules covering extended periods of running.
 
 ### Overland Movement
 
@@ -350,7 +350,7 @@ _Walk_ : A character can walk 8 hours in a day of travel without a problem. Walk
 
 _Hustle_ : A character can hustle for 1 hour without a problem. Hustling for a second hour in between sleep cycles deals 1 point of nonlethal damage, and each additional hour deals twice the damage taken during the previous hour of hustling. A character who takes any nonlethal damage from hustling becomes fatigued.
 
-A fatigued character can’t run or charge and takes a penalty of â2 to Strength and [Dexterity](https://www.d20pfsrd.com/basics-ability-scores/ability-scores#TOC-Dexterity-Dex-). Eliminating the nonlethal damage also eliminates the fatigue.
+A fatigued character can’t run or charge and takes a penalty of â2 to Strength and Dexterity. Eliminating the nonlethal damage also eliminates the fatigue.
 
 _Run_ : A character can’t run for an extended period of time. Attempts to run and rest in cycles effectively work out to a hustle.
 
@@ -358,9 +358,9 @@ _Terrain_ : The terrain through which a character travels affects the distance h
 
 _Forced March_ : In a day of normal walking, a character walks for 8 hours. The rest of the daylight time is spent making and breaking camp, resting, and eating.
 
-A character can walk for more than 8 hours in a day by making a forced march. For each hour of marching beyond 8 hours, a [Constitution](https://www.d20pfsrd.com/basics-ability-scores/ability-scores#TOC-Constitution-Con-) check (DC 10, +2 per extra hour) is required. If the check fails, the character takes 1d6 points of nonlethal damage. A character who takes any nonlethal damage from a forced march becomes fatigued. Eliminating the nonlethal damage also eliminates the fatigue. It’s possible for a character to march into unconsciousness by pushing himself too hard.
+A character can walk for more than 8 hours in a day by making a forced march. For each hour of marching beyond 8 hours, a Constitution check (DC 10, +2 per extra hour) is required. If the check fails, the character takes 1d6 points of nonlethal damage. A character who takes any nonlethal damage from a forced march becomes fatigued. Eliminating the nonlethal damage also eliminates the fatigue. It’s possible for a character to march into unconsciousness by pushing himself too hard.
 
-_Mounted Movement_ : A mount bearing a rider can move at a hustle. The damage it takes when doing so, however, is lethal damage, not nonlethal damage. The creature can also be ridden in a forced march, but its [Constitution](https://www.d20pfsrd.com/basics-ability-scores/ability-scores#TOC-Constitution-Con-) checks automatically fail, and the damage it takes is lethal damage. Mounts also become fatigued when they take any damage from hustling or forced marches.
+_Mounted Movement_ : A mount bearing a rider can move at a hustle. The damage it takes when doing so, however, is lethal damage, not nonlethal damage. The creature can also be ridden in a forced march, but its Constitution checks automatically fail, and the damage it takes is lethal damage. Mounts also become fatigued when they take any damage from hustling or forced marches.
 
 See **Table: Mounts and Vehicles** for mounted speeds and speeds for vehicles pulled by draft animals.
 
@@ -387,16 +387,16 @@ Warship (sailed and rowed) | 2-1/2 miles | 60 miles
 Longship (sailed and rowed) | 3 miles | 72 miles  
 Galley (rowed and sailed) | 4 miles | 96 miles  
   
-1 Quadrupeds, such as horses, can carry heavier loads than characters can. See [Carrying Capacity](https://www.d20pfsrd.com/alignment-description/carrying-capacity) for more information.  
+1 Quadrupeds, such as horses, can carry heavier loads than characters can. See Carrying Capacity for more information.  
 2 Rafts, barges, keelboats, and rowboats are most often used on lakes and rivers. If going downstream, add the speed of the current (typically 3 miles per hour) to the speed of the vehicle. In addition to 10 hours of being rowed, the vehicle can also float an additional 14 hours, if someone can guide it, adding an additional 42 miles to the daily distance traveled. These vehicles canât be rowed against any significant current, but they can be pulled upstream by draft animals on the shores.
 
 ## Evasion and Pursuit
 
 In round-by-round movement, when simply counting off squares, it’s impossible for a slow character to get away from a determined fast character without mitigating circumstances. Likewise, it’s no problem for a fast character to get away from a slower one.
 
-When the speeds of the two concerned characters are equal, there’s a simple way to resolve a chase: If one creature is pursuing another, both are moving at the same speed, and the chase continues for at least a few rounds, have them make opposed [Dexterity](https://www.d20pfsrd.com/basics-ability-scores/ability-scores#TOC-Dexterity-Dex-) checks to see who is the faster over those rounds. If the creature being chased wins, it escapes. If the pursuer wins, it catches the fleeing creature.
+When the speeds of the two concerned characters are equal, there’s a simple way to resolve a chase: If one creature is pursuing another, both are moving at the same speed, and the chase continues for at least a few rounds, have them make opposed Dexterity checks to see who is the faster over those rounds. If the creature being chased wins, it escapes. If the pursuer wins, it catches the fleeing creature.
 
-Sometimes a chase occurs overland and could last all day, with the two sides only occasionally getting glimpses of each other at a distance. In the case of a long chase, an opposed [Constitution](https://www.d20pfsrd.com/basics-ability-scores/ability-scores#TOC-Constitution-Con-) check made by all parties determines which can keep pace the longest. If the creature being chased rolls the highest, it gets away. If not, the chaser runs down its prey, outlasting it with stamina.
+Sometimes a chase occurs overland and could last all day, with the two sides only occasionally getting glimpses of each other at a distance. In the case of a long chase, an opposed Constitution check made by all parties determines which can keep pace the longest. If the creature being chased rolls the highest, it gets away. If not, the chaser runs down its prey, outlasting it with stamina.
 
 ## Exploration
 
@@ -404,9 +404,9 @@ Few rules are as vital to the success of adventurers than those pertaining to vi
 
 ## Vision and Light
 
-Dwarves and half-orcs have darkvision, but the other races presented in [Races](https://www.d20pfsrd.com/races) need light to see by. See **Table: Light Sources and Illumination** for the radius that a light source illuminates and how long it lasts. The increased entry indicates an area outside the lit radius in which the light level is increased by one step (from darkness to dim light, for example).
+Dwarves and half-orcs have darkvision, but the other races presented in Races need light to see by. See **Table: Light Sources and Illumination** for the radius that a light source illuminates and how long it lasts. The increased entry indicates an area outside the lit radius in which the light level is increased by one step (from darkness to dim light, for example).
 
-Additional illumination level info from [PZO9466](http://www.opengamingstore.com/products/pathfinder-player-companion-blood-of-shadows-pfrpg).
+Additional illumination level info from PZO9466.
 
 ### Bright Light
 
@@ -428,7 +428,7 @@ Normal light does not impact characters with light blindness or light sensitivit
 
 ### Dim Light
 
-In an area of dim light, a character can see somewhat. Creatures within this area have concealment (20% miss chance in combat) from those without [darkvision](https://www.d20pfsrd.com/gamemastering/special-abilities#TOC-Darkvision) or the ability to see in darkness. A creature within an area of dim light can make a Stealth check to conceal itself. Areas of dim light include outside at night with a moon in the sky, bright starlight, and the area between 20 and 40 feet from a torch.
+In an area of dim light, a character can see somewhat. Creatures within this area have concealment (20% miss chance in combat) from those without darkvision or the ability to see in darkness. A creature within an area of dim light can make a Stealth check to conceal itself. Areas of dim light include outside at night with a moon in the sky, bright starlight, and the area between 20 and 40 feet from a torch.
 
 Areas of dim light include the outdoors on a moonlit night or the light of a candle in the absence of any other light source. Most sources of normal light cast a radius of dim light out to double the radius of the normal light. In dim light, creatures have concealment from those without some ability to see in darkness and can attempt Stealth checks in order to hide themselves.
 
@@ -436,13 +436,13 @@ Areas of dim light include the outdoors on a moonlit night or the light of a can
 
 In the absence of light, darkness reigns supreme.
 
-Some areas of darkness include unlit chambers of a dungeon, most caverns, and the outdoors on a cloudy, moonless night. Without [darkvision](https://www.d20pfsrd.com/gamemastering/special-abilities#TOC-Darkvision) or other ability to see in the dark, creatures in darkness are effectively blind. It is impossible to determine the color of an object in total darkness, even with darkvision. Creatures with [darkvision](https://www.d20pfsrd.com/gamemastering/special-abilities#TOC-Darkvision) see the unlit world only in shades of gray.
+Some areas of darkness include unlit chambers of a dungeon, most caverns, and the outdoors on a cloudy, moonless night. Without darkvision or other ability to see in the dark, creatures in darkness are effectively blind. It is impossible to determine the color of an object in total darkness, even with darkvision. Creatures with darkvision see the unlit world only in shades of gray.
 
-In areas of darkness, creatures without [darkvision](https://www.d20pfsrd.com/gamemastering/special-abilities#TOC-Darkvision) are effectively blinded. In addition to the obvious effects, a blinded creature has a 50% miss chance in combat (all opponents have total concealment), loses any [Dexterity](https://www.d20pfsrd.com/basics-ability-scores/ability-scores#TOC-Dexterity-Dex-) bonus to [AC](https://www.d20pfsrd.com/gamemastering/combat#TOC-Armor-Class), takes a â2 penalty to [AC](https://www.d20pfsrd.com/gamemastering/combat#TOC-Armor-Class), and takes a â4 penalty on Perception checks that rely on sight and most Strength- and [Dexterity](https://www.d20pfsrd.com/basics-ability-scores/ability-scores#TOC-Dexterity-Dex-)-based skill checks. Areas of darkness include an unlit dungeon chamber, most caverns, and outside on a cloudy, moonless night.
+In areas of darkness, creatures without darkvision are effectively blinded. In addition to the obvious effects, a blinded creature has a 50% miss chance in combat (all opponents have total concealment), loses any Dexterity bonus to AC, takes a â2 penalty to AC, and takes a â4 penalty on Perception checks that rely on sight and most Strength- and Dexterity-based skill checks. Areas of darkness include an unlit dungeon chamber, most caverns, and outside on a cloudy, moonless night.
 
 Characters with low-light vision (elves, gnomes, and half-elves) can see objects twice as far away as the given radius. Double the effective radius of bright light, normal light, and dim light for such characters.
 
-Characters with [darkvision](https://www.d20pfsrd.com/gamemastering/special-abilities#TOC-Darkvision) (dwarves and half-orcs) can see lit areas normally as well as dark areas within 60 feet. A creature can’t hide within 60 feet of a character with [darkvision](https://www.d20pfsrd.com/gamemastering/special-abilities#TOC-Darkvision) unless it is invisible or has cover.
+Characters with darkvision (dwarves and half-orcs) can see lit areas normally as well as dark areas within 60 feet. A creature can’t hide within 60 feet of a character with darkvision unless it is invisible or has cover.
 
 Table: Light Sources and Illumination  Object | Normal | Increased | Duration  
 ---|---|---|---  
@@ -454,12 +454,12 @@ Lantern, hooded | 30 ft. | 60 ft. | 6 hr./pint
 Sunrod | 30 ft. | 60 ft. | 6 hr.  
 Torch | 20 ft. | 40 ft. | 1 hr.  
 Spell | Normal | Increase | Duration  
-[Continual flame](https://www.d20pfsrd.com/magic/all-spells/c/continual-flame) | 20 ft. | 40 ft. | Permanent  
-[Dancing lights](https://www.d20pfsrd.com/magic/all-spells/d/dancing-lights) (torches) | 20 ft. (each) | 40 ft. (each) | 1 min.  
-[Daylight](https://www.d20pfsrd.com/magic/all-spells/d/daylight) | 60 ft.2 | 120 ft. | 10 min./level  
-[Light](https://www.d20pfsrd.com/magic/all-spells/l/light) | 20 ft. | 40 ft. | 10 min./level  
+Continual flame | 20 ft. | 40 ft. | Permanent  
+Dancing lights (torches) | 20 ft. (each) | 40 ft. (each) | 1 min.  
+Daylight | 60 ft.2 | 120 ft. | 10 min./level  
+Light | 20 ft. | 40 ft. | 10 min./level  
   
-1 A candle does not provide normal illumination, only dim illumination. 2 The light for a [daylight](https://www.d20pfsrd.com/magic/all-spells/d/daylight) spell is bright light.
+1 A candle does not provide normal illumination, only dim illumination. 2 The light for a daylight spell is bright light.
 
 ## Breaking and Entering
 
@@ -472,47 +472,47 @@ When attempting to break an object, you have two choices:
 
 ### Smashing an Object
 
-Smashing a weapon or shield with a slashing or bludgeoning weapon is accomplished with the sunder combat maneuver (see [Combat](https://www.d20pfsrd.com/gamemastering/combat)). Smashing an object is like sundering a weapon or shield, except that your combat maneuver check is opposed by the object’s [AC](https://www.d20pfsrd.com/gamemastering/combat#TOC-Armor-Class). Generally, you can smash an object only with a bludgeoning or slashing weapon.
+Smashing a weapon or shield with a slashing or bludgeoning weapon is accomplished with the sunder combat maneuver (see Combat). Smashing an object is like sundering a weapon or shield, except that your combat maneuver check is opposed by the object’s AC. Generally, you can smash an object only with a bludgeoning or slashing weapon.
 
-_Armor Class_ : Objects are easier to hit than creatures because they don’t usually move, but many are tough enough to shrug off some damage from each blow. An object’s [Armor Class](https://www.d20pfsrd.com/gamemastering/combat#TOC-Armor-Class) is equal to 10 + its size modifier (see **Table: Size and Armor Class of Objects**) + its [Dexterity](https://www.d20pfsrd.com/basics-ability-scores/ability-scores#TOC-Dexterity-Dex-) modifier. An inanimate object has not only a [Dexterity](https://www.d20pfsrd.com/basics-ability-scores/ability-scores#TOC-Dexterity-Dex-) of 0 (â5 penalty to [AC](https://www.d20pfsrd.com/gamemastering/combat#TOC-Armor-Class)), but also an additional â2 penalty to its [AC](https://www.d20pfsrd.com/gamemastering/combat#TOC-Armor-Class). Furthermore, if you take a full-round action to line up a shot, you get an automatic hit with a melee weapon and a +5 bonus on attack rolls with a ranged weapon.
+_Armor Class_ : Objects are easier to hit than creatures because they don’t usually move, but many are tough enough to shrug off some damage from each blow. An object’s Armor Class is equal to 10 + its size modifier (see **Table: Size and Armor Class of Objects**) + its Dexterity modifier. An inanimate object has not only a Dexterity of 0 (â5 penalty to AC), but also an additional â2 penalty to its AC. Furthermore, if you take a full-round action to line up a shot, you get an automatic hit with a melee weapon and a +5 bonus on attack rolls with a ranged weapon.
 
 _Hardness_ : Each object has hardnessâa number that represents how well it resists damage. When an object is damaged, subtract its hardness from the damage. Only damage in excess of its hardness is deducted from the object’s hit points (see **Table: Common Armor, Weapon, and Shield Hardness and Hit Points** , **Table: Substance Hardness and Hit Points** , and **Table: Object Hardness and Hit Points**).
 
-_Hit Points_ : An object’s hit point total depends on what it is made of and how big it is (see **Table: Common Armor, Weapon, and Shield Hardness and Hit Points** , **Table: Substance Hardness and Hit Points** , and **Table: Object Hardness and Hit Points**). Objects that take damage equal to or greater than half their total hit points gain the [broken](https://www.d20pfsrd.com/gamemastering/conditions#TOC-Broken) condition. When an object’s hit points reach 0, it’s ruined.
+_Hit Points_ : An object’s hit point total depends on what it is made of and how big it is (see **Table: Common Armor, Weapon, and Shield Hardness and Hit Points** , **Table: Substance Hardness and Hit Points** , and **Table: Object Hardness and Hit Points**). Objects that take damage equal to or greater than half their total hit points gain the broken condition. When an object’s hit points reach 0, it’s ruined.
 
 Very large objects have separate hit point totals for different sections.
 
 _Energy Attacks_ : Energy attacks deal half damage to most objects. Divide the damage by 2 before applying the object’s hardness. Some energy types might be particularly effective against certain objects, subject to GM discretion. For example, fire might do full damage against parchment, cloth, and other objects that burn easily. Sonic might do full damage against glass and crystal objects.
 
-_Ranged Weapon Damage_ : Objects take half damage from ranged weapons (unless the weapon is a [siege engine](https://www.d20pfsrd.com/gamemastering/environment/urban-adventures#TOC-Siege-Engines) or something similar). Divide the damage dealt by 2 before applying the object’s hardness.
+_Ranged Weapon Damage_ : Objects take half damage from ranged weapons (unless the weapon is a siege engine or something similar). Divide the damage dealt by 2 before applying the object’s hardness.
 
 _Ineffective Weapons_ : Certain weapons just can’t effectively deal damage to certain objects. For example, a bludgeoning weapon cannot be used to damage a rope. Likewise, most melee weapons have little effect on stone walls and doors, unless they are designed for breaking up stone, such as a pick or hammer.
 
 _Immunities_ : Objects are immune to nonlethal damage and to critical hits. Even animated objects, which are otherwise considered creatures, have these immunities.
 
-_Magic Armor, Shields, and Weapons_ : Each +1 of enhancement bonus adds 2 to the hardness of [armor](https://www.d20pfsrd.com/basics-ability-scores/glossary#TOC-Armor-Bonus), a weapon, or a shield, and +10 to the item’s hit points.
+_Magic Armor, Shields, and Weapons_ : Each +1 of enhancement bonus adds 2 to the hardness of armor, a weapon, or a shield, and +10 to the item’s hit points.
 
 _Vulnerability to Certain Attacks_ : Certain attacks are especially successful against some objects. In such cases, attacks deal double their normal damage and may ignore the object’s hardness.
 
-_Damaged Objects_ : A damaged object remains functional with the [broken](https://www.d20pfsrd.com/gamemastering/conditions#TOC-Broken) condition until the item’s hit points are reduced to 0, at which point it is destroyed. Damaged (but not destroyed) objects can be repaired with the Craft skill and a number of spells.
+_Damaged Objects_ : A damaged object remains functional with the broken condition until the item’s hit points are reduced to 0, at which point it is destroyed. Damaged (but not destroyed) objects can be repaired with the Craft skill and a number of spells.
 
 _Saving Throws_ : Non-magical, unattended items never make saving throws. They are considered to have failed their saving throws, so they are always fully affected by spells and other attacks that allow saving throws to resist or negate. An item attended by a character (being grasped, touched, or worn) makes saving throws as the character (that is, using the character’s saving throw bonus).
 
-Magic items always get saving throws. A magic item’s [Fortitude](https://www.d20pfsrd.com/gamemastering/combat#TOC-Fortitude), [Reflex](https://www.d20pfsrd.com/gamemastering/combat#TOC-Will), and [Will](https://www.d20pfsrd.com/gamemastering/combat#TOC-Will) save bonuses are equal to 2 + half its caster level. An attended magic item either makes saving throws as its owner or uses its own saving throw bonus, whichever is better.
+Magic items always get saving throws. A magic item’s Fortitude, Reflex, and Will save bonuses are equal to 2 + half its caster level. An attended magic item either makes saving throws as its owner or uses its own saving throw bonus, whichever is better.
 
-_Animated Objects_ : Animated objects count as creatures for purposes of determining their [Armor Class](https://www.d20pfsrd.com/gamemastering/combat#TOC-Armor-Class) (do not treat them as inanimate objects).
+_Animated Objects_ : Animated objects count as creatures for purposes of determining their Armor Class (do not treat them as inanimate objects).
 
 ### Breaking Items
 
 When a character tries to break or burst something with sudden force rather than by dealing damage, use a Strength check (rather than an attack roll and damage roll, as with the sunder special attack) to determine whether he succeeds. Since hardness doesn’t affect an object’s Break DC, this value depends more on the construction of the item than on the material the item is made of. Consult **Table: DCs to Break or Burst Items** for a list of common Break DCs.
 
-If an item has lost half or more of its hit points, the item gains the [broken](https://www.d20pfsrd.com/gamemastering/conditions#TOC-Broken) condition and the DC to break it drops by 2.
+If an item has lost half or more of its hit points, the item gains the broken condition and the DC to break it drops by 2.
 
 Larger and smaller creatures get size bonuses and size penalties on Strength checks to break open doors as follows: Fine â16, Diminutive â12, Tiny â8, Small â4, Large +4, Huge +8, Gargantuan +12, Colossal +16.
 
-**Note** : Oil provides a +2 [circumstance bonus](https://www.d20pfsrd.com/basics-ability-scores/glossary#TOC-Circumstance-Bonus) on checks to open stuck doors and locks (**Source** Dungeoneer’s Handbook.)
+**Note** : Oil provides a +2 circumstance bonus on checks to open stuck doors and locks (**Source** Dungeoneer’s Handbook.)
 
-A crowbar or portable ram improves a character’s chance of breaking open a door (see [Equipment](https://www.d20pfsrd.com/equipment)).
+A crowbar or portable ram improves a character’s chance of breaking open a door (see Equipment).
 
 Table: Size and Armor Class of Objects  Size | AC Modifier  
 ---|---  
@@ -587,6 +587,6 @@ Heavy steel shield | 10 | 20
 Tower shield | 5 | 20  
   
 1 Add +2 for each +1 enhancement bonus of magic items.  
-2 The hp value given is for Medium [armor](https://www.d20pfsrd.com/basics-ability-scores/glossary#TOC-Armor-Bonus), weapons, and shields. Divide by 2 for each size category of the item smaller than Medium, or multiply it by 2 for each size category larger than Medium.  
+2 The hp value given is for Medium armor, weapons, and shields. Divide by 2 for each size category of the item smaller than Medium, or multiply it by 2 for each size category larger than Medium.  
 3 Add 10 hp for each +1 enhancement bonus of magic items.  
 4 Varies by material; see **Table: Substance Hardness and Hit Points**.

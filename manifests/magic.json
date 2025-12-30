@@ -7,32 +7,28 @@
       "title": "Magic Overview and Spell Types",
       "anchor_heading": "# Magic",
       "includes_subheadings": [],
-      "description": "Overview of magic system, spell types (arcane, divine, psychic), spell slots, and basic spellcasting concepts",
+      "description": "Basic overview of magic types (arcane, divine, psychic), spell slots, and how spellcasters learn and prepare spells",
       "keywords": [
-        "magic",
-        "spells",
+        "spell",
         "arcane",
         "divine",
         "psychic",
         "spell slots",
-        "spellcasting",
-        "casters"
+        "spellcaster"
       ]
     },
     {
       "id": "casting_spells",
-      "title": "Casting Spells - Core Mechanics",
+      "title": "Casting Spells",
       "anchor_heading": "## Casting Spells",
       "includes_subheadings": [
         "### Choosing a Spell"
       ],
-      "description": "Core mechanics of spell casting including choosing spells, verbal/somatic/material components, prepared vs spontaneous casting",
+      "description": "Rules for choosing and casting spells, including spell preparation requirements and verbal/somatic components",
       "keywords": [
-        "casting",
-        "choosing spells",
+        "casting spells",
+        "choosing a spell",
         "components",
-        "prepared spells",
-        "spontaneous",
         "verbal",
         "somatic",
         "material"
@@ -40,18 +36,17 @@
     },
     {
       "id": "concentration",
-      "title": "Concentration Checks",
+      "title": "Concentration",
       "anchor_heading": "### Concentration",
       "includes_subheadings": [],
-      "description": "Concentration check mechanics, DCs for various situations, interruptions while casting, defensive casting",
+      "description": "Concentration checks required to cast spells under various distracting conditions, including DC table and specific situations",
       "keywords": [
         "concentration",
-        "concentration checks",
-        "interruption",
-        "casting defensively",
-        "injury",
+        "concentration check",
+        "distraction",
+        "injured while casting",
         "grappled",
-        "entangled"
+        "defensive casting"
       ]
     },
     {
@@ -59,31 +54,50 @@
       "title": "Counterspells",
       "anchor_heading": "### Counterspells",
       "includes_subheadings": [],
-      "description": "How counterspells work, identifying spells with Spellcraft, dispel magic as counterspell, metamagic and countering",
+      "description": "Rules for using counterspells to disrupt enemy spellcasting, including identification and dispel magic as counterspell",
       "keywords": [
-        "counterspells",
-        "countering",
-        "spellcraft",
+        "counterspell",
+        "counter",
         "dispel magic",
-        "metamagic",
+        "spellcraft",
         "ready action"
       ]
     },
     {
-      "id": "caster_level_and_spell_failure",
-      "title": "Caster Level and Spell Failure",
+      "id": "caster_level",
+      "title": "Caster Level",
       "anchor_heading": "### Caster Level",
-      "includes_subheadings": [
-        "### Spell Failure",
-        "### The Spell's Result"
-      ],
-      "description": "Caster level mechanics, spell failure conditions, determining spell results and effects",
+      "includes_subheadings": [],
+      "description": "How caster level affects spell power, spell resistance checks, and dispel attempts",
       "keywords": [
         "caster level",
-        "spell failure",
-        "spell results",
         "spell resistance",
-        "level dependent"
+        "dispel",
+        "spell power"
+      ]
+    },
+    {
+      "id": "spell_failure",
+      "title": "Spell Failure",
+      "anchor_heading": "### Spell Failure",
+      "includes_subheadings": [],
+      "description": "Conditions that cause spells to fail, including armor interference and concentration loss",
+      "keywords": [
+        "spell failure",
+        "armor",
+        "somatic components"
+      ]
+    },
+    {
+      "id": "spell_results",
+      "title": "The Spell's Result",
+      "anchor_heading": "### The Spell's Result",
+      "includes_subheadings": [],
+      "description": "How to apply spell effects after determining targets and saving throws",
+      "keywords": [
+        "spell result",
+        "targets",
+        "saving throws"
       ]
     },
     {
@@ -91,12 +105,11 @@
       "title": "Special Spell Effects",
       "anchor_heading": "### Special Spell Effects",
       "includes_subheadings": [],
-      "description": "Special spell mechanics including attacks, bonus types, bringing back the dead, negative levels, revivification",
+      "description": "Special rules for attacks, bonus types, bringing back the dead, and spell interactions",
       "keywords": [
-        "spell effects",
         "attacks",
         "bonus types",
-        "resurrection",
+        "bringing back the dead",
         "negative levels",
         "revivification"
       ]
@@ -106,14 +119,13 @@
       "title": "Combining Magic Effects",
       "anchor_heading": "### Combining Magic Effects",
       "includes_subheadings": [],
-      "description": "How multiple spells interact, stacking rules, same effects at different strengths, mental control conflicts",
+      "description": "Rules for how multiple spells and magical effects interact, including stacking effects and mental control",
       "keywords": [
+        "stacking effects",
         "combining spells",
-        "stacking",
-        "multiple effects",
+        "bonus types",
         "mental control",
-        "bonus stacking",
-        "spell interactions"
+        "opposite effects"
       ]
     },
     {
@@ -121,30 +133,48 @@
       "title": "Spell Description Format",
       "anchor_heading": "## Spell Descriptions",
       "includes_subheadings": [
-        "### Name",
-        "### School (Subschool)"
+        "### Name"
       ],
-      "description": "Standard format for spell descriptions including name and school information",
+      "description": "Standard format for spell descriptions and explanation of each element",
       "keywords": [
-        "spell descriptions",
-        "spell format",
-        "spell name",
-        "spell school",
-        "subschool"
+        "spell description",
+        "format",
+        "name"
       ]
     },
     {
-      "id": "magic_schools_abjuration_conjuration",
-      "title": "Magic Schools: Abjuration and Conjuration",
+      "id": "spell_schools",
+      "title": "Schools of Magic",
+      "anchor_heading": "### School (Subschool)",
+      "includes_subheadings": [],
+      "description": "Overview of the eight schools of magic and universal spells",
+      "keywords": [
+        "school",
+        "magic school",
+        "universal"
+      ]
+    },
+    {
+      "id": "abjuration_school",
+      "title": "Abjuration School",
       "anchor_heading": "#### Abjuration",
-      "includes_subheadings": [
-        "#### Conjuration"
-      ],
-      "description": "Abjuration and Conjuration schools, their effects, subschools (calling, creation, healing, summoning, teleportation)",
+      "includes_subheadings": [],
+      "description": "Abjuration spells create barriers, negate abilities, and protect against harm",
       "keywords": [
         "abjuration",
-        "conjuration",
         "protective spells",
+        "barriers",
+        "magical interference"
+      ]
+    },
+    {
+      "id": "conjuration_school",
+      "title": "Conjuration School",
+      "anchor_heading": "#### Conjuration",
+      "includes_subheadings": [],
+      "description": "Conjuration spells transport, create, heal, summon, or teleport creatures and objects",
+      "keywords": [
+        "conjuration",
         "calling",
         "creation",
         "healing",
@@ -153,57 +183,86 @@
       ]
     },
     {
-      "id": "magic_schools_divination_enchantment",
-      "title": "Magic Schools: Divination and Enchantment",
+      "id": "divination_school",
+      "title": "Divination School",
       "anchor_heading": "#### Divination",
-      "includes_subheadings": [
-        "#### Enchantment"
-      ],
-      "description": "Divination and Enchantment schools, scrying subschool, charm and compulsion subschools, mind-affecting effects",
+      "includes_subheadings": [],
+      "description": "Divination spells reveal information, predict the future, and detect hidden things",
       "keywords": [
         "divination",
-        "enchantment",
         "scrying",
-        "charm",
-        "compulsion",
-        "mind-affecting",
-        "information gathering"
+        "detect",
+        "cone-shaped areas",
+        "sensor"
       ]
     },
     {
-      "id": "magic_schools_evocation_illusion",
-      "title": "Magic Schools: Evocation and Illusion",
+      "id": "enchantment_school",
+      "title": "Enchantment School",
+      "anchor_heading": "#### Enchantment",
+      "includes_subheadings": [],
+      "description": "Enchantment spells affect minds through charm and compulsion effects",
+      "keywords": [
+        "enchantment",
+        "mind-affecting",
+        "charm",
+        "compulsion"
+      ]
+    },
+    {
+      "id": "evocation_school",
+      "title": "Evocation School",
       "anchor_heading": "#### Evocation",
-      "includes_subheadings": [
-        "#### Illusion",
-        "##### Saving Throws and Illusions (Disbelief)"
-      ],
-      "description": "Evocation and Illusion schools, illusion subschools (figment, glamer, pattern, phantasm, shadow), disbelief mechanics",
+      "includes_subheadings": [],
+      "description": "Evocation spells manipulate energy and create dramatic effects from nothing",
       "keywords": [
         "evocation",
+        "energy",
+        "damage",
+        "spectacular effects"
+      ]
+    },
+    {
+      "id": "illusion_school",
+      "title": "Illusion School",
+      "anchor_heading": "#### Illusion",
+      "includes_subheadings": [
+        "##### Saving Throws and Illusions (Disbelief)"
+      ],
+      "description": "Illusion spells deceive senses through figments, glamers, patterns, phantasms, and shadows",
+      "keywords": [
         "illusion",
         "figment",
         "glamer",
         "pattern",
         "phantasm",
         "shadow",
-        "disbelief",
-        "damage spells"
+        "disbelief"
       ]
     },
     {
-      "id": "magic_schools_necromancy_transmutation",
-      "title": "Magic Schools: Necromancy and Transmutation",
+      "id": "necromancy_school",
+      "title": "Necromancy School",
       "anchor_heading": "#### Necromancy",
-      "includes_subheadings": [
-        "#### Transmutation"
-      ],
-      "description": "Necromancy and Transmutation schools, polymorph subschool and detailed polymorph rules",
+      "includes_subheadings": [],
+      "description": "Necromancy spells manipulate death, unlife, and life force",
       "keywords": [
         "necromancy",
-        "transmutation",
-        "undead",
         "death",
+        "unlife",
+        "undead",
+        "life force"
+      ]
+    },
+    {
+      "id": "transmutation_school",
+      "title": "Transmutation School",
+      "anchor_heading": "#### Transmutation",
+      "includes_subheadings": [],
+      "description": "Transmutation spells change properties of creatures, objects, and conditions, including polymorph effects",
+      "keywords": [
+        "transmutation",
+        "change",
         "polymorph",
         "shape change",
         "ability adjustments"
@@ -214,129 +273,168 @@
       "title": "Spell Descriptors",
       "anchor_heading": "### [Descriptor]",
       "includes_subheadings": [],
-      "description": "All spell descriptors (acid, air, chaotic, cold, curse, etc.) and their mechanical effects and interactions",
+      "description": "Overview of spell descriptors and their general function",
       "keywords": [
-        "descriptors",
-        "acid",
-        "air",
-        "chaotic",
-        "cold",
-        "curse",
-        "darkness",
-        "death",
-        "disease",
-        "evil",
-        "fear",
-        "fire",
-        "force",
-        "good",
-        "language-dependent",
-        "lawful",
-        "light",
-        "mind-affecting",
-        "poison",
-        "sonic"
+        "descriptor",
+        "spell descriptor",
+        "categorization"
       ]
     },
     {
-      "id": "spell_mechanics_level_components",
-      "title": "Spell Level, Components, and Casting Time",
+      "id": "spell_levels",
+      "title": "Spell Level",
       "anchor_heading": "### Level",
-      "includes_subheadings": [
-        "### Components",
-        "### Casting Time"
-      ],
-      "description": "Spell level mechanics, spell components (V, S, M, F, DF), casting times and their effects",
+      "includes_subheadings": [],
+      "description": "How spell level determines relative power and affects saving throw DCs",
       "keywords": [
         "spell level",
+        "power",
+        "saving throw",
+        "DC"
+      ]
+    },
+    {
+      "id": "spell_components",
+      "title": "Spell Components",
+      "anchor_heading": "### Components",
+      "includes_subheadings": [],
+      "description": "Verbal, somatic, material, focus, and divine focus components required to cast spells",
+      "keywords": [
         "components",
         "verbal",
         "somatic",
         "material",
         "focus",
-        "divine focus",
-        "casting time",
-        "standard action",
-        "full round"
+        "divine focus"
       ]
     },
     {
-      "id": "spell_range_and_targeting",
-      "title": "Spell Range and Targeting",
+      "id": "casting_time",
+      "title": "Casting Time",
+      "anchor_heading": "### Casting Time",
+      "includes_subheadings": [],
+      "description": "How long it takes to cast spells and rules for longer casting times",
+      "keywords": [
+        "casting time",
+        "standard action",
+        "full-round action",
+        "swift action",
+        "concentration"
+      ]
+    },
+    {
+      "id": "spell_range",
+      "title": "Range and Targeting",
       "anchor_heading": "### Range",
       "includes_subheadings": [
         "### Aiming a Spell"
       ],
-      "description": "Spell ranges (personal, touch, close, medium, long), targeting mechanics, areas of effect, line of effect",
+      "description": "Spell ranges, targeting rules, and area of effect mechanics",
       "keywords": [
         "range",
-        "targeting",
         "personal",
         "touch",
         "close",
         "medium",
         "long",
-        "area of effect",
-        "burst",
-        "emanation",
-        "spread",
-        "cone",
-        "line",
+        "target",
+        "area",
+        "effect",
         "line of effect"
       ]
     },
     {
-      "id": "spell_duration_saves_resistance",
-      "title": "Duration, Saving Throws, and Spell Resistance",
+      "id": "spell_duration",
+      "title": "Duration",
       "anchor_heading": "### Duration",
-      "includes_subheadings": [
-        "### Saving Throws",
-        "### Spell Resistance",
-        "### Descriptive Text"
-      ],
-      "description": "Spell duration types, saving throw mechanics, spell resistance rules, and descriptive text guidelines",
+      "includes_subheadings": [],
+      "description": "How long spell effects last, including concentration, permanent, and dismissible spells",
       "keywords": [
         "duration",
-        "instantaneous",
-        "permanent",
         "concentration",
-        "saving throws",
-        "spell resistance",
+        "permanent",
+        "instantaneous",
+        "dismissible",
+        "touch spells",
+        "holding the charge"
+      ]
+    },
+    {
+      "id": "saving_throws",
+      "title": "Saving Throws",
+      "anchor_heading": "### Saving Throws",
+      "includes_subheadings": [],
+      "description": "Rules for saving throws against spells, including DCs and item saving throws",
+      "keywords": [
+        "saving throw",
         "negates",
         "partial",
         "half",
-        "harmless"
+        "disbelief",
+        "harmless",
+        "object",
+        "DC"
       ]
     },
     {
-      "id": "communal_spells_extradimensional",
-      "title": "Communal Spells and Extradimensional Spaces",
+      "id": "spell_resistance",
+      "title": "Spell Resistance",
+      "anchor_heading": "### Spell Resistance",
+      "includes_subheadings": [],
+      "description": "How spell resistance works as a defense against magical attacks",
+      "keywords": [
+        "spell resistance",
+        "caster level check",
+        "SR"
+      ]
+    },
+    {
+      "id": "descriptive_text",
+      "title": "Descriptive Text",
+      "anchor_heading": "### Descriptive Text",
+      "includes_subheadings": [],
+      "description": "Where detailed spell mechanics and effects are explained",
+      "keywords": [
+        "descriptive text",
+        "spell mechanics"
+      ]
+    },
+    {
+      "id": "communal_spells",
+      "title": "Communal Spells",
       "anchor_heading": "### Communal Spells",
-      "includes_subheadings": [
-        "### Extradimensional Spaces"
-      ],
-      "description": "Rules for communal spells and how extradimensional spaces interact with each other",
+      "includes_subheadings": [],
+      "description": "Rules for spells that divide duration among multiple targets",
       "keywords": [
         "communal spells",
-        "extradimensional",
-        "rope trick",
-        "bag of holding",
-        "portable hole",
-        "duration splitting"
+        "duration",
+        "multiple targets"
       ]
     },
     {
-      "id": "arcane_spells_overview",
-      "title": "Arcane Spells Overview",
+      "id": "extradimensional_spaces",
+      "title": "Extradimensional Spaces",
+      "anchor_heading": "### Extradimensional Spaces",
+      "includes_subheadings": [],
+      "description": "How extradimensional spaces interact with each other and cease to function when nested",
+      "keywords": [
+        "extradimensional spaces",
+        "rope trick",
+        "bag of holding",
+        "portable hole"
+      ]
+    },
+    {
+      "id": "arcane_spells",
+      "title": "Arcane Spells",
       "anchor_heading": "## Arcane Spells",
       "includes_subheadings": [],
-      "description": "Introduction to arcane spells cast by wizards, sorcerers, and bards",
+      "description": "Overview of arcane spellcasting by wizards, sorcerers, and bards",
       "keywords": [
         "arcane spells",
-        "wizards",
-        "sorcerers",
-        "bards",
-        "arcane magic"
+        "wizard",
+        "sorcerer",
+        "bard"
       ]
     },
     {
@@ -344,21 +442,19 @@
       "title": "Preparing Wizard Spells",
       "anchor_heading": "### Preparing Wizard Spells",
       "includes_subheadings": [],
-      "description": "Complete wizard spell preparation rules including rest, study time, environment requirements, spell retention",
+      "description": "Complete rules for how wizards prepare spells, including rest, environment, and spell retention",
       "keywords": [
-        "wizard spells",
         "preparing spells",
+        "wizard",
         "spellbook",
         "rest",
         "study",
-        "spell preparation",
-        "spell retention",
-        "intelligence"
+        "spell preparation"
       ]
     },
     {
       "id": "arcane_magical_writings",
-      "title": "Arcane Magical Writings and Spellbooks",
+      "title": "Arcane Magical Writings",
       "anchor_heading": "### Arcane Magical Writings",
       "includes_subheadings": [
         "#### Wizard Spells and Borrowed Spellbooks",
@@ -368,48 +464,43 @@
         "#### Selling a Spellbook",
         "#### [3PP] Spellbooks & Scrolls Variant Rules"
       ],
-      "description": "Deciphering magical writing, spellbook mechanics, adding and copying spells, spellbook costs and rules",
+      "description": "Rules for deciphering, copying, and managing wizard spellbooks and scrolls",
       "keywords": [
         "spellbook",
-        "magical writing",
+        "scroll",
         "spellcraft",
+        "decipher",
         "copying spells",
-        "spell research",
-        "writing costs",
-        "borrowed spellbooks"
+        "magical writing"
       ]
     },
     {
       "id": "sorcerers_and_bards",
-      "title": "Sorcerers and Bards - Spontaneous Casters",
+      "title": "Sorcerers and Bards",
       "anchor_heading": "### Sorcerers and Bards",
       "includes_subheadings": [],
-      "description": "Rules for spontaneous spellcasters including daily readying, spell selection, and learning new spells",
+      "description": "How sorcerers and bards cast spells without preparation and add spells to their repertoire",
       "keywords": [
         "sorcerer",
         "bard",
         "spontaneous casting",
         "spells known",
-        "charisma",
-        "daily readying",
-        "spell selection"
+        "charisma"
       ]
     },
     {
-      "id": "divine_spells_overview",
-      "title": "Divine Spells Overview",
+      "id": "divine_spells",
+      "title": "Divine Spells",
       "anchor_heading": "## Divine Spells",
       "includes_subheadings": [],
-      "description": "Introduction to divine spells and divine spellcasters including clerics, druids, paladins, and rangers",
+      "description": "Overview of divine spellcasting and its differences from arcane magic",
       "keywords": [
         "divine spells",
-        "clerics",
-        "druids",
-        "paladins",
-        "rangers",
-        "divine magic",
-        "deity",
-        "divine force"
+        "cleric",
+        "druid",
+        "paladin",
+        "ranger",
+        "divine source"
       ]
     },
     {
@@ -417,21 +508,43 @@
       "title": "Preparing Divine Spells",
       "anchor_heading": "## Preparing Divine Spells",
       "includes_subheadings": [],
-      "description": "Divine spell preparation including prayer times, spontaneous casting, and divine magical writings",
+      "description": "Complete rules for divine spell preparation, including prayer times and spontaneous casting",
       "keywords": [
         "divine spell preparation",
         "prayer",
-        "wisdom",
+        "meditation",
         "spontaneous casting",
         "cure spells",
-        "inflict spells",
-        "summon nature's ally",
-        "divine focus"
+        "inflict spells"
+      ]
+    },
+    {
+      "id": "divine_magical_writings",
+      "title": "Divine Magical Writings",
+      "anchor_heading": "### Divine Magical Writings",
+      "includes_subheadings": [],
+      "description": "Rules for divine spells in written form and scroll usage",
+      "keywords": [
+        "divine magical writing",
+        "divine scroll",
+        "class spell list"
+      ]
+    },
+    {
+      "id": "new_divine_spells",
+      "title": "New Divine Spells",
+      "anchor_heading": "### New Divine Spells",
+      "includes_subheadings": [],
+      "description": "How divine spellcasters gain new spells and conduct independent research",
+      "keywords": [
+        "new divine spells",
+        "spell research",
+        "divine caster"
       ]
     },
     {
       "id": "special_abilities",
-      "title": "Special Abilities Types",
+      "title": "Special Abilities",
       "anchor_heading": "## Special Abilities",
       "includes_subheadings": [
         "#### Spell-Like Abilities (Sp)",
@@ -439,113 +552,113 @@
         "#### Extraordinary Abilities (Ex)",
         "#### Natural Abilities"
       ],
-      "description": "Types of special abilities including spell-like, supernatural, extraordinary, and natural abilities",
+      "description": "Different types of special abilities and how they interact with magic",
       "keywords": [
-        "special abilities",
         "spell-like abilities",
-        "supernatural",
-        "extraordinary",
-        "natural abilities",
-        "antimagic",
-        "dispel"
+        "supernatural abilities",
+        "extraordinary abilities",
+        "natural abilities"
       ]
     },
     {
       "id": "antimagic",
-      "title": "Antimagic Rules",
+      "title": "Antimagic",
       "anchor_heading": "## Antimagic",
       "includes_subheadings": [],
-      "description": "How antimagic fields work, what they suppress, and interactions with various magical effects",
+      "description": "Rules for antimagic fields and how they suppress magical effects",
       "keywords": [
         "antimagic",
         "antimagic field",
-        "suppression",
-        "golems",
-        "constructs",
-        "summoned creatures",
-        "magic items"
+        "suppress magic",
+        "magical effects"
       ]
     },
     {
-      "id": "wishes_and_spell_research",
-      "title": "Wishes and Spell Research",
+      "id": "dealing_with_wishes",
+      "title": "Dealing with Wishes",
       "anchor_heading": "## Dealing with Wishes",
-      "includes_subheadings": [
-        "## Research and Designing Spells"
-      ],
-      "description": "Guidelines for handling wish spells and creating new spells including research costs and balance considerations",
+      "includes_subheadings": [],
+      "description": "GM guidance on handling wish spells, including types of wishes and potential complications",
       "keywords": [
         "wish",
         "miracle",
-        "spell research",
-        "spell design",
-        "spell creation",
-        "balance",
-        "spell levels",
-        "components"
+        "twisting wishes",
+        "granting wishes",
+        "wish complications"
       ]
     },
     {
-      "id": "devil_summoning",
-      "title": "Devil True Names and Summoning",
+      "id": "research_and_designing_spells",
+      "title": "Research and Designing Spells",
+      "anchor_heading": "## Research and Designing Spells",
+      "includes_subheadings": [
+        "### Good Spells and Bad Spells",
+        "### Creating a Spell"
+      ],
+      "description": "Guidelines for creating new spells, including balance considerations and research mechanics",
+      "keywords": [
+        "spell research",
+        "designing spells",
+        "new spells",
+        "spell balance",
+        "spell creation"
+      ]
+    },
+    {
+      "id": "devil_true_names",
+      "title": "Devil True Names and Infernal Sigils",
       "anchor_heading": "## Devil True Names and Infernal Sigils",
       "includes_subheadings": [
         "### Discovering True Names and Infernal Sigils"
       ],
-      "description": "Rules for discovering and using devil true names and sigils for summoning and binding",
+      "description": "Rules for discovering and using devil true names and sigils for summoning",
       "keywords": [
-        "devils",
-        "true names",
-        "sigils",
+        "devil",
+        "true name",
+        "infernal sigil",
         "planar binding",
-        "summoning",
-        "research",
-        "interrogation",
-        "infernal"
+        "summoning"
       ]
     },
     {
-      "id": "daemon_summoning",
+      "id": "summoning_daemons",
       "title": "Summoning Daemons",
       "anchor_heading": "## Summoning Daemons",
       "includes_subheadings": [],
-      "description": "Rules and dangers of summoning daemons including magic circles, names, texts, and daemon-specific mechanics",
+      "description": "Specialized rules and considerations for summoning daemons, including required components and texts",
       "keywords": [
-        "daemons",
+        "daemon",
         "summoning",
-        "abaddon",
         "magic circle",
-        "daemon names",
-        "summoning texts",
-        "planar binding"
+        "planar ally",
+        "infernal texts"
       ]
     },
     {
-      "id": "wilderness_spells",
-      "title": "Wilderness and Nature Magic",
+      "id": "spells_of_the_wild",
+      "title": "Spells of the Wild",
       "anchor_heading": "## Spells of the Wild",
       "includes_subheadings": [
         "### Low-Level Play (Levels 1\u20136)",
-        "### Mid-Level Play (Levels 7\u201312)",
-        "### High-Level Play (Level 13+)",
         "#### Conjuration",
         "#### Divination",
         "#### Enchantment",
         "#### Transmutation",
         "#### Intrigue in the Wild",
-        "#### Abjuration"
+        "### Mid-Level Play (Levels 7\u201312)",
+        "#### Abjuration",
+        "#### Conjuration",
+        "#### Transmutation",
+        "### High-Level Play (Level 13+)"
       ],
-      "description": "Wilderness-themed spells organized by level ranges, including nature magic, terrain manipulation, and survival spells",
+      "description": "Wilderness-themed spells organized by level range and school, with tactical applications",
       "keywords": [
         "wilderness spells",
-        "nature magic",
-        "survival",
+        "nature spells",
+        "druid",
+        "ranger",
         "terrain",
-        "plants",
-        "animals",
-        "weather",
-        "druid spells",
-        "ranger spells"
+        "survival"
       ]
     }
   ]

@@ -52,7 +52,8 @@ def process_file(
     file_path: Path,
     output_dir: Path,
     model: str = "claude-sonnet-4-20250514",
-    verbose: bool = False
+    verbose: bool = False,
+    timeout: float = 300.0
 ) -> bool:
     """Process a single markdown file and generate its section manifest.
 
@@ -62,6 +63,7 @@ def process_file(
         output_dir: Directory to write manifest files
         model: Claude model to use
         verbose: Whether to print detailed progress
+        timeout: Request timeout in seconds (default: 300)
 
     Returns:
         True if successful, False otherwise
@@ -83,6 +85,7 @@ def process_file(
         message = client.messages.create(
             model=model,
             max_tokens=16384,
+            timeout=timeout,
             messages=[
                 {"role": "user", "content": prompt}
             ]
@@ -112,6 +115,9 @@ def process_file(
 
         return True
 
+    except anthropic.APITimeoutError:
+        print(f"Timeout processing {filename} (exceeded {timeout}s)", file=sys.stderr)
+        return False
     except anthropic.APIError as e:
         print(f"API error processing {filename}: {e}", file=sys.stderr)
         return False
@@ -156,6 +162,12 @@ def main():
         action="store_true",
         help="Print detailed progress"
     )
+    parser.add_argument(
+        "--timeout",
+        type=float,
+        default=300.0,
+        help="API request timeout in seconds (default: 300)"
+    )
 
     args = parser.parse_args()
 
@@ -193,7 +205,7 @@ def main():
     # Process each file
     success_count = 0
     for file_path in files:
-        if process_file(client, file_path, args.output_dir, args.model, args.verbose):
+        if process_file(client, file_path, args.output_dir, args.model, args.verbose, args.timeout):
             success_count += 1
 
     print(f"\nCompleted: {success_count}/{len(files)} files processed successfully")
