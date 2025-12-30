@@ -1,0 +1,129 @@
+{
+  "file": "exploration-movement.md",
+  "source_path": "rules/exploration-movement.md",
+  "sections": [
+    {
+      "id": "exploration_system",
+      "title": "Exploration System",
+      "anchor_heading": "## Exploration",
+      "includes_subheadings": [
+        "### The Exploration Process",
+        "### Character Actions",
+        "### Additional Factors",
+        "### Exploration Rewards",
+        "### Creating A Territory",
+        "#### Gnoll Canyon Territory CR 5"
+      ],
+      "description": "Complete exploration system for wilderness territories including Discovery Points, exploration checks, locations, way signs, character actions, rewards, and territory creation guidelines",
+      "keywords": [
+        "exploration",
+        "discovery points",
+        "territory",
+        "way signs",
+        "survival",
+        "wilderness",
+        "locations"
+      ]
+    },
+    {
+      "id": "carrying_capacity",
+      "title": "Carrying Capacity and Encumbrance",
+      "anchor_heading": "## Carrying Capacity",
+      "includes_subheadings": [
+        "### Armor and Encumbrance for Other Base Speeds"
+      ],
+      "description": "Rules for encumbrance by armor and weight, carrying capacity by Strength score, lifting and dragging limits, size modifiers for creatures, and speed penalties for different load levels",
+      "keywords": [
+        "encumbrance",
+        "carrying capacity",
+        "strength",
+        "load",
+        "armor",
+        "weight",
+        "lifting",
+        "dragging"
+      ]
+    },
+    {
+      "id": "movement_modes",
+      "title": "Movement and Distance",
+      "anchor_heading": "## Movement",
+      "includes_subheadings": [
+        "### Modes of Movement",
+        "### Tactical Movement",
+        "### Local Movement",
+        "### Overland Movement"
+      ],
+      "description": "Movement at different scales including tactical, local, and overland movement with rules for walking, hustling, running, terrain effects, forced marches, mounted movement, and waterborne travel",
+      "keywords": [
+        "movement",
+        "speed",
+        "tactical",
+        "overland",
+        "hustle",
+        "run",
+        "terrain",
+        "forced march",
+        "mounted"
+      ]
+    },
+    {
+      "id": "evasion_pursuit",
+      "title": "Evasion and Pursuit",
+      "anchor_heading": "## Evasion and Pursuit",
+      "includes_subheadings": [],
+      "description": "Rules for chases and pursuit including opposed ability checks for equal speed situations and extended overland chases",
+      "keywords": [
+        "chase",
+        "pursuit",
+        "evasion",
+        "dexterity",
+        "constitution",
+        "speed"
+      ]
+    },
+    {
+      "id": "vision_light",
+      "title": "Vision and Light",
+      "anchor_heading": "### Bright Light",
+      "includes_subheadings": [
+        "### Normal Light",
+        "### Dim Light",
+        "### Darkness"
+      ],
+      "description": "Complete lighting rules covering bright light, normal light, dim light, and darkness with effects on visibility, concealment, stealth, and special vision types like darkvision and low-light vision",
+      "keywords": [
+        "light",
+        "darkness",
+        "vision",
+        "darkvision",
+        "concealment",
+        "stealth",
+        "illumination",
+        "bright light",
+        "dim light"
+      ]
+    },
+    {
+      "id": "breaking_entering",
+      "title": "Breaking and Entering",
+      "anchor_heading": "## Breaking and Entering",
+      "includes_subheadings": [
+        "### Smashing an Object",
+        "### Breaking Items"
+      ],
+      "description": "Rules for destroying objects including smashing with weapons, breaking with strength, armor class of objects, hardness, hit points, energy attacks, magic item durability, and break DCs",
+      "keywords": [
+        "breaking",
+        "objects",
+        "hardness",
+        "hit points",
+        "sunder",
+        "strength check",
+        "AC",
+        "damage",
+        "destroy"
+      ]
+    }
+  ]
+}

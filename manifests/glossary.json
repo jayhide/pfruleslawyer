@@ -1,0 +1,1055 @@
+{
+  "file": "glossary.md",
+  "source_path": "rules/glossary.md",
+  "sections": [
+    {
+      "id": "five_foot_step",
+      "title": "5-foot Step",
+      "anchor_heading": "#### 5-foot Step",
+      "includes_subheadings": [],
+      "description": "Rules for taking a 5-foot step movement, including when it can be used, limitations, and restrictions",
+      "keywords": [
+        "5-foot step",
+        "movement",
+        "opportunity attack",
+        "difficult terrain"
+      ]
+    },
+    {
+      "id": "ability_score",
+      "title": "Ability Score",
+      "anchor_heading": "#### Ability Score",
+      "includes_subheadings": [],
+      "description": "Definition of the six ability scores (Strength, Dexterity, Constitution, Intelligence, Wisdom, Charisma)",
+      "keywords": [
+        "ability scores",
+        "strength",
+        "dexterity",
+        "constitution",
+        "intelligence",
+        "wisdom",
+        "charisma"
+      ]
+    },
+    {
+      "id": "action",
+      "title": "Action",
+      "anchor_heading": "#### Action",
+      "includes_subheadings": [],
+      "description": "Overview of different types of actions in combat (standard, move, swift, free, full-round)",
+      "keywords": [
+        "action",
+        "standard action",
+        "move action",
+        "swift action",
+        "free action",
+        "full-round action",
+        "combat"
+      ]
+    },
+    {
+      "id": "adventure",
+      "title": "Adventure",
+      "anchor_heading": "#### Adventure",
+      "includes_subheadings": [],
+      "description": "Definition of an adventure as a self-contained storyline composed of encounters",
+      "keywords": [
+        "adventure",
+        "storyline",
+        "encounters"
+      ]
+    },
+    {
+      "id": "aid_another",
+      "title": "Aid Another",
+      "anchor_heading": "#### Aid Another",
+      "includes_subheadings": [],
+      "description": "Rules for helping another character on skill checks through cooperative effort",
+      "keywords": [
+        "aid another",
+        "skill check",
+        "cooperative",
+        "bonus",
+        "assistance"
+      ]
+    },
+    {
+      "id": "alignment",
+      "title": "Alignment",
+      "anchor_heading": "#### Alignment",
+      "includes_subheadings": [],
+      "description": "Definition of alignment representing moral and ethical attitudes (lawful/neutral/chaotic, good/neutral/evil)",
+      "keywords": [
+        "alignment",
+        "lawful",
+        "chaotic",
+        "good",
+        "evil",
+        "neutral",
+        "moral",
+        "ethical"
+      ]
+    },
+    {
+      "id": "ally",
+      "title": "Ally",
+      "anchor_heading": "#### Ally",
+      "includes_subheadings": [],
+      "description": "Definition of ally and clarification on whether you count as your own ally",
+      "keywords": [
+        "ally",
+        "friendly",
+        "same side",
+        "cooperation"
+      ]
+    },
+    {
+      "id": "armor_class",
+      "title": "Armor Class (AC)",
+      "anchor_heading": "#### Armor Class ([AC](https://www.d20pfsrd.com/gamemastering/combat#TOC-Armor-Class))",
+      "includes_subheadings": [],
+      "description": "How Armor Class is calculated and what it represents in terms of difficulty to hit",
+      "keywords": [
+        "armor class",
+        "AC",
+        "defense",
+        "difficulty class",
+        "dexterity",
+        "armor bonus",
+        "shield bonus"
+      ]
+    },
+    {
+      "id": "at_will",
+      "title": "At-Will",
+      "anchor_heading": "#### At-Will",
+      "includes_subheadings": [],
+      "description": "Definition of at-will abilities that can be used unlimited times per day",
+      "keywords": [
+        "at-will",
+        "unlimited",
+        "per day"
+      ]
+    },
+    {
+      "id": "base_attack_bonus",
+      "title": "Base Attack Bonus (BAB)",
+      "anchor_heading": "#### Base Attack Bonus (BAB)",
+      "includes_subheadings": [],
+      "description": "Explanation of Base Attack Bonus and how it provides additional attacks at higher levels",
+      "keywords": [
+        "base attack bonus",
+        "BAB",
+        "combat skill",
+        "multiple attacks",
+        "full-attack"
+      ]
+    },
+    {
+      "id": "base_class",
+      "title": "Base Class",
+      "anchor_heading": "#### Base Class",
+      "includes_subheadings": [],
+      "description": "Definition of base classes that progress from level 1-20 with no prerequisites",
+      "keywords": [
+        "base class",
+        "level progression",
+        "prerequisites"
+      ]
+    },
+    {
+      "id": "bonus_types",
+      "title": "Bonus",
+      "anchor_heading": "#### Bonus",
+      "includes_subheadings": [],
+      "description": "Comprehensive explanation of bonus types, stacking rules, and detailed table of all bonus types and their effects",
+      "keywords": [
+        "bonus",
+        "stacking",
+        "bonus types",
+        "alchemical",
+        "armor",
+        "circumstance",
+        "competence",
+        "deflection",
+        "dodge",
+        "enhancement",
+        "inherent",
+        "insight",
+        "luck",
+        "morale",
+        "natural armor",
+        "profane",
+        "racial",
+        "resistance",
+        "sacred",
+        "shield",
+        "size",
+        "trait"
+      ]
+    },
+    {
+      "id": "campaign",
+      "title": "Campaign",
+      "anchor_heading": "#### Campaign",
+      "includes_subheadings": [],
+      "description": "Definition of a campaign as a collection of stories forming an overarching narrative",
+      "keywords": [
+        "campaign",
+        "narrative",
+        "adventure path",
+        "story"
+      ]
+    },
+    {
+      "id": "campaign_arc",
+      "title": "Campaign Arc",
+      "anchor_heading": "#### Campaign Arc",
+      "includes_subheadings": [],
+      "description": "Definition of campaign arcs as sequences of adventures that mesh together",
+      "keywords": [
+        "campaign arc",
+        "adventure sequence",
+        "story arc"
+      ]
+    },
+    {
+      "id": "cantrip",
+      "title": "Cantrip",
+      "anchor_heading": "#### Cantrip",
+      "includes_subheadings": [],
+      "description": "Definition of cantrips as 0-level arcane spells",
+      "keywords": [
+        "cantrip",
+        "0-level spell",
+        "arcane",
+        "sorcerer",
+        "wizard"
+      ]
+    },
+    {
+      "id": "caster_level",
+      "title": "Caster Level (CL)",
+      "anchor_heading": "#### Caster Level (CL)",
+      "includes_subheadings": [],
+      "description": "Explanation of caster level and its role in spell variables",
+      "keywords": [
+        "caster level",
+        "CL",
+        "spell power",
+        "spell variables",
+        "range",
+        "damage"
+      ]
+    },
+    {
+      "id": "caster_level_check",
+      "title": "Caster Level Check",
+      "anchor_heading": "#### Caster Level Check",
+      "includes_subheadings": [],
+      "description": "How to make caster level checks and which spells require them",
+      "keywords": [
+        "caster level check",
+        "dispel magic",
+        "spell resistance",
+        "d20 roll"
+      ]
+    },
+    {
+      "id": "character_level",
+      "title": "Character Level",
+      "anchor_heading": "#### Character Level",
+      "includes_subheadings": [],
+      "description": "Definition of character level as the sum of all class levels",
+      "keywords": [
+        "character level",
+        "total level",
+        "class levels",
+        "multiclass"
+      ]
+    },
+    {
+      "id": "check",
+      "title": "Check",
+      "anchor_heading": "#### Check",
+      "includes_subheadings": [],
+      "description": "General definition of checks as d20 rolls with modifiers",
+      "keywords": [
+        "check",
+        "d20 roll",
+        "attack roll",
+        "skill check",
+        "ability check",
+        "saving throw"
+      ]
+    },
+    {
+      "id": "class",
+      "title": "Class",
+      "anchor_heading": "#### Class",
+      "includes_subheadings": [],
+      "description": "Definition of character classes and their role in providing abilities and progression",
+      "keywords": [
+        "class",
+        "profession",
+        "core classes",
+        "prestige classes",
+        "NPC classes",
+        "abilities",
+        "level progression"
+      ]
+    },
+    {
+      "id": "class_level",
+      "title": "Class Level",
+      "anchor_heading": "#### Class Level",
+      "includes_subheadings": [],
+      "description": "Definition of class level versus character level",
+      "keywords": [
+        "class level",
+        "character level",
+        "single class",
+        "multiclass"
+      ]
+    },
+    {
+      "id": "combat_maneuvers",
+      "title": "Combat Maneuver",
+      "anchor_heading": "#### Combat Maneuver",
+      "includes_subheadings": [
+        "#### Combat Maneuver Bonus (CMB**)**",
+        "#### Combat Maneuver Defense (CMD**)"
+      ],
+      "description": "Combat maneuvers and the CMB/CMD system for resolving them",
+      "keywords": [
+        "combat maneuver",
+        "trip",
+        "disarm",
+        "grapple",
+        "CMB",
+        "CMD",
+        "combat maneuver bonus",
+        "combat maneuver defense"
+      ]
+    },
+    {
+      "id": "concentration_check",
+      "title": "Concentration Check",
+      "anchor_heading": "#### Concentration Check",
+      "includes_subheadings": [],
+      "description": "When concentration checks are required during spellcasting",
+      "keywords": [
+        "concentration check",
+        "spellcasting",
+        "disruption",
+        "casting failure"
+      ]
+    },
+    {
+      "id": "core_class",
+      "title": "Core Class",
+      "anchor_heading": "#### Core Class",
+      "includes_subheadings": [],
+      "description": "Reference to standard classes found in the Classes section",
+      "keywords": [
+        "core class",
+        "standard class",
+        "basic class"
+      ]
+    },
+    {
+      "id": "creature",
+      "title": "Creature",
+      "anchor_heading": "#### Creature",
+      "includes_subheadings": [],
+      "description": "Definition of creatures as active participants including PCs, NPCs, and monsters",
+      "keywords": [
+        "creature",
+        "PC",
+        "NPC",
+        "monster",
+        "participant"
+      ]
+    },
+    {
+      "id": "critical_hit",
+      "title": "Critical Hit",
+      "anchor_heading": "#### Critical Hit",
+      "includes_subheadings": [],
+      "description": "Complete rules for critical hits including threats, confirmation rolls, and natural 20s",
+      "keywords": [
+        "critical hit",
+        "crit",
+        "natural 20",
+        "crit threat",
+        "confirmation roll",
+        "critical threat"
+      ]
+    },
+    {
+      "id": "damage",
+      "title": "Damage",
+      "anchor_heading": "#### Damage",
+      "includes_subheadings": [],
+      "description": "Comprehensive explanation of damage types including weapon damage, energy damage, and special damage types",
+      "keywords": [
+        "damage",
+        "bludgeoning",
+        "piercing",
+        "slashing",
+        "energy damage",
+        "ability damage",
+        "nonlethal",
+        "precision damage",
+        "positive energy",
+        "negative energy"
+      ]
+    },
+    {
+      "id": "damage_reduction",
+      "title": "Damage Reduction (DR)",
+      "anchor_heading": "#### Damage Reduction (DR)",
+      "includes_subheadings": [],
+      "description": "How damage reduction works and how it can be bypassed",
+      "keywords": [
+        "damage reduction",
+        "DR",
+        "physical damage",
+        "bypass",
+        "cold iron",
+        "special materials"
+      ]
+    },
+    {
+      "id": "dice",
+      "title": "Dice (d4, d6, d8, d10, d12, d20, and d%)",
+      "anchor_heading": "#### Dice (d4, d6, d8, d10, d12, d20, and d%)",
+      "includes_subheadings": [],
+      "description": "Explanation of dice notation and how to read dice expressions",
+      "keywords": [
+        "dice",
+        "d4",
+        "d6",
+        "d8",
+        "d10",
+        "d12",
+        "d20",
+        "d%",
+        "dice notation",
+        "multiple dice"
+      ]
+    },
+    {
+      "id": "difficulty_class",
+      "title": "Difficulty Class (DC)",
+      "anchor_heading": "#### Difficulty Class (DC)",
+      "includes_subheadings": [],
+      "description": "What Difficulty Class represents and how it's used for skill checks and other actions",
+      "keywords": [
+        "difficulty class",
+        "DC",
+        "skill check",
+        "success",
+        "challenge rating"
+      ]
+    },
+    {
+      "id": "encounter",
+      "title": "Encounter",
+      "anchor_heading": "#### Encounter",
+      "includes_subheadings": [],
+      "description": "Definition of encounters as short scenes where PCs are actively engaged",
+      "keywords": [
+        "encounter",
+        "combat",
+        "social interaction",
+        "trap",
+        "mystery",
+        "scene"
+      ]
+    },
+    {
+      "id": "extraordinary_abilities",
+      "title": "Extraordinary Abilities (Ex)",
+      "anchor_heading": "#### Extraordinary Abilities (**Ex)**",
+      "includes_subheadings": [],
+      "description": "Definition of extraordinary abilities as non-magical unusual abilities",
+      "keywords": [
+        "extraordinary abilities",
+        "Ex",
+        "special abilities"
+      ]
+    },
+    {
+      "id": "experience_points",
+      "title": "Experience Points (XP)",
+      "anchor_heading": "#### Experience Points (**XP)**",
+      "includes_subheadings": [],
+      "description": "How experience points work for character advancement and gaining levels",
+      "keywords": [
+        "experience points",
+        "XP",
+        "level advancement",
+        "character progression"
+      ]
+    },
+    {
+      "id": "feat",
+      "title": "Feat",
+      "anchor_heading": "#### Feat",
+      "includes_subheadings": [],
+      "description": "Definition of feats as mastered abilities that allow circumventing rules",
+      "keywords": [
+        "feat",
+        "ability",
+        "rules exception",
+        "bonus feat",
+        "mastery"
+      ]
+    },
+    {
+      "id": "game_master",
+      "title": "Game Master (GM)",
+      "anchor_heading": "#### Game Master (**GM)**",
+      "includes_subheadings": [],
+      "description": "Role and responsibilities of the Game Master",
+      "keywords": [
+        "game master",
+        "GM",
+        "referee",
+        "storyteller",
+        "director"
+      ]
+    },
+    {
+      "id": "hit_dice",
+      "title": "Hit Dice (HD)",
+      "anchor_heading": "#### Hit Dice (HD)",
+      "includes_subheadings": [],
+      "description": "What Hit Dice represent and how they're used to determine hit points",
+      "keywords": [
+        "hit dice",
+        "HD",
+        "level",
+        "prowess",
+        "hit points",
+        "racial hit dice"
+      ]
+    },
+    {
+      "id": "hit_points",
+      "title": "Hit Points (hp)",
+      "anchor_heading": "#### Hit Points (hp)",
+      "includes_subheadings": [],
+      "description": "Complete explanation of hit points, including calculation, temporary hit points, and death",
+      "keywords": [
+        "hit points",
+        "hp",
+        "health",
+        "wounds",
+        "unconscious",
+        "death",
+        "temporary hit points"
+      ]
+    },
+    {
+      "id": "initiative",
+      "title": "Initiative",
+      "anchor_heading": "#### Initiative",
+      "includes_subheadings": [],
+      "description": "How initiative works to determine action order in combat",
+      "keywords": [
+        "initiative",
+        "combat order",
+        "dexterity",
+        "turn order"
+      ]
+    },
+    {
+      "id": "language_dependent",
+      "title": "Language-Dependent",
+      "anchor_heading": "#### Language-Dependent",
+      "includes_subheadings": [],
+      "description": "Rules for language-dependent spells and effects",
+      "keywords": [
+        "language-dependent",
+        "communication",
+        "understanding",
+        "spell effect"
+      ]
+    },
+    {
+      "id": "level",
+      "title": "Level",
+      "anchor_heading": "#### Level",
+      "includes_subheadings": [],
+      "description": "Explanation of different types of levels: character level, class level, and spell level",
+      "keywords": [
+        "level",
+        "character level",
+        "class level",
+        "spell level",
+        "cantrips",
+        "orisons",
+        "advancement"
+      ]
+    },
+    {
+      "id": "line_of_effect",
+      "title": "Line of Effect",
+      "anchor_heading": "#### Line of Effect",
+      "includes_subheadings": [
+        "#### Line of Sight"
+      ],
+      "description": "Rules for line of effect and line of sight for spells and abilities",
+      "keywords": [
+        "line of effect",
+        "line of sight",
+        "spell targeting",
+        "barriers",
+        "concealment",
+        "visibility"
+      ]
+    },
+    {
+      "id": "melee_attack",
+      "title": "Melee Attack",
+      "anchor_heading": "#### Melee Attack",
+      "includes_subheadings": [],
+      "description": "How to calculate and make melee attacks in hand-to-hand combat",
+      "keywords": [
+        "melee attack",
+        "hand-to-hand",
+        "strength modifier",
+        "base attack bonus"
+      ]
+    },
+    {
+      "id": "metagaming",
+      "title": "Metagaming",
+      "anchor_heading": "#### Metagaming",
+      "includes_subheadings": [],
+      "description": "Definition and examples of metagaming and out-of-character knowledge",
+      "keywords": [
+        "metagaming",
+        "out-of-character",
+        "player knowledge",
+        "character knowledge"
+      ]
+    },
+    {
+      "id": "mind_affecting",
+      "title": "Mind-Affecting",
+      "anchor_heading": "#### Mind-Affecting",
+      "includes_subheadings": [
+        "#### Mindless"
+      ],
+      "description": "Rules for mind-affecting spells and mindless creatures",
+      "keywords": [
+        "mind-affecting",
+        "enchantment",
+        "intelligence",
+        "mindless",
+        "mental effects"
+      ]
+    },
+    {
+      "id": "modifier",
+      "title": "Modifier",
+      "anchor_heading": "#### Modifier*",
+      "includes_subheadings": [],
+      "description": "Definition of modifiers as numbers added to dice rolls, including bonuses and penalties",
+      "keywords": [
+        "modifier",
+        "bonus",
+        "penalty",
+        "dice roll",
+        "adjustment"
+      ]
+    },
+    {
+      "id": "monster",
+      "title": "Monster",
+      "anchor_heading": "#### Monster",
+      "includes_subheadings": [],
+      "description": "Definition of monsters as creatures with racial Hit Dice instead of class levels",
+      "keywords": [
+        "monster",
+        "racial hit dice",
+        "creature",
+        "NPC"
+      ]
+    },
+    {
+      "id": "movement",
+      "title": "Movement",
+      "anchor_heading": "#### Movement",
+      "includes_subheadings": [],
+      "description": "Basic definition of movement distance per move action",
+      "keywords": [
+        "movement",
+        "move action",
+        "speed",
+        "distance",
+        "grid"
+      ]
+    },
+    {
+      "id": "multiplying",
+      "title": "Multiplying",
+      "anchor_heading": "#### Multiplying",
+      "includes_subheadings": [],
+      "description": "Rules for applying multiple multipliers to dice rolls",
+      "keywords": [
+        "multiplying",
+        "multiple multipliers",
+        "damage multiplication",
+        "stacking multipliers"
+      ]
+    },
+    {
+      "id": "natural_rolls",
+      "title": "Natural 1 and Natural 20",
+      "anchor_heading": "#### Natural 1",
+      "includes_subheadings": [
+        "#### Natural 20"
+      ],
+      "description": "Special rules for rolling natural 1s and natural 20s on attack rolls",
+      "keywords": [
+        "natural 1",
+        "natural 20",
+        "automatic miss",
+        "automatic hit",
+        "critical threat"
+      ]
+    },
+    {
+      "id": "nonplayer_character",
+      "title": "Nonplayer Character (NPC)",
+      "anchor_heading": "#### Nonplayer Character (NPC)",
+      "includes_subheadings": [],
+      "description": "Definition of NPCs as characters controlled by the Game Master",
+      "keywords": [
+        "NPC",
+        "nonplayer character",
+        "game master",
+        "supporting character"
+      ]
+    },
+    {
+      "id": "orison",
+      "title": "Orison",
+      "anchor_heading": "#### Orison",
+      "includes_subheadings": [],
+      "description": "Definition of orisons as 0-level divine spells",
+      "keywords": [
+        "orison",
+        "0-level spell",
+        "divine",
+        "cleric",
+        "druid"
+      ]
+    },
+    {
+      "id": "penalty",
+      "title": "Penalty",
+      "anchor_heading": "#### Penalty",
+      "includes_subheadings": [],
+      "description": "How penalties work and their stacking rules",
+      "keywords": [
+        "penalty",
+        "negative modifier",
+        "stacking",
+        "reduction"
+      ]
+    },
+    {
+      "id": "player_character",
+      "title": "Player Character (Character, PC)",
+      "anchor_heading": "#### Player Character (Character, **PC)**",
+      "includes_subheadings": [],
+      "description": "Definition of player characters as heroes controlled by players",
+      "keywords": [
+        "player character",
+        "PC",
+        "hero",
+        "protagonist"
+      ]
+    },
+    {
+      "id": "ranged_attack",
+      "title": "Ranged Attack",
+      "anchor_heading": "#### Ranged attack",
+      "includes_subheadings": [],
+      "description": "How to calculate and make ranged attacks with projectile weapons",
+      "keywords": [
+        "ranged attack",
+        "projectile",
+        "bow",
+        "dexterity modifier",
+        "base attack bonus"
+      ]
+    },
+    {
+      "id": "rest",
+      "title": "Rest",
+      "anchor_heading": "#### Rest",
+      "includes_subheadings": [],
+      "description": "Comprehensive rules for rest, sleep, recovery, and the effects of insufficient rest",
+      "keywords": [
+        "rest",
+        "sleep",
+        "recovery",
+        "hit point recovery",
+        "ability damage recovery",
+        "fatigue",
+        "exhaustion",
+        "spell preparation"
+      ]
+    },
+    {
+      "id": "round",
+      "title": "Round",
+      "anchor_heading": "#### Round",
+      "includes_subheadings": [],
+      "description": "Definition of combat rounds and their duration",
+      "keywords": [
+        "round",
+        "combat",
+        "initiative",
+        "6 seconds",
+        "turn"
+      ]
+    },
+    {
+      "id": "rounding",
+      "title": "Rounding",
+      "anchor_heading": "#### Rounding",
+      "includes_subheadings": [],
+      "description": "Default rounding rules for game calculations",
+      "keywords": [
+        "rounding",
+        "round down",
+        "calculation",
+        "fractions"
+      ]
+    },
+    {
+      "id": "saving_throw",
+      "title": "Saving Throw",
+      "anchor_heading": "#### Saving Throw",
+      "includes_subheadings": [],
+      "description": "Complete explanation of saving throws including Fortitude, Reflex, and Will saves",
+      "keywords": [
+        "saving throw",
+        "save",
+        "fortitude",
+        "reflex",
+        "will",
+        "passive",
+        "resistance"
+      ]
+    },
+    {
+      "id": "session",
+      "title": "Session",
+      "anchor_heading": "#### Session",
+      "includes_subheadings": [],
+      "description": "Definition of a gaming session and its variable duration",
+      "keywords": [
+        "session",
+        "gaming",
+        "play time",
+        "adventure"
+      ]
+    },
+    {
+      "id": "size",
+      "title": "Size",
+      "anchor_heading": "#### Size",
+      "includes_subheadings": [],
+      "description": "Complete size category system with modifiers, space, reach, and measurements",
+      "keywords": [
+        "size",
+        "size modifier",
+        "space",
+        "reach",
+        "fine",
+        "diminutive",
+        "tiny",
+        "small",
+        "medium",
+        "large",
+        "huge",
+        "gargantuan",
+        "colossal",
+        "stealth",
+        "fly"
+      ]
+    },
+    {
+      "id": "skill",
+      "title": "Skill",
+      "anchor_heading": "#### Skill",
+      "includes_subheadings": [
+        "#### Skill Check"
+      ],
+      "description": "Definition of skills and skill checks for performing tasks",
+      "keywords": [
+        "skill",
+        "skill check",
+        "ability",
+        "task",
+        "proficiency",
+        "ranks",
+        "d20 roll"
+      ]
+    },
+    {
+      "id": "speed",
+      "title": "Speed",
+      "anchor_heading": "#### Speed",
+      "includes_subheadings": [],
+      "description": "Comprehensive explanation of different speed types including base speed, normal speed, full speed, and overland movement",
+      "keywords": [
+        "speed",
+        "base speed",
+        "normal speed",
+        "full speed",
+        "overland speed",
+        "encumbrance",
+        "armor",
+        "movement modes",
+        "speed types"
+      ]
+    },
+    {
+      "id": "spell",
+      "title": "Spell",
+      "anchor_heading": "#### Spell",
+      "includes_subheadings": [],
+      "description": "General definition of spells and their capabilities",
+      "keywords": [
+        "spell",
+        "magic",
+        "targets",
+        "effects",
+        "resistance"
+      ]
+    },
+    {
+      "id": "spell_like_abilities",
+      "title": "Spell-Like Abilities (Sp)",
+      "anchor_heading": "#### Spell-Like Abilities (Sp)",
+      "includes_subheadings": [],
+      "description": "How spell-like abilities work and their relationship to spells",
+      "keywords": [
+        "spell-like abilities",
+        "Sp",
+        "racial ability",
+        "class ability",
+        "metamagic"
+      ]
+    },
+    {
+      "id": "spell_resistance",
+      "title": "Spell Resistance (SR)",
+      "anchor_heading": "#### Spell Resistance (SR)",
+      "includes_subheadings": [],
+      "description": "How spell resistance works and caster level checks to overcome it",
+      "keywords": [
+        "spell resistance",
+        "SR",
+        "caster level check",
+        "magic resistance"
+      ]
+    },
+    {
+      "id": "stacking",
+      "title": "Stacking",
+      "anchor_heading": "#### Stacking",
+      "includes_subheadings": [],
+      "description": "General rules for how bonuses and penalties stack together",
+      "keywords": [
+        "stacking",
+        "bonuses",
+        "penalties",
+        "same type",
+        "highest bonus"
+      ]
+    },
+    {
+      "id": "supernatural_abilities",
+      "title": "Supernatural Abilities (Su)",
+      "anchor_heading": "#### Supernatural Abilities (Su)",
+      "includes_subheadings": [],
+      "description": "Definition of supernatural abilities as magical attacks, defenses, and qualities",
+      "keywords": [
+        "supernatural abilities",
+        "Su",
+        "magical",
+        "special abilities"
+      ]
+    },
+    {
+      "id": "take_10_20",
+      "title": "Take 10 and Take 20",
+      "anchor_heading": "#### Take 10",
+      "includes_subheadings": [
+        "#### Take 20"
+      ],
+      "description": "Rules for taking 10 and taking 20 on skill checks when not under pressure",
+      "keywords": [
+        "take 10",
+        "take 20",
+        "automatic result",
+        "no pressure",
+        "routine tasks",
+        "time",
+        "safety measure"
+      ]
+    },
+    {
+      "id": "temporary_hit_points",
+      "title": "Temporary Hit Points",
+      "anchor_heading": "#### Temporary Hit Points",
+      "includes_subheadings": [],
+      "description": "How temporary hit points work and their stacking rules",
+      "keywords": [
+        "temporary hit points",
+        "temp hp",
+        "duration",
+        "stacking",
+        "current hit points"
+      ]
+    },
+    {
+      "id": "tpk",
+      "title": "TPK",
+      "anchor_heading": "#### TPK",
+      "includes_subheadings": [],
+      "description": "Definition of Total Party Kill and its common causes",
+      "keywords": [
+        "TPK",
+        "total party kill",
+        "encounter design",
+        "bad luck"
+      ]
+    },
+    {
+      "id": "turn",
+      "title": "Turn",
+      "anchor_heading": "#### Turn",
+      "includes_subheadings": [],
+      "description": "What happens during a creature's turn and the types of actions available",
+      "keywords": [
+        "turn",
+        "standard action",
+        "move action",
+        "swift action",
+        "free action",
+        "action economy"
+      ]
+    }
+  ]
+}

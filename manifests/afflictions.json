@@ -1,0 +1,113 @@
+{
+  "file": "afflictions.md",
+  "source_path": "rules/afflictions.md",
+  "sections": [
+    {
+      "id": "afflictions_general_rules",
+      "title": "General Afflictions Rules",
+      "anchor_heading": "# Afflictions",
+      "includes_subheadings": [],
+      "description": "Core rules for how all afflictions work, including format (Name, Type, Save, Onset, Frequency, Effect, Cure) and basic mechanics for contracting and resisting afflictions",
+      "keywords": [
+        "afflictions",
+        "diseases",
+        "poisons",
+        "curses",
+        "saving throws",
+        "onset",
+        "frequency",
+        "effect",
+        "cure",
+        "madness",
+        "drugs",
+        "infestations"
+      ]
+    },
+    {
+      "id": "diseases_poisons_optional_rules",
+      "title": "Diseases and Poisons Optional Progression Track Rules",
+      "anchor_heading": "## Diseases and Poisons Optional Rules",
+      "includes_subheadings": [
+        "### Progression and End States",
+        "### Diseases",
+        "### Physical Disease Track",
+        "### Mental Disease Track",
+        "### Poisons",
+        "### Strength Poison Track",
+        "### Dexterity Poison Track",
+        "### Constitution Poison Track",
+        "### Intelligence Poison Track",
+        "### Wisdom Poison Track",
+        "### Charisma Poison Track",
+        "### Sample Diseases",
+        "### Blinding Sickness",
+        "### Bubonic Plague",
+        "### Cackle Fever",
+        "### Dementia Dust",
+        "### Demon Fever",
+        "### Devil Chills",
+        "### Filth Fever",
+        "### Leprosy",
+        "### Mindfire",
+        "### Mummy Rot",
+        "### Red Ache",
+        "### Shakes",
+        "### Slimy Doom",
+        "### Sample Poisons",
+        "### Black Lotus Extract",
+        "### Blue Whinnis",
+        "### Deathblade",
+        "### Green Lotus",
+        "### Id Moss",
+        "### Insanity Mist",
+        "### Large Scorpion Venom",
+        "### Small Centipede Poison",
+        "### Ungol Dust"
+      ],
+      "description": "Optional progression track system for diseases and poisons that creates escalating stages of affliction rather than simple ability damage, including physical/mental disease tracks, ability-specific poison tracks, and sample afflictions using these rules",
+      "keywords": [
+        "optional rules",
+        "progression tracks",
+        "disease tracks",
+        "poison tracks",
+        "end states",
+        "physical disease",
+        "mental disease",
+        "ability damage",
+        "weakened",
+        "impaired",
+        "disabled",
+        "bedridden",
+        "comatose",
+        "dead"
+      ]
+    },
+    {
+      "id": "inebriation_rules",
+      "title": "Inebriation and Drinking Rules",
+      "anchor_heading": "## Inebriation",
+      "includes_subheadings": [
+        "### Levels of Inebriation",
+        "## Drinking and Fighting",
+        "## Strong Drinks",
+        "## Hangovers and Addiction",
+        "## Drinking Games"
+      ],
+      "description": "Complete system for alcohol consumption effects, including progressive levels of intoxication (sober, tipsy, drunk, soused, passed out), hangovers, addiction, and drinking contests",
+      "keywords": [
+        "inebriation",
+        "alcohol",
+        "drunk",
+        "intoxication",
+        "tipsy",
+        "soused",
+        "passed out",
+        "hangover",
+        "addiction",
+        "drinking games",
+        "tavern",
+        "bar fights"
+      ]
+    }
+  ]
+}

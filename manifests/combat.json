@@ -1,0 +1,845 @@
+{
+  "file": "combat.md",
+  "source_path": "rules/combat.md",
+  "sections": [
+    {
+      "id": "how_combat_works",
+      "title": "How Combat Works Overview",
+      "anchor_heading": "## How Combat Works",
+      "includes_subheadings": [],
+      "description": "Basic overview of combat sequence and flow",
+      "keywords": [
+        "combat",
+        "sequence",
+        "rounds",
+        "initiative",
+        "order"
+      ]
+    },
+    {
+      "id": "combat_round",
+      "title": "The Combat Round",
+      "anchor_heading": "### The Combat Round",
+      "includes_subheadings": [],
+      "description": "Rules for what constitutes a round, timing, and full round effects",
+      "keywords": [
+        "round",
+        "6 seconds",
+        "timing",
+        "full round",
+        "effects"
+      ]
+    },
+    {
+      "id": "initiative",
+      "title": "Initiative",
+      "anchor_heading": "### Initiative",
+      "includes_subheadings": [
+        "#### Initiative Checks",
+        "##### Flat-Footed",
+        "##### Inaction"
+      ],
+      "description": "Complete initiative system including checks, flat-footed condition at start of combat, tie-breaking, and inaction rules",
+      "keywords": [
+        "initiative",
+        "dexterity",
+        "flat-footed",
+        "order",
+        "checks",
+        "inaction"
+      ]
+    },
+    {
+      "id": "surprise",
+      "title": "Surprise",
+      "anchor_heading": "### Surprise",
+      "includes_subheadings": [
+        "#### Determining Awareness",
+        "##### The Surprise Round",
+        "##### Unaware Combatants",
+        "##### Initiative Tips"
+      ],
+      "description": "Surprise rounds, awareness, unaware combatants, and GM tips for managing initiative",
+      "keywords": [
+        "surprise",
+        "awareness",
+        "perception",
+        "surprise round",
+        "unaware"
+      ]
+    },
+    {
+      "id": "attack_roll",
+      "title": "Attack Roll",
+      "anchor_heading": "### Attack Roll",
+      "includes_subheadings": [
+        "#### Automatic Misses and Hits"
+      ],
+      "description": "Attack roll mechanics including automatic hits and misses on natural 1s and 20s",
+      "keywords": [
+        "attack roll",
+        "d20",
+        "natural 1",
+        "natural 20",
+        "automatic"
+      ]
+    },
+    {
+      "id": "attack_bonus",
+      "title": "Attack Bonus",
+      "anchor_heading": "### Attack Bonus",
+      "includes_subheadings": [],
+      "description": "How to calculate attack bonuses for melee and ranged weapons, including base attack bonus progression",
+      "keywords": [
+        "attack bonus",
+        "base attack bonus",
+        "strength",
+        "dexterity",
+        "melee",
+        "ranged"
+      ]
+    },
+    {
+      "id": "armor_class",
+      "title": "Armor Class",
+      "anchor_heading": "### Armor Class",
+      "includes_subheadings": [
+        "#### Other Modifiers",
+        "##### Enhancement Bonuses",
+        "##### Deflection Bonus",
+        "##### Natural Armor",
+        "##### Dodge Bonuses",
+        "##### Size Modifier",
+        "#### Touch Attacks"
+      ],
+      "description": "Complete AC system including all bonus types, size modifiers, and touch attacks",
+      "keywords": [
+        "armor class",
+        "AC",
+        "dodge",
+        "deflection",
+        "enhancement",
+        "touch attacks",
+        "size modifier"
+      ]
+    },
+    {
+      "id": "damage",
+      "title": "Damage",
+      "anchor_heading": "### Damage",
+      "includes_subheadings": [
+        "#### Minimum Damage",
+        "#### Strength Bonus",
+        "##### Off-Hand Weapon",
+        "##### Wielding a Weapon Two-Handed",
+        "#### Multiplying Damage",
+        "##### Ability Damage"
+      ],
+      "description": "Damage calculation including strength bonuses, two-handed weapons, off-hand penalties, and multiplying damage",
+      "keywords": [
+        "damage",
+        "strength bonus",
+        "two-handed",
+        "off-hand",
+        "multiplying",
+        "critical"
+      ]
+    },
+    {
+      "id": "hit_points",
+      "title": "Hit Points",
+      "anchor_heading": "### Hit Points",
+      "includes_subheadings": [],
+      "description": "Hit point mechanics and references to disabled, dying, and dead conditions",
+      "keywords": [
+        "hit points",
+        "disabled",
+        "dying",
+        "dead",
+        "constitution"
+      ]
+    },
+    {
+      "id": "attacks_of_opportunity",
+      "title": "Attacks of Opportunity",
+      "anchor_heading": "### Attacks of Opportunity",
+      "includes_subheadings": [
+        "#### Threatened Squares",
+        "##### Reach Weapons",
+        "#### Provoking an Attack of Opportunity",
+        "##### Moving",
+        "##### Performing a Distracting Act",
+        "#### Making an Attack of Opportunity",
+        "##### Combat Reflexes and Additional Attacks of Opportunity"
+      ],
+      "description": "Complete attacks of opportunity system including threatened squares, reach, provoking actions, and Combat Reflexes",
+      "keywords": [
+        "attacks of opportunity",
+        "threatened",
+        "threaten",
+        "reach",
+        "provoking",
+        "combat reflexes",
+        "AoO"
+      ]
+    },
+    {
+      "id": "speed",
+      "title": "Speed",
+      "anchor_heading": "### Speed",
+      "includes_subheadings": [],
+      "description": "Movement speeds by race and armor, double moves, and running",
+      "keywords": [
+        "speed",
+        "movement",
+        "armor",
+        "double move",
+        "running",
+        "race"
+      ]
+    },
+    {
+      "id": "saving_throws",
+      "title": "Saving Throws",
+      "anchor_heading": "### Saving Throws",
+      "includes_subheadings": [
+        "#### Saving Throw Types",
+        "##### Fortitude",
+        "##### Reflex",
+        "##### Will",
+        "#### Saving Throw Difficulty Class",
+        "#### Automatic Failures and Successes"
+      ],
+      "description": "Complete saving throw system including all three types, DC calculation, and automatic results",
+      "keywords": [
+        "saving throws",
+        "fortitude",
+        "reflex",
+        "will",
+        "natural 1",
+        "natural 20"
+      ]
+    },
+    {
+      "id": "action_types",
+      "title": "Action Types",
+      "anchor_heading": "### Action Types",
+      "includes_subheadings": [
+        "#### Standard Action",
+        "#### Move Action",
+        "#### Full-Round Action",
+        "#### Free Action",
+        "#### Swift Action",
+        "#### Immediate Action",
+        "#### Not an Action",
+        "#### Restricted Activity"
+      ],
+      "description": "Complete action economy system defining all action types and their limitations",
+      "keywords": [
+        "action types",
+        "standard",
+        "move",
+        "full-round",
+        "swift",
+        "immediate",
+        "free",
+        "action economy"
+      ]
+    },
+    {
+      "id": "standard_actions",
+      "title": "Standard Actions",
+      "anchor_heading": "### Standard Actions",
+      "includes_subheadings": [
+        "#### Attack",
+        "##### Melee Attacks",
+        "##### Unarmed Attacks",
+        "##### Ranged Attacks",
+        "##### Shooting or Throwing into a Melee",
+        "##### Natural Attacks",
+        "##### Multiple Attacks",
+        "#### Fighting Defensively as a Standard Action",
+        "#### Critical Hits",
+        "#### Activate Magic Item",
+        "##### Spell Completion Items",
+        "##### Spell Trigger, Command Word, or Use-Activated Items",
+        "#### Cast a Spell",
+        "##### Spell Components",
+        "##### Concentration",
+        "##### Casting Time",
+        "##### Attacks of Opportunity",
+        "##### Casting on the Defensive",
+        "##### Touch Spells in Combat",
+        "##### Dismiss a Spell",
+        "#### Start/Complete Full-Round Action",
+        "#### Total Defense",
+        "#### Use Special Ability",
+        "##### Spell-Like Abilities (Sp)",
+        "##### Supernatural Abilities (Su)",
+        "##### Extraordinary Abilities (Ex)"
+      ],
+      "description": "All standard actions including attacks, spellcasting, magic items, and special abilities",
+      "keywords": [
+        "standard action",
+        "attack",
+        "melee",
+        "ranged",
+        "spellcasting",
+        "magic items",
+        "critical hits",
+        "concentration"
+      ]
+    },
+    {
+      "id": "move_actions",
+      "title": "Move Actions",
+      "anchor_heading": "### Move Actions",
+      "includes_subheadings": [
+        "#### Move",
+        "##### Accelerated Climbing",
+        "##### Crawling",
+        "#### Direct or Redirect a Spell",
+        "#### Draw or Sheathe a Weapon",
+        "#### Manipulate an Item",
+        "#### Mount/Dismount a Steed",
+        "##### Fast Mount or Dismount",
+        "#### Ready or Drop a Shield",
+        "#### Stand Up"
+      ],
+      "description": "All move actions including movement, weapon handling, and item manipulation",
+      "keywords": [
+        "move action",
+        "movement",
+        "climbing",
+        "crawling",
+        "mount"
+      ]
+    },
+    {
+      "id": "full_round_actions",
+      "title": "Full-Round Actions",
+      "anchor_heading": "### Full-Round Actions",
+      "includes_subheadings": [
+        "#### Full Attack",
+        "##### Deciding between an Attack or a Full Attack",
+        "##### Fighting Defensively as a Full-Round Action",
+        "#### Cast a Spell",
+        "##### Casting a Metamagic Spell",
+        "#### Move 5 Feet through Difficult Terrain",
+        "#### Run",
+        "#### Use Special Ability",
+        "#### Withdraw",
+        "##### Restricted Withdraw"
+      ],
+      "description": "All full-round actions including full attacks, long casting spells, running, and withdrawal",
+      "keywords": [
+        "full-round action",
+        "full attack",
+        "spellcasting",
+        "metamagic",
+        "running",
+        "withdraw",
+        "difficult terrain"
+      ]
+    },
+    {
+      "id": "free_actions",
+      "title": "Free Actions",
+      "anchor_heading": "### Free Actions",
+      "includes_subheadings": [
+        "#### Cease Concentration on Spell",
+        "#### Drop an Item",
+        "#### Drop Prone",
+        "#### Speak"
+      ],
+      "description": "Free actions that can be performed without using action economy",
+      "keywords": [
+        "free action",
+        "concentration",
+        "drop",
+        "prone",
+        "speak"
+      ]
+    },
+    {
+      "id": "swift_actions",
+      "title": "Swift Actions",
+      "anchor_heading": "### Swift Actions",
+      "includes_subheadings": [
+        "#### Cast a Quickened Spell"
+      ],
+      "description": "Swift actions including quickened spells and their limitations",
+      "keywords": [
+        "swift action",
+        "quickened spell",
+        "one per turn"
+      ]
+    },
+    {
+      "id": "immediate_actions",
+      "title": "Immediate Actions",
+      "anchor_heading": "### Immediate Actions",
+      "includes_subheadings": [],
+      "description": "Immediate actions that can be used at any time, including their interaction with swift actions",
+      "keywords": [
+        "immediate action",
+        "any time",
+        "swift action",
+        "feather fall"
+      ]
+    },
+    {
+      "id": "miscellaneous_actions",
+      "title": "Miscellaneous Actions",
+      "anchor_heading": "### Miscellaneous Actions",
+      "includes_subheadings": [
+        "#### Take 5-Foot Step",
+        "#### Use Feat",
+        "#### Use Skill"
+      ],
+      "description": "Special actions that don't fit standard categories including 5-foot steps",
+      "keywords": [
+        "5-foot step",
+        "feat",
+        "skill",
+        "miscellaneous"
+      ]
+    },
+    {
+      "id": "injury_and_death",
+      "title": "Injury and Death",
+      "anchor_heading": "## Injury and Death",
+      "includes_subheadings": [
+        "### Loss of Hit Points",
+        "#### What Hit Points Represent",
+        "#### Effects of Hit Point Damage",
+        "#### Disabled (0 Hit Points)",
+        "#### Dying (Negative Hit Points)",
+        "#### Dead",
+        "### Stable Characters and Recovery",
+        "#### Recovering with Help",
+        "#### Recovering without Help",
+        "### Healing",
+        "#### Natural Healing",
+        "#### Magical Healing",
+        "#### Healing Limits",
+        "#### Healing Ability Damage",
+        "### Temporary Hit Points",
+        "#### Increases in Constitution Score and Current Hit Points",
+        "### Nonlethal Damage",
+        "#### Dealing Nonlethal Damage",
+        "#### Staggered and Unconscious",
+        "#### Healing Nonlethal Damage"
+      ],
+      "description": "Complete system for injury, death, recovery, healing, and nonlethal damage",
+      "keywords": [
+        "injury",
+        "death",
+        "dying",
+        "disabled",
+        "healing",
+        "recovery",
+        "nonlethal",
+        "temporary hit points"
+      ]
+    },
+    {
+      "id": "movement_position_distance",
+      "title": "Movement, Position, and Distance",
+      "anchor_heading": "## Movement, Position, And Distance",
+      "includes_subheadings": [
+        "### Tactical Movement",
+        "### Measuring Distance",
+        "#### Diagonals",
+        "#### Closest Creature",
+        "### Moving Through a Square",
+        "#### Friend",
+        "#### Opponent",
+        "#### Ending Your Movement",
+        "#### Overrun",
+        "#### Tumbling",
+        "#### Very Small Creature",
+        "#### Square Occupied by Creature Three Sizes Larger or Smaller",
+        "#### Designated Exceptions",
+        "### Terrain and Obstacles",
+        "#### Difficult Terrain",
+        "#### Obstacles",
+        "#### Squeezing",
+        "### Special Movement Rules",
+        "#### Accidentally Ending Movement in an Illegal Space",
+        "#### Double Movement Cost",
+        "#### Minimum Movement"
+      ],
+      "description": "Complete movement system including tactical movement, measuring distance, terrain effects, and special movement rules",
+      "keywords": [
+        "movement",
+        "position",
+        "distance",
+        "tactical",
+        "diagonal",
+        "terrain",
+        "obstacles",
+        "squeezing"
+      ]
+    },
+    {
+      "id": "big_little_creatures",
+      "title": "Big and Little Creatures in Combat",
+      "anchor_heading": "## Big and Little Creatures In Combat",
+      "includes_subheadings": [
+        "#### Tiny, Diminutive, and Fine Creatures",
+        "#### Large, Huge, Gargantuan, and Colossal Creatures"
+      ],
+      "description": "Special combat rules for creatures of unusual sizes including reach and space occupation",
+      "keywords": [
+        "size",
+        "tiny",
+        "large",
+        "huge",
+        "reach",
+        "space",
+        "creature size"
+      ]
+    },
+    {
+      "id": "combat_modifiers",
+      "title": "Combat Modifiers",
+      "anchor_heading": "## Combat Modifiers",
+      "includes_subheadings": [
+        "### Cover",
+        "#### Low Obstacles and Cover",
+        "#### Cover and Attacks of Opportunity",
+        "#### Cover and Reflex Saves",
+        "#### Cover and Stealth Checks",
+        "#### Soft Cover",
+        "#### Big Creatures and Cover",
+        "#### Partial Cover",
+        "#### Total Cover",
+        "#### Improved Cover",
+        "### Concealment",
+        "#### Concealment Miss Chance",
+        "#### Concealment and Stealth Checks",
+        "#### Total Concealment",
+        "#### Ignoring Concealment",
+        "#### Varying Degrees of Concealment",
+        "### Flanking",
+        "### Helpless Defenders",
+        "#### Regular Attack",
+        "#### Coup de Grace"
+      ],
+      "description": "Combat situational modifiers including cover, concealment, flanking, and helpless opponents",
+      "keywords": [
+        "combat modifiers",
+        "cover",
+        "concealment",
+        "flanking",
+        "helpless",
+        "coup de grace",
+        "miss chance"
+      ]
+    },
+    {
+      "id": "aid_another",
+      "title": "Aid Another",
+      "anchor_heading": "### Aid Another",
+      "includes_subheadings": [],
+      "description": "Rules for helping allies with attack rolls, AC, or other actions",
+      "keywords": [
+        "aid another",
+        "help",
+        "bonus",
+        "assist",
+        "teamwork"
+      ]
+    },
+    {
+      "id": "charge",
+      "title": "Charge",
+      "anchor_heading": "### Charge",
+      "includes_subheadings": [
+        "#### Movement During a Charge",
+        "#### Attacking on a Charge",
+        "##### Swinging Charge from Ropes or Vines"
+      ],
+      "description": "Charging rules including movement restrictions, attack bonuses, and special charge types",
+      "keywords": [
+        "charge",
+        "movement",
+        "attack bonus",
+        "lance",
+        "brace",
+        "rope swing"
+      ]
+    },
+    {
+      "id": "combat_maneuvers_overview",
+      "title": "Combat Maneuvers Overview",
+      "anchor_heading": "### Combat Maneuvers",
+      "includes_subheadings": [
+        "#### Combat Maneuver Bonus",
+        "#### Special Size Modifier",
+        "##### Performing a Combat Maneuver",
+        "#### Combat Maneuver Defense",
+        "#### Special Size Modifier",
+        "#### Miscellaneous Modifiers",
+        "#### Determine Success"
+      ],
+      "description": "General combat maneuver system including CMB, CMD calculation, and success determination",
+      "keywords": [
+        "combat maneuvers",
+        "CMB",
+        "CMD",
+        "size modifier",
+        "success"
+      ]
+    },
+    {
+      "id": "bull_rush",
+      "title": "Bull Rush",
+      "anchor_heading": "#### Bull Rush",
+      "includes_subheadings": [],
+      "description": "Bull rush combat maneuver rules for pushing opponents",
+      "keywords": [
+        "bull rush",
+        "push",
+        "movement",
+        "combat maneuver"
+      ]
+    },
+    {
+      "id": "dirty_trick",
+      "title": "Dirty Trick",
+      "anchor_heading": "#### Dirty Trick",
+      "includes_subheadings": [],
+      "description": "Dirty trick combat maneuver for applying temporary conditions",
+      "keywords": [
+        "dirty trick",
+        "conditions",
+        "blind",
+        "entangled",
+        "sickened",
+        "combat maneuver"
+      ]
+    },
+    {
+      "id": "disarm",
+      "title": "Disarm",
+      "anchor_heading": "#### Disarm",
+      "includes_subheadings": [],
+      "description": "Disarm combat maneuver for removing weapons from opponents",
+      "keywords": [
+        "disarm",
+        "drop",
+        "combat maneuver"
+      ]
+    },
+    {
+      "id": "drag",
+      "title": "Drag",
+      "anchor_heading": "#### Drag",
+      "includes_subheadings": [],
+      "description": "Drag combat maneuver for moving opponents in a line",
+      "keywords": [
+        "drag",
+        "movement",
+        "positioning",
+        "combat maneuver"
+      ]
+    },
+    {
+      "id": "grapple",
+      "title": "Grapple",
+      "anchor_heading": "#### Grapple",
+      "includes_subheadings": [
+        "##### Move",
+        "##### Damage",
+        "##### Pin",
+        "##### Tie Up",
+        "##### If You Are Grappled",
+        "##### Multiple Creatures"
+      ],
+      "description": "Complete grappling system including maintaining grapples, pinning, and escape options",
+      "keywords": [
+        "grapple",
+        "pin",
+        "grappled",
+        "escape",
+        "tie up",
+        "combat maneuver"
+      ]
+    },
+    {
+      "id": "overrun",
+      "title": "Overrun",
+      "anchor_heading": "#### Overrun",
+      "includes_subheadings": [],
+      "description": "Overrun combat maneuver for moving through opponent spaces",
+      "keywords": [
+        "overrun",
+        "movement",
+        "prone",
+        "combat maneuver"
+      ]
+    },
+    {
+      "id": "reposition",
+      "title": "Reposition",
+      "anchor_heading": "#### Reposition",
+      "includes_subheadings": [],
+      "description": "Reposition combat maneuver for moving opponents to different locations",
+      "keywords": [
+        "reposition",
+        "movement",
+        "positioning",
+        "combat maneuver"
+      ]
+    },
+    {
+      "id": "steal",
+      "title": "Steal",
+      "anchor_heading": "#### Steal",
+      "includes_subheadings": [],
+      "description": "Steal combat maneuver for taking items from opponents",
+      "keywords": [
+        "steal",
+        "items",
+        "equipment",
+        "combat maneuver"
+      ]
+    },
+    {
+      "id": "sunder",
+      "title": "Sunder",
+      "anchor_heading": "#### Sunder",
+      "includes_subheadings": [],
+      "description": "Sunder combat maneuver for damaging equipment and objects",
+      "keywords": [
+        "sunder",
+        "damage",
+        "equipment",
+        "hardness",
+        "broken",
+        "combat maneuver"
+      ]
+    },
+    {
+      "id": "trip",
+      "title": "Trip",
+      "anchor_heading": "#### Trip",
+      "includes_subheadings": [],
+      "description": "Trip combat maneuver for knocking opponents prone",
+      "keywords": [
+        "trip",
+        "prone",
+        "legs",
+        "combat maneuver"
+      ]
+    },
+    {
+      "id": "feint",
+      "title": "Feint",
+      "anchor_heading": "### Feint",
+      "includes_subheadings": [
+        "##### Feinting as a Move Action"
+      ],
+      "description": "Feinting rules for denying Dexterity bonus to AC using Bluff skill",
+      "keywords": [
+        "feint",
+        "bluff",
+        "dexterity bonus",
+        "AC",
+        "deception"
+      ]
+    },
+    {
+      "id": "mounted_combat",
+      "title": "Mounted Combat",
+      "anchor_heading": "### Mounted Combat",
+      "includes_subheadings": [
+        "#### Mounts in Combat",
+        "#### Combat while Mounted",
+        "#### Casting Spells While Mounted",
+        "#### If Your Mount Falls in Battle",
+        "#### If You Are Dropped"
+      ],
+      "description": "Complete mounted combat system including mount behavior, attacks while mounted, and mount injuries",
+      "keywords": [
+        "mounted combat",
+        "horse",
+        "mount",
+        "riding",
+        "charge",
+        "lance",
+        "spells"
+      ]
+    },
+    {
+      "id": "throw_splash_weapon",
+      "title": "Throw Splash Weapon",
+      "anchor_heading": "### Throw Splash Weapon",
+      "includes_subheadings": [],
+      "description": "Rules for splash weapons including targeting, miss direction, and splash damage",
+      "keywords": [
+        "splash weapon",
+        "ranged touch",
+        "splash damage",
+        "grid intersection",
+        "misdirection"
+      ]
+    },
+    {
+      "id": "two_weapon_fighting",
+      "title": "Two-Weapon Fighting",
+      "anchor_heading": "### Two-Weapon Fighting",
+      "includes_subheadings": [
+        "#### Double Weapons",
+        "#### Thrown Weapons"
+      ],
+      "description": "Two-weapon fighting penalties, light weapons, and double weapons",
+      "keywords": [
+        "two-weapon fighting",
+        "penalties",
+        "light weapon",
+        "off-hand",
+        "double weapon"
+      ]
+    },
+    {
+      "id": "delay",
+      "title": "Delay",
+      "anchor_heading": "### Delay",
+      "includes_subheadings": [
+        "#### Initiative Consequences of Delaying"
+      ],
+      "description": "Delaying your action and its effects on initiative order",
+      "keywords": [
+        "delay",
+        "initiative",
+        "wait",
+        "action",
+        "timing"
+      ]
+    },
+    {
+      "id": "ready",
+      "title": "Ready",
+      "anchor_heading": "### Ready",
+      "includes_subheadings": [
+        "#### Readying an Action",
+        "#### Initiative Consequences of Readying",
+        "#### Distracting Spellcasters",
+        "#### Readying to Counterspell",
+        "#### Readying a Weapon against a Charge"
+      ],
+      "description": "Readying actions for specific triggers including counterspelling and setting against charges",
+      "keywords": [
+        "ready",
+        "trigger",
+        "interrupt",
+        "counterspell",
+        "brace",
+        "initiative"
+      ]
+    }
+  ]
+}

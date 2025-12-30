@@ -1,0 +1,519 @@
+{
+  "file": "conditions.md",
+  "source_path": "rules/conditions.md",
+  "sections": [
+    {
+      "id": "conditions_overview",
+      "title": "Conditions Overview",
+      "anchor_heading": "# Conditions",
+      "includes_subheadings": [],
+      "description": "General rules for how multiple conditions interact and combine",
+      "keywords": [
+        "conditions",
+        "multiple effects",
+        "stacking",
+        "severity"
+      ]
+    },
+    {
+      "id": "bleed_condition",
+      "title": "Bleed Condition",
+      "anchor_heading": "#### Bleed",
+      "includes_subheadings": [],
+      "description": "Rules for bleed damage, how to stop bleeding, ability damage/drain from bleed, and stacking rules",
+      "keywords": [
+        "bleed",
+        "bleeding",
+        "damage over time",
+        "heal check",
+        "ability damage",
+        "stacking"
+      ]
+    },
+    {
+      "id": "blinded_condition",
+      "title": "Blinded Condition",
+      "anchor_heading": "#### Blinded",
+      "includes_subheadings": [],
+      "description": "Complete rules for blindness including AC penalties, skill check penalties, concealment effects, and movement restrictions",
+      "keywords": [
+        "blinded",
+        "vision",
+        "concealment",
+        "perception",
+        "acrobatics",
+        "dexterity bonus"
+      ]
+    },
+    {
+      "id": "broken_condition",
+      "title": "Broken Condition",
+      "anchor_heading": "#### Broken",
+      "includes_subheadings": [
+        "**Special Note on Ships**"
+      ],
+      "description": "Rules for broken items including weapons, armor, tools, and magical items, plus repair methods and ship-specific rules",
+      "keywords": [
+        "broken",
+        "damaged items",
+        "weapons",
+        "armor",
+        "repair",
+        "ships",
+        "critical hits",
+        "mending"
+      ]
+    },
+    {
+      "id": "confused_condition",
+      "title": "Confused Condition",
+      "anchor_heading": "#### Confused",
+      "includes_subheadings": [],
+      "description": "Complete confusion rules including behavior table, ally/enemy recognition, touch attacks, and attacks of opportunity restrictions",
+      "keywords": [
+        "confused",
+        "behavior table",
+        "random actions",
+        "allies",
+        "enemies",
+        "touch attack",
+        "attacks of opportunity"
+      ]
+    },
+    {
+      "id": "cowering_condition",
+      "title": "Cowering Condition",
+      "anchor_heading": "#### Cowering",
+      "includes_subheadings": [],
+      "description": "Rules for cowering including action restrictions and AC penalties",
+      "keywords": [
+        "cowering",
+        "fear",
+        "frozen",
+        "no actions",
+        "armor class penalty",
+        "dexterity bonus"
+      ]
+    },
+    {
+      "id": "dazed_condition",
+      "title": "Dazed Condition",
+      "anchor_heading": "#### Dazed",
+      "includes_subheadings": [],
+      "description": "Rules for dazed condition including action restrictions and duration",
+      "keywords": [
+        "dazed",
+        "no actions",
+        "unable to act",
+        "duration"
+      ]
+    },
+    {
+      "id": "dazzled_condition",
+      "title": "Dazzled Condition",
+      "anchor_heading": "#### Dazzled",
+      "includes_subheadings": [],
+      "description": "Rules for dazzled condition including attack and perception penalties",
+      "keywords": [
+        "dazzled",
+        "over-stimulation",
+        "attack rolls",
+        "perception",
+        "sight"
+      ]
+    },
+    {
+      "id": "dead_condition",
+      "title": "Dead Condition",
+      "anchor_heading": "#### Dead",
+      "includes_subheadings": [],
+      "description": "Complete rules for death including hit point thresholds, soul departure, healing restrictions, and resurrection effects",
+      "keywords": [
+        "dead",
+        "death",
+        "hit points",
+        "constitution",
+        "soul",
+        "resurrection",
+        "magical healing",
+        "decay"
+      ]
+    },
+    {
+      "id": "deafened_condition",
+      "title": "Deafened Condition",
+      "anchor_heading": "#### Deafened",
+      "includes_subheadings": [],
+      "description": "Rules for deafness including initiative penalties, perception failures, and spell failure chances",
+      "keywords": [
+        "deafened",
+        "hearing",
+        "initiative",
+        "perception",
+        "spell failure",
+        "verbal components"
+      ]
+    },
+    {
+      "id": "disabled_condition",
+      "title": "Disabled Condition",
+      "anchor_heading": "#### Disabled",
+      "includes_subheadings": [],
+      "description": "Complete rules for disabled characters including action restrictions, movement limitations, damage risks, and recovery methods",
+      "keywords": [
+        "disabled",
+        "zero hit points",
+        "negative hit points",
+        "stable",
+        "standard action",
+        "move action",
+        "recovery"
+      ]
+    },
+    {
+      "id": "dying_condition",
+      "title": "Dying Condition",
+      "anchor_heading": "#### Dying",
+      "includes_subheadings": [],
+      "description": "Rules for dying including stabilization checks, hit point loss, and death thresholds",
+      "keywords": [
+        "dying",
+        "negative hit points",
+        "unconscious",
+        "stabilization",
+        "constitution check",
+        "death"
+      ]
+    },
+    {
+      "id": "energy_drained_condition",
+      "title": "Energy Drained Condition",
+      "anchor_heading": "#### Energy Drained",
+      "includes_subheadings": [],
+      "description": "Rules for energy drain including negative levels, death effects distinction, and immunity clarifications",
+      "keywords": [
+        "energy drain",
+        "negative levels",
+        "death effects",
+        "undead",
+        "death ward",
+        "immunity"
+      ]
+    },
+    {
+      "id": "entangled_condition",
+      "title": "Entangled Condition",
+      "anchor_heading": "#### Entangled",
+      "includes_subheadings": [],
+      "description": "Rules for entanglement including movement restrictions, attack penalties, and spellcasting difficulties",
+      "keywords": [
+        "entangled",
+        "ensnared",
+        "movement",
+        "attack rolls",
+        "dexterity",
+        "concentration",
+        "spellcasting"
+      ]
+    },
+    {
+      "id": "exhausted_fatigued_conditions",
+      "title": "Exhausted and Fatigued Conditions",
+      "anchor_heading": "#### Exhausted",
+      "includes_subheadings": [
+        "#### Fatigued"
+      ],
+      "description": "Complete rules for exhaustion and fatigue including penalties, recovery times, and condition progression",
+      "keywords": [
+        "exhausted",
+        "fatigued",
+        "movement",
+        "strength",
+        "dexterity",
+        "rest",
+        "recovery",
+        "charge",
+        "run"
+      ]
+    },
+    {
+      "id": "fascinated_condition",
+      "title": "Fascinated Condition",
+      "anchor_heading": "#### Fascinated",
+      "includes_subheadings": [],
+      "description": "Rules for fascination including action restrictions, skill penalties, threat responses, and breaking the effect",
+      "keywords": [
+        "fascinated",
+        "entranced",
+        "skill checks",
+        "perception",
+        "threats",
+        "saving throw",
+        "standard action"
+      ]
+    },
+    {
+      "id": "flat_footed_condition",
+      "title": "Flat-Footed Condition",
+      "anchor_heading": "#### Flat-Footed",
+      "includes_subheadings": [],
+      "description": "Rules for flat-footed condition including AC loss, attack of opportunity restrictions, and special ability exceptions",
+      "keywords": [
+        "flat-footed",
+        "dexterity bonus",
+        "armor class",
+        "attacks of opportunity",
+        "combat reflexes",
+        "uncanny dodge",
+        "immediate actions"
+      ]
+    },
+    {
+      "id": "fear_conditions",
+      "title": "Fear Conditions (Frightened, Panicked, Shaken)",
+      "anchor_heading": "#### Frightened",
+      "includes_subheadings": [
+        "#### Panicked",
+        "#### Shaken"
+      ],
+      "description": "Complete rules for all fear-based conditions including penalties, behavioral restrictions, and severity levels",
+      "keywords": [
+        "frightened",
+        "panicked",
+        "shaken",
+        "fear",
+        "flee",
+        "attack rolls",
+        "saving throws",
+        "skill checks",
+        "ability checks",
+        "total defense"
+      ]
+    },
+    {
+      "id": "grappled_pinned_conditions",
+      "title": "Grappled and Pinned Conditions",
+      "anchor_heading": "#### Grappled",
+      "includes_subheadings": [
+        "#### Pinned"
+      ],
+      "description": "Complete grappling rules including movement restrictions, penalties, spellcasting difficulties, stealth restrictions, and pinned condition effects",
+      "keywords": [
+        "grappled",
+        "pinned",
+        "restrained",
+        "dexterity",
+        "attack rolls",
+        "combat maneuvers",
+        "concentration",
+        "spellcasting",
+        "stealth",
+        "invisibility"
+      ]
+    },
+    {
+      "id": "helpless_condition",
+      "title": "Helpless Condition",
+      "anchor_heading": "#### Helpless",
+      "includes_subheadings": [],
+      "description": "Rules for helpless targets including attack bonuses, sneak attacks, coup de grace mechanics, and critical hit immunity",
+      "keywords": [
+        "helpless",
+        "paralyzed",
+        "unconscious",
+        "dexterity",
+        "coup de grace",
+        "sneak attack",
+        "critical hits",
+        "fortitude save"
+      ]
+    },
+    {
+      "id": "incorporeal_condition",
+      "title": "Incorporeal Condition",
+      "anchor_heading": "#### Incorporeal",
+      "includes_subheadings": [],
+      "description": "Rules for incorporeal creatures including damage immunity, magical damage reduction, and force effect interactions",
+      "keywords": [
+        "incorporeal",
+        "nonmagical attacks",
+        "magic weapons",
+        "damage reduction",
+        "force effects",
+        "supernatural effects"
+      ]
+    },
+    {
+      "id": "invisible_condition",
+      "title": "Invisible Condition",
+      "anchor_heading": "#### Invisible",
+      "includes_subheadings": [],
+      "description": "Rules for invisibility including attack bonuses and AC interactions",
+      "keywords": [
+        "invisible",
+        "visually undetectable",
+        "attack rolls",
+        "dexterity bonus",
+        "armor class"
+      ]
+    },
+    {
+      "id": "nauseated_condition",
+      "title": "Nauseated Condition",
+      "anchor_heading": "#### Nauseated",
+      "includes_subheadings": [],
+      "description": "Rules for nausea including severe action restrictions and movement limitations",
+      "keywords": [
+        "nauseated",
+        "stomach distress",
+        "unable to attack",
+        "spellcasting",
+        "concentration",
+        "move action"
+      ]
+    },
+    {
+      "id": "paralyzed_condition",
+      "title": "Paralyzed Condition",
+      "anchor_heading": "#### Paralyzed",
+      "includes_subheadings": [],
+      "description": "Rules for paralysis including ability score effects, helplessness, movement through occupied squares, and environmental dangers",
+      "keywords": [
+        "paralyzed",
+        "frozen",
+        "dexterity",
+        "strength",
+        "helpless",
+        "mental actions",
+        "flying",
+        "swimming",
+        "movement"
+      ]
+    },
+    {
+      "id": "petrified_condition",
+      "title": "Petrified Condition",
+      "anchor_heading": "#### Petrified",
+      "includes_subheadings": [],
+      "description": "Rules for petrification including unconsciousness and damage from incomplete restoration",
+      "keywords": [
+        "petrified",
+        "turned to stone",
+        "unconscious",
+        "restoration",
+        "hit point loss",
+        "debilitation"
+      ]
+    },
+    {
+      "id": "prone_condition",
+      "title": "Prone Condition",
+      "anchor_heading": "#### Prone",
+      "includes_subheadings": [],
+      "description": "Rules for prone position including attack penalties, AC modifiers, ranged weapon restrictions, and standing up",
+      "keywords": [
+        "prone",
+        "lying down",
+        "attack rolls",
+        "ranged weapons",
+        "armor class",
+        "standing up",
+        "attacks of opportunity"
+      ]
+    },
+    {
+      "id": "ship_conditions",
+      "title": "Ship-Specific Conditions (Sinking)",
+      "anchor_heading": "#### Sinking",
+      "includes_subheadings": [],
+      "description": "Rules for sinking ships including timing, destruction, and magical repair options",
+      "keywords": [
+        "sinking",
+        "ships",
+        "hit points",
+        "destruction",
+        "repair",
+        "make whole",
+        "naval combat"
+      ]
+    },
+    {
+      "id": "sickened_condition",
+      "title": "Sickened Condition",
+      "anchor_heading": "#### Sickened",
+      "includes_subheadings": [],
+      "description": "Rules for sickness including universal penalties to rolls and checks",
+      "keywords": [
+        "sickened",
+        "penalty",
+        "attack rolls",
+        "damage rolls",
+        "saving throws",
+        "skill checks",
+        "ability checks"
+      ]
+    },
+    {
+      "id": "stable_condition",
+      "title": "Stable Condition",
+      "anchor_heading": "#### Stable",
+      "includes_subheadings": [],
+      "description": "Rules for stabilized characters including consciousness recovery and ongoing risk factors",
+      "keywords": [
+        "stable",
+        "dying",
+        "negative hit points",
+        "unconscious",
+        "constitution check",
+        "disabled",
+        "heal check"
+      ]
+    },
+    {
+      "id": "staggered_condition",
+      "title": "Staggered Condition",
+      "anchor_heading": "#### Staggered",
+      "includes_subheadings": [],
+      "description": "Rules for staggered condition including action limitations and nonlethal damage triggers",
+      "keywords": [
+        "staggered",
+        "single action",
+        "move action",
+        "standard action",
+        "nonlethal damage",
+        "swift actions",
+        "immediate actions"
+      ]
+    },
+    {
+      "id": "stunned_condition",
+      "title": "Stunned Condition",
+      "anchor_heading": "#### Stunned",
+      "includes_subheadings": [],
+      "description": "Rules for stunned condition including dropped items, action restrictions, AC penalties, and combat maneuver vulnerabilities",
+      "keywords": [
+        "stunned",
+        "drops items",
+        "no actions",
+        "armor class",
+        "dexterity bonus",
+        "combat maneuvers"
+      ]
+    },
+    {
+      "id": "unconscious_condition",
+      "title": "Unconscious Condition",
+      "anchor_heading": "#### Unconscious",
+      "includes_subheadings": [],
+      "description": "Rules for unconsciousness including causes and helpless status",
+      "keywords": [
+        "unconscious",
+        "knocked out",
+        "helpless",
+        "negative hit points",
+        "nonlethal damage",
+        "constitution score"
+      ]
+    }
+  ]
+}

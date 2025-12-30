@@ -1,0 +1,252 @@
+{
+  "file": "special-abilities.md",
+  "source_path": "rules/special-abilities.md",
+  "sections": [
+    {
+      "id": "special_ability_types",
+      "title": "Special Ability Types",
+      "anchor_heading": "# Special Abilities",
+      "includes_subheadings": [
+        "### Extraordinary Abilities (Ex)",
+        "### Spell-Like Abilities (Sp)",
+        "### Supernatural Abilities (Su)"
+      ],
+      "description": "Rules for the three main types of special abilities: extraordinary, spell-like, and supernatural abilities, including how they interact with magic suppression, dispelling, and spell resistance",
+      "keywords": [
+        "extraordinary",
+        "spell-like",
+        "supernatural",
+        "antimagic",
+        "dispel",
+        "counterspell",
+        "attacks of opportunity",
+        "ability types"
+      ]
+    },
+    {
+      "id": "sight_abilities",
+      "title": "Sight and Vision Abilities",
+      "anchor_heading": "#### Blindsight",
+      "includes_subheadings": [
+        "#### Blindsight",
+        "#### **Blindsense**",
+        "#### Darkvision",
+        "#### Low-Light Vision"
+      ],
+      "description": "Rules for special vision and sight abilities including blindsight, blindsense, darkvision, and low-light vision",
+      "keywords": [
+        "blindsight",
+        "blindsense",
+        "darkvision",
+        "low-light vision",
+        "vision",
+        "sight",
+        "concealment",
+        "gaze attacks",
+        "darkness"
+      ]
+    },
+    {
+      "id": "channel_resistance",
+      "title": "Channel Resistance",
+      "anchor_heading": "#### Channel Resistance",
+      "includes_subheadings": [],
+      "description": "Rules for channel resistance ability that provides bonus on Will saves against channeled energy",
+      "keywords": [
+        "channel resistance",
+        "channeled energy",
+        "will saves",
+        "undead"
+      ]
+    },
+    {
+      "id": "charm_and_compulsion",
+      "title": "Charm and Compulsion",
+      "anchor_heading": "#### Charm and Compulsion",
+      "includes_subheadings": [],
+      "description": "Comprehensive rules for charm and compulsion effects, including how charmed creatures behave, limitations, and breaking free",
+      "keywords": [
+        "charm",
+        "compulsion",
+        "enchantment",
+        "mind control",
+        "charisma check",
+        "free will",
+        "alignment"
+      ]
+    },
+    {
+      "id": "damage_reduction",
+      "title": "Damage Reduction",
+      "anchor_heading": "#### Damage Reduction",
+      "includes_subheadings": [
+        "##### Overcoming DR"
+      ],
+      "description": "Complete rules for damage reduction including how it works, what it blocks, overcoming DR with special materials and enhancement bonuses",
+      "keywords": [
+        "damage reduction",
+        "DR",
+        "enhancement bonus",
+        "adamantine",
+        "cold iron",
+        "silver",
+        "magic weapons",
+        "special materials"
+      ]
+    },
+    {
+      "id": "death_attacks",
+      "title": "Death Attacks",
+      "anchor_heading": "#### Death Attacks",
+      "includes_subheadings": [],
+      "description": "Rules for death attacks that can instantly kill, including saves, resurrection restrictions, and protections",
+      "keywords": [
+        "death attack",
+        "fortitude save",
+        "instant death",
+        "raise dead",
+        "death ward",
+        "negative constitution"
+      ]
+    },
+    {
+      "id": "energy_drain_negative_levels",
+      "title": "Energy Drain and Negative Levels",
+      "anchor_heading": "#### Energy Drain and Negative Levels",
+      "includes_subheadings": [],
+      "description": "Complete rules for negative levels from energy drain, including penalties, temporary vs permanent negative levels, and removal",
+      "keywords": [
+        "energy drain",
+        "negative levels",
+        "level drain",
+        "undead",
+        "restoration",
+        "hit dice",
+        "temporary",
+        "permanent"
+      ]
+    },
+    {
+      "id": "energy_immunity_vulnerability_resistance",
+      "title": "Energy Immunity, Vulnerability, and Resistance",
+      "anchor_heading": "#### Energy Immunity and Vulnerability",
+      "includes_subheadings": [
+        "#### Energy Immunity and Vulnerability",
+        "#### Energy Resistance"
+      ],
+      "description": "Rules for energy immunity (complete protection), vulnerability (50% extra damage), and resistance (reduces damage by fixed amount)",
+      "keywords": [
+        "energy immunity",
+        "energy vulnerability",
+        "energy resistance",
+        "fire",
+        "cold",
+        "electricity",
+        "acid",
+        "sonic"
+      ]
+    },
+    {
+      "id": "ethereal",
+      "title": "Ethereal",
+      "anchor_heading": "#### Ethereal",
+      "includes_subheadings": [],
+      "description": "Rules for ethereal creatures including movement, interaction with material plane, force effects, and combat limitations",
+      "keywords": [
+        "ethereal",
+        "ethereal plane",
+        "material plane",
+        "invisible",
+        "insubstantial",
+        "force effects",
+        "abjuration"
+      ]
+    },
+    {
+      "id": "fear_effects",
+      "title": "Fear Effects",
+      "anchor_heading": "#### Fear (Su or Sp)",
+      "includes_subheadings": [],
+      "description": "Complete rules for fear effects including shaken, frightened, and panicked conditions, fear auras, and cumulative fear",
+      "keywords": [
+        "fear",
+        "shaken",
+        "frightened",
+        "panicked",
+        "fear aura",
+        "will save",
+        "mind-affecting",
+        "cowering"
+      ]
+    },
+    {
+      "id": "invisibility",
+      "title": "Invisibility",
+      "anchor_heading": "#### Invisibility",
+      "includes_subheadings": [],
+      "description": "Comprehensive rules for invisibility including detection, attacking invisible creatures, concealment, and special interactions",
+      "keywords": [
+        "invisibility",
+        "invisible",
+        "perception",
+        "concealment",
+        "stealth",
+        "blind-fight",
+        "incorporeal",
+        "ethereal"
+      ]
+    },
+    {
+      "id": "paralysis",
+      "title": "Paralysis",
+      "anchor_heading": "#### Paralysis",
+      "includes_subheadings": [],
+      "description": "Rules for paralysis effects that immobilize creatures, including limitations and effects on flying/swimming creatures",
+      "keywords": [
+        "paralysis",
+        "paralyzed",
+        "immobilized",
+        "helpless",
+        "mental actions",
+        "flying",
+        "swimming"
+      ]
+    },
+    {
+      "id": "scent",
+      "title": "Scent",
+      "anchor_heading": "#### Scent",
+      "includes_subheadings": [],
+      "description": "Complete rules for the scent ability including detection ranges, tracking, environmental effects, and interactions with stealth",
+      "keywords": [
+        "scent",
+        "smell",
+        "tracking",
+        "survival",
+        "upwind",
+        "downwind",
+        "perception bonus",
+        "odor"
+      ]
+    },
+    {
+      "id": "spell_resistance",
+      "title": "Spell Resistance",
+      "anchor_heading": "#### Spell Resistance",
+      "includes_subheadings": [
+        "##### When Spell Resistance Applies",
+        "##### Successful Spell Resistance"
+      ],
+      "description": "Comprehensive rules for spell resistance including caster level checks, when it applies to different spell types, and voluntarily lowering SR",
+      "keywords": [
+        "spell resistance",
+        "SR",
+        "caster level check",
+        "targeted spells",
+        "area spells",
+        "effect spells",
+        "voluntary"
+      ]
+    }
+  ]
+}
