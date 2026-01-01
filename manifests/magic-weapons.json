@@ -1,0 +1,135 @@
+{
+  "file": "magic-weapons.md",
+  "source_path": "rules/magic-weapons.md",
+  "sections": [
+    {
+      "id": "magic_weapons_overview",
+      "title": "Magic Weapons Overview",
+      "anchor_heading": "# Magic Weapons",
+      "includes_subheadings": [
+        "### Magic Weapons"
+      ],
+      "description": "Core rules for magic weapons including enhancement bonuses, special abilities, pricing, materials, ammunition interactions, activation, and random generation tables",
+      "keywords": [
+        "magic weapon",
+        "enhancement bonus",
+        "special ability",
+        "masterwork",
+        "caster level",
+        "ammunition",
+        "ranged weapon",
+        "melee weapon",
+        "critical hit",
+        "hardness",
+        "hit points",
+        "activation",
+        "command word",
+        "light generation",
+        "breakage",
+        "damage reduction"
+      ]
+    },
+    {
+      "id": "melee_weapon_special_abilities",
+      "title": "Melee Weapon Special Abilities",
+      "anchor_heading": "### Melee Weapon Special Abilities",
+      "includes_subheadings": [],
+      "description": "Random generation tables for melee weapon special abilities organized by bonus equivalent from +1 to +5, including ability names, price modifiers, and sources",
+      "keywords": [
+        "melee weapon",
+        "special ability",
+        "bane",
+        "flaming",
+        "frost",
+        "shock",
+        "keen",
+        "ghost touch",
+        "holy",
+        "unholy",
+        "anarchic",
+        "axiomatic",
+        "vorpal",
+        "dancing",
+        "brilliant energy",
+        "speed",
+        "defending",
+        "spell storing"
+      ]
+    },
+    {
+      "id": "ranged_weapon_special_abilities",
+      "title": "Ranged Weapon Special Abilities",
+      "anchor_heading": "### Table: Ranged Weapon Special Abilities",
+      "includes_subheadings": [],
+      "description": "Random generation tables for ranged weapon special abilities organized by bonus equivalent, including abilities specific to bows, crossbows, firearms, and thrown weapons",
+      "keywords": [
+        "ranged weapon",
+        "special ability",
+        "distance",
+        "seeking",
+        "returning",
+        "adaptive",
+        "endless ammunition",
+        "reliable",
+        "lucky",
+        "nimble shot",
+        "second chance",
+        "conserving",
+        "designating"
+      ]
+    },
+    {
+      "id": "ammunition_special_abilities",
+      "title": "Ammunition Special Abilities",
+      "anchor_heading": "### Table: Ammunition Special Abilities",
+      "includes_subheadings": [],
+      "description": "Random generation tables for ammunition special abilities including arrows, bolts, bullets, and firearm cartridges with their bonus equivalents and price modifiers",
+      "keywords": [
+        "ammunition",
+        "special ability",
+        "arrow",
+        "bolt",
+        "bullet",
+        "cartridge",
+        "dry load",
+        "seeking",
+        "phase locking",
+        "designating"
+      ]
+    },
+    {
+      "id": "specific_weapons_tables",
+      "title": "Specific Magic Weapons Tables",
+      "anchor_heading": "### Table: Specific Weapons",
+      "includes_subheadings": [],
+      "description": "Random generation tables for specific named magic weapons organized by treasure level from lesser minor to greater major, with prices and sources",
+      "keywords": [
+        "specific weapon",
+        "named weapon",
+        "javelin of lightning",
+        "flame tongue",
+        "holy avenger",
+        "luck blade",
+        "frost brand",
+        "sun blade",
+        "oathbow",
+        "nine lives stealer",
+        "dwarven thrower"
+      ]
+    },
+    {
+      "id": "third_party_magic_weapons",
+      "title": "3rd Party Publisher Magic Weapons",
+      "anchor_heading": "### 3rd Party Publisher Magic Weapons",
+      "includes_subheadings": [],
+      "description": "Reference to additional magic weapons and special abilities from third-party publishers available on d20pfsrd.com",
+      "keywords": [
+        "third party",
+        "publisher",
+        "additional weapons",
+        "d20pfsrd"
+      ]
+    }
+  ],
+  "source_name": "Magic Weapons"
+}

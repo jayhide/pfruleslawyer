@@ -1,0 +1,42 @@
+{
+  "file": "fighter.md",
+  "source_path": "rules/class/fighter.md",
+  "source_name": "Class: Fighter",
+  "sections": [
+    {
+      "id": "fighter",
+      "title": "Fighter",
+      "anchor_heading": "# Fighter",
+      "includes_subheadings": [
+        "### Class Skills",
+        "### Class Features",
+        "#### Weapon and Armor Proficiency",
+        "#### Bonus Feats",
+        "#### Bravery (Ex)",
+        "#### Armor Training (Ex)",
+        "#### Weapon Training (Ex)",
+        "#### Armor Mastery (Ex)",
+        "#### Weapon Mastery (Ex)",
+        "### Advanced Armor Training",
+        "### Advanced Weapon Training",
+        "### Alternative Capstone Ability",
+        "#### Veteran of Endless War (Ex)"
+      ],
+      "description": "Defines the Fighter class, including class features like bonus feats, weapon training, armor training, bravery, and capstone abilities, plus advanced training options.",
+      "keywords": [
+        "fighter",
+        "bonus feats",
+        "weapon training",
+        "armor training",
+        "bravery",
+        "armor mastery",
+        "weapon mastery",
+        "advanced weapon training",
+        "advanced armor training",
+        "fighter weapon groups",
+        "combat feats",
+        "veteran of endless war"
+      ]
+    }
+  ]
+}

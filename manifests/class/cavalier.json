@@ -1,0 +1,56 @@
+{
+  "file": "cavalier.md",
+  "source_path": "rules/class/cavalier.md",
+  "source_name": "Class: Cavalier",
+  "sections": [
+    {
+      "id": "cavalier",
+      "title": "Cavalier",
+      "anchor_heading": "# Cavalier",
+      "includes_subheadings": [
+        "### Class Skills",
+        "### Class Features",
+        "#### Weapon and Armor Proficiency",
+        "#### Challenge (Ex)",
+        "#### Mount (Ex)",
+        "### Animal Companion Feats",
+        "### Animal Companion Archetypes",
+        "#### Order (Ex)",
+        "#### Tactician (Ex)",
+        "#### Cavalier's Charge (Ex)",
+        "#### Expert Trainer (Ex)",
+        "#### Banner (Ex)",
+        "##### Alternate Banner Options",
+        "#### Bonus Feat",
+        "#### Greater Tactician (Ex)",
+        "#### Mighty Charge (Ex)",
+        "#### Demanding Challenge (Ex)",
+        "#### Greater Banner (Ex)",
+        "#### Master Tactician (Ex)",
+        "#### Supreme Charge (Ex)",
+        "### Alternative Capstone Ability",
+        "#### Tactical Genius (Ex)"
+      ],
+      "description": "Covers the cavalier base class including class features like challenge, mount, orders, tactician abilities, banner, and mounted combat specializations.",
+      "keywords": [
+        "cavalier",
+        "challenge",
+        "mount",
+        "order",
+        "tactician",
+        "banner",
+        "cavalier's charge",
+        "mighty charge",
+        "supreme charge",
+        "expert trainer",
+        "greater tactician",
+        "master tactician",
+        "demanding challenge",
+        "greater banner",
+        "animal companion",
+        "mounted combat",
+        "teamwork feat"
+      ]
+    }
+  ]
+}

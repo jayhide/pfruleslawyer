@@ -1,33 +1,5 @@
 # Unchained Rogue
 
-Contents
-
-    * Class Skills
-    * Class Features
-      * Weapon and Armor Proficiency
-      * Sneak Attack
-      * Trapfinding
-      * Finesse Training (Ex)
-      * Evasion (Ex)
-      * Rogue Talents
-      * Danger Sense (Ex)
-      * Debilitating Injury (Ex)
-      * Uncanny Dodge (Ex)
-      * Rogue’s Edge (Ex)
-      * Improved Uncanny Dodge (Ex)
-      * Advanced Talents
-      * Master Strike (Ex)
-    * Alternative Capstone Ability
-      * Masterful Talent (Ex)
-    * Unmodified Rogue Talents
-  * Archetypes & Alternate Class Features
-
-
-
- ![ ](http://yamaorce.deviantart.com/art/Rogue-comm-498310680)
-
-_Image used by permission ofYama Orce._
-
 Life is an endless adventure for those who live by their wits. Ever just one step ahead of danger, rogues bank on their cunning, skill, and charm to bend fate to their favor. Never knowing what to expect, they prepare for everything, becoming masters of a wide variety of skills, training themselves to be adept manipulators, agile acrobats, shadowy stalkers, or masters of any of dozens of other professions or talents. Thieves and gamblers, fast talkers and diplomats, bandits and bounty hunters, and explorers and investigators all might be considered rogues, as well as countless other professions that rely upon wits, prowess, or luck. Although many rogues favor cities and the innumerable opportunities of civilization, some embrace lives on the road, journeying far, meeting exotic people, and facing fantastic danger in pursuit of equally fantastic riches. In the end, any who desire to shape their fates and live life on their own terms might come to be called rogues.
 
 **Role** : Rogues excel at moving about unseen and catching foes unaware, and tend to avoid head-to-head combat. Their varied skills and abilities allow them to be highly versatile, with great variations in expertise existing between different rogues. Most, however, excel in overcoming hindrances of all types, from unlocking doors and disarming traps to outwitting magical hazards and conning dull-witted opponents.
@@ -224,48 +196,3 @@ The following rogue talents can be used without modification.
 **Rogue Talents** : Assault leader, black market connections, canny observer, cunning trigger, deft palm, distracting attack*, fast getaway, firearm training, getaway artist, grit, iron guts, ninja trick, positioning attack, quick disguise, quick trapsmith, rope master, strong impression, strong stroke, survivalist, swift poison, underhanded, wall scramble.
 
 **Advanced Rogue Talents** : Another day, confounding blades*, deadly cocktail, familiar, fast tumble, frugal trapsmith, getaway master, hide in plain sight, hunter’s surprise, knock-out blow, redirect attack, rumormonger, stealthy sniper, unwitting ally, weapon snatcher.
-
-## Archetypes & Alternate Class Features
-
-When a character selects a class, he must choose to use the standard class features found or those listed in one of the archetypes presented here. Each alternate class feature replaces a specific class feature from its parent class. For example, the elemental fist class feature of the monk of the four winds replaces the stunning fist class feature of the monk. When an archetype includes multiple class features, a character must take all of them—often blocking the character from ever gaining certain familiar class features, but replacing them with equally powerful options. All of the other class features found in the core class and not mentioned among the alternate class features remain unchanged and are acquired normally when the character reaches the appropriate level (unless noted otherwise). A character who takes an alternate class feature does not count as having the class feature that was replaced when meeting any requirements or prerequisites.
-
-A character can take more than one archetype and garner additional alternate class features, but none of the alternate class features can **replace or alter the same class feature** from the core class as another alternate class feature. For example, a paladin could not be both a hospitaler and an undead scourge since they both modify the smite evil class feature and both replace the aura of justice class feature. A paladin could, however, be both an undead scourge and a warrior of the holy light, since none of their new class features replace the same core class feature.
-
-By their nature, unchained rogues are varied and versatile. There are rogues who haunt the city, those who stalk the forest, and those who serve as agents of law. Wherever there is space for someone to make her mark with agility and wit, the rogue is there, using her wide range of skills and abilities to make a place for herself, whether openly or through cunning and subterfuge. And where a rogue’s natural cunning and quick thinking aren’t enough to win the day, well—there’s always the option of a knife in the back.
-
-The following themes represent some of the most popular and effective unchained rogue archetypes. Each archetype comes with one or more class features that must be taken. In addition, each archetype includes a number of new rogue talent suggestions that, while not mandatory, help to flesh out the character.
-
-Table: Archetypes / Alternate Class Features Archetype / Alternate Class Feature | Class Features Changed or Replaced  
----|---  
-Class Skills | Skill Ranks per Level | Weapon & Armor | Finesse Training | Sneak  
-Attack | Trapfinding | Evasion | Rogue Talents | Advanced  
-Talents | Danger Sense | Debilitating Injury | Uncanny Dodge | Rogue’s Edge | Improved Uncanny Dodge | Master Strike  
-1 | 3 | 11 | 19 | 1 | 3 | 5 | 7 | 9 | 11 | 13 | 15 | 17 | 19 | 2 | 4 | 6 | 8 | 10 | 12 | 14 | 16 | 18 | 20 | 5 | 10 | 15 | 20  
-Paizo  
-Note: Most of the the core rogue‘s existing archetypes will also work with the unchained rogue.  
-|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |   
-3rd Party Publishers  
-Note: Most of the the core rogue‘s existing archetypes will also work with the unchained rogue.  
-Everyman Gaming, LLC.  
-Arcane Charlatan |  |  |  | X | X | X | X |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | C |  | X |  |  |  |  |   
-Bruiser |  |  |  | X | X | X | X |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |   
-Contender |  |  |  | X | X | X | X |  |  |  |  |  |  |  |  |  |  |  |  | X |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |   
-Unchained  
-Ninja  
-(alternate class) | C |  | C |  |  |  |  |  |  |  |  |  |  |  |  |  |  | X | X | X | X | X | X | X | X | X | X | X | X | X | X |  | X | X | X | X |  | X  
-**(The following archetypes further modify theUnchained Ninja alternate class:)**  
-Goto |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | X |  | X |  |  |  | X |  |  |  |  |  | X |  |  |  |  |  |  |  |   
-Hoka-han |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | X | C | X |  | X |  | X |  |  |  |  |  | X |  |  |  |  |  |  |  |   
-Kishu |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | X |  |  |  | X |  |  |  |  |  |  |  | X |  |  |  |  |  |  |  |   
-Konran |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | X |  | X |  |  |  |  |  |  |  |  |  | X |  |  |  |  |  |  |  |   
-Oniwaban |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | X |  |  |  | X |  |  |  |  |  |  |  | X |  |  |  |  |  |  |  |   
-Star Master |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | X |  |  |  |  |  |  |  |  |  |  |  |  | X |  |  |  |  |  |  |   
-  
-X=replaced, (X)=optional replacement, C=changed
-
-**Subpages**
-
-  * Alternate Classes
-  * Archetypes
-  * Rogue Talents, Advanced
-  * Unchained Rogue Talents

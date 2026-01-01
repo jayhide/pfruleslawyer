@@ -1,0 +1,52 @@
+{
+  "file": "alchemist.md",
+  "source_path": "rules/class/alchemist.md",
+  "source_name": "Class: Alchemist",
+  "sections": [
+    {
+      "id": "alchemist",
+      "title": "Alchemist",
+      "anchor_heading": "# Alchemist",
+      "includes_subheadings": [
+        "### Class Skills",
+        "### Class Features",
+        "#### Weapon and Armor Proficiency",
+        "#### Alchemy (Su)",
+        "#### Bomb (Su)",
+        "#### Brew Potion (Ex)",
+        "#### Mutagen (Su)",
+        "#### Throw Anything (Ex)",
+        "#### Discovery (Su)",
+        "#### Poison Resistance (Ex)",
+        "#### Poison Use (Ex)",
+        "#### Swift Alchemy (Ex)",
+        "#### Swift Poisoning (Ex)",
+        "#### Persistent Mutagen (Su)",
+        "#### Instant Alchemy (Ex)",
+        "#### Grand Discovery (Su)"
+      ],
+      "description": "Complete class rules for the Alchemist, covering class features, extracts, bombs, mutagens, discoveries, and progression from levels 1-20.",
+      "keywords": [
+        "alchemist",
+        "alchemy",
+        "bomb",
+        "extract",
+        "mutagen",
+        "discovery",
+        "grand discovery",
+        "brew potion",
+        "poison resistance",
+        "poison use",
+        "swift alchemy",
+        "swift poisoning",
+        "persistent mutagen",
+        "instant alchemy",
+        "throw anything",
+        "formulae",
+        "formula book",
+        "catalyst vial",
+        "splash weapon"
+      ]
+    }
+  ]
+}

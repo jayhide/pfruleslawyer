@@ -1,0 +1,61 @@
+{
+  "file": "samurai.md",
+  "source_path": "rules/class/samurai.md",
+  "source_name": "Class: Samurai",
+  "sections": [
+    {
+      "id": "samurai",
+      "title": "Samurai",
+      "anchor_heading": "# Samurai",
+      "includes_subheadings": [
+        "### Class Skills",
+        "### Class Features",
+        "#### Weapon and Armor Proficiency",
+        "#### Challenge (Ex)",
+        "#### Mount (Ex)",
+        "#### Order (Ex)",
+        "#### Samurai Orders",
+        "#### Cavalier Orders",
+        "#### Resolve (Ex)",
+        "#### Weapon Expertise (Ex)",
+        "#### Mounted Archer (Ex)",
+        "#### Banner (Ex)",
+        "##### Alternate Banner Options",
+        "#### Bonus Feat",
+        "#### Greater Resolve (Ex)",
+        "#### Honorable Stand (Ex)",
+        "#### Demanding Challenge (Ex)",
+        "#### Greater Banner (Ex)",
+        "#### True Resolve (Ex)",
+        "#### Last Stand (Ex)",
+        "### Alternative Capstone Ability",
+        "#### Indomitable Spirit (Ex)"
+      ],
+      "description": "Complete class rules for the samurai, an alternate cavalier class focused on honor, mounted combat, and the challenge ability with weapon expertise in katana and other eastern weapons.",
+      "keywords": [
+        "samurai",
+        "samurai class",
+        "challenge",
+        "mount",
+        "order",
+        "resolve",
+        "weapon expertise",
+        "katana",
+        "naginata",
+        "wakizashi",
+        "mounted archer",
+        "banner",
+        "honorable stand",
+        "demanding challenge",
+        "greater resolve",
+        "true resolve",
+        "last stand",
+        "ronin",
+        "samurai orders",
+        "cavalier alternate",
+        "greater banner",
+        "indomitable spirit"
+      ]
+    }
+  ]
+}

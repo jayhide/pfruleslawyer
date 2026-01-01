@@ -1,0 +1,58 @@
+{
+  "file": "ranger.md",
+  "source_path": "rules/class/ranger.md",
+  "source_name": "Class: Ranger",
+  "sections": [
+    {
+      "id": "ranger",
+      "title": "Ranger",
+      "anchor_heading": "# Ranger",
+      "includes_subheadings": [
+        "### Class Skills",
+        "### Class Features",
+        "#### Weapon and Armor Proficiency",
+        "#### Favored Enemy (Ex)",
+        "#### Track (Ex)",
+        "#### Wild Empathy (Ex)",
+        "#### Combat Style Feat (Ex)",
+        "#### Endurance",
+        "#### Favored Terrain (Ex)",
+        "#### Hunter's Bond (Ex)",
+        "#### Spells",
+        "#### Woodland Stride (Ex)",
+        "#### Swift Tracker (Ex)",
+        "#### Evasion (Ex)",
+        "#### Quarry (Ex)",
+        "#### Camouflage (Ex)",
+        "#### Improved Evasion (Ex)",
+        "#### Hide in Plain Sight (Ex)",
+        "#### Improved Quarry (Ex)",
+        "#### Master Hunter (Ex)",
+        "### Alternative Capstone Ability",
+        "#### Seen It Before (Ex)"
+      ],
+      "description": "Complete class rules for the Pathfinder Ranger, including class features like favored enemy, favored terrain, combat style feats, hunter's bond, spells, quarry, and master hunter abilities.",
+      "keywords": [
+        "ranger",
+        "favored enemy",
+        "favored terrain",
+        "combat style feat",
+        "wild empathy",
+        "track",
+        "hunter's bond",
+        "animal companion",
+        "woodland stride",
+        "swift tracker",
+        "evasion",
+        "quarry",
+        "camouflage",
+        "improved evasion",
+        "hide in plain sight",
+        "improved quarry",
+        "master hunter",
+        "ranger spells",
+        "seen it before"
+      ]
+    }
+  ]
+}

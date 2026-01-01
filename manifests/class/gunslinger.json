@@ -1,0 +1,53 @@
+{
+  "file": "gunslinger.md",
+  "source_path": "rules/class/gunslinger.md",
+  "source_name": "Class: Gunslinger",
+  "sections": [
+    {
+      "id": "gunslinger",
+      "title": "Gunslinger",
+      "anchor_heading": "# Gunslinger",
+      "includes_subheadings": [
+        "### Class Skills",
+        "### Class Features",
+        "#### Weapon and Armor Proficiency",
+        "#### Gunsmith",
+        "#### Grit (Ex)",
+        "#### Deeds",
+        "#### Deeds of Renown",
+        "### Daring Act & Dares",
+        "#### Daring Act",
+        "#### Dares",
+        "#### Nimble (Ex)",
+        "#### Bonus Feats",
+        "#### Gun Training (Ex)",
+        "#### True Grit (Ex)",
+        "### Alternative Capstone Ability",
+        "#### Personal Armory (Ex)"
+      ],
+      "description": "Defines the gunslinger class, a firearm-wielding combatant who uses grit points to perform special deeds, including class features, abilities, and progression from levels 1-20.",
+      "keywords": [
+        "gunslinger",
+        "grit",
+        "deeds",
+        "firearms",
+        "gunsmith",
+        "gun training",
+        "nimble",
+        "deadeye",
+        "quick clear",
+        "dead shot",
+        "targeting",
+        "bleeding wound",
+        "lightning reload",
+        "cheat death",
+        "true grit",
+        "dares",
+        "daring act",
+        "thundering shot",
+        "gruesome parry",
+        "lethal patience"
+      ]
+    }
+  ]
+}

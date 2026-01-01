@@ -1,32 +1,5 @@
 # Warpriest
 
-Contents
-
-    * Class Skills
-    * Class Features
-      * Weapon and Armor Proficiencies
-      * Spell Casting (Divine)
-      * Aura (Ex)
-      * Blessings (Su)
-      * Focus Weapon
-      * Sacred Weapon (Su)
-      * Bonus Languages
-      * Fervor (Su)
-      * Bonus Feats
-      * Channel Energy (Su)
-      * Sacred Armor (Su)
-      * Aspect of War (Su)
-    * Alternative Capstone Ability
-      * Hammer of God (Su)
-  * Ex-Warpriests
-  * Favored Class Bonuses
-  * Archetypes & Alternate Class Features
-
-
-
-  
-
-
 Capable of calling upon the power of the gods in the form of blessings and spells, warpriests blend divine magic with martial skill. They are unflinching bastions of their faith, shouting gospel as they pummel foes into submission, and never shy away from a challenge to their beliefs. While clerics might be subtle and use diplomacy to accomplish their aims, warpriests aren’t above using violence whenever the situation warrants it. In many faiths, warpriests form the core of the church’s martial forces—reclaiming lost relics, rescuing captured clergy, and defending the church’s tenets from all challenges.
 
 **Role** : Warpriests can serve as capable healers or spellcasters, calling upon their divine powers from the center of the fight, where their armor and martial skills are put to the test.
@@ -193,48 +166,3 @@ He can also call upon his blessings two more times each day.
 ## Ex-Warpriests
 
 A warpriest who grossly violates the code of conduct required by his god loses all spells and class features, except for his armor, shield, weapon proficiencies, and bonus feats. He cannot thereafter gain levels as a warpriest of that god until he atones for his deeds (see the atonement spell).
-
-## Favored Class Bonuses
-
-Instead of receiving an additional skill rank or hit point whenever they gain a level in a favored class, some races have the option of choosing from a number of other bonuses, depending upon their favored classes. The following options are available to the listed race who have warpriests as their favored class, and unless otherwise stated, the bonus applies each time you select the listed favored class reward.
-
-Race | Bonus | Source  
----|---|---  
-Paizo  
-Core Races  
-Dwarf | Add 1/3 to the number of times per day the warpriest can use blessings, but he can only use these additional uses on blessings that affect weapons or armor. | ACG  
-Elf | Add ½ to the number of times per day the warpriest can use blessings, but he can use these additional blessings on only those from the Air, Animal, Charm, Magic, Plant, or Sun domains. | ACG  
-Gnome | Add ½ to the result of the warpriest’s channeled energy when healing creatures of the animal, fey, and plant types. | ACG  
-Half-Elf | Gain a +1/3 bonus on the damage dealt or healed with the warpriest’s channel energy ability. | ACG  
-Half-Orc | Gain a +2 bonus on rolls to stabilize when dying. | ACG  
-Halfling | Add ¼ to the warpriest’s effective level when determining the damage of his sacred weapon. | ACG  
-Human | Gain 1/6 of a new bonus combat feat. | ACG  
-3rd Party Publishers  
-Jon Brazer Enterprises  
-Android | Add +1/3 to the warpriest’s initiative when the warpriest has his sacred weapon readied (maximum bonus of +5). This bonus does not stack with Improved Initiative. | JBE:BoHR:AFCO  
-  
-## Archetypes & Alternate Class Features
-
-While paladins are defenders of all that is lawful and good, a warpriest is the living embodiment of a faith as warrior. The warpriest comes in a multitude of forms: some bear the shining armor and upright stance usually associated with paladins, while others serve as cult leaders, exorcise harmful magic effects, or forge the weapons of the faith.
-
-Table: Archetypes / Alternate Class Features Archetype / Alternate Class Feature | Class Features Changed or Replaced  
----|---  
-Class Skills | Weapon & Armor | Spells | Orisons | Bonus Languages | Aura | Blessings | Focus Weapon | Sacred Weapon | Fervor | Bonus Feat | Channel Energy | Sacred Armor | Aspect of War  
-1 | 4 | 8 | 12 | 16 | 20 | 3 | 6 | 9 | 12 | 15 | 18 | 7 | 10 | 13 | 16 | 19  
-Paizo  
-Arsenal Chaplain |  |  |  |  |  |  | C |  | C | C | C | C | C | C |  |  |  |  |  |  |  | X | X | X | X | X | X |   
-Champion of The Faith |  |  |  |  |  |  |  |  | C | C | C | C | C | C |  | X |  |  |  |  |  | X |  |  |  |  |  |   
-Cult Leader | C | C |  |  |  |  |  | X |  |  |  |  |  |  |  | X |  | X | X | X |  | X |  |  |  |  |  |   
-Disenchanter |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | C | X | C | C | C | C | X |  |  |  |  |  |   
-Divine Commander |  |  |  |  |  |  | X |  |  |  |  |  |  |  |  | X | X |  | X | X |  |  |  |  |  |  |  |   
-Feral Champion |  |  |  |  |  |  | C |  | C | C | C | C | C | C |  |  |  |  |  |  |  |  | X | X | X | X | X |   
-Forgepriest |  |  | C |  |  |  | C |  |  |  |  |  |  |  |  | X | X | C | C | C | C | X |  |  |  |  |  |   
-Liberty’s Blade |  |  |  |  |  |  | C |  | C | C | C | C | C | C |  |  |  |  |  |  |  | C | C | C | C | C | C |   
-Mantis Zealot |  | C |  |  |  |  |  |  | X | X | X | X | X | X |  |  |  |  |  |  |  |  | X | X | X | X | X | X  
-Proselytizer |  | C |  |  |  |  | C |  | C | C | C | C | C | C |  | X |  |  |  |  |  |  | X | X | X | X | X |   
-Sacred Fist | C | C |  |  |  |  |  | X | X | X | X | X | X | X |  | X | X | X | X |  | X |  | X | X | X | X | X |   
-Shieldbearer |  |  |  |  |  |  |  | X | C | C | C | C | C | C |  |  |  |  |  |  |  | C | X | X | X | X | X |   
-**3rd-Party Publishers**  
-**Flaming Crab Games**  
-Faithful Paragon |  |  | C |  |  |  |  |  |  |  |  |  |  |  | C | X |  | X |  | X |  | X |  |  |  |  |  |   
-Soldier of Gaia |  |  | C |  |  |  | C |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | X | X | X | X | X |

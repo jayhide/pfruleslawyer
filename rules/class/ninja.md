@@ -1,26 +1,5 @@
 # Ninja
 
-Contents
-
-    * Class Skills
-    * Class Features
-      * Weapon and Armor Proficiency
-      * Poison Use
-      * Sneak Attack
-      * Ki Pool (Su)
-      * Ninja Tricks
-      * No Trace (Ex)
-      * Uncanny Dodge (Ex)
-      * Light Steps (Ex)
-      * Improved Uncanny Dodge (Ex)
-      * Master Tricks
-      * Hidden Master (Su)
-    * Alternative Capstone Ability
-      * Slicing Wind (Su)
-  * Archetypes & Alternate Class Features
-
-
-
 When the wealthy and the powerful need an enemy eliminated quietly and without fail, they call upon the ninja. When a general needs to sabotage the siege engines of his foes before they can reach the castle walls, he calls upon the ninja. And when fools dare to move against a ninja or her companions, they will find the ninja waiting for them while they sleep, ready to strike. These shadowy killers are masters of infiltration, sabotage, and assassination, using a wide variety of weapons, practiced skills, and mystical powers to achieve their goals.
 
 **Role** : The ninja spends almost all of her time honing her skills, practicing her art, or working on her next assignment. Even when not specifically working, the ninja is ever vigilant and ready for the situation to turn deadly. Her line of work earns her many enemies, but it is a list that she frequently reduces through assassination and misdirection.
@@ -185,37 +164,3 @@ When a character reaches the 20th level of a class, she gains a powerful class f
 #### Slicing Wind (Su)
 
 At 20th level, the ninja is a creature of wind and blades. When using light steps, the ninja can move up to four times her speed and make a single attack at her highest base attack bonus at any point during the movement.
-
-## Archetypes & Alternate Class Features
-
-When a character selects a class, he must choose to use the standard class features found or those listed in one of the archetypes presented here. Each alternate class feature replaces a specific class feature from its parent class. For example, the elemental fist class feature of the monk of the four winds replaces the stunning fist class feature of the monk. When an archetype includes multiple class features, a character must take all of them—often blocking the character from ever gaining certain familiar class features, but replacing them with equally powerful options. All of the other class features found in the core class and not mentioned among the alternate class features remain unchanged and are acquired normally when the character reaches the appropriate level (unless noted otherwise). A character who takes an alternate class feature does not count as having the class feature that was replaced when meeting any requirements or prerequisites.
-
-A character can take more than one archetype and garner additional alternate class features, but none of the alternate class features can **replace or alter the same class feature** from the core class as another alternate class feature. For example, a paladin could not be both a hospitaler and an undead scourge since they both modify the smite evil class feature and both replace the aura of justice class feature. A paladin could, however, be both an undead scourge and a warrior of the holy light, since none of their new class features replace the same core class feature.
-
-Presented below are several variant class features to help flesh out common ninja archetypes.
-
-Table: Archetypes / Alternate Class Features Archetype / Alternate Class Feature | Class Features Changed or Replaced  
----|---  
-Class Skills | Weapon & Armor | Poison Use | Sneak Attack | Ki Pool | Ninja Trick | No Trace | Uncanny Dodge | Light Steps | Improved Uncanny Dodge | Master Tricks | Hidden Master  
-1 | 3 | 5 | 7 | 9 | 11 | 13 | 15 | 17 | 19 | 2 | 4 | 6 | 8 | 10 | 12 | 14 | 16 | 18 | 20  
-Paizo  
-Hunting Serpent |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |   
-Mask of the Whispering God |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |   
-Frozen Shadow |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |   
-**3rd Party Publishers**  
-**Everyman Gaming, LLC**  
-Formless Ninja (Kitsune) |  |  | X |  |  |  |  |  |  |  |  |  |  |  |  | X |  | X |  | X |  | X |  | X |  |  |  |  |  |   
-**Rite Publishing**  
-Vicious Opportunist |  |  |  | X | X | X | X | X | X | X | X | X | X |  |  | X |  |  |  |  |  |  |  |  |  |  |  |  |  |   
-Rogue Genius Games  
-Nokizaru |  | C |  | X | X | X | X | X | X | X | X | X | X | C | C | C | C | C | C | C | C | C | C | C |  |  |  |  |  |   
-Rappa |  |  |  | X | X | X | X | X | X | X | X | X | X |  | C | C | C | C | C | C | C | C | C | C |  |  |  |  |  |   
-Web Walker |  |  | C |  |  |  |  |  |  |  |  |  |  |  | C | C | C | C | C | C | C | C | C | C | X |  |  |  |  |   
-Wolf Head |  | C |  |  |  |  |  |  |  |  |  |  |  | C | C | C | C | C | C | C | C | C | C | C |  |  |  |  |  |   
-X=replaced, (X)=optional replacement, C=changed  
-  
-**Subpages**
-
-  * Archetypes
-  * Ninja Alternate Classes
-  * Ninja Tricks

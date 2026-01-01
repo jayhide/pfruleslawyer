@@ -1,29 +1,5 @@
 # Unchained Summoner
 
-Contents
-
-  * Class Skills
-  * Class Features
-    * Weapon and Armor Proficiency
-    * Spellcasting
-    * Eidolon
-    * Life Link (Su)
-    * Summon Monster I (Sp)
-    * Bond Senses (Su)
-    * Shield Ally (Ex)
-    * Maker’s Call (Su)
-    * Transposition (Su)
-    * Aspect (Su)
-    * Greater Shield Ally (Su)
-    * Life Bond (Su)
-    * Merge Forms (Su)
-    * Greater Aspect (Su)
-    * Twin Eidolon (Su)
-  * Alternative Capstone Ability
-    * Grand Eidolon (Su)
-
-
-
 There are those who take a different path when pursuing the arcane arts, reaching across the boundaries of the world to the far-f lung planes to call forth all manner of creatures to do their bidding. Known as summoners, these arcane practitioners form close bonds with particular outsiders, known as eidolons, which increase in power along with their callers. In the end, summoners and their eidolons become linked, sharing shards of the same souls.
 
 **Role** : Summoners spend much of their time exploring the arcane arts alongside their eidolons. While their power comes from within, they rely heavily on their eidolon companions in dangerous situations. While a summoner and his eidolon function as individuals, their true power lies in what they can accomplish together.
@@ -184,16 +160,3 @@ When a character reaches the 20th level of a class, she gains a powerful class f
 #### Grand Eidolon (Su)
 
 At 20th level, the summoner’s eidolon becomes an absolute monstrosity—a thing of legend and terror. The summoner gains 4 additional evolution points to spend as he likes, not subject to subtype-based requirements.
-
-**Subpages**
-
-  * Archetypes
-    * Unchained Summoner Archetypes - SHM Publishing
-    * Unchained Summoner Archetypes - Orphaned Bookworm Productions
-    * Soulbound Summoner
-    * Construct Caller
-    * Devil Binder
-    * Devil Impostor
-    * Fey Caller
-    * Twinned Summoner
-  * Eidolons Unchained

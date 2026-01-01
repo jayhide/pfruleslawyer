@@ -1,0 +1,45 @@
+{
+  "file": "slayer.md",
+  "source_path": "rules/class/slayer.md",
+  "source_name": "Class: Slayer",
+  "sections": [
+    {
+      "id": "slayer",
+      "title": "Slayer",
+      "anchor_heading": "# Slayer",
+      "includes_subheadings": [
+        "### Class Skills",
+        "### Class Features",
+        "#### Weapon and Armor Proficiency",
+        "#### Studied Target (Ex)",
+        "#### Track (Ex)",
+        "#### Slayer Talents",
+        "#### Sneak Attack",
+        "#### Stalker (Ex)",
+        "#### Advanced Talents",
+        "#### Swift Tracker (Ex)",
+        "#### Slayer's Advance (Ex)",
+        "#### Quarry (Ex)",
+        "#### Improved Quarry (Ex)",
+        "#### Master Slayer (Ex)",
+        "### Alternative Capstone Ability",
+        "#### Against the Odds (Ex)"
+      ],
+      "description": "Covers the Slayer class, a hybrid hunter class combining ranger and rogue abilities, including studied target mechanics, sneak attack progression, slayer talents, and tracking abilities.",
+      "keywords": [
+        "slayer",
+        "studied target",
+        "slayer talents",
+        "slayer advanced talents",
+        "stalker",
+        "swift tracker",
+        "slayer's advance",
+        "quarry",
+        "improved quarry",
+        "master slayer",
+        "against the odds",
+        "sneak attack"
+      ]
+    }
+  ]
+}

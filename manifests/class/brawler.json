@@ -1,0 +1,48 @@
+{
+  "file": "brawler.md",
+  "source_path": "rules/class/brawler.md",
+  "source_name": "Class: Brawler",
+  "sections": [
+    {
+      "id": "brawler",
+      "title": "Brawler",
+      "anchor_heading": "# Brawler",
+      "includes_subheadings": [
+        "### Class Skills",
+        "### Class Features",
+        "#### Weapon and Armor Proficiency",
+        "#### Brawler's Cunning (Ex)",
+        "#### Martial Flexibility (Ex)",
+        "#### Martial Training (Ex)",
+        "#### Unarmed Strike",
+        "#### Bonus Combat Feats",
+        "#### Brawler's Flurry (Ex)",
+        "#### Maneuver Training (Ex)",
+        "#### AC Bonus (Ex)",
+        "#### Knockout (Ex)",
+        "#### Brawler's Strike (Ex)",
+        "#### Close Weapon Mastery (Ex)",
+        "#### Awesome Blow (Ex)",
+        "#### Improved Awesome Blow (Ex)",
+        "### Alternative Capstone Ability",
+        "#### Perfect Warrior (Ex)"
+      ],
+      "description": "Defines the Brawler class, a hybrid fighter/monk focused on unarmed combat with martial flexibility, combat maneuvers, and versatile fighting abilities.",
+      "keywords": [
+        "brawler",
+        "martial flexibility",
+        "brawler's flurry",
+        "brawler's cunning",
+        "martial training",
+        "unarmed strike",
+        "brawler's strike",
+        "maneuver training",
+        "knockout",
+        "close weapon mastery",
+        "awesome blow",
+        "improved awesome blow",
+        "perfect warrior"
+      ]
+    }
+  ]
+}

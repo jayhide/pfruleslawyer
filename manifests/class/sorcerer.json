@@ -1,0 +1,40 @@
+{
+  "file": "sorcerer.md",
+  "source_path": "rules/class/sorcerer.md",
+  "source_name": "Class: Sorcerer",
+  "sections": [
+    {
+      "id": "sorcerer",
+      "title": "Sorcerer",
+      "anchor_heading": "# Sorcerer",
+      "includes_subheadings": [
+        "### Class Skills",
+        "### Class Features",
+        "#### Weapon and Armor Proficiency",
+        "#### Spells",
+        "#### Bloodline",
+        "#### Cantrips",
+        "#### Eschew Materials",
+        "## Alternative Capstone Ability",
+        "### Unique Bloodline (Su)"
+      ],
+      "description": "Complete rules for the Sorcerer class, including spell progression tables, bloodline mechanics, class features, and extensive bloodline options from multiple sources.",
+      "keywords": [
+        "sorcerer",
+        "bloodline",
+        "bloodline power",
+        "bloodline arcana",
+        "bloodline spell",
+        "bloodline feat",
+        "bloodline mutations",
+        "cantrips",
+        "eschew materials",
+        "spells known",
+        "charisma",
+        "arcane spells",
+        "spontaneous casting",
+        "unique bloodline"
+      ]
+    }
+  ]
+}

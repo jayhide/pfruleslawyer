@@ -1,30 +1,5 @@
 # Investigator
 
-Contents
-
-    * Class Skills
-    * Class Features
-      * Weapon and Armor Proficiency
-      * Alchemy (Su)
-      * Inspiration (Ex)
-      * Trapfinding
-      * Poison Lore (Ex)
-      * Poison Resistance (Ex)
-      * Investigator Talent (Ex) or (Su)
-      * Keen Recollection
-      * Trap Sense (Ex)
-      * Studied Combat (Ex)
-      * Studied Strike (Ex)
-      * Swift Alchemy (Ex)
-      * True Inspiration (Ex)
-    * Alternative Capstone Ability
-      * Deadly Study (Ex)
-  * Favored Class Bonuses
-  * Archetypes & Alternate Class Features
-    * Subpages
-
-
-
 Whether on the trail of a fugitive, a long-lost treasure trove, or a criminal mastermind, investigators are motivated by an intense curiosity about the world and use knowledge of it as a weapon. Mixing gumption and learnedness into a personal alchemy of daring, investigators are full of surprises. Observing the world around them, they gain valuable knowledge about the situation they’re in, process that information using inspiration and deduction, and cut to the quick of the matter in unexpected ways. Investigators are always evaluating situations they encounter, sizing up potential foes, and looking out for secret dangers, all while using their vast knowledge and powers of perception to find solutions to the most perplexing problems.
 
 **Role** : Investigators live to solve mysteries and find inventive ways to get out of jams. They serve as advisors and support for their adventuring parties, but can take center stage when knowledge and cunning are needed. No slouches in battle, they know how to make surprise attacks and use inspiration to bring those attacks home.
@@ -164,56 +139,3 @@ When a character reaches the 20th level of a class, she gains a powerful class f
 #### Deadly Study (Ex)
 
 At 20th level, the investigator knows just how to hit where it hurts. The investigator increases the bonus from studied combat by 4, and his studied strike damage increases by 3d6.
-
-## Favored Class Bonuses
-
-Instead of receiving an additional skill rank or hit point whenever they gain a level in a favored class, some races have the option of choosing from a number of other bonuses, depending upon their favored classes. The following options are available to the listed race who have investigators as their favored class, and unless otherwise stated, the bonus applies each time you select the listed favored class reward.
-
-Race | Bonus | Source  
----|---|---  
-Paizo  
-Core Races  
-Dwarf | Gain a +¼ bonus on Perception checks when underground and +½ bonus to the investigator’s trap sense ability regarding stone traps. | ACG  
-Elf | Increase the total number of points in the investigator’s inspiration pool by ⅓. | ACG  
-Gnome | Add one extract formula from the investigator’s formula list to the formula book. This formula must be at least 1 formula level below the highest level the investigator can create. | ACG  
-Half-Elf | Gain a +¼ bonus on all inspiration rolls. | ACG  
-Half-Orc | Gain a +⅓ bonus on critical hit confirmation rolls made while using studied combat (maximum bonus of +5). This bonus does not stack with those gained through Critical Focus and similar effects. | ACG  
-Halfling | Add one extract formula from the investigator’s formula list to the formula book. This formula must be at least 1 formula level below the highest level the investigator can create. | ACG  
-Human | Add one extract formula from the investigator’s formula list to the formula book. This formula must be at least 1 formula level below the highest level the investigator can create. | ACG  
-3rd Party Publishers  
-Jon Brazer Enterprises  
-Android | Add a +1/2 bonus when using inspiration on any Knowledge or Linguistics check. | JBE:BoHR:AFCO  
-  
-## Archetypes & Alternate Class Features
-
-Investigators trust in knowledge above all things. Often this is not solely the bookish knowledge and abstract formulae of arcane artists, nor the religious knowledge of clerics, nor even the martial knowledge of the soldier, but rather some small part of all of these. Sometimes this knowledge is esoteric, but often it’s practical in nature. Investigators master knowledge that allows them to ferret out the secrets that lie behind the hidden code of evidence and speak the ironclad language of cause and effect. They use their knowledge to find those things hidden from others, whether by the passage of time, the rituals of occult orders, or guilty creatures seeking to obscure their trails.
-
-While most investigators use a mix of empirical science and alchemy to achieve these goals, there are other types of investigators as well. Some rely on different skills and information—such as the whispers of the dead, intuition, and luck—to uncover that which is hidden. The following is just a small sample of the myriad kinds of investigators.
-
-Table: Archetypes / Alternate Class Features Archetype / Alternate Class Feature | Class Features Changed or Replaced  
----|---  
-Class Skills | Weapon & Armor | Alchemy | Inspiration | Trapfinding | Poison Lore | Poison Resistance | Poison Immunity | Investigator Talent | Keen Recollection | Trap Sense | Studied Combat | Studied Strike | Swift Alchemy | True Inspiration  
-2 | 5 | 8 | 3 | 5 | 7 | 9 | 11 | 13 | 15 | 17 | 19  
-Paizo  
-Dread Investigator |  |  |  | C |  | X | X | X | X | X |  |  | X |  |  | X |  |  | X |  |  | C | C |  |   
-Empiricist |  |  |  |  |  | X | X | X | X | X |  |  |  |  |  |  |  |  |  |  |  |  |  | X | X  
-Infiltrator |  |  |  |  | X | X | X | X | X | X |  |  |  |  |  |  |  |  |  |  |  |  |  |  |   
-Lamplighter | C |  |  |  |  | X | X | X | X | X |  |  |  |  |  |  |  |  |  | X | X |  |  |  |   
-Mastermind |  |  |  | C | X |  |  |  |  |  |  |  |  | X |  |  |  |  |  |  | X |  |  | X |   
-Psychic Detective | C |  | X |  |  | X | X | X | X | X | X | C | C | C | C | C | C | C | C |  |  |  |  |  |   
-Relentless Inspector |  |  |  |  | X |  | X | X | X | X | C | X |  |  |  |  |  |  |  |  | X |  |  | X |   
-Ruthless Agent |  |  |  | C | X |  |  |  |  |  |  |  | X |  | X |  |  | X |  |  | X |  |  | X |   
-Sleuth |  |  | X |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | X |   
-Spiritualist |  |  | X |  |  |  | X | X | X | X |  |  |  |  |  |  |  |  |  |  | X |  |  | X |   
-Steel Hound |  | C |  |  |  | X |  |  |  |  | C | C | C | C | C | C | C | C | C |  |  |  |  | X |   
-**3rd Party Publishers**  
-**Flaming Crab Games**  
-Monster Chronicler |  |  |  |  |  |  |  |  |  |  |  |  |  | X |  |  |  |  |  |  | X |  |  |  |   
-War Genius | C | C | X |  |  | X |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | X |   
-  
-### Subpages
-
-**Subpages**
-
-  * Archetypes
-  * Investigator Talents

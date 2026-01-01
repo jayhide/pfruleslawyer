@@ -1,28 +1,5 @@
 # Slayer
 
-Contents
-
-    * Class Skills
-    * Class Features
-      * Weapon and Armor Proficiency
-      * Studied Target (Ex)
-      * Track (Ex)
-      * Slayer Talents
-      * Sneak Attack
-      * Stalker (Ex)
-      * Advanced Talents
-      * Swift Tracker (Ex)
-      * Slayer’s Advance (Ex)
-      * Quarry (Ex)
-      * Improved Quarry (Ex)
-      * Master Slayer (Ex)
-    * Alternative Capstone Ability
-      * Against the Odds (Ex)
-  * Favored Class Bonuses
-  * Archetypes & Alternate Class Features
-
-
-
 Skilled at tracking down targets, slayers are consummate hunters, living for the chase and the deadly stroke that brings it to a close. Slayers spend most of their time honing their weapon skills, studying the habits and anatomy of foes, and practicing combat maneuvers.
 
 **Role** : The slayer is elusive, and good at finding the opportune time and location to strike. Combining the deadliest talents of rangers and rogues, a slayer’s abilities are all about getting into combat, dealing with a target, and then getting back out again.
@@ -155,67 +132,3 @@ When a character reaches the 20th level of a class, she gains a powerful class f
 #### Against the Odds (Ex)
 
 At 20th level, the slayer is used to fighting when the numbers are not in his favor. When the slayer uses studied target, he can study up to two additional foes with the same action.
-
-## Favored Class Bonuses
-
-Instead of receiving an additional skill rank or hit point whenever they gain a level in a favored class, some races have the option of choosing from a number of other bonuses, depending upon their favored classes. The following options are available to the listed race who have slayers as their favored class, and unless otherwise stated, the bonus applies each time you select the listed favored class reward.
-
-Race | Bonus | Source  
----|---|---  
-Paizo  
-Core Races  
-Dwarf | Gain a +1/3 bonus on Knowledge (dungeoneering) checks and on Survival checks when underground. If the slayer has a +1 bonus on Knowledge (dungeoneering) checks from this ability, the slayer is also considered trained in that skill. | PZO1129  
-Elf | Increase the studied target bonus on Perception and Survival checks by ¼. When the slayer gains the stalker class feature, the slayer also gains this increase to the studied target bonus on Stealth checks. | PZO1129  
-Gnome | Gain +1/6 of a new slayer talent. | PZO1129  
-Half-Elf | Gain a +1/2 bonus on Bluff checks to feint and Diplomacy checks to gain information. | PZO1129  
-Half-Orc | Gain a +1/3 bonus on critical hit confirmation rolls made while using sneak attack (maximum bonus of +5). This bonus doesn’t stack with those gained through Critical Focus and similar effects. | PZO1129  
-Halfling | Add a +1/4 dodge bonus to Armor Class against the slayer’s studied target. | PZO1129  
-Human | Gain +1/6 of a new slayer talent. | PZO1129  
-3rd Party Publishers  
-Jon Brazer Enterprises  
-Android | Add +1/4 bonus to the slayer’s nanite surge against the slayer’s studied target. | JBE:BoHR:AFCO  
-  
-## Archetypes & Alternate Class Features
-
-Slayers excel at hunting down targets and taking them out. Some do this for a bounty, some to cleanse the world of the filth of the undead, and some because it’s what they’re good at. The most fearsome hunt and kill because they like it.
-
-Table: Archetypes / Alternate Class Features Archetype / Alternate Class Feature | Class Features Changed or Replaced  
----|---  
-Class Skills | Weapon & Armor | Studied Target | Track | Slayer Talent | Sneak Attack | Stalker | Advanced Talents | Swift Tracker | Slayer’s Advance | Quarry | Improved Quarry | Master Slayer  
-1 | 5 | 10 | 15 | 20 | 2 | 4 | 6 | 8 | 10 | 12 | 14 | 16 | 18 | 20 | 3 | 6 | 9 | 12 | 15 | 18  
-Paizo  
-Ankou’s Shadow |  |  | X | X | X | X | X |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | X |  |  |  |  | C | C  
-Avalancher |  |  | X | X | X | X | X | X |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | X |  | X |  | X | X | X  
-Bloody Jake |  | C | X | C | C | C | C |  |  | X | X | X |  | X |  | X |  |  |  |  |  |  |  |  |  |  |  | X |  |  |   
-Bounty Hunter |  | C |  |  |  |  |  |  | X |  | X |  | X |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |   
-Butterfly Blade |  |  |  |  |  |  |  |  | C | C | C | C | C | C | C | C | C | C | X | X | X | X | X | X | X |  | X |  | X | X |   
-Cleaner |  |  |  |  |  |  |  | X |  | X |  |  |  |  |  |  |  |  |  |  |  |  |  |  | X |  |  |  |  |  |   
-Covenbane |  |  |  |  |  |  |  | X | X |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | X |  | X |  |  |  |   
-Cutthroat | C |  |  |  |  |  |  | X | X |  | X |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |   
-Deliverer |  | C |  |  |  |  |  |  | X |  | X |  | X |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |   
-Dune Rider |  |  | X | X | X | X | X | X |  | X |  | X |  |  |  |  |  |  |  |  |  |  |  |  | X |  | X |  |  |  | X  
-Executioner | C |  | C | C | C | C | C |  |  | C |  |  | C |  |  |  |  |  |  |  |  |  |  |  |  |  | X |  | X | X |   
-Family Hunter |  |  | C | C | C | C | C |  | X |  | X |  |  |  |  |  |  |  | C | C | C | C | C | C |  |  |  |  |  |  |   
-Guerrilla |  |  |  |  |  |  |  | X |  |  | X |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | X |  | X | X |   
-Grave Warden |  |  |  |  |  |  |  |  | X |  |  |  | X |  |  |  |  |  |  |  |  |  |  |  | X |  |  |  |  |  |   
-Pureblade |  |  |  |  |  |  |  | X | X |  |  | X |  |  |  |  |  |  |  |  |  |  |  |  | X |  |  |  |  |  | X  
-Sniper |  |  |  |  |  |  |  | X | X |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |   
-Spire Driver |  |  | C | C | C | C | C | X |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | C |  | X | X | C | C |   
-Spiritslayer |  |  |  |  |  |  |  |  | X |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | X |  |  |  |  |  |   
-Stygian Slayer |  | C |  |  |  |  |  |  |  | X |  |  | X |  |  |  |  |  |  |  |  |  |  |  | X |  |  |  |  |  |   
-Toxic Sniper |  | C | C | C | C | C | C | X | X | X | X | X | X | X | X | X | X | X |  |  |  |  |  |  |  |  |  |  |  |  |   
-Turncoat |  |  |  |  |  |  |  | X |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | X |  |  |  | X | X |   
-Vanguard |  |  |  |  |  |  |  | X | X | X |  |  |  |  |  |  |  |  |  |  |  |  |  |  | X |  |  |  |  |  |   
-Velvet Blade | C | C |  |  |  |  |  | X |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | X |  |  |  |   
-Witch Killer | C |  | C | C | C | C | C |  |  | X |  |  | X |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |   
-Woodland Sniper |  |  |  |  |  |  |  | X |  |  |  |  |  |  |  |  |  |  | C | C | C | C | C | C | X |  | X | X |  |  |   
-**3rd Party Publishers**  
-**Flaming Crab Games**  
-Black Powder Hood |  | X | C | C | C | C | C | X | X | X |  |  |  |  |  |  |  |  | X | X | X | X | X | X | X |  | X |  |  |  |   
-**Rogue Genius Games**  
-Headsman |  | C | C | C | C | C | C |  |  |  |  |  |  |  |  |  |  |  | C | C | C | C | C | C |  |  |  |  |  |  |   
-Seditionist |  |  |  |  | C | C | C | X | C | X |  |  |  |  |  |  |  |  | X | X | X | X | X | X | X |  |  | C |  |  |   
-Warhound |  |  | C |  |  |  |  |  | X |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | X |  |  | X |  |  |   
-_Lethalities_ |  |  | (X) | (X) | (X) | (X) | (X) |  |  |  |  |  |  |  |  |  |  |  | (X) | (X) | (X) | (X) | (X) | (X) |  |  |  |  |  |  |   
-X=replaced, (X)=optional replacement, C=changed  
-* = The ability this replaces counts as the unmodified original ability for the purpose of stacking with other archetypes.

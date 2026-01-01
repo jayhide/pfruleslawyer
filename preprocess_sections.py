@@ -30,7 +30,12 @@ SOURCE_NAMES = {
     "skills.md": "Skills Overview",
     "special-abilities.md": "Special Abilities",
     "universal-monster-rules.md": "Universal Monster Rules",
-    "space-reach-threatened-area-templates.md": "Space, Reach and Threatened Area Templates"
+    "space-reach-threatened-area-templates.md": "Space, Reach and Threatened Area Templates",
+    "special-materials.md": "Special Materials",
+    "weapons.md": "Weapons",
+    "magic-weapons.md": "Magic Weapons",
+    "magic-armor.md": "Magic Armor",
+    "wondrous-items.md": "Wondrous Items"
 }
 
 # Categories that use template-based naming: "Category: Item Name"

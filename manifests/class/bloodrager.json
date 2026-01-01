@@ -1,0 +1,58 @@
+{
+  "file": "bloodrager.md",
+  "source_path": "rules/class/bloodrager.md",
+  "source_name": "Class: Bloodrager",
+  "sections": [
+    {
+      "id": "bloodrager",
+      "title": "Bloodrager",
+      "anchor_heading": "# Bloodrager",
+      "includes_subheadings": [
+        "### Class Skills",
+        "### Class Features",
+        "#### Weapon and Armor Proficiency",
+        "#### Bloodline",
+        "### Bloodrager Bloodlines",
+        "#### Bloodrager Bloodlines",
+        "#### Bloodrage (Su)",
+        "#### Fast Movement (Ex)",
+        "#### Uncanny Dodge (Ex)",
+        "#### Blood Sanctuary (Su)",
+        "#### Blood Casting (Su)",
+        "#### Eschew Materials",
+        "#### Spell Casting",
+        "### Bloodrager Spells",
+        "#### Improved Uncanny Dodge (Ex)",
+        "#### Damage Reduction (Ex)",
+        "#### Greater Bloodrage (Su)",
+        "#### Indomitable Will (Ex)",
+        "#### Tireless Bloodrage (Su)",
+        "#### Mighty Bloodrage (Su)",
+        "### Alternative Capstone Ability",
+        "#### Empowered Bloodrage (Su)"
+      ],
+      "description": "Complete rules for the Bloodrager class, a hybrid barbarian/sorcerer that combines bloodrage abilities with limited arcane spellcasting and bloodline powers.",
+      "keywords": [
+        "bloodrager",
+        "bloodrage",
+        "bloodline",
+        "blood casting",
+        "bloodrager spells",
+        "bloodrager bloodlines",
+        "bloodline power",
+        "bloodline mutations",
+        "greater bloodrage",
+        "mighty bloodrage",
+        "tireless bloodrage",
+        "empowered bloodrage",
+        "blood sanctuary",
+        "indomitable will",
+        "uncanny dodge",
+        "improved uncanny dodge",
+        "damage reduction",
+        "fast movement",
+        "eschew materials"
+      ]
+    }
+  ]
+}

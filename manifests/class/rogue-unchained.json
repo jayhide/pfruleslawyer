@@ -1,0 +1,54 @@
+{
+  "file": "rogue-unchained.md",
+  "source_path": "rules/class/rogue-unchained.md",
+  "source_name": "Class: Rogue Unchained",
+  "sections": [
+    {
+      "id": "rogue_unchained",
+      "title": "Unchained Rogue",
+      "anchor_heading": "# Unchained Rogue",
+      "includes_subheadings": [
+        "### Class Skills",
+        "### Class Features",
+        "#### Weapon and Armor Proficiency",
+        "#### Sneak Attack",
+        "#### Trapfinding",
+        "#### Finesse Training (Ex)",
+        "#### Evasion (Ex)",
+        "#### Rogue Talents",
+        "#### Danger Sense (Ex)",
+        "#### Debilitating Injury (Ex)",
+        "#### Uncanny Dodge (Ex)",
+        "#### Rogue's Edge (Ex)",
+        "#### Improved Uncanny Dodge (Ex)",
+        "#### Advanced Talents",
+        "#### Master Strike (Ex)",
+        "### Alternative Capstone Ability",
+        "#### Masterful Talent (Ex)",
+        "### Unmodified Rogue Talents"
+      ],
+      "description": "Contains the complete class description for the Unchained Rogue, including class features like debilitating injury, finesse training, sneak attack, rogue talents, and the skill unlock system.",
+      "keywords": [
+        "unchained rogue",
+        "debilitating injury",
+        "finesse training",
+        "sneak attack",
+        "trapfinding",
+        "rogue talents",
+        "advanced talents",
+        "rogue's edge",
+        "skill unlocks",
+        "uncanny dodge",
+        "improved uncanny dodge",
+        "danger sense",
+        "evasion",
+        "master strike",
+        "bewildered",
+        "disoriented",
+        "hampered",
+        "precision damage",
+        "masterful talent"
+      ]
+    }
+  ]
+}

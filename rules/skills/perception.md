@@ -1,18 +1,5 @@
 # Perception (Wis)
 
-Contents
-
-  * Common Uses
-    * Notice Someone/Something
-  * Action
-  * Modifiers
-    * Perception Unchained
-  * FYI…
-  * Get Organized!
-  * Unofficial Extras!
-
-
-
 Your senses allow you to notice fine details and alert you to danger. Perception covers all five senses, including sight, hearing, touch, taste, and smell.
 
 ### Common Uses
@@ -92,30 +79,4 @@ With sufficient ranks in Perception, you earn the following.
 
 ### FYI…
 
-[Source]
-
 The trap spotter rogue talent is a good way to gain an auto-spot ability for traps in the game. Normally, you don’t automatically spot traps like this. A player has to specifically state that they’re looking for traps.
-
-### Get Organized!
-
-[Source]
-
-The following information is **not** official in terms of general campaign usage. It is copied from the Pathfinder Society Organized Play FAQ section of the Paizo website because we thought it might be helpful information for a player or GM in adjudicating common problems or questions. Usage is up to the GM of your game.
-
-What does a deaf PC (or other creature) need to do in order to read lips?
-
-Any PC may learn to read lips with a rank in Linguistics as if they had learned a new language. When reading the lips of a speaking creature within 10 feet in normal lighting conditions, the reader need not make any skill checks. In situations of dim lighting, extreme distances, or to read the lips of someone trying to hide their words from the reader, the reader must make Perception checks (DC determined by the GM based on the situation). A lip reader may only understand spoken words in a language it knows.
-
-### Unofficial Extras!
-
-The following rules ideas are from publishers other than Paizo. Use at your discretion!
-
-Below are several additional ways to use Perception.
-
-**Listen Underwater** : The DC to hear a sound at a distance underwater increases more slowly than it does in air because sound travels better underwater, although water conditions can make the rate change from place to place and time to time. Typically, however, the DC is increased by +1/50 feet.
-
-**Listen Through Soil** : The DC to hear a sound when both the listener and the source of the sound are in direct contact with the earth increases much more slowly with distance than it does in air. The DC is increased by only +1/400 feet.
-
-**Pinpoint Sound** : If you exceed the Perception DC to hear a sound by 20, you pinpoint the source of the sound, learning the exact space the sound came from.
-
-If you cannot see the sound’s source, it still has total concealment against your attacks.

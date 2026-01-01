@@ -1,0 +1,50 @@
+{
+  "file": "barbarian-unchained.md",
+  "source_path": "rules/class/barbarian-unchained.md",
+  "source_name": "Class: Barbarian Unchained",
+  "sections": [
+    {
+      "id": "barbarian_unchained",
+      "title": "Unchained Barbarian",
+      "anchor_heading": "# Unchained Barbarian",
+      "includes_subheadings": [
+        "### Class Skills",
+        "### Class Features",
+        "#### Weapon and Armor Proficiency",
+        "#### Fast Movement (Ex)",
+        "#### Rage (Ex)",
+        "#### Rage Powers",
+        "#### Uncanny Dodge",
+        "#### Danger Sense",
+        "#### Improved Uncanny Dodge",
+        "#### Damage Reduction",
+        "#### Greater Rage",
+        "#### Indomitable Will",
+        "#### Tireless Rage",
+        "#### Mighty Rage",
+        "### Alternative Capstone Ability",
+        "#### Unstoppable (Ex)"
+      ],
+      "description": "Complete class rules for the Unchained Barbarian, covering rage mechanics, rage powers, class features, and alternative abilities with revised mechanics from the standard barbarian.",
+      "keywords": [
+        "unchained barbarian",
+        "barbarian unchained",
+        "rage",
+        "rage powers",
+        "barbarian class",
+        "stance rage powers",
+        "uncanny dodge",
+        "danger sense",
+        "damage reduction",
+        "greater rage",
+        "mighty rage",
+        "tireless rage",
+        "indomitable will",
+        "fast movement",
+        "barbarian rage",
+        "temporary hit points",
+        "barbarian stances"
+      ]
+    }
+  ]
+}

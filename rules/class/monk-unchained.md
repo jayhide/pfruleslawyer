@@ -1,44 +1,5 @@
 # Unchained Monk
 
-**Subpages**
-
-  * Archetypes
-
-
-
-Contents
-
-    * Class Skills
-    * Class Features
-      * Weapon and Armor Proficiency
-      * AC Bonus
-      * Bonus Feat
-      * Flurry of Blows
-      * Stunning Fist
-      * Unarmed Strike
-      * Evasion
-      * Fast Movement
-      * Ki Pool (Su)
-      * Ki Power (Su)
-      * Still Mind (Ex)
-      * Purity of Body (Ex)
-      * Style Strike (Ex)
-      * Improved Evasion (Ex)
-      * Tongue of the Sun and Moon (Ex)
-      * Timeless Body (Ex)
-      * Flawless Mind
-      * Perfect Self
-    * Alternative Capstone Ability
-      * Old Master (Ex)
-  * Ex-Monks
-  * Archetypes & Alternate Class Features
-
-
-
- ![ ](http://yamao.deviantart.com/)
-
-Image used by permission of Yama Orce.
-
 For the truly exemplary, martial skill transcends the battlefield—it is a lifestyle, a doctrine, a state of mind. These warrior-artists search out methods of battle beyond swords and shields, finding weapons within themselves just as capable of crippling or killing as any blade. These monks (so called since they adhere to ancient philosophies and strict martial disciplines) elevate their bodies to become weapons of war, from battle-minded ascetics to self-taught brawlers. Monks tread the path of discipline, and those with the will to endure that path discover within themselves not what they are, but what they are meant to be.
 
 **Role** : Monks excel at overcoming even the most daunting perils, striking where it’s least expected, and taking advantage of enemy vulnerabilities. Fleet of foot and skilled in combat, monks can navigate any battlefield with ease, aiding allies wherever they are needed most.
@@ -327,28 +288,3 @@ At 20th level, the monk has reached the highest levels of his martial arts schoo
 ## Ex-Monks
 
 A monk who becomes nonlawful cannot gain new levels as a monk but retains all monk abilities.
-
-## Archetypes & Alternate Class Features
-
-When a character selects a class, he must choose to use the standard class features found or those listed in one of the archetypes presented here. Each alternate class feature replaces a specific class feature from its parent class. When an archetype includes multiple class features, a character must take all of them—often blocking the character from ever gaining certain familiar class features, but replacing them with equally powerful options. All of the other class features found in the core class and not mentioned among the alternate class features remain unchanged and are acquired normally when the character reaches the appropriate level (unless noted otherwise). A character who takes an alternate class feature does not count as having the class feature that was replaced when meeting any requirements or prerequisites.
-
-A character can take more than one archetype and garner additional alternate class features, but none of the alternate class features can **replace or alter the same class feature** from the core class as another alternate class feature. For example, a paladin could not be both a hospitaler and an undead scourge since they both modify the smite evil class feature and both replace the aura of justice class feature. A paladin could, however, be both an undead scourge and a warrior of the holy light, since none of their new class features replace the same core class feature.
-
-Monks are martial mystics. Through mediation and discipline, and sometimes by way of secrets passed down for generations within a monastery, a monk progresses toward his perfect self—along the way turning his body into an astonishing fighting machine. But though some masters would lead their students to think otherwise, the path toward the perfect self isn’t set. Different monks confront the road to enlightenment in different ways, and sometimes even with different goals, from harmony with the universe to physical perfection and immortality.
-
-The themes and alternate class features presented below introduce not only variations in fighting techniques, but alternate philosophies for monks seeking perfection.
-
-Table: Archetypes / Alternate Class Features Archetype / Alternate Class Features | Class Features Replaced  
----|---  
-Class Skills | Weapon & Armor | AC Bonus | Bonus Feat | Flurry of Blows | Stunning Fist |  Unarmed Strike | Evasion | Fast Movement | _Ki_ Pool | _Ki Power_ | Still Mind | Purity of Body | Style Strike | Improved Evasion | Timeless Body | Tongue of the Sun and Moon | Flawless Mind | Perfect Self  
-1 | 2 | 6 | 10 | 14 | 18  
-Paizo  
-Black Asp |  |  |  |  |  |  |  |  |  |  | X |  |  |  |  | C | X |  |  |  |  |  |  |   
-Brazen Disciple | C |  |  | X | C | X | C | C | C |  |  |  |  |  |  | X | X |  |  |  |  |  |  | X  
-Disciple of Wholeness |  |  |  |  |  |  |  |  |  |  |  |  |  |  | C | X |  | X |  |  |  |  |  |   
-Elemental Monk |  |  |  | X | X | X | X | X | X |  | X |  | X |  | C | X |  | X |  |  |  |  |  |   
-Invested Regent |  |  |  | X | C | C | C | C | C |  |  |  |  |  |  |  |  |  |  |  |  |  |  |   
-Perfect Scholar |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | C | C |  |  |  |  | C |  | C  
-Sage Counselor | C |  |  | X | X | X | X |  |  | C |  |  |  |  | C | C |  |  |  |  |  |  |  |   
-Scaled Fist |  |  |  | C |  | C | C |  |  |  |  |  |  |  |  | C | X |  |  |  |  |  |  |   
-Windstep Master |  |  |  |  |  |  |  |  |  |  | X |  |  |  | C | C |  |  |  |  |  |  |  |

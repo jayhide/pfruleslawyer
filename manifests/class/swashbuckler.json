@@ -21,10 +21,9 @@
         "#### Swashbuckler Weapon Training (Ex)",
         "#### Swashbuckler Weapon Mastery (Ex)",
         "### Alternative Capstone Ability",
-        "#### Incredible Luck (Ex)",
-        "### Swashbuckler Archetypes"
+        "#### Incredible Luck (Ex)"
       ],
-      "description": "Rules for the Swashbuckler class, covering class features like panache, deeds, weapon finesse, charmed life, and various combat abilities focused on light piercing weapons.",
+      "description": "Rules for the Swashbuckler class, including class features, panache system, deeds, weapon training, and progression from 1st to 20th level.",
       "keywords": [
         "swashbuckler",
         "panache",
@@ -32,19 +31,25 @@
         "swashbuckler finesse",
         "charmed life",
         "nimble",
-        "precise strike",
-        "opportune parry and riposte",
-        "dodging panache",
-        "derring-do",
         "swashbuckler weapon training",
         "swashbuckler weapon mastery",
+        "derring-do",
+        "dodging panache",
+        "opportune parry and riposte",
+        "precise strike",
         "targeted strike",
         "bleeding wound",
         "cheat death",
         "deadly stab",
         "stunning stab",
         "deeds of renown",
-        "swashbuckler archetypes"
+        "vengeful heart",
+        "hilt hammer",
+        "dodging dance",
+        "vengeful soul",
+        "incredible luck",
+        "light piercing weapon",
+        "one-handed piercing weapon"
       ]
     }
   ]

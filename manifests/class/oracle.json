@@ -1,0 +1,41 @@
+{
+  "file": "oracle.md",
+  "source_path": "rules/class/oracle.md",
+  "source_name": "Class: Oracle",
+  "sections": [
+    {
+      "id": "oracle",
+      "title": "Oracle",
+      "anchor_heading": "# Oracle",
+      "includes_subheadings": [
+        "### Class Skills",
+        "### Class Features",
+        "#### Weapon and Armor Proficiency",
+        "#### Spellcasting",
+        "#### Mystery",
+        "#### Paizo Oracle Mysteries",
+        "#### All Oracle Mysteries",
+        "#### Oracle's Curse (Ex)",
+        "#### Orisons",
+        "#### Revelation",
+        "#### Final Revelation",
+        "### Alternative Capstone Ability",
+        "#### Diverse Mysteries (Su)"
+      ],
+      "description": "Complete class rules for the Oracle, a divine spellcaster who draws power from mysteries rather than deities, including spellcasting, mysteries, curses, and revelations.",
+      "keywords": [
+        "oracle",
+        "oracle class",
+        "mystery",
+        "oracle mystery",
+        "oracle's curse",
+        "revelation",
+        "final revelation",
+        "orisons",
+        "divine spellcaster",
+        "charisma-based caster",
+        "diverse mysteries"
+      ]
+    }
+  ]
+}
