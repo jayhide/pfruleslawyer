@@ -5,6 +5,16 @@ import argparse
 import sys
 
 import anthropic
+
+# ANSI color codes for output
+class Colors:
+    CYAN = "\033[36m"      # Search queries, context headers
+    YELLOW = "\033[33m"    # Section titles
+    DIM = "\033[2m"        # Scores, debug info
+    MAGENTA = "\033[35m"   # Model reasoning
+    RED = "\033[31m"       # Warnings
+    GREEN = "\033[32m"     # Success messages
+    RESET = "\033[0m"      # Reset to default
 from dotenv import load_dotenv
 
 from vector_store import RulesVectorStore
@@ -16,18 +26,37 @@ MODEL_IDS = {
     "opus": "claude-opus-4-5-20251101",
 }
 
-SYSTEM_PROMPT = """You are a Pathfinder 1st Edition rules expert. Answer the user's question accurately based on the official rules provided in the context below.
+SEARCH_TOOL = {
+    "name": "search_rules",
+    "description": "Search the Pathfinder 1e rules database for additional rules sections. Use this when you need more information about specific rules, conditions, abilities, or mechanics not covered in the provided context. It's best to use this to look up one specific term or mechanic at a time.",
+    "input_schema": {
+        "type": "object",
+        "properties": {
+            "query": {
+                "type": "string",
+                "description": "The search query - be specific about what rule or mechanic you're looking for"
+            }
+        },
+        "required": ["query"]
+    }
+}
+
+SYSTEM_PROMPT = """You are a Pathfinder 1st Edition rules expert. You will be provided with relevant rules context to answer questions.
+
+If you need additional rules information not covered in the provided context, use the search_rules tool to look up more rules and definitions.
 
 Guidelines:
-- Base your answer ONLY on the rules provided in the context, and pay close attention to precise wording of definitions and rules
-- Specific overrides general: If two rules contradict and one is more specific to the situation at hand, the specific one is correct
+- Base your answer on the rules provided and any additional rules you retrieve
+- Pay close attention to specific wording and constraints.
+- If a rule that's relevant to the question references another rule without definition, use the search_rules tool.
+  - Example: If the question is "How does the shape change ability work?" and the shape change ability says it works "as with polymorph", use the tool to search for "polymorph".
+- Rules are cumulative. If one rules references another, the full definitions of both apply to the situation unless stated otherwise.
 - If the context doesn't contain enough information to fully answer, say so
 - Cite specific rules when possible (e.g., "According to the Grappled condition...")
 - Be concise but thorough
-- If rules interact in complex ways, explain the interaction clearly
-- Use game terminology accurately"""
+- If rules interact in complex ways, explain the interaction clearly"""
 
-USER_PROMPT_TEMPLATE = """## Relevant Rules
+USER_PROMPT_TEMPLATE = """## Initial Rules Search Results
 
 {context}
 
@@ -35,7 +64,7 @@ USER_PROMPT_TEMPLATE = """## Relevant Rules
 
 {question}
 
-Please answer based on the rules provided above."""
+Please answer the question based on these rules or search for more rules if needed. Reason carefully and think out loud to get your answer."""
 
 
 def format_context(results: list[dict], max_sections: int = 5) -> str:
@@ -65,12 +94,35 @@ def format_context(results: list[dict], max_sections: int = 5) -> str:
     return "\n\n---\n\n".join(sections)
 
 
+def print_search_results(results: list[dict], verbose: bool = False) -> None:
+    """Print search results to stderr for debugging."""
+    print(f"  {Colors.DIM}Found {len(results)} sections:{Colors.RESET}", file=sys.stderr)
+    for r in results:
+        source = r.get('source_name', r['source_file'])
+        print(f"    {Colors.YELLOW}- {r['title']}{Colors.RESET} {Colors.DIM}({source}){Colors.RESET}", file=sys.stderr)
+        if verbose:
+            # Show score breakdown
+            if 'combined_score' in r:
+                print(f"        {Colors.DIM}combined: {r['combined_score']:.3f}{Colors.RESET}", file=sys.stderr)
+            else:
+                print(f"        {Colors.DIM}score: {r['score']:.3f}{Colors.RESET}", file=sys.stderr)
+
+
+def execute_search(query: str, store: RulesVectorStore, n_results: int = 5,
+                   rerank: bool = True, verbose: bool = False) -> str:
+    """Execute a search and return formatted results for tool response."""
+    results = store.query(query, n_results=n_results, rerank=rerank)
+    print_search_results(results, verbose)
+    return format_context(results, max_sections=n_results)
+
+
 def ask_rules_question(
     question: str,
     n_results: int = 7,
     model: str = "sonnet",
     verbose: bool = False,
-    rerank: bool = True
+    rerank: bool = True,
+    use_tools: bool = True
 ) -> str:
     """Ask a question about Pathfinder rules using RAG.
 
@@ -80,6 +132,7 @@ def ask_rules_question(
         model: Model to use ('sonnet' or 'opus')
         verbose: Whether to print debug info
         rerank: Whether to use cross-encoder reranking
+        use_tools: Whether to allow model to issue additional searches
 
     Returns:
         The answer from Claude
@@ -88,23 +141,21 @@ def ask_rules_question(
     store = RulesVectorStore()
     client = anthropic.Anthropic()
 
-    # Search for relevant sections
-    if verbose:
-        print(f"Searching for relevant rules...", file=sys.stderr)
-
+    # Initial search for relevant sections
+    print(f"{Colors.CYAN}[Initial search]{Colors.RESET} \"{question}\"", file=sys.stderr)
     results = store.query(question, n_results=n_results, rerank=rerank)
 
-    # Always print retrieved sections info
-    print(f"Found {len(results)} relevant sections:", file=sys.stderr)
+    # Print retrieved sections info
+    print(f"{Colors.CYAN}Found {len(results)} relevant sections:{Colors.RESET}", file=sys.stderr)
     for r in results:
         source = r.get('source_name', r['source_file'])
-        print(f"  - {r['title']} ({source})", file=sys.stderr)
+        print(f"  {Colors.YELLOW}- {r['title']}{Colors.RESET} {Colors.DIM}({source}){Colors.RESET}", file=sys.stderr)
 
         # Show combined/rerank score if available, otherwise retrieval score
         if 'combined_score' in r:
-            print(f"      combined: {r['combined_score']:.3f} (rerank: {r['rerank_score']:.2f}, retrieval: {r['score']:.3f})", file=sys.stderr)
+            print(f"      {Colors.DIM}combined: {r['combined_score']:.3f} (rerank: {r['rerank_score']:.2f}, retrieval: {r['score']:.3f}){Colors.RESET}", file=sys.stderr)
         else:
-            print(f"      score: {r['score']:.3f}", file=sys.stderr)
+            print(f"      {Colors.DIM}score: {r['score']:.3f}{Colors.RESET}", file=sys.stderr)
 
         # Build and show retrieval score breakdown
         components = [f"semantic: {r.get('semantic_score', 0):.3f}"]
@@ -114,7 +165,7 @@ def ask_rules_question(
             components.append(f"subheading: +{r['subheading_boost']:.2f}")
         if r.get('title_boost', 0) > 0:
             components.append(f"title: +{r['title_boost']:.2f}")
-        print(f"      retrieval breakdown: {', '.join(components)}", file=sys.stderr)
+        print(f"      {Colors.DIM}retrieval breakdown: {', '.join(components)}{Colors.RESET}", file=sys.stderr)
 
         # In verbose mode, print the full section content
         if verbose:
@@ -124,8 +175,8 @@ def ask_rules_question(
                 parts = content.split("\n\n", 1)
                 if len(parts) > 1:
                     content = parts[1]
-            print(f"\n{content}\n", file=sys.stderr)
-            print("---", file=sys.stderr)
+            print(f"\n{Colors.DIM}{content}{Colors.RESET}\n", file=sys.stderr)
+            print(f"{Colors.DIM}---{Colors.RESET}", file=sys.stderr)
     print(file=sys.stderr)
 
     # Format context and prompt
@@ -136,23 +187,79 @@ def ask_rules_question(
         print(f"Context length: {len(context)} chars", file=sys.stderr)
         print(file=sys.stderr)
 
-    # Call Claude
+    # Build messages for the conversation
+    messages = [{"role": "user", "content": user_prompt}]
     model_id = MODEL_IDS[model]
-    message = client.messages.create(
-        model=model_id,
-        max_tokens=2048,
-        system=SYSTEM_PROMPT,
-        messages=[
-            {"role": "user", "content": user_prompt}
-        ]
-    )
 
-    return message.content[0].text
+    # Agentic loop - allow model to issue additional searches
+    max_tool_calls = 5
+    tool_calls = 0
+
+    while True:
+        # Call Claude (with or without tools)
+        kwargs = {
+            "model": model_id,
+            "max_tokens": 2048,
+            "system": SYSTEM_PROMPT,
+            "messages": messages,
+        }
+        if use_tools:
+            kwargs["tools"] = [SEARCH_TOOL]
+
+        response = client.messages.create(**kwargs)
+
+        # Process response content blocks
+        text_response = ""
+        tool_uses = []
+
+        for block in response.content:
+            if block.type == "text":
+                text_response += block.text
+                # In verbose mode, show reasoning if there are also tool calls
+                if verbose and response.stop_reason == "tool_use":
+                    print(f"{Colors.MAGENTA}[Reasoning] {block.text}{Colors.RESET}", file=sys.stderr)
+            elif block.type == "tool_use":
+                tool_uses.append(block)
+
+        # If no tool use, we're done
+        if response.stop_reason != "tool_use" or not tool_uses:
+            return text_response
+
+        # Check tool call limit
+        if tool_calls >= max_tool_calls:
+            print(f"{Colors.RED}[Warning] Reached max tool calls ({max_tool_calls}), returning current response{Colors.RESET}", file=sys.stderr)
+            return text_response if text_response else "I was unable to complete the search. Please try rephrasing your question."
+
+        # Process tool calls
+        tool_results = []
+        for tool_use in tool_uses:
+            if tool_use.name == "search_rules":
+                query = tool_use.input.get("query", "")
+                tool_calls += 1
+                print(f"{Colors.CYAN}[Search {tool_calls}]{Colors.RESET} \"{query}\"", file=sys.stderr)
+
+                # Execute the search
+                search_results = execute_search(
+                    query, store, n_results=n_results,
+                    rerank=rerank, verbose=verbose
+                )
+
+                tool_results.append({
+                    "type": "tool_result",
+                    "tool_use_id": tool_use.id,
+                    "content": search_results
+                })
+
+        # Add assistant response and tool results to messages
+        messages.append({"role": "assistant", "content": response.content})
+        messages.append({"role": "user", "content": tool_results})
 
 
-def interactive_mode(n_results: int = 5, model: str = "sonnet", rerank: bool = True):
+def interactive_mode(n_results: int = 5, model: str = "sonnet", rerank: bool = True, use_tools: bool = True):
     """Run in interactive mode, answering questions until user quits."""
     print("Pathfinder 1e Rules Lawyer")
+    if use_tools:
+        print("(Model can issue additional searches as needed)")
     print("Ask any rules question. Type 'quit' or 'exit' to stop.\n")
 
     while True:
@@ -170,10 +277,13 @@ def interactive_mode(n_results: int = 5, model: str = "sonnet", rerank: bool = T
             break
 
         try:
-            answer = ask_rules_question(question, n_results=n_results, model=model, rerank=rerank)
+            answer = ask_rules_question(
+                question, n_results=n_results, model=model,
+                rerank=rerank, use_tools=use_tools
+            )
             print(f"\n{answer}\n")
         except Exception as e:
-            print(f"Error: {e}\n", file=sys.stderr)
+            print(f"{Colors.RED}Error: {e}{Colors.RESET}\n", file=sys.stderr)
 
 
 def main():
@@ -188,8 +298,8 @@ def main():
     parser.add_argument(
         "-n", "--results",
         type=int,
-        default=6,
-        help="Number of relevant sections to retrieve (default: 6)"
+        default=3,
+        help="Number of relevant sections to retrieve (default: 3)"
     )
     parser.add_argument(
         "--model",
@@ -207,6 +317,11 @@ def main():
         action="store_true",
         help="Disable cross-encoder reranking"
     )
+    parser.add_argument(
+        "--no-tools",
+        action="store_true",
+        help="Disable model-initiated searches (use only initial context)"
+    )
 
     args = parser.parse_args()
 
@@ -217,12 +332,18 @@ def main():
             n_results=args.results,
             model=args.model,
             verbose=args.verbose,
-            rerank=not args.no_rerank
+            rerank=not args.no_rerank,
+            use_tools=not args.no_tools
         )
         print(answer)
     else:
         # Interactive mode
-        interactive_mode(n_results=args.results, model=args.model, rerank=not args.no_rerank)
+        interactive_mode(
+            n_results=args.results,
+            model=args.model,
+            rerank=not args.no_rerank,
+            use_tools=not args.no_tools
+        )
 
 
 if __name__ == "__main__":
