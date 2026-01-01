@@ -1,0 +1,196 @@
+{
+  "file": "weapons.md",
+  "source_path": "rules/weapons.md",
+  "sections": [
+    {
+      "id": "weapon_handling_faq",
+      "title": "Two-Handed Weapon Handling FAQ",
+      "anchor_heading": "### FAQ",
+      "includes_subheadings": [],
+      "description": "Rules for releasing and re-grasping two-handed weapons as free actions",
+      "keywords": [
+        "two-handed",
+        "free action",
+        "release",
+        "re-grasp",
+        "quarterstaff",
+        "attacks of opportunity"
+      ]
+    },
+    {
+      "id": "weapon_basics",
+      "title": "Weapon Basics and Damage",
+      "anchor_heading": "# Weapon Rules",
+      "includes_subheadings": [],
+      "description": "Basic weapon mechanics including hit point damage, critical threats, critical hits, and weapon categories",
+      "keywords": [
+        "weapon",
+        "damage",
+        "critical threat",
+        "critical hit",
+        "natural 20",
+        "attack roll"
+      ]
+    },
+    {
+      "id": "weapon_proficiency",
+      "title": "Weapon Proficiency Categories",
+      "anchor_heading": "## Simple, Martial, and Exotic Weapons",
+      "includes_subheadings": [],
+      "description": "Rules for simple, martial, and exotic weapon proficiency and nonproficiency penalties",
+      "keywords": [
+        "proficiency",
+        "simple weapons",
+        "martial weapons",
+        "exotic weapons",
+        "nonproficient",
+        "unarmed strikes"
+      ]
+    },
+    {
+      "id": "melee_and_ranged_weapons",
+      "title": "Melee and Ranged Weapon Types",
+      "anchor_heading": "## Melee and Ranged Weapons",
+      "includes_subheadings": [],
+      "description": "Mechanics for melee weapons, ranged weapons, reach weapons, double weapons, thrown weapons, projectile weapons, and ammunition",
+      "keywords": [
+        "melee",
+        "ranged",
+        "reach",
+        "double weapon",
+        "thrown",
+        "projectile",
+        "ammunition",
+        "strength modifier",
+        "range increment"
+      ]
+    },
+    {
+      "id": "weapon_handedness",
+      "title": "Weapon Handedness and Grip",
+      "anchor_heading": "## Light, One-Handed, and Two-Handed Melee Weapons",
+      "includes_subheadings": [],
+      "description": "Rules for light, one-handed, and two-handed weapons including strength bonuses and grip requirements",
+      "keywords": [
+        "light weapon",
+        "one-handed",
+        "two-handed",
+        "strength bonus",
+        "primary hand",
+        "off hand",
+        "grappling"
+      ]
+    },
+    {
+      "id": "weapon_size",
+      "title": "Weapon Size Categories",
+      "anchor_heading": "## Weapon Size",
+      "includes_subheadings": [],
+      "description": "Rules for weapon size categories and inappropriately sized weapons including penalties and usage restrictions",
+      "keywords": [
+        "weapon size",
+        "inappropriately sized",
+        "size category",
+        "attack penalty",
+        "wielder size"
+      ]
+    },
+    {
+      "id": "improvised_weapons",
+      "title": "Improvised Weapons",
+      "anchor_heading": "## Improvised Weapons",
+      "includes_subheadings": [],
+      "description": "Rules for using objects not designed as weapons in combat including penalties and damage determination",
+      "keywords": [
+        "improvised weapon",
+        "nonproficient",
+        "attack penalty",
+        "improvised thrown"
+      ]
+    },
+    {
+      "id": "damaged_weapons",
+      "title": "Damaged Weapons",
+      "anchor_heading": "## Damaged Weapons",
+      "includes_subheadings": [],
+      "description": "Rules for weapons with the broken condition and their combat penalties",
+      "keywords": [
+        "broken condition",
+        "damaged",
+        "attack penalty",
+        "damage penalty",
+        "critical hit"
+      ]
+    },
+    {
+      "id": "weapon_statistics",
+      "title": "Weapon Statistics and Qualities",
+      "anchor_heading": "## Weapon Qualities",
+      "includes_subheadings": [],
+      "description": "Explanation of weapon table entries including price, damage, critical, range, weight, and damage types",
+      "keywords": [
+        "price",
+        "damage",
+        "critical",
+        "range",
+        "weight",
+        "damage type",
+        "bludgeoning",
+        "piercing",
+        "slashing"
+      ]
+    },
+    {
+      "id": "special_weapon_features",
+      "title": "Special Weapon Features",
+      "anchor_heading": "## Special Weapon Features",
+      "includes_subheadings": [],
+      "description": "Rules for special weapon properties like blocking, brace, deadly, disarm, distracting, double, fragile, grapple, monk, nonlethal, performance, reach, strength, and trip",
+      "keywords": [
+        "blocking",
+        "brace",
+        "deadly",
+        "disarm",
+        "distracting",
+        "double",
+        "fragile",
+        "grapple",
+        "monk weapon",
+        "nonlethal",
+        "performance",
+        "reach",
+        "trip",
+        "combat maneuver"
+      ]
+    },
+    {
+      "id": "gladiator_weapons",
+      "title": "Gladiator Weapons and Performance Combat",
+      "anchor_heading": "## Gladiator Weapons",
+      "includes_subheadings": [],
+      "description": "Rules for performance weapons and Performance Weapon Mastery feat in arena combat",
+      "keywords": [
+        "gladiator",
+        "performance combat",
+        "performance weapon",
+        "arena",
+        "Performance Weapon Mastery"
+      ]
+    },
+    {
+      "id": "masterwork_weapons",
+      "title": "Masterwork Weapons",
+      "anchor_heading": "## Masterwork Weapons",
+      "includes_subheadings": [],
+      "description": "Rules for masterwork weapon quality including bonuses, costs, ammunition, and interaction with magic weapons",
+      "keywords": [
+        "masterwork",
+        "enhancement bonus",
+        "craft",
+        "masterwork ammunition",
+        "magic weapons"
+      ]
+    }
+  ],
+  "source_name": "Weapons"
+}

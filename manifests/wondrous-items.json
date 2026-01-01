@@ -1,0 +1,119 @@
+{
+  "file": "wondrous-items.md",
+  "source_path": "rules/wondrous-items.md",
+  "sections": [
+    {
+      "id": "wondrous_items_overview",
+      "title": "Wondrous Items Overview",
+      "anchor_heading": "# Wondrous Items",
+      "includes_subheadings": [],
+      "description": "Basic definition and categorization of wondrous items, including slotted vs slotless distinction",
+      "keywords": [
+        "wondrous items",
+        "magic items",
+        "slotted",
+        "slotless"
+      ]
+    },
+    {
+      "id": "slotted_wondrous_items",
+      "title": "Slotted Wondrous Items",
+      "anchor_heading": "#### Slotted Wondrous Items",
+      "includes_subheadings": [],
+      "description": "Rules for slotted wondrous items including wearing restrictions, attunement periods, and all magic item slot types with their definitions",
+      "keywords": [
+        "slotted",
+        "magic item slots",
+        "belt",
+        "body",
+        "chest",
+        "eyes",
+        "feet",
+        "hands",
+        "head",
+        "headband",
+        "neck",
+        "shoulders",
+        "wrists",
+        "wearing",
+        "attunement"
+      ]
+    },
+    {
+      "id": "slotless_wondrous_items",
+      "title": "Slotless Wondrous Items",
+      "anchor_heading": "#### Slotless Wondrous Items",
+      "includes_subheadings": [],
+      "description": "Rules for slotless wondrous items that don't occupy magic item slots",
+      "keywords": [
+        "slotless",
+        "trinkets",
+        "figurines",
+        "carpet of flying",
+        "possession"
+      ]
+    },
+    {
+      "id": "intelligent_wondrous_items",
+      "title": "Intelligent Wondrous Items",
+      "anchor_heading": "#### Intelligent Wondrous Items",
+      "includes_subheadings": [],
+      "description": "Random table for determining if wondrous items are intelligent or provide clues to their function",
+      "keywords": [
+        "intelligent items",
+        "command word",
+        "clues",
+        "inscription",
+        "design"
+      ]
+    },
+    {
+      "id": "wondrous_item_activation",
+      "title": "Wondrous Item Activation",
+      "anchor_heading": "#### Activation",
+      "includes_subheadings": [],
+      "description": "Methods for activating wondrous items including command word activation and use-activated items",
+      "keywords": [
+        "activation",
+        "command word",
+        "use-activated",
+        "standard action",
+        "knowledge arcana",
+        "knowledge history",
+        "detect magic",
+        "identify",
+        "analyze dweomer"
+      ]
+    },
+    {
+      "id": "extradimensional_spaces",
+      "title": "Extradimensional Spaces",
+      "anchor_heading": "### Extradimensional Spaces",
+      "includes_subheadings": [],
+      "description": "Rules for how extradimensional magic items interact with each other and cease to function when nested",
+      "keywords": [
+        "extradimensional",
+        "bag of holding",
+        "portable hole",
+        "rope trick",
+        "handy haversack",
+        "astral plane",
+        "rift"
+      ]
+    },
+    {
+      "id": "wondrous_item_types_table",
+      "title": "Wondrous Item Types Table",
+      "anchor_heading": "### Table: Wondrous Item Types",
+      "includes_subheadings": [],
+      "description": "Random generation table for determining wondrous item slot types",
+      "keywords": [
+        "random generation",
+        "item types",
+        "d100",
+        "percentage"
+      ]
+    }
+  ],
+  "source_name": "Wondrous Items"
+}
