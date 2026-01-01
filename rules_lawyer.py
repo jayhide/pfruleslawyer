@@ -11,10 +11,16 @@ from vector_store import RulesVectorStore
 
 load_dotenv()
 
+MODEL_IDS = {
+    "sonnet": "claude-sonnet-4-20250514",
+    "opus": "claude-opus-4-5-20251101",
+}
+
 SYSTEM_PROMPT = """You are a Pathfinder 1st Edition rules expert. Answer the user's question accurately based on the official rules provided in the context below.
 
 Guidelines:
-- Base your answer ONLY on the rules provided in the context
+- Base your answer ONLY on the rules provided in the context, and pay close attention to precise wording of definitions and rules
+- Specific overrides general: If two rules contradict and one is more specific to the situation at hand, the specific one is correct
 - If the context doesn't contain enough information to fully answer, say so
 - Cite specific rules when possible (e.g., "According to the Grappled condition...")
 - Be concise but thorough
@@ -53,7 +59,8 @@ def format_context(results: list[dict], max_sections: int = 5) -> str:
             if len(parts) > 1:
                 content = parts[1]
 
-        sections.append(f"### {result['title']} (from {result['source_file']})\n\n{content}")
+        source = result.get('source_name', result['source_file'])
+        sections.append(f"### {result['title']} (from {source})\n\n{content}")
 
     return "\n\n---\n\n".join(sections)
 
@@ -61,16 +68,18 @@ def format_context(results: list[dict], max_sections: int = 5) -> str:
 def ask_rules_question(
     question: str,
     n_results: int = 7,
-    model: str = "claude-sonnet-4-20250514",
-    verbose: bool = False
+    model: str = "sonnet",
+    verbose: bool = False,
+    rerank: bool = True
 ) -> str:
     """Ask a question about Pathfinder rules using RAG.
 
     Args:
         question: The rules question to answer
         n_results: Number of relevant sections to retrieve
-        model: Claude model to use
+        model: Model to use ('sonnet' or 'opus')
         verbose: Whether to print debug info
+        rerank: Whether to use cross-encoder reranking
 
     Returns:
         The answer from Claude
@@ -83,28 +92,41 @@ def ask_rules_question(
     if verbose:
         print(f"Searching for relevant rules...", file=sys.stderr)
 
-    results = store.query(question, n_results=n_results)
+    results = store.query(question, n_results=n_results, rerank=rerank)
 
-    if verbose:
-        print(f"Found {len(results)} relevant sections:", file=sys.stderr)
-        for r in results:
-            # Build retrieval score breakdown
-            components = [f"semantic: {r.get('semantic_score', 0):.3f}"]
-            if r.get('keyword_boost', 0) > 0:
-                components.append(f"keyword: +{r['keyword_boost']:.2f}")
-            if r.get('subheading_boost', 0) > 0:
-                components.append(f"subheading: +{r['subheading_boost']:.2f}")
-            if r.get('title_boost', 0) > 0:
-                components.append(f"title: +{r['title_boost']:.2f}")
-            retrieval_breakdown = ", ".join(components)
+    # Always print retrieved sections info
+    print(f"Found {len(results)} relevant sections:", file=sys.stderr)
+    for r in results:
+        source = r.get('source_name', r['source_file'])
+        print(f"  - {r['title']} ({source})", file=sys.stderr)
 
-            # Show combined/rerank score if available
-            if 'combined_score' in r:
-                print(f"  - {r['title']}", file=sys.stderr)
-                print(f"      combined: {r['combined_score']:.3f} (rerank: {r['rerank_score']:.2f}, retrieval: {r['score']:.3f})", file=sys.stderr)
-            else:
-                print(f"  - {r['title']} (score: {r['score']:.3f} | {retrieval_breakdown})", file=sys.stderr)
-        print(file=sys.stderr)
+        # Show combined/rerank score if available, otherwise retrieval score
+        if 'combined_score' in r:
+            print(f"      combined: {r['combined_score']:.3f} (rerank: {r['rerank_score']:.2f}, retrieval: {r['score']:.3f})", file=sys.stderr)
+        else:
+            print(f"      score: {r['score']:.3f}", file=sys.stderr)
+
+        # Build and show retrieval score breakdown
+        components = [f"semantic: {r.get('semantic_score', 0):.3f}"]
+        if r.get('keyword_boost', 0) > 0:
+            components.append(f"keyword: +{r['keyword_boost']:.2f}")
+        if r.get('subheading_boost', 0) > 0:
+            components.append(f"subheading: +{r['subheading_boost']:.2f}")
+        if r.get('title_boost', 0) > 0:
+            components.append(f"title: +{r['title_boost']:.2f}")
+        print(f"      retrieval breakdown: {', '.join(components)}", file=sys.stderr)
+
+        # In verbose mode, print the full section content
+        if verbose:
+            content = r.get("content", "")
+            # Strip the metadata header if present
+            if "\n\n" in content:
+                parts = content.split("\n\n", 1)
+                if len(parts) > 1:
+                    content = parts[1]
+            print(f"\n{content}\n", file=sys.stderr)
+            print("---", file=sys.stderr)
+    print(file=sys.stderr)
 
     # Format context and prompt
     context = format_context(results, max_sections=n_results)
@@ -115,8 +137,9 @@ def ask_rules_question(
         print(file=sys.stderr)
 
     # Call Claude
+    model_id = MODEL_IDS[model]
     message = client.messages.create(
-        model=model,
+        model=model_id,
         max_tokens=2048,
         system=SYSTEM_PROMPT,
         messages=[
@@ -127,7 +150,7 @@ def ask_rules_question(
     return message.content[0].text
 
 
-def interactive_mode(n_results: int = 5, model: str = "claude-sonnet-4-20250514"):
+def interactive_mode(n_results: int = 5, model: str = "sonnet", rerank: bool = True):
     """Run in interactive mode, answering questions until user quits."""
     print("Pathfinder 1e Rules Lawyer")
     print("Ask any rules question. Type 'quit' or 'exit' to stop.\n")
@@ -147,7 +170,7 @@ def interactive_mode(n_results: int = 5, model: str = "claude-sonnet-4-20250514"
             break
 
         try:
-            answer = ask_rules_question(question, n_results=n_results, model=model)
+            answer = ask_rules_question(question, n_results=n_results, model=model, rerank=rerank)
             print(f"\n{answer}\n")
         except Exception as e:
             print(f"Error: {e}\n", file=sys.stderr)
@@ -165,18 +188,24 @@ def main():
     parser.add_argument(
         "-n", "--results",
         type=int,
-        default=7,
-        help="Number of relevant sections to retrieve (default: 7)"
+        default=6,
+        help="Number of relevant sections to retrieve (default: 6)"
     )
     parser.add_argument(
         "--model",
-        default="claude-sonnet-4-20250514",
-        help="Claude model to use"
+        choices=["sonnet", "opus"],
+        default="sonnet",
+        help="Claude model to use: sonnet or opus (default: sonnet)"
     )
     parser.add_argument(
         "-v", "--verbose",
         action="store_true",
         help="Print debug information"
+    )
+    parser.add_argument(
+        "--no-rerank",
+        action="store_true",
+        help="Disable cross-encoder reranking"
     )
 
     args = parser.parse_args()
@@ -187,12 +216,13 @@ def main():
             args.question,
             n_results=args.results,
             model=args.model,
-            verbose=args.verbose
+            verbose=args.verbose,
+            rerank=not args.no_rerank
         )
         print(answer)
     else:
         # Interactive mode
-        interactive_mode(n_results=args.results, model=args.model)
+        interactive_mode(n_results=args.results, model=args.model, rerank=not args.no_rerank)
 
 
 if __name__ == "__main__":

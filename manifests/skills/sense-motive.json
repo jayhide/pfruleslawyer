@@ -1,0 +1,48 @@
+{
+  "file": "sense-motive.md",
+  "source_path": "rules/skills/sense-motive.md",
+  "sections": [
+    {
+      "id": "sense_motive",
+      "title": "Sense Motive (Wis)",
+      "anchor_heading": "# Sense Motive (Wis)",
+      "includes_subheadings": [
+        "### Common Uses",
+        "### Action",
+        "### Modifiers",
+        "#### Sense Motive Unchained",
+        "### Valuation",
+        "#### Step 1: Seller Sets the Asking Price",
+        "#### Step 2: Evaluate Item",
+        "#### Step 3: Determine Undercut",
+        "#### Step 4: Set Offers",
+        "#### Step 5: Bargain",
+        "### Example",
+        "### Collector NPCs",
+        "### Flooding The Market",
+        "### Trade Goods",
+        "### Using Magic to Bargain",
+        "### Unofficial Extras!"
+      ],
+      "description": "Covers the Sense Motive skill including common uses (hunch, sense enchantment, discern secret message), skill unlocks, and detailed bargaining mechanics for buying and selling items.",
+      "keywords": [
+        "Sense Motive",
+        "hunch",
+        "sense enchantment",
+        "discern secret message",
+        "bargaining",
+        "valuation",
+        "asking price",
+        "undercut percentage",
+        "initial offer",
+        "final offer",
+        "collector NPCs",
+        "analyze prowess",
+        "quick scan",
+        "skill unlocks",
+        "detect thoughts",
+        "surface thoughts"
+      ]
+    }
+  ]
+}

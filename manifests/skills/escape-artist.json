@@ -1,0 +1,39 @@
+{
+  "file": "escape-artist.md",
+  "source_path": "rules/skills/escape-artist.md",
+  "sections": [
+    {
+      "id": "escape_artist",
+      "title": "Escape Artist (Dex; Armor Check Penalty)",
+      "anchor_heading": "# Escape Artist (Dex; Armor Check Penalty)",
+      "includes_subheadings": [
+        "### Common Uses",
+        "#### Escape Ropes",
+        "#### Escape Manacles",
+        "#### Escape Net or Certain Spells",
+        "#### Grapple",
+        "#### Move Through Tight Space",
+        "### Modifiers",
+        "#### Escape Artist Unchained"
+      ],
+      "description": "Defines the Escape Artist skill mechanics, including DCs and actions for escaping ropes, manacles, nets, spells, grapples, and moving through tight spaces, plus unchained skill unlock abilities.",
+      "keywords": [
+        "Escape Artist",
+        "escape ropes",
+        "escape manacles",
+        "escape net",
+        "escape grapple",
+        "grappled condition",
+        "pinned condition",
+        "tight space",
+        "animate rope spell",
+        "entangle spell",
+        "snare spell",
+        "command plants",
+        "control plants",
+        "skill unlock",
+        "unchained"
+      ]
+    }
+  ]
+}

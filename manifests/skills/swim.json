@@ -1,0 +1,36 @@
+{
+  "file": "swim.md",
+  "source_path": "rules/skills/swim.md",
+  "sections": [
+    {
+      "id": "swim",
+      "title": "Swim (Str; Armor Check Penalty)",
+      "anchor_heading": "# Swim (Str; Armor Check Penalty)",
+      "includes_subheadings": [
+        "### Common Uses",
+        "#### Swim",
+        "### Action",
+        "### Modifiers",
+        "#### Swim Unchained"
+      ],
+      "description": "Covers the Swim skill mechanics including checks for moving through water, drowning rules, DC tables for different water conditions, and skill unlock abilities.",
+      "keywords": [
+        "Swim",
+        "swimming",
+        "underwater",
+        "drowning",
+        "hold breath",
+        "Constitution check",
+        "swim speed",
+        "calm water",
+        "rough water",
+        "stormy water",
+        "Swim DC",
+        "fatigue damage",
+        "skill unlock",
+        "Swim Unchained",
+        "freedom of movement underwater"
+      ]
+    }
+  ]
+}

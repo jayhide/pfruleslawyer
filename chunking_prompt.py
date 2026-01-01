@@ -63,7 +63,7 @@ Your task: Identify self-contained "topics" that should be retrieved together wh
 - Splitting "Flat-Footed" away from "Initiative" when they're discussing the same combat concept
 - Splitting "Attack Roll" from "Automatic Misses and Hits" - these belong together
 - Making each small subsection its own chunk when they're all part of one topic
-- Keywords include terms that are generic or only incidental to the section, like "attack" mentioned in passing in a section about invisibility, or "magical" in a section about transmutation spells
+- Keywords include terms that are too broad and generic to be useful for search, or only incidental to the section, like "attack" mentioned in passing in a section about invisibility, or "magic" in a section about transmutation spells, or "humanoid" in a section on orcs
 - **Grouping a list of independent definitions into one giant section** - e.g., creature types or subtypes should each be their OWN section, not lumped together
 
 ## Important: Lists of Definitions
@@ -118,4 +118,55 @@ def format_prompt(markdown_content: str, filename: str, source_path: str) -> str
         markdown_content=markdown_content,
         filename=filename,
         source_path=source_path
+    )
+
+
+SUMMARIZE_PROMPT = '''You are analyzing a Pathfinder 1e rules document to generate metadata for a retrieval-augmented generation (RAG) system.
+
+This document should be treated as a SINGLE section (do not split it). Your task is to generate a description and keywords that will help this document be retrieved when relevant.
+
+## Guidelines
+
+1. **Description**: Write a brief (1-2 sentence) summary of what rules this document covers. Focus on the mechanical aspects that players/GMs would search for.
+
+2. **Keywords**: List the set of specific game terms that should trigger retrieval of this document. Include:
+   - The main topic name and common variations
+   - Specific uses or applications mentioned
+
+Do not use generic or general terms as keywords, stick to terms that should trigger retrieval of these rules.
+
+3. **Subheadings**: List ALL markdown headings (###, ####, etc.) found in the document.
+
+## Output Format
+
+Output valid JSON matching this exact structure. Do not include any text before or after the JSON:
+
+{{
+  "description": "Brief description of the rules covered",
+  "keywords": ["keyword1", "keyword2", "keyword3"],
+  "subheadings": ["### Heading 1", "#### Heading 2"]
+}}
+
+## Document to Analyze
+
+Filename: {filename}
+
+<document>
+{markdown_content}
+</document>'''
+
+
+def format_summarize_prompt(markdown_content: str, filename: str) -> str:
+    """Format the summarize prompt for whole-file processing.
+
+    Args:
+        markdown_content: The full text of the markdown file
+        filename: The name of the file (e.g., "acrobatics.md")
+
+    Returns:
+        The formatted prompt ready to send to the LLM
+    """
+    return SUMMARIZE_PROMPT.format(
+        markdown_content=markdown_content,
+        filename=filename
     )

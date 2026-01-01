@@ -15,6 +15,7 @@ class Section:
     keywords: list[str]
     content: str
     source_file: str
+    source_name: str
     anchor_heading: str
 
     def __repr__(self) -> str:
@@ -103,12 +104,21 @@ class SectionExtractor:
         self._sections: list[Section] | None = None
         self._markdown_cache: dict[str, str] = {}
 
-    def _load_markdown(self, filename: str) -> str:
-        """Load and cache markdown content."""
-        if filename not in self._markdown_cache:
-            filepath = self.rules_dir / filename
-            self._markdown_cache[filename] = filepath.read_text(encoding="utf-8")
-        return self._markdown_cache[filename]
+    def _load_markdown(self, source_path: str) -> str:
+        """Load and cache markdown content.
+
+        Args:
+            source_path: Path relative to project root (e.g., "rules/skills/acrobatics.md")
+        """
+        if source_path not in self._markdown_cache:
+            # source_path is relative to project root, e.g., "rules/skills/acrobatics.md"
+            # self.rules_dir is typically "rules", so we need to handle both cases
+            filepath = Path(source_path)
+            if not filepath.exists():
+                # Try relative to rules_dir parent (project root)
+                filepath = self.rules_dir.parent / source_path
+            self._markdown_cache[source_path] = filepath.read_text(encoding="utf-8")
+        return self._markdown_cache[source_path]
 
     def _load_manifest(self, manifest_path: Path) -> dict:
         """Load a manifest JSON file."""
@@ -126,17 +136,22 @@ class SectionExtractor:
 
         self._sections = []
 
-        for manifest_path in sorted(self.manifests_dir.glob("*.json")):
+        for manifest_path in sorted(self.manifests_dir.glob("**/*.json")):
             manifest = self._load_manifest(manifest_path)
             source_file = manifest["file"]
-            markdown = self._load_markdown(source_file)
+            source_path = manifest.get("source_path", f"rules/{source_file}")
+            # Fallback to title-cased filename if source_name not in manifest
+            source_name = manifest.get("source_name")
+            if not source_name:
+                source_name = source_file.replace(".md", "").replace("-", " ").title()
+            markdown = self._load_markdown(source_path)
 
             for section_def in manifest["sections"]:
                 content = extract_section_content(markdown, section_def["anchor_heading"])
 
                 if content is None:
                     print(f"Warning: Could not find section '{section_def['id']}' "
-                          f"with anchor '{section_def['anchor_heading']}' in {source_file}")
+                          f"with anchor '{section_def['anchor_heading']}' in {source_path}")
                     continue
 
                 section = Section(
@@ -145,7 +160,8 @@ class SectionExtractor:
                     description=section_def["description"],
                     keywords=section_def["keywords"],
                     content=content,
-                    source_file=source_file,
+                    source_file=source_path,
+                    source_name=source_name,
                     anchor_heading=section_def["anchor_heading"]
                 )
                 self._sections.append(section)

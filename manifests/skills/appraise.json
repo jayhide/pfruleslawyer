@@ -1,0 +1,46 @@
+{
+  "file": "appraise.md",
+  "source_path": "rules/skills/appraise.md",
+  "sections": [
+    {
+      "id": "appraise",
+      "title": "Appraise (Int)",
+      "anchor_heading": "# Appraise (Int)",
+      "includes_subheadings": [
+        "### Common Uses",
+        "#### Appraise Value of Item",
+        "### Modifers",
+        "#### Appraise Unchained",
+        "## Bargaining",
+        "### Valuation",
+        "#### Step 1: Seller Sets the Asking Price",
+        "#### Step 2: Evaluate Item",
+        "#### Step 3: Determine Undercut",
+        "#### Step 4: Set Offers",
+        "#### Step 5: Bargain",
+        "### Example",
+        "### Collector NPCs",
+        "### Flooding The Market",
+        "### Trade Goods",
+        "### Using Magic to Bargain"
+      ],
+      "description": "Rules for the Appraise skill including appraising item values, skill unlocks, and detailed bargaining mechanics for buying and selling items.",
+      "keywords": [
+        "Appraise",
+        "appraise skill",
+        "item value",
+        "treasure hoard",
+        "skill unlocks",
+        "bargaining",
+        "selling items",
+        "asking price",
+        "initial offer",
+        "final offer",
+        "undercut percentage",
+        "collector NPCs",
+        "flooding the market",
+        "trade goods"
+      ]
+    }
+  ]
+}

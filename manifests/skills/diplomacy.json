@@ -1,0 +1,52 @@
+{
+  "file": "diplomacy.md",
+  "source_path": "rules/skills/diplomacy.md",
+  "sections": [
+    {
+      "id": "diplomacy",
+      "title": "Diplomacy (Cha)",
+      "anchor_heading": "# Diplomacy (Cha)",
+      "includes_subheadings": [
+        "### Common Uses",
+        "#### Gather Information",
+        "#### Influence Attitude",
+        "#### Make Request",
+        "#### Suggest Course of Action",
+        "### Action Summary",
+        "### Modifiers",
+        "#### Diplomacy Unchained",
+        "### Valuation",
+        "#### Step 1: Seller Sets the Asking Price",
+        "#### Step 2: Evaluate Item",
+        "#### Step 3: Determine Undercut",
+        "#### Step 4: Set Offers",
+        "#### Step 5: Bargain",
+        "### Example",
+        "### Collector NPCs",
+        "### Flooding The Market",
+        "### Trade Goods",
+        "### Using Magic to Bargain"
+      ],
+      "description": "Covers the Diplomacy skill mechanics including gathering information, influencing attitudes, making requests, and suggesting courses of action, plus detailed bargaining rules for selling items.",
+      "keywords": [
+        "Diplomacy",
+        "gather information",
+        "influence attitude",
+        "make request",
+        "suggest course of action",
+        "bargaining",
+        "valuation",
+        "Appraise",
+        "Undercut Percentage",
+        "Initial Offer",
+        "Final Offer",
+        "Asking Price",
+        "collector NPCs",
+        "flooding the market",
+        "trade goods",
+        "Diplomacy Unchained",
+        "skill unlocks"
+      ]
+    }
+  ]
+}

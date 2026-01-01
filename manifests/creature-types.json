@@ -13,11 +13,7 @@
       "keywords": [
         "creature types",
         "subtypes",
-        "playable races",
-        "hit dice",
-        "base attack bonus",
-        "saving throws",
-        "skill ranks"
+        "playable races"
       ]
     },
     {
@@ -29,10 +25,7 @@
       "keywords": [
         "aberration",
         "bizarre anatomy",
-        "alien mindset",
-        "darkvision",
-        "d8 hit die",
-        "medium BAB"
+        "alien mindset"
       ]
     },
     {
@@ -44,11 +37,7 @@
       "keywords": [
         "animal",
         "nonhuman creature",
-        "vertebrate",
-        "low-light vision",
-        "always neutral",
-        "no treasure",
-        "intelligence 1 or 2"
+        "vertebrate"
       ]
     },
     {
@@ -61,9 +50,6 @@
         "construct",
         "animated object",
         "artificially created",
-        "no constitution",
-        "immunity",
-        "bonus hit points",
         "craft construct"
       ]
     },
@@ -76,11 +62,8 @@
       "keywords": [
         "dragon",
         "reptile-like",
-        "winged",
-        "magical abilities",
         "immunity to sleep",
-        "immunity to paralysis",
-        "d12 hit die"
+        "immunity to paralysis"
       ]
     },
     {
@@ -91,11 +74,7 @@
       "description": "Complete rules for fey creature type including supernatural abilities, nature connections, and human-like shape",
       "keywords": [
         "fey",
-        "supernatural abilities",
-        "nature connection",
-        "human-shaped",
-        "low-light vision",
-        "d6 hit die"
+        "nature connection"
       ]
     },
     {
@@ -105,14 +84,7 @@
       "includes_subheadings": [],
       "description": "Complete rules for humanoid creature type including anatomy, societies, class substitution rules, and subtype requirements",
       "keywords": [
-        "humanoid",
-        "two arms",
-        "two legs",
-        "one head",
-        "societies",
-        "class levels",
-        "subtype",
-        "warriors"
+        "humanoid"
       ]
     },
     {
@@ -264,10 +236,7 @@
       "keywords": [
         "agathion",
         "beast-aspect",
-        "nirvana",
-        "lay on hands",
-        "speak with animals",
-        "truespeech"
+        "nirvana"
       ]
     },
     {
@@ -279,7 +248,6 @@
       "keywords": [
         "air subtype",
         "elemental planes",
-        "fly speeds",
         "perfect maneuverability"
       ]
     },
@@ -306,7 +274,6 @@
       "description": "Rules for aquatic subtype including swimming abilities and breathing restrictions",
       "keywords": [
         "aquatic",
-        "swim speeds",
         "breathe water",
         "amphibious"
       ]
@@ -322,7 +289,6 @@
         "celestials",
         "lawful good",
         "aura of menace",
-        "teleport",
         "truespeech"
       ]
     },
@@ -421,10 +387,8 @@
       "description": "Rules for chaotic subtype including alignment effects and damage reduction bypass",
       "keywords": [
         "chaotic",
+        "chaotic outsider",
         "chaotic-aligned",
-        "outer planes",
-        "alignment effects",
-        "damage reduction",
         "chaotically aligned"
       ]
     },
@@ -443,8 +407,7 @@
         "electricity vulnerability",
         "swift reactions",
         "clockwork augmentations",
-        "charged",
-        "grind"
+        "charged"
       ]
     },
     {
@@ -484,11 +447,7 @@
       "keywords": [
         "daemon",
         "neutral evil",
-        "eat souls",
-        "disaster",
-        "ruin",
-        "summon",
-        "telepathy"
+        "eat souls"
       ]
     },
     {
@@ -500,7 +459,6 @@
       "keywords": [
         "dark folk",
         "subterranean",
-        "humanoids",
         "aversion to light"
       ]
     },
@@ -512,8 +470,7 @@
       "description": "Rules for deep one subtype including deep ones, hybrids, and low-light vision",
       "keywords": [
         "deep one",
-        "deep one hybrids",
-        "low-light vision"
+        "deep one hybrids"
       ]
     },
     {
@@ -524,11 +481,9 @@
       "description": "Complete rules for demodand subtype including chaotic evil outsiders, faith-stealing strike, and heretical soul",
       "keywords": [
         "demodand",
-        "chaotic evil",
         "abyss",
         "faith-stealing strike",
-        "heretical soul",
-        "divine spells"
+        "heretical soul"
       ]
     },
     {
@@ -539,12 +494,9 @@
       "description": "Complete rules for demon subtype including chaotic evil outsiders from the Abyss and summoning abilities",
       "keywords": [
         "demon",
-        "chaotic evil",
         "abyss",
         "immunity to electricity",
-        "immunity to poison",
-        "summon",
-        "telepathy"
+        "immunity to poison"
       ]
     },
     {
@@ -558,9 +510,7 @@
         "lawful evil",
         "hell",
         "immunity to fire",
-        "see in darkness",
-        "summon",
-        "telepathy"
+        "see in darkness"
       ]
     },
     {
@@ -570,13 +520,7 @@
       "includes_subheadings": [],
       "description": "Complete rules for div subtype including neutral evil outsiders that sow misfortune and see in darkness",
       "keywords": [
-        "div",
-        "neutral evil",
-        "misfortune",
-        "ruin",
-        "see in darkness",
-        "summon",
-        "telepathy"
+        "div"
       ]
     },
     {
@@ -587,8 +531,7 @@
       "description": "Rules for dwarf subtype including darkvision for dwarves and related creatures",
       "keywords": [
         "dwarf",
-        "dwarves",
-        "darkvision 60 feet"
+        "dwarves"
       ]
     },
     {
@@ -618,9 +561,7 @@
         "fire",
         "water",
         "classical elements",
-        "immunity to bleed",
-        "critical hits",
-        "flanking"
+        "immunity to bleed"
       ]
     },
     {
@@ -631,8 +572,7 @@
       "description": "Rules for elf subtype including low-light vision for elves and related creatures",
       "keywords": [
         "elf",
-        "elves",
-        "low-light vision"
+        "elves"
       ]
     },
     {
@@ -644,11 +584,9 @@
       "keywords": [
         "evil subtype",
         "fiends",
-        "evil-aligned",
+        "evil outsider",
         "outer planes",
-        "alignment effects",
-        "damage reduction",
-        "evil-aligned"
+        "alignment effects"
       ]
     },
     {
@@ -686,13 +624,7 @@
       "description": "Rules for giant subtype including large humanoids with racial hit dice and special vision",
       "keywords": [
         "giant",
-        "humanoid",
-        "great strength",
-        "large size",
-        "racial hit dice",
-        "low-light vision",
-        "intimidate",
-        "perception"
+        "great strength"
       ]
     },
     {
@@ -703,8 +635,7 @@
       "description": "Rules for gnome subtype including low-light vision for gnomes and related creatures",
       "keywords": [
         "gnome",
-        "gnomes",
-        "low-light vision"
+        "gnomes"
       ]
     },
     {
@@ -715,11 +646,7 @@
       "description": "Rules for goblinoid subtype including stealthy humanoids with goblin language and stealth skills",
       "keywords": [
         "goblinoid",
-        "stealthy humanoids",
-        "hunting",
-        "raiding",
-        "goblin language",
-        "stealth"
+        "goblin language"
       ]
     },
     {
@@ -733,7 +660,6 @@
         "colossal",
         "magical beasts",
         "hibernation",
-        "regeneration",
         "unstoppable force"
       ]
     },
@@ -744,12 +670,11 @@
       "includes_subheadings": [],
       "description": "Rules for good subtype including alignment effects and damage reduction bypass",
       "keywords": [
+        "good outsider",
         "good subtype",
         "good-aligned",
         "outer planes",
-        "alignment effects",
-        "damage reduction",
-        "good-aligned"
+        "alignment effects"
       ]
     },
     {
@@ -761,7 +686,6 @@
       "keywords": [
         "great old one",
         "alien entity",
-        "chaotic",
         "immortality",
         "insanity",
         "mythic",
@@ -804,9 +728,6 @@
       "keywords": [
         "hive",
         "invasive species",
-        "aberrations",
-        "blind",
-        "blindsense",
         "corrosive blood",
         "death throes",
         "hive mind"
@@ -847,9 +768,7 @@
         "inevitable",
         "construct-like outsiders",
         "axiomites",
-        "law",
         "constructed",
-        "regeneration",
         "truespeech"
       ]
     },
@@ -895,7 +814,6 @@
       "keywords": [
         "kasatha",
         "four-armed",
-        "humanoid",
         "another planet"
       ]
     },
@@ -908,7 +826,6 @@
       "keywords": [
         "kitsune",
         "shapechanging",
-        "humanoid",
         "fox-person"
       ]
     },
@@ -922,9 +839,6 @@
         "kyton",
         "lawful evil",
         "shadow plane",
-        "fear",
-        "pain",
-        "regeneration",
         "unnerving gaze"
       ]
     },
@@ -937,10 +851,7 @@
       "keywords": [
         "lawful subtype",
         "lawful-aligned",
-        "outer planes",
-        "alignment effects",
-        "damage reduction",
-        "lawful-aligned"
+        "lawful outsider"
       ]
     },
     {
@@ -953,7 +864,6 @@
         "leshy",
         "nature spirit",
         "plant body",
-        "change shape",
         "plantspeech",
         "verdant burst",
         "pass without trace"
@@ -967,7 +877,6 @@
       "description": "Complete rules for mortic subtype including necromantic humanoids, death gasp, and unliving nature",
       "keywords": [
         "mortic",
-        "humanoid",
         "necromantic energy",
         "negative energy",
         "death gasp",
@@ -987,7 +896,6 @@
         "mythic rank",
         "ability score increases",
         "epic",
-        "damage reduction",
         "surge"
       ]
     },
@@ -1017,12 +925,7 @@
       "description": "Complete rules for nightshade subtype including shadow undead, desecrating aura, and light aversion",
       "keywords": [
         "nightshade",
-        "undead",
-        "shadow",
-        "evil",
         "desecrating aura",
-        "channel energy",
-        "darksense",
         "light aversion"
       ]
     },
@@ -1038,8 +941,7 @@
         "humanoid form",
         "native outsider",
         "change shape",
-        "shapechanger",
-        "regeneration"
+        "shapechanger"
       ]
     },
     {
@@ -1051,9 +953,7 @@
       "keywords": [
         "orc",
         "orcs",
-        "half-orcs",
-        "darkvision 60 feet",
-        "light sensitivity"
+        "half-orcs"
       ]
     },
     {
@@ -1068,8 +968,7 @@
         "pure chaos",
         "blindsense",
         "freedom of movement",
-        "amorphous anatomy",
-        "change shape"
+        "amorphous anatomy"
       ]
     },
     {
@@ -1080,7 +979,6 @@
       "description": "Complete rules for psychopomp subtype including neutral outsiders who oversee mortal souls with spirit touch",
       "keywords": [
         "psychopomp",
-        "neutral outsiders",
         "death goddess",
         "mortal souls",
         "spirit touch",
@@ -1095,11 +993,8 @@
       "description": "Complete rules for qlippoth subtype including chaotic evil Abyss outsiders with horrific appearance",
       "keywords": [
         "qlippoth",
-        "chaotic evil",
-        "abyss",
         "horrific appearance",
-        "mind-rending",
-        "telepathy"
+        "mind-rending"
       ]
     },
     {
@@ -1110,7 +1005,6 @@
       "description": "Complete rules for rakshasa subtype including lawful evil spirits with change shape and enhanced defenses",
       "keywords": [
         "rakshasa",
-        "lawful evil spirit",
         "material plane",
         "shapechanger",
         "detect thoughts",
@@ -1125,8 +1019,7 @@
       "includes_subheadings": [],
       "description": "Rules for ratfolk subtype applied to humanoid rodents and related creatures",
       "keywords": [
-        "ratfolk",
-        "humanoid rodents"
+        "ratfolk"
       ]
     },
     {
@@ -1139,7 +1032,6 @@
         "reptilian",
         "scaly",
         "cold-blooded",
-        "humanoid races",
         "true reptiles"
       ]
     },
@@ -1167,7 +1059,6 @@
       "description": "Rules for samsaran subtype including reincarnating humanoid spirits",
       "keywords": [
         "samsaran",
-        "humanoid",
         "reincarnate",
         "spirit"
       ]
@@ -1212,7 +1103,6 @@
         "diminutive",
         "swarm attack",
         "critical hits",
-        "flanking",
         "distraction"
       ]
     },
@@ -1228,7 +1118,6 @@
         "trained soldiers",
         "military unit",
         "troop attack",
-        "area effect",
         "chaos of combat"
       ]
     },
@@ -1253,8 +1142,6 @@
       "description": "Complete rules for unbreathing subtype including undead-like living creatures with death connections",
       "keywords": [
         "unbreathing",
-        "magical beasts",
-        "humanoids",
         "undead appearance",
         "death powers",
         "not breathe",
@@ -1290,11 +1177,10 @@
       "includes_subheadings": [],
       "description": "Rules for water subtype including elemental plane connections and swimming abilities",
       "keywords": [
+        "water",
         "water subtype",
         "elemental planes",
-        "swim speeds",
-        "breathe underwater",
-        "swim skill"
+        "breathe underwater"
       ]
     },
     {
@@ -1317,8 +1203,6 @@
       "description": "Complete rules for wild hunt subtype including chaotic neutral fey with enhanced senses, wild gaze, and hunt link",
       "keywords": [
         "wild hunt",
-        "chaotic neutral",
-        "fey",
         "enhanced senses",
         "wild gaze",
         "wild grace",

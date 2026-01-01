@@ -1,0 +1,60 @@
+{
+  "file": "profession.md",
+  "source_path": "rules/skills/profession.md",
+  "sections": [
+    {
+      "id": "profession",
+      "title": "Profession (Wis, Trained only)",
+      "anchor_heading": "# Profession (Wis, Trained only)",
+      "includes_subheadings": [
+        "### Common Uses",
+        "#### Earn a Living",
+        "### Action",
+        "### Untrained",
+        "### Modifiers",
+        "#### Profession Unchained"
+      ],
+      "description": "Rules for the Profession skill, covering how to earn income through professional work, skill checks for job-related tasks, and unchained skill unlock abilities at higher ranks.",
+      "keywords": [
+        "Profession",
+        "Profession skill",
+        "earn a living",
+        "earn income",
+        "professional work",
+        "skill unlocks",
+        "Profession unchained",
+        "Signature Skill",
+        "architect",
+        "baker",
+        "barrister",
+        "brewer",
+        "butcher",
+        "clerk",
+        "cook",
+        "courtesan",
+        "driver",
+        "engineer",
+        "farmer",
+        "fisherman",
+        "gambler",
+        "gardener",
+        "herbalist",
+        "innkeeper",
+        "librarian",
+        "merchant",
+        "midwife",
+        "miller",
+        "miner",
+        "porter",
+        "sailor",
+        "scribe",
+        "shepherd",
+        "stable master",
+        "soldier",
+        "tanner",
+        "trapper",
+        "woodcutter"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "file": "space-reach-threatened-area-templates.md",
+  "source_path": "rules/space-reach-threatened-area-templates.md",
+  "sections": [
+    {
+      "id": "area_of_effect_templates",
+      "title": "Area of Effect Templates",
+      "anchor_heading": "### Area of Effect Templates",
+      "includes_subheadings": [
+        "#### Circle (5\u2032 radius)"
+      ],
+      "description": "Rules for spell areas of effect including point of origin, counting distance, determining affected creatures, and circle template examples",
+      "keywords": [
+        "area of effect",
+        "spell area",
+        "point of origin",
+        "grid intersection",
+        "circle",
+        "radius",
+        "template"
+      ]
+    },
+    {
+      "id": "areas_of_effect_larger_creatures",
+      "title": "Areas of Effect and Larger Creatures",
+      "anchor_heading": "### Areas of Effect and Larger Creatures",
+      "includes_subheadings": [
+        "#### Cone (30\u2032)",
+        "#### Line (30\u2032)"
+      ],
+      "description": "Optional rules for emanation and burst spells cast by Large or larger creatures, plus cone and line spell templates",
+      "keywords": [
+        "emanation",
+        "burst",
+        "large creatures",
+        "centered on you",
+        "cone",
+        "line",
+        "template",
+        "antimagic field"
+      ]
+    },
+    {
+      "id": "creature_sizes",
+      "title": "Creature Sizes",
+      "anchor_heading": "### Creature Sizes",
+      "includes_subheadings": [],
+      "description": "Comprehensive table of creature size categories with modifiers, space, reach, dimensions, weight, and natural attack damage by size",
+      "keywords": [
+        "creature size",
+        "size modifier",
+        "space",
+        "reach",
+        "natural reach",
+        "combat maneuver",
+        "fly",
+        "stealth",
+        "natural attacks",
+        "damage by size"
+      ]
+    }
+  ],
+  "source_name": "Space, Reach and Threatened Area Templates"
+}

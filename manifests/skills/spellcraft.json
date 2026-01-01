@@ -1,0 +1,39 @@
+{
+  "file": "spellcraft.md",
+  "source_path": "rules/skills/spellcraft.md",
+  "sections": [
+    {
+      "id": "spellcraft",
+      "title": "Spellcraft (Int; Trained Only)",
+      "anchor_heading": "# Spellcraft (Int; Trained Only)",
+      "includes_subheadings": [
+        "### Common Uses",
+        "#### Craft Magic Items",
+        "#### Determine Properties of Magic Item",
+        "#### Identify Spell Being Cast",
+        "#### Learn Spell from Spellbook",
+        "#### Prepare Spell from Borrowed Spellbook",
+        "### Modifiers",
+        "#### Spellcraft Unchained"
+      ],
+      "description": "Rules for the Spellcraft skill, covering identifying spells being cast, learning spells from spellbooks, identifying magic item properties, crafting magic items, and skill unlock abilities.",
+      "keywords": [
+        "Spellcraft",
+        "identify spell",
+        "learn spell",
+        "spellbook",
+        "magic item identification",
+        "craft magic items",
+        "detect magic",
+        "identify magic item properties",
+        "spell identification",
+        "borrowed spellbook",
+        "prepare spell",
+        "decipher scroll",
+        "caster level check",
+        "Spellcraft unchained",
+        "skill unlocks"
+      ]
+    }
+  ]
+}

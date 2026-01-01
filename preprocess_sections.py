@@ -11,10 +11,67 @@ from pathlib import Path
 import anthropic
 from dotenv import load_dotenv
 
-from chunking_prompt import format_prompt
+from chunking_prompt import format_prompt, format_summarize_prompt
 
 # Load environment variables from .env file
 load_dotenv()
+
+# Mapping of source filenames to descriptive names for context
+# These names help the LLM understand what kind of rules each source contains
+SOURCE_NAMES = {
+    "ability-scores.md": "Ability Scores",
+    "afflictions.md": "Afflictions (Curses, Diseases, Poisons)",
+    "combat.md": "Combat Rules",
+    "conditions.md": "Conditions",
+    "creature-types.md": "Creature Types & Subtypes",
+    "exploration-movement.md": "Exploration & Movement",
+    "glossary.md": "Glossary & Common Terms",
+    "magic.md": "Magic Rules",
+    "skills.md": "Skills Overview",
+    "special-abilities.md": "Special Abilities",
+    "universal-monster-rules.md": "Universal Monster Rules",
+    "space-reach-threatened-area-templates.md": "Space, Reach and Threatened Area Templates"
+}
+
+# Categories that use template-based naming: "Category: Item Name"
+# Maps subdirectory name to display category name
+CATEGORY_TEMPLATES = {
+    "skills": "Skill",
+    "spells": "Spell",
+    "feats": "Feat",
+    "class": "Class"
+}
+
+
+def get_source_name(source_path: str) -> str:
+    """Get the descriptive source name for a file.
+
+    Args:
+        source_path: Path relative to project root (e.g., 'rules/skills/acrobatics.md')
+
+    Returns:
+        Descriptive name based on:
+        - Category template for subdirectories (e.g., "Skill: Acrobatics")
+        - SOURCE_NAMES mapping for top-level files
+        - Fallback to title-cased filename
+    """
+    parts = source_path.replace("\\", "/").split("/")
+    filename = parts[-1]
+
+    # Check if file is in a category subdirectory (e.g., rules/skills/acrobatics.md)
+    if len(parts) >= 3:
+        subdir = parts[-2]  # e.g., "skills"
+        if subdir in CATEGORY_TEMPLATES:
+            category = CATEGORY_TEMPLATES[subdir]
+            item_name = filename.replace(".md", "").replace("-", " ").title()
+            return f"{category}: {item_name}"
+
+    # Check top-level SOURCE_NAMES mapping
+    if filename in SOURCE_NAMES:
+        return SOURCE_NAMES[filename]
+
+    # Fallback: capitalize and remove extension
+    return filename.replace(".md", "").replace("-", " ").title()
 
 
 def extract_json_from_response(text: str) -> dict:
@@ -100,9 +157,10 @@ def process_file(
         if "sections" not in manifest:
             raise ValueError("Response missing 'sections' field")
 
-        # Ensure file and source_path are set correctly
+        # Ensure file, source_path, and source_name are set correctly
         manifest["file"] = filename
         manifest["source_path"] = source_path
+        manifest["source_name"] = get_source_name(source_path)
 
         # Write manifest to output file
         output_path = output_dir / f"{file_path.stem}.json"
@@ -111,6 +169,129 @@ def process_file(
 
         if verbose:
             print(f"  -> Generated {len(manifest['sections'])} sections")
+            print(f"  -> Saved to {output_path}")
+
+        return True
+
+    except anthropic.APITimeoutError:
+        print(f"Timeout processing {filename} (exceeded {timeout}s)", file=sys.stderr)
+        return False
+    except anthropic.APIError as e:
+        print(f"API error processing {filename}: {e}", file=sys.stderr)
+        return False
+    except json.JSONDecodeError as e:
+        print(f"JSON parse error for {filename}: {e}", file=sys.stderr)
+        if verbose:
+            print(f"  Response was: {response_text[:500]}...", file=sys.stderr)
+        return False
+    except ValueError as e:
+        print(f"Validation error for {filename}: {e}", file=sys.stderr)
+        return False
+
+
+def extract_title_from_markdown(content: str) -> tuple[str, str]:
+    """Extract the H1 title and anchor heading from markdown content.
+
+    Returns:
+        Tuple of (title, anchor_heading)
+    """
+    match = re.search(r'^(# .+)$', content, re.MULTILINE)
+    if match:
+        anchor_heading = match.group(1)
+        title = anchor_heading[2:]  # Remove "# " prefix
+        return title, anchor_heading
+    return "Unknown", "# Unknown"
+
+
+def process_file_simple(
+    client: anthropic.Anthropic,
+    file_path: Path,
+    rules_dir: Path,
+    output_dir: Path,
+    model: str = "claude-sonnet-4-20250514",
+    verbose: bool = False,
+    timeout: float = 300.0
+) -> bool:
+    """Process a single markdown file in simple mode (whole file = one section).
+
+    Args:
+        client: Anthropic client instance
+        file_path: Path to the markdown file
+        rules_dir: Base rules directory (for computing relative paths)
+        output_dir: Directory to write manifest files
+        model: Claude model to use
+        verbose: Whether to print detailed progress
+        timeout: Request timeout in seconds (default: 300)
+
+    Returns:
+        True if successful, False otherwise
+    """
+    filename = file_path.name
+    # Compute source_path relative to project root (should start with "rules/")
+    try:
+        relative_path = file_path.relative_to(rules_dir.parent)
+        source_path = str(relative_path)
+        # Ensure it starts with "rules/"
+        if not source_path.startswith("rules/"):
+            source_path = f"rules/{source_path}"
+    except ValueError:
+        source_path = f"rules/{filename}"
+
+    if verbose:
+        print(f"Processing {filename} (simple mode)...")
+
+    # Read the markdown content
+    content = file_path.read_text(encoding="utf-8")
+
+    # Extract title from the markdown
+    title, anchor_heading = extract_title_from_markdown(content)
+
+    # Generate section ID from filename
+    section_id = file_path.stem.replace("-", "_")
+
+    # Format the prompt
+    prompt = format_summarize_prompt(content, filename)
+
+    try:
+        # Call Claude API
+        message = client.messages.create(
+            model=model,
+            max_tokens=4096,
+            timeout=timeout,
+            messages=[
+                {"role": "user", "content": prompt}
+            ]
+        )
+
+        response_text = message.content[0].text
+
+        # Extract and parse JSON
+        result = extract_json_from_response(response_text)
+
+        # Build the manifest in the standard format
+        manifest = {
+            "file": filename,
+            "source_path": source_path,
+            "source_name": get_source_name(source_path),
+            "sections": [
+                {
+                    "id": section_id,
+                    "title": title,
+                    "anchor_heading": anchor_heading,
+                    "includes_subheadings": result.get("subheadings", []),
+                    "description": result.get("description", ""),
+                    "keywords": result.get("keywords", [])
+                }
+            ]
+        }
+
+        # Write manifest to output file
+        output_path = output_dir / f"{file_path.stem}.json"
+        with open(output_path, "w", encoding="utf-8") as f:
+            json.dump(manifest, f, indent=2)
+
+        if verbose:
+            print(f"  -> Generated 1 section with {len(result.get('keywords', []))} keywords")
             print(f"  -> Saved to {output_path}")
 
         return True
@@ -168,6 +349,16 @@ def main():
         default=300.0,
         help="API request timeout in seconds (default: 300)"
     )
+    parser.add_argument(
+        "--simple",
+        action="store_true",
+        help="Simple mode: treat each file as a single section (for pre-split content like skills)"
+    )
+    parser.add_argument(
+        "--force",
+        action="store_true",
+        help="Force reprocessing of all files, overwriting existing manifests"
+    )
 
     args = parser.parse_args()
 
@@ -200,17 +391,48 @@ def main():
         print("No markdown files found to process", file=sys.stderr)
         sys.exit(1)
 
-    print(f"Processing {len(files)} file(s)...")
+    mode_str = " (simple mode)" if args.simple else ""
+
+    # Filter out files that already have manifests (unless --force)
+    files_to_process = []
+    skipped_count = 0
+    for file_path in files:
+        manifest_path = args.output_dir / f"{file_path.stem}.json"
+        if manifest_path.exists() and not args.force:
+            skipped_count += 1
+            if args.verbose:
+                print(f"Skipping {file_path.name} (manifest exists)")
+        else:
+            files_to_process.append(file_path)
+
+    if skipped_count > 0:
+        print(f"Skipping {skipped_count} file(s) with existing manifests (use --force to overwrite)")
+
+    if not files_to_process:
+        print("No files to process")
+        return
+
+    print(f"Processing {len(files_to_process)} file(s){mode_str}...")
 
     # Process each file
     success_count = 0
-    for file_path in files:
-        if process_file(client, file_path, args.output_dir, args.model, args.verbose, args.timeout):
+    for file_path in files_to_process:
+        if args.simple:
+            success = process_file_simple(
+                client, file_path, args.rules_dir, args.output_dir,
+                args.model, args.verbose, args.timeout
+            )
+        else:
+            success = process_file(
+                client, file_path, args.output_dir,
+                args.model, args.verbose, args.timeout
+            )
+        if success:
             success_count += 1
 
-    print(f"\nCompleted: {success_count}/{len(files)} files processed successfully")
+    print(f"\nCompleted: {success_count}/{len(files_to_process)} files processed successfully")
 
-    if success_count < len(files):
+    if success_count < len(files_to_process):
         sys.exit(1)
 
 

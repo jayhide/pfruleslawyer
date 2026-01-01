@@ -1,0 +1,37 @@
+{
+  "file": "intimidate.md",
+  "source_path": "rules/skills/intimidate.md",
+  "sections": [
+    {
+      "id": "intimidate",
+      "title": "Intimidate (Cha)",
+      "anchor_heading": "# Intimidate (Cha)",
+      "includes_subheadings": [
+        "### Common Uses",
+        "#### Coerce Opponent",
+        "#### Demoralize Opponent",
+        "#### Influence Opponent's Attitude",
+        "### Modifiers",
+        "#### Intimidate Unchained"
+      ],
+      "description": "Rules for the Intimidate skill, covering how to demoralize opponents, coerce targets into compliance, influence attitudes through fear, and skill unlock abilities at higher ranks.",
+      "keywords": [
+        "Intimidate",
+        "intimidate skill",
+        "demoralize",
+        "demoralize opponent",
+        "coerce opponent",
+        "coercion",
+        "influence attitude",
+        "frightened",
+        "shaken",
+        "panicked",
+        "cowering",
+        "fear effects",
+        "intimidate unchained",
+        "skill unlocks",
+        "signature skill"
+      ]
+    }
+  ]
+}

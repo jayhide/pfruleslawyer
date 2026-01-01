@@ -1,0 +1,44 @@
+{
+  "file": "use-magic-device.md",
+  "source_path": "rules/skills/use-magic-device.md",
+  "sections": [
+    {
+      "id": "use_magic_device",
+      "title": "Use Magic Device (Cha; Trained Only)",
+      "anchor_heading": "# Use Magic Device (Cha; Trained Only)",
+      "includes_subheadings": [
+        "### Common Uses",
+        "#### Cause Mishap",
+        "#### Read Spell/Activate Magic Item",
+        "### Restrictions",
+        "### Action",
+        "### Retry?",
+        "### Modifiers",
+        "#### Use Magic Device Unchained"
+      ],
+      "description": "Covers the Use Magic Device skill mechanics for activating magic items without proper training, including various emulation techniques, mishap rules, and skill unlock abilities.",
+      "keywords": [
+        "Use Magic Device",
+        "UMD",
+        "activate magic item",
+        "magic item activation",
+        "emulate class feature",
+        "emulate race",
+        "emulate alignment",
+        "emulate ability score",
+        "activate blindly",
+        "decipher written spell",
+        "use scroll",
+        "use wand",
+        "spell trigger item",
+        "magic mishap",
+        "cause mishap",
+        "Pragmatic Activator",
+        "Dangerously Curious",
+        "Magical Aptitude",
+        "skill unlock",
+        "unchained"
+      ]
+    }
+  ]
+}

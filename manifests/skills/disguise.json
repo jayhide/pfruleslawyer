@@ -1,0 +1,42 @@
+{
+  "file": "disguise.md",
+  "source_path": "rules/skills/disguise.md",
+  "sections": [
+    {
+      "id": "disguise",
+      "title": "Disguise (Cha)",
+      "anchor_heading": "# Disguise (Cha)",
+      "includes_subheadings": [
+        "### Check",
+        "### Action/Time",
+        "### Modifiers",
+        "#### Disguise Unchained"
+      ],
+      "description": "Rules for the Disguise skill, including check mechanics, difficulty modifiers based on appearance changes, familiarity bonuses for impersonation, and unchained skill unlock abilities.",
+      "keywords": [
+        "Disguise",
+        "disguise check",
+        "impersonation",
+        "appearance change",
+        "disguise self",
+        "Perception check",
+        "familiarity bonus",
+        "disguise unchained",
+        "skill unlock",
+        "Signature Skill",
+        "disguise modifier",
+        "age category",
+        "gender disguise",
+        "race disguise",
+        "size category",
+        "simulacrum",
+        "alter self",
+        "polymorph",
+        "shapechange",
+        "veil spell",
+        "true seeing",
+        "Deceitful feat"
+      ]
+    }
+  ]
+}

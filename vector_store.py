@@ -27,8 +27,8 @@ TITLE_MATCH_BOOST = 0.3
 # Reranking weights (must sum to 1.0)
 # Higher RERANK_WEIGHT means cross-encoder has more influence on final ranking
 # Higher RETRIEVAL_WEIGHT preserves more of the original semantic + keyword ranking
-RERANK_WEIGHT = 0.5
-RETRIEVAL_WEIGHT = 0.5
+RERANK_WEIGHT = 0.4
+RETRIEVAL_WEIGHT = 0.6
 
 # spaCy model for lemmatization
 SPACY_MODEL = "en_core_web_sm"
@@ -175,10 +175,13 @@ class Reranker:
         model = self._ensure_model()
 
         # Build query-document pairs for cross-encoder
-        # Use title + description for clean, focused text
+        # Use source name + title + description for clean, focused text
         pairs = []
         for result in results:
-            doc_text = f"{result.get('title', '')} - {result.get('description', '')}"
+            source = result.get('source_name', '')
+            title = result.get('title', '')
+            desc = result.get('description', '')
+            doc_text = f"{title} ({source}) - {desc}"
             pairs.append((query, doc_text))
 
         # Get relevance scores from cross-encoder
@@ -263,14 +266,20 @@ class RulesVectorStore:
             lemmas = lemmatizer.lemmatize(phrase)
             return " ".join(lemmas) if lemmas else phrase.lower()
 
-        for manifest_path in self.manifests_dir.glob("*.json"):
+        for manifest_path in self.manifests_dir.glob("**/*.json"):
             with open(manifest_path, encoding="utf-8") as f:
                 manifest = json.load(f)
 
             source_file = manifest["file"]
+            # Use source_path to match vector store IDs (same logic as SectionExtractor)
+            source_path = manifest.get("source_path", f"rules/{source_file}")
+
+            source_name = manifest.get("source_name")
+            if not source_name:
+                source_name = source_file.replace(".md", "").replace("-", " ").title()
 
             for section in manifest["sections"]:
-                unique_id = f"{source_file}::{section['id']}"
+                unique_id = f"{source_path}::{section['id']}"
 
                 # Store metadata
                 self._section_metadata[unique_id] = {
@@ -278,6 +287,7 @@ class RulesVectorStore:
                     "description": section["description"],
                     "keywords": section["keywords"],
                     "source_file": source_file,
+                    "source_name": source_name,
                     "anchor_heading": section["anchor_heading"],
                     "includes_subheadings": section.get("includes_subheadings", [])
                 }
@@ -312,6 +322,16 @@ class RulesVectorStore:
                     if anchor_lemma not in self._title_index:
                         self._title_index[anchor_lemma] = []
                     self._title_index[anchor_lemma].append(unique_id)
+
+    @staticmethod
+    def _fallback_source_name(source_path: str) -> str:
+        """Generate a display name from source path when source_name is missing.
+
+        Uses the same logic as preprocess_sections.get_source_name() for consistency.
+        """
+        # Import here to avoid circular imports
+        from preprocess_sections import get_source_name
+        return get_source_name(source_path)
 
     @staticmethod
     def _cosine_distance(vec1: list[float], vec2: list[float]) -> float:
@@ -450,6 +470,7 @@ Keywords: {keywords_str}
                     "description": section.description,
                     "keywords": keywords_str,
                     "source_file": section.source_file,
+                    "source_name": section.source_name,
                     "anchor_heading": section.anchor_heading,
                     "content_length": len(section.content)
                 })
@@ -520,6 +541,7 @@ Keywords: {keywords_str}
                 "description": results["metadatas"][0][i]["description"],
                 "keywords": results["metadatas"][0][i]["keywords"],
                 "source_file": results["metadatas"][0][i]["source_file"],
+                "source_name": results["metadatas"][0][i].get("source_name") or self._fallback_source_name(results["metadatas"][0][i]["source_file"]),
                 "distance": results["distances"][0][i],
                 "score": final_score,
                 "semantic_score": semantic_score,
@@ -556,6 +578,7 @@ Keywords: {keywords_str}
                     "description": extra_results["metadatas"][i]["description"],
                     "keywords": extra_results["metadatas"][i]["keywords"],
                     "source_file": extra_results["metadatas"][i]["source_file"],
+                    "source_name": extra_results["metadatas"][i].get("source_name") or self._fallback_source_name(extra_results["metadatas"][i]["source_file"]),
                     "distance": distance,
                     "score": semantic_score + total_boost,
                     "semantic_score": semantic_score,

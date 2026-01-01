@@ -1,0 +1,51 @@
+{
+  "file": "swashbuckler.md",
+  "source_path": "rules/class/swashbuckler.md",
+  "source_name": "Class: Swashbuckler",
+  "sections": [
+    {
+      "id": "swashbuckler",
+      "title": "Swashbuckler",
+      "anchor_heading": "# Swashbuckler",
+      "includes_subheadings": [
+        "### Class Skills",
+        "### Class Features",
+        "#### Weapon and Armor Proficiency",
+        "#### Panache (Ex)",
+        "#### Deeds",
+        "#### Deeds of Renown",
+        "#### Swashbuckler Finesse (Ex)",
+        "#### Charmed Life (Ex)",
+        "#### Nimble (Ex)",
+        "#### Bonus Feats",
+        "#### Swashbuckler Weapon Training (Ex)",
+        "#### Swashbuckler Weapon Mastery (Ex)",
+        "### Alternative Capstone Ability",
+        "#### Incredible Luck (Ex)",
+        "### Swashbuckler Archetypes"
+      ],
+      "description": "Rules for the Swashbuckler class, covering class features like panache, deeds, weapon finesse, charmed life, and various combat abilities focused on light piercing weapons.",
+      "keywords": [
+        "swashbuckler",
+        "panache",
+        "deeds",
+        "swashbuckler finesse",
+        "charmed life",
+        "nimble",
+        "precise strike",
+        "opportune parry and riposte",
+        "dodging panache",
+        "derring-do",
+        "swashbuckler weapon training",
+        "swashbuckler weapon mastery",
+        "targeted strike",
+        "bleeding wound",
+        "cheat death",
+        "deadly stab",
+        "stunning stab",
+        "deeds of renown",
+        "swashbuckler archetypes"
+      ]
+    }
+  ]
+}

@@ -2,6 +2,7 @@
 """Scrape a URL and convert its content to markdown."""
 
 import argparse
+import re
 import sys
 from urllib.parse import urlparse
 
@@ -17,6 +18,12 @@ def fetch_url(url: str) -> str:
     }
     response = requests.get(url, headers=headers, timeout=30)
     response.raise_for_status()
+
+    # Use apparent_encoding for better detection of actual encoding
+    # requests often guesses wrong from HTTP headers alone
+    if response.encoding is None or response.encoding.lower() == 'iso-8859-1':
+        response.encoding = response.apparent_encoding
+
     return response.text
 
 
@@ -49,6 +56,29 @@ def html_to_markdown(html: str) -> str:
     return converter.handle(str(main_content))
 
 
+def remove_links(content: str) -> str:
+    """Remove markdown links, keeping only the link text."""
+    pattern = r'\[([^\]]+)\]\([^)]+\)'
+    return re.sub(pattern, r'\1', content)
+
+
+def truncate_at_copyright(content: str) -> str:
+    """Remove everything after 'Section 15: Copyright Notice'."""
+    marker = "Section 15: Copyright Notice"
+    idx = content.find(marker)
+    if idx != -1:
+        return content[:idx].rstrip()
+    return content
+
+
+def skip_to_first_heading(content: str) -> str:
+    """Remove everything before the first H1 heading."""
+    match = re.search(r'^# ', content, re.MULTILINE)
+    if match:
+        return content[match.start():]
+    return content
+
+
 def save_markdown(content: str, output_path: str) -> None:
     """Save markdown content to a file."""
     with open(output_path, "w", encoding="utf-8") as f:
@@ -79,6 +109,9 @@ def main():
 
         print("Converting to markdown...")
         markdown = html_to_markdown(html)
+        markdown = skip_to_first_heading(markdown)
+        markdown = remove_links(markdown)
+        markdown = truncate_at_copyright(markdown)
 
         print(f"Saving to {args.output}...")
         save_markdown(markdown, args.output)

@@ -608,8 +608,7 @@
       "keywords": [
         "fast swallow",
         "swallow whole",
-        "free action",
-        "turn"
+        "free action"
       ]
     },
     {
@@ -1174,15 +1173,12 @@
       "title": "Pounce",
       "anchor_heading": "### Pounce (Ex)",
       "includes_subheadings": [],
-      "description": "Full attack after charging including rake attacks",
+      "description": "Special ability some monsters have that enables a full attack after charging including rake attacks",
       "keywords": [
         "pounce",
         "charge",
         "full attack",
-        "rake",
-        "iterative attacks",
-        "haste",
-        "slow"
+        "rake"
       ]
     },
     {
@@ -1190,13 +1186,9 @@
       "title": "Powerful Blows",
       "anchor_heading": "### Powerful Blows (Ex)",
       "includes_subheadings": [],
-      "description": "Enhanced damage bonus for specific natural attacks",
+      "description": "Special ability some monsters have that causes enhanced damage bonus for specific natural attacks",
       "keywords": [
-        "powerful blows",
-        "strength bonus",
-        "damage",
-        "natural attacks",
-        "slam"
+        "powerful blows"
       ]
     },
     {
@@ -1204,13 +1196,11 @@
       "title": "Powerful Charge",
       "anchor_heading": "### Powerful Charge (Ex)",
       "includes_subheadings": [],
-      "description": "Extra damage when making charge attacks",
+      "description": "Special ability some monsters have that causes damage when making charge attacks",
       "keywords": [
         "powerful charge",
-        "charge",
         "extra damage",
-        "gore",
-        "charging"
+        "gore"
       ]
     },
     {
@@ -1665,12 +1655,11 @@
       "title": "Trip",
       "anchor_heading": "### Trip (Ex)",
       "includes_subheadings": [],
-      "description": "Free trip combat maneuver after successful specified attacks",
+      "description": "Special ability some cratures have that enables a free trip combat maneuver after successful specified attacks",
       "keywords": [
         "trip",
         "combat maneuver",
         "free action",
-        "attack of opportunity",
         "bite"
       ]
     },
