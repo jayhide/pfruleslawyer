@@ -1,0 +1,43 @@
+{
+  "file": "bluff.md",
+  "source_path": "https://www.d20pfsrd.com/skills/bluff/",
+  "source_name": "Skill: Bluff (Cha)",
+  "sections": [
+    {
+      "id": "bluff",
+      "title": "Bluff (Cha)",
+      "anchor_heading": "# Bluff (Cha)",
+      "includes_subheadings": [
+        "### Check",
+        "### Common Uses",
+        "#### Convey Secret Message",
+        "#### Deceive or Lie",
+        "#### Feign Harmlessness",
+        "#### Feint in Combat",
+        "#### Perform Inconspicuous Action",
+        "#### Suggest Course of Action",
+        "### Actions Used",
+        "### Modifiers",
+        "#### Bluff Unchained",
+        "### Unofficial Extras!"
+      ],
+      "description": "Rules for the Bluff skill, covering deception, lying, feinting in combat, conveying secret messages, and other uses of misdirection and verbal manipulation.",
+      "keywords": [
+        "Bluff",
+        "feint",
+        "feinting",
+        "secret message",
+        "deceive",
+        "lie",
+        "feign harmlessness",
+        "inconspicuous action",
+        "suggest course of action",
+        "fast-talk",
+        "feign injury",
+        "quick secret message",
+        "Bluff Unchained",
+        "skill unlock"
+      ]
+    }
+  ]
+}

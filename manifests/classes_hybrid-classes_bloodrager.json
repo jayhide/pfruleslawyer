@@ -1,0 +1,54 @@
+{
+  "file": "bloodrager.md",
+  "source_path": "https://www.d20pfsrd.com/classes/hybrid-classes/bloodrager/",
+  "source_name": "Class: Bloodrager",
+  "sections": [
+    {
+      "id": "bloodrager",
+      "title": "Bloodrager",
+      "anchor_heading": "# Bloodrager",
+      "includes_subheadings": [
+        "### Class Skills",
+        "#### Weapon and Armor Proficiency",
+        "#### Bloodline",
+        "### Bloodrager Bloodlines",
+        "#### Bloodrage (Su)",
+        "#### Fast Movement (Ex)",
+        "#### Uncanny Dodge (Ex)",
+        "#### Blood Sanctuary (Su)",
+        "#### Blood Casting (Su)",
+        "#### Eschew Materials",
+        "#### Spell Casting",
+        "### Bloodrager Spells",
+        "#### Improved Uncanny Dodge (Ex)",
+        "#### Damage Reduction (Ex)",
+        "#### Greater Bloodrage (Su)",
+        "#### Indomitable Will (Ex)",
+        "#### Tireless Bloodrage (Su)",
+        "#### Mighty Bloodrage (Su)",
+        "### Alternative Capstone Ability",
+        "#### Empowered Bloodrage (Su)"
+      ],
+      "description": "Comprehensive rules for the Bloodrager hybrid class, including class features, bloodlines, spells, archetypes, and bloodrage mechanics that combine barbarian rage with sorcerer-like spellcasting.",
+      "keywords": [
+        "bloodrager",
+        "bloodrage",
+        "bloodline",
+        "blood casting",
+        "blood sanctuary",
+        "fast movement",
+        "uncanny dodge",
+        "improved uncanny dodge",
+        "damage reduction",
+        "greater bloodrage",
+        "indomitable will",
+        "tireless bloodrage",
+        "mighty bloodrage",
+        "eschew materials",
+        "bloodrager spells",
+        "bloodrager bloodlines",
+        "empowered bloodrage"
+      ]
+    }
+  ]
+}

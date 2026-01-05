@@ -1,0 +1,45 @@
+{
+  "file": "fighter.md",
+  "source_path": "https://www.d20pfsrd.com/classes/core-classes/fighter/",
+  "source_name": "Class: Fighter",
+  "sections": [
+    {
+      "id": "fighter",
+      "title": "Fighter",
+      "anchor_heading": "# Fighter",
+      "includes_subheadings": [
+        "### Class Skills",
+        "#### Weapon and Armor Proficiency",
+        "#### Bonus Feats",
+        "#### Bravery (Ex)",
+        "#### Armor Training (Ex)",
+        "#### Weapon Training (Ex)",
+        "#### Armor Mastery (Ex)",
+        "#### Weapon Mastery (Ex)",
+        "### Advanced Armor Training",
+        "### Advanced Weapon Training",
+        "### Alternative Capstone Ability",
+        "#### Veteran of Endless War (Ex)"
+      ],
+      "description": "Covers the Fighter class mechanics including class features like bonus feats, weapon training, armor training, bravery, advanced training options, and alternative capstone abilities.",
+      "keywords": [
+        "fighter",
+        "bonus feats",
+        "weapon training",
+        "armor training",
+        "bravery",
+        "armor mastery",
+        "weapon mastery",
+        "advanced weapon training",
+        "advanced armor training",
+        "weapon groups",
+        "combat feats",
+        "fighter archetype",
+        "fighter class features",
+        "fighter levels",
+        "fighter progression",
+        "veteran of endless war"
+      ]
+    }
+  ]
+}

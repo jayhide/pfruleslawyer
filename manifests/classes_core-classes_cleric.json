@@ -1,0 +1,46 @@
+{
+  "file": "cleric.md",
+  "source_path": "https://www.d20pfsrd.com/classes/core-classes/cleric/",
+  "source_name": "Class: Cleric",
+  "sections": [
+    {
+      "id": "cleric",
+      "title": "Cleric",
+      "anchor_heading": "# Cleric",
+      "includes_subheadings": [
+        "### Class Skills",
+        "### Class Features",
+        "#### Weapon and Armor Proficiency",
+        "#### Aura (Ex)",
+        "#### Spellcasting",
+        "#### Orisons",
+        "#### Channel Energy (Su)",
+        "#### Domains",
+        "#### Spontaneous Casting",
+        "#### Bonus Languages",
+        "### Alternative Capstone Ability",
+        "#### Proxy (Su)",
+        "## Ex-Clerics",
+        "## Favored Class Bonuses",
+        "## Archetypes & Alternate Class Features"
+      ],
+      "description": "Comprehensive rules for the Cleric class in Pathfinder 1e, covering all class features, progression, abilities, domains, and archetypes.",
+      "keywords": [
+        "cleric",
+        "channel energy",
+        "domains",
+        "spontaneous casting",
+        "orisons",
+        "divine spells",
+        "aura",
+        "weapon proficiency",
+        "armor proficiency",
+        "ex-clerics",
+        "favored class bonuses",
+        "cleric archetypes",
+        "alternative capstone",
+        "proxy"
+      ]
+    }
+  ]
+}

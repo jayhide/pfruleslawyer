@@ -1,0 +1,40 @@
+{
+  "file": "sleight-of-hand.md",
+  "source_path": "https://www.d20pfsrd.com/skills/sleight-of-hand/",
+  "source_name": "Skill: Sleight Of Hand (Dex; Trained Only; Armor Check Penalty)",
+  "sections": [
+    {
+      "id": "sleight_of_hand",
+      "title": "Sleight Of Hand (Dex; Trained Only; Armor Check Penalty)",
+      "anchor_heading": "# Sleight Of Hand (Dex; Trained Only; Armor Check Penalty)",
+      "includes_subheadings": [
+        "### Common Uses",
+        "#### Draw Hidden Weapon",
+        "#### Entertain",
+        "#### Hide Object",
+        "#### Palm Weapon",
+        "#### Take Something Unnoticed",
+        "### Action",
+        "### Untrained",
+        "### Modifiers",
+        "#### Sleight of Hand Unchained",
+        "### Unofficial Extras!"
+      ],
+      "description": "Covers the Sleight of Hand skill mechanics including DCs, common uses like pickpocketing and hiding objects, drawing hidden weapons, entertaining, and skill unlock abilities for high-rank characters.",
+      "keywords": [
+        "Sleight of Hand",
+        "pickpocket",
+        "hide object",
+        "draw hidden weapon",
+        "palm weapon",
+        "take something unnoticed",
+        "entertain",
+        "legerdemain",
+        "conceal weapon",
+        "steal maneuver",
+        "skill unlock",
+        "Deft Hands"
+      ]
+    }
+  ]
+}

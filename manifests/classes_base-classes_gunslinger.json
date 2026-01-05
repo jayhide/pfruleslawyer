@@ -1,0 +1,61 @@
+{
+  "file": "gunslinger.md",
+  "source_path": "https://www.d20pfsrd.com/classes/base-classes/gunslinger/",
+  "source_name": "Class: Gunslinger",
+  "sections": [
+    {
+      "id": "gunslinger",
+      "title": "Gunslinger",
+      "anchor_heading": "# Gunslinger",
+      "includes_subheadings": [
+        "### Class Skills",
+        "### Class Features",
+        "#### Weapon and Armor Proficiency",
+        "#### Gunsmith",
+        "#### Grit (Ex)",
+        "#### Deeds",
+        "#### Deeds of Renown",
+        "### Daring Act & Dares",
+        "#### Daring Act",
+        "#### Dares",
+        "#### Nimble (Ex)",
+        "#### Bonus Feats",
+        "#### Gun Training (Ex)",
+        "#### True Grit (Ex)",
+        "### Alternative Capstone Ability",
+        "#### Personal Armory (Ex)"
+      ],
+      "description": "Contains the complete Gunslinger class rules including class features, grit system, deeds, archetypes, and favored class bonuses for various races.",
+      "keywords": [
+        "gunslinger",
+        "grit",
+        "deeds",
+        "firearms",
+        "gunsmith",
+        "gun training",
+        "nimble",
+        "true grit",
+        "deadeye",
+        "quick clear",
+        "pistol-whip",
+        "utility shot",
+        "dead shot",
+        "targeting",
+        "bleeding wound",
+        "lightning reload",
+        "evasive",
+        "menacing shot",
+        "cheat death",
+        "death's shot",
+        "stunning shot",
+        "dares",
+        "daring act",
+        "deeds of renown",
+        "thundering shot",
+        "gruesome parry",
+        "lethal patience",
+        "personal armory"
+      ]
+    }
+  ]
+}

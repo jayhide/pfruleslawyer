@@ -1,0 +1,41 @@
+{
+  "file": "knowledge.md",
+  "source_path": "https://www.d20pfsrd.com/skills/knowledge/",
+  "source_name": "Skill: Knowledge (Int; Trained Only)",
+  "sections": [
+    {
+      "id": "knowledge",
+      "title": "Knowledge (Int; Trained Only)",
+      "anchor_heading": "# Knowledge (Int; Trained Only)",
+      "includes_subheadings": [
+        "### Common Uses",
+        "#### General Knowledge",
+        "#### Monster Lore",
+        "### Modifiers",
+        "#### Recall Intrigues (Knowledge)",
+        "#### Knowledge Unchained"
+      ],
+      "description": "Covers the Knowledge skill rules including different specialties (Arcana, Dungeoneering, Engineering, etc.), DC tables for various knowledge tasks, monster identification mechanics, and optional unchained skill unlock abilities.",
+      "keywords": [
+        "Knowledge",
+        "Knowledge skill",
+        "monster lore",
+        "identify monster",
+        "Knowledge Arcana",
+        "Knowledge Dungeoneering",
+        "Knowledge Engineering",
+        "Knowledge Geography",
+        "Knowledge History",
+        "Knowledge Local",
+        "Knowledge Nature",
+        "Knowledge Nobility",
+        "Knowledge Planes",
+        "Knowledge Religion",
+        "recall intrigues",
+        "Knowledge Unchained",
+        "skill unlocks",
+        "general knowledge"
+      ]
+    }
+  ]
+}

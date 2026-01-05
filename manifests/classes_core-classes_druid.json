@@ -1,0 +1,59 @@
+{
+  "file": "druid.md",
+  "source_path": "https://www.d20pfsrd.com/classes/core-classes/druid/",
+  "source_name": "Class: Druid",
+  "sections": [
+    {
+      "id": "druid",
+      "title": "Druid",
+      "anchor_heading": "# Druid",
+      "includes_subheadings": [
+        "### Class Skills",
+        "#### Weapon and Armor Proficiency",
+        "#### Spells",
+        "#### Spontaneous Casting",
+        "#### Chaotic, Evil, Good, and Lawful Spells",
+        "#### Orisons (Sp)",
+        "#### Bonus Languages",
+        "#### Nature Bond (Ex)",
+        "##### Druidic Herbalism Nature Bond Variant (Optional)",
+        "#### Nature Sense (Ex)",
+        "#### Wild Empathy (Ex)",
+        "#### Woodland Stride (Ex)",
+        "#### Trackless Step (Ex)",
+        "#### Resist Nature's Lure (Ex)",
+        "#### Wild Shape (Su)",
+        "#### Venom Immunity (Ex)",
+        "#### A Thousand Faces (Su)",
+        "#### Timeless Body (Ex)",
+        "### Alternative Capstone Ability",
+        "#### Home Ground (Su)"
+      ],
+      "description": "Comprehensive rules for the Druid core class, including all class features, abilities, archetypes, and animal companion mechanics for nature-focused spellcasters.",
+      "keywords": [
+        "druid",
+        "nature bond",
+        "wild shape",
+        "animal companion",
+        "wild empathy",
+        "woodland stride",
+        "trackless step",
+        "resist nature's lure",
+        "venom immunity",
+        "thousand faces",
+        "timeless body",
+        "orisons",
+        "spontaneous casting",
+        "summon nature's ally",
+        "druidic",
+        "nature sense",
+        "domains",
+        "terrain domains",
+        "animal domains",
+        "druidic herbalism",
+        "ex-druid",
+        "favored class bonuses"
+      ]
+    }
+  ]
+}

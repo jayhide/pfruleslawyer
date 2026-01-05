@@ -1,0 +1,56 @@
+{
+  "file": "vampire-hunter.md",
+  "source_path": "https://www.d20pfsrd.com/classes/base-classes/vampire-hunter/",
+  "source_name": "Class: Vampire Hunter",
+  "sections": [
+    {
+      "id": "vampire_hunter",
+      "title": "Vampire Hunter",
+      "anchor_heading": "# Vampire Hunter",
+      "includes_subheadings": [
+        "### Class Skills",
+        "#### Weapon and Armor Proficiency",
+        "#### Detect Undead (Sp)",
+        "#### Technique Feat",
+        "#### Track (Ex)",
+        "#### Vampiric Focus (Su)",
+        "#### Relentless (Ex)",
+        "#### Stake (Su)",
+        "#### Spellcasting",
+        "#### Relentless Band (Ex)",
+        "#### Vampire Tracker (Ex)",
+        "#### Swift Tracker (Ex)",
+        "#### Vampire Bane (Su)",
+        "#### Remove Vampirism (Su)",
+        "#### Quarry (Ex)",
+        "#### Critical Reflexes (Su)",
+        "#### Improved Quarry (Ex)",
+        "#### Master Vampire Hunter (Ex)",
+        "### Favored Class Bonuses",
+        "### Variant Multiclassing",
+        "### Mythic Vampire Hunter"
+      ],
+      "description": "Comprehensive rules for the Vampire Hunter class, including class features, spellcasting, vampiric focus abilities, and specialized abilities for hunting undead creatures and vampires.",
+      "keywords": [
+        "vampire hunter",
+        "vampiric focus",
+        "detect undead",
+        "technique feat",
+        "relentless",
+        "stake",
+        "vampire bane",
+        "remove vampirism",
+        "quarry",
+        "critical reflexes",
+        "master vampire hunter",
+        "vampire tracker",
+        "relentless band",
+        "swift tracker",
+        "improved quarry",
+        "undead hunting",
+        "mythic vampire hunter",
+        "variant multiclassing vampire hunter"
+      ]
+    }
+  ]
+}

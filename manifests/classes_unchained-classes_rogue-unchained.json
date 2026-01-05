@@ -1,0 +1,49 @@
+{
+  "file": "rogue-unchained.md",
+  "source_path": "https://www.d20pfsrd.com/classes/unchained-classes/rogue-unchained/",
+  "source_name": "Class: Unchained Rogue",
+  "sections": [
+    {
+      "id": "rogue_unchained",
+      "title": "Unchained Rogue",
+      "anchor_heading": "# Unchained Rogue",
+      "includes_subheadings": [
+        "### Class Skills",
+        "#### Weapon and Armor Proficiency",
+        "#### Sneak Attack",
+        "#### Trapfinding",
+        "#### Finesse Training (Ex)",
+        "#### Evasion (Ex)",
+        "#### Rogue Talents",
+        "#### Danger Sense (Ex)",
+        "#### Debilitating Injury (Ex)",
+        "#### Uncanny Dodge (Ex)",
+        "#### Rogue's Edge (Ex)",
+        "#### Improved Uncanny Dodge (Ex)",
+        "#### Advanced Talents",
+        "#### Master Strike (Ex)",
+        "### Alternative Capstone Ability",
+        "#### Masterful Talent (Ex)",
+        "### Unmodified Rogue Talents"
+      ],
+      "description": "Covers the Unchained Rogue class with its enhanced features including debilitating injury, finesse training, rogue's edge with skill unlocks, and improved class progression compared to the original rogue.",
+      "keywords": [
+        "unchained rogue",
+        "debilitating injury",
+        "finesse training",
+        "rogue's edge",
+        "skill unlocks",
+        "sneak attack",
+        "trapfinding",
+        "evasion",
+        "uncanny dodge",
+        "improved uncanny dodge",
+        "master strike",
+        "rogue talents",
+        "advanced talents",
+        "danger sense",
+        "masterful talent"
+      ]
+    }
+  ]
+}

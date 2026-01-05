@@ -1,0 +1,52 @@
+{
+  "file": "shaman.md",
+  "source_path": "https://www.d20pfsrd.com/classes/hybrid-classes/shaman/",
+  "source_name": "Class: Shaman",
+  "sections": [
+    {
+      "id": "shaman",
+      "title": "Shaman",
+      "anchor_heading": "# Shaman",
+      "includes_subheadings": [
+        "### Class Skills",
+        "#### Weapon and Armor Proficiency",
+        "#### Spell Casting",
+        "#### Orisons",
+        "#### Spirit (Su)",
+        "#### Spirit Animal (Ex)",
+        "#### Spirit Animal",
+        "#### Spirit Magic",
+        "#### Hex",
+        "#### Wandering Spirit (Su)",
+        "#### Wandering Hex",
+        "#### Manifestation (Su)",
+        "#### Hex Mastery (Su)",
+        "### Spirits",
+        "### Shaman Spells",
+        "### Spirit Specialization Variant (Optional)",
+        "#### Shell of Succor (Su)",
+        "#### Spirit Boost (Su)",
+        "#### Spirit of Life (Su)"
+      ],
+      "description": "Comprehensive rules for the shaman hybrid class including spellcasting, spirit bonds, hexes, wandering spirits, and spirit animals.",
+      "keywords": [
+        "shaman",
+        "spirit",
+        "spirit animal",
+        "hex",
+        "wandering spirit",
+        "wandering hex",
+        "spirit magic",
+        "manifestation",
+        "orisons",
+        "shaman spells",
+        "spirit specialization",
+        "restoration",
+        "shell of succor",
+        "spirit boost",
+        "spirit of life",
+        "hex mastery"
+      ]
+    }
+  ]
+}

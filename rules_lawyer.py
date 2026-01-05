@@ -41,16 +41,34 @@ SEARCH_TOOL = {
     }
 }
 
+FOLLOW_LINK_TOOL = {
+    "name": "follow_link",
+    "description": "Follow a link to retrieve the rules content at that URL. Use this when you see a link in the rules text that you want to read. Supports URLs with fragments (e.g., #TOC-Grapple) to jump to specific sections.",
+    "input_schema": {
+        "type": "object",
+        "properties": {
+            "url": {
+                "type": "string",
+                "description": "The URL to follow (can include #fragment to jump to a specific section)"
+            }
+        },
+        "required": ["url"]
+    }
+}
+
 SYSTEM_PROMPT = """You are a Pathfinder 1st Edition rules expert. You will be provided with relevant rules context to answer questions.
 
-If you need additional rules information not covered in the provided context, use the search_rules tool to look up more rules and definitions.
+You have two tools available:
+- search_rules: Search for rules by topic when you need information not in the provided context
+- follow_link: Follow a URL link in the rules text to read the linked content
 
 Guidelines:
 - Base your answer on the rules provided and any additional rules you retrieve
-- Pay close attention to specific wording and constraints.
-- If a rule that's relevant to the question references another rule without definition, use the search_rules tool.
-  - Example: If the question is "How does the shape change ability work?" and the shape change ability says it works "as with polymorph", use the tool to search for "polymorph".
-- Rules are cumulative. If one rules references another, the full definitions of both apply to the situation unless stated otherwise.
+- Pay close attention to specific wording and constraints
+- If a rule references another rule without definition, use search_rules or follow_link to look it up
+  - Example: If the shape change ability says it works "as with polymorph", search for "polymorph"
+  - Example: If you see a link like [grappled](https://...), use follow_link to read it
+- Rules are cumulative. If one rule references another, both definitions apply unless stated otherwise
 - If the context doesn't contain enough information to fully answer, say so
 - Cite specific rules when possible (e.g., "According to the Grappled condition...")
 - Be concise but thorough
@@ -64,7 +82,7 @@ USER_PROMPT_TEMPLATE = """## Initial Rules Search Results
 
 {question}
 
-Please answer the question based on these rules or search for more rules if needed. Reason carefully and think out loud to get your answer."""
+Please answer the question based on these rules or search for more rules if needed. Reason step-by-step to yourself before you give your final answer."""
 
 
 def format_context(results: list[dict], max_sections: int = 5) -> str:
@@ -106,6 +124,16 @@ def print_search_results(results: list[dict], verbose: bool = False) -> None:
                 print(f"        {Colors.DIM}combined: {r['combined_score']:.3f}{Colors.RESET}", file=sys.stderr)
             else:
                 print(f"        {Colors.DIM}score: {r['score']:.3f}{Colors.RESET}", file=sys.stderr)
+
+            # Show content
+            content = r.get("content", "")
+            # Strip the metadata header if present
+            if "\n\n" in content:
+                parts = content.split("\n\n", 1)
+                if len(parts) > 1:
+                    content = parts[1]
+            print(f"\n{Colors.DIM}{content}{Colors.RESET}\n", file=sys.stderr)
+            print(f"{Colors.DIM}---{Colors.RESET}", file=sys.stderr)
 
 
 def execute_search(query: str, store: RulesVectorStore, n_results: int = 5,
@@ -204,7 +232,7 @@ def ask_rules_question(
             "messages": messages,
         }
         if use_tools:
-            kwargs["tools"] = [SEARCH_TOOL]
+            kwargs["tools"] = [SEARCH_TOOL, FOLLOW_LINK_TOOL]
 
         response = client.messages.create(**kwargs)
 
@@ -248,6 +276,35 @@ def ask_rules_question(
                     "type": "tool_result",
                     "tool_use_id": tool_use.id,
                     "content": search_results
+                })
+
+            elif tool_use.name == "follow_link":
+                url = tool_use.input.get("url", "")
+                tool_calls += 1
+                print(f"{Colors.CYAN}[Follow link {tool_calls}]{Colors.RESET} {url}", file=sys.stderr)
+
+                # Resolve the link
+                result = store.resolve_link(url)
+
+                if "error" in result:
+                    print(f"  {Colors.RED}Error: {result['error']}{Colors.RESET}", file=sys.stderr)
+                    content = f"Error: {result['error']}"
+                    if "available_sections" in result:
+                        content += f"\nAvailable sections: {', '.join(result['available_sections'])}"
+                else:
+                    print(f"  {Colors.YELLOW}-> {result['title']}{Colors.RESET} {Colors.DIM}({result['source_name']}){Colors.RESET}", file=sys.stderr)
+                    # Format similar to search results
+                    content = f"### {result['title']} (from {result['source_name']})\n\n{result['content']}"
+
+                    # In verbose mode, print the content
+                    if verbose:
+                        print(f"\n{Colors.DIM}{result['content']}{Colors.RESET}\n", file=sys.stderr)
+                        print(f"{Colors.DIM}---{Colors.RESET}", file=sys.stderr)
+
+                tool_results.append({
+                    "type": "tool_result",
+                    "tool_use_id": tool_use.id,
+                    "content": content
                 })
 
         # Add assistant response and tool results to messages

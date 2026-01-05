@@ -109,6 +109,66 @@ def extract_json_from_response(text: str) -> dict:
     raise ValueError("No valid JSON found in response")
 
 
+def process_markdown_full(
+    client: anthropic.Anthropic,
+    content: str,
+    source_path: str,
+    model: str = "claude-sonnet-4-20250514",
+    timeout: float = 300.0
+) -> dict:
+    """Process markdown content and generate section manifest (full mode).
+
+    Args:
+        client: Anthropic client instance
+        content: Markdown content to process
+        source_path: Source identifier (e.g., URL or file path)
+        model: Claude model to use
+        timeout: Request timeout in seconds (default: 300)
+
+    Returns:
+        Manifest dictionary with sections
+
+    Raises:
+        anthropic.APITimeoutError: If request times out
+        anthropic.APIError: If API call fails
+        json.JSONDecodeError: If response is not valid JSON
+        ValueError: If response is missing required fields
+    """
+    # Use basename for filename context
+    filename = source_path.rstrip("/").split("/")[-1]
+    if not filename.endswith(".md"):
+        filename = f"{filename}.md"
+
+    # Format the prompt
+    prompt = format_prompt(content, filename, source_path)
+
+    # Call Claude API
+    message = client.messages.create(
+        model=model,
+        max_tokens=16384,
+        timeout=timeout,
+        messages=[
+            {"role": "user", "content": prompt}
+        ]
+    )
+
+    response_text = message.content[0].text
+
+    # Extract and parse JSON
+    manifest = extract_json_from_response(response_text)
+
+    # Validate basic structure
+    if "sections" not in manifest:
+        raise ValueError("Response missing 'sections' field")
+
+    # Ensure metadata is set correctly
+    manifest["file"] = filename
+    manifest["source_path"] = source_path
+    manifest["source_name"] = get_source_name(source_path)
+
+    return manifest
+
+
 def process_file(
     client: anthropic.Anthropic,
     file_path: Path,
@@ -139,33 +199,8 @@ def process_file(
     # Read the markdown content
     content = file_path.read_text(encoding="utf-8")
 
-    # Format the prompt
-    prompt = format_prompt(content, filename, source_path)
-
     try:
-        # Call Claude API
-        message = client.messages.create(
-            model=model,
-            max_tokens=16384,
-            timeout=timeout,
-            messages=[
-                {"role": "user", "content": prompt}
-            ]
-        )
-
-        response_text = message.content[0].text
-
-        # Extract and parse JSON
-        manifest = extract_json_from_response(response_text)
-
-        # Validate basic structure
-        if "sections" not in manifest:
-            raise ValueError("Response missing 'sections' field")
-
-        # Ensure file, source_path, and source_name are set correctly
-        manifest["file"] = filename
-        manifest["source_path"] = source_path
-        manifest["source_name"] = get_source_name(source_path)
+        manifest = process_markdown_full(client, content, source_path, model, timeout)
 
         # Write manifest to output file
         output_path = output_dir / f"{file_path.stem}.json"
@@ -186,8 +221,6 @@ def process_file(
         return False
     except json.JSONDecodeError as e:
         print(f"JSON parse error for {filename}: {e}", file=sys.stderr)
-        if verbose:
-            print(f"  Response was: {response_text[:500]}...", file=sys.stderr)
         return False
     except ValueError as e:
         print(f"Validation error for {filename}: {e}", file=sys.stderr)
@@ -206,6 +239,79 @@ def extract_title_from_markdown(content: str) -> tuple[str, str]:
         title = anchor_heading[2:]  # Remove "# " prefix
         return title, anchor_heading
     return "Unknown", "# Unknown"
+
+
+def process_markdown_simple(
+    client: anthropic.Anthropic,
+    content: str,
+    source_path: str,
+    model: str = "claude-sonnet-4-20250514",
+    timeout: float = 300.0
+) -> dict:
+    """Process markdown content as a single section (simple mode).
+
+    Args:
+        client: Anthropic client instance
+        content: Markdown content to process
+        source_path: Source identifier (e.g., URL or file path)
+        model: Claude model to use
+        timeout: Request timeout in seconds (default: 300)
+
+    Returns:
+        Manifest dictionary with a single section
+
+    Raises:
+        anthropic.APITimeoutError: If request times out
+        anthropic.APIError: If API call fails
+        json.JSONDecodeError: If response is not valid JSON
+    """
+    # Use basename for filename context
+    filename = source_path.rstrip("/").split("/")[-1]
+    if not filename.endswith(".md"):
+        filename = f"{filename}.md"
+
+    # Extract title from the markdown
+    title, anchor_heading = extract_title_from_markdown(content)
+
+    # Generate section ID from source path
+    section_id = filename.replace(".md", "").replace("-", "_")
+
+    # Format the prompt
+    prompt = format_summarize_prompt(content, filename)
+
+    # Call Claude API
+    message = client.messages.create(
+        model=model,
+        max_tokens=4096,
+        timeout=timeout,
+        messages=[
+            {"role": "user", "content": prompt}
+        ]
+    )
+
+    response_text = message.content[0].text
+
+    # Extract and parse JSON
+    result = extract_json_from_response(response_text)
+
+    # Build the manifest in the standard format
+    manifest = {
+        "file": filename,
+        "source_path": source_path,
+        "source_name": get_source_name(source_path),
+        "sections": [
+            {
+                "id": section_id,
+                "title": title,
+                "anchor_heading": anchor_heading,
+                "includes_subheadings": result.get("subheadings", []),
+                "description": result.get("description", ""),
+                "keywords": result.get("keywords", [])
+            }
+        ]
+    }
+
+    return manifest
 
 
 def process_file_simple(
@@ -248,47 +354,8 @@ def process_file_simple(
     # Read the markdown content
     content = file_path.read_text(encoding="utf-8")
 
-    # Extract title from the markdown
-    title, anchor_heading = extract_title_from_markdown(content)
-
-    # Generate section ID from filename
-    section_id = file_path.stem.replace("-", "_")
-
-    # Format the prompt
-    prompt = format_summarize_prompt(content, filename)
-
     try:
-        # Call Claude API
-        message = client.messages.create(
-            model=model,
-            max_tokens=4096,
-            timeout=timeout,
-            messages=[
-                {"role": "user", "content": prompt}
-            ]
-        )
-
-        response_text = message.content[0].text
-
-        # Extract and parse JSON
-        result = extract_json_from_response(response_text)
-
-        # Build the manifest in the standard format
-        manifest = {
-            "file": filename,
-            "source_path": source_path,
-            "source_name": get_source_name(source_path),
-            "sections": [
-                {
-                    "id": section_id,
-                    "title": title,
-                    "anchor_heading": anchor_heading,
-                    "includes_subheadings": result.get("subheadings", []),
-                    "description": result.get("description", ""),
-                    "keywords": result.get("keywords", [])
-                }
-            ]
-        }
+        manifest = process_markdown_simple(client, content, source_path, model, timeout)
 
         # Write manifest to output file
         output_path = output_dir / f"{file_path.stem}.json"
@@ -296,7 +363,7 @@ def process_file_simple(
             json.dump(manifest, f, indent=2)
 
         if verbose:
-            print(f"  -> Generated 1 section with {len(result.get('keywords', []))} keywords")
+            print(f"  -> Generated 1 section with {len(manifest['sections'][0].get('keywords', []))} keywords")
             print(f"  -> Saved to {output_path}")
 
         return True
@@ -309,8 +376,6 @@ def process_file_simple(
         return False
     except json.JSONDecodeError as e:
         print(f"JSON parse error for {filename}: {e}", file=sys.stderr)
-        if verbose:
-            print(f"  Response was: {response_text[:500]}...", file=sys.stderr)
         return False
     except ValueError as e:
         print(f"Validation error for {filename}: {e}", file=sys.stderr)

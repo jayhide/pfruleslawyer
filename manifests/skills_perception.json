@@ -1,0 +1,41 @@
+{
+  "file": "perception.md",
+  "source_path": "https://www.d20pfsrd.com/skills/perception/",
+  "source_name": "Skill: Perception (Wis)",
+  "sections": [
+    {
+      "id": "perception",
+      "title": "Perception (Wis)",
+      "anchor_heading": "# Perception (Wis)",
+      "includes_subheadings": [
+        "### Common Uses",
+        "#### Notice Someone/Something",
+        "### Action",
+        "### Modifiers",
+        "#### Perception Unchained",
+        "### FYI\u2026",
+        "### Get Organized!",
+        "### Unofficial Extras!"
+      ],
+      "description": "Covers the Perception skill mechanics, including DCs for noticing details, opposing Stealth checks, distance modifiers, and skill unlock abilities at higher ranks.",
+      "keywords": [
+        "Perception",
+        "Notice",
+        "Stealth check",
+        "opposed check",
+        "secret door",
+        "concealed door",
+        "trap spotting",
+        "invisible creature",
+        "distance modifier",
+        "skill unlock",
+        "Perception Unchained",
+        "pickpocket",
+        "tremorsense",
+        "scent",
+        "lip reading",
+        "trap spotter"
+      ]
+    }
+  ]
+}

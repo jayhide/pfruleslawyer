@@ -1,0 +1,34 @@
+{
+  "file": "disguise.md",
+  "source_path": "https://www.d20pfsrd.com/skills/disguise/",
+  "source_name": "Skill: Disguise (Cha)",
+  "sections": [
+    {
+      "id": "disguise",
+      "title": "Disguise (Cha)",
+      "anchor_heading": "# Disguise (Cha)",
+      "includes_subheadings": [
+        "### Check",
+        "### Action/Time",
+        "### Modifiers",
+        "#### Disguise Unchained"
+      ],
+      "description": "Rules for the Disguise skill, including check mechanics, DC modifiers for different types of disguises, magical enhancement bonuses, and unchained skill unlock abilities.",
+      "keywords": [
+        "Disguise",
+        "disguise check",
+        "impersonation",
+        "alter appearance",
+        "disguise self",
+        "alter self",
+        "polymorph",
+        "shapechange",
+        "veil",
+        "simulacrum",
+        "Deceitful",
+        "skill unlock",
+        "Signature Skill"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "file": "vigilante.md",
+  "source_path": "https://www.d20pfsrd.com/classes/base-classes/vigilante/",
+  "source_name": "Class: Vigilante",
+  "sections": [
+    {
+      "id": "vigilante",
+      "title": "Vigilante",
+      "anchor_heading": "# Vigilante",
+      "includes_subheadings": [
+        "### Class Skills",
+        "#### Weapon and Armor Proficiency",
+        "#### Dual Identity (Ex)",
+        "#### Seamless Guise (Ex)",
+        "#### Social Talent",
+        "#### Vigilante Specialization (Ex)",
+        "#### Vigilante Talent",
+        "#### Unshakable (Ex)",
+        "#### Startling Appearance (Ex)",
+        "#### Frightening Appearance (Ex)",
+        "#### Stunning Appearance (Ex)",
+        "#### Vengeance Strike (Ex)",
+        "#### Past Your Limits (Ex)"
+      ],
+      "description": "Rules for the vigilante class, a character with a dual identity who operates as both a respected member of society and a masked crusader, featuring specializations, talents, and archetypes.",
+      "keywords": [
+        "vigilante",
+        "dual identity",
+        "social identity",
+        "vigilante identity",
+        "seamless guise",
+        "social talent",
+        "vigilante talent",
+        "vigilante specialization",
+        "avenger",
+        "stalker",
+        "hidden strike",
+        "startling appearance",
+        "frightening appearance",
+        "stunning appearance",
+        "vengeance strike",
+        "unshakable"
+      ]
+    }
+  ]
+}

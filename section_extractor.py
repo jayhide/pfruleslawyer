@@ -5,6 +5,8 @@ import re
 from dataclasses import dataclass
 from pathlib import Path
 
+from db import HtmlCacheDB
+
 
 @dataclass
 class Section:
@@ -92,15 +94,22 @@ def extract_section_content(markdown: str, anchor_heading: str) -> str | None:
 class SectionExtractor:
     """Extracts sections from markdown files using manifest definitions."""
 
-    def __init__(self, rules_dir: str | Path = "rules", manifests_dir: str | Path = "manifests"):
+    def __init__(
+        self,
+        rules_dir: str | Path = "rules",
+        manifests_dir: str | Path = "manifests",
+        db: HtmlCacheDB | None = None
+    ):
         """Initialize the extractor.
 
         Args:
-            rules_dir: Directory containing markdown rules files
+            rules_dir: Directory containing markdown rules files (legacy)
             manifests_dir: Directory containing manifest JSON files
+            db: Database instance for fetching markdown from URLs
         """
         self.rules_dir = Path(rules_dir)
         self.manifests_dir = Path(manifests_dir)
+        self.db = db or HtmlCacheDB()
         self._sections: list[Section] | None = None
         self._markdown_cache: dict[str, str] = {}
 
@@ -108,16 +117,24 @@ class SectionExtractor:
         """Load and cache markdown content.
 
         Args:
-            source_path: Path relative to project root (e.g., "rules/skills/acrobatics.md")
+            source_path: URL or file path. URLs are fetched from the database,
+                        file paths are read from the filesystem.
         """
         if source_path not in self._markdown_cache:
-            # source_path is relative to project root, e.g., "rules/skills/acrobatics.md"
-            # self.rules_dir is typically "rules", so we need to handle both cases
-            filepath = Path(source_path)
-            if not filepath.exists():
-                # Try relative to rules_dir parent (project root)
-                filepath = self.rules_dir.parent / source_path
-            self._markdown_cache[source_path] = filepath.read_text(encoding="utf-8")
+            # Check if source_path is a URL
+            if source_path.startswith("http://") or source_path.startswith("https://"):
+                # Fetch from database
+                markdown = self.db.get_markdown(source_path)
+                if markdown is None:
+                    raise FileNotFoundError(f"No markdown found in database for URL: {source_path}")
+                self._markdown_cache[source_path] = markdown
+            else:
+                # Legacy: read from filesystem
+                filepath = Path(source_path)
+                if not filepath.exists():
+                    # Try relative to rules_dir parent (project root)
+                    filepath = self.rules_dir.parent / source_path
+                self._markdown_cache[source_path] = filepath.read_text(encoding="utf-8")
         return self._markdown_cache[source_path]
 
     def _load_manifest(self, manifest_path: Path) -> dict:

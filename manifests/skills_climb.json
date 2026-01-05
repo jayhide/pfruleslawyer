@@ -1,0 +1,36 @@
+{
+  "file": "climb.md",
+  "source_path": "https://www.d20pfsrd.com/skills/climb/",
+  "source_name": "Skill: Climb (Str; Armor Check Penalty)",
+  "sections": [
+    {
+      "id": "climb",
+      "title": "Climb (Str; Armor Check Penalty)",
+      "anchor_heading": "# Climb (Str; Armor Check Penalty)",
+      "includes_subheadings": [
+        "### Check",
+        "#### Accelerated Climbing",
+        "#### Make Your Own Handholds and Footholds",
+        "#### Catch Yourself When Falling",
+        "#### Catch a Falling Character While Climbing",
+        "### Action",
+        "### Modifiers",
+        "#### Climb Unchained"
+      ],
+      "description": "Rules for the Climb skill, including DCs for different surfaces, accelerated climbing, catching falling characters, and special modifiers for creatures with climb speeds.",
+      "keywords": [
+        "Climb",
+        "climbing",
+        "accelerated climbing",
+        "climb speed",
+        "handholds",
+        "footholds",
+        "pitons",
+        "catch falling character",
+        "climb DC",
+        "wall climbing",
+        "rope climbing"
+      ]
+    }
+  ]
+}

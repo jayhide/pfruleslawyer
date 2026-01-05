@@ -1,0 +1,108 @@
+{
+  "file": "wondrous-items.md",
+  "source_path": "https://www.d20pfsrd.com/magic-items/wondrous-items/",
+  "sections": [
+    {
+      "id": "wondrous_items_overview",
+      "title": "Wondrous Items Overview",
+      "anchor_heading": "# Wondrous Items",
+      "includes_subheadings": [
+        "#### Slotted Wondrous Items",
+        "#### Slotless Wondrous Items",
+        "#### Intelligent Wondrous Items",
+        "#### Activation"
+      ],
+      "description": "Introduction to wondrous items including categories (slotted vs slotless), body slot restrictions, intelligent items, and activation methods",
+      "keywords": [
+        "wondrous items",
+        "slotted",
+        "slotless",
+        "body slots",
+        "activation",
+        "command word",
+        "use-activated",
+        "intelligent"
+      ]
+    },
+    {
+      "id": "extradimensional_spaces",
+      "title": "Extradimensional Spaces",
+      "anchor_heading": "### Extradimensional Spaces",
+      "includes_subheadings": [],
+      "description": "Rules for how extradimensional spaces interact with each other, including restrictions and the bag of holding/portable hole exception",
+      "keywords": [
+        "extradimensional",
+        "bag of holding",
+        "portable hole",
+        "rope trick",
+        "astral plane"
+      ]
+    },
+    {
+      "id": "item_generation_tables",
+      "title": "Wondrous Item Generation Tables",
+      "anchor_heading": "### Table: Wondrous Item Types",
+      "includes_subheadings": [
+        "### Table: Belt Slot Wondrous Items",
+        "### Table: Body Slot Wondrous Items",
+        "### Table: Chest Slot Wondrous Items",
+        "### Table: Eyes Slot Wondrous Items",
+        "### Table: Feet Slot Wondrous Items",
+        "### Table: Hand Slot Wondrous Items",
+        "### Table: Head Slot Wondrous Items",
+        "### Table: Headband Slot Wondrous Items",
+        "### Table: Neck Slot Wondrous Items",
+        "### Table: Shoulders Slot Wondrous Items",
+        "### Table: Wrists Slot Wondrous Items",
+        "### Table: Slotless Wondrous Items"
+      ],
+      "description": "Random generation tables for determining wondrous item types and specific items by rarity tier (minor, medium, major) and body slot",
+      "keywords": [
+        "random generation",
+        "tables",
+        "belt slot",
+        "body slot",
+        "chest slot",
+        "eyes slot",
+        "feet slot",
+        "hand slot",
+        "head slot",
+        "headband slot",
+        "neck slot",
+        "shoulders slot",
+        "wrists slot",
+        "slotless",
+        "minor",
+        "medium",
+        "major"
+      ]
+    },
+    {
+      "id": "all_paizo_items_list",
+      "title": "Complete Paizo Wondrous Items List",
+      "anchor_heading": "### All Paizo Wondrous Items",
+      "includes_subheadings": [],
+      "description": "Comprehensive alphabetical listing of all wondrous items from Paizo sources, organized by letter ranges with links to individual item descriptions",
+      "keywords": [
+        "paizo items",
+        "complete list",
+        "alphabetical",
+        "item catalog"
+      ]
+    },
+    {
+      "id": "third_party_items",
+      "title": "Third Party Publisher Items",
+      "anchor_heading": "### 3rd Party Publisher Wondrous Items",
+      "includes_subheadings": [],
+      "description": "Overview and links to wondrous items from third-party publishers organized by company",
+      "keywords": [
+        "third party",
+        "publishers",
+        "non-paizo",
+        "additional items"
+      ]
+    }
+  ],
+  "source_name": ""
+}

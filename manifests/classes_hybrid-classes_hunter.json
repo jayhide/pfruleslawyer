@@ -1,0 +1,63 @@
+{
+  "file": "hunter.md",
+  "source_path": "https://www.d20pfsrd.com/classes/hybrid-classes/hunter/",
+  "source_name": "Class: Hunter",
+  "sections": [
+    {
+      "id": "hunter",
+      "title": "Hunter",
+      "anchor_heading": "# Hunter",
+      "includes_subheadings": [
+        "### Class Skills",
+        "### Class Features",
+        "#### Weapon and Armor Proficiency",
+        "#### Spell Casting",
+        "#### Orisons",
+        "#### Animal Companion (Ex)",
+        "#### Animal Focus (Su)",
+        "#### Nature Training (Ex)",
+        "#### Wild Empathy (Ex)",
+        "#### Precise Companion (Ex)",
+        "#### Track (Ex)",
+        "#### Hunter Tactics (Ex)",
+        "#### Teamwork Feat",
+        "#### Improved Empathic Link (Su)",
+        "#### Woodland Stride (Ex)",
+        "#### Bonus Tricks (Ex)",
+        "#### Second Animal Focus (Su)",
+        "#### Swift Tracker (Ex)",
+        "#### Raise Animal Companion (Sp)",
+        "#### Speak with Master (Ex)",
+        "#### Greater Empathic Link (Su)",
+        "#### One with the Wild (Ex)",
+        "#### Master Hunter (Ex)",
+        "### Alternative Capstone Ability",
+        "#### Huntmaster (Ex)",
+        "## Favored Class Bonuses",
+        "## Archetypes & Alternate Class Features"
+      ],
+      "description": "Rules for the Hunter hybrid class, a nature warrior that fights alongside animal companions using teamwork tactics and animal focus abilities.",
+      "keywords": [
+        "hunter",
+        "hunter class",
+        "animal companion",
+        "animal focus",
+        "teamwork feat",
+        "hunter tactics",
+        "wild empathy",
+        "nature training",
+        "track",
+        "woodland stride",
+        "empathic link",
+        "raise animal companion",
+        "master hunter",
+        "precise companion",
+        "swift tracker",
+        "one with the wild",
+        "second animal focus",
+        "speak with master",
+        "huntmaster"
+      ]
+    }
+  ]
+}

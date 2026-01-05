@@ -1,0 +1,53 @@
+{
+  "file": "magus.md",
+  "source_path": "https://www.d20pfsrd.com/classes/base-classes/magus/",
+  "source_name": "Class: Magus",
+  "sections": [
+    {
+      "id": "magus",
+      "title": "Magus",
+      "anchor_heading": "# Magus",
+      "includes_subheadings": [
+        "### Class skills",
+        "#### Weapon and Armor Proficiency",
+        "#### Spells",
+        "#### Arcane Pool (Su)",
+        "#### Spell Combat (Ex)",
+        "#### Spellstrike (Su)",
+        "#### Magus Arcana",
+        "#### Spell Recall (Su)",
+        "#### **Bonus Feats**",
+        "#### Knowledge Pool (Su)",
+        "#### Medium Armor (Ex)",
+        "#### Improved Spell Combat (Ex)",
+        "#### Fighter Training (Ex)",
+        "#### Improved Spell Recall (Su)",
+        "#### Heavy Armor (Ex)",
+        "#### Greater Spell Combat (Ex)",
+        "#### Counterstrike (Ex)",
+        "#### Greater Spell Access (Su)",
+        "#### True Magus (Su)",
+        "#### Legendary Blade (Su)",
+        "## Favored Class Bonuses",
+        "## Archetypes & Alternate Class Features"
+      ],
+      "description": "Comprehensive rules for the Magus class, covering all class features, abilities, progression, archetypes, and magus arcana options for this hybrid warrior-spellcaster.",
+      "keywords": [
+        "magus",
+        "spell combat",
+        "spellstrike",
+        "arcane pool",
+        "magus arcana",
+        "spell recall",
+        "knowledge pool",
+        "true magus",
+        "bladebound",
+        "kensai",
+        "hexcrafter",
+        "eldritch archer",
+        "myrmidarch",
+        "skirnir"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "file": "heal.md",
+  "source_path": "https://www.d20pfsrd.com/skills/heal/",
+  "source_name": "Skill: Heal (Wis)",
+  "sections": [
+    {
+      "id": "heal",
+      "title": "Heal (Wis)",
+      "anchor_heading": "# Heal (Wis)",
+      "includes_subheadings": [
+        "### Check",
+        "### Action",
+        "### Common Uses",
+        "#### Identify Drugs/Pharmaceuticals",
+        "#### Provide First Aid",
+        "#### Provide Long-Term Care",
+        "#### Treat Deadly Wounds\\*",
+        "#### Treat Disease",
+        "#### Treat Poison",
+        "#### Treat Wounds from Caltrops, Spike Growth, or Spike Stones",
+        "### Modifiers",
+        "#### Heal Unchained",
+        "#### Prevent Recovery",
+        "#### Torture",
+        "#### Deep Hurting",
+        "#### Prevent Fast Healing",
+        "#### Erode Willpower"
+      ],
+      "description": "Rules for the Heal skill, covering medical treatment tasks like first aid, treating poison and disease, deadly wounds, and long-term care, plus torture applications and skill unlocks.",
+      "keywords": [
+        "Heal",
+        "first aid",
+        "treat poison",
+        "treat disease",
+        "deadly wounds",
+        "long-term care",
+        "caltrops",
+        "spike growth",
+        "spike stones",
+        "pharmaceuticals",
+        "torture",
+        "prevent recovery",
+        "deep hurting",
+        "prevent fast healing",
+        "erode willpower",
+        "healer's kit",
+        "skill unlocks",
+        "Self-Sufficient"
+      ]
+    }
+  ]
+}

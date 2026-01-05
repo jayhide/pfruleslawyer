@@ -1,0 +1,46 @@
+{
+  "file": "acrobatics.md",
+  "source_path": "https://www.d20pfsrd.com/skills/acrobatics/",
+  "source_name": "Skill: Acrobatics (Dex; Armor Check Penalty)",
+  "sections": [
+    {
+      "id": "acrobatics",
+      "title": "Acrobatics (Dex; Armor Check Penalty)",
+      "anchor_heading": "# Acrobatics (Dex; Armor Check Penalty)",
+      "includes_subheadings": [
+        "### Common Uses",
+        "#### Cross Narrow Surfaces/Uneven Ground",
+        "#### Move Through Threatened Squares",
+        "#### Jumping and Falling",
+        "### Modifiers",
+        "#### Acrobatics Unchained",
+        "### Time Machine!",
+        "#### Long Jump",
+        "#### High Jump",
+        "#### Hop Up"
+      ],
+      "description": "Rules for the Acrobatics skill, covering balance on narrow surfaces, movement through threatened squares without provoking attacks of opportunity, jumping mechanics, and falling damage mitigation.",
+      "keywords": [
+        "Acrobatics",
+        "balance",
+        "narrow surfaces",
+        "threatened squares",
+        "attack of opportunity",
+        "jumping",
+        "long jump",
+        "high jump",
+        "falling",
+        "falling damage",
+        "move through enemy",
+        "Combat Maneuver Defense",
+        "CMD",
+        "flat-footed",
+        "prone",
+        "diving",
+        "hop up",
+        "skill unlocks",
+        "unchained"
+      ]
+    }
+  ]
+}

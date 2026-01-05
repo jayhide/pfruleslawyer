@@ -1,0 +1,38 @@
+{
+  "file": "spellcraft.md",
+  "source_path": "https://www.d20pfsrd.com/skills/spellcraft/",
+  "source_name": "Skill: Spellcraft (Int; Trained Only)",
+  "sections": [
+    {
+      "id": "spellcraft",
+      "title": "Spellcraft (Int; Trained Only)",
+      "anchor_heading": "# Spellcraft (Int; Trained Only)",
+      "includes_subheadings": [
+        "### Common Uses",
+        "#### Craft Magic Items",
+        "#### Determine Properties of Magic Item",
+        "#### Identify Spell Being Cast",
+        "#### Learn Spell from Spellbook",
+        "#### Prepare Spell from Borrowed Spellbook",
+        "### Modifiers",
+        "#### Spellcraft Unchained"
+      ],
+      "description": "Covers the Spellcraft skill mechanics including identifying spells being cast, learning spells from spellbooks, identifying magic item properties, crafting magic items, and associated DCs and modifiers.",
+      "keywords": [
+        "spellcraft",
+        "identify spell",
+        "identify magic item",
+        "learn spell",
+        "spellbook",
+        "craft magic item",
+        "detect magic",
+        "borrowed spellbook",
+        "decipher scroll",
+        "spell identification",
+        "magic item properties",
+        "spellcraft unchained",
+        "skill unlocks"
+      ]
+    }
+  ]
+}

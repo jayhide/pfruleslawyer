@@ -1,0 +1,57 @@
+{
+  "file": "witch.md",
+  "source_path": "https://www.d20pfsrd.com/classes/base-classes/witch/",
+  "source_name": "Class: Witch",
+  "sections": [
+    {
+      "id": "witch",
+      "title": "Witch",
+      "anchor_heading": "# Witch",
+      "includes_subheadings": [
+        "### Class Skills",
+        "#### Weapon and Armor Proficiency",
+        "#### Spells",
+        "#### Hex",
+        "#### Patron Spells",
+        "#### Witch's Familiar (Ex)",
+        "#### Major Hex",
+        "#### Major Hexes",
+        "#### Grand Hex",
+        "#### Grand Hexes",
+        "#### Archetypes & Other Class Options"
+      ],
+      "description": "Complete rules for the Witch class, including spellcasting mechanics, hexes, familiar bonding, patron relationships, and class progression from 1st to 20th level.",
+      "keywords": [
+        "witch",
+        "witch class",
+        "hex",
+        "hexes",
+        "witch familiar",
+        "familiar",
+        "patron",
+        "patron spells",
+        "witch spells",
+        "major hex",
+        "grand hex",
+        "cantrips",
+        "cackle",
+        "slumber",
+        "evil eye",
+        "fortune",
+        "misfortune",
+        "charm",
+        "flight",
+        "healing",
+        "ward",
+        "coven",
+        "witch archetype",
+        "beast-bonded",
+        "gravewalker",
+        "sea witch",
+        "winter witch",
+        "hedge witch",
+        "white-haired witch"
+      ]
+    }
+  ]
+}

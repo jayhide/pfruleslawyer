@@ -1,0 +1,40 @@
+{
+  "file": "arcanist.md",
+  "source_path": "https://www.d20pfsrd.com/classes/hybrid-classes/arcanist/",
+  "source_name": "Class: Arcanist",
+  "sections": [
+    {
+      "id": "arcanist",
+      "title": "Arcanist",
+      "anchor_heading": "# Arcanist",
+      "includes_subheadings": [
+        "### Class Skills",
+        "#### Weapon and Armor Proficiencies",
+        "#### Spell Casting",
+        "#### Spellbooks",
+        "#### Cantrips",
+        "#### Arcane Reservoir (Su)",
+        "#### Arcanist Exploits",
+        "#### Consume Spells (Su)",
+        "#### Greater Exploits",
+        "#### Magical Supremacy (Su)",
+        "#### Deep Reservoir (Su)"
+      ],
+      "description": "Complete class description for the Arcanist hybrid class, covering spellcasting mechanics, arcane reservoir, arcanist exploits, and all class features from levels 1-20.",
+      "keywords": [
+        "arcanist",
+        "arcane reservoir",
+        "arcanist exploits",
+        "consume spells",
+        "greater exploits",
+        "magical supremacy",
+        "spellbooks",
+        "cantrips",
+        "hybrid class",
+        "sorcerer wizard spells",
+        "metamagic",
+        "deep reservoir"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "file": "escape-artist.md",
+  "source_path": "https://www.d20pfsrd.com/skills/escape-artist/",
+  "source_name": "Skill: Escape Artist (Dex; Armor Check Penalty)",
+  "sections": [
+    {
+      "id": "escape_artist",
+      "title": "Escape Artist (Dex; Armor Check Penalty)",
+      "anchor_heading": "# Escape Artist (Dex; Armor Check Penalty)",
+      "includes_subheadings": [
+        "### Common Uses",
+        "#### Escape Ropes",
+        "#### Escape Manacles",
+        "#### Escape Net or Certain Spells",
+        "#### Grapple",
+        "#### Move Through Tight Space",
+        "### Modifiers",
+        "#### Escape Artist Unchained"
+      ],
+      "description": "Defines the Escape Artist skill mechanics, including DCs and time requirements for escaping ropes, manacles, nets, grapples, tight spaces, and various magical restraints, plus unchained skill unlock abilities.",
+      "keywords": [
+        "Escape Artist",
+        "escape ropes",
+        "escape manacles",
+        "escape net",
+        "escape grapple",
+        "tight space",
+        "pinned condition",
+        "entangle",
+        "animate rope",
+        "command plants",
+        "control plants",
+        "snare",
+        "skill unlock",
+        "CMB",
+        "CMD"
+      ]
+    }
+  ]
+}

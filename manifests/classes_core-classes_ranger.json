@@ -1,0 +1,62 @@
+{
+  "file": "ranger.md",
+  "source_path": "https://www.d20pfsrd.com/classes/core-classes/ranger/",
+  "source_name": "Class: Ranger",
+  "sections": [
+    {
+      "id": "ranger",
+      "title": "Ranger",
+      "anchor_heading": "# Ranger",
+      "includes_subheadings": [
+        "### Class Skills",
+        "### Class Features",
+        "#### Weapon and Armor Proficiency",
+        "#### Favored Enemy (Ex)",
+        "#### Track (Ex)",
+        "#### Wild Empathy (Ex)",
+        "#### Combat Style Feat (Ex)",
+        "#### Endurance",
+        "#### Favored Terrain (Ex)",
+        "#### Hunter's Bond (Ex)",
+        "#### Spells",
+        "#### Woodland Stride (Ex)",
+        "#### Swift Tracker (Ex)",
+        "#### Evasion (Ex)",
+        "#### Quarry (Ex)",
+        "#### Camouflage (Ex)",
+        "#### Improved Evasion (Ex)",
+        "#### Hide in Plain Sight (Ex)",
+        "#### Improved Quarry (Ex)",
+        "#### Master Hunter (Ex)",
+        "### Alternative Capstone Ability",
+        "#### Seen It Before (Ex)",
+        "## Favored Class Bonuses",
+        "## Archetypes & Alternate Class Features"
+      ],
+      "description": "Complete rules for the Ranger core class including class features like favored enemy, favored terrain, combat styles, spells, animal companions, and all class progression from 1st to 20th level.",
+      "keywords": [
+        "ranger",
+        "favored enemy",
+        "favored terrain",
+        "track",
+        "wild empathy",
+        "combat style feat",
+        "hunter's bond",
+        "animal companion",
+        "woodland stride",
+        "swift tracker",
+        "evasion",
+        "quarry",
+        "camouflage",
+        "improved evasion",
+        "hide in plain sight",
+        "improved quarry",
+        "master hunter",
+        "ranger spells",
+        "ranger combat styles",
+        "endurance",
+        "seen it before"
+      ]
+    }
+  ]
+}

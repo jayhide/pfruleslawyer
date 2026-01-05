@@ -1,0 +1,34 @@
+{
+  "file": "intimidate.md",
+  "source_path": "https://www.d20pfsrd.com/skills/intimidate/",
+  "source_name": "Skill: Intimidate (Cha)",
+  "sections": [
+    {
+      "id": "intimidate",
+      "title": "Intimidate (Cha)",
+      "anchor_heading": "# Intimidate (Cha)",
+      "includes_subheadings": [
+        "### Common Uses",
+        "#### Coerce Opponent",
+        "#### Demoralize Opponent",
+        "#### Influence Opponent's Attitude",
+        "### Modifiers",
+        "#### Intimidate Unchained"
+      ],
+      "description": "Rules for the Intimidate skill, covering how to demoralize opponents to inflict fear conditions, coerce targets into compliance, influence attitudes, and skill unlock abilities at higher ranks.",
+      "keywords": [
+        "intimidate",
+        "demoralize",
+        "shaken",
+        "frightened",
+        "panicked",
+        "cowering",
+        "coerce opponent",
+        "influence attitude",
+        "intimidate unchained",
+        "skill unlocks",
+        "fear conditions"
+      ]
+    }
+  ]
+}

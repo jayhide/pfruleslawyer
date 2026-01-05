@@ -1,0 +1,33 @@
+{
+  "file": "profession.md",
+  "source_path": "https://www.d20pfsrd.com/skills/profession/",
+  "source_name": "Skill: Profession (Wis, Trained only)",
+  "sections": [
+    {
+      "id": "profession",
+      "title": "Profession (Wis, Trained only)",
+      "anchor_heading": "# Profession (Wis, Trained only)",
+      "includes_subheadings": [
+        "### Common Uses",
+        "#### Earn a Living",
+        "### Action",
+        "### Untrained",
+        "### Modifiers",
+        "#### Profession Unchained"
+      ],
+      "description": "Covers the Profession skill mechanics including earning income through weekly checks, basic task DCs, and unchained skill unlock abilities at 5, 10, 15, and 20 ranks.",
+      "keywords": [
+        "Profession",
+        "earn a living",
+        "earn income",
+        "weekly wage",
+        "Profession check",
+        "skill unlock",
+        "Profession unchained",
+        "untrained laborers",
+        "take 10",
+        "take 20"
+      ]
+    }
+  ]
+}

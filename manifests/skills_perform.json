@@ -1,0 +1,39 @@
+{
+  "file": "perform.md",
+  "source_path": "https://www.d20pfsrd.com/skills/perform/",
+  "source_name": "Skill: Perform (Cha)",
+  "sections": [
+    {
+      "id": "perform",
+      "title": "Perform (Cha)",
+      "anchor_heading": "# Perform (Cha)",
+      "includes_subheadings": [
+        "### Common Uses",
+        "### Action",
+        "### Modifiers",
+        "#### Perform Unchained"
+      ],
+      "description": "Rules for the Perform skill, covering its nine categories (act, comedy, dance, instruments, etc.), DC tables for earning money through performances, and skill unlock abilities for high-rank performers.",
+      "keywords": [
+        "Perform",
+        "Act",
+        "Comedy",
+        "Dance",
+        "Keyboard instruments",
+        "Oratory",
+        "Percussion instruments",
+        "String instruments",
+        "Wind instruments",
+        "Sing",
+        "performance",
+        "earning money performing",
+        "masterwork musical instrument",
+        "bardic performance",
+        "Perform Unchained",
+        "skill unlocks",
+        "emotion descriptor",
+        "language-dependent descriptor"
+      ]
+    }
+  ]
+}

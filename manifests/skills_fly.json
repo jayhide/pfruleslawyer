@@ -1,0 +1,41 @@
+{
+  "file": "fly.md",
+  "source_path": "https://www.d20pfsrd.com/skills/fly/",
+  "source_name": "Skill: Fly (Dex; Armor Check Penalty)",
+  "sections": [
+    {
+      "id": "fly",
+      "title": "Fly (Dex; Armor Check Penalty)",
+      "anchor_heading": "# Fly (Dex; Armor Check Penalty)",
+      "includes_subheadings": [
+        "### Special Requirement",
+        "### Check",
+        "### Common Uses",
+        "#### Avoid Falling After Being Attacked",
+        "#### Avoid Falling After Collision",
+        "#### Negate Falling Damage",
+        "### Modifiers",
+        "#### High Wind Speeds",
+        "### Action",
+        "### Modifiers",
+        "#### Fly Unchained"
+      ],
+      "description": "Covers the Fly skill mechanics for aerial movement, including maneuver DCs, collision and falling rules, wind effects, and skill modifiers based on size and maneuverability.",
+      "keywords": [
+        "Fly skill",
+        "flying maneuvers",
+        "aerial movement",
+        "hover",
+        "wind effects",
+        "falling damage",
+        "collision",
+        "maneuverability",
+        "fly speed",
+        "airborne",
+        "ascend",
+        "descend",
+        "plummet"
+      ]
+    }
+  ]
+}

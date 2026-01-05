@@ -1,0 +1,58 @@
+{
+  "file": "bard.md",
+  "source_path": "https://www.d20pfsrd.com/classes/core-classes/bard/",
+  "source_name": "Class: Bard",
+  "sections": [
+    {
+      "id": "bard",
+      "title": "Bard",
+      "anchor_heading": "# Bard",
+      "includes_subheadings": [
+        "### Class Skills",
+        "### Class Features",
+        "#### Weapon and Armor Proficiency",
+        "#### Spells",
+        "#### Bardic Knowledge (Ex)",
+        "#### Bardic Performance",
+        "#### Cantrips (Sp)",
+        "#### Versatile Performance (Ex)",
+        "## Advanced Versatile Performances",
+        "#### Well-Versed (Ex)",
+        "#### Lore Master (Ex)",
+        "#### Jack of All Trades (Ex)",
+        "### Alternative Capstone Ability",
+        "#### Adoring Fan (Su)",
+        "## Favored Class Bonuses",
+        "## Archetypes & Alternate Class Features"
+      ],
+      "description": "Complete rules for the Bard class including class skills, bardic performance abilities, spells, versatile performance, class features, archetypes, and favored class bonuses.",
+      "keywords": [
+        "bard",
+        "bardic performance",
+        "bardic knowledge",
+        "versatile performance",
+        "inspire courage",
+        "inspire competence",
+        "fascinate",
+        "suggestion",
+        "countersong",
+        "distraction",
+        "cantrips",
+        "well-versed",
+        "lore master",
+        "jack of all trades",
+        "dirge of doom",
+        "inspire greatness",
+        "soothing performance",
+        "frightening tune",
+        "inspire heroics",
+        "mass suggestion",
+        "deadly performance",
+        "bard spells",
+        "bard archetypes",
+        "bardic masterpieces",
+        "adoring fan"
+      ]
+    }
+  ]
+}

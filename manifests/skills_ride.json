@@ -1,0 +1,50 @@
+{
+  "file": "ride.md",
+  "source_path": "https://www.d20pfsrd.com/skills/ride/",
+  "source_name": "Skill: Ride (Dex; Armor Check Penalty)",
+  "sections": [
+    {
+      "id": "ride",
+      "title": "Ride (Dex; Armor Check Penalty)",
+      "anchor_heading": "# Ride (Dex; Armor Check Penalty)",
+      "includes_subheadings": [
+        "### Common Uses",
+        "#### Perform Special Action While Riding a Mount",
+        "### Action",
+        "### Modifiers",
+        "### Notes",
+        "#### Ride Unchained",
+        "### Ridable Creatures",
+        "#### Animals",
+        "#### Dinosaurs and Megafauna",
+        "#### Aquatic Animals",
+        "#### Dire Animals",
+        "#### Other Animals",
+        "### FYI"
+      ],
+      "description": "Rules for the Ride skill, covering mounted combat actions, mount control, and special maneuvers while riding, plus extensive lists of purchasable mounts and their prices.",
+      "keywords": [
+        "Ride skill",
+        "mounted combat",
+        "mount",
+        "riding",
+        "guide with knees",
+        "stay in saddle",
+        "combat-trained mount",
+        "cover",
+        "soft fall",
+        "leap",
+        "spur mount",
+        "control mount in battle",
+        "fast mount",
+        "fast dismount",
+        "bareback",
+        "military saddle",
+        "riding animal",
+        "mount prices",
+        "ridable creatures",
+        "Ride Unchained"
+      ]
+    }
+  ]
+}

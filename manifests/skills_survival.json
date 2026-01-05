@@ -1,0 +1,45 @@
+{
+  "file": "survival.md",
+  "source_path": "https://www.d20pfsrd.com/skills/survival/",
+  "source_name": "Skill: Survival (Wis)",
+  "sections": [
+    {
+      "id": "survival",
+      "title": "Survival (Wis)",
+      "anchor_heading": "# Survival (Wis)",
+      "includes_subheadings": [
+        "### Common Uses",
+        "#### Avoid Getting Lost/Avoid Natural Hazards",
+        "#### Follow Tracks",
+        "### Tracking Modifiers",
+        "#### Survive in the Wilderness",
+        "##### Finding Water",
+        "#### Modifiers",
+        "#### Survival Unchained"
+      ],
+      "description": "Rules for the Survival skill, covering tracking creatures, avoiding getting lost, surviving in wilderness, finding water, and weather prediction with associated DCs and modifiers.",
+      "keywords": [
+        "Survival",
+        "tracking",
+        "follow tracks",
+        "avoid getting lost",
+        "natural hazards",
+        "survive in wilderness",
+        "finding water",
+        "weather prediction",
+        "trackless step",
+        "pass without trace",
+        "Self-Sufficient",
+        "favored enemy",
+        "ranger tracking",
+        "Survival Unchained",
+        "skill unlocks",
+        "Signature Skill",
+        "wilderness survival",
+        "overland movement",
+        "forage",
+        "hunting"
+      ]
+    }
+  ]
+}

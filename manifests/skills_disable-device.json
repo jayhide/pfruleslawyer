@@ -1,0 +1,40 @@
+{
+  "file": "disable-device.md",
+  "source_path": "https://www.d20pfsrd.com/skills/disable-device/",
+  "source_name": "Skill: Disable Device (Dex; Armor Check Penalty; Trained Only)",
+  "sections": [
+    {
+      "id": "disable_device",
+      "title": "Disable Device (Dex; Armor Check Penalty; Trained Only)",
+      "anchor_heading": "# Disable Device (Dex; Armor Check Penalty; Trained Only)",
+      "includes_subheadings": [
+        "### Common Uses",
+        "#### Disarm Trap or Device",
+        "#### Sabotage Mechanical Item",
+        "#### Open a Lock",
+        "### Action",
+        "### Modifiers",
+        "### Magic Traps",
+        "#### Disable Device Unchained",
+        "### Explosives"
+      ],
+      "description": "Covers the Disable Device skill rules including disarming traps, opening locks, sabotaging devices, handling explosives, and skill unlock abilities.",
+      "keywords": [
+        "Disable Device",
+        "disarm trap",
+        "open lock",
+        "sabotage",
+        "thieves' tools",
+        "trapfinding",
+        "magic traps",
+        "skill unlocks",
+        "explosives",
+        "Technologist",
+        "detonator",
+        "e-pick",
+        "lock picking",
+        "trap disarmament"
+      ]
+    }
+  ]
+}

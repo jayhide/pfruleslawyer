@@ -1,0 +1,37 @@
+{
+  "file": "swim.md",
+  "source_path": "https://www.d20pfsrd.com/skills/swim/",
+  "source_name": "Skill: Swim (Str; Armor Check Penalty)",
+  "sections": [
+    {
+      "id": "swim",
+      "title": "Swim (Str; Armor Check Penalty)",
+      "anchor_heading": "# Swim (Str; Armor Check Penalty)",
+      "includes_subheadings": [
+        "### Common Uses",
+        "#### Swim",
+        "### Action",
+        "### Modifiers",
+        "#### Swim Unchained"
+      ],
+      "description": "Covers the Swim skill mechanics including movement speeds, DCs for different water conditions, drowning rules, fatigue, and skill unlock abilities.",
+      "keywords": [
+        "swim",
+        "swimming",
+        "underwater",
+        "drowning",
+        "hold breath",
+        "swim speed",
+        "calm water",
+        "rough water",
+        "stormy water",
+        "swim DC",
+        "swim check",
+        "swim unchained",
+        "skill unlocks",
+        "fatigue swimming",
+        "nonlethal damage swimming"
+      ]
+    }
+  ]
+}

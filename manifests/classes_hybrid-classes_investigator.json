@@ -1,0 +1,52 @@
+{
+  "file": "investigator.md",
+  "source_path": "https://www.d20pfsrd.com/classes/hybrid-classes/investigator/",
+  "source_name": "Class: Investigator",
+  "sections": [
+    {
+      "id": "investigator",
+      "title": "Investigator",
+      "anchor_heading": "# Investigator",
+      "includes_subheadings": [
+        "### Class Skills",
+        "#### Weapon and Armor Proficiency",
+        "#### Alchemy (Su)",
+        "#### Inspiration (Ex)",
+        "#### Trapfinding",
+        "#### Poison Lore (Ex)",
+        "#### Poison Resistance (Ex)",
+        "#### Investigator Talent (Ex) or (Su)",
+        "#### Keen Recollection",
+        "#### Trap Sense (Ex)",
+        "#### Studied Combat (Ex)",
+        "#### Studied Strike (Ex)",
+        "#### Swift Alchemy (Ex)",
+        "#### True Inspiration (Ex)",
+        "### Alternative Capstone Ability",
+        "#### Deadly Study (Ex)",
+        "### Class Features",
+        "## Favored Class Bonuses",
+        "## Archetypes & Alternate Class Features",
+        "### Subpages"
+      ],
+      "description": "Rules for the Investigator hybrid class, covering class features like alchemy, inspiration, studied combat, trapfinding, and investigator talents.",
+      "keywords": [
+        "investigator",
+        "inspiration",
+        "studied combat",
+        "studied strike",
+        "alchemy",
+        "trapfinding",
+        "investigator talent",
+        "poison lore",
+        "poison resistance",
+        "keen recollection",
+        "trap sense",
+        "swift alchemy",
+        "true inspiration",
+        "formula book",
+        "extracts"
+      ]
+    }
+  ]
+}

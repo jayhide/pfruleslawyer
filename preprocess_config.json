@@ -1,0 +1,149 @@
+{
+  "entries": [
+    {
+      "url": "https://www.d20pfsrd.com/skills/",
+      "mode": "full",
+      "category": "Skills",
+      "name": "Skills Overview"
+    },
+    {
+      "pattern": "https://www.d20pfsrd.com/skills/*",
+      "mode": "simple",
+      "category": "Skills",
+      "name_prefix": "Skill",
+      "exclude": [
+        "https://www.d20pfsrd.com/skills/",
+        "https://www.d20pfsrd.com/skills/alternate-crafting-rules/",
+        "https://www.d20pfsrd.com/skills/alternate-profession-rules/",
+        "https://www.d20pfsrd.com/skills/background-skills/",
+        "https://www.d20pfsrd.com/skills/consolidated-skills-optional-rules/",
+        "https://www.d20pfsrd.com/skills/grouped-skills/",
+        "https://www.d20pfsrd.com/skills/skill-challenges/",
+        "https://www.d20pfsrd.com/skills/skills-from-other-publishers/",
+        "https://www.d20pfsrd.com/skills/skills-from-other-publishers/petersen-games-skills/",
+        "https://www.d20pfsrd.com/skills/skills-from-other-publishers/petersen-games-skills/profession-yog-sothothery-philosopher/",
+        "https://www.d20pfsrd.com/skills/craft/alternative-craft-rules-3pp/"
+      ]
+    },
+    {
+      "pattern": "https://www.d20pfsrd.com/magic/all-spells/*",
+      "mode": "simple",
+      "category": "Spells",
+      "name_prefix": "Spell",
+      "exclude": [
+      ]
+    },
+    {
+      "url": "https://www.d20pfsrd.com/gamemastering/afflictions/",
+      "mode": "full",
+      "category": "Core Rules",
+      "name": "Afflictions (Curses, Diseases, Poisons)"
+    },
+    {
+      "url": "https://www.d20pfsrd.com/gamemastering/combat/",
+      "mode": "full",
+      "category": "Core Rules",
+      "name": "Combat Rules"
+    },
+    {
+      "url": "https://www.d20pfsrd.com/gamemastering/conditions/",
+      "mode": "full",
+      "category": "Core Rules",
+      "name": "Conditions"
+    },
+    {
+      "url": "https://www.d20pfsrd.com/gamemastering/special-abilities/",
+      "mode": "full",
+      "category": "Core Rules",
+      "name": "Special Abilities"
+    },
+    {
+      "url": "https://www.d20pfsrd.com/bestiary/rules-for-monsters/universal-monster-rules/",
+      "mode": "full",
+      "category": "Core Rules",
+      "name": "Universal Monster Rules"
+    },
+    {
+      "url": "https://www.d20pfsrd.com/bestiary/rules-for-monsters/creature-types/",
+      "mode": "full",
+      "category": "Core Rules",
+      "name": "Creature Types & Subtypes"
+    },
+    {
+      "url": "https://www.d20pfsrd.com/magic/",
+      "mode": "full",
+      "category": "Core Rules",
+      "name": "Magic Rules"
+    },
+    {
+      "url": "https://www.d20pfsrd.com/basics-ability-scores/ability-scores/",
+      "mode": "full",
+      "category": "Core Rules",
+      "name": "Ability Scores"
+    },
+    {
+      "url": "https://www.d20pfsrd.com/basics-ability-scores/glossary/",
+      "mode": "full",
+      "category": "Core Rules",
+      "name": "Glossary & Common Terms"
+    },
+    {
+      "url": "https://www.d20pfsrd.com/gamemastering/exploration-movement/",
+      "mode": "full",
+      "category": "Core Rules",
+      "name": "Exploration & Movement"
+    },
+    {
+      "urls": [
+        "https://www.d20pfsrd.com/equipment/special-materials/",
+        "https://www.d20pfsrd.com/magic-items/wondrous-items/",
+        "https://www.d20pfsrd.com/equipment/weapons/",
+        "https://www.d20pfsrd.com/equipment/armor/"
+      ],
+      "mode": "full",
+      "category": "Core Rules"
+    },
+    {
+      "urls": [
+        "https://www.d20pfsrd.com/classes/unchained-classes/barbarian-unchained",
+        "https://www.d20pfsrd.com/classes/core-classes/bard/",
+        "https://www.d20pfsrd.com/classes/core-classes/cleric/",
+        "https://www.d20pfsrd.com/classes/core-classes/druid/",
+        "https://www.d20pfsrd.com/classes/core-classes/fighter/",
+        "https://www.d20pfsrd.com/classes/unchained-classes/monk-unchained/",
+        "https://www.d20pfsrd.com/classes/core-classes/paladin/",
+        "https://www.d20pfsrd.com/classes/core-classes/ranger/",
+        "https://www.d20pfsrd.com/classes/core-classes/sorcerer/",
+        "https://www.d20pfsrd.com/classes/core-classes/wizard/",
+        "https://www.d20pfsrd.com/classes/unchained-classes/rogue-unchained/",
+        "https://www.d20pfsrd.com/CLASSES/ALTERNATE-CLASSES/antipaladin/",
+        "https://www.d20pfsrd.com/CLASSES/ALTERNATE-CLASSES/ninja/",
+        "https://www.d20pfsrd.com/CLASSES/ALTERNATE-CLASSES/samurai/",
+        "https://www.d20pfsrd.com/classes/hybrid-classes/arcanist/",
+        "https://www.d20pfsrd.com/classes/hybrid-classes/bloodrager/",
+        "https://www.d20pfsrd.com/classes/hybrid-classes/brawler/",
+        "https://www.d20pfsrd.com/classes/hybrid-classes/hunter/",
+        "https://www.d20pfsrd.com/classes/hybrid-classes/investigator/",
+        "https://www.d20pfsrd.com/classes/hybrid-classes/shaman/",
+        "https://www.d20pfsrd.com/classes/hybrid-classes/skald/",
+        "https://www.d20pfsrd.com/classes/hybrid-classes/slayer/",
+        "https://www.d20pfsrd.com/classes/hybrid-classes/swashbuckler/",
+        "https://www.d20pfsrd.com/classes/hybrid-classes/warpriest/",
+        "https://www.d20pfsrd.com/classes/unchained-classes/summoner-unchained",
+        "https://www.d20pfsrd.com/classes/base-classes/alchemist/",
+        "https://www.d20pfsrd.com/classes/base-classes/cavalier/",
+        "https://www.d20pfsrd.com/classes/base-classes/gunslinger/",
+        "https://www.d20pfsrd.com/classes/base-classes/inquisitor/",
+        "https://www.d20pfsrd.com/classes/base-classes/magus/",
+        "https://www.d20pfsrd.com/classes/base-classes/oracle/",
+        "https://www.d20pfsrd.com/classes/base-classes/shifter/",
+        "https://www.d20pfsrd.com/classes/base-classes/witch/",
+        "https://www.d20pfsrd.com/classes/base-classes/vigilante/",
+        "https://www.d20pfsrd.com/classes/base-classes/vampire-hunter/"
+      ],
+      "mode": "simple",
+      "category": "Classes",
+      "name_prefix": "Class"
+    }
+  ]
+}

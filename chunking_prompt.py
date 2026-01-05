@@ -55,7 +55,7 @@ Your task: Identify self-contained "topics" that should be retrieved together wh
 - "Grapple" as one section with all grappling rules together
 - "Blinded" condition as one section with all mechanical effects
 - Summary gives a quick overview of which rules are explained in the section, ie "Mechanics around initiating and escaping grapples"
-- Keywords include specific technical game terms like "initiative", "flat-footed", "grapple"
+- Keywords include a small number of specific technical game terms like "initiative", "flat-footed", "grapple"
 - Keywords are terms that would indicate this section should be retrieved if they appeared in a user's search, ie "grapple" for the section relevant to "How do I initiate a grapple?"
 
 ## Examples of BAD chunking:

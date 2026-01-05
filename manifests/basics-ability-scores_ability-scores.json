@@ -1,0 +1,192 @@
+{
+  "file": "ability-scores.md",
+  "source_path": "https://www.d20pfsrd.com/basics-ability-scores/ability-scores/",
+  "sections": [
+    {
+      "id": "generating_ability_scores",
+      "title": "Generating Ability Scores",
+      "anchor_heading": "## Generating Ability Scores",
+      "includes_subheadings": [
+        "### Determine Bonuses (or Penalties)"
+      ],
+      "description": "Complete rules for generating character ability scores including all methods (Standard, Classic, Heroic, Dice Pool, Purchase) with tables and calculation of ability modifiers",
+      "keywords": [
+        "ability score generation",
+        "point buy",
+        "dice rolling",
+        "ability modifiers",
+        "character creation"
+      ]
+    },
+    {
+      "id": "abilities_and_spellcasters",
+      "title": "Abilities and Spellcasters",
+      "anchor_heading": "## Abilities and Spellcasters",
+      "includes_subheadings": [],
+      "description": "How ability scores affect spellcasting, bonus spells table, and minimum ability requirements for different spellcaster classes",
+      "keywords": [
+        "spellcasting",
+        "bonus spells",
+        "spell DCs",
+        "wizard",
+        "cleric",
+        "sorcerer",
+        "bard"
+      ]
+    },
+    {
+      "id": "strength",
+      "title": "Strength",
+      "anchor_heading": "### Strength (Str)",
+      "includes_subheadings": [],
+      "description": "Complete rules for Strength ability score including what it affects, temporary/permanent bonuses, ability damage, and detailed reference table with carrying capacity",
+      "keywords": [
+        "strength",
+        "melee attack",
+        "damage",
+        "carrying capacity",
+        "combat maneuver"
+      ]
+    },
+    {
+      "id": "dexterity",
+      "title": "Dexterity",
+      "anchor_heading": "### Dexterity (Dex)",
+      "includes_subheadings": [],
+      "description": "Complete rules for Dexterity ability score including effects on ranged attacks, AC, initiative, skills, and bonuses/penalties",
+      "keywords": [
+        "dexterity",
+        "ranged attack",
+        "armor class",
+        "initiative",
+        "reflex save",
+        "acrobatics"
+      ]
+    },
+    {
+      "id": "constitution",
+      "title": "Constitution",
+      "anchor_heading": "### Constitution (Con)",
+      "includes_subheadings": [
+        "#### Notes:"
+      ],
+      "description": "Complete rules for Constitution ability score including hit points, fortitude saves, special rules for undead/constructs, and reference table",
+      "keywords": [
+        "constitution",
+        "hit points",
+        "fortitude save",
+        "undead",
+        "construct"
+      ]
+    },
+    {
+      "id": "intelligence",
+      "title": "Intelligence",
+      "anchor_heading": "### Intelligence (Int)",
+      "includes_subheadings": [
+        "#### Unoffical Paizo Board Post\u2026",
+        "#### Notes:"
+      ],
+      "description": "Complete rules for Intelligence ability score including skill points, languages, spell DCs, special creature type rules, and FAQ about headband of vast intelligence",
+      "keywords": [
+        "intelligence",
+        "skill points",
+        "languages",
+        "wizard spells",
+        "animal",
+        "ooze",
+        "vermin"
+      ]
+    },
+    {
+      "id": "wisdom",
+      "title": "Wisdom",
+      "anchor_heading": "### Wisdom (Wis)",
+      "includes_subheadings": [
+        "#### Notes:"
+      ],
+      "description": "Complete rules for Wisdom ability score including will saves, perception, spell DCs for divine casters, and reference table",
+      "keywords": [
+        "wisdom",
+        "will save",
+        "perception",
+        "divine spells",
+        "cleric",
+        "druid",
+        "ranger"
+      ]
+    },
+    {
+      "id": "charisma",
+      "title": "Charisma",
+      "anchor_heading": "### Charisma (Cha)",
+      "includes_subheadings": [
+        "#### Notes:"
+      ],
+      "description": "Complete rules for Charisma ability score including social skills, spell DCs, channel energy, undead lifeforce, and reference table",
+      "keywords": [
+        "charisma",
+        "social skills",
+        "channel energy",
+        "sorcerer spells",
+        "bard spells",
+        "paladin spells"
+      ]
+    },
+    {
+      "id": "ability_score_bonuses",
+      "title": "Ability Score Bonuses",
+      "anchor_heading": "## Ability Score Bonuses",
+      "includes_subheadings": [
+        "### Temporary Bonuses",
+        "### Permanent Bonuses"
+      ],
+      "description": "Rules for temporary and permanent ability score increases, including effects on skills, saves, spell DCs, and supernatural abilities",
+      "keywords": [
+        "ability bonus",
+        "temporary bonus",
+        "permanent bonus",
+        "enhancement",
+        "spell duration"
+      ]
+    },
+    {
+      "id": "ability_score_damage",
+      "title": "Ability Score Damage",
+      "anchor_heading": "## Ability Score Damage",
+      "includes_subheadings": [],
+      "description": "Complete rules for ability damage including penalties, unconsciousness conditions, death conditions, and healing",
+      "keywords": [
+        "ability damage",
+        "unconscious",
+        "penalties",
+        "poison",
+        "disease"
+      ]
+    },
+    {
+      "id": "ability_score_penalties",
+      "title": "Ability Score Penalties",
+      "anchor_heading": "## Ability Score Penalties",
+      "includes_subheadings": [],
+      "description": "Rules for temporary ability penalties and how they differ from ability damage",
+      "keywords": [
+        "ability penalties",
+        "temporary effects"
+      ]
+    },
+    {
+      "id": "ability_drain",
+      "title": "Ability Drain",
+      "anchor_heading": "## Ability Drain",
+      "includes_subheadings": [],
+      "description": "Rules for permanent ability score reduction and restoration methods",
+      "keywords": [
+        "ability drain",
+        "permanent reduction",
+        "restoration"
+      ]
+    }
+  ],
+  "source_name": "Ability Scores"
+}

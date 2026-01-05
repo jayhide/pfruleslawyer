@@ -1,0 +1,47 @@
+{
+  "file": "appraise.md",
+  "source_path": "https://www.d20pfsrd.com/skills/appraise/",
+  "source_name": "Skill: Appraise (Int)",
+  "sections": [
+    {
+      "id": "appraise",
+      "title": "Appraise (Int)",
+      "anchor_heading": "# Appraise (Int)",
+      "includes_subheadings": [
+        "### Common Uses",
+        "#### Appraise Value of Item",
+        "### Modifers",
+        "#### Appraise Unchained",
+        "## Bargaining",
+        "### Valuation",
+        "#### Step 1: Seller Sets the Asking Price",
+        "#### Step 2: Evaluate Item",
+        "#### Step 3: Determine Undercut",
+        "#### Step 4: Set Offers",
+        "#### Step 5: Bargain",
+        "### Example",
+        "### Collector NPCs",
+        "### Flooding The Market",
+        "### Trade Goods",
+        "### Using Magic to Bargain"
+      ],
+      "description": "Rules for the Appraise skill, including determining item values, skill modifiers, unchained skill unlocks, and detailed bargaining mechanics between buyers and sellers.",
+      "keywords": [
+        "Appraise",
+        "appraise skill",
+        "item value",
+        "appraise check",
+        "bargaining",
+        "valuation",
+        "skill unlocks",
+        "appraise unchained",
+        "treasure hoard",
+        "asking price",
+        "counteroffer",
+        "undercut percentage",
+        "collector NPCs",
+        "trade goods"
+      ]
+    }
+  ]
+}

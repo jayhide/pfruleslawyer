@@ -1,0 +1,47 @@
+{
+  "file": "warpriest.md",
+  "source_path": "https://www.d20pfsrd.com/classes/hybrid-classes/warpriest/",
+  "source_name": "Class: Warpriest",
+  "sections": [
+    {
+      "id": "warpriest",
+      "title": "Warpriest",
+      "anchor_heading": "# Warpriest",
+      "includes_subheadings": [
+        "### Class Skills",
+        "#### Weapon and Armor Proficiencies",
+        "#### Spell Casting (Divine)",
+        "#### Aura (Ex)",
+        "#### Blessings (Su)",
+        "#### Focus Weapon",
+        "#### Sacred Weapon (Su)",
+        "#### Bonus Languages",
+        "#### Fervor (Su)",
+        "#### Bonus Feats",
+        "#### Channel Energy (Su)",
+        "#### Sacred Armor (Su)",
+        "#### Aspect of War (Su)",
+        "#### Hammer of God (Su)"
+      ],
+      "description": "Complete rules for the Warpriest hybrid class, covering all class features, abilities, spell casting, blessings, sacred weapons and armor, fervor, and class progression from levels 1-20.",
+      "keywords": [
+        "warpriest",
+        "sacred weapon",
+        "fervor",
+        "blessings",
+        "sacred armor",
+        "channel energy",
+        "focus weapon",
+        "aspect of war",
+        "divine spellcasting",
+        "bonus feats",
+        "aura",
+        "orisons",
+        "spontaneous casting",
+        "hammer of god",
+        "ex-warpriests",
+        "favored class bonuses"
+      ]
+    }
+  ]
+}

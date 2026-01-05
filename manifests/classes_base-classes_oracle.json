@@ -1,0 +1,48 @@
+{
+  "file": "oracle.md",
+  "source_path": "https://www.d20pfsrd.com/classes/base-classes/oracle/",
+  "source_name": "Class: Oracle",
+  "sections": [
+    {
+      "id": "oracle",
+      "title": "Oracle",
+      "anchor_heading": "# Oracle",
+      "includes_subheadings": [
+        "### Class Skills",
+        "#### Weapon and Armor Proficiency",
+        "#### Spellcasting",
+        "#### Mystery",
+        "#### Paizo Oracle Mysteries",
+        "#### All Oracle Mysteries",
+        "#### Oracle's Curse (Ex)",
+        "#### Orisons",
+        "#### Revelation",
+        "#### Final Revelation",
+        "### Alternative Capstone Ability",
+        "#### Diverse Mysteries (Su)",
+        "## Favored Class Bonuses",
+        "## Archetypes & Alternate Class Features"
+      ],
+      "description": "This document covers the Oracle class rules, including spellcasting mechanics, mysteries, curses, revelations, and class progression from levels 1-20.",
+      "keywords": [
+        "oracle",
+        "oracle class",
+        "mystery",
+        "oracle mystery",
+        "revelation",
+        "oracle revelation",
+        "oracle curse",
+        "orisons",
+        "final revelation",
+        "divine spells",
+        "charisma-based spellcaster",
+        "oracle spellcasting",
+        "oracle archetype",
+        "dual-cursed oracle",
+        "spirit guide",
+        "planar oracle",
+        "diverse mysteries"
+      ]
+    }
+  ]
+}

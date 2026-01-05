@@ -1,0 +1,204 @@
+{
+  "file": "armor.md",
+  "source_path": "https://www.d20pfsrd.com/equipment/armor/",
+  "sections": [
+    {
+      "id": "armor_shields_tables",
+      "title": "Armor and Shields Tables",
+      "anchor_heading": "# Armor and Shields",
+      "includes_subheadings": [],
+      "description": "Complete tables listing all armor types (light, medium, heavy), shields, and extras with their costs, bonuses, penalties, and statistics",
+      "keywords": [
+        "armor table",
+        "shield table",
+        "armor statistics",
+        "armor cost",
+        "armor bonus"
+      ]
+    },
+    {
+      "id": "cost",
+      "title": "Armor and Shield Cost",
+      "anchor_heading": "### Cost",
+      "includes_subheadings": [],
+      "description": "Rules for armor and shield costs in gold pieces for different creature sizes",
+      "keywords": [
+        "cost",
+        "gold pieces",
+        "armor price"
+      ]
+    },
+    {
+      "id": "armor_shield_bonus",
+      "title": "Armor and Shield Bonus",
+      "anchor_heading": "### Armor/Shield Bonus",
+      "includes_subheadings": [],
+      "description": "How armor bonus and shield bonus work and stack with other effects",
+      "keywords": [
+        "armor bonus",
+        "shield bonus",
+        "armor class",
+        "stacking"
+      ]
+    },
+    {
+      "id": "maximum_dex_bonus",
+      "title": "Maximum Dexterity Bonus",
+      "anchor_heading": "### Maximum Dex Bonus",
+      "includes_subheadings": [],
+      "description": "How armor limits Dexterity bonus to AC and related mechanics including encumbrance effects",
+      "keywords": [
+        "maximum dex bonus",
+        "dexterity",
+        "mobility",
+        "encumbrance"
+      ]
+    },
+    {
+      "id": "armor_check_penalty",
+      "title": "Armor Check Penalty",
+      "anchor_heading": "### Armor Check Penalty",
+      "includes_subheadings": [],
+      "description": "Penalties to Dex and Str-based skills from armor and shields, including nonproficiency and sleeping penalties",
+      "keywords": [
+        "armor check penalty",
+        "skill penalty",
+        "nonproficient",
+        "sleeping in armor"
+      ]
+    },
+    {
+      "id": "arcane_spell_failure",
+      "title": "Arcane Spell Failure Chance",
+      "anchor_heading": "### Arcane Spell Failure Chance",
+      "includes_subheadings": [],
+      "description": "How armor interferes with arcane spellcasting and spell failure mechanics",
+      "keywords": [
+        "arcane spell failure",
+        "spell failure",
+        "somatic component",
+        "spellcasting"
+      ]
+    },
+    {
+      "id": "speed",
+      "title": "Armor Speed Reduction",
+      "anchor_heading": "### Speed",
+      "includes_subheadings": [],
+      "description": "How medium and heavy armor reduces movement speed for different races",
+      "keywords": [
+        "speed",
+        "movement",
+        "armor speed penalty"
+      ]
+    },
+    {
+      "id": "weight",
+      "title": "Armor Weight",
+      "anchor_heading": "### Weight",
+      "includes_subheadings": [],
+      "description": "Armor weight for different creature sizes",
+      "keywords": [
+        "weight",
+        "armor weight",
+        "size"
+      ]
+    },
+    {
+      "id": "damaging_armor",
+      "title": "Damaging Armor",
+      "anchor_heading": "### Damaging Armor",
+      "includes_subheadings": [],
+      "description": "Effects of the broken condition on armor and shields",
+      "keywords": [
+        "damaged armor",
+        "broken condition",
+        "armor damage"
+      ]
+    },
+    {
+      "id": "masterwork_armor",
+      "title": "Masterwork Armor",
+      "anchor_heading": "## Masterwork Armor",
+      "includes_subheadings": [],
+      "description": "Rules for masterwork armor and shields including costs, benefits, and creation",
+      "keywords": [
+        "masterwork",
+        "masterwork armor",
+        "armor check penalty reduction"
+      ]
+    },
+    {
+      "id": "donning_armor",
+      "title": "Getting Into and Out of Armor",
+      "anchor_heading": "## Getting Into and Out of Armor",
+      "includes_subheadings": [],
+      "description": "Time required to don and remove armor, including hastily donning armor and helper assistance",
+      "keywords": [
+        "donning armor",
+        "don armor",
+        "remove armor",
+        "armor time"
+      ]
+    },
+    {
+      "id": "mundane_armor_modifications",
+      "title": "Mundane Armor Modifications",
+      "anchor_heading": "## Mundane Armor Modifications",
+      "includes_subheadings": [
+        "#### Deflecting",
+        "#### Jarring",
+        "#### Vital Guard"
+      ],
+      "description": "Dwarven armor upgrades including deflecting, jarring, and vital guard modifications with their costs and effects",
+      "keywords": [
+        "armor modifications",
+        "deflecting",
+        "jarring",
+        "vital guard",
+        "dwarven armor"
+      ]
+    },
+    {
+      "id": "barding",
+      "title": "Barding",
+      "anchor_heading": "## Barding",
+      "includes_subheadings": [],
+      "description": "Armor for mounts including costs, speed penalties, and fitting requirements",
+      "keywords": [
+        "barding",
+        "mount armor",
+        "horse armor",
+        "animal armor"
+      ]
+    },
+    {
+      "id": "unusual_creatures_armor",
+      "title": "Armor for Unusual Creatures",
+      "anchor_heading": "## Armor for Unusual Creatures",
+      "includes_subheadings": [],
+      "description": "Cost and weight multipliers for armor sized for different creature sizes and types",
+      "keywords": [
+        "unusual creatures",
+        "size modifiers",
+        "armor sizing",
+        "creature size"
+      ]
+    },
+    {
+      "id": "eastern_armor",
+      "title": "Eastern Armor",
+      "anchor_heading": "## Eastern Armor",
+      "includes_subheadings": [],
+      "description": "Overview of Asian-inspired armor types organized by armor category",
+      "keywords": [
+        "eastern armor",
+        "asian armor",
+        "lamellar",
+        "do-maru",
+        "o-yoroi"
+      ]
+    }
+  ],
+  "source_name": ""
+}

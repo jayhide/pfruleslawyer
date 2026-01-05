@@ -1,0 +1,38 @@
+{
+  "file": "stealth.md",
+  "source_path": "https://www.d20pfsrd.com/skills/stealth/",
+  "source_name": "Skill: Stealth (Dex; Armor Check Penalty)",
+  "sections": [
+    {
+      "id": "stealth",
+      "title": "Stealth (Dex; Armor Check Penalty)",
+      "anchor_heading": "# Stealth (Dex; Armor Check Penalty)",
+      "includes_subheadings": [
+        "### Common Uses",
+        "#### Hide",
+        "#### Create a Diversion to Hide",
+        "#### Hide behind other Creatures",
+        "#### Sniping",
+        "### Action",
+        "### Modifiers",
+        "#### Stealth Unchained"
+      ],
+      "description": "Rules for the Stealth skill, covering hiding mechanics, movement penalties, sniping, creating diversions, and stealth modifiers including invisibility and size adjustments.",
+      "keywords": [
+        "stealth",
+        "hide",
+        "hiding",
+        "sniping",
+        "create diversion to hide",
+        "breaking stealth",
+        "stealth check",
+        "concealment",
+        "cover",
+        "invisibility bonus",
+        "stealth penalty",
+        "stealth unchained",
+        "signature skill"
+      ]
+    }
+  ]
+}

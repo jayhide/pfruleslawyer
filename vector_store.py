@@ -34,6 +34,73 @@ RETRIEVAL_WEIGHT = 0.6
 SPACY_MODEL = "en_core_web_sm"
 
 
+def strip_markdown_links(text: str) -> str:
+    """Strip markdown links from text, keeping only the link text.
+
+    Converts [link text](url) to just "link text" and removes bare URLs.
+    This produces cleaner text for semantic embedding.
+
+    Args:
+        text: Markdown text potentially containing links
+
+    Returns:
+        Text with links stripped
+    """
+    # Replace [text](url) with just text
+    text = re.sub(r'\[([^\]]+)\]\([^)]+\)', r'\1', text)
+    # Remove bare URLs (http/https)
+    text = re.sub(r'https?://\S+', '', text)
+    # Remove image references ![alt](url)
+    text = re.sub(r'!\[([^\]]*)\]\([^)]+\)', r'\1', text)
+    return text
+
+
+def fragment_to_heading_text(fragment: str) -> str:
+    """Convert URL fragment to searchable heading text.
+
+    Handles common fragment patterns from d20pfsrd.com:
+    - 'TOC-Threatened-Squares' -> 'threatened squares'
+    - 'class_skills' -> 'class skills'
+
+    Args:
+        fragment: URL fragment (without the # prefix)
+
+    Returns:
+        Normalized heading text (lowercase)
+    """
+    # Remove common prefixes
+    text = fragment
+    if text.upper().startswith("TOC-"):
+        text = text[4:]
+
+    # Replace hyphens and underscores with spaces
+    text = text.replace("-", " ").replace("_", " ")
+
+    # Normalize whitespace and lowercase
+    return " ".join(text.lower().split())
+
+
+def normalize_url(url: str) -> tuple[str, str | None]:
+    """Parse and normalize a URL, extracting base and fragment.
+
+    Args:
+        url: Full URL, possibly with fragment
+
+    Returns:
+        Tuple of (base_url, fragment) where fragment may be None
+    """
+    # Split on # to get fragment
+    if "#" in url:
+        base, fragment = url.split("#", 1)
+    else:
+        base, fragment = url, None
+
+    # Normalize base URL - ensure consistent trailing slash
+    base = base.rstrip("/") + "/"
+
+    return base, fragment
+
+
 class Lemmatizer:
     """Lemmatizer for normalizing words to their base form.
 
@@ -245,6 +312,8 @@ class RulesVectorStore:
         self._subheading_index: dict[str, list[str]] | None = None
         self._title_index: dict[str, list[str]] | None = None
         self._section_metadata: dict[str, dict] | None = None
+        self._url_index: dict[str, list[str]] | None = None  # base URL -> section unique_ids
+        self._heading_to_section: dict[str, dict[str, str]] | None = None  # base URL -> {heading_text: unique_id}
 
     def _load_keyword_index(self) -> None:
         """Load keyword and subheading indices from manifests.
@@ -258,6 +327,8 @@ class RulesVectorStore:
         self._subheading_index = {}  # lemmatized subheading -> list of section unique_ids
         self._title_index = {}  # lemmatized title/anchor_heading -> list of section unique_ids
         self._section_metadata = {}  # unique_id -> section metadata
+        self._url_index = {}  # normalized base URL -> list of section unique_ids
+        self._heading_to_section = {}  # normalized base URL -> {normalized_heading: unique_id}
 
         lemmatizer = Lemmatizer()
 
@@ -323,6 +394,29 @@ class RulesVectorStore:
                         self._title_index[anchor_lemma] = []
                     self._title_index[anchor_lemma].append(unique_id)
 
+                # Index by URL for link resolution
+                if source_path.startswith("http"):
+                    base_url, _ = normalize_url(source_path)
+
+                    # Add to URL index
+                    if base_url not in self._url_index:
+                        self._url_index[base_url] = []
+                    self._url_index[base_url].append(unique_id)
+
+                    # Build heading-to-section mapping for this URL
+                    if base_url not in self._heading_to_section:
+                        self._heading_to_section[base_url] = {}
+
+                    # Index the anchor heading (normalized, lowercase)
+                    anchor_normalized = anchor_text.lower()
+                    self._heading_to_section[base_url][anchor_normalized] = unique_id
+
+                    # Index all subheadings
+                    for subheading in section.get("includes_subheadings", []):
+                        sub_text = re.sub(r'^[#\s*]+', '', subheading).strip('* ')
+                        sub_normalized = sub_text.lower()
+                        self._heading_to_section[base_url][sub_normalized] = unique_id
+
     @staticmethod
     def _fallback_source_name(source_path: str) -> str:
         """Generate a display name from source path when source_name is missing.
@@ -332,6 +426,95 @@ class RulesVectorStore:
         # Import here to avoid circular imports
         from preprocess_sections import get_source_name
         return get_source_name(source_path)
+
+    def resolve_link(self, url: str) -> dict:
+        """Resolve a URL (with optional fragment) to a section.
+
+        Used to "follow" links in rules content. Handles URLs with fragments
+        like #TOC-Threatened-Squares by matching to the appropriate section.
+
+        Args:
+            url: Full URL, optionally with fragment (e.g., #TOC-Something)
+
+        Returns:
+            Dict with section data including 'content', or error dict with 'error' key
+        """
+        self._load_keyword_index()
+
+        base_url, fragment = normalize_url(url)
+
+        # Check if we have this URL in our index
+        if base_url not in self._url_index:
+            # Try without trailing slash
+            alt_url = base_url.rstrip("/")
+            if alt_url + "/" not in self._url_index and alt_url not in self._url_index:
+                return {"error": "URL not in database", "url": url}
+
+        section_ids = self._url_index.get(base_url, [])
+        if not section_ids:
+            return {"error": "URL not in database", "url": url}
+
+        # If no fragment, return the first section for this URL
+        if not fragment:
+            unique_id = section_ids[0]
+            return self._get_section_result(unique_id)
+
+        # Convert fragment to heading text and look up
+        heading_text = fragment_to_heading_text(fragment)
+        heading_map = self._heading_to_section.get(base_url, {})
+
+        # Try exact match first
+        if heading_text in heading_map:
+            unique_id = heading_map[heading_text]
+            return self._get_section_result(unique_id)
+
+        # Try partial/fuzzy match - find heading containing the fragment text
+        for heading, uid in heading_map.items():
+            if heading_text in heading or heading in heading_text:
+                return self._get_section_result(uid)
+
+        # Fragment not found - return first section with a note
+        return {
+            "error": "Fragment not found",
+            "url": url,
+            "fragment": fragment,
+            "available_sections": [self._section_metadata[sid]["title"] for sid in section_ids[:5]]
+        }
+
+    def _get_section_result(self, unique_id: str) -> dict:
+        """Get full section data for a unique_id.
+
+        Args:
+            unique_id: Section unique ID (source_path::section_id)
+
+        Returns:
+            Dict with section metadata and content
+        """
+        # Get metadata from our index
+        metadata = self._section_metadata.get(unique_id)
+        if not metadata:
+            return {"error": "Section not found", "id": unique_id}
+
+        # Get full content from ChromaDB
+        result = self.collection.get(
+            ids=[unique_id],
+            include=["metadatas"]
+        )
+
+        if not result["ids"]:
+            return {"error": "Section not in vector store", "id": unique_id}
+
+        # Return content from metadata (original with links)
+        content = result["metadatas"][0].get("content", "")
+
+        return {
+            "id": unique_id,
+            "title": metadata["title"],
+            "description": metadata["description"],
+            "source_name": metadata["source_name"],
+            "anchor_heading": metadata["anchor_heading"],
+            "content": content
+        }
 
     @staticmethod
     def _cosine_distance(vec1: list[float], vec2: list[float]) -> float:
@@ -454,12 +637,14 @@ class RulesVectorStore:
             for section in batch:
                 # Create a rich document for embedding
                 # Include title, description, keywords prominently
+                # Strip markdown links for cleaner semantic embedding
                 keywords_str = ", ".join(section.keywords)
+                stripped_content = strip_markdown_links(section.content)
                 doc_text = f"""Title: {section.title}
 Description: {section.description}
 Keywords: {keywords_str}
 
-{section.content}"""
+{stripped_content}"""
 
                 # Use source_file + id to ensure uniqueness across files
                 unique_id = f"{section.source_file}::{section.id}"
@@ -472,6 +657,7 @@ Keywords: {keywords_str}
                     "source_file": section.source_file,
                     "source_name": section.source_name,
                     "anchor_heading": section.anchor_heading,
+                    "content": section.content,  # Original content with links
                     "content_length": len(section.content)
                 })
 
@@ -548,7 +734,8 @@ Keywords: {keywords_str}
                 "keyword_boost": boosts["keyword_boost"],
                 "subheading_boost": boosts["subheading_boost"],
                 "title_boost": boosts["title_boost"],
-                "content": results["documents"][0][i] if include_content else None
+                # Return original content with links from metadata
+                "content": results["metadatas"][0][i].get("content") if include_content else None
             }
 
         # Add any exact matches not in vector results - compute their semantic scores
@@ -585,7 +772,8 @@ Keywords: {keywords_str}
                     "keyword_boost": boosts["keyword_boost"],
                     "subheading_boost": boosts["subheading_boost"],
                     "title_boost": boosts["title_boost"],
-                    "content": extra_results["documents"][i] if include_content else None
+                    # Return original content with links from metadata
+                    "content": extra_results["metadatas"][i].get("content") if include_content else None
                 }
 
         # Sort by score and return top n

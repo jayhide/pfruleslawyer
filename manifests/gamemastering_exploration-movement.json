@@ -1,0 +1,116 @@
+{
+  "file": "exploration-movement.md",
+  "source_path": "https://www.d20pfsrd.com/gamemastering/exploration-movement/",
+  "sections": [
+    {
+      "id": "exploration_system",
+      "title": "Exploration System",
+      "anchor_heading": "## Exploration",
+      "includes_subheadings": [
+        "### The Exploration Process",
+        "### Character Actions",
+        "### Additional Factors",
+        "### Exploration Rewards",
+        "### Creating A Territory",
+        "### Example Territory: Gnoll Canyon",
+        "#### Gnoll Canyon Territory CR 5"
+      ],
+      "description": "Complete system for wilderness exploration including Discovery Points, exploration checks, territories, locations, and way signs",
+      "keywords": [
+        "exploration",
+        "discovery_points",
+        "territory",
+        "way_signs",
+        "survival"
+      ]
+    },
+    {
+      "id": "carrying_capacity",
+      "title": "Carrying Capacity and Encumbrance",
+      "anchor_heading": "## Carrying Capacity",
+      "includes_subheadings": [
+        "### Armor and Encumbrance for Other Base Speeds"
+      ],
+      "description": "Rules for determining how much weight characters can carry and how encumbrance affects movement and abilities",
+      "keywords": [
+        "carrying_capacity",
+        "encumbrance",
+        "strength",
+        "load",
+        "armor"
+      ]
+    },
+    {
+      "id": "movement_system",
+      "title": "Movement System",
+      "anchor_heading": "## Movement",
+      "includes_subheadings": [
+        "### Modes of Movement",
+        "### Tactical Movement",
+        "### Local Movement",
+        "### Overland Movement"
+      ],
+      "description": "Complete movement rules covering tactical, local, and overland movement scales including walking, hustling, and running",
+      "keywords": [
+        "movement",
+        "tactical",
+        "overland",
+        "speed",
+        "hustle",
+        "run"
+      ]
+    },
+    {
+      "id": "evasion_pursuit",
+      "title": "Evasion and Pursuit",
+      "anchor_heading": "## Evasion and Pursuit",
+      "includes_subheadings": [],
+      "description": "Rules for resolving chases and pursuits between characters of different speeds",
+      "keywords": [
+        "chase",
+        "pursuit",
+        "evasion",
+        "dexterity",
+        "constitution"
+      ]
+    },
+    {
+      "id": "vision_light",
+      "title": "Vision and Light",
+      "anchor_heading": "## Vision and Light",
+      "includes_subheadings": [
+        "### Bright Light",
+        "### Normal Light",
+        "### Dim Light",
+        "### Darkness"
+      ],
+      "description": "Complete rules for different lighting conditions and their effects on vision, stealth, and combat",
+      "keywords": [
+        "vision",
+        "light",
+        "darkness",
+        "darkvision",
+        "concealment",
+        "stealth"
+      ]
+    },
+    {
+      "id": "breaking_entering",
+      "title": "Breaking and Entering",
+      "anchor_heading": "## Breaking and Entering",
+      "includes_subheadings": [
+        "### Smashing an Object",
+        "### Breaking Items"
+      ],
+      "description": "Rules for destroying objects through combat or strength checks, including hardness, hit points, and break DCs",
+      "keywords": [
+        "breaking",
+        "hardness",
+        "sunder",
+        "strength_check",
+        "objects"
+      ]
+    }
+  ],
+  "source_name": "Exploration & Movement"
+}

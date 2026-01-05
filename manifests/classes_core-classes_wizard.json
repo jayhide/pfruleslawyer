@@ -1,0 +1,54 @@
+{
+  "file": "wizard.md",
+  "source_path": "https://www.d20pfsrd.com/classes/core-classes/wizard/",
+  "source_name": "Class: Wizard",
+  "sections": [
+    {
+      "id": "wizard",
+      "title": "Wizard",
+      "anchor_heading": "# Wizard",
+      "includes_subheadings": [
+        "### Class Skills",
+        "#### Weapon and Armor Proficiency",
+        "#### Spells",
+        "#### Bonus Languages",
+        "#### Arcane Bond (Ex or Sp)",
+        "#### Arcane School",
+        "#### Elemental Arcane Schools",
+        "#### Cantrips",
+        "#### Scribe Scroll",
+        "#### Bonus Feats",
+        "### Alternative Capstone Ability",
+        "#### Well-Prepared (Su)",
+        "### Spellbooks",
+        "#### Adding Spells to a Wizard's Spellbook",
+        "### Arcane Spells and Armor"
+      ],
+      "description": "Complete rules for the Wizard class in Pathfinder 1e, covering class features, arcane schools, spellcasting mechanics, spellbooks, familiars, bonded objects, and archetypes.",
+      "keywords": [
+        "wizard",
+        "arcane bond",
+        "arcane school",
+        "spellbook",
+        "cantrips",
+        "scribe scroll",
+        "bonus feats",
+        "familiar",
+        "bonded object",
+        "opposition schools",
+        "specialist wizard",
+        "universalist",
+        "elemental arcane schools",
+        "metamagic feats",
+        "item creation feats",
+        "spell mastery",
+        "arcane discoveries",
+        "well-prepared",
+        "arcane spells and armor",
+        "spell failure chance",
+        "concentration check",
+        "intelligence modifier"
+      ]
+    }
+  ]
+}

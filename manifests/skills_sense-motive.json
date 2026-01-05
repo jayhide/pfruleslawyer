@@ -1,0 +1,52 @@
+{
+  "file": "sense-motive.md",
+  "source_path": "https://www.d20pfsrd.com/skills/sense-motive/",
+  "source_name": "Skill: Sense Motive (Wis)",
+  "sections": [
+    {
+      "id": "sense_motive",
+      "title": "Sense Motive (Wis)",
+      "anchor_heading": "# Sense Motive (Wis)",
+      "includes_subheadings": [
+        "### Common Uses",
+        "### Action",
+        "### Modifiers",
+        "#### Sense Motive Unchained",
+        "### Valuation",
+        "#### Step 1: Seller Sets the Asking Price",
+        "#### Step 2: Evaluate Item",
+        "#### Step 3: Determine Undercut",
+        "#### Step 4: Set Offers",
+        "#### Step 5: Bargain",
+        "### Example",
+        "### Collector NPCs",
+        "### Flooding The Market",
+        "### Trade Goods",
+        "### Using Magic to Bargain",
+        "### Unofficial Extras!"
+      ],
+      "description": "Rules for the Sense Motive skill including detecting lies, enchantments, and secret messages, plus detailed bargaining mechanics for buying and selling items.",
+      "keywords": [
+        "Sense Motive",
+        "hunch",
+        "sense enchantment",
+        "discern secret message",
+        "detect falsehoods",
+        "trustworthiness",
+        "bargaining",
+        "valuation",
+        "appraise",
+        "asking price",
+        "undercut",
+        "initial offer",
+        "final offer",
+        "collector NPCs",
+        "flooding the market",
+        "analyze prowess",
+        "quick scan",
+        "Sense Motive Unchained",
+        "skill unlocks"
+      ]
+    }
+  ]
+}

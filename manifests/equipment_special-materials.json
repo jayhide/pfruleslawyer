@@ -1,0 +1,627 @@
+{
+  "file": "special-materials.md",
+  "source_path": "https://www.d20pfsrd.com/equipment/special-materials/",
+  "sections": [
+    {
+      "id": "power_components",
+      "title": "Power Components",
+      "anchor_heading": "### What is a Power Component?",
+      "includes_subheadings": [],
+      "description": "Rules for using special materials as consumable spell components to enhance magic",
+      "keywords": [
+        "power component",
+        "material component",
+        "spell enhancement",
+        "metamagic"
+      ]
+    },
+    {
+      "id": "abysium",
+      "title": "Abysium",
+      "anchor_heading": "#### Abysium",
+      "includes_subheadings": [],
+      "description": "Glowing blue-green metal that sickens wielders but can be crafted into poison",
+      "keywords": [
+        "abysium",
+        "sickened",
+        "poison",
+        "glowing"
+      ]
+    },
+    {
+      "id": "adamantine",
+      "title": "Adamantine",
+      "anchor_heading": "#### Adamantine",
+      "includes_subheadings": [],
+      "description": "Extremely strong metal that bypasses hardness and grants damage reduction",
+      "keywords": [
+        "adamantine",
+        "hardness",
+        "damage reduction",
+        "sunder"
+      ]
+    },
+    {
+      "id": "angelskin",
+      "title": "Angelskin",
+      "anchor_heading": "#### Angelskin",
+      "includes_subheadings": [],
+      "description": "Angel skin armor that masks evil auras and provides protection against alignment-based effects",
+      "keywords": [
+        "angelskin",
+        "evil aura",
+        "alignment",
+        "detect evil"
+      ]
+    },
+    {
+      "id": "aszite",
+      "title": "Aszite",
+      "anchor_heading": "#### Aszite",
+      "includes_subheadings": [],
+      "description": "Shadow Plane ore that enhances darkness-based spells and stealth",
+      "keywords": [
+        "aszite",
+        "darkness descriptor",
+        "stealth",
+        "shadow plane"
+      ]
+    },
+    {
+      "id": "basalt_magic_bridge",
+      "title": "Magic Bridge Basalt",
+      "anchor_heading": "#### Basalt, Magic Bridge",
+      "includes_subheadings": [],
+      "description": "Magically infused stone ideal for crafting constructs with enhanced properties",
+      "keywords": [
+        "basalt",
+        "construct",
+        "stone",
+        "building"
+      ]
+    },
+    {
+      "id": "bone",
+      "title": "Bone",
+      "anchor_heading": "#### Bone",
+      "includes_subheadings": [],
+      "description": "Animal-based material for weapons and armor with fragile quality and reduced cost",
+      "keywords": [
+        "bone",
+        "fragile",
+        "animal material",
+        "horn",
+        "shell",
+        "ivory"
+      ]
+    },
+    {
+      "id": "bronze",
+      "title": "Bronze",
+      "anchor_heading": "#### Bronze",
+      "includes_subheadings": [],
+      "description": "Ancient metal that can replace steel for most weapons and armor but has fragile quality",
+      "keywords": [
+        "bronze",
+        "fragile",
+        "brass",
+        "copper",
+        "tin"
+      ]
+    },
+    {
+      "id": "cryptstone",
+      "title": "Cryptstone",
+      "anchor_heading": "#### Cryptstone",
+      "includes_subheadings": [],
+      "description": "Dense gray stone that provides bonuses against undead and affects incorporeal creatures",
+      "keywords": [
+        "cryptstone",
+        "undead",
+        "incorporeal",
+        "disruption"
+      ]
+    },
+    {
+      "id": "blood_crystal",
+      "title": "Blood Crystal",
+      "anchor_heading": "#### Crystal, Blood",
+      "includes_subheadings": [],
+      "description": "Bloodcraving crystal that deals extra damage to bleeding targets",
+      "keywords": [
+        "blood crystal",
+        "bleed",
+        "piercing",
+        "slashing"
+      ]
+    },
+    {
+      "id": "darkleaf_cloth",
+      "title": "Darkleaf Cloth",
+      "anchor_heading": "#### Darkleaf Cloth",
+      "includes_subheadings": [],
+      "description": "Flexible fabric from darkwood that reduces spell failure and improves armor mobility",
+      "keywords": [
+        "darkleaf cloth",
+        "spell failure",
+        "dexterity bonus",
+        "armor check penalty"
+      ]
+    },
+    {
+      "id": "darkwood",
+      "title": "Darkwood",
+      "anchor_heading": "#### Darkwood",
+      "includes_subheadings": [],
+      "description": "Rare magic wood that is lightweight but maintains strength for weapons and shields",
+      "keywords": [
+        "darkwood",
+        "lightweight",
+        "masterwork",
+        "wooden weapons"
+      ]
+    },
+    {
+      "id": "druchite",
+      "title": "Druchite",
+      "anchor_heading": "#### Druchite",
+      "includes_subheadings": [],
+      "description": "Shadow Plane ore that provides concealment and bonuses against darkvision",
+      "keywords": [
+        "druchite",
+        "darkvision",
+        "miss chance",
+        "shadow plane"
+      ]
+    },
+    {
+      "id": "djezet",
+      "title": "Djezet",
+      "anchor_heading": "#### Djezet",
+      "includes_subheadings": [],
+      "description": "Liquid skymetal that enhances spell levels when used as material component",
+      "keywords": [
+        "djezet",
+        "spell level",
+        "material component",
+        "skymetal",
+        "liquid"
+      ]
+    },
+    {
+      "id": "dragonhide",
+      "title": "Dragonhide",
+      "anchor_heading": "#### Dragonhide",
+      "includes_subheadings": [],
+      "description": "Dragon skin armor with energy immunity and enhanced protection options",
+      "keywords": [
+        "dragonhide",
+        "energy immunity",
+        "dragon",
+        "masterwork"
+      ]
+    },
+    {
+      "id": "dragonskin",
+      "title": "Dragonskin",
+      "anchor_heading": "#### Dragonskin",
+      "includes_subheadings": [],
+      "description": "Dragon underbelly skin for weapon grips that prevents disarm attempts",
+      "keywords": [
+        "dragonskin",
+        "disarm",
+        "weapon grip",
+        "CMD"
+      ]
+    },
+    {
+      "id": "eel_hide",
+      "title": "Eel Hide",
+      "anchor_heading": "#### Eel Hide",
+      "includes_subheadings": [],
+      "description": "Flexible hide armor with improved mobility and electricity resistance",
+      "keywords": [
+        "eel hide",
+        "electricity resistance",
+        "armor check penalty",
+        "dexterity"
+      ]
+    },
+    {
+      "id": "elysian_bronze",
+      "title": "Elysian Bronze",
+      "anchor_heading": "#### Elysian Bronze",
+      "includes_subheadings": [],
+      "description": "Titan-crafted bronze effective against magical beasts and monstrous humanoids",
+      "keywords": [
+        "elysian bronze",
+        "magical beast",
+        "monstrous humanoid",
+        "titan"
+      ]
+    },
+    {
+      "id": "gold",
+      "title": "Gold",
+      "anchor_heading": "#### Gold",
+      "includes_subheadings": [],
+      "description": "Ceremonial metal that is heavy, fragile, and expensive for weapons and armor",
+      "keywords": [
+        "gold",
+        "ceremonial",
+        "fragile",
+        "heavy",
+        "expensive"
+      ]
+    },
+    {
+      "id": "greenwood",
+      "title": "Greenwood",
+      "anchor_heading": "#### Greenwood",
+      "includes_subheadings": [],
+      "description": "Living wood that self-repairs when watered and touching soil, resistant to fire",
+      "keywords": [
+        "greenwood",
+        "living wood",
+        "self-repair",
+        "treant",
+        "dryad"
+      ]
+    },
+    {
+      "id": "griffon_mane",
+      "title": "Griffon Mane",
+      "anchor_heading": "#### Griffon Mane",
+      "includes_subheadings": [],
+      "description": "Cloth woven from magical beast manes that enhances flight abilities",
+      "keywords": [
+        "griffon mane",
+        "fly",
+        "magical beast",
+        "competence bonus"
+      ]
+    },
+    {
+      "id": "horacalcum",
+      "title": "Horacalcum",
+      "anchor_heading": "#### Horacalcum",
+      "includes_subheadings": [],
+      "description": "Time-warping skymetal that provides attack bonuses and initiative improvements",
+      "keywords": [
+        "horacalcum",
+        "time",
+        "initiative",
+        "attack bonus",
+        "skymetal"
+      ]
+    },
+    {
+      "id": "inubrix",
+      "title": "Inubrix",
+      "anchor_heading": "#### Inubrix",
+      "includes_subheadings": [],
+      "description": "Phase-shifting skymetal that bypasses iron and steel armor but is fragile",
+      "keywords": [
+        "inubrix",
+        "phase",
+        "iron",
+        "steel",
+        "broken condition"
+      ]
+    },
+    {
+      "id": "cold_iron",
+      "title": "Cold Iron",
+      "anchor_heading": "#### Iron, Cold",
+      "includes_subheadings": [],
+      "description": "Special iron effective against demons and fey, expensive to enhance magically",
+      "keywords": [
+        "cold iron",
+        "demon",
+        "fey",
+        "magical enhancement"
+      ]
+    },
+    {
+      "id": "mindglass",
+      "title": "Mindglass",
+      "anchor_heading": "#### Mindglass",
+      "includes_subheadings": [],
+      "description": "Psychic-resistant material that stores mental energy and disrupts spellcasting",
+      "keywords": [
+        "mindglass",
+        "psychic",
+        "mind-affecting",
+        "concentration",
+        "disruptive"
+      ]
+    },
+    {
+      "id": "mithral",
+      "title": "Mithral",
+      "anchor_heading": "#### Mithral",
+      "includes_subheadings": [],
+      "description": "Lightweight silvery metal that reduces armor restrictions and counts as silver",
+      "keywords": [
+        "mithral",
+        "lightweight",
+        "armor category",
+        "spell failure",
+        "silver"
+      ]
+    },
+    {
+      "id": "noqual",
+      "title": "Noqual",
+      "anchor_heading": "#### Noqual",
+      "includes_subheadings": [],
+      "description": "Magic-resistant crystal that provides saving throw bonuses but increases spell failure",
+      "keywords": [
+        "noqual",
+        "magic resistance",
+        "saving throw",
+        "spell failure",
+        "construct",
+        "undead"
+      ]
+    },
+    {
+      "id": "obsidian",
+      "title": "Obsidian",
+      "anchor_heading": "#### Obsidian",
+      "includes_subheadings": [],
+      "description": "Sharp volcanic glass for weapons that is lightweight but fragile",
+      "keywords": [
+        "obsidian",
+        "volcanic glass",
+        "sharp",
+        "fragile",
+        "lightweight"
+      ]
+    },
+    {
+      "id": "siccatite",
+      "title": "Siccatite",
+      "anchor_heading": "#### Siccatite",
+      "includes_subheadings": [],
+      "description": "Temperature-extreme skymetal that deals fire or cold damage and provides resistance",
+      "keywords": [
+        "siccatite",
+        "fire damage",
+        "cold damage",
+        "energy resistance",
+        "temperature"
+      ]
+    },
+    {
+      "id": "alchemical_silver",
+      "title": "Alchemical Silver",
+      "anchor_heading": "#### Silver, Alchemical",
+      "includes_subheadings": [],
+      "description": "Silver-treated steel weapons that bypass lycanthrope damage reduction",
+      "keywords": [
+        "alchemical silver",
+        "lycanthrope",
+        "damage reduction",
+        "silvered"
+      ]
+    },
+    {
+      "id": "silversheen",
+      "title": "Silversheen",
+      "anchor_heading": "#### Silversheen",
+      "includes_subheadings": [],
+      "description": "Rust-immune metal that functions as alchemical silver",
+      "keywords": [
+        "silversheen",
+        "rust immunity",
+        "rust monster",
+        "alchemical silver"
+      ]
+    },
+    {
+      "id": "skymetal_alloys",
+      "title": "Skymetal Alloys",
+      "anchor_heading": "#### Skymetal Alloys",
+      "includes_subheadings": [],
+      "description": "Mixed metals including glaucite adamantine-iron alloy for heavy construction",
+      "keywords": [
+        "skymetal alloy",
+        "glaucite",
+        "adamantine",
+        "iron",
+        "ship hull"
+      ]
+    },
+    {
+      "id": "fire_forged_steel",
+      "title": "Fire-Forged Steel",
+      "anchor_heading": "#### Steel, Fire-forged",
+      "includes_subheadings": [],
+      "description": "Heat-channeling steel that provides fire resistance and can gain fire damage",
+      "keywords": [
+        "fire-forged steel",
+        "fire resistance",
+        "fire damage",
+        "heat"
+      ]
+    },
+    {
+      "id": "frost_forged_steel",
+      "title": "Frost-Forged Steel",
+      "anchor_heading": "#### Steel, Frost-Forged",
+      "includes_subheadings": [],
+      "description": "Cold-channeling steel that works like fire-forged but with cold effects",
+      "keywords": [
+        "frost-forged steel",
+        "cold resistance",
+        "cold damage"
+      ]
+    },
+    {
+      "id": "living_steel",
+      "title": "Living Steel",
+      "anchor_heading": "#### Steel, Living",
+      "includes_subheadings": [],
+      "description": "Self-repairing metal that can damage weapons striking it",
+      "keywords": [
+        "living steel",
+        "self-repair",
+        "weapon damage",
+        "natural 1"
+      ]
+    },
+    {
+      "id": "singing_steel",
+      "title": "Singing Steel",
+      "anchor_heading": "#### Steel, Singing",
+      "includes_subheadings": [],
+      "description": "Musical metal that enhances bardic performance and functions as alchemical silver",
+      "keywords": [
+        "singing steel",
+        "bardic performance",
+        "alchemical silver",
+        "bell tones"
+      ]
+    },
+    {
+      "id": "stainless_steel",
+      "title": "Stainless Steel",
+      "anchor_heading": "#### Steel, Stainless",
+      "includes_subheadings": [],
+      "description": "Rust-resistant steel immune to rusting effects",
+      "keywords": [
+        "stainless steel",
+        "rust immunity",
+        "rust monster",
+        "chromium"
+      ]
+    },
+    {
+      "id": "stone",
+      "title": "Stone",
+      "anchor_heading": "#### Stone",
+      "includes_subheadings": [],
+      "description": "Primitive stone weapons that are cheap and lightweight but fragile",
+      "keywords": [
+        "stone",
+        "primitive",
+        "fragile",
+        "flint",
+        "arrowhead"
+      ]
+    },
+    {
+      "id": "sunsilk",
+      "title": "Sunsilk",
+      "anchor_heading": "#### Sunsilk",
+      "includes_subheadings": [],
+      "description": "Golden silk fabric that provides damage reduction against slashing and piercing",
+      "keywords": [
+        "sunsilk",
+        "damage reduction",
+        "bludgeoning",
+        "golden silk"
+      ]
+    },
+    {
+      "id": "sunsilver",
+      "title": "Sunsilver",
+      "anchor_heading": "#### Sunsilver",
+      "includes_subheadings": [],
+      "description": "Rust-immune silver that can dazzle enemies in bright light",
+      "keywords": [
+        "sunsilver",
+        "rust immunity",
+        "dazzled",
+        "bright light",
+        "alchemical silver"
+      ]
+    },
+    {
+      "id": "serpentstone",
+      "title": "Serpentstone",
+      "anchor_heading": "#### SerpentStone",
+      "includes_subheadings": [],
+      "description": "Ancient serpentfolk stone that produces programmable light, sound, and illusions",
+      "keywords": [
+        "serpentstone",
+        "serpentfolk",
+        "light",
+        "sound",
+        "major image"
+      ]
+    },
+    {
+      "id": "spiresteel",
+      "title": "Spiresteel",
+      "anchor_heading": "#### Spiresteel",
+      "includes_subheadings": [],
+      "description": "Soul-attracting metal that protects against incorporeal attacks and staggers on crits",
+      "keywords": [
+        "spiresteel",
+        "incorporeal",
+        "soul energy",
+        "staggered",
+        "critical hit"
+      ]
+    },
+    {
+      "id": "viridium",
+      "title": "Viridium",
+      "anchor_heading": "#### Viridium",
+      "includes_subheadings": [],
+      "description": "Toxic volcanic glass that inflicts disease and requires protective storage",
+      "keywords": [
+        "viridium",
+        "leprosy",
+        "toxic",
+        "volcanic glass",
+        "disease"
+      ]
+    },
+    {
+      "id": "voidglass",
+      "title": "Voidglass",
+      "anchor_heading": "#### Voidglass",
+      "includes_subheadings": [],
+      "description": "Psychic crystal material that enhances mental defenses and weapon damage",
+      "keywords": [
+        "voidglass",
+        "psychic",
+        "mind-affecting",
+        "resistance bonus",
+        "grioth"
+      ]
+    },
+    {
+      "id": "whipwood",
+      "title": "Whipwood",
+      "anchor_heading": "#### Whipwood",
+      "includes_subheadings": [],
+      "description": "Flexible composite wood that resists sundering and has increased hit points",
+      "keywords": [
+        "whipwood",
+        "flexible",
+        "sunder",
+        "CMD",
+        "vanara"
+      ]
+    },
+    {
+      "id": "wyroot",
+      "title": "Wyroot",
+      "anchor_heading": "#### Wyroot",
+      "includes_subheadings": [],
+      "description": "Life-absorbing wood that gains life points on critical hits for ki or arcane pool conversion",
+      "keywords": [
+        "wyroot",
+        "life point",
+        "critical hit",
+        "ki pool",
+        "arcane pool"
+      ]
+    }
+  ],
+  "source_name": ""
+}

@@ -1,0 +1,62 @@
+{
+  "file": "paladin.md",
+  "source_path": "https://www.d20pfsrd.com/classes/core-classes/paladin/",
+  "source_name": "Class: Paladin",
+  "sections": [
+    {
+      "id": "paladin",
+      "title": "Paladin",
+      "anchor_heading": "# Paladin",
+      "includes_subheadings": [
+        "### Class Skills",
+        "#### Weapon and Armor Proficiency",
+        "#### Aura of Good (Ex)",
+        "#### Detect Evil (Sp)",
+        "#### Smite Evil (Su)",
+        "#### Divine Grace (Su)",
+        "#### Lay On Hands (Su)",
+        "#### Aura of Courage (Su)",
+        "#### Divine Health (Ex)",
+        "#### Mercy (Su)",
+        "#### Channel Positive Energy (Su)",
+        "#### Spells",
+        "#### Divine Bond (Sp)",
+        "### Animal Companion Feats and Archetypes",
+        "### Divine Bond Variants (Optional)",
+        "#### Aura of Resolve (Su)",
+        "#### Aura of Justice (Su)",
+        "#### Aura of Faith (Su)",
+        "#### Aura of Righteousness (Su)",
+        "#### Holy Champion (Su)",
+        "### Alternative Capstone Ability",
+        "#### Crusader Champion (Su)"
+      ],
+      "description": "Covers the Paladin class mechanics including class features like smite evil, lay on hands, divine grace, aura abilities, mercies, divine bond, spells, code of conduct, and ex-paladin rules.",
+      "keywords": [
+        "paladin",
+        "smite evil",
+        "lay on hands",
+        "divine grace",
+        "aura of good",
+        "aura of courage",
+        "aura of resolve",
+        "aura of justice",
+        "aura of faith",
+        "aura of righteousness",
+        "detect evil",
+        "divine health",
+        "mercy",
+        "channel positive energy",
+        "divine bond",
+        "holy champion",
+        "code of conduct",
+        "ex-paladin",
+        "lawful good",
+        "celestial spirit",
+        "paladin mount",
+        "paladin spells",
+        "paladin archetypes"
+      ]
+    }
+  ]
+}

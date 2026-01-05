@@ -1,0 +1,272 @@
+{
+  "file": "special-abilities.md",
+  "source_path": "https://www.d20pfsrd.com/gamemastering/special-abilities/",
+  "sections": [
+    {
+      "id": "extraordinary_abilities",
+      "title": "Extraordinary Abilities (Ex)",
+      "anchor_heading": "### Extraordinary Abilities (Ex)",
+      "includes_subheadings": [],
+      "description": "Rules for non-magical extraordinary abilities that are not affected by magic suppression",
+      "keywords": [
+        "extraordinary",
+        "Ex",
+        "non-magical"
+      ]
+    },
+    {
+      "id": "spell_like_abilities",
+      "title": "Spell-Like Abilities (Sp)",
+      "anchor_heading": "### Spell-Like Abilities (Sp)",
+      "includes_subheadings": [],
+      "description": "Rules for magical spell-like abilities including interaction with spell resistance, dispel magic, and counterspelling",
+      "keywords": [
+        "spell-like",
+        "Sp",
+        "magical",
+        "dispel",
+        "counterspell"
+      ]
+    },
+    {
+      "id": "supernatural_abilities",
+      "title": "Supernatural Abilities (Su)",
+      "anchor_heading": "### Supernatural Abilities (Su)",
+      "includes_subheadings": [],
+      "description": "Rules for magical supernatural abilities and comparison table of all special ability types",
+      "keywords": [
+        "supernatural",
+        "Su",
+        "antimagic field"
+      ]
+    },
+    {
+      "id": "blindsight",
+      "title": "Blindsight",
+      "anchor_heading": "#### Blindsight",
+      "includes_subheadings": [],
+      "description": "Mechanics for blindsight ability including what it negates and its limitations",
+      "keywords": [
+        "blindsight",
+        "invisibility",
+        "concealment",
+        "gaze attacks"
+      ]
+    },
+    {
+      "id": "blindsense",
+      "title": "Blindsense",
+      "anchor_heading": "#### **Blindsense**",
+      "includes_subheadings": [],
+      "description": "Mechanics for blindsense ability and how it differs from blindsight",
+      "keywords": [
+        "blindsense",
+        "concealment",
+        "miss chance"
+      ]
+    },
+    {
+      "id": "channel_resistance",
+      "title": "Channel Resistance",
+      "anchor_heading": "#### Channel Resistance",
+      "includes_subheadings": [],
+      "description": "Mechanics for resistance to channeled energy attacks",
+      "keywords": [
+        "channel resistance",
+        "channeled energy",
+        "Will save"
+      ]
+    },
+    {
+      "id": "charm_and_compulsion",
+      "title": "Charm and Compulsion",
+      "anchor_heading": "#### Charm and Compulsion",
+      "includes_subheadings": [],
+      "description": "Complete rules for charm and compulsion effects including behavioral limitations and breaking free",
+      "keywords": [
+        "charm",
+        "compulsion",
+        "enchantment",
+        "mind-affecting"
+      ]
+    },
+    {
+      "id": "damage_reduction",
+      "title": "Damage Reduction",
+      "anchor_heading": "#### Damage Reduction",
+      "includes_subheadings": [
+        "##### Overcoming DR"
+      ],
+      "description": "Complete mechanics for damage reduction including how to overcome it and interaction with various attack types",
+      "keywords": [
+        "damage reduction",
+        "DR",
+        "enhancement bonus",
+        "special materials"
+      ]
+    },
+    {
+      "id": "darkvision",
+      "title": "Darkvision",
+      "anchor_heading": "#### Darkvision",
+      "includes_subheadings": [],
+      "description": "Mechanics for darkvision including its limitations and interaction with gaze attacks",
+      "keywords": [
+        "darkvision",
+        "gaze attacks",
+        "light"
+      ]
+    },
+    {
+      "id": "death_attacks",
+      "title": "Death Attacks",
+      "anchor_heading": "#### Death Attacks",
+      "includes_subheadings": [],
+      "description": "Rules for death attacks including interaction with revival magic and protective spells",
+      "keywords": [
+        "death attack",
+        "Fortitude save",
+        "raise dead",
+        "death ward"
+      ]
+    },
+    {
+      "id": "energy_drain_negative_levels",
+      "title": "Energy Drain and Negative Levels",
+      "anchor_heading": "#### Energy Drain and Negative Levels",
+      "includes_subheadings": [],
+      "description": "Complete mechanics for negative levels including penalties, temporary vs permanent, and removal",
+      "keywords": [
+        "energy drain",
+        "negative levels",
+        "level drain",
+        "restoration"
+      ]
+    },
+    {
+      "id": "energy_immunity_vulnerability",
+      "title": "Energy Immunity and Vulnerability",
+      "anchor_heading": "#### Energy Immunity and Vulnerability",
+      "includes_subheadings": [],
+      "description": "Rules for complete energy immunity and vulnerability to energy types",
+      "keywords": [
+        "energy immunity",
+        "vulnerability",
+        "energy damage"
+      ]
+    },
+    {
+      "id": "energy_resistance",
+      "title": "Energy Resistance",
+      "anchor_heading": "#### Energy Resistance",
+      "includes_subheadings": [],
+      "description": "Mechanics for partial resistance to energy damage types",
+      "keywords": [
+        "energy resistance",
+        "energy damage",
+        "mundane",
+        "magical"
+      ]
+    },
+    {
+      "id": "ethereal",
+      "title": "Ethereal",
+      "anchor_heading": "#### Ethereal",
+      "includes_subheadings": [],
+      "description": "Complete rules for ethereal creatures including movement, interaction limitations, and what affects them",
+      "keywords": [
+        "ethereal",
+        "invisible",
+        "insubstantial",
+        "force effects",
+        "abjuration"
+      ]
+    },
+    {
+      "id": "fear",
+      "title": "Fear (Su or Sp)",
+      "anchor_heading": "#### Fear (Su or Sp)",
+      "includes_subheadings": [],
+      "description": "Complete fear mechanics including shaken, frightened, panicked conditions and fear aura rules",
+      "keywords": [
+        "fear",
+        "shaken",
+        "frightened",
+        "panicked",
+        "fear aura",
+        "Will save"
+      ]
+    },
+    {
+      "id": "invisibility",
+      "title": "Invisibility",
+      "anchor_heading": "#### Invisibility",
+      "includes_subheadings": [],
+      "description": "Comprehensive invisibility rules including detection, combat mechanics, and interaction with various abilities",
+      "keywords": [
+        "invisibility",
+        "concealment",
+        "Perception",
+        "miss chance",
+        "pinpoint"
+      ]
+    },
+    {
+      "id": "low_light_vision",
+      "title": "Low-Light Vision",
+      "anchor_heading": "#### Low-Light Vision",
+      "includes_subheadings": [],
+      "description": "Mechanics for low-light vision ability and its applications",
+      "keywords": [
+        "low-light vision",
+        "dim light",
+        "color vision"
+      ]
+    },
+    {
+      "id": "paralysis",
+      "title": "Paralysis",
+      "anchor_heading": "#### Paralysis",
+      "includes_subheadings": [],
+      "description": "Rules for magical paralysis effects and their limitations on actions",
+      "keywords": [
+        "paralysis",
+        "paralyzed",
+        "helpless",
+        "mental actions"
+      ]
+    },
+    {
+      "id": "scent",
+      "title": "Scent",
+      "anchor_heading": "#### Scent",
+      "includes_subheadings": [],
+      "description": "Complete scent ability mechanics including detection ranges, tracking, and environmental factors",
+      "keywords": [
+        "scent",
+        "smell",
+        "tracking",
+        "Survival",
+        "Perception"
+      ]
+    },
+    {
+      "id": "spell_resistance",
+      "title": "Spell Resistance",
+      "anchor_heading": "#### Spell Resistance",
+      "includes_subheadings": [
+        "##### When Spell Resistance Applies",
+        "##### Successful Spell Resistance"
+      ],
+      "description": "Comprehensive spell resistance rules including caster level checks, when it applies, and voluntary lowering",
+      "keywords": [
+        "spell resistance",
+        "SR",
+        "caster level",
+        "targeted spells",
+        "area spells"
+      ]
+    }
+  ],
+  "source_name": "Special Abilities"
+}
