@@ -1,0 +1,16 @@
+{
+  "file": "with-the-wind.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/w/with-the-wind/",
+  "source_name": "Spell: With the Wind",
+  "sections": [
+    {
+      "id": "with_the_wind",
+      "title": "With the Wind",
+      "anchor_heading": "# With the Wind",
+      "includes_subheadings": [],
+      "description": "Full description of the spell With the Wind, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

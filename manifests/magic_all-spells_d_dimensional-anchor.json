@@ -1,0 +1,16 @@
+{
+  "file": "dimensional-anchor.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/d/dimensional-anchor/",
+  "source_name": "Spell: Dimensional Anchor",
+  "sections": [
+    {
+      "id": "dimensional_anchor",
+      "title": "Dimensional Anchor",
+      "anchor_heading": "# Dimensional Anchor",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Dimensional Anchor, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

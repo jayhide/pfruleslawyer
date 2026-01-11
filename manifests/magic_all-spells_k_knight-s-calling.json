@@ -1,0 +1,16 @@
+{
+  "file": "knight-s-calling.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/k/knight-s-calling/",
+  "source_name": "Spell: Knight\u2019s Calling",
+  "sections": [
+    {
+      "id": "knight_s_calling",
+      "title": "Knight\u2019s Calling",
+      "anchor_heading": "# Knight\u2019s Calling",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Knight\u2019s Calling, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

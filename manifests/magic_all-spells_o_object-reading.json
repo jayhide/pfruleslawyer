@@ -1,0 +1,16 @@
+{
+  "file": "object-reading.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/o/object-reading/",
+  "source_name": "Spell: Object Reading",
+  "sections": [
+    {
+      "id": "object_reading",
+      "title": "Object Reading",
+      "anchor_heading": "# Object Reading",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Object Reading, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

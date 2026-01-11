@@ -1,0 +1,16 @@
+{
+  "file": "castigate.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/c/castigate/",
+  "source_name": "Spell: Castigate",
+  "sections": [
+    {
+      "id": "castigate",
+      "title": "Castigate",
+      "anchor_heading": "# Castigate",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Castigate, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

@@ -1,0 +1,16 @@
+{
+  "file": "spiral-ascent.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/s/spiral-ascent/",
+  "source_name": "Spell: Spiral Ascent",
+  "sections": [
+    {
+      "id": "spiral_ascent",
+      "title": "Spiral Ascent",
+      "anchor_heading": "# Spiral Ascent",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Spiral Ascent, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

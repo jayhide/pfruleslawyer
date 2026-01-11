@@ -1,0 +1,16 @@
+{
+  "file": "advanced-scurvy.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/a/advanced-scurvy/",
+  "source_name": "Spell: Advanced Scurvy",
+  "sections": [
+    {
+      "id": "advanced_scurvy",
+      "title": "Advanced Scurvy",
+      "anchor_heading": "# Advanced Scurvy",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Advanced Scurvy, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

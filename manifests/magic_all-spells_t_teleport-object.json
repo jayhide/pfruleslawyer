@@ -1,0 +1,16 @@
+{
+  "file": "teleport-object.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/t/teleport-object/",
+  "source_name": "Spell: Teleport Object",
+  "sections": [
+    {
+      "id": "teleport_object",
+      "title": "Teleport Object",
+      "anchor_heading": "# Teleport Object",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Teleport Object, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

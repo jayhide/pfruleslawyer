@@ -1,0 +1,16 @@
+{
+  "file": "control-winds.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/c/control-winds/",
+  "source_name": "Spell: Control Winds",
+  "sections": [
+    {
+      "id": "control_winds",
+      "title": "Control Winds",
+      "anchor_heading": "# Control Winds",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Control Winds, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

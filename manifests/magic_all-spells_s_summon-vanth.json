@@ -1,0 +1,16 @@
+{
+  "file": "summon-vanth.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/s/summon-vanth/",
+  "source_name": "Spell: Summon Vanth",
+  "sections": [
+    {
+      "id": "summon_vanth",
+      "title": "Summon Vanth",
+      "anchor_heading": "# Summon Vanth",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Summon Vanth, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

@@ -1,0 +1,16 @@
+{
+  "file": "metabolic-molting.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/m/metabolic-molting/",
+  "source_name": "Spell: Metabolic Molting",
+  "sections": [
+    {
+      "id": "metabolic_molting",
+      "title": "Metabolic Molting",
+      "anchor_heading": "# Metabolic Molting",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Metabolic Molting, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

@@ -1,0 +1,16 @@
+{
+  "file": "quell-energy.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/q/quell-energy/",
+  "source_name": "Spell: Quell Energy",
+  "sections": [
+    {
+      "id": "quell_energy",
+      "title": "Quell Energy",
+      "anchor_heading": "# Quell Energy",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Quell Energy, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

@@ -1,0 +1,16 @@
+{
+  "file": "inflict-pain.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/i/inflict-pain/",
+  "source_name": "Spell: Inflict Pain",
+  "sections": [
+    {
+      "id": "inflict_pain",
+      "title": "Inflict Pain",
+      "anchor_heading": "# Inflict Pain",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Inflict Pain, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

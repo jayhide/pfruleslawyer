@@ -1,0 +1,16 @@
+{
+  "file": "ignoble-form.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/i/ignoble-form/",
+  "source_name": "Spell: Ignoble Form",
+  "sections": [
+    {
+      "id": "ignoble_form",
+      "title": "Ignoble Form",
+      "anchor_heading": "# Ignoble Form",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Ignoble Form, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

@@ -1,0 +1,16 @@
+{
+  "file": "chains-of-light.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/c/chains-of-light/",
+  "source_name": "Spell: Chains of Light",
+  "sections": [
+    {
+      "id": "chains_of_light",
+      "title": "Chains of Light",
+      "anchor_heading": "# Chains of Light",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Chains of Light, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

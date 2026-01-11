@@ -1,0 +1,16 @@
+{
+  "file": "open-book.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/o/open-book/",
+  "source_name": "Spell: Open Book",
+  "sections": [
+    {
+      "id": "open_book",
+      "title": "Open Book",
+      "anchor_heading": "# Open Book",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Open Book, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

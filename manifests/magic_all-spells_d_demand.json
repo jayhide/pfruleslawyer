@@ -1,0 +1,16 @@
+{
+  "file": "demand.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/d/demand/",
+  "source_name": "Spell: Demand",
+  "sections": [
+    {
+      "id": "demand",
+      "title": "Demand",
+      "anchor_heading": "# Demand",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Demand, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

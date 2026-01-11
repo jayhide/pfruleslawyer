@@ -1,0 +1,16 @@
+{
+  "file": "phasic-challenge.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/p/phasic-challenge/",
+  "source_name": "Spell: Phasic Challenge",
+  "sections": [
+    {
+      "id": "phasic_challenge",
+      "title": "Phasic Challenge",
+      "anchor_heading": "# Phasic Challenge",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Phasic Challenge, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

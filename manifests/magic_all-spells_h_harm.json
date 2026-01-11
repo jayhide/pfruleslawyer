@@ -1,0 +1,16 @@
+{
+  "file": "harm.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/h/harm/",
+  "source_name": "Spell: Harm",
+  "sections": [
+    {
+      "id": "harm",
+      "title": "Harm",
+      "anchor_heading": "# Harm",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Harm, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

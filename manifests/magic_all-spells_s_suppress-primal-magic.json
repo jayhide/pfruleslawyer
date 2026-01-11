@@ -1,0 +1,16 @@
+{
+  "file": "suppress-primal-magic.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/s/suppress-primal-magic/",
+  "source_name": "Spell: Suppress Primal Magic",
+  "sections": [
+    {
+      "id": "suppress_primal_magic",
+      "title": "Suppress Primal Magic",
+      "anchor_heading": "# Suppress Primal Magic",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Suppress Primal Magic, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

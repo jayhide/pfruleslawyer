@@ -1,0 +1,16 @@
+{
+  "file": "protection-from-evil.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/p/protection-from-evil/",
+  "source_name": "Spell: Protection from Evil",
+  "sections": [
+    {
+      "id": "protection_from_evil",
+      "title": "Protection from Evil",
+      "anchor_heading": "# Protection from Evil",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Protection from Evil, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

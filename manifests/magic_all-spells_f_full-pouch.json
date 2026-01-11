@@ -1,0 +1,16 @@
+{
+  "file": "full-pouch.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/f/full-pouch/",
+  "source_name": "Spell: Full Pouch",
+  "sections": [
+    {
+      "id": "full_pouch",
+      "title": "Full Pouch",
+      "anchor_heading": "# Full Pouch",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Full Pouch, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

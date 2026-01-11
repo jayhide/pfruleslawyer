@@ -1,0 +1,16 @@
+{
+  "file": "dream-travel.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/d/dream-travel/",
+  "source_name": "Spell: Dream Travel",
+  "sections": [
+    {
+      "id": "dream_travel",
+      "title": "Dream Travel",
+      "anchor_heading": "# Dream Travel",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Dream Travel, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

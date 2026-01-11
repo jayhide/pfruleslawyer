@@ -1,0 +1,16 @@
+{
+  "file": "beacon-of-guilt.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/b/beacon-of-guilt/",
+  "source_name": "Spell: Beacon of Guilt",
+  "sections": [
+    {
+      "id": "beacon_of_guilt",
+      "title": "Beacon of Guilt",
+      "anchor_heading": "# Beacon of Guilt",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Beacon of Guilt, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

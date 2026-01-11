@@ -1,0 +1,16 @@
+{
+  "file": "detoxify.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/d/detoxify/",
+  "source_name": "Spell: Detoxify",
+  "sections": [
+    {
+      "id": "detoxify",
+      "title": "Detoxify",
+      "anchor_heading": "# Detoxify",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Detoxify, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

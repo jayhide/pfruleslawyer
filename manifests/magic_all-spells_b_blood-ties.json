@@ -1,0 +1,16 @@
+{
+  "file": "blood-ties.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/b/blood-ties/",
+  "source_name": "Spell: Blood Ties",
+  "sections": [
+    {
+      "id": "blood_ties",
+      "title": "Blood Ties",
+      "anchor_heading": "# Blood Ties",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Blood Ties, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

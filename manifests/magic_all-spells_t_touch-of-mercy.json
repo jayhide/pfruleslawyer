@@ -1,0 +1,16 @@
+{
+  "file": "touch-of-mercy.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/t/touch-of-mercy/",
+  "source_name": "Spell: Touch of Mercy",
+  "sections": [
+    {
+      "id": "touch_of_mercy",
+      "title": "Touch of Mercy",
+      "anchor_heading": "# Touch of Mercy",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Touch of Mercy, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

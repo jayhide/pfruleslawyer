@@ -1,0 +1,16 @@
+{
+  "file": "bestow-auras.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/b/bestow-auras/",
+  "source_name": "Spell: Bestow Auras",
+  "sections": [
+    {
+      "id": "bestow_auras",
+      "title": "Bestow Auras",
+      "anchor_heading": "# Bestow Auras",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Bestow Auras, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

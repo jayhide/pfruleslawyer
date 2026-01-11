@@ -1,0 +1,16 @@
+{
+  "file": "detect-thoughts.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/d/detect-thoughts/",
+  "source_name": "Spell: Detect Thoughts",
+  "sections": [
+    {
+      "id": "detect_thoughts",
+      "title": "Detect Thoughts",
+      "anchor_heading": "# Detect Thoughts",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Detect Thoughts, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

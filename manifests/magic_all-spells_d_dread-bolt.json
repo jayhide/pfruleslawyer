@@ -1,0 +1,16 @@
+{
+  "file": "dread-bolt.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/d/dread-bolt/",
+  "source_name": "Spell: Dread Bolt",
+  "sections": [
+    {
+      "id": "dread_bolt",
+      "title": "Dread Bolt",
+      "anchor_heading": "# Dread Bolt",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Dread Bolt, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

@@ -1,0 +1,16 @@
+{
+  "file": "shadow-memory.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/s/shadow-memory/",
+  "source_name": "Spell: Shadow Memory",
+  "sections": [
+    {
+      "id": "shadow_memory",
+      "title": "Shadow Memory",
+      "anchor_heading": "# Shadow Memory",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Shadow Memory, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

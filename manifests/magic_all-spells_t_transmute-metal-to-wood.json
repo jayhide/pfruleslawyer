@@ -1,0 +1,16 @@
+{
+  "file": "transmute-metal-to-wood.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/t/transmute-metal-to-wood/",
+  "source_name": "Spell: Transmute Metal to Wood",
+  "sections": [
+    {
+      "id": "transmute_metal_to_wood",
+      "title": "Transmute Metal to Wood",
+      "anchor_heading": "# Transmute Metal to Wood",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Transmute Metal to Wood, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

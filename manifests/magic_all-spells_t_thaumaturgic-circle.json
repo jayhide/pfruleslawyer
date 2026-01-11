@@ -1,0 +1,16 @@
+{
+  "file": "thaumaturgic-circle.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/t/thaumaturgic-circle/",
+  "source_name": "Spell: Thaumaturgic Circle",
+  "sections": [
+    {
+      "id": "thaumaturgic_circle",
+      "title": "Thaumaturgic Circle",
+      "anchor_heading": "# Thaumaturgic Circle",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Thaumaturgic Circle, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

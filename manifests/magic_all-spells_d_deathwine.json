@@ -1,0 +1,16 @@
+{
+  "file": "deathwine.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/d/deathwine/",
+  "source_name": "Spell: Deathwine",
+  "sections": [
+    {
+      "id": "deathwine",
+      "title": "Deathwine",
+      "anchor_heading": "# Deathwine",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Deathwine, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

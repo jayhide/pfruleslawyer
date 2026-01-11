@@ -1,0 +1,16 @@
+{
+  "file": "lightning-bolt.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/l/lightning-bolt/",
+  "source_name": "Spell: Lightning Bolt",
+  "sections": [
+    {
+      "id": "lightning_bolt",
+      "title": "Lightning Bolt",
+      "anchor_heading": "# Lightning Bolt",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Lightning Bolt, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

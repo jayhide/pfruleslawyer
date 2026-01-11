@@ -1,0 +1,16 @@
+{
+  "file": "hallucinogenic-smoke.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/h/hallucinogenic-smoke/",
+  "source_name": "Spell: Hallucinogenic Smoke",
+  "sections": [
+    {
+      "id": "hallucinogenic_smoke",
+      "title": "Hallucinogenic Smoke",
+      "anchor_heading": "# Hallucinogenic Smoke",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Hallucinogenic Smoke, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

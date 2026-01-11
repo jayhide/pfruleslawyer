@@ -1,0 +1,16 @@
+{
+  "file": "bleed-for-your-master.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/b/bleed-for-your-master/",
+  "source_name": "Spell: Bleed for Your Master",
+  "sections": [
+    {
+      "id": "bleed_for_your_master",
+      "title": "Bleed for Your Master",
+      "anchor_heading": "# Bleed for Your Master",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Bleed for Your Master, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

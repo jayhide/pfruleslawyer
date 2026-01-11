@@ -1,0 +1,16 @@
+{
+  "file": "healing-thief.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/h/healing-thief/",
+  "source_name": "Spell: Healing Thief",
+  "sections": [
+    {
+      "id": "healing_thief",
+      "title": "Healing Thief",
+      "anchor_heading": "# Healing Thief",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Healing Thief, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

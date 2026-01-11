@@ -1,0 +1,16 @@
+{
+  "file": "conditional-curse.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/c/conditional-curse/",
+  "source_name": "Spell: Conditional Curse",
+  "sections": [
+    {
+      "id": "conditional_curse",
+      "title": "Conditional Curse",
+      "anchor_heading": "# Conditional Curse",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Conditional Curse, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

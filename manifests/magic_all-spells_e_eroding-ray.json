@@ -1,0 +1,16 @@
+{
+  "file": "eroding-ray.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/e/eroding-ray/",
+  "source_name": "Spell: Eroding Ray",
+  "sections": [
+    {
+      "id": "eroding_ray",
+      "title": "Eroding Ray",
+      "anchor_heading": "# Eroding Ray",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Eroding Ray, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

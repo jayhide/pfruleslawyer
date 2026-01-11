@@ -1,0 +1,16 @@
+{
+  "file": "death-candle.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/d/death-candle/",
+  "source_name": "Spell: Death Candle",
+  "sections": [
+    {
+      "id": "death_candle",
+      "title": "Death Candle",
+      "anchor_heading": "# Death Candle",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Death Candle, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

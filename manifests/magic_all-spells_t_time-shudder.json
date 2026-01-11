@@ -1,0 +1,16 @@
+{
+  "file": "time-shudder.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/t/time-shudder/",
+  "source_name": "Spell: Time Shudder",
+  "sections": [
+    {
+      "id": "time_shudder",
+      "title": "Time Shudder",
+      "anchor_heading": "# Time Shudder",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Time Shudder, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

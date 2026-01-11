@@ -1,0 +1,16 @@
+{
+  "file": "winds-of-vengeance.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/w/winds-of-vengeance/",
+  "source_name": "Spell: Winds of Vengeance",
+  "sections": [
+    {
+      "id": "winds_of_vengeance",
+      "title": "Winds of Vengeance",
+      "anchor_heading": "# Winds of Vengeance",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Winds of Vengeance, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

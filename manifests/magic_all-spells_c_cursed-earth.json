@@ -1,0 +1,16 @@
+{
+  "file": "cursed-earth.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/c/cursed-earth/",
+  "source_name": "Spell: Cursed Earth",
+  "sections": [
+    {
+      "id": "cursed_earth",
+      "title": "Cursed Earth",
+      "anchor_heading": "# Cursed Earth",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Cursed Earth, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

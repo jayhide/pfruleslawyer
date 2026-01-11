@@ -1,0 +1,16 @@
+{
+  "file": "detect-scrying.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/d/detect-scrying/",
+  "source_name": "Spell: Detect Scrying",
+  "sections": [
+    {
+      "id": "detect_scrying",
+      "title": "Detect Scrying",
+      "anchor_heading": "# Detect Scrying",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Detect Scrying, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

@@ -1,0 +1,16 @@
+{
+  "file": "dispel-chaos.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/d/dispel-chaos/",
+  "source_name": "Spell: Dispel Chaos",
+  "sections": [
+    {
+      "id": "dispel_chaos",
+      "title": "Dispel Chaos",
+      "anchor_heading": "# Dispel Chaos",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Dispel Chaos, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

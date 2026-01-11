@@ -1,0 +1,16 @@
+{
+  "file": "sculpt-sound.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/s/sculpt-sound/",
+  "source_name": "Spell: Sculpt Sound",
+  "sections": [
+    {
+      "id": "sculpt_sound",
+      "title": "Sculpt Sound",
+      "anchor_heading": "# Sculpt Sound",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Sculpt Sound, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

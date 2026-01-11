@@ -1,0 +1,16 @@
+{
+  "file": "true-prognostication.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/t/true-prognostication/",
+  "source_name": "Spell: True Prognostication",
+  "sections": [
+    {
+      "id": "true_prognostication",
+      "title": "True Prognostication",
+      "anchor_heading": "# True Prognostication",
+      "includes_subheadings": [],
+      "description": "Full description of the spell True Prognostication, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

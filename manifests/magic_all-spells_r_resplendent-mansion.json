@@ -1,0 +1,16 @@
+{
+  "file": "resplendent-mansion.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/r/resplendent-mansion/",
+  "source_name": "Spell: Resplendent Mansion",
+  "sections": [
+    {
+      "id": "resplendent_mansion",
+      "title": "Resplendent Mansion",
+      "anchor_heading": "# Resplendent Mansion",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Resplendent Mansion, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

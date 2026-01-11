@@ -1,0 +1,16 @@
+{
+  "file": "aquatic-trail.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/a/aquatic-trail/",
+  "source_name": "Spell: Aquatic Trail",
+  "sections": [
+    {
+      "id": "aquatic_trail",
+      "title": "Aquatic Trail",
+      "anchor_heading": "# Aquatic Trail",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Aquatic Trail, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

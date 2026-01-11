@@ -1,0 +1,16 @@
+{
+  "file": "wall-of-lava.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/w/wall-of-lava/",
+  "source_name": "Spell: Wall of Lava",
+  "sections": [
+    {
+      "id": "wall_of_lava",
+      "title": "Wall of Lava",
+      "anchor_heading": "# Wall of Lava",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Wall of Lava, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

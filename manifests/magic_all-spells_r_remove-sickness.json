@@ -1,0 +1,16 @@
+{
+  "file": "remove-sickness.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/r/remove-sickness/",
+  "source_name": "Spell: Remove Sickness",
+  "sections": [
+    {
+      "id": "remove_sickness",
+      "title": "Remove Sickness",
+      "anchor_heading": "# Remove Sickness",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Remove Sickness, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

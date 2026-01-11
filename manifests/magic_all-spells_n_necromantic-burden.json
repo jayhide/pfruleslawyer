@@ -1,0 +1,16 @@
+{
+  "file": "necromantic-burden.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/n/necromantic-burden/",
+  "source_name": "Spell: Necromantic Burden",
+  "sections": [
+    {
+      "id": "necromantic_burden",
+      "title": "Necromantic Burden",
+      "anchor_heading": "# Necromantic Burden",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Necromantic Burden, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

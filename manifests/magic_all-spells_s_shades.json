@@ -1,0 +1,16 @@
+{
+  "file": "shades.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/s/shades/",
+  "source_name": "Spell: Shades",
+  "sections": [
+    {
+      "id": "shades",
+      "title": "Shades",
+      "anchor_heading": "# Shades",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Shades, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

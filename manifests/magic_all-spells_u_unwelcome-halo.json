@@ -1,0 +1,16 @@
+{
+  "file": "unwelcome-halo.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/u/unwelcome-halo/",
+  "source_name": "Spell: Unwelcome Halo",
+  "sections": [
+    {
+      "id": "unwelcome_halo",
+      "title": "Unwelcome Halo",
+      "anchor_heading": "# Unwelcome Halo",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Unwelcome Halo, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

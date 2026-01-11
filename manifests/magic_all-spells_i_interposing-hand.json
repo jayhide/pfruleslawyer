@@ -1,0 +1,16 @@
+{
+  "file": "interposing-hand.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/i/interposing-hand/",
+  "source_name": "Spell: Interposing Hand",
+  "sections": [
+    {
+      "id": "interposing_hand",
+      "title": "Interposing Hand",
+      "anchor_heading": "# Interposing Hand",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Interposing Hand, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

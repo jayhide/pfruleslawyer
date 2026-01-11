@@ -1,0 +1,16 @@
+{
+  "file": "gallant-inspiration.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/g/gallant-inspiration/",
+  "source_name": "Spell: Gallant Inspiration",
+  "sections": [
+    {
+      "id": "gallant_inspiration",
+      "title": "Gallant Inspiration",
+      "anchor_heading": "# Gallant Inspiration",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Gallant Inspiration, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

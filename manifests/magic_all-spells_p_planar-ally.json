@@ -1,0 +1,16 @@
+{
+  "file": "planar-ally.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/p/planar-ally/",
+  "source_name": "Spell: Planar Ally",
+  "sections": [
+    {
+      "id": "planar_ally",
+      "title": "Planar Ally",
+      "anchor_heading": "# Planar Ally",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Planar Ally, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

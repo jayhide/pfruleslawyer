@@ -1,0 +1,16 @@
+{
+  "file": "summon-laborers.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/s/summon-laborers/",
+  "source_name": "Spell: Summon Laborers",
+  "sections": [
+    {
+      "id": "summon_laborers",
+      "title": "Summon Laborers",
+      "anchor_heading": "# Summon Laborers",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Summon Laborers, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

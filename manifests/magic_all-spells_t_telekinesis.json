@@ -1,0 +1,16 @@
+{
+  "file": "telekinesis.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/t/telekinesis/",
+  "source_name": "Spell: Telekinesis",
+  "sections": [
+    {
+      "id": "telekinesis",
+      "title": "Telekinesis",
+      "anchor_heading": "# Telekinesis",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Telekinesis, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

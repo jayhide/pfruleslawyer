@@ -1,0 +1,16 @@
+{
+  "file": "unhallowed-blows.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/u/unhallowed-blows/",
+  "source_name": "Spell: Unhallowed Blows",
+  "sections": [
+    {
+      "id": "unhallowed_blows",
+      "title": "Unhallowed Blows",
+      "anchor_heading": "# Unhallowed Blows",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Unhallowed Blows, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

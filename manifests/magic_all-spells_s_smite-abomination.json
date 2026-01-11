@@ -1,0 +1,16 @@
+{
+  "file": "smite-abomination.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/s/smite-abomination/",
+  "source_name": "Spell: Smite Abomination",
+  "sections": [
+    {
+      "id": "smite_abomination",
+      "title": "Smite Abomination",
+      "anchor_heading": "# Smite Abomination",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Smite Abomination, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

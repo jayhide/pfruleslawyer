@@ -1,0 +1,16 @@
+{
+  "file": "aid.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/a/aid/",
+  "source_name": "Spell: Aid",
+  "sections": [
+    {
+      "id": "aid",
+      "title": "Aid",
+      "anchor_heading": "# Aid",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Aid, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

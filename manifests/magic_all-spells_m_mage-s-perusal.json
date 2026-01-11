@@ -1,0 +1,16 @@
+{
+  "file": "mage-s-perusal.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/m/mage-s-perusal/",
+  "source_name": "Spell: Mage\u2019s Perusal",
+  "sections": [
+    {
+      "id": "mage_s_perusal",
+      "title": "Mage\u2019s Perusal",
+      "anchor_heading": "# Mage\u2019s Perusal",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Mage\u2019s Perusal, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

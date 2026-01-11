@@ -1,0 +1,16 @@
+{
+  "file": "overwhelming-presence.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/o/overwhelming-presence/",
+  "source_name": "Spell: Overwhelming Presence",
+  "sections": [
+    {
+      "id": "overwhelming_presence",
+      "title": "Overwhelming Presence",
+      "anchor_heading": "# Overwhelming Presence",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Overwhelming Presence, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

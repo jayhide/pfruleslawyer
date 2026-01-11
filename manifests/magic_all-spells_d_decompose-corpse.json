@@ -1,0 +1,16 @@
+{
+  "file": "decompose-corpse.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/d/decompose-corpse/",
+  "source_name": "Spell: Decompose Corpse",
+  "sections": [
+    {
+      "id": "decompose_corpse",
+      "title": "Decompose Corpse",
+      "anchor_heading": "# Decompose Corpse",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Decompose Corpse, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

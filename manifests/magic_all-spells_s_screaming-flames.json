@@ -1,0 +1,16 @@
+{
+  "file": "screaming-flames.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/s/screaming-flames/",
+  "source_name": "Spell: Screaming Flames",
+  "sections": [
+    {
+      "id": "screaming_flames",
+      "title": "Screaming Flames",
+      "anchor_heading": "# Screaming Flames",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Screaming Flames, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

@@ -1,0 +1,16 @@
+{
+  "file": "massacre.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/m/massacre/",
+  "source_name": "Spell: Massacre",
+  "sections": [
+    {
+      "id": "massacre",
+      "title": "Massacre",
+      "anchor_heading": "# Massacre",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Massacre, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

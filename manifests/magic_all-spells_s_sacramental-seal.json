@@ -1,0 +1,16 @@
+{
+  "file": "sacramental-seal.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/s/sacramental-seal/",
+  "source_name": "Spell: Sacramental Seal",
+  "sections": [
+    {
+      "id": "sacramental_seal",
+      "title": "Sacramental Seal",
+      "anchor_heading": "# Sacramental Seal",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Sacramental Seal, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

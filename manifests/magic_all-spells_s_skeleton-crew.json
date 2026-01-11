@@ -1,0 +1,16 @@
+{
+  "file": "skeleton-crew.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/s/skeleton-crew/",
+  "source_name": "Spell: Skeleton Crew",
+  "sections": [
+    {
+      "id": "skeleton_crew",
+      "title": "Skeleton Crew",
+      "anchor_heading": "# Skeleton Crew",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Skeleton Crew, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

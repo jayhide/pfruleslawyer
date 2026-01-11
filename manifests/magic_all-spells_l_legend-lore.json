@@ -1,0 +1,16 @@
+{
+  "file": "legend-lore.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/l/legend-lore/",
+  "source_name": "Spell: Legend Lore",
+  "sections": [
+    {
+      "id": "legend_lore",
+      "title": "Legend Lore",
+      "anchor_heading": "# Legend Lore",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Legend Lore, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

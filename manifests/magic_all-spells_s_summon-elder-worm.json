@@ -1,0 +1,16 @@
+{
+  "file": "summon-elder-worm.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/s/summon-elder-worm/",
+  "source_name": "Spell: Summon Elder Worm",
+  "sections": [
+    {
+      "id": "summon_elder_worm",
+      "title": "Summon Elder Worm",
+      "anchor_heading": "# Summon Elder Worm",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Summon Elder Worm, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

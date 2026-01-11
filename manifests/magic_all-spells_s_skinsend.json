@@ -1,0 +1,16 @@
+{
+  "file": "skinsend.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/s/skinsend/",
+  "source_name": "Spell: Skinsend",
+  "sections": [
+    {
+      "id": "skinsend",
+      "title": "Skinsend",
+      "anchor_heading": "# Skinsend",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Skinsend, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

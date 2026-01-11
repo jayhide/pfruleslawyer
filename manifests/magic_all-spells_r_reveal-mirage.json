@@ -1,0 +1,16 @@
+{
+  "file": "reveal-mirage.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/r/reveal-mirage/",
+  "source_name": "Spell: Reveal Mirage",
+  "sections": [
+    {
+      "id": "reveal_mirage",
+      "title": "Reveal Mirage",
+      "anchor_heading": "# Reveal Mirage",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Reveal Mirage, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

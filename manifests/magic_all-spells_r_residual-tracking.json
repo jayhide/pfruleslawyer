@@ -1,0 +1,16 @@
+{
+  "file": "residual-tracking.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/r/residual-tracking/",
+  "source_name": "Spell: Residual Tracking",
+  "sections": [
+    {
+      "id": "residual_tracking",
+      "title": "Residual Tracking",
+      "anchor_heading": "# Residual Tracking",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Residual Tracking, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

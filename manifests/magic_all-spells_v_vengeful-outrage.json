@@ -1,0 +1,16 @@
+{
+  "file": "vengeful-outrage.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/v/vengeful-outrage/",
+  "source_name": "Spell: Vengeful Outrage",
+  "sections": [
+    {
+      "id": "vengeful_outrage",
+      "title": "Vengeful Outrage",
+      "anchor_heading": "# Vengeful Outrage",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Vengeful Outrage, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

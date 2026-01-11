@@ -1,0 +1,16 @@
+{
+  "file": "form-validation.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/f/form-validation/",
+  "source_name": "Spell: Form Validation",
+  "sections": [
+    {
+      "id": "form_validation",
+      "title": "Form Validation",
+      "anchor_heading": "# Form Validation",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Form Validation, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

@@ -1,0 +1,16 @@
+{
+  "file": "undetectable-alignment.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/u/undetectable-alignment/",
+  "source_name": "Spell: Undetectable Alignment",
+  "sections": [
+    {
+      "id": "undetectable_alignment",
+      "title": "Undetectable Alignment",
+      "anchor_heading": "# Undetectable Alignment",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Undetectable Alignment, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

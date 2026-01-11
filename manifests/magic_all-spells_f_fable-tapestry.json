@@ -1,0 +1,16 @@
+{
+  "file": "fable-tapestry.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/f/fable-tapestry/",
+  "source_name": "Spell: Fable Tapestry",
+  "sections": [
+    {
+      "id": "fable_tapestry",
+      "title": "Fable Tapestry",
+      "anchor_heading": "# Fable Tapestry",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Fable Tapestry, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

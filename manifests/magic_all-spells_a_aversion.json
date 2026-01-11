@@ -1,0 +1,16 @@
+{
+  "file": "aversion.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/a/aversion/",
+  "source_name": "Spell: Aversion",
+  "sections": [
+    {
+      "id": "aversion",
+      "title": "Aversion",
+      "anchor_heading": "# Aversion",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Aversion, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

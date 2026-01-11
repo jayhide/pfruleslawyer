@@ -1,0 +1,16 @@
+{
+  "file": "remove-blindness-deafness.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/r/remove-blindness-deafness/",
+  "source_name": "Spell: Remove Blindness/Deafness",
+  "sections": [
+    {
+      "id": "remove_blindness_deafness",
+      "title": "Remove Blindness/Deafness",
+      "anchor_heading": "# Remove Blindness/Deafness",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Remove Blindness/Deafness, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

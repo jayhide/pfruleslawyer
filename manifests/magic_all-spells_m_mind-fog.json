@@ -1,0 +1,16 @@
+{
+  "file": "mind-fog.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/m/mind-fog/",
+  "source_name": "Spell: Mind Fog",
+  "sections": [
+    {
+      "id": "mind_fog",
+      "title": "Mind Fog",
+      "anchor_heading": "# Mind Fog",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Mind Fog, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

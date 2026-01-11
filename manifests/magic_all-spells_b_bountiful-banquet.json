@@ -1,0 +1,16 @@
+{
+  "file": "bountiful-banquet.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/b/bountiful-banquet/",
+  "source_name": "Spell: Bountiful Banquet",
+  "sections": [
+    {
+      "id": "bountiful_banquet",
+      "title": "Bountiful Banquet",
+      "anchor_heading": "# Bountiful Banquet",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Bountiful Banquet, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

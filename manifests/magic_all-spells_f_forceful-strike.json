@@ -1,0 +1,16 @@
+{
+  "file": "forceful-strike.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/f/forceful-strike/",
+  "source_name": "Spell: Forceful Strike",
+  "sections": [
+    {
+      "id": "forceful_strike",
+      "title": "Forceful Strike",
+      "anchor_heading": "# Forceful Strike",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Forceful Strike, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

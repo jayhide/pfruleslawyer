@@ -1,0 +1,16 @@
+{
+  "file": "deep-slumber.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/d/deep-slumber/",
+  "source_name": "Spell: Deep Slumber",
+  "sections": [
+    {
+      "id": "deep_slumber",
+      "title": "Deep Slumber",
+      "anchor_heading": "# Deep Slumber",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Deep Slumber, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

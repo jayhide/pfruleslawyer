@@ -1,0 +1,16 @@
+{
+  "file": "hydrophobia.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/h/hydrophobia/",
+  "source_name": "Spell: Hydrophobia",
+  "sections": [
+    {
+      "id": "hydrophobia",
+      "title": "Hydrophobia",
+      "anchor_heading": "# Hydrophobia",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Hydrophobia, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

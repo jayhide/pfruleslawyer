@@ -1,0 +1,16 @@
+{
+  "file": "corpse-lanterns.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/c/corpse-lanterns/",
+  "source_name": "Spell: Corpse Lanterns",
+  "sections": [
+    {
+      "id": "corpse_lanterns",
+      "title": "Corpse Lanterns",
+      "anchor_heading": "# Corpse Lanterns",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Corpse Lanterns, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

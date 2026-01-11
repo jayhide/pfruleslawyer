@@ -1,0 +1,16 @@
+{
+  "file": "sign-of-the-faithful.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/s/sign-of-the-faithful/",
+  "source_name": "Spell: Sign of the Faithful",
+  "sections": [
+    {
+      "id": "sign_of_the_faithful",
+      "title": "Sign of the Faithful",
+      "anchor_heading": "# Sign of the Faithful",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Sign of the Faithful, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

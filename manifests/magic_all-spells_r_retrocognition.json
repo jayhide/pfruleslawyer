@@ -1,0 +1,16 @@
+{
+  "file": "retrocognition.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/r/retrocognition/",
+  "source_name": "Spell: Retrocognition",
+  "sections": [
+    {
+      "id": "retrocognition",
+      "title": "Retrocognition",
+      "anchor_heading": "# Retrocognition",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Retrocognition, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

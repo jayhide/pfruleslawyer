@@ -1,0 +1,16 @@
+{
+  "file": "hypercognition.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/h/hypercognition/",
+  "source_name": "Spell: Hypercognition",
+  "sections": [
+    {
+      "id": "hypercognition",
+      "title": "Hypercognition",
+      "anchor_heading": "# Hypercognition",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Hypercognition, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

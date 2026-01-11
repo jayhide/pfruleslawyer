@@ -1,0 +1,16 @@
+{
+  "file": "prognostication.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/p/prognostication/",
+  "source_name": "Spell: Prognostication",
+  "sections": [
+    {
+      "id": "prognostication",
+      "title": "Prognostication",
+      "anchor_heading": "# Prognostication",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Prognostication, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

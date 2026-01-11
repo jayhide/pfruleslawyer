@@ -1,0 +1,16 @@
+{
+  "file": "antimagic-field.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/a/antimagic-field/",
+  "source_name": "Spell: Antimagic Field",
+  "sections": [
+    {
+      "id": "antimagic_field",
+      "title": "Antimagic Field",
+      "anchor_heading": "# Antimagic Field",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Antimagic Field, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

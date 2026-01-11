@@ -1,0 +1,16 @@
+{
+  "file": "true-resurrection.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/t/true-resurrection/",
+  "source_name": "Spell: True Resurrection",
+  "sections": [
+    {
+      "id": "true_resurrection",
+      "title": "True Resurrection",
+      "anchor_heading": "# True Resurrection",
+      "includes_subheadings": [],
+      "description": "Full description of the spell True Resurrection, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

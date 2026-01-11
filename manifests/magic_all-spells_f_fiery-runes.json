@@ -1,0 +1,16 @@
+{
+  "file": "fiery-runes.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/f/fiery-runes/",
+  "source_name": "Spell: Fiery Runes",
+  "sections": [
+    {
+      "id": "fiery_runes",
+      "title": "Fiery Runes",
+      "anchor_heading": "# Fiery Runes",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Fiery Runes, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

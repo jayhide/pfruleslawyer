@@ -1,0 +1,16 @@
+{
+  "file": "speak-with-plane.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/s/speak-with-plane/",
+  "source_name": "Spell: Speak with Plane",
+  "sections": [
+    {
+      "id": "speak_with_plane",
+      "title": "Speak with Plane",
+      "anchor_heading": "# Speak with Plane",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Speak with Plane, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

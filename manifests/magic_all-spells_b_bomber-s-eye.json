@@ -1,0 +1,16 @@
+{
+  "file": "bomber-s-eye.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/b/bomber-s-eye/",
+  "source_name": "Spell: Bomber\u2019s Eye",
+  "sections": [
+    {
+      "id": "bomber_s_eye",
+      "title": "Bomber\u2019s Eye",
+      "anchor_heading": "# Bomber\u2019s Eye",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Bomber\u2019s Eye, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

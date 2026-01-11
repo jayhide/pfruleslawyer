@@ -1,0 +1,16 @@
+{
+  "file": "spirit-bonds.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/s/spirit-bonds/",
+  "source_name": "Spell: Spirit Bonds",
+  "sections": [
+    {
+      "id": "spirit_bonds",
+      "title": "Spirit Bonds",
+      "anchor_heading": "# Spirit Bonds",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Spirit Bonds, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

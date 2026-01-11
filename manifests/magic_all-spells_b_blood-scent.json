@@ -1,0 +1,16 @@
+{
+  "file": "blood-scent.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/b/blood-scent/",
+  "source_name": "Spell: Blood Scent",
+  "sections": [
+    {
+      "id": "blood_scent",
+      "title": "Blood Scent",
+      "anchor_heading": "# Blood Scent",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Blood Scent, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

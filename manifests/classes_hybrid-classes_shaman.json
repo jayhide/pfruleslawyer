@@ -28,25 +28,24 @@
         "#### Spirit Boost (Su)",
         "#### Spirit of Life (Su)"
       ],
-      "description": "Comprehensive rules for the shaman hybrid class including spellcasting, spirit bonds, hexes, wandering spirits, and spirit animals.",
+      "description": "Complete Shaman hybrid class rules covering spirit animal companions, hex abilities, wandering spirits, manifestations, and the full progression of this divine spellcaster that communes with spirits.",
       "keywords": [
         "shaman",
-        "spirit",
         "spirit animal",
         "hex",
         "wandering spirit",
         "wandering hex",
-        "spirit magic",
         "manifestation",
+        "spirit magic",
         "orisons",
         "shaman spells",
-        "spirit specialization",
-        "restoration",
+        "shaman spirits",
         "shell of succor",
         "spirit boost",
         "spirit of life",
         "hex mastery"
       ]
     }
-  ]
+  ],
+  "category": "Classes"
 }

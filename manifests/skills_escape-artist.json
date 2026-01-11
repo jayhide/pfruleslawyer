@@ -17,7 +17,7 @@
         "### Modifiers",
         "#### Escape Artist Unchained"
       ],
-      "description": "Defines the Escape Artist skill mechanics, including DCs and time requirements for escaping ropes, manacles, nets, grapples, tight spaces, and various magical restraints, plus unchained skill unlock abilities.",
+      "description": "Covers the Escape Artist skill rules including DCs for escaping ropes, manacles, nets, grapples, and tight spaces, plus Unchained skill unlock abilities.",
       "keywords": [
         "Escape Artist",
         "escape ropes",
@@ -25,16 +25,18 @@
         "escape net",
         "escape grapple",
         "tight space",
+        "squeeze",
         "pinned condition",
+        "grappled condition",
         "entangle",
         "animate rope",
         "command plants",
         "control plants",
         "snare",
         "skill unlock",
-        "CMB",
-        "CMD"
+        "Escape Artist Unchained"
       ]
     }
-  ]
+  ],
+  "category": "Skills"
 }

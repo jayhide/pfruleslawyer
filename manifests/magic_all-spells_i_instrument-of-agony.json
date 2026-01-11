@@ -1,0 +1,16 @@
+{
+  "file": "instrument-of-agony.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/i/instrument-of-agony/",
+  "source_name": "Spell: Instrument of Agony",
+  "sections": [
+    {
+      "id": "instrument_of_agony",
+      "title": "Instrument of Agony",
+      "anchor_heading": "# Instrument of Agony",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Instrument of Agony, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

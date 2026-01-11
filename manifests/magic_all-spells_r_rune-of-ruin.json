@@ -1,0 +1,16 @@
+{
+  "file": "rune-of-ruin.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/r/rune-of-ruin/",
+  "source_name": "Spell: Rune of Ruin",
+  "sections": [
+    {
+      "id": "rune_of_ruin",
+      "title": "Rune of Ruin",
+      "anchor_heading": "# Rune of Ruin",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Rune of Ruin, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

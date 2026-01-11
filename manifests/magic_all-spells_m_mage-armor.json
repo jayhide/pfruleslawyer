@@ -1,0 +1,16 @@
+{
+  "file": "mage-armor.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/m/mage-armor/",
+  "source_name": "Spell: Mage Armor",
+  "sections": [
+    {
+      "id": "mage_armor",
+      "title": "Mage Armor",
+      "anchor_heading": "# Mage Armor",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Mage Armor, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

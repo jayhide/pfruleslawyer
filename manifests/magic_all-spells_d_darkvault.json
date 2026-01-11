@@ -1,0 +1,16 @@
+{
+  "file": "darkvault.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/d/darkvault/",
+  "source_name": "Spell: Darkvault",
+  "sections": [
+    {
+      "id": "darkvault",
+      "title": "Darkvault",
+      "anchor_heading": "# Darkvault",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Darkvault, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

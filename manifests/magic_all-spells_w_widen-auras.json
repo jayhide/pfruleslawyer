@@ -1,0 +1,16 @@
+{
+  "file": "widen-auras.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/w/widen-auras/",
+  "source_name": "Spell: Widen Auras",
+  "sections": [
+    {
+      "id": "widen_auras",
+      "title": "Widen Auras",
+      "anchor_heading": "# Widen Auras",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Widen Auras, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

@@ -1,0 +1,16 @@
+{
+  "file": "battle-trance.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/b/battle-trance/",
+  "source_name": "Spell: Battle Trance",
+  "sections": [
+    {
+      "id": "battle_trance",
+      "title": "Battle Trance",
+      "anchor_heading": "# Battle Trance",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Battle Trance, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

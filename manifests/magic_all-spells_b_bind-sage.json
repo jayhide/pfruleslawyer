@@ -1,0 +1,16 @@
+{
+  "file": "bind-sage.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/b/bind-sage/",
+  "source_name": "Spell: Bind Sage",
+  "sections": [
+    {
+      "id": "bind_sage",
+      "title": "Bind Sage",
+      "anchor_heading": "# Bind Sage",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Bind Sage, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

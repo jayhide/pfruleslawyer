@@ -1,0 +1,16 @@
+{
+  "file": "ventriloquism.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/v/ventriloquism/",
+  "source_name": "Spell: Ventriloquism",
+  "sections": [
+    {
+      "id": "ventriloquism",
+      "title": "Ventriloquism",
+      "anchor_heading": "# Ventriloquism",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Ventriloquism, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

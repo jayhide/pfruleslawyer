@@ -1,0 +1,16 @@
+{
+  "file": "torpid-reanimation.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/t/torpid-reanimation/",
+  "source_name": "Spell: Torpid Reanimation",
+  "sections": [
+    {
+      "id": "torpid_reanimation",
+      "title": "Torpid Reanimation",
+      "anchor_heading": "# Torpid Reanimation",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Torpid Reanimation, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

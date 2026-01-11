@@ -1,0 +1,16 @@
+{
+  "file": "accursed-glare.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/a/accursed-glare/",
+  "source_name": "Spell: Accursed Glare",
+  "sections": [
+    {
+      "id": "accursed_glare",
+      "title": "Accursed Glare",
+      "anchor_heading": "# Accursed Glare",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Accursed Glare, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

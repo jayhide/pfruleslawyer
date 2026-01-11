@@ -1,0 +1,16 @@
+{
+  "file": "oath-of-justice.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/o/oath-of-justice/",
+  "source_name": "Spell: Oath of Justice",
+  "sections": [
+    {
+      "id": "oath_of_justice",
+      "title": "Oath of Justice",
+      "anchor_heading": "# Oath of Justice",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Oath of Justice, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

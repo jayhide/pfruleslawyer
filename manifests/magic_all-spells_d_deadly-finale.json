@@ -1,0 +1,16 @@
+{
+  "file": "deadly-finale.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/d/deadly-finale/",
+  "source_name": "Spell: Deadly Finale",
+  "sections": [
+    {
+      "id": "deadly_finale",
+      "title": "Deadly Finale",
+      "anchor_heading": "# Deadly Finale",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Deadly Finale, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

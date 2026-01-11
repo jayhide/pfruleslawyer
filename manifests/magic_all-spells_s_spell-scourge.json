@@ -1,0 +1,16 @@
+{
+  "file": "spell-scourge.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/s/spell-scourge/",
+  "source_name": "Spell: Spell Scourge",
+  "sections": [
+    {
+      "id": "spell_scourge",
+      "title": "Spell Scourge",
+      "anchor_heading": "# Spell Scourge",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Spell Scourge, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

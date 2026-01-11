@@ -1,0 +1,16 @@
+{
+  "file": "brand.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/b/brand/",
+  "source_name": "Spell: Brand",
+  "sections": [
+    {
+      "id": "brand",
+      "title": "Brand",
+      "anchor_heading": "# Brand",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Brand, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

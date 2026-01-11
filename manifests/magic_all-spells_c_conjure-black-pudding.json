@@ -1,0 +1,16 @@
+{
+  "file": "conjure-black-pudding.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/c/conjure-black-pudding/",
+  "source_name": "Spell: Conjure Black Pudding",
+  "sections": [
+    {
+      "id": "conjure_black_pudding",
+      "title": "Conjure Black Pudding",
+      "anchor_heading": "# Conjure Black Pudding",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Conjure Black Pudding, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

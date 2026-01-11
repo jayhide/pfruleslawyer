@@ -1,0 +1,16 @@
+{
+  "file": "shrink-item.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/s/shrink-item/",
+  "source_name": "Spell: Shrink Item",
+  "sections": [
+    {
+      "id": "shrink_item",
+      "title": "Shrink Item",
+      "anchor_heading": "# Shrink Item",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Shrink Item, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

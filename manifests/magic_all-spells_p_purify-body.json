@@ -1,0 +1,16 @@
+{
+  "file": "purify-body.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/p/purify-body/",
+  "source_name": "Spell: Purify Body",
+  "sections": [
+    {
+      "id": "purify_body",
+      "title": "Purify Body",
+      "anchor_heading": "# Purify Body",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Purify Body, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

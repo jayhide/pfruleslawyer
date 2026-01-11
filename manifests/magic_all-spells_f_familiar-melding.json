@@ -1,0 +1,16 @@
+{
+  "file": "familiar-melding.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/f/familiar-melding/",
+  "source_name": "Spell: Familiar Melding",
+  "sections": [
+    {
+      "id": "familiar_melding",
+      "title": "Familiar Melding",
+      "anchor_heading": "# Familiar Melding",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Familiar Melding, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

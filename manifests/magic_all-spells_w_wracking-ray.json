@@ -1,0 +1,16 @@
+{
+  "file": "wracking-ray.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/w/wracking-ray/",
+  "source_name": "Spell: Wracking Ray",
+  "sections": [
+    {
+      "id": "wracking_ray",
+      "title": "Wracking Ray",
+      "anchor_heading": "# Wracking Ray",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Wracking Ray, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

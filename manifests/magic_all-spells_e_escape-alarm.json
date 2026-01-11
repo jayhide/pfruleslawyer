@@ -1,0 +1,16 @@
+{
+  "file": "escape-alarm.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/e/escape-alarm/",
+  "source_name": "Spell: Escape Alarm",
+  "sections": [
+    {
+      "id": "escape_alarm",
+      "title": "Escape Alarm",
+      "anchor_heading": "# Escape Alarm",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Escape Alarm, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

@@ -1,0 +1,16 @@
+{
+  "file": "prying-eyes.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/p/prying-eyes/",
+  "source_name": "Spell: Prying Eyes",
+  "sections": [
+    {
+      "id": "prying_eyes",
+      "title": "Prying Eyes",
+      "anchor_heading": "# Prying Eyes",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Prying Eyes, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

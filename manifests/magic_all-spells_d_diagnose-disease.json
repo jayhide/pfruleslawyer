@@ -1,0 +1,16 @@
+{
+  "file": "diagnose-disease.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/d/diagnose-disease/",
+  "source_name": "Spell: Diagnose Disease",
+  "sections": [
+    {
+      "id": "diagnose_disease",
+      "title": "Diagnose Disease",
+      "anchor_heading": "# Diagnose Disease",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Diagnose Disease, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

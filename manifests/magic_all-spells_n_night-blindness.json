@@ -1,0 +1,16 @@
+{
+  "file": "night-blindness.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/n/night-blindness/",
+  "source_name": "Spell: Night Blindness",
+  "sections": [
+    {
+      "id": "night_blindness",
+      "title": "Night Blindness",
+      "anchor_heading": "# Night Blindness",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Night Blindness, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

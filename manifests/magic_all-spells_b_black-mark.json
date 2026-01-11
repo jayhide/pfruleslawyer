@@ -1,0 +1,16 @@
+{
+  "file": "black-mark.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/b/black-mark/",
+  "source_name": "Spell: Black Mark",
+  "sections": [
+    {
+      "id": "black_mark",
+      "title": "Black Mark",
+      "anchor_heading": "# Black Mark",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Black Mark, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

@@ -1,0 +1,16 @@
+{
+  "file": "natural-rhythm.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/n/natural-rhythm/",
+  "source_name": "Spell: Natural Rhythm",
+  "sections": [
+    {
+      "id": "natural_rhythm",
+      "title": "Natural Rhythm",
+      "anchor_heading": "# Natural Rhythm",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Natural Rhythm, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

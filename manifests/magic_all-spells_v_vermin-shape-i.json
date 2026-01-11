@@ -1,0 +1,16 @@
+{
+  "file": "vermin-shape-i.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/v/vermin-shape-i/",
+  "source_name": "Spell: Vermin Shape",
+  "sections": [
+    {
+      "id": "vermin_shape_i",
+      "title": "Vermin Shape",
+      "anchor_heading": "# Vermin Shape",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Vermin Shape, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

@@ -1,0 +1,16 @@
+{
+  "file": "air-step.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/a/air-step/",
+  "source_name": "Spell: Air Step",
+  "sections": [
+    {
+      "id": "air_step",
+      "title": "Air Step",
+      "anchor_heading": "# Air Step",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Air Step, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

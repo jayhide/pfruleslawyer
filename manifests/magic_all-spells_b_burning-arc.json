@@ -1,0 +1,16 @@
+{
+  "file": "burning-arc.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/b/burning-arc/",
+  "source_name": "Spell: Burning Arc",
+  "sections": [
+    {
+      "id": "burning_arc",
+      "title": "Burning Arc",
+      "anchor_heading": "# Burning Arc",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Burning Arc, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

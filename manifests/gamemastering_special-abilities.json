@@ -7,11 +7,11 @@
       "title": "Extraordinary Abilities (Ex)",
       "anchor_heading": "### Extraordinary Abilities (Ex)",
       "includes_subheadings": [],
-      "description": "Rules for non-magical extraordinary abilities that are not affected by magic suppression",
+      "description": "Rules for non-magical extraordinary abilities that cannot be learned without extensive training",
       "keywords": [
-        "extraordinary",
-        "Ex",
-        "non-magical"
+        "extraordinary abilities",
+        "non-magical",
+        "antimagic field"
       ]
     },
     {
@@ -19,12 +19,11 @@
       "title": "Spell-Like Abilities (Sp)",
       "anchor_heading": "### Spell-Like Abilities (Sp)",
       "includes_subheadings": [],
-      "description": "Rules for magical spell-like abilities including interaction with spell resistance, dispel magic, and counterspelling",
+      "description": "Rules for magical abilities that function like spells, including spell resistance and dispelling",
       "keywords": [
-        "spell-like",
-        "Sp",
-        "magical",
-        "dispel",
+        "spell-like abilities",
+        "spell resistance",
+        "dispel magic",
         "counterspell"
       ]
     },
@@ -33,11 +32,11 @@
       "title": "Supernatural Abilities (Su)",
       "anchor_heading": "### Supernatural Abilities (Su)",
       "includes_subheadings": [],
-      "description": "Rules for magical supernatural abilities and comparison table of all special ability types",
+      "description": "Rules for magical abilities that are not spell-like, including comparison table of ability types",
       "keywords": [
-        "supernatural",
-        "Su",
-        "antimagic field"
+        "supernatural abilities",
+        "magical",
+        "enhancement bonus"
       ]
     },
     {
@@ -45,7 +44,7 @@
       "title": "Blindsight",
       "anchor_heading": "#### Blindsight",
       "includes_subheadings": [],
-      "description": "Mechanics for blindsight ability including what it negates and its limitations",
+      "description": "Extraordinary ability to operate effectively without vision using non-visual senses",
       "keywords": [
         "blindsight",
         "invisibility",
@@ -58,11 +57,12 @@
       "title": "Blindsense",
       "anchor_heading": "#### **Blindsense**",
       "includes_subheadings": [],
-      "description": "Mechanics for blindsense ability and how it differs from blindsight",
+      "description": "Ability to notice things without seeing them, but without the precision of blindsight",
       "keywords": [
         "blindsense",
-        "concealment",
-        "miss chance"
+        "total concealment",
+        "miss chance",
+        "perception"
       ]
     },
     {
@@ -70,11 +70,11 @@
       "title": "Channel Resistance",
       "anchor_heading": "#### Channel Resistance",
       "includes_subheadings": [],
-      "description": "Mechanics for resistance to channeled energy attacks",
+      "description": "Bonus on Will saves against channeled energy effects",
       "keywords": [
         "channel resistance",
-        "channeled energy",
-        "Will save"
+        "will save",
+        "channeled energy"
       ]
     },
     {
@@ -82,12 +82,13 @@
       "title": "Charm and Compulsion",
       "anchor_heading": "#### Charm and Compulsion",
       "includes_subheadings": [],
-      "description": "Complete rules for charm and compulsion effects including behavioral limitations and breaking free",
+      "description": "Mental effects that cloud minds, including charming and compelling creatures",
       "keywords": [
         "charm",
         "compulsion",
         "enchantment",
-        "mind-affecting"
+        "free will",
+        "charisma check"
       ]
     },
     {
@@ -97,10 +98,11 @@
       "includes_subheadings": [
         "##### Overcoming DR"
       ],
-      "description": "Complete mechanics for damage reduction including how to overcome it and interaction with various attack types",
+      "description": "Supernatural ability to ignore or reduce physical damage from attacks",
       "keywords": [
         "damage reduction",
         "DR",
+        "magic weapons",
         "enhancement bonus",
         "special materials"
       ]
@@ -110,11 +112,12 @@
       "title": "Darkvision",
       "anchor_heading": "#### Darkvision",
       "includes_subheadings": [],
-      "description": "Mechanics for darkvision including its limitations and interaction with gaze attacks",
+      "description": "Extraordinary ability to see in complete darkness in black and white",
       "keywords": [
         "darkvision",
+        "light source",
         "gaze attacks",
-        "light"
+        "invisible"
       ]
     },
     {
@@ -122,10 +125,10 @@
       "title": "Death Attacks",
       "anchor_heading": "#### Death Attacks",
       "includes_subheadings": [],
-      "description": "Rules for death attacks including interaction with revival magic and protective spells",
+      "description": "Attacks that kill instantly, usually allowing a Fortitude save to avoid the effect",
       "keywords": [
         "death attack",
-        "Fortitude save",
+        "fortitude save",
         "raise dead",
         "death ward"
       ]
@@ -135,11 +138,12 @@
       "title": "Energy Drain and Negative Levels",
       "anchor_heading": "#### Energy Drain and Negative Levels",
       "includes_subheadings": [],
-      "description": "Complete mechanics for negative levels including penalties, temporary vs permanent, and removal",
+      "description": "Life-draining attacks that impose negative levels and associated penalties",
       "keywords": [
         "energy drain",
         "negative levels",
         "level drain",
+        "hit dice",
         "restoration"
       ]
     },
@@ -148,11 +152,11 @@
       "title": "Energy Immunity and Vulnerability",
       "anchor_heading": "#### Energy Immunity and Vulnerability",
       "includes_subheadings": [],
-      "description": "Rules for complete energy immunity and vulnerability to energy types",
+      "description": "Complete immunity to energy types or taking extra damage from them",
       "keywords": [
         "energy immunity",
         "vulnerability",
-        "energy damage"
+        "energy type"
       ]
     },
     {
@@ -160,12 +164,11 @@
       "title": "Energy Resistance",
       "anchor_heading": "#### Energy Resistance",
       "includes_subheadings": [],
-      "description": "Mechanics for partial resistance to energy damage types",
+      "description": "Ability to ignore some damage from specific energy types per attack",
       "keywords": [
         "energy resistance",
-        "energy damage",
-        "mundane",
-        "magical"
+        "energy attack",
+        "spell disruption"
       ]
     },
     {
@@ -173,13 +176,13 @@
       "title": "Ethereal",
       "anchor_heading": "#### Ethereal",
       "includes_subheadings": [],
-      "description": "Complete rules for ethereal creatures including movement, interaction limitations, and what affects them",
+      "description": "Being invisible, insubstantial, and able to move through solid objects",
       "keywords": [
         "ethereal",
-        "invisible",
         "insubstantial",
-        "force effects",
-        "abjuration"
+        "ethereal plane",
+        "material plane",
+        "force effects"
       ]
     },
     {
@@ -187,14 +190,14 @@
       "title": "Fear (Su or Sp)",
       "anchor_heading": "#### Fear (Su or Sp)",
       "includes_subheadings": [],
-      "description": "Complete fear mechanics including shaken, frightened, panicked conditions and fear aura rules",
+      "description": "Effects that cause shaken, frightened, or panicked conditions, including fear auras and attacks",
       "keywords": [
         "fear",
         "shaken",
         "frightened",
         "panicked",
         "fear aura",
-        "Will save"
+        "will save"
       ]
     },
     {
@@ -202,13 +205,13 @@
       "title": "Invisibility",
       "anchor_heading": "#### Invisibility",
       "includes_subheadings": [],
-      "description": "Comprehensive invisibility rules including detection, combat mechanics, and interaction with various abilities",
+      "description": "Being undetectable by vision, including detection methods and combat interactions",
       "keywords": [
         "invisibility",
         "concealment",
-        "Perception",
-        "miss chance",
-        "pinpoint"
+        "perception",
+        "stealth",
+        "miss chance"
       ]
     },
     {
@@ -216,7 +219,7 @@
       "title": "Low-Light Vision",
       "anchor_heading": "#### Low-Light Vision",
       "includes_subheadings": [],
-      "description": "Mechanics for low-light vision ability and its applications",
+      "description": "Enhanced eyesight that allows seeing twice as far in dim light conditions",
       "keywords": [
         "low-light vision",
         "dim light",
@@ -228,10 +231,11 @@
       "title": "Paralysis",
       "anchor_heading": "#### Paralysis",
       "includes_subheadings": [],
-      "description": "Rules for magical paralysis effects and their limitations on actions",
+      "description": "Magical immobilization that prevents movement and most physical actions",
       "keywords": [
         "paralysis",
         "paralyzed",
+        "immobilize",
         "helpless",
         "mental actions"
       ]
@@ -241,13 +245,13 @@
       "title": "Scent",
       "anchor_heading": "#### Scent",
       "includes_subheadings": [],
-      "description": "Complete scent ability mechanics including detection ranges, tracking, and environmental factors",
+      "description": "Extraordinary ability to detect and track creatures by sense of smell",
       "keywords": [
         "scent",
         "smell",
         "tracking",
-        "Survival",
-        "Perception"
+        "survival",
+        "detection"
       ]
     },
     {
@@ -258,15 +262,16 @@
         "##### When Spell Resistance Applies",
         "##### Successful Spell Resistance"
       ],
-      "description": "Comprehensive spell resistance rules including caster level checks, when it applies, and voluntary lowering",
+      "description": "Extraordinary ability to avoid being affected by spells and spell-like abilities",
       "keywords": [
         "spell resistance",
-        "SR",
-        "caster level",
+        "caster level check",
         "targeted spells",
-        "area spells"
+        "area spells",
+        "effect spells"
       ]
     }
   ],
-  "source_name": "Special Abilities"
+  "source_name": "Special Abilities",
+  "category": "Core Rules"
 }

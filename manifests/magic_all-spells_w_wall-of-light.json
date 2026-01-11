@@ -1,0 +1,16 @@
+{
+  "file": "wall-of-light.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/w/wall-of-light/",
+  "source_name": "Spell: Wall of Light",
+  "sections": [
+    {
+      "id": "wall_of_light",
+      "title": "Wall of Light",
+      "anchor_heading": "# Wall of Light",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Wall of Light, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

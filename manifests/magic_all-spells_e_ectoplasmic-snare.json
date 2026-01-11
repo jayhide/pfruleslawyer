@@ -1,0 +1,16 @@
+{
+  "file": "ectoplasmic-snare.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/e/ectoplasmic-snare/",
+  "source_name": "Spell: Ectoplasmic Snare",
+  "sections": [
+    {
+      "id": "ectoplasmic_snare",
+      "title": "Ectoplasmic Snare",
+      "anchor_heading": "# Ectoplasmic Snare",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Ectoplasmic Snare, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

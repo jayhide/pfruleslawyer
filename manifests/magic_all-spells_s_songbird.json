@@ -1,0 +1,16 @@
+{
+  "file": "songbird.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/s/songbird/",
+  "source_name": "Spell: Songbird",
+  "sections": [
+    {
+      "id": "songbird",
+      "title": "Songbird",
+      "anchor_heading": "# Songbird",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Songbird, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

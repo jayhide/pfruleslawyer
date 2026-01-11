@@ -1,0 +1,16 @@
+{
+  "file": "purge-spirit.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/p/purge-spirit/",
+  "source_name": "Spell: Purge Spirit",
+  "sections": [
+    {
+      "id": "purge_spirit",
+      "title": "Purge Spirit",
+      "anchor_heading": "# Purge Spirit",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Purge Spirit, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

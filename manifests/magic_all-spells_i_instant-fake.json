@@ -1,0 +1,16 @@
+{
+  "file": "instant-fake.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/i/instant-fake/",
+  "source_name": "Spell: Instant Fake",
+  "sections": [
+    {
+      "id": "instant_fake",
+      "title": "Instant Fake",
+      "anchor_heading": "# Instant Fake",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Instant Fake, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

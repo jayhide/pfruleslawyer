@@ -1,0 +1,16 @@
+{
+  "file": "deceptive-redundancy.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/d/deceptive-redundancy/",
+  "source_name": "Spell: Deceptive Redundancy",
+  "sections": [
+    {
+      "id": "deceptive_redundancy",
+      "title": "Deceptive Redundancy",
+      "anchor_heading": "# Deceptive Redundancy",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Deceptive Redundancy, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

@@ -1,0 +1,16 @@
+{
+  "file": "lend-judgment.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/l/lend-judgment/",
+  "source_name": "Spell: Lend Judgment",
+  "sections": [
+    {
+      "id": "lend_judgment",
+      "title": "Lend Judgment",
+      "anchor_heading": "# Lend Judgment",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Lend Judgment, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

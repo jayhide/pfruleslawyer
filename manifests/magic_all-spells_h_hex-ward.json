@@ -1,0 +1,16 @@
+{
+  "file": "hex-ward.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/h/hex-ward/",
+  "source_name": "Spell: Hex Ward",
+  "sections": [
+    {
+      "id": "hex_ward",
+      "title": "Hex Ward",
+      "anchor_heading": "# Hex Ward",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Hex Ward, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

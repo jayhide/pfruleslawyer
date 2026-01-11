@@ -1,0 +1,16 @@
+{
+  "file": "dark-light.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/d/dark-light/",
+  "source_name": "Spell: Dark-Light",
+  "sections": [
+    {
+      "id": "dark_light",
+      "title": "Dark-Light",
+      "anchor_heading": "# Dark-Light",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Dark-Light, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

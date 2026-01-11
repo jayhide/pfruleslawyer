@@ -1,0 +1,16 @@
+{
+  "file": "intensify-psyche.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/i/intensify-psyche/",
+  "source_name": "Spell: Intensify Psyche",
+  "sections": [
+    {
+      "id": "intensify_psyche",
+      "title": "Intensify Psyche",
+      "anchor_heading": "# Intensify Psyche",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Intensify Psyche, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

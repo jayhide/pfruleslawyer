@@ -1,0 +1,16 @@
+{
+  "file": "prophetic-lore.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/p/prophetic-lore/",
+  "source_name": "Spell: Prophetic Lore",
+  "sections": [
+    {
+      "id": "prophetic_lore",
+      "title": "Prophetic Lore",
+      "anchor_heading": "# Prophetic Lore",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Prophetic Lore, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

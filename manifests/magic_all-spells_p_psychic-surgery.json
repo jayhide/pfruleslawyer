@@ -1,0 +1,16 @@
+{
+  "file": "psychic-surgery.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/p/psychic-surgery/",
+  "source_name": "Spell: Psychic Surgery",
+  "sections": [
+    {
+      "id": "psychic_surgery",
+      "title": "Psychic Surgery",
+      "anchor_heading": "# Psychic Surgery",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Psychic Surgery, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

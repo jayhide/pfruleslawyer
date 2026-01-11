@@ -1,0 +1,16 @@
+{
+  "file": "power-word-blind.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/p/power-word-blind/",
+  "source_name": "Spell: Power Word Blind",
+  "sections": [
+    {
+      "id": "power_word_blind",
+      "title": "Power Word Blind",
+      "anchor_heading": "# Power Word Blind",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Power Word Blind, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

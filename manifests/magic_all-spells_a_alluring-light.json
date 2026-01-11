@@ -1,0 +1,16 @@
+{
+  "file": "alluring-light.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/a/alluring-light/",
+  "source_name": "Spell: Alluring Light",
+  "sections": [
+    {
+      "id": "alluring_light",
+      "title": "Alluring Light",
+      "anchor_heading": "# Alluring Light",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Alluring Light, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

@@ -1,0 +1,16 @@
+{
+  "file": "thought-worm-i.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/t/thought-worm-i/",
+  "source_name": "Spell: Thought Worm I",
+  "sections": [
+    {
+      "id": "thought_worm_i",
+      "title": "Thought Worm I",
+      "anchor_heading": "# Thought Worm I",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Thought Worm I, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

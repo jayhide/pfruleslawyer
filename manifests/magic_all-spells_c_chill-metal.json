@@ -1,0 +1,16 @@
+{
+  "file": "chill-metal.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/c/chill-metal/",
+  "source_name": "Spell: Chill Metal",
+  "sections": [
+    {
+      "id": "chill_metal",
+      "title": "Chill Metal",
+      "anchor_heading": "# Chill Metal",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Chill Metal, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

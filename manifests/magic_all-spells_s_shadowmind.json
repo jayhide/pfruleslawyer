@@ -1,0 +1,16 @@
+{
+  "file": "shadowmind.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/s/shadowmind/",
+  "source_name": "Spell: Shadowmind",
+  "sections": [
+    {
+      "id": "shadowmind",
+      "title": "Shadowmind",
+      "anchor_heading": "# Shadowmind",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Shadowmind, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

@@ -1,0 +1,16 @@
+{
+  "file": "shocking-image.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/s/shocking-image/",
+  "source_name": "Spell: Shocking Image",
+  "sections": [
+    {
+      "id": "shocking_image",
+      "title": "Shocking Image",
+      "anchor_heading": "# Shocking Image",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Shocking Image, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

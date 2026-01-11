@@ -1,0 +1,16 @@
+{
+  "file": "sylvan-hideaway.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/s/sylvan-hideaway/",
+  "source_name": "Spell: Sylvan Hideaway",
+  "sections": [
+    {
+      "id": "sylvan_hideaway",
+      "title": "Sylvan Hideaway",
+      "anchor_heading": "# Sylvan Hideaway",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Sylvan Hideaway, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

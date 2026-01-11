@@ -12,16 +12,15 @@
         "#### Intelligent Wondrous Items",
         "#### Activation"
       ],
-      "description": "Introduction to wondrous items including categories (slotted vs slotless), body slot restrictions, intelligent items, and activation methods",
+      "description": "General rules for wondrous items including slotted vs slotless items, activation methods, and intelligent items",
       "keywords": [
         "wondrous items",
         "slotted",
         "slotless",
-        "body slots",
-        "activation",
+        "magic item slots",
         "command word",
         "use-activated",
-        "intelligent"
+        "intelligent items"
       ]
     },
     {
@@ -29,18 +28,18 @@
       "title": "Extradimensional Spaces",
       "anchor_heading": "### Extradimensional Spaces",
       "includes_subheadings": [],
-      "description": "Rules for how extradimensional spaces interact with each other, including restrictions and the bag of holding/portable hole exception",
+      "description": "Rules for extradimensional storage items like bags of holding and how they interact with each other",
       "keywords": [
-        "extradimensional",
+        "extradimensional spaces",
         "bag of holding",
         "portable hole",
         "rope trick",
-        "astral plane"
+        "Astral Plane"
       ]
     },
     {
-      "id": "item_generation_tables",
-      "title": "Wondrous Item Generation Tables",
+      "id": "wondrous_item_tables",
+      "title": "Wondrous Item Random Generation Tables",
       "anchor_heading": "### Table: Wondrous Item Types",
       "includes_subheadings": [
         "### Table: Belt Slot Wondrous Items",
@@ -56,10 +55,10 @@
         "### Table: Wrists Slot Wondrous Items",
         "### Table: Slotless Wondrous Items"
       ],
-      "description": "Random generation tables for determining wondrous item types and specific items by rarity tier (minor, medium, major) and body slot",
+      "description": "Random generation tables for all types of wondrous items organized by equipment slot and power level",
       "keywords": [
         "random generation",
-        "tables",
+        "treasure tables",
         "belt slot",
         "body slot",
         "chest slot",
@@ -78,31 +77,30 @@
       ]
     },
     {
-      "id": "all_paizo_items_list",
-      "title": "Complete Paizo Wondrous Items List",
+      "id": "paizo_wondrous_items_list",
+      "title": "Complete List of Paizo Wondrous Items",
       "anchor_heading": "### All Paizo Wondrous Items",
       "includes_subheadings": [],
-      "description": "Comprehensive alphabetical listing of all wondrous items from Paizo sources, organized by letter ranges with links to individual item descriptions",
+      "description": "Comprehensive alphabetical listing of all wondrous items from official Paizo sources",
       "keywords": [
-        "paizo items",
-        "complete list",
+        "item list",
         "alphabetical",
-        "item catalog"
+        "Paizo sources"
       ]
     },
     {
-      "id": "third_party_items",
-      "title": "Third Party Publisher Items",
+      "id": "third_party_wondrous_items",
+      "title": "Third Party Wondrous Items",
       "anchor_heading": "### 3rd Party Publisher Wondrous Items",
       "includes_subheadings": [],
-      "description": "Overview and links to wondrous items from third-party publishers organized by company",
+      "description": "Wondrous items from third-party publishers organized by company",
       "keywords": [
         "third party",
         "publishers",
-        "non-paizo",
-        "additional items"
+        "homebrew"
       ]
     }
   ],
-  "source_name": ""
+  "source_name": "",
+  "category": "Core Rules"
 }

@@ -1,0 +1,16 @@
+{
+  "file": "energy-drain.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/e/energy-drain/",
+  "source_name": "Spell: Energy Drain",
+  "sections": [
+    {
+      "id": "energy_drain",
+      "title": "Energy Drain",
+      "anchor_heading": "# Energy Drain",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Energy Drain, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

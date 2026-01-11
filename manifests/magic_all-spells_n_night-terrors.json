@@ -1,0 +1,16 @@
+{
+  "file": "night-terrors.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/n/night-terrors/",
+  "source_name": "Spell: Night Terrors",
+  "sections": [
+    {
+      "id": "night_terrors",
+      "title": "Night Terrors",
+      "anchor_heading": "# Night Terrors",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Night Terrors, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

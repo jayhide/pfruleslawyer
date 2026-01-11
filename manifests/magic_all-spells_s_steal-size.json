@@ -1,0 +1,16 @@
+{
+  "file": "steal-size.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/s/steal-size/",
+  "source_name": "Spell: Steal Size",
+  "sections": [
+    {
+      "id": "steal_size",
+      "title": "Steal Size",
+      "anchor_heading": "# Steal Size",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Steal Size, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

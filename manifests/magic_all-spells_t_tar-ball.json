@@ -1,0 +1,16 @@
+{
+  "file": "tar-ball.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/t/tar-ball/",
+  "source_name": "Spell: Tar Ball",
+  "sections": [
+    {
+      "id": "tar_ball",
+      "title": "Tar Ball",
+      "anchor_heading": "# Tar Ball",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Tar Ball, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

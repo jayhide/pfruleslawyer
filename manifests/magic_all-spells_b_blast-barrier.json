@@ -1,0 +1,16 @@
+{
+  "file": "blast-barrier.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/b/blast-barrier/",
+  "source_name": "Spell: Blast Barrier",
+  "sections": [
+    {
+      "id": "blast_barrier",
+      "title": "Blast Barrier",
+      "anchor_heading": "# Blast Barrier",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Blast Barrier, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

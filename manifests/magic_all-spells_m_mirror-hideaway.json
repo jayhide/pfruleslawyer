@@ -1,0 +1,16 @@
+{
+  "file": "mirror-hideaway.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/m/mirror-hideaway/",
+  "source_name": "Spell: Mirror Hideaway",
+  "sections": [
+    {
+      "id": "mirror_hideaway",
+      "title": "Mirror Hideaway",
+      "anchor_heading": "# Mirror Hideaway",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Mirror Hideaway, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

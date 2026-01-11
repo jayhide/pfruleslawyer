@@ -1,0 +1,16 @@
+{
+  "file": "blightburn-weapon.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/b/blightburn-weapon/",
+  "source_name": "Spell: Blightburn Weapon",
+  "sections": [
+    {
+      "id": "blightburn_weapon",
+      "title": "Blightburn Weapon",
+      "anchor_heading": "# Blightburn Weapon",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Blightburn Weapon, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

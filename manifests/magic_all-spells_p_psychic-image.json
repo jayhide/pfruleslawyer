@@ -1,0 +1,16 @@
+{
+  "file": "psychic-image.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/p/psychic-image/",
+  "source_name": "Spell: Psychic Image",
+  "sections": [
+    {
+      "id": "psychic_image",
+      "title": "Psychic Image",
+      "anchor_heading": "# Psychic Image",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Psychic Image, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

@@ -1,0 +1,16 @@
+{
+  "file": "alter-winds.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/a/alter-winds/",
+  "source_name": "Spell: Alter Winds",
+  "sections": [
+    {
+      "id": "alter_winds",
+      "title": "Alter Winds",
+      "anchor_heading": "# Alter Winds",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Alter Winds, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

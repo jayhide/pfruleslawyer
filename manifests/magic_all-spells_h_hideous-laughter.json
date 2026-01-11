@@ -1,0 +1,16 @@
+{
+  "file": "hideous-laughter.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/h/hideous-laughter/",
+  "source_name": "Spell: Hideous Laughter",
+  "sections": [
+    {
+      "id": "hideous_laughter",
+      "title": "Hideous Laughter",
+      "anchor_heading": "# Hideous Laughter",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Hideous Laughter, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

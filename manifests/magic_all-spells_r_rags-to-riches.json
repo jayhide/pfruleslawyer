@@ -1,0 +1,16 @@
+{
+  "file": "rags-to-riches.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/r/rags-to-riches/",
+  "source_name": "Spell: Rags to Riches",
+  "sections": [
+    {
+      "id": "rags_to_riches",
+      "title": "Rags to Riches",
+      "anchor_heading": "# Rags to Riches",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Rags to Riches, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

@@ -1,0 +1,16 @@
+{
+  "file": "undead-beacon.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/u/undead-beacon/",
+  "source_name": "Spell: Undead Beacon",
+  "sections": [
+    {
+      "id": "undead_beacon",
+      "title": "Undead Beacon",
+      "anchor_heading": "# Undead Beacon",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Undead Beacon, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

@@ -1,0 +1,16 @@
+{
+  "file": "spellcrash.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/s/spellcrash/",
+  "source_name": "Spell: Spellcrash, Lesser",
+  "sections": [
+    {
+      "id": "spellcrash",
+      "title": "Spellcrash, Lesser",
+      "anchor_heading": "# Spellcrash, Lesser",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Spellcrash, Lesser, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

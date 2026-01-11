@@ -1,0 +1,16 @@
+{
+  "file": "grace.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/g/grace/",
+  "source_name": "Spell: Grace",
+  "sections": [
+    {
+      "id": "grace",
+      "title": "Grace",
+      "anchor_heading": "# Grace",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Grace, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

@@ -1,0 +1,16 @@
+{
+  "file": "evolution-surge.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/e/evolution-surge/",
+  "source_name": "Spell: Evolution Surge",
+  "sections": [
+    {
+      "id": "evolution_surge",
+      "title": "Evolution Surge",
+      "anchor_heading": "# Evolution Surge",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Evolution Surge, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

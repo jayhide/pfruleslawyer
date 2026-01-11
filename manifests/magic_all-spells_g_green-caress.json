@@ -1,0 +1,16 @@
+{
+  "file": "green-caress.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/g/green-caress/",
+  "source_name": "Spell: Green Caress",
+  "sections": [
+    {
+      "id": "green_caress",
+      "title": "Green Caress",
+      "anchor_heading": "# Green Caress",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Green Caress, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

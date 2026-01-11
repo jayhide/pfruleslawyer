@@ -1,0 +1,16 @@
+{
+  "file": "find-fault.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/f/find-fault/",
+  "source_name": "Spell: Find Fault",
+  "sections": [
+    {
+      "id": "find_fault",
+      "title": "Find Fault",
+      "anchor_heading": "# Find Fault",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Find Fault, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

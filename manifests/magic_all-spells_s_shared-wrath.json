@@ -1,0 +1,16 @@
+{
+  "file": "shared-wrath.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/s/shared-wrath/",
+  "source_name": "Spell: Shared Wrath",
+  "sections": [
+    {
+      "id": "shared_wrath",
+      "title": "Shared Wrath",
+      "anchor_heading": "# Shared Wrath",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Shared Wrath, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

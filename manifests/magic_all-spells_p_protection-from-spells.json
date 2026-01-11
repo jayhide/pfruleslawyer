@@ -1,0 +1,16 @@
+{
+  "file": "protection-from-spells.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/p/protection-from-spells/",
+  "source_name": "Spell: Protection from Spells",
+  "sections": [
+    {
+      "id": "protection_from_spells",
+      "title": "Protection from Spells",
+      "anchor_heading": "# Protection from Spells",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Protection from Spells, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

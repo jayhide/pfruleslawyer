@@ -1,0 +1,16 @@
+{
+  "file": "wilderness-soldiers.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/w/wilderness-soldiers/",
+  "source_name": "Spell: Wilderness Soldiers",
+  "sections": [
+    {
+      "id": "wilderness_soldiers",
+      "title": "Wilderness Soldiers",
+      "anchor_heading": "# Wilderness Soldiers",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Wilderness Soldiers, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

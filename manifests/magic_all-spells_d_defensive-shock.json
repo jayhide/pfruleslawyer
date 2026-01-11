@@ -1,0 +1,16 @@
+{
+  "file": "defensive-shock.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/d/defensive-shock/",
+  "source_name": "Spell: Defensive Shock",
+  "sections": [
+    {
+      "id": "defensive_shock",
+      "title": "Defensive Shock",
+      "anchor_heading": "# Defensive Shock",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Defensive Shock, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

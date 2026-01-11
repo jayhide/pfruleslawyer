@@ -1,0 +1,16 @@
+{
+  "file": "aggravate-affliction.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/a/aggravate-affliction/",
+  "source_name": "Spell: Aggravate Affliction",
+  "sections": [
+    {
+      "id": "aggravate_affliction",
+      "title": "Aggravate Affliction",
+      "anchor_heading": "# Aggravate Affliction",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Aggravate Affliction, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

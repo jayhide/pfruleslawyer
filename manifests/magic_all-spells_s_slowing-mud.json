@@ -1,0 +1,16 @@
+{
+  "file": "slowing-mud.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/s/slowing-mud/",
+  "source_name": "Spell: Slowing Mud",
+  "sections": [
+    {
+      "id": "slowing_mud",
+      "title": "Slowing Mud",
+      "anchor_heading": "# Slowing Mud",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Slowing Mud, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

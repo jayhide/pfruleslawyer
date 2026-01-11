@@ -1,0 +1,16 @@
+{
+  "file": "lily-pad-stride.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/l/lily-pad-stride/",
+  "source_name": "Spell: Lily Pad Stride",
+  "sections": [
+    {
+      "id": "lily_pad_stride",
+      "title": "Lily Pad Stride",
+      "anchor_heading": "# Lily Pad Stride",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Lily Pad Stride, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

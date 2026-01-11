@@ -1,0 +1,16 @@
+{
+  "file": "shout.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/s/shout/",
+  "source_name": "Spell: Shout",
+  "sections": [
+    {
+      "id": "shout",
+      "title": "Shout",
+      "anchor_heading": "# Shout",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Shout, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

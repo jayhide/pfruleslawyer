@@ -26,24 +26,26 @@
         "#### Masterful Talent (Ex)",
         "### Unmodified Rogue Talents"
       ],
-      "description": "Covers the Unchained Rogue class with its enhanced features including debilitating injury, finesse training, rogue's edge with skill unlocks, and improved class progression compared to the original rogue.",
+      "description": "Complete class rules for the unchained rogue, featuring enhanced abilities like debilitating injury, skill unlocks through rogue's edge, and finesse training with Dexterity to damage.",
       "keywords": [
         "unchained rogue",
+        "rogue unchained",
         "debilitating injury",
         "finesse training",
         "rogue's edge",
         "skill unlocks",
         "sneak attack",
         "trapfinding",
-        "evasion",
-        "uncanny dodge",
-        "improved uncanny dodge",
-        "master strike",
         "rogue talents",
         "advanced talents",
+        "master strike",
         "danger sense",
+        "uncanny dodge",
+        "improved uncanny dodge",
+        "evasion",
         "masterful talent"
       ]
     }
-  ]
+  ],
+  "category": "Classes"
 }

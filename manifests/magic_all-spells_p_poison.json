@@ -1,0 +1,16 @@
+{
+  "file": "poison.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/p/poison/",
+  "source_name": "Spell: Poison",
+  "sections": [
+    {
+      "id": "poison",
+      "title": "Poison",
+      "anchor_heading": "# Poison",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Poison, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

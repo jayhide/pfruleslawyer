@@ -1,0 +1,16 @@
+{
+  "file": "primal-regression.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/p/primal-regression/",
+  "source_name": "Spell: Primal Regression",
+  "sections": [
+    {
+      "id": "primal_regression",
+      "title": "Primal Regression",
+      "anchor_heading": "# Primal Regression",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Primal Regression, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

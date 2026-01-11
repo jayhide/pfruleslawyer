@@ -20,21 +20,23 @@
         "#### Sleight of Hand Unchained",
         "### Unofficial Extras!"
       ],
-      "description": "Covers the Sleight of Hand skill mechanics including DCs, common uses like pickpocketing and hiding objects, drawing hidden weapons, entertaining, and skill unlock abilities for high-rank characters.",
+      "description": "Covers the Sleight of Hand skill mechanics including DCs, common uses like hiding objects and drawing hidden weapons, action types, modifiers, and unchained skill unlocks.",
       "keywords": [
         "Sleight of Hand",
-        "pickpocket",
-        "hide object",
-        "draw hidden weapon",
         "palm weapon",
+        "draw hidden weapon",
+        "hide object",
         "take something unnoticed",
+        "pickpocket",
         "entertain",
         "legerdemain",
         "conceal weapon",
         "steal maneuver",
         "skill unlock",
-        "Deft Hands"
+        "Deft Hands",
+        "trained only skill"
       ]
     }
-  ]
+  ],
+  "category": "Skills"
 }

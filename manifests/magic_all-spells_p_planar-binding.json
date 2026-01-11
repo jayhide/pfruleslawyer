@@ -1,0 +1,16 @@
+{
+  "file": "planar-binding.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/p/planar-binding/",
+  "source_name": "Spell: Planar Binding",
+  "sections": [
+    {
+      "id": "planar_binding",
+      "title": "Planar Binding",
+      "anchor_heading": "# Planar Binding",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Planar Binding, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

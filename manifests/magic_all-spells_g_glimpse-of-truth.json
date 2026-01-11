@@ -1,0 +1,16 @@
+{
+  "file": "glimpse-of-truth.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/g/glimpse-of-truth/",
+  "source_name": "Spell: Glimpse of Truth",
+  "sections": [
+    {
+      "id": "glimpse_of_truth",
+      "title": "Glimpse of Truth",
+      "anchor_heading": "# Glimpse of Truth",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Glimpse of Truth, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

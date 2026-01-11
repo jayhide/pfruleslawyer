@@ -1,0 +1,16 @@
+{
+  "file": "font-of-spirit-magic.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/f/font-of-spirit-magic/",
+  "source_name": "Spell: Font of Spirit Magic",
+  "sections": [
+    {
+      "id": "font_of_spirit_magic",
+      "title": "Font of Spirit Magic",
+      "anchor_heading": "# Font of Spirit Magic",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Font of Spirit Magic, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

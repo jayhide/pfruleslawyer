@@ -1,0 +1,16 @@
+{
+  "file": "disintegrate.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/d/disintegrate/",
+  "source_name": "Spell: Disintegrate",
+  "sections": [
+    {
+      "id": "disintegrate",
+      "title": "Disintegrate",
+      "anchor_heading": "# Disintegrate",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Disintegrate, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

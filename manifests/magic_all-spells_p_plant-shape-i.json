@@ -1,0 +1,16 @@
+{
+  "file": "plant-shape-i.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/p/plant-shape-i/",
+  "source_name": "Spell: Plant Shape",
+  "sections": [
+    {
+      "id": "plant_shape_i",
+      "title": "Plant Shape",
+      "anchor_heading": "# Plant Shape",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Plant Shape, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

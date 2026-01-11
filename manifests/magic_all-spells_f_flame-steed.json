@@ -1,0 +1,16 @@
+{
+  "file": "flame-steed.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/f/flame-steed/",
+  "source_name": "Spell: Flame Steed",
+  "sections": [
+    {
+      "id": "flame_steed",
+      "title": "Flame Steed",
+      "anchor_heading": "# Flame Steed",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Flame Steed, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

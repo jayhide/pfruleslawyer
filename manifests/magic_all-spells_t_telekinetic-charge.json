@@ -1,0 +1,16 @@
+{
+  "file": "telekinetic-charge.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/t/telekinetic-charge/",
+  "source_name": "Spell: Telekinetic Charge",
+  "sections": [
+    {
+      "id": "telekinetic_charge",
+      "title": "Telekinetic Charge",
+      "anchor_heading": "# Telekinetic Charge",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Telekinetic Charge, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

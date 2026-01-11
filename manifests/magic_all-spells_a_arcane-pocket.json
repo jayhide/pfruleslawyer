@@ -1,0 +1,16 @@
+{
+  "file": "arcane-pocket.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/a/arcane-pocket/",
+  "source_name": "Spell: Arcane Pocket",
+  "sections": [
+    {
+      "id": "arcane_pocket",
+      "title": "Arcane Pocket",
+      "anchor_heading": "# Arcane Pocket",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Arcane Pocket, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

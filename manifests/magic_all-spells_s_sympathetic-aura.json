@@ -1,0 +1,16 @@
+{
+  "file": "sympathetic-aura.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/s/sympathetic-aura/",
+  "source_name": "Spell: Sympathetic Aura",
+  "sections": [
+    {
+      "id": "sympathetic_aura",
+      "title": "Sympathetic Aura",
+      "anchor_heading": "# Sympathetic Aura",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Sympathetic Aura, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

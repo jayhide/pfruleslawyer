@@ -1,0 +1,16 @@
+{
+  "file": "phantasmal-killer.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/p/phantasmal-killer/",
+  "source_name": "Spell: Phantasmal Killer",
+  "sections": [
+    {
+      "id": "phantasmal_killer",
+      "title": "Phantasmal Killer",
+      "anchor_heading": "# Phantasmal Killer",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Phantasmal Killer, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

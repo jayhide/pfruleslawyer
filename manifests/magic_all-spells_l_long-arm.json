@@ -1,0 +1,16 @@
+{
+  "file": "long-arm.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/l/long-arm/",
+  "source_name": "Spell: Long Arm",
+  "sections": [
+    {
+      "id": "long_arm",
+      "title": "Long Arm",
+      "anchor_heading": "# Long Arm",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Long Arm, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

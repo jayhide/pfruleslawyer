@@ -1,0 +1,16 @@
+{
+  "file": "touch-of-blindness.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/t/touch-of-blindness/",
+  "source_name": "Spell: Touch of Blindness",
+  "sections": [
+    {
+      "id": "touch_of_blindness",
+      "title": "Touch of Blindness",
+      "anchor_heading": "# Touch of Blindness",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Touch of Blindness, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

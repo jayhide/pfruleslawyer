@@ -1,0 +1,16 @@
+{
+  "file": "silent-image.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/s/silent-image/",
+  "source_name": "Spell: Silent Image",
+  "sections": [
+    {
+      "id": "silent_image",
+      "title": "Silent Image",
+      "anchor_heading": "# Silent Image",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Silent Image, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

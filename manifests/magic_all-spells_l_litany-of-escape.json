@@ -1,0 +1,16 @@
+{
+  "file": "litany-of-escape.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/l/litany-of-escape/",
+  "source_name": "Spell: Litany of Escape",
+  "sections": [
+    {
+      "id": "litany_of_escape",
+      "title": "Litany of Escape",
+      "anchor_heading": "# Litany of Escape",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Litany of Escape, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

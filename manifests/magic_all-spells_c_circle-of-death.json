@@ -1,0 +1,16 @@
+{
+  "file": "circle-of-death.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/c/circle-of-death/",
+  "source_name": "Spell: Circle of Death",
+  "sections": [
+    {
+      "id": "circle_of_death",
+      "title": "Circle of Death",
+      "anchor_heading": "# Circle of Death",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Circle of Death, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

@@ -1,0 +1,16 @@
+{
+  "file": "duplicate-familiar.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/d/duplicate-familiar/",
+  "source_name": "Spell: Duplicate Familiar",
+  "sections": [
+    {
+      "id": "duplicate_familiar",
+      "title": "Duplicate Familiar",
+      "anchor_heading": "# Duplicate Familiar",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Duplicate Familiar, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

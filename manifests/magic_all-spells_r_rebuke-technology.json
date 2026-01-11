@@ -1,0 +1,16 @@
+{
+  "file": "rebuke-technology.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/r/rebuke-technology/",
+  "source_name": "Spell: Rebuke Technology",
+  "sections": [
+    {
+      "id": "rebuke_technology",
+      "title": "Rebuke Technology",
+      "anchor_heading": "# Rebuke Technology",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Rebuke Technology, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

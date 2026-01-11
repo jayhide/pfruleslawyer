@@ -1,0 +1,16 @@
+{
+  "file": "dress-corpse.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/d/dress-corpse/",
+  "source_name": "Spell: Dress Corpse",
+  "sections": [
+    {
+      "id": "dress_corpse",
+      "title": "Dress Corpse",
+      "anchor_heading": "# Dress Corpse",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Dress Corpse, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

@@ -1,0 +1,16 @@
+{
+  "file": "fabricate-bullets.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/f/fabricate-bullets/",
+  "source_name": "Spell: Fabricate Bullets",
+  "sections": [
+    {
+      "id": "fabricate_bullets",
+      "title": "Fabricate Bullets",
+      "anchor_heading": "# Fabricate Bullets",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Fabricate Bullets, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

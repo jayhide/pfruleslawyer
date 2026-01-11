@@ -1,0 +1,16 @@
+{
+  "file": "fire-storm.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/f/fire-storm/",
+  "source_name": "Spell: Fire Storm",
+  "sections": [
+    {
+      "id": "fire_storm",
+      "title": "Fire Storm",
+      "anchor_heading": "# Fire Storm",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Fire Storm, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

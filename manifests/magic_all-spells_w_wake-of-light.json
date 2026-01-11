@@ -1,0 +1,16 @@
+{
+  "file": "wake-of-light.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/w/wake-of-light/",
+  "source_name": "Spell: Wake of Light",
+  "sections": [
+    {
+      "id": "wake_of_light",
+      "title": "Wake of Light",
+      "anchor_heading": "# Wake of Light",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Wake of Light, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

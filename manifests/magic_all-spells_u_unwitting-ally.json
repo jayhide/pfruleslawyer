@@ -1,0 +1,16 @@
+{
+  "file": "unwitting-ally.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/u/unwitting-ally/",
+  "source_name": "Spell: Unwitting Ally",
+  "sections": [
+    {
+      "id": "unwitting_ally",
+      "title": "Unwitting Ally",
+      "anchor_heading": "# Unwitting Ally",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Unwitting Ally, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

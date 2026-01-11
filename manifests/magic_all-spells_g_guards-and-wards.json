@@ -1,0 +1,16 @@
+{
+  "file": "guards-and-wards.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/g/guards-and-wards/",
+  "source_name": "Spell: Guards and Wards",
+  "sections": [
+    {
+      "id": "guards_and_wards",
+      "title": "Guards and Wards",
+      "anchor_heading": "# Guards and Wards",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Guards and Wards, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

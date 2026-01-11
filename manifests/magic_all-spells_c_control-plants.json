@@ -1,0 +1,16 @@
+{
+  "file": "control-plants.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/c/control-plants/",
+  "source_name": "Spell: Control Plants",
+  "sections": [
+    {
+      "id": "control_plants",
+      "title": "Control Plants",
+      "anchor_heading": "# Control Plants",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Control Plants, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

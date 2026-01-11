@@ -1,0 +1,16 @@
+{
+  "file": "trap-the-soul.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/t/trap-the-soul/",
+  "source_name": "Spell: Trap the Soul",
+  "sections": [
+    {
+      "id": "trap_the_soul",
+      "title": "Trap the Soul",
+      "anchor_heading": "# Trap the Soul",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Trap the Soul, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

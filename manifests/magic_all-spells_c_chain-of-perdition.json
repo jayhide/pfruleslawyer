@@ -1,0 +1,16 @@
+{
+  "file": "chain-of-perdition.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/c/chain-of-perdition/",
+  "source_name": "Spell: Chain of Perdition",
+  "sections": [
+    {
+      "id": "chain_of_perdition",
+      "title": "Chain of Perdition",
+      "anchor_heading": "# Chain of Perdition",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Chain of Perdition, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

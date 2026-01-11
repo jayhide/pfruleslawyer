@@ -1,0 +1,16 @@
+{
+  "file": "synaptic-scramble.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/s/synaptic-scramble/",
+  "source_name": "Spell: Synaptic Scramble",
+  "sections": [
+    {
+      "id": "synaptic_scramble",
+      "title": "Synaptic Scramble",
+      "anchor_heading": "# Synaptic Scramble",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Synaptic Scramble, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

@@ -7,12 +7,10 @@
       "title": "Ability Damage and Drain",
       "anchor_heading": "### Ability Damage and Drain (Ex or Su)",
       "includes_subheadings": [],
-      "description": "Rules for special attacks that cause ability damage or permanent ability drain",
+      "description": "Rules for attacks that cause ability damage or drain, including healing and restoration",
       "keywords": [
         "ability damage",
-        "ability drain",
-        "constitution damage",
-        "strength drain"
+        "ability drain"
       ]
     },
     {
@@ -20,11 +18,10 @@
       "title": "Absurd Reactions",
       "anchor_heading": "### Absurd Reactions (Ex) [3PP]",
       "includes_subheadings": [],
-      "description": "Third party rule allowing additional immediate actions per turn",
+      "description": "Third-party rule allowing additional immediate actions per turn",
       "keywords": [
-        "immediate action",
-        "reaction",
-        "3pp"
+        "absurd reactions",
+        "immediate action"
       ]
     },
     {
@@ -32,11 +29,10 @@
       "title": "All-Around Vision",
       "anchor_heading": "### All-Around Vision (Ex)",
       "includes_subheadings": [],
-      "description": "Ability to see in all directions simultaneously, preventing flanking",
+      "description": "Creature sees in all directions and cannot be flanked",
       "keywords": [
         "all-around vision",
-        "flanking",
-        "vision"
+        "flanked"
       ]
     },
     {
@@ -44,12 +40,10 @@
       "title": "All-Knowing",
       "anchor_heading": "### All-Knowing [3PP]",
       "includes_subheadings": [],
-      "description": "Third party ability to automatically know location of creatures entering controlled planes",
+      "description": "Third-party ability to automatically know location of creatures entering controlled areas",
       "keywords": [
         "all-knowing",
-        "discern location",
-        "planar",
-        "3pp"
+        "discern location"
       ]
     },
     {
@@ -57,12 +51,10 @@
       "title": "All-Sensing",
       "anchor_heading": "### All-Sensing [3PP]",
       "includes_subheadings": [],
-      "description": "Third party ability to extend senses over long distances",
+      "description": "Third-party ability to extend senses over long distances",
       "keywords": [
         "all-sensing",
-        "remote sensing",
-        "extended senses",
-        "3pp"
+        "remote sensing"
       ]
     },
     {
@@ -70,12 +62,11 @@
       "title": "Amazing Initiative",
       "anchor_heading": "### Amazing Initiative [MA] (Ex)",
       "includes_subheadings": [],
-      "description": "Mythic ability granting initiative bonuses and extra standard actions",
+      "description": "Mythic ability providing initiative bonuses and extra standard actions",
       "keywords": [
         "amazing initiative",
         "mythic",
-        "initiative",
-        "extra action"
+        "initiative"
       ]
     },
     {
@@ -83,11 +74,11 @@
       "title": "Amorphous",
       "anchor_heading": "### Amorphous (Ex)",
       "includes_subheadings": [],
-      "description": "Immunity to precision damage and critical hits due to malleable body",
+      "description": "Shapeless body immune to precision damage and critical hits",
       "keywords": [
         "amorphous",
-        "critical hit immunity",
-        "sneak attack immunity"
+        "precision damage",
+        "critical hits"
       ]
     },
     {
@@ -95,11 +86,10 @@
       "title": "Amphibious",
       "anchor_heading": "### Amphibious (Ex)",
       "includes_subheadings": [],
-      "description": "Ability to survive indefinitely on land despite having aquatic subtype",
+      "description": "Aquatic creatures that can survive indefinitely on land",
       "keywords": [
         "amphibious",
-        "aquatic",
-        "breathing"
+        "aquatic"
       ]
     },
     {
@@ -107,11 +97,11 @@
       "title": "Apocalyptic Resurrection",
       "anchor_heading": "### Apocalyptic Resurrection (Ex)",
       "includes_subheadings": [],
-      "description": "Horseman ability to resurrect after death with restrictions",
+      "description": "Horseman ability to return to life after being killed",
       "keywords": [
         "apocalyptic resurrection",
         "horseman",
-        "resurrection"
+        "true resurrection"
       ]
     },
     {
@@ -119,12 +109,11 @@
       "title": "Archdevil Traits",
       "anchor_heading": "### Archdevil Traits (Ex, Sp, or Su)",
       "includes_subheadings": [],
-      "description": "Complete set of abilities and immunities possessed by archdevils",
+      "description": "Complete suite of abilities and immunities for archdevils",
       "keywords": [
         "archdevil",
-        "devil",
-        "infernal resurrection",
         "frightful presence",
+        "infernal resurrection",
         "summon devils"
       ]
     },
@@ -133,11 +122,10 @@
       "title": "Attach",
       "anchor_heading": "### Attach (Ex)",
       "includes_subheadings": [],
-      "description": "Ability to automatically latch onto targets after successful attacks",
+      "description": "Ability to automatically latch onto targets when attacking",
       "keywords": [
         "attach",
-        "grapple",
-        "latch"
+        "grappling"
       ]
     },
     {
@@ -145,11 +133,10 @@
       "title": "Bleed",
       "anchor_heading": "### Bleed (Ex)",
       "includes_subheadings": [],
-      "description": "Wounds that continue to deal damage each round until healed",
+      "description": "Wounds that continue bleeding each round until healed",
       "keywords": [
         "bleed",
-        "bleeding",
-        "ongoing damage"
+        "bleeding"
       ]
     },
     {
@@ -157,11 +144,9 @@
       "title": "Blindsense",
       "anchor_heading": "### Blindsense (Ex)",
       "includes_subheadings": [],
-      "description": "Nonvisual sense that notices creatures but doesn't negate concealment",
+      "description": "Nonvisual sensing ability that notices creatures but doesn't overcome concealment",
       "keywords": [
         "blindsense",
-        "nonvisual",
-        "perception",
         "concealment"
       ]
     },
@@ -170,12 +155,11 @@
       "title": "Blindsight",
       "anchor_heading": "### Blindsight (Ex)",
       "includes_subheadings": [],
-      "description": "Advanced nonvisual sense that functions as well as normal sight",
+      "description": "Superior nonvisual sensing that overcomes invisibility and concealment",
       "keywords": [
         "blindsight",
-        "nonvisual",
         "invisibility",
-        "darkness"
+        "concealment"
       ]
     },
     {
@@ -183,11 +167,9 @@
       "title": "Block Sensing",
       "anchor_heading": "### Block Sensing [3PP]",
       "includes_subheadings": [],
-      "description": "Third party ability to block other entities' sensing abilities",
+      "description": "Third-party ability to block other entities' sensing abilities",
       "keywords": [
-        "block sensing",
-        "counter-sensing",
-        "3pp"
+        "block sensing"
       ]
     },
     {
@@ -195,12 +177,11 @@
       "title": "Blood Drain",
       "anchor_heading": "### Blood Drain (Ex)",
       "includes_subheadings": [],
-      "description": "Ability to drain blood from grappled foes, causing Constitution damage",
+      "description": "Draining blood from grappled foes to cause Constitution damage",
       "keywords": [
         "blood drain",
         "constitution damage",
-        "grapple",
-        "vampire"
+        "grapple"
       ]
     },
     {
@@ -208,12 +189,10 @@
       "title": "Blood Rage",
       "anchor_heading": "### Blood Rage (Ex)",
       "includes_subheadings": [],
-      "description": "Involuntary rage triggered by taking damage in combat",
+      "description": "Entering rage state when taking damage in combat",
       "keywords": [
         "blood rage",
-        "rage",
-        "combat",
-        "berserk"
+        "rage"
       ]
     },
     {
@@ -221,13 +200,10 @@
       "title": "Breath Weapon",
       "anchor_heading": "### Breath Weapon (Su)",
       "includes_subheadings": [],
-      "description": "Supernatural ability to exhale cones, lines, or clouds of energy or effects",
+      "description": "Supernatural ability to exhale cones, lines, or clouds of energy or magical effects",
       "keywords": [
         "breath weapon",
-        "cone",
-        "line",
-        "energy",
-        "dragon"
+        "reflex save"
       ]
     },
     {
@@ -235,12 +211,11 @@
       "title": "Burn",
       "anchor_heading": "### Burn (Ex)",
       "includes_subheadings": [],
-      "description": "Fire damage that can cause targets to catch fire and continue burning",
+      "description": "Fire damage that can cause targets to catch fire",
       "keywords": [
         "burn",
-        "fire",
-        "catching fire",
-        "ongoing fire"
+        "catching on fire",
+        "fire damage"
       ]
     },
     {
@@ -248,12 +223,10 @@
       "title": "Burrow",
       "anchor_heading": "### \\*Burrow (Ex)",
       "includes_subheadings": [],
-      "description": "Movement type allowing tunneling through dirt and similar materials",
+      "description": "Movement ability to tunnel through dirt and similar materials",
       "keywords": [
         "burrow",
-        "tunneling",
-        "underground",
-        "movement"
+        "tunnel"
       ]
     },
     {
@@ -261,13 +234,10 @@
       "title": "Capsize",
       "anchor_heading": "### Capsize (Ex)",
       "includes_subheadings": [],
-      "description": "Ability to overturn boats and ships through ramming attacks",
+      "description": "Ability to overturn boats and ships by ramming",
       "keywords": [
         "capsize",
-        "ship",
-        "boat",
-        "ramming",
-        "naval"
+        "combat maneuver"
       ]
     },
     {
@@ -275,12 +245,10 @@
       "title": "Change Shape",
       "anchor_heading": "### Change Shape (Su)",
       "includes_subheadings": [],
-      "description": "Supernatural ability to assume different physical forms",
+      "description": "Supernatural ability to assume different creature forms",
       "keywords": [
         "change shape",
-        "polymorph",
-        "shapechange",
-        "lycanthrope"
+        "polymorph"
       ]
     },
     {
@@ -288,12 +256,11 @@
       "title": "Channel Resistance",
       "anchor_heading": "### Channel Resistance (Ex)",
       "includes_subheadings": [],
-      "description": "Resistance to clerical channel energy effects, typically possessed by undead",
+      "description": "Resistance to clerical channel energy effects",
       "keywords": [
         "channel resistance",
         "channel energy",
-        "undead",
-        "cleric"
+        "undead"
       ]
     },
     {
@@ -301,11 +268,9 @@
       "title": "Climb",
       "anchor_heading": "### Climb",
       "includes_subheadings": [],
-      "description": "Movement type and bonuses for climbing surfaces and walls",
+      "description": "Natural climbing ability with racial bonuses and special movement options",
       "keywords": [
         "climb",
-        "climbing",
-        "movement",
         "climb speed"
       ]
     },
@@ -317,8 +282,7 @@
       "description": "Ability to move through spaces much smaller than normal size",
       "keywords": [
         "compression",
-        "squeeze",
-        "tight spaces"
+        "squeezing"
       ]
     },
     {
@@ -326,12 +290,11 @@
       "title": "Constrict",
       "anchor_heading": "### Constrict (Ex)\\*",
       "includes_subheadings": [],
-      "description": "Additional crushing damage dealt during successful grapple checks",
+      "description": "Crushing damage dealt automatically on successful grapple checks",
       "keywords": [
         "constrict",
         "grapple",
-        "crushing",
-        "squeeze"
+        "bludgeoning damage"
       ]
     },
     {
@@ -339,12 +302,11 @@
       "title": "Construct Traits",
       "anchor_heading": "### Construct Traits (Ex)",
       "includes_subheadings": [],
-      "description": "Complete set of immunities and resistances possessed by construct creatures",
+      "description": "Complete immunities and resistances for construct creatures",
       "keywords": [
         "construct traits",
-        "construct",
         "immunity",
-        "fortitude"
+        "fortitude save"
       ]
     },
     {
@@ -352,11 +314,9 @@
       "title": "Curse",
       "anchor_heading": "### Curse (Su)",
       "includes_subheadings": [],
-      "description": "Supernatural ability to inflict ongoing curse effects on enemies",
+      "description": "Supernatural ability to bestow curses with various effects",
       "keywords": [
         "curse",
-        "cursed",
-        "supernatural",
         "remove curse"
       ]
     },
@@ -365,13 +325,12 @@
       "title": "Curse of Lycanthropy",
       "anchor_heading": "### Curse of Lycanthropy (Su)",
       "includes_subheadings": [],
-      "description": "Specific curse that transforms humanoids into lycanthropes",
+      "description": "Lycanthrope bite attacks that can infect humanoids with lycanthropy",
       "keywords": [
-        "lycanthropy",
-        "werewolf",
-        "curse",
+        "curse of lycanthropy",
+        "lycanthrope",
         "bite",
-        "transformation"
+        "fortitude save"
       ]
     },
     {
@@ -379,13 +338,12 @@
       "title": "Damage Reduction",
       "anchor_heading": "### Damage Reduction (Ex or Su)",
       "includes_subheadings": [],
-      "description": "Ability to ignore or reduce physical damage from weapons and attacks",
+      "description": "Ability to ignore damage from weapons and attacks unless specific conditions are met",
       "keywords": [
         "damage reduction",
-        "dr",
-        "immunity",
-        "weapon type",
-        "material"
+        "enhancement bonus",
+        "epic weapons",
+        "alignment"
       ]
     },
     {
@@ -393,12 +351,9 @@
       "title": "Darkvision",
       "anchor_heading": "### Darkvision (Ex or Su)",
       "includes_subheadings": [],
-      "description": "Ability to see clearly in total darkness in black and white",
+      "description": "Ability to see in total darkness as black and white vision",
       "keywords": [
-        "darkvision",
-        "darkness",
-        "vision",
-        "night vision"
+        "darkvision"
       ]
     },
     {
@@ -406,10 +361,9 @@
       "title": "Demon Lord Traits",
       "anchor_heading": "### Demon Lord Traits ([Ex](https://www.d20pfsrd.com/magic#TOC-Extraordinary-Abilities-Ex-), [Sp](https://www.d20pfsrd.com/magic#TOC-Spell-Like-Abilities-Sp-), or [Su](https://www.d20pfsrd.com/magic#TOC-Supernatural-Abilities-Su-))",
       "includes_subheadings": [],
-      "description": "Complete set of abilities and immunities possessed by demon lords",
+      "description": "Complete suite of abilities and immunities for demon lords",
       "keywords": [
         "demon lord",
-        "demon",
         "abyssal resurrection",
         "frightful presence",
         "summon demons"
@@ -420,11 +374,10 @@
       "title": "Disease",
       "anchor_heading": "### Disease (Ex or Su)",
       "includes_subheadings": [],
-      "description": "Ability to inflict diseases on contacted creatures",
+      "description": "Ability to infect targets with diseases through contact or attacks",
       "keywords": [
         "disease",
-        "infection",
-        "fort save",
+        "fortitude save",
         "remove disease"
       ]
     },
@@ -433,7 +386,7 @@
       "title": "Display of Strength",
       "anchor_heading": "### Display of Strength [MA] (Su)",
       "includes_subheadings": [],
-      "description": "Mythic ability to enhance Strength-based checks and carrying capacity",
+      "description": "Mythic ability to perform exceptional feats of strength",
       "keywords": [
         "display of strength",
         "mythic",
@@ -446,11 +399,11 @@
       "title": "Distraction",
       "anchor_heading": "### Distraction (Ex)",
       "includes_subheadings": [],
-      "description": "Ability to nauseate creatures damaged by the monster",
+      "description": "Ability to nauseate creatures damaged by the creature",
       "keywords": [
         "distraction",
         "nauseated",
-        "sickening"
+        "fortitude save"
       ]
     },
     {
@@ -458,12 +411,11 @@
       "title": "Dragon Senses",
       "anchor_heading": "### Dragon Senses (Ex)",
       "includes_subheadings": [],
-      "description": "Enhanced vision package including darkvision and blindsense",
+      "description": "Enhanced vision capabilities specific to dragons",
       "keywords": [
         "dragon senses",
         "darkvision",
-        "blindsense",
-        "low-light vision"
+        "blindsense"
       ]
     },
     {
@@ -471,7 +423,7 @@
       "title": "Dual Initiative",
       "anchor_heading": "### Dual Initiative [MA] (Ex)",
       "includes_subheadings": [],
-      "description": "Mythic ability to act twice per round on different initiative counts",
+      "description": "Mythic ability to take two turns each round at different initiative counts",
       "keywords": [
         "dual initiative",
         "mythic",
@@ -488,8 +440,7 @@
       "keywords": [
         "earth glide",
         "burrow",
-        "stone",
-        "elemental"
+        "move earth"
       ]
     },
     {
@@ -497,13 +448,12 @@
       "title": "Echosense/Echosight",
       "anchor_heading": "### Echosense/Echosight [3PP]",
       "includes_subheadings": [],
-      "description": "Third party sense using sound reflection like echolocation",
+      "description": "Third-party sensing ability using sound wave reflection",
       "keywords": [
         "echosense",
         "echosight",
-        "echolocation",
-        "sound",
-        "3pp"
+        "soundwaves",
+        "deafened"
       ]
     },
     {
@@ -511,13 +461,11 @@
       "title": "Emotion Aura",
       "anchor_heading": "### Emotion Aura (Su)",
       "includes_subheadings": [],
-      "description": "Aura that disrupts spells with emotion components",
+      "description": "Aura that interferes with spells having emotion components",
       "keywords": [
         "emotion aura",
-        "aura",
-        "emotion",
-        "spellcasting",
-        "concentration"
+        "concentration check",
+        "emotion component"
       ]
     },
     {
@@ -525,13 +473,12 @@
       "title": "Empyreal Lord Traits",
       "anchor_heading": "### Empyreal Lord Traits ([Ex](https://www.d20pfsrd.com/magic#TOC-Extraordinary-Abilities-Ex-), [Sp](https://www.d20pfsrd.com/magic#TOC-Spell-Like-Abilities-Sp-), or [Su](https://www.d20pfsrd.com/magic#TOC-Supernatural-Abilities-Su-))",
       "includes_subheadings": [],
-      "description": "Complete set of abilities possessed by empyreal lords",
+      "description": "Complete suite of abilities and immunities for empyreal lords",
       "keywords": [
         "empyreal lord",
-        "celestial",
+        "greater teleport",
         "primal aura",
-        "seed of life",
-        "regeneration"
+        "seed of life"
       ]
     },
     {
@@ -539,12 +486,11 @@
       "title": "Energy Drain",
       "anchor_heading": "### Energy Drain (Su)\\*",
       "includes_subheadings": [],
-      "description": "Attack that bestows negative levels, potentially permanent",
+      "description": "Attack that bestows negative levels and drains life energy",
       "keywords": [
         "energy drain",
         "negative levels",
-        "level drain",
-        "undead"
+        "temporary hit points"
       ]
     },
     {
@@ -552,12 +498,11 @@
       "title": "Engulf",
       "anchor_heading": "### Engulf (Ex)",
       "includes_subheadings": [],
-      "description": "Ability to engulf and trap multiple opponents by moving over them",
+      "description": "Ability to engulf opponents by moving over them",
       "keywords": [
         "engulf",
         "pinned",
-        "suffocation",
-        "swallow"
+        "suffocating"
       ]
     },
     {
@@ -565,13 +510,12 @@
       "title": "Entrap",
       "anchor_heading": "### Entrap (Ex or Su)",
       "includes_subheadings": [],
-      "description": "Ability to restrict movement through physical restraints like webs or mud",
+      "description": "Ability to restrict movement with physical substances like webs or mud",
       "keywords": [
         "entrap",
         "entangled",
         "helpless",
-        "web",
-        "restraint"
+        "fortitude save"
       ]
     },
     {
@@ -579,11 +523,10 @@
       "title": "Expanding Blindsense",
       "anchor_heading": "### Expanding Blindsense",
       "includes_subheadings": [],
-      "description": "Third party expansion of blindsense and blindsight rules with specific sense types",
+      "description": "Third-party expanded rules for different types of blindsense and blindsight",
       "keywords": [
         "expanding blindsense",
-        "alternative senses",
-        "3pp"
+        "perception checks"
       ]
     },
     {
@@ -591,12 +534,11 @@
       "title": "Fast Healing",
       "anchor_heading": "### Fast Healing (Ex)",
       "includes_subheadings": [],
-      "description": "Ability to regain hit points each round at an exceptional rate",
+      "description": "Automatic healing of hit points each round at an exceptional rate",
       "keywords": [
         "fast healing",
-        "regeneration",
-        "healing",
-        "hit points"
+        "hit points",
+        "starvation"
       ]
     },
     {
@@ -604,7 +546,7 @@
       "title": "Fast Swallow",
       "anchor_heading": "### Fast Swallow (Ex)",
       "includes_subheadings": [],
-      "description": "Ability to use swallow whole as a free action anytime during turn",
+      "description": "Ability to use swallow whole as a free action at any time during turn",
       "keywords": [
         "fast swallow",
         "swallow whole",
@@ -618,13 +560,13 @@
       "includes_subheadings": [
         "### Fear Cone (Sp) and Ray (Su)"
       ],
-      "description": "Various fear-inducing abilities including auras, cones, and rays",
+      "description": "Various fear-based attacks including auras, cones, and rays",
       "keywords": [
         "fear",
-        "frightened",
         "fear aura",
         "fear cone",
-        "mind-affecting"
+        "fear ray",
+        "will save"
       ]
     },
     {
@@ -635,9 +577,8 @@
       "description": "Ability to remain conscious and fighting below 0 hit points",
       "keywords": [
         "ferocity",
-        "below zero",
         "staggered",
-        "unconscious"
+        "negative hit points"
       ]
     },
     {
@@ -650,7 +591,7 @@
         "flight",
         "fly speed",
         "maneuverability",
-        "aerial"
+        "antimagic field"
       ]
     },
     {
@@ -658,12 +599,12 @@
       "title": "Fight Through Restriction",
       "anchor_heading": "### Fight Through Restriction (Ex) [3PP]",
       "includes_subheadings": [],
-      "description": "Third party ability to act normally on second initiative despite conditions",
+      "description": "Third-party ability to partially ignore debilitating conditions with dual initiative",
       "keywords": [
         "fight through restriction",
         "dual initiative",
-        "conditions",
-        "3pp"
+        "dazed",
+        "stunned"
       ]
     },
     {
@@ -671,12 +612,12 @@
       "title": "Formian Traits",
       "anchor_heading": "### Formian Traits (Ex or Su)",
       "includes_subheadings": [],
-      "description": "Species traits of formian insectoids including hive mind",
+      "description": "Special abilities and traits of formian creatures including hive mind",
       "keywords": [
-        "formian",
+        "formian traits",
         "hive mind",
         "telepathy",
-        "insectoid"
+        "telepathic caster"
       ]
     },
     {
@@ -684,12 +625,11 @@
       "title": "Fortification",
       "anchor_heading": "### Fortification (Ex)",
       "includes_subheadings": [],
-      "description": "Chance to negate critical hits and sneak attacks",
+      "description": "Chance to treat critical hits and sneak attacks as normal hits",
       "keywords": [
         "fortification",
         "critical hit",
-        "sneak attack",
-        "armor"
+        "sneak attack"
       ]
     },
     {
@@ -697,12 +637,11 @@
       "title": "Freeze",
       "anchor_heading": "### Freeze (Ex)",
       "includes_subheadings": [],
-      "description": "Ability to appear as an inanimate object for stealth",
+      "description": "Ability to appear as an inanimate object for stealth purposes",
       "keywords": [
         "freeze",
         "stealth",
-        "inanimate",
-        "camouflage"
+        "inanimate object"
       ]
     },
     {
@@ -710,13 +649,13 @@
       "title": "Frightful Presence",
       "anchor_heading": "### Frightful Presence (Ex)",
       "includes_subheadings": [],
-      "description": "Aura that causes fear effects when the creature acts",
+      "description": "Aura that causes fear effects in creatures with fewer Hit Dice",
       "keywords": [
         "frightful presence",
-        "fear",
+        "frightened",
         "shaken",
         "panicked",
-        "aura"
+        "will save"
       ]
     },
     {
@@ -724,13 +663,12 @@
       "title": "Gaze",
       "anchor_heading": "### Gaze (Su)",
       "includes_subheadings": [],
-      "description": "Supernatural attack activated by looking at the creature's eyes",
+      "description": "Eye-based attack with various effects including rules for averting eyes",
       "keywords": [
         "gaze",
-        "gaze attack",
-        "eye contact",
-        "avert eyes",
-        "blindfold"
+        "averting eyes",
+        "blindfold",
+        "concealment"
       ]
     },
     {
@@ -738,12 +676,12 @@
       "title": "Grab",
       "anchor_heading": "### Grab (Ex)",
       "includes_subheadings": [],
-      "description": "Ability to automatically attempt grapples with successful attacks",
+      "description": "Ability to start grapples as free actions with successful attacks",
       "keywords": [
         "grab",
         "grapple",
-        "free action",
-        "constrict"
+        "constrict",
+        "combat maneuver"
       ]
     },
     {
@@ -751,12 +689,11 @@
       "title": "Greensight",
       "anchor_heading": "### Greensight (Su)",
       "includes_subheadings": [],
-      "description": "Ability to see through plant matter as if transparent",
+      "description": "Supernatural ability to see through thick plant matter",
       "keywords": [
         "greensight",
-        "plant",
-        "vegetation",
-        "see through"
+        "plant matter",
+        "concealment"
       ]
     },
     {
@@ -768,7 +705,6 @@
       "keywords": [
         "heat",
         "fire damage",
-        "touch",
         "metallic weapons"
       ]
     },
@@ -777,12 +713,11 @@
       "title": "Hold Breath",
       "anchor_heading": "### Hold Breath (Ex)",
       "includes_subheadings": [],
-      "description": "Extended ability to hold breath before risking drowning",
+      "description": "Extended ability to hold breath based on Constitution score",
       "keywords": [
         "hold breath",
-        "drowning",
-        "suffocation",
-        "constitution"
+        "constitution",
+        "drowning"
       ]
     },
     {
@@ -790,15 +725,12 @@
       "title": "Horseman Traits",
       "anchor_heading": "### Horseman Traits (Ex, Sp, or Su)",
       "includes_subheadings": [],
-      "description": "Abilities possessed by the Four Horsemen of the Apocalypse",
+      "description": "Traits of the four Horsemen including spell granting and weapon enhancement",
       "keywords": [
-        "horseman",
-        "apocalypse",
-        "daemon",
-        "death",
-        "famine",
-        "pestilence",
-        "war"
+        "horseman traits",
+        "epic",
+        "evil",
+        "domains"
       ]
     },
     {
@@ -806,12 +738,10 @@
       "title": "Immunity",
       "anchor_heading": "### Immunity (Ex or Su)",
       "includes_subheadings": [],
-      "description": "Complete protection from specific damage types or effects",
+      "description": "Complete protection from specific damage types, conditions, or effects",
       "keywords": [
         "immunity",
-        "immune",
-        "damage type",
-        "condition immunity"
+        "immune"
       ]
     },
     {
@@ -819,13 +749,12 @@
       "title": "Incorporeal",
       "anchor_heading": "### Incorporeal (Ex)",
       "includes_subheadings": [],
-      "description": "Complete rules for incorporeal creatures without physical bodies",
+      "description": "Complete rules for incorporeal creatures including movement and combat",
       "keywords": [
         "incorporeal",
-        "ghost",
-        "deflection",
+        "deflection bonus",
         "force effects",
-        "pass through"
+        "total cover"
       ]
     },
     {
@@ -833,12 +762,11 @@
       "title": "Instant Action",
       "anchor_heading": "### Instant Action (Ex) [3PP]",
       "includes_subheadings": [],
-      "description": "Third party ability to take immediate turns by spending mythic power",
+      "description": "Third-party ability to take turns immediately by spending mythic power",
       "keywords": [
         "instant action",
         "mythic power",
-        "readied action",
-        "3pp"
+        "readied action"
       ]
     },
     {
@@ -846,12 +774,11 @@
       "title": "Jet",
       "anchor_heading": "### Jet (Ex)",
       "includes_subheadings": [],
-      "description": "Ability to swim backward rapidly in straight lines",
+      "description": "Ability to swim backward rapidly without provoking attacks",
       "keywords": [
         "jet",
         "swim",
-        "underwater",
-        "movement"
+        "attacks of opportunity"
       ]
     },
     {
@@ -859,13 +786,11 @@
       "title": "Keen Scent",
       "anchor_heading": "### Keen Scent (Ex)",
       "includes_subheadings": [],
-      "description": "Enhanced scent ability for detecting creatures underwater and blood",
+      "description": "Enhanced scent ability for underwater creatures to detect blood",
       "keywords": [
         "keen scent",
         "underwater",
-        "blood",
-        "scent",
-        "shark"
+        "blood"
       ]
     },
     {
@@ -873,12 +798,11 @@
       "title": "Legendary Concentration",
       "anchor_heading": "### Legendary Concentration (Ex) [3PP]",
       "includes_subheadings": [],
-      "description": "Third party ability to automatically succeed concentration checks",
+      "description": "Third-party ability to treat concentration checks as if rolling 13",
       "keywords": [
         "legendary concentration",
-        "concentration",
-        "mythic power",
-        "3pp"
+        "concentration check",
+        "mythic power"
       ]
     },
     {
@@ -886,12 +810,11 @@
       "title": "Legendary Saving Throw",
       "anchor_heading": "### Legendary Saving Throw (Ex) [3PP]",
       "includes_subheadings": [],
-      "description": "Third party ability to automatically improve saving throw results",
+      "description": "Third-party ability to treat saving throws as if rolling 13",
       "keywords": [
         "legendary saving throw",
         "saving throw",
-        "mythic power",
-        "3pp"
+        "mythic power"
       ]
     },
     {
@@ -899,12 +822,10 @@
       "title": "Lifesense",
       "anchor_heading": "### Lifesense (Su)",
       "includes_subheadings": [],
-      "description": "Ability to automatically detect and locate living creatures",
+      "description": "Supernatural ability to notice and locate living creatures like blindsight",
       "keywords": [
         "lifesense",
-        "detect living",
-        "life detection",
-        "undead"
+        "living creatures"
       ]
     },
     {
@@ -912,13 +833,12 @@
       "title": "Light Blindness",
       "anchor_heading": "### Light Blindness (Ex)",
       "includes_subheadings": [],
-      "description": "Vulnerability to bright light causing blindness and dazzling",
+      "description": "Vulnerability to bright light causing blindness and dazzled conditions",
       "keywords": [
         "light blindness",
-        "bright light",
-        "sunlight",
+        "blinded",
         "dazzled",
-        "blinded"
+        "bright light"
       ]
     },
     {
@@ -930,8 +850,7 @@
       "keywords": [
         "light sensitivity",
         "dazzled",
-        "bright light",
-        "weakness"
+        "bright light"
       ]
     },
     {
@@ -939,12 +858,10 @@
       "title": "Low-Light Vision",
       "anchor_heading": "### Low-Light Vision (Ex)",
       "includes_subheadings": [],
-      "description": "Enhanced vision in dim lighting conditions",
+      "description": "Enhanced vision allowing sight at twice normal range in dim light",
       "keywords": [
         "low-light vision",
-        "dim light",
-        "starlight",
-        "moonlight"
+        "dim light"
       ]
     },
     {
@@ -952,12 +869,12 @@
       "title": "Lycanthropic Empathy",
       "anchor_heading": "### Lycanthropic Empathy (Ex)",
       "includes_subheadings": [],
-      "description": "Ability of lycanthropes to communicate with related animals",
+      "description": "Lycanthrope ability to communicate with related animals",
       "keywords": [
         "lycanthropic empathy",
         "lycanthrope",
-        "animal",
-        "diplomacy"
+        "diplomacy",
+        "animals"
       ]
     },
     {
@@ -965,13 +882,11 @@
       "title": "Material Sense",
       "anchor_heading": "### Material Sense [3PP]",
       "includes_subheadings": [],
-      "description": "Third party ability to detect specific materials",
+      "description": "Third-party ability to detect presence of specific materials",
       "keywords": [
         "material sense",
-        "detect material",
-        "stone",
-        "metal",
-        "3pp"
+        "materials",
+        "line of effect"
       ]
     },
     {
@@ -979,11 +894,10 @@
       "title": "Mental Static Aura",
       "anchor_heading": "### Mental Static Aura (Su)",
       "includes_subheadings": [],
-      "description": "Aura that disrupts concentration and spells with thought components",
+      "description": "Aura interfering with spells having thought components",
       "keywords": [
-        "mental static",
-        "aura",
-        "concentration",
+        "mental static aura",
+        "concentration check",
         "thought component"
       ]
     },
@@ -997,8 +911,7 @@
         "mistsight",
         "fog",
         "mist",
-        "murky water",
-        "vision"
+        "miss chance"
       ]
     },
     {
@@ -1006,12 +919,11 @@
       "title": "Mythic Durability",
       "anchor_heading": "### Mythic Durability (Ex) [3PP]",
       "includes_subheadings": [],
-      "description": "Third party ability providing doubled mythic hit points",
+      "description": "Third-party ability providing double hit points from mythic ranks",
       "keywords": [
         "mythic durability",
-        "mythic",
-        "hit points",
-        "3pp"
+        "mythic ranks",
+        "hit points"
       ]
     },
     {
@@ -1019,12 +931,12 @@
       "title": "Mythic Immortality",
       "anchor_heading": "### Mythic Immortality [MA] (Su)",
       "includes_subheadings": [],
-      "description": "Mythic ability to return to life after death with conditions",
+      "description": "Mythic ability to return to life after death with specific exceptions",
       "keywords": [
         "mythic immortality",
-        "resurrection",
-        "mythic",
-        "coup de grace"
+        "coup de grace",
+        "critical hit",
+        "artifact"
       ]
     },
     {
@@ -1032,12 +944,11 @@
       "title": "Mythic Magic",
       "anchor_heading": "### Mythic Magic [MA] (Su)",
       "includes_subheadings": [],
-      "description": "Ability to cast mythic versions of spells using mythic power",
+      "description": "Mythic ability to cast mythic versions of spells",
       "keywords": [
         "mythic magic",
         "mythic spells",
-        "mythic power",
-        "spellcasting"
+        "mythic power"
       ]
     },
     {
@@ -1045,12 +956,11 @@
       "title": "Mythic Power",
       "anchor_heading": "### Mythic Power [MA] (Su)",
       "includes_subheadings": [],
-      "description": "Core mythic ability providing power pool and surge capability",
+      "description": "Core mythic ability providing daily uses of mythic power and surge ability",
       "keywords": [
         "mythic power",
         "mythic rank",
-        "surge",
-        "mythic abilities"
+        "surge"
       ]
     },
     {
@@ -1061,8 +971,8 @@
       "description": "Ability to fight with multiple weapons without penalties",
       "keywords": [
         "multiweapon mastery",
-        "two-weapon fighting",
-        "multiple weapons"
+        "multiple weapons",
+        "attack penalties"
       ]
     },
     {
@@ -1072,14 +982,12 @@
       "includes_subheadings": [
         "### Table: Natural Attacks by Size"
       ],
-      "description": "Complete rules for natural weapons including damage by size",
+      "description": "Complete rules for natural weapons including primary/secondary attacks and damage tables",
       "keywords": [
         "natural attacks",
-        "bite",
-        "claw",
-        "slam",
-        "primary",
-        "secondary"
+        "primary attack",
+        "secondary attack",
+        "base attack bonus"
       ]
     },
     {
@@ -1090,8 +998,7 @@
       "description": "Constant invisibility that persists even when attacking",
       "keywords": [
         "natural invisibility",
-        "permanent invisibility",
-        "constant"
+        "invisibility purge"
       ]
     },
     {
@@ -1105,8 +1012,8 @@
       "keywords": [
         "negative energy affinity",
         "undead",
-        "negative energy",
-        "positive energy"
+        "cure spells",
+        "channeled energy"
       ]
     },
     {
@@ -1114,13 +1021,11 @@
       "title": "No Breath",
       "anchor_heading": "### No Breath (Ex)",
       "includes_subheadings": [],
-      "description": "Immunity to breathing-related effects but not gas attacks",
+      "description": "Immunity to effects requiring breathing like inhaled poisons",
       "keywords": [
         "no breath",
-        "suffocation",
-        "drowning",
-        "breathing",
-        "poison gas"
+        "inhaled poison",
+        "breathing"
       ]
     },
     {
@@ -1128,12 +1033,12 @@
       "title": "Outside Time",
       "anchor_heading": "### Outside Time (Su) [3PP]",
       "includes_subheadings": [],
-      "description": "Third party immunity to time effects and ability to act during time stop",
+      "description": "Third-party mythic immunity to time effects and time stop interactions",
       "keywords": [
         "outside time",
+        "slow",
         "time stop",
-        "slow immunity",
-        "3pp"
+        "mythic"
       ]
     },
     {
@@ -1141,13 +1046,12 @@
       "title": "Paralysis",
       "anchor_heading": "### Paralysis (Ex or Su)",
       "includes_subheadings": [],
-      "description": "Attack that renders victims immobile and helpless",
+      "description": "Attack rendering victims immobile and helpless",
       "keywords": [
         "paralysis",
         "paralyzed",
         "helpless",
-        "immobile",
-        "fortitude"
+        "fortitude save"
       ]
     },
     {
@@ -1157,13 +1061,12 @@
       "includes_subheadings": [
         "#### Planar Omniscience (Su) [3PP]"
       ],
-      "description": "Third party abilities for powerful outsiders on their home planes",
+      "description": "Third-party abilities for powerful outsiders to know their home planes",
       "keywords": [
         "planar knowledge",
         "planar omniscience",
-        "home plane",
-        "outsider",
-        "3pp"
+        "teleport",
+        "familiar"
       ]
     },
     {
@@ -1171,13 +1074,12 @@
       "title": "Plantbringer",
       "anchor_heading": "### Plantbringer [MA] (Su)",
       "includes_subheadings": [],
-      "description": "Mythic ability to enhance plant growth and provide fast healing to plant allies",
+      "description": "Mythic ability enhancing plant growth and providing fast healing to plant allies",
       "keywords": [
         "plantbringer",
-        "mythic",
-        "plant",
+        "plant growth",
         "fast healing",
-        "growth"
+        "plant creatures"
       ]
     },
     {
@@ -1185,12 +1087,12 @@
       "title": "Plant Traits",
       "anchor_heading": "### Plant Traits (Ex)",
       "includes_subheadings": [],
-      "description": "Immunities possessed by plant creature type",
+      "description": "Immunities of plant creatures to mind-affecting and other effects",
       "keywords": [
         "plant traits",
-        "plant",
-        "mind-affecting immunity",
-        "poison immunity"
+        "mind-affecting",
+        "paralysis",
+        "polymorph"
       ]
     },
     {
@@ -1198,11 +1100,10 @@
       "title": "Poison",
       "anchor_heading": "### Poison (Ex or Su)",
       "includes_subheadings": [],
-      "description": "Ability to inflict poison effects with specific save, frequency, and cure",
+      "description": "Ability to poison targets with save, frequency, and cure mechanics",
       "keywords": [
         "poison",
-        "poisoned",
-        "fort save",
+        "fortitude save",
         "neutralize poison",
         "frequency"
       ]
@@ -1212,12 +1113,12 @@
       "title": "Poisonous Blood",
       "anchor_heading": "### Poisonous Blood (Ex)",
       "includes_subheadings": [],
-      "description": "Defensive ability that poisons attackers who deal critical hits",
+      "description": "Poison spray affecting creatures that score critical hits with melee weapons",
       "keywords": [
         "poisonous blood",
         "critical hit",
-        "defensive",
-        "poison spray"
+        "melee weapon",
+        "poison"
       ]
     },
     {
@@ -1238,12 +1139,11 @@
       "title": "Powerful Blows",
       "anchor_heading": "### Powerful Blows (Ex)",
       "includes_subheadings": [],
-      "description": "Enhanced Strength bonus to damage with specified attacks",
+      "description": "Enhanced strength bonus to damage with specific attacks",
       "keywords": [
         "powerful blows",
         "strength bonus",
-        "damage",
-        "enhanced"
+        "damage"
       ]
     },
     {
@@ -1255,8 +1155,7 @@
       "keywords": [
         "powerful charge",
         "charge",
-        "extra damage",
-        "enhanced charge"
+        "extra damage"
       ]
     },
     {
@@ -1264,12 +1163,11 @@
       "title": "Primed Action",
       "anchor_heading": "### Primed Action (Ex) [3PP]",
       "includes_subheadings": [],
-      "description": "Third party ability to act at start of each round",
+      "description": "Third-party ability to take swift actions at start of combat rounds",
       "keywords": [
         "primed action",
         "swift action",
-        "round start",
-        "3pp"
+        "free actions"
       ]
     },
     {
@@ -1277,7 +1175,7 @@
       "title": "Psychic Magic",
       "anchor_heading": "### Psychic Magic (Sp)",
       "includes_subheadings": [],
-      "description": "Spell-like abilities using psychic energy with thought/emotion components",
+      "description": "Spell-like abilities using psychic energy with thought and emotion components",
       "keywords": [
         "psychic magic",
         "psychic energy",
@@ -1290,12 +1188,11 @@
       "title": "Psychic Resilience",
       "anchor_heading": "### Psychic Resilience (Ex)",
       "includes_subheadings": [],
-      "description": "Bonus to saving throws against psychic spells",
+      "description": "Bonus on saving throws against psychic spells",
       "keywords": [
         "psychic resilience",
         "psychic spells",
-        "saving throw",
-        "resistance"
+        "saving throws"
       ]
     },
     {
@@ -1303,11 +1200,10 @@
       "title": "Pull",
       "anchor_heading": "### Pull (Ex)",
       "includes_subheadings": [],
-      "description": "Combat maneuver to drag opponents closer with successful attacks",
+      "description": "Combat maneuver to pull creatures closer with successful attacks",
       "keywords": [
         "pull",
         "combat maneuver",
-        "drag",
         "closer"
       ]
     },
@@ -1316,12 +1212,11 @@
       "title": "Push",
       "anchor_heading": "### Push (Ex)",
       "includes_subheadings": [],
-      "description": "Combat maneuver to shove opponents away with successful attacks",
+      "description": "Combat maneuver to push creatures away with successful attacks",
       "keywords": [
         "push",
-        "bull rush",
         "combat maneuver",
-        "shove"
+        "bull rush"
       ]
     },
     {
@@ -1329,12 +1224,12 @@
       "title": "Qlippoth Lord Traits",
       "anchor_heading": "### Qlippoth Lord Traits (Ex, Sp, or Su)",
       "includes_subheadings": [],
-      "description": "Abilities possessed by powerful unique qlippoth lords",
+      "description": "Traits of powerful qlippoth lords including horrific appearance",
       "keywords": [
         "qlippoth lord",
-        "qlippoth",
         "horrific appearance",
-        "abyss"
+        "epic",
+        "chaotic"
       ]
     },
     {
@@ -1342,12 +1237,12 @@
       "title": "Rake",
       "anchor_heading": "### Rake (Ex)",
       "includes_subheadings": [],
-      "description": "Extra claw attacks available only against grappled opponents",
+      "description": "Extra claw attacks available when grappling opponents",
       "keywords": [
         "rake",
-        "claw",
-        "grapple",
-        "extra attacks"
+        "grappled",
+        "claw attacks",
+        "grappling"
       ]
     },
     {
@@ -1355,13 +1250,12 @@
       "title": "Recuperation",
       "anchor_heading": "### Recuperation [MA] (Ex)",
       "includes_subheadings": [],
-      "description": "Mythic ability for enhanced rest and recovery",
+      "description": "Mythic ability providing enhanced rest and recovery",
       "keywords": [
         "recuperation",
-        "mythic",
-        "rest",
-        "recovery",
-        "hit points"
+        "mythic power",
+        "full hit points",
+        "class features"
       ]
     },
     {
@@ -1369,13 +1263,13 @@
       "title": "Regeneration",
       "anchor_heading": "### Regeneration (Ex)",
       "includes_subheadings": [],
-      "description": "Continuous healing that prevents death unless specific damage types applied",
+      "description": "Healing ability that prevents death except from specific damage types",
       "keywords": [
         "regeneration",
         "fast healing",
-        "cannot die",
         "fire",
-        "acid"
+        "acid",
+        "severed limbs"
       ]
     },
     {
@@ -1383,12 +1277,11 @@
       "title": "Rend",
       "anchor_heading": "### Rend (Ex)",
       "includes_subheadings": [],
-      "description": "Extra damage when hitting with multiple natural attacks in one round",
+      "description": "Extra damage from hitting with multiple natural attacks in one round",
       "keywords": [
         "rend",
-        "multiple attacks",
-        "extra damage",
-        "tear flesh"
+        "natural attacks",
+        "strength bonus"
       ]
     },
     {
@@ -1396,15 +1289,14 @@
       "title": "Resistance",
       "anchor_heading": "### Resistance (Ex)",
       "includes_subheadings": [],
-      "description": "Ability to reduce specific types of damage by a fixed amount",
+      "description": "Partial protection from specific energy types",
       "keywords": [
         "resistance",
-        "damage reduction",
         "energy resistance",
         "acid",
         "cold",
-        "fire",
-        "electricity"
+        "electricity",
+        "fire"
       ]
     },
     {
@@ -1412,12 +1304,11 @@
       "title": "Rock Catching",
       "anchor_heading": "### Rock Catching (Ex)",
       "includes_subheadings": [],
-      "description": "Ability for large creatures to catch thrown rocks as reflex saves",
+      "description": "Ability to catch thrown rocks and projectiles with Reflex saves",
       "keywords": [
         "rock catching",
         "reflex save",
-        "projectile",
-        "thrown rocks"
+        "projectiles"
       ]
     },
     {
@@ -1425,26 +1316,25 @@
       "title": "Rock Throwing",
       "anchor_heading": "### Rock Throwing (Ex)",
       "includes_subheadings": [],
-      "description": "Racial bonus to attack rolls when hurling rocks and stones",
+      "description": "Enhanced ability to throw rocks with racial bonuses and extended range",
       "keywords": [
         "rock throwing",
-        "ranged attack",
-        "hurl rocks",
-        "strength damage"
+        "racial bonus",
+        "range increment",
+        "slam damage"
       ]
     },
     {
-      "id": "thermal_sense_thermal_sight",
+      "id": "thermal_sense",
       "title": "Thermal Sense/Thermal Sight",
       "anchor_heading": "### Thermal Sense/Thermal Sight [3PP]",
       "includes_subheadings": [],
-      "description": "Third party sense detecting thermal differences like heat vision",
+      "description": "Third-party sensing ability detecting thermal discrepancies",
       "keywords": [
         "thermal sense",
         "thermal sight",
-        "heat vision",
-        "temperature",
-        "3pp"
+        "heat",
+        "cold"
       ]
     },
     {
@@ -1452,13 +1342,12 @@
       "title": "Tremorsense/Tremorsight",
       "anchor_heading": "### Tremorsense/Tremorsight [3PP]",
       "includes_subheadings": [],
-      "description": "Third party sense detecting vibrations through surfaces",
+      "description": "Third-party sensing ability detecting vibrations through surfaces",
       "keywords": [
         "tremorsense",
         "tremorsight",
         "vibrations",
-        "ground",
-        "3pp"
+        "line of effect"
       ]
     },
     {
@@ -1466,12 +1355,11 @@
       "title": "Scent",
       "anchor_heading": "### Scent (Ex)",
       "includes_subheadings": [],
-      "description": "Ability to detect, locate, and track creatures by smell",
+      "description": "Ability to detect and track by smell with various range modifiers",
       "keywords": [
         "scent",
         "smell",
         "track",
-        "detect",
         "upwind",
         "downwind"
       ]
@@ -1481,12 +1369,10 @@
       "title": "See in Darkness",
       "anchor_heading": "### See in Darkness (Su)",
       "includes_subheadings": [],
-      "description": "Perfect vision in any darkness including magical darkness",
+      "description": "Supernatural ability to see perfectly in any darkness including magical",
       "keywords": [
         "see in darkness",
-        "magical darkness",
-        "deeper darkness",
-        "perfect vision"
+        "deeper darkness"
       ]
     },
     {
@@ -1497,9 +1383,9 @@
       "description": "Ability to reduce breath-holding duration of grappled opponents",
       "keywords": [
         "smother",
-        "suffocation",
         "grapple",
-        "hold breath"
+        "hold breath",
+        "suffocation"
       ]
     },
     {
@@ -1507,13 +1393,12 @@
       "title": "Sound Mimicry",
       "anchor_heading": "### Sound Mimicry (Ex)",
       "includes_subheadings": [],
-      "description": "Ability to perfectly imitate sounds and voices",
+      "description": "Ability to perfectly imitate sounds and voices using Bluff checks",
       "keywords": [
         "sound mimicry",
-        "imitate",
-        "voice",
-        "bluff",
-        "mimic"
+        "bluff check",
+        "sense motive",
+        "voices"
       ]
     },
     {
@@ -1525,8 +1410,8 @@
       "keywords": [
         "spells",
         "spellcasting",
-        "caster level",
-        "spell completion"
+        "spell completion",
+        "spell trigger"
       ]
     },
     {
@@ -1534,12 +1419,12 @@
       "title": "Spell-Like Abilities",
       "anchor_heading": "### Spell-Like Abilities (Sp)",
       "includes_subheadings": [],
-      "description": "Magical abilities that function like spells but without components",
+      "description": "Magical abilities that work like spells but without components",
       "keywords": [
         "spell-like abilities",
-        "caster level",
-        "at will",
-        "concentration"
+        "antimagic field",
+        "spell resistance",
+        "caster level"
       ]
     },
     {
@@ -1547,12 +1432,10 @@
       "title": "Spell Resistance",
       "anchor_heading": "### Spell Resistance (Ex)",
       "includes_subheadings": [],
-      "description": "Ability to resist spells and spell-like abilities with caster level checks",
+      "description": "Ability to avoid effects of spells and spell-like abilities",
       "keywords": [
         "spell resistance",
-        "sr",
-        "caster level check",
-        "magic resistance"
+        "caster level check"
       ]
     },
     {
@@ -1560,14 +1443,13 @@
       "title": "Spirit Sense",
       "anchor_heading": "### Spirit Sense [3PP]",
       "includes_subheadings": [],
-      "description": "Third party ability to detect undead, fey, outsiders, and spiritual creatures",
+      "description": "Third-party ability to automatically sense undead, fey, outsiders and incorporeal creatures",
       "keywords": [
         "spirit sense",
         "undead",
         "fey",
         "outsiders",
-        "incorporeal",
-        "3pp"
+        "incorporeal"
       ]
     },
     {
@@ -1575,13 +1457,12 @@
       "title": "Split",
       "anchor_heading": "### Split (Ex)",
       "includes_subheadings": [],
-      "description": "Ability to divide into two identical copies when damaged by certain attacks",
+      "description": "Ability to divide into identical copies when subjected to certain attacks",
       "keywords": [
         "split",
-        "divide",
-        "copies",
         "piercing",
-        "slashing"
+        "slashing",
+        "hit points"
       ]
     },
     {
@@ -1589,12 +1470,12 @@
       "title": "Stench",
       "anchor_heading": "### Stench (Ex)",
       "includes_subheadings": [],
-      "description": "Offensive odor that sickens nearby creatures",
+      "description": "Aura causing sickened condition to creatures within range",
       "keywords": [
         "stench",
         "sickened",
-        "fort save",
-        "offensive odor"
+        "fortitude save",
+        "delay poison"
       ]
     },
     {
@@ -1602,10 +1483,10 @@
       "title": "Strangle",
       "anchor_heading": "### Strangle (Ex)",
       "includes_subheadings": [],
-      "description": "Prevents grappled opponents from speaking or casting verbal spells",
+      "description": "Preventing grappled opponents from speaking or casting spells with verbal components",
       "keywords": [
         "strangle",
-        "grapple",
+        "grappled",
         "verbal components",
         "speak"
       ]
@@ -1615,12 +1496,12 @@
       "title": "Summon",
       "anchor_heading": "### Summon (Sp)",
       "includes_subheadings": [],
-      "description": "Spell-like ability to summon other creatures with percentage chances",
+      "description": "Spell-like ability to summon creatures with percentage chances and limitations",
       "keywords": [
         "summon",
         "summon monster",
-        "percentage",
-        "temporary"
+        "material components",
+        "experience points"
       ]
     },
     {
@@ -1628,26 +1509,25 @@
       "title": "Sunlight Powerlessness",
       "anchor_heading": "### Sunlight Powerlessness (Ex)",
       "includes_subheadings": [],
-      "description": "Inability to attack and staggered condition in sunlight",
+      "description": "Inability to attack and staggered condition when in sunlight",
       "keywords": [
         "sunlight powerlessness",
-        "sunlight",
         "staggered",
-        "cannot attack"
+        "sunlight",
+        "daylight"
       ]
     },
     {
-      "id": "superior_scent_scentsight",
+      "id": "superior_scent",
       "title": "Superior Scent/Scentsight",
       "anchor_heading": "### Superior Scent/Scentsight [3PP]",
       "includes_subheadings": [],
-      "description": "Third party enhanced scent ability using smell and taste",
+      "description": "Third-party enhanced scent ability using smell or taste",
       "keywords": [
         "superior scent",
         "scentsight",
         "smell",
-        "taste",
-        "3pp"
+        "taste"
       ]
     },
     {
@@ -1655,7 +1535,7 @@
       "title": "Surge",
       "anchor_heading": "### Surge [MA] (Su)",
       "includes_subheadings": [],
-      "description": "Mythic ability to enhance d20 rolls using mythic power",
+      "description": "Mythic ability to add bonus dice to d20 rolls using mythic power",
       "keywords": [
         "surge",
         "mythic power",
@@ -1668,12 +1548,12 @@
       "title": "Swallow Whole",
       "anchor_heading": "### Swallow Whole (Ex)",
       "includes_subheadings": [],
-      "description": "Ability to swallow grappled opponents and deal internal damage",
+      "description": "Ability to swallow grappled opponents and rules for escaping",
       "keywords": [
         "swallow whole",
-        "grapple",
-        "internal damage",
-        "cut free",
+        "grappled",
+        "cutting damage",
+        "armor class",
         "escape"
       ]
     },
@@ -1682,12 +1562,11 @@
       "title": "Telepathy",
       "anchor_heading": "### Telepathy (Su)",
       "includes_subheadings": [],
-      "description": "Mental communication with creatures that have languages",
+      "description": "Mental communication with creatures that have language",
       "keywords": [
         "telepathy",
         "mental communication",
-        "language",
-        "multiple creatures"
+        "language"
       ]
     },
     {
@@ -1695,13 +1574,12 @@
       "title": "Thoughtsense",
       "anchor_heading": "### Thoughtsense (Su)",
       "includes_subheadings": [],
-      "description": "Ability to automatically detect conscious creatures like blindsight",
+      "description": "Supernatural ability to detect conscious creatures like blindsight",
       "keywords": [
         "thoughtsense",
-        "conscious",
-        "detect minds",
-        "sentient",
-        "nondetection"
+        "conscious creatures",
+        "nondetection",
+        "mind blank"
       ]
     },
     {
@@ -1709,13 +1587,12 @@
       "title": "Touchsight",
       "anchor_heading": "### Touchsight [3PP]",
       "includes_subheadings": [],
-      "description": "Third party ability to feel surroundings ignoring concealment",
+      "description": "Third-party ability to feel surroundings and ignore concealment",
       "keywords": [
         "touchsight",
-        "feel",
-        "concealment",
         "invisibility",
-        "3pp"
+        "darkness",
+        "concealment"
       ]
     },
     {
@@ -1727,7 +1604,7 @@
       "keywords": [
         "trample",
         "overrun",
-        "full-round action",
+        "slam damage",
         "reflex save"
       ]
     },
@@ -1736,13 +1613,12 @@
       "title": "Tremorsense",
       "anchor_heading": "### Tremorsense (Ex)",
       "includes_subheadings": [],
-      "description": "Sensitivity to ground vibrations to pinpoint creature locations",
+      "description": "Sensitivity to vibrations allowing automatic location of ground-contact creatures",
       "keywords": [
         "tremorsense",
         "vibrations",
-        "ground",
-        "aquatic",
-        "pinpoint"
+        "ground contact",
+        "aquatic"
       ]
     },
     {
@@ -1750,12 +1626,11 @@
       "title": "Trip",
       "anchor_heading": "### Trip (Ex)",
       "includes_subheadings": [],
-      "description": "Free action trip attempts with specified attacks without provoking",
+      "description": "Free trip attempts with specific attacks without provoking opportunity attacks",
       "keywords": [
         "trip",
         "free action",
-        "combat maneuver",
-        "prone"
+        "attack of opportunity"
       ]
     },
     {
@@ -1763,12 +1638,11 @@
       "title": "Unbound Action",
       "anchor_heading": "### Unbound Action (Ex) [3PP]",
       "includes_subheadings": [],
-      "description": "Third party ability to avoid provoking attacks of opportunity",
+      "description": "Third-party mythic ability to avoid provoking attacks of opportunity",
       "keywords": [
         "unbound action",
-        "attacks of opportunity",
         "mythic power",
-        "3pp"
+        "attacks of opportunity"
       ]
     },
     {
@@ -1776,12 +1650,13 @@
       "title": "Undead Traits",
       "anchor_heading": "### Undead Traits (Ex)",
       "includes_subheadings": [],
-      "description": "Complete set of immunities and resistances possessed by undead creatures",
+      "description": "Complete immunities and resistances of undead creatures",
       "keywords": [
         "undead traits",
-        "undead",
-        "death immunity",
-        "mind-affecting immunity"
+        "death effects",
+        "disease",
+        "mind-affecting",
+        "paralysis"
       ]
     },
     {
@@ -1789,7 +1664,7 @@
       "title": "Undersized Weapons",
       "anchor_heading": "### Undersized Weapons (Ex)",
       "includes_subheadings": [],
-      "description": "Uses manufactured weapons as if one size smaller",
+      "description": "Using manufactured weapons as if one size category smaller",
       "keywords": [
         "undersized weapons",
         "manufactured weapons",
@@ -1801,7 +1676,7 @@
       "title": "Unnatural Aura",
       "anchor_heading": "### Unnatural Aura (Su)",
       "includes_subheadings": [],
-      "description": "Aura that makes animals reluctant to approach",
+      "description": "Supernatural aura preventing animals from willingly approaching",
       "keywords": [
         "unnatural aura",
         "animals",
@@ -1814,14 +1689,13 @@
       "title": "Unstoppable",
       "anchor_heading": "### Unstoppable [MA] (Ex)",
       "includes_subheadings": [],
-      "description": "Mythic ability to immediately end various conditions using mythic power",
+      "description": "Mythic ability to immediately end various debilitating conditions",
       "keywords": [
         "unstoppable",
-        "mythic",
+        "mythic power",
         "conditions",
-        "blinded",
-        "stunned",
-        "paralyzed"
+        "bleed",
+        "stunned"
       ]
     },
     {
@@ -1829,12 +1703,11 @@
       "title": "Vulnerabilities",
       "anchor_heading": "### Vulnerabilities (Ex or Su)",
       "includes_subheadings": [],
-      "description": "Increased damage or penalties from specific energy types or effects",
+      "description": "Taking increased damage from specific energy types or penalties against certain effects",
       "keywords": [
-        "vulnerability",
-        "weakness",
+        "vulnerabilities",
         "energy type",
-        "extra damage"
+        "saving throws"
       ]
     },
     {
@@ -1842,11 +1715,11 @@
       "title": "Water Breathing",
       "anchor_heading": "### Water Breathing (Ex)",
       "includes_subheadings": [],
-      "description": "Ability to breathe underwater indefinitely while using abilities",
+      "description": "Ability to breathe underwater indefinitely and use abilities while submerged",
       "keywords": [
         "water breathing",
         "underwater",
-        "breathe",
+        "breath weapon",
         "submerged"
       ]
     },
@@ -1855,11 +1728,11 @@
       "title": "Water Dependency",
       "anchor_heading": "### Water Dependency (Ex)",
       "includes_subheadings": [],
-      "description": "Requirement to remain in water or risk suffocation",
+      "description": "Limited survival time out of water based on Constitution score",
       "keywords": [
         "water dependency",
-        "suffocation",
         "constitution",
+        "suffocation",
         "drowning"
       ]
     },
@@ -1868,13 +1741,12 @@
       "title": "Web",
       "anchor_heading": "### Web (Ex)",
       "includes_subheadings": [],
-      "description": "Ability to create webs for support and throw web attacks to entangle enemies",
+      "description": "Ability to create and throw webs for support and entangling opponents",
       "keywords": [
         "web",
         "entangled",
         "escape artist",
-        "strength check",
-        "spider"
+        "strength check"
       ]
     },
     {
@@ -1882,15 +1754,15 @@
       "title": "Whirlwind",
       "anchor_heading": "### Whirlwind (Su)",
       "includes_subheadings": [],
-      "description": "Supernatural ability to transform into a damaging whirlwind form",
+      "description": "Supernatural transformation into a whirlwind with various combat effects",
       "keywords": [
         "whirlwind",
-        "transform",
         "fly speed",
-        "debris cloud",
-        "trapped"
+        "reflex save",
+        "concentration check"
       ]
     }
   ],
-  "source_name": "Universal Monster Rules"
+  "source_name": "Universal Monster Rules",
+  "category": "Core Rules"
 }

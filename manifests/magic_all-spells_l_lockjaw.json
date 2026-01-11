@@ -1,0 +1,16 @@
+{
+  "file": "lockjaw.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/l/lockjaw/",
+  "source_name": "Spell: Lockjaw",
+  "sections": [
+    {
+      "id": "lockjaw",
+      "title": "Lockjaw",
+      "anchor_heading": "# Lockjaw",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Lockjaw, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

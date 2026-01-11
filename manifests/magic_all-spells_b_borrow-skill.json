@@ -1,0 +1,16 @@
+{
+  "file": "borrow-skill.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/b/borrow-skill/",
+  "source_name": "Spell: Borrow Skill",
+  "sections": [
+    {
+      "id": "borrow_skill",
+      "title": "Borrow Skill",
+      "anchor_heading": "# Borrow Skill",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Borrow Skill, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

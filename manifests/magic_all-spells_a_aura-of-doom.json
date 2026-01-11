@@ -1,0 +1,16 @@
+{
+  "file": "aura-of-doom.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/a/aura-of-doom/",
+  "source_name": "Spell: Aura of Doom",
+  "sections": [
+    {
+      "id": "aura_of_doom",
+      "title": "Aura of Doom",
+      "anchor_heading": "# Aura of Doom",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Aura of Doom, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

@@ -1,0 +1,16 @@
+{
+  "file": "invoke-primal-power.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/i/invoke-primal-power/",
+  "source_name": "Spell: Invoke Primal Power",
+  "sections": [
+    {
+      "id": "invoke_primal_power",
+      "title": "Invoke Primal Power",
+      "anchor_heading": "# Invoke Primal Power",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Invoke Primal Power, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

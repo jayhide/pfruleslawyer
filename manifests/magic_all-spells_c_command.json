@@ -1,0 +1,16 @@
+{
+  "file": "command.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/c/command/",
+  "source_name": "Spell: Command",
+  "sections": [
+    {
+      "id": "command",
+      "title": "Command",
+      "anchor_heading": "# Command",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Command, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

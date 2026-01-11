@@ -1,0 +1,16 @@
+{
+  "file": "glue-seal.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/g/glue-seal/",
+  "source_name": "Spell: Glue Seal",
+  "sections": [
+    {
+      "id": "glue_seal",
+      "title": "Glue Seal",
+      "anchor_heading": "# Glue Seal",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Glue Seal, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

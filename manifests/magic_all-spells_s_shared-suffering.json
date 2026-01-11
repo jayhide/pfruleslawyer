@@ -1,0 +1,16 @@
+{
+  "file": "shared-suffering.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/s/shared-suffering/",
+  "source_name": "Spell: Shared Suffering",
+  "sections": [
+    {
+      "id": "shared_suffering",
+      "title": "Shared Suffering",
+      "anchor_heading": "# Shared Suffering",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Shared Suffering, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

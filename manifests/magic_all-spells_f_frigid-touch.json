@@ -1,0 +1,16 @@
+{
+  "file": "frigid-touch.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/f/frigid-touch/",
+  "source_name": "Spell: Frigid Touch",
+  "sections": [
+    {
+      "id": "frigid_touch",
+      "title": "Frigid Touch",
+      "anchor_heading": "# Frigid Touch",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Frigid Touch, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

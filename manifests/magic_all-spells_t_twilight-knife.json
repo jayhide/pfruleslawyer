@@ -1,0 +1,16 @@
+{
+  "file": "twilight-knife.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/t/twilight-knife/",
+  "source_name": "Spell: Twilight Knife",
+  "sections": [
+    {
+      "id": "twilight_knife",
+      "title": "Twilight Knife",
+      "anchor_heading": "# Twilight Knife",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Twilight Knife, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

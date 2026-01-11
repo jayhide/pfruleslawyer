@@ -1,0 +1,16 @@
+{
+  "file": "iron-stake.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/i/iron-stake/",
+  "source_name": "Spell: Iron Stake",
+  "sections": [
+    {
+      "id": "iron_stake",
+      "title": "Iron Stake",
+      "anchor_heading": "# Iron Stake",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Iron Stake, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

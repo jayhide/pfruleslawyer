@@ -1,0 +1,16 @@
+{
+  "file": "quintessence.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/q/quintessence/",
+  "source_name": "Spell: Quintessence",
+  "sections": [
+    {
+      "id": "quintessence",
+      "title": "Quintessence",
+      "anchor_heading": "# Quintessence",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Quintessence, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

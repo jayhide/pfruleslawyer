@@ -1,0 +1,16 @@
+{
+  "file": "stave-off-corruption.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/s/stave-off-corruption/",
+  "source_name": "Spell: Stave Off Corruption",
+  "sections": [
+    {
+      "id": "stave_off_corruption",
+      "title": "Stave Off Corruption",
+      "anchor_heading": "# Stave Off Corruption",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Stave Off Corruption, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

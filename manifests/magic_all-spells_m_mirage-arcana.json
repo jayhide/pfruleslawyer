@@ -1,0 +1,16 @@
+{
+  "file": "mirage-arcana.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/m/mirage-arcana/",
+  "source_name": "Spell: Mirage Arcana",
+  "sections": [
+    {
+      "id": "mirage_arcana",
+      "title": "Mirage Arcana",
+      "anchor_heading": "# Mirage Arcana",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Mirage Arcana, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

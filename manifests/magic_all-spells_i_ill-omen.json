@@ -1,0 +1,16 @@
+{
+  "file": "ill-omen.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/i/ill-omen/",
+  "source_name": "Spell: Ill Omen",
+  "sections": [
+    {
+      "id": "ill_omen",
+      "title": "Ill Omen",
+      "anchor_heading": "# Ill Omen",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Ill Omen, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

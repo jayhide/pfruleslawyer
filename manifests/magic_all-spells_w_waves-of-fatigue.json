@@ -1,0 +1,16 @@
+{
+  "file": "waves-of-fatigue.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/w/waves-of-fatigue/",
+  "source_name": "Spell: Waves of Fatigue",
+  "sections": [
+    {
+      "id": "waves_of_fatigue",
+      "title": "Waves of Fatigue",
+      "anchor_heading": "# Waves of Fatigue",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Waves of Fatigue, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

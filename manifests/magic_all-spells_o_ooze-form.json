@@ -1,0 +1,16 @@
+{
+  "file": "ooze-form.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/o/ooze-form/",
+  "source_name": "Spell: Ooze Form",
+  "sections": [
+    {
+      "id": "ooze_form",
+      "title": "Ooze Form",
+      "anchor_heading": "# Ooze Form",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Ooze Form, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

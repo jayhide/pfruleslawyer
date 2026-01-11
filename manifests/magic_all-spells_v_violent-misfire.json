@@ -1,0 +1,16 @@
+{
+  "file": "violent-misfire.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/v/violent-misfire/",
+  "source_name": "Spell: Violent Misfire",
+  "sections": [
+    {
+      "id": "violent_misfire",
+      "title": "Violent Misfire",
+      "anchor_heading": "# Violent Misfire",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Violent Misfire, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

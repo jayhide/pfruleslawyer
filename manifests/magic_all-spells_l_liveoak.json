@@ -1,0 +1,16 @@
+{
+  "file": "liveoak.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/l/liveoak/",
+  "source_name": "Spell: Liveoak",
+  "sections": [
+    {
+      "id": "liveoak",
+      "title": "Liveoak",
+      "anchor_heading": "# Liveoak",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Liveoak, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

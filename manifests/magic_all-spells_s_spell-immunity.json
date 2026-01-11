@@ -1,0 +1,16 @@
+{
+  "file": "spell-immunity.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/s/spell-immunity/",
+  "source_name": "Spell: Spell Immunity",
+  "sections": [
+    {
+      "id": "spell_immunity",
+      "title": "Spell Immunity",
+      "anchor_heading": "# Spell Immunity",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Spell Immunity, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

@@ -1,0 +1,16 @@
+{
+  "file": "faerie-fire.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/f/faerie-fire/",
+  "source_name": "Spell: Faerie Fire",
+  "sections": [
+    {
+      "id": "faerie_fire",
+      "title": "Faerie Fire",
+      "anchor_heading": "# Faerie Fire",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Faerie Fire, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

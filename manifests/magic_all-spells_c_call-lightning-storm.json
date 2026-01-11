@@ -1,0 +1,16 @@
+{
+  "file": "call-lightning-storm.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/c/call-lightning-storm/",
+  "source_name": "Spell: Call Lightning Storm",
+  "sections": [
+    {
+      "id": "call_lightning_storm",
+      "title": "Call Lightning Storm",
+      "anchor_heading": "# Call Lightning Storm",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Call Lightning Storm, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

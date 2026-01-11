@@ -1,0 +1,16 @@
+{
+  "file": "whispering-lore.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/w/whispering-lore/",
+  "source_name": "Spell: Whispering Lore",
+  "sections": [
+    {
+      "id": "whispering_lore",
+      "title": "Whispering Lore",
+      "anchor_heading": "# Whispering Lore",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Whispering Lore, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

@@ -1,0 +1,16 @@
+{
+  "file": "stone-call.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/s/stone-call/",
+  "source_name": "Spell: Stone Call",
+  "sections": [
+    {
+      "id": "stone_call",
+      "title": "Stone Call",
+      "anchor_heading": "# Stone Call",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Stone Call, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

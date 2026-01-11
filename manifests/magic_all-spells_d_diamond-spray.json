@@ -1,0 +1,16 @@
+{
+  "file": "diamond-spray.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/d/diamond-spray/",
+  "source_name": "Spell: Diamond Spray",
+  "sections": [
+    {
+      "id": "diamond_spray",
+      "title": "Diamond Spray",
+      "anchor_heading": "# Diamond Spray",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Diamond Spray, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

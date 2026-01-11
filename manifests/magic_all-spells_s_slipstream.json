@@ -1,0 +1,16 @@
+{
+  "file": "slipstream.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/s/slipstream/",
+  "source_name": "Spell: Slipstream",
+  "sections": [
+    {
+      "id": "slipstream",
+      "title": "Slipstream",
+      "anchor_heading": "# Slipstream",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Slipstream, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

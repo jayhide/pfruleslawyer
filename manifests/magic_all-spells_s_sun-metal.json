@@ -1,0 +1,16 @@
+{
+  "file": "sun-metal.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/s/sun-metal/",
+  "source_name": "Spell: Sun Metal",
+  "sections": [
+    {
+      "id": "sun_metal",
+      "title": "Sun Metal",
+      "anchor_heading": "# Sun Metal",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Sun Metal, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

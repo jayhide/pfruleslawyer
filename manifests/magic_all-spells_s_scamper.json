@@ -1,0 +1,16 @@
+{
+  "file": "scamper.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/s/scamper/",
+  "source_name": "Spell: Scamper",
+  "sections": [
+    {
+      "id": "scamper",
+      "title": "Scamper",
+      "anchor_heading": "# Scamper",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Scamper, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

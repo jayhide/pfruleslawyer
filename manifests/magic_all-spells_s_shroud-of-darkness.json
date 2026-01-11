@@ -1,0 +1,16 @@
+{
+  "file": "shroud-of-darkness.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/s/shroud-of-darkness/",
+  "source_name": "Spell: Shroud of Darkness",
+  "sections": [
+    {
+      "id": "shroud_of_darkness",
+      "title": "Shroud of Darkness",
+      "anchor_heading": "# Shroud of Darkness",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Shroud of Darkness, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

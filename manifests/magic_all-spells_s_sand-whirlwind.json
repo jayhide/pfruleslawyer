@@ -1,0 +1,16 @@
+{
+  "file": "sand-whirlwind.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/s/sand-whirlwind/",
+  "source_name": "Spell: Sand Whirlwind",
+  "sections": [
+    {
+      "id": "sand_whirlwind",
+      "title": "Sand Whirlwind",
+      "anchor_heading": "# Sand Whirlwind",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Sand Whirlwind, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

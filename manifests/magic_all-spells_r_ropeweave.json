@@ -1,0 +1,16 @@
+{
+  "file": "ropeweave.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/r/ropeweave/",
+  "source_name": "Spell: Ropeweave",
+  "sections": [
+    {
+      "id": "ropeweave",
+      "title": "Ropeweave",
+      "anchor_heading": "# Ropeweave",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Ropeweave, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

@@ -29,7 +29,7 @@
         "### Trade Goods",
         "### Using Magic to Bargain"
       ],
-      "description": "Covers the Diplomacy skill mechanics including gathering information, influencing attitudes, making requests, bargaining rules, and skill unlocks for higher ranks.",
+      "description": "Covers the Diplomacy skill mechanics including gathering information, influencing attitudes, making requests, bargaining rules, and skill unlock abilities at higher ranks.",
       "keywords": [
         "Diplomacy",
         "gather information",
@@ -37,18 +37,16 @@
         "make request",
         "suggest course of action",
         "bargaining",
-        "valuation",
-        "asking price",
-        "undercut percentage",
-        "initial offer",
-        "final offer",
-        "collector NPCs",
-        "flooding the market",
-        "Diplomacy Unchained",
         "skill unlocks",
+        "Diplomacy Unchained",
         "attitude adjustment",
-        "Persuasive feat"
+        "valuation",
+        "undercut percentage",
+        "collector NPCs",
+        "trade goods",
+        "flooding the market"
       ]
     }
-  ]
+  ],
+  "category": "Skills"
 }

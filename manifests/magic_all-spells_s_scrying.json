@@ -1,0 +1,16 @@
+{
+  "file": "scrying.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/s/scrying/",
+  "source_name": "Spell: Scrying",
+  "sections": [
+    {
+      "id": "scrying",
+      "title": "Scrying",
+      "anchor_heading": "# Scrying",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Scrying, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

@@ -1,0 +1,16 @@
+{
+  "file": "whirlwind.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/w/whirlwind/",
+  "source_name": "Spell: Whirlwind",
+  "sections": [
+    {
+      "id": "whirlwind",
+      "title": "Whirlwind",
+      "anchor_heading": "# Whirlwind",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Whirlwind, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

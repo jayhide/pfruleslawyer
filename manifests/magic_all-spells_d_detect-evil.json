@@ -1,0 +1,16 @@
+{
+  "file": "detect-evil.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/d/detect-evil/",
+  "source_name": "Spell: Detect Evil",
+  "sections": [
+    {
+      "id": "detect_evil",
+      "title": "Detect Evil",
+      "anchor_heading": "# Detect Evil",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Detect Evil, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

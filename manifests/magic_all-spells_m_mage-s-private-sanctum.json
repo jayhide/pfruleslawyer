@@ -1,0 +1,16 @@
+{
+  "file": "mage-s-private-sanctum.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/m/mage-s-private-sanctum/",
+  "source_name": "Spell: Mage\u2019s Private Sanctum",
+  "sections": [
+    {
+      "id": "mage_s_private_sanctum",
+      "title": "Mage\u2019s Private Sanctum",
+      "anchor_heading": "# Mage\u2019s Private Sanctum",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Mage\u2019s Private Sanctum, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

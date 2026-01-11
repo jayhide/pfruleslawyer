@@ -1,0 +1,16 @@
+{
+  "file": "babble.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/b/babble/",
+  "source_name": "Spell: Babble",
+  "sections": [
+    {
+      "id": "babble",
+      "title": "Babble",
+      "anchor_heading": "# Babble",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Babble, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

@@ -1,0 +1,16 @@
+{
+  "file": "sonic-thrust.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/s/sonic-thrust/",
+  "source_name": "Spell: Sonic Thrust",
+  "sections": [
+    {
+      "id": "sonic_thrust",
+      "title": "Sonic Thrust",
+      "anchor_heading": "# Sonic Thrust",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Sonic Thrust, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

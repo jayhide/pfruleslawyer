@@ -1,0 +1,16 @@
+{
+  "file": "conjure-deadfall.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/c/conjure-deadfall/",
+  "source_name": "Spell: Conjure Deadfall",
+  "sections": [
+    {
+      "id": "conjure_deadfall",
+      "title": "Conjure Deadfall",
+      "anchor_heading": "# Conjure Deadfall",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Conjure Deadfall, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

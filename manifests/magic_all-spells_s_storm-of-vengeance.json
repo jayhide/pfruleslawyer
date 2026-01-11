@@ -1,0 +1,16 @@
+{
+  "file": "storm-of-vengeance.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/s/storm-of-vengeance/",
+  "source_name": "Spell: Storm of Vengeance",
+  "sections": [
+    {
+      "id": "storm_of_vengeance",
+      "title": "Storm of Vengeance",
+      "anchor_heading": "# Storm of Vengeance",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Storm of Vengeance, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

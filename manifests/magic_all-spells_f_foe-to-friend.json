@@ -1,0 +1,16 @@
+{
+  "file": "foe-to-friend.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/f/foe-to-friend/",
+  "source_name": "Spell: Foe to Friend",
+  "sections": [
+    {
+      "id": "foe_to_friend",
+      "title": "Foe to Friend",
+      "anchor_heading": "# Foe to Friend",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Foe to Friend, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

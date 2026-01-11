@@ -1,0 +1,16 @@
+{
+  "file": "titanic-anchoring.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/t/titanic-anchoring/",
+  "source_name": "Spell: Titanic Anchoring",
+  "sections": [
+    {
+      "id": "titanic_anchoring",
+      "title": "Titanic Anchoring",
+      "anchor_heading": "# Titanic Anchoring",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Titanic Anchoring, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

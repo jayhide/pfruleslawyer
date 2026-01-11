@@ -1,0 +1,16 @@
+{
+  "file": "age-resistance.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/a/age-resistance/",
+  "source_name": "Spell: Age Resistance",
+  "sections": [
+    {
+      "id": "age_resistance",
+      "title": "Age Resistance",
+      "anchor_heading": "# Age Resistance",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Age Resistance, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

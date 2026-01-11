@@ -1,0 +1,16 @@
+{
+  "file": "enlarge-person.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/e/enlarge-person/",
+  "source_name": "Spell: Enlarge Person",
+  "sections": [
+    {
+      "id": "enlarge_person",
+      "title": "Enlarge Person",
+      "anchor_heading": "# Enlarge Person",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Enlarge Person, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

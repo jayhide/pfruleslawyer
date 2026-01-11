@@ -1,0 +1,16 @@
+{
+  "file": "doom.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/d/doom/",
+  "source_name": "Spell: Doom",
+  "sections": [
+    {
+      "id": "doom",
+      "title": "Doom",
+      "anchor_heading": "# Doom",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Doom, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

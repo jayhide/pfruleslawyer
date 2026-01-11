@@ -1,0 +1,16 @@
+{
+  "file": "resurrection.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/r/resurrection/",
+  "source_name": "Spell: Resurrection",
+  "sections": [
+    {
+      "id": "resurrection",
+      "title": "Resurrection",
+      "anchor_heading": "# Resurrection",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Resurrection, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

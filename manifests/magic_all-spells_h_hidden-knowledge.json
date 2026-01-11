@@ -1,0 +1,16 @@
+{
+  "file": "hidden-knowledge.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/h/hidden-knowledge/",
+  "source_name": "Spell: Hidden Knowledge",
+  "sections": [
+    {
+      "id": "hidden_knowledge",
+      "title": "Hidden Knowledge",
+      "anchor_heading": "# Hidden Knowledge",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Hidden Knowledge, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

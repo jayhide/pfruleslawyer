@@ -1,0 +1,16 @@
+{
+  "file": "woodland-rune.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/w/woodland-rune/",
+  "source_name": "Spell: Woodland Rune",
+  "sections": [
+    {
+      "id": "woodland_rune",
+      "title": "Woodland Rune",
+      "anchor_heading": "# Woodland Rune",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Woodland Rune, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

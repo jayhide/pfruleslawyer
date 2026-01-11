@@ -1,0 +1,16 @@
+{
+  "file": "shield-other.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/s/shield-other/",
+  "source_name": "Spell: Shield Other",
+  "sections": [
+    {
+      "id": "shield_other",
+      "title": "Shield Other",
+      "anchor_heading": "# Shield Other",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Shield Other, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

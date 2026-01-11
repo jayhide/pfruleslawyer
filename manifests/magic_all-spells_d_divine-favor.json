@@ -1,0 +1,16 @@
+{
+  "file": "divine-favor.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/d/divine-favor/",
+  "source_name": "Spell: Divine Favor",
+  "sections": [
+    {
+      "id": "divine_favor",
+      "title": "Divine Favor",
+      "anchor_heading": "# Divine Favor",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Divine Favor, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

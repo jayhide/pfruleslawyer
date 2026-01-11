@@ -1,0 +1,16 @@
+{
+  "file": "fear-the-sun.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/f/fear-the-sun/",
+  "source_name": "Spell: Fear the Sun",
+  "sections": [
+    {
+      "id": "fear_the_sun",
+      "title": "Fear the Sun",
+      "anchor_heading": "# Fear the Sun",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Fear the Sun, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

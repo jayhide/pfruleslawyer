@@ -15,12 +15,9 @@
         "#### Recall Intrigues (Knowledge)",
         "#### Knowledge Unchained"
       ],
-      "description": "Covers the Knowledge skill rules including different specialties (Arcana, Dungeoneering, Engineering, etc.), DC tables for various knowledge tasks, monster identification mechanics, and optional unchained skill unlock abilities.",
+      "description": "Rules for the Knowledge skill, covering its various specialties (Arcana, Dungeoneering, Engineering, etc.), DCs for general knowledge and monster identification, and optional unchained skill unlock abilities.",
       "keywords": [
         "Knowledge",
-        "Knowledge skill",
-        "monster lore",
-        "identify monster",
         "Knowledge Arcana",
         "Knowledge Dungeoneering",
         "Knowledge Engineering",
@@ -31,11 +28,16 @@
         "Knowledge Nobility",
         "Knowledge Planes",
         "Knowledge Religion",
+        "monster lore",
+        "identify monster",
+        "general knowledge",
         "recall intrigues",
-        "Knowledge Unchained",
+        "Knowledge unchained",
         "skill unlocks",
-        "general knowledge"
+        "monster identification",
+        "creature identification"
       ]
     }
-  ]
+  ],
+  "category": "Skills"
 }

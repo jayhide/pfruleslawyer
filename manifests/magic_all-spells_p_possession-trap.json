@@ -1,0 +1,16 @@
+{
+  "file": "possession-trap.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/p/possession-trap/",
+  "source_name": "Spell: Possession Trap",
+  "sections": [
+    {
+      "id": "possession_trap",
+      "title": "Possession Trap",
+      "anchor_heading": "# Possession Trap",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Possession Trap, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

@@ -47,6 +47,13 @@ CATEGORY_TEMPLATES = {
     "class": "Class"
 }
 
+# Description templates by category for template mode (no LLM needed)
+# Used when mode="template" in preprocess_config.json
+CATEGORY_DESCRIPTION_TEMPLATES = {
+    "Spells": "Full description of the spell {title}, including casting time, components, range, and effects.",
+    "Feats": "Complete rules for the feat {title}, including prerequisites and benefits.",
+}
+
 
 def get_source_name(source_path: str) -> str:
     """Get the descriptive source name for a file.
@@ -304,7 +311,6 @@ def process_markdown_simple(
                 "id": section_id,
                 "title": title,
                 "anchor_heading": anchor_heading,
-                "includes_subheadings": result.get("subheadings", []),
                 "description": result.get("description", ""),
                 "keywords": result.get("keywords", [])
             }
@@ -312,6 +318,59 @@ def process_markdown_simple(
     }
 
     return manifest
+
+
+def process_markdown_template(
+    content: str,
+    source_path: str,
+    category: str = "Uncategorized"
+) -> dict:
+    """Process markdown without LLM - uses template description.
+
+    No API calls required. Uses H1 header as title and
+    category-specific description template. Ideal for categories
+    like Spells where there are thousands of pages and a template
+    description is sufficient.
+
+    Args:
+        content: Markdown content to process
+        source_path: Source identifier (e.g., URL or file path)
+        category: Category name for selecting description template
+
+    Returns:
+        Manifest dictionary with a single section
+    """
+    # Use basename for filename context
+    filename = source_path.rstrip("/").split("/")[-1]
+    if not filename.endswith(".md"):
+        filename = f"{filename}.md"
+
+    # Extract title from the markdown
+    title, anchor_heading = extract_title_from_markdown(content)
+
+    # Generate section ID from source path
+    section_id = filename.replace(".md", "").replace("-", "_")
+
+    # Get description template for category
+    template = CATEGORY_DESCRIPTION_TEMPLATES.get(
+        category,
+        "Rules and description for {title}."
+    )
+    description = template.format(title=title)
+
+    # Build manifest - no keywords needed for template mode
+    return {
+        "file": filename,
+        "source_path": source_path,
+        "source_name": get_source_name(source_path),
+        "sections": [{
+            "id": section_id,
+            "title": title,
+            "anchor_heading": anchor_heading,
+            "description": description,
+            "keywords": []
+        }]
+    }
 
 
 def process_file_simple(

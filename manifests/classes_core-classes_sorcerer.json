@@ -9,42 +9,31 @@
       "anchor_heading": "# Sorcerer",
       "includes_subheadings": [
         "### Class Skills",
-        "### Class Features",
         "#### Weapon and Armor Proficiency",
         "#### Spells",
         "#### Bloodline",
         "#### Cantrips",
         "#### Eschew Materials",
-        "### Unique Bloodline (Su)",
-        "## Alternative Capstone Ability",
-        "## Favored Class Bonuses",
-        "## Archetypes & Alternate Class Features"
+        "### Unique Bloodline (Su)"
       ],
-      "description": "Complete rules for the Sorcerer class, including class features, bloodlines, spells, cantrips, and numerous archetypes for spontaneous arcane spellcasters.",
+      "description": "Defines the Sorcerer class, including class features like bloodlines, spells, cantrips, and Eschew Materials, plus alternative capstone abilities, favored class bonuses, and archetype options.",
       "keywords": [
         "sorcerer",
         "bloodline",
-        "spontaneous casting",
         "cantrips",
         "eschew materials",
         "bloodline power",
-        "bloodline spell",
-        "bloodline feat",
         "bloodline arcana",
-        "crossblooded",
+        "bloodline feat",
+        "bloodline spell",
         "wildblooded",
-        "tattooed sorcerer",
-        "arcane bloodline",
-        "draconic bloodline",
-        "celestial bloodline",
-        "infernal bloodline",
-        "abyssal bloodline",
-        "fey bloodline",
-        "elemental bloodline",
-        "undead bloodline",
-        "charisma casting",
-        "sorcerer spell list"
+        "crossblooded",
+        "spontaneous casting",
+        "charisma",
+        "arcane spells",
+        "unique bloodline"
       ]
     }
-  ]
+  ],
+  "category": "Classes"
 }

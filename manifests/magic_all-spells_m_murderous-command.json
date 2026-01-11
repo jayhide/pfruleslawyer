@@ -1,0 +1,16 @@
+{
+  "file": "murderous-command.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/m/murderous-command/",
+  "source_name": "Spell: Murderous Command",
+  "sections": [
+    {
+      "id": "murderous_command",
+      "title": "Murderous Command",
+      "anchor_heading": "# Murderous Command",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Murderous Command, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

@@ -1,0 +1,16 @@
+{
+  "file": "resist-starvation.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/r/resist-starvation/",
+  "source_name": "Spell: Resist Starvation",
+  "sections": [
+    {
+      "id": "resist_starvation",
+      "title": "Resist Starvation",
+      "anchor_heading": "# Resist Starvation",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Resist Starvation, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

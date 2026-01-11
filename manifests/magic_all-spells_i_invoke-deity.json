@@ -1,0 +1,16 @@
+{
+  "file": "invoke-deity.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/i/invoke-deity/",
+  "source_name": "Spell: Invoke Deity",
+  "sections": [
+    {
+      "id": "invoke_deity",
+      "title": "Invoke Deity",
+      "anchor_heading": "# Invoke Deity",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Invoke Deity, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

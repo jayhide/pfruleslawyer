@@ -1,0 +1,16 @@
+{
+  "file": "detect-chaos.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/d/detect-chaos/",
+  "source_name": "Spell: Detect Chaos",
+  "sections": [
+    {
+      "id": "detect_chaos",
+      "title": "Detect Chaos",
+      "anchor_heading": "# Detect Chaos",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Detect Chaos, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

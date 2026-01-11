@@ -1,0 +1,16 @@
+{
+  "file": "pox-of-rumors.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/p/pox-of-rumors/",
+  "source_name": "Spell: Pox of Rumors",
+  "sections": [
+    {
+      "id": "pox_of_rumors",
+      "title": "Pox of Rumors",
+      "anchor_heading": "# Pox of Rumors",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Pox of Rumors, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

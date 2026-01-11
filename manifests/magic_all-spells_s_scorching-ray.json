@@ -1,0 +1,16 @@
+{
+  "file": "scorching-ray.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/s/scorching-ray/",
+  "source_name": "Spell: Scorching Ray",
+  "sections": [
+    {
+      "id": "scorching_ray",
+      "title": "Scorching Ray",
+      "anchor_heading": "# Scorching Ray",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Scorching Ray, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

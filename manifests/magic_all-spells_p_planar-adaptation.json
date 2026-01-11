@@ -1,0 +1,16 @@
+{
+  "file": "planar-adaptation.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/p/planar-adaptation/",
+  "source_name": "Spell: Planar Adaptation",
+  "sections": [
+    {
+      "id": "planar_adaptation",
+      "title": "Planar Adaptation",
+      "anchor_heading": "# Planar Adaptation",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Planar Adaptation, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

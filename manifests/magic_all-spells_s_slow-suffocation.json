@@ -1,0 +1,16 @@
+{
+  "file": "slow-suffocation.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/s/slow-suffocation/",
+  "source_name": "Spell: Slow Suffocation",
+  "sections": [
+    {
+      "id": "slow_suffocation",
+      "title": "Slow Suffocation",
+      "anchor_heading": "# Slow Suffocation",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Slow Suffocation, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

@@ -1,0 +1,16 @@
+{
+  "file": "adhesive-spittle.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/a/adhesive-spittle/",
+  "source_name": "Spell: Adhesive Spittle",
+  "sections": [
+    {
+      "id": "adhesive_spittle",
+      "title": "Adhesive Spittle",
+      "anchor_heading": "# Adhesive Spittle",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Adhesive Spittle, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

@@ -1,0 +1,16 @@
+{
+  "file": "meteor-swarm.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/m/meteor-swarm/",
+  "source_name": "Spell: Meteor Swarm",
+  "sections": [
+    {
+      "id": "meteor_swarm",
+      "title": "Meteor Swarm",
+      "anchor_heading": "# Meteor Swarm",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Meteor Swarm, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

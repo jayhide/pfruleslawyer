@@ -1,0 +1,16 @@
+{
+  "file": "flesh-wall.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/f/flesh-wall/",
+  "source_name": "Spell: Flesh Wall",
+  "sections": [
+    {
+      "id": "flesh_wall",
+      "title": "Flesh Wall",
+      "anchor_heading": "# Flesh Wall",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Flesh Wall, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

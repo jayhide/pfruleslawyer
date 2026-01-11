@@ -26,27 +26,29 @@
         "#### Prevent Fast Healing",
         "#### Erode Willpower"
       ],
-      "description": "Rules for the Heal skill, covering medical treatment tasks like first aid, treating poison and disease, deadly wounds, and long-term care, plus torture applications and skill unlocks.",
+      "description": "Rules for the Heal skill, covering medical treatment, first aid, treating poison and disease, deadly wounds care, and alternative torture uses.",
       "keywords": [
-        "Heal",
+        "heal skill",
         "first aid",
         "treat poison",
         "treat disease",
-        "deadly wounds",
+        "treat deadly wounds",
         "long-term care",
         "caltrops",
         "spike growth",
         "spike stones",
-        "pharmaceuticals",
+        "healer's kit",
         "torture",
         "prevent recovery",
         "deep hurting",
         "prevent fast healing",
         "erode willpower",
-        "healer's kit",
-        "skill unlocks",
-        "Self-Sufficient"
+        "heal unchained",
+        "pharmaceuticals",
+        "ability damage",
+        "nonlethal damage"
       ]
     }
-  ]
+  ],
+  "category": "Skills"
 }

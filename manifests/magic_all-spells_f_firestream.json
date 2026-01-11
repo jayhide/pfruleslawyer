@@ -1,0 +1,16 @@
+{
+  "file": "firestream.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/f/firestream/",
+  "source_name": "Spell: Firestream",
+  "sections": [
+    {
+      "id": "firestream",
+      "title": "Firestream",
+      "anchor_heading": "# Firestream",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Firestream, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

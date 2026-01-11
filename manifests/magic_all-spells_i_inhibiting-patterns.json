@@ -1,0 +1,16 @@
+{
+  "file": "inhibiting-patterns.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/i/inhibiting-patterns/",
+  "source_name": "Spell: Inhibiting Patterns",
+  "sections": [
+    {
+      "id": "inhibiting_patterns",
+      "title": "Inhibiting Patterns",
+      "anchor_heading": "# Inhibiting Patterns",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Inhibiting Patterns, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

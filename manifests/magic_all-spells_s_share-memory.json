@@ -1,0 +1,16 @@
+{
+  "file": "share-memory.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/s/share-memory/",
+  "source_name": "Spell: Share Memory",
+  "sections": [
+    {
+      "id": "share_memory",
+      "title": "Share Memory",
+      "anchor_heading": "# Share Memory",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Share Memory, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

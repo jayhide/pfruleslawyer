@@ -1,0 +1,16 @@
+{
+  "file": "forceful-hand.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/f/forceful-hand/",
+  "source_name": "Spell: Forceful Hand",
+  "sections": [
+    {
+      "id": "forceful_hand",
+      "title": "Forceful Hand",
+      "anchor_heading": "# Forceful Hand",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Forceful Hand, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

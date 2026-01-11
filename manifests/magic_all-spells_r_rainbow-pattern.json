@@ -1,0 +1,16 @@
+{
+  "file": "rainbow-pattern.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/r/rainbow-pattern/",
+  "source_name": "Spell: Rainbow Pattern",
+  "sections": [
+    {
+      "id": "rainbow_pattern",
+      "title": "Rainbow Pattern",
+      "anchor_heading": "# Rainbow Pattern",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Rainbow Pattern, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

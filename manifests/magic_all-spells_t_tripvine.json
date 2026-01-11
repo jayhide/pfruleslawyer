@@ -1,0 +1,16 @@
+{
+  "file": "tripvine.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/t/tripvine/",
+  "source_name": "Spell: Tripvine",
+  "sections": [
+    {
+      "id": "tripvine",
+      "title": "Tripvine",
+      "anchor_heading": "# Tripvine",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Tripvine, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

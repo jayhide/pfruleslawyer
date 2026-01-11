@@ -1,0 +1,16 @@
+{
+  "file": "flesh-puppet.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/f/flesh-puppet/",
+  "source_name": "Spell: Flesh Puppet",
+  "sections": [
+    {
+      "id": "flesh_puppet",
+      "title": "Flesh Puppet",
+      "anchor_heading": "# Flesh Puppet",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Flesh Puppet, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

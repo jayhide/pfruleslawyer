@@ -1,0 +1,16 @@
+{
+  "file": "holy-javelin.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/h/holy-javelin/",
+  "source_name": "Spell: Holy Javelin",
+  "sections": [
+    {
+      "id": "holy_javelin",
+      "title": "Holy Javelin",
+      "anchor_heading": "# Holy Javelin",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Holy Javelin, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

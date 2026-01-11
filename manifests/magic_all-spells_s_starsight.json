@@ -1,0 +1,16 @@
+{
+  "file": "starsight.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/s/starsight/",
+  "source_name": "Spell: Starsight",
+  "sections": [
+    {
+      "id": "starsight",
+      "title": "Starsight",
+      "anchor_heading": "# Starsight",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Starsight, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

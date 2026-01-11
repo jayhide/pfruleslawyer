@@ -1,0 +1,16 @@
+{
+  "file": "summon-monster.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/s/summon-monster/",
+  "source_name": "Spell: Summon Monster",
+  "sections": [
+    {
+      "id": "summon_monster",
+      "title": "Summon Monster",
+      "anchor_heading": "# Summon Monster",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Summon Monster, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

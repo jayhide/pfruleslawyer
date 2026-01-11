@@ -1,0 +1,16 @@
+{
+  "file": "flame-arrow.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/f/flame-arrow/",
+  "source_name": "Spell: Flame Arrow",
+  "sections": [
+    {
+      "id": "flame_arrow",
+      "title": "Flame Arrow",
+      "anchor_heading": "# Flame Arrow",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Flame Arrow, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

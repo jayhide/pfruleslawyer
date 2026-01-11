@@ -1,0 +1,16 @@
+{
+  "file": "mnemonic-siphon.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/m/mnemonic-siphon/",
+  "source_name": "Spell: Mnemonic Siphon",
+  "sections": [
+    {
+      "id": "mnemonic_siphon",
+      "title": "Mnemonic Siphon",
+      "anchor_heading": "# Mnemonic Siphon",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Mnemonic Siphon, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

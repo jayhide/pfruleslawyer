@@ -1,0 +1,16 @@
+{
+  "file": "screen.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/s/screen/",
+  "source_name": "Spell: Screen",
+  "sections": [
+    {
+      "id": "screen",
+      "title": "Screen",
+      "anchor_heading": "# Screen",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Screen, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

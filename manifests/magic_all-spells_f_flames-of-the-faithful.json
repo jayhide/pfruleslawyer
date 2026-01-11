@@ -1,0 +1,16 @@
+{
+  "file": "flames-of-the-faithful.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/f/flames-of-the-faithful/",
+  "source_name": "Spell: Flames of the Faithful",
+  "sections": [
+    {
+      "id": "flames_of_the_faithful",
+      "title": "Flames of the Faithful",
+      "anchor_heading": "# Flames of the Faithful",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Flames of the Faithful, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

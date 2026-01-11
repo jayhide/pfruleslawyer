@@ -1,0 +1,16 @@
+{
+  "file": "raise-dead.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/r/raise-dead/",
+  "source_name": "Spell: Raise Dead",
+  "sections": [
+    {
+      "id": "raise_dead",
+      "title": "Raise Dead",
+      "anchor_heading": "# Raise Dead",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Raise Dead, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

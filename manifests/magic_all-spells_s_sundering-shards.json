@@ -1,0 +1,16 @@
+{
+  "file": "sundering-shards.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/s/sundering-shards/",
+  "source_name": "Spell: Sundering Shards",
+  "sections": [
+    {
+      "id": "sundering_shards",
+      "title": "Sundering Shards",
+      "anchor_heading": "# Sundering Shards",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Sundering Shards, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

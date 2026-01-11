@@ -1,0 +1,16 @@
+{
+  "file": "speak-with-waves.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/s/speak-with-waves/",
+  "source_name": "Spell: Speak With Waves",
+  "sections": [
+    {
+      "id": "speak_with_waves",
+      "title": "Speak With Waves",
+      "anchor_heading": "# Speak With Waves",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Speak With Waves, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

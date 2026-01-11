@@ -1,0 +1,16 @@
+{
+  "file": "dominate-monster.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/d/dominate-monster/",
+  "source_name": "Spell: Dominate Monster",
+  "sections": [
+    {
+      "id": "dominate_monster",
+      "title": "Dominate Monster",
+      "anchor_heading": "# Dominate Monster",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Dominate Monster, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

@@ -1,0 +1,16 @@
+{
+  "file": "whip-of-centipedes.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/w/whip-of-centipedes/",
+  "source_name": "Spell: Whip of Centipedes",
+  "sections": [
+    {
+      "id": "whip_of_centipedes",
+      "title": "Whip of Centipedes",
+      "anchor_heading": "# Whip of Centipedes",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Whip of Centipedes, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

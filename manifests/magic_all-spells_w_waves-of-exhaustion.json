@@ -1,0 +1,16 @@
+{
+  "file": "waves-of-exhaustion.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/w/waves-of-exhaustion/",
+  "source_name": "Spell: Waves of Exhaustion",
+  "sections": [
+    {
+      "id": "waves_of_exhaustion",
+      "title": "Waves of Exhaustion",
+      "anchor_heading": "# Waves of Exhaustion",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Waves of Exhaustion, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

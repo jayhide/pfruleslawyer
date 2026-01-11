@@ -1,0 +1,16 @@
+{
+  "file": "blade-lash.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/b/blade-lash/",
+  "source_name": "Spell: Blade Lash",
+  "sections": [
+    {
+      "id": "blade_lash",
+      "title": "Blade Lash",
+      "anchor_heading": "# Blade Lash",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Blade Lash, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

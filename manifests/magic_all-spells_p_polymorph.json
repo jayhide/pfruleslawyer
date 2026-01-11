@@ -1,0 +1,16 @@
+{
+  "file": "polymorph.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/p/polymorph/",
+  "source_name": "Spell: Polymorph",
+  "sections": [
+    {
+      "id": "polymorph",
+      "title": "Polymorph",
+      "anchor_heading": "# Polymorph",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Polymorph, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

@@ -1,0 +1,16 @@
+{
+  "file": "curse-water.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/c/curse-water/",
+  "source_name": "Spell: Curse Water",
+  "sections": [
+    {
+      "id": "curse_water",
+      "title": "Curse Water",
+      "anchor_heading": "# Curse Water",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Curse Water, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

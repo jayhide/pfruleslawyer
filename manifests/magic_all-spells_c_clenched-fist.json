@@ -1,0 +1,16 @@
+{
+  "file": "clenched-fist.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/c/clenched-fist/",
+  "source_name": "Spell: Clenched Fist",
+  "sections": [
+    {
+      "id": "clenched_fist",
+      "title": "Clenched Fist",
+      "anchor_heading": "# Clenched Fist",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Clenched Fist, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

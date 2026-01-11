@@ -1,0 +1,16 @@
+{
+  "file": "detect-poison.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/d/detect-poison/",
+  "source_name": "Spell: Detect Poison",
+  "sections": [
+    {
+      "id": "detect_poison",
+      "title": "Detect Poison",
+      "anchor_heading": "# Detect Poison",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Detect Poison, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

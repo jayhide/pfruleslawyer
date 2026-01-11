@@ -1,0 +1,16 @@
+{
+  "file": "overlook-halfling.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/o/overlook-halfling/",
+  "source_name": "Spell: Overlook",
+  "sections": [
+    {
+      "id": "overlook_halfling",
+      "title": "Overlook",
+      "anchor_heading": "# Overlook",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Overlook, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

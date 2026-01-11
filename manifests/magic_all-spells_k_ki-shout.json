@@ -1,0 +1,16 @@
+{
+  "file": "ki-shout.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/k/ki-shout/",
+  "source_name": "Spell: Ki Shout",
+  "sections": [
+    {
+      "id": "ki_shout",
+      "title": "Ki Shout",
+      "anchor_heading": "# Ki Shout",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Ki Shout, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

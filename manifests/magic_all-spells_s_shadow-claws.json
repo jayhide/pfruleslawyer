@@ -1,0 +1,16 @@
+{
+  "file": "shadow-claws.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/s/shadow-claws/",
+  "source_name": "Spell: Shadow Claws",
+  "sections": [
+    {
+      "id": "shadow_claws",
+      "title": "Shadow Claws",
+      "anchor_heading": "# Shadow Claws",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Shadow Claws, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

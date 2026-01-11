@@ -1,0 +1,16 @@
+{
+  "file": "repel-vermin.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/r/repel-vermin/",
+  "source_name": "Spell: Repel Vermin",
+  "sections": [
+    {
+      "id": "repel_vermin",
+      "title": "Repel Vermin",
+      "anchor_heading": "# Repel Vermin",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Repel Vermin, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

@@ -1,0 +1,16 @@
+{
+  "file": "plant-growth.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/p/plant-growth/",
+  "source_name": "Spell: Plant Growth",
+  "sections": [
+    {
+      "id": "plant_growth",
+      "title": "Plant Growth",
+      "anchor_heading": "# Plant Growth",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Plant Growth, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

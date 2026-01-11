@@ -1,0 +1,16 @@
+{
+  "file": "contact-entity.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/c/contact-entity/",
+  "source_name": "Spell: Contact Entity",
+  "sections": [
+    {
+      "id": "contact_entity",
+      "title": "Contact Entity",
+      "anchor_heading": "# Contact Entity",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Contact Entity, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

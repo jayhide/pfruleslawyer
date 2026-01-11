@@ -1,0 +1,16 @@
+{
+  "file": "fire-of-judgment.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/f/fire-of-judgment/",
+  "source_name": "Spell: Fire of Judgment",
+  "sections": [
+    {
+      "id": "fire_of_judgment",
+      "title": "Fire of Judgment",
+      "anchor_heading": "# Fire of Judgment",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Fire of Judgment, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

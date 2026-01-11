@@ -1,0 +1,16 @@
+{
+  "file": "face-of-the-devourer.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/f/face-of-the-devourer/",
+  "source_name": "Spell: Face of the Devourer",
+  "sections": [
+    {
+      "id": "face_of_the_devourer",
+      "title": "Face of the Devourer",
+      "anchor_heading": "# Face of the Devourer",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Face of the Devourer, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

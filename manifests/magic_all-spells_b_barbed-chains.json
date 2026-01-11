@@ -1,0 +1,16 @@
+{
+  "file": "barbed-chains.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/b/barbed-chains/",
+  "source_name": "Spell: Barbed Chains",
+  "sections": [
+    {
+      "id": "barbed_chains",
+      "title": "Barbed Chains",
+      "anchor_heading": "# Barbed Chains",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Barbed Chains, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

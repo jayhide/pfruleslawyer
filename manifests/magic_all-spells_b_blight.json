@@ -1,0 +1,16 @@
+{
+  "file": "blight.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/b/blight/",
+  "source_name": "Spell: Blight",
+  "sections": [
+    {
+      "id": "blight",
+      "title": "Blight",
+      "anchor_heading": "# Blight",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Blight, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

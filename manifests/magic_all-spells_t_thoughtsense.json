@@ -1,0 +1,16 @@
+{
+  "file": "thoughtsense.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/t/thoughtsense/",
+  "source_name": "Spell: Thoughtsense",
+  "sections": [
+    {
+      "id": "thoughtsense",
+      "title": "Thoughtsense",
+      "anchor_heading": "# Thoughtsense",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Thoughtsense, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

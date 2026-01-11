@@ -1,0 +1,16 @@
+{
+  "file": "wartrain-mount.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/w/wartrain-mount/",
+  "source_name": "Spell: Wartrain Mount",
+  "sections": [
+    {
+      "id": "wartrain_mount",
+      "title": "Wartrain Mount",
+      "anchor_heading": "# Wartrain Mount",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Wartrain Mount, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

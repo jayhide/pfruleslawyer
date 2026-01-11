@@ -1,0 +1,16 @@
+{
+  "file": "find-quarry.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/f/find-quarry/",
+  "source_name": "Spell: Find Quarry",
+  "sections": [
+    {
+      "id": "find_quarry",
+      "title": "Find Quarry",
+      "anchor_heading": "# Find Quarry",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Find Quarry, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

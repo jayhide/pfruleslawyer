@@ -1,0 +1,16 @@
+{
+  "file": "daemon-ward.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/d/daemon-ward/",
+  "source_name": "Spell: Daemon Ward",
+  "sections": [
+    {
+      "id": "daemon_ward",
+      "title": "Daemon Ward",
+      "anchor_heading": "# Daemon Ward",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Daemon Ward, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

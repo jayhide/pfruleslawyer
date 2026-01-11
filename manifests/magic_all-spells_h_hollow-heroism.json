@@ -1,0 +1,16 @@
+{
+  "file": "hollow-heroism.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/h/hollow-heroism/",
+  "source_name": "Spell: Hollow Heroism",
+  "sections": [
+    {
+      "id": "hollow_heroism",
+      "title": "Hollow Heroism",
+      "anchor_heading": "# Hollow Heroism",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Hollow Heroism, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

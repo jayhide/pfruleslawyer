@@ -1,0 +1,16 @@
+{
+  "file": "force-punch.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/f/force-punch/",
+  "source_name": "Spell: Force Punch",
+  "sections": [
+    {
+      "id": "force_punch",
+      "title": "Force Punch",
+      "anchor_heading": "# Force Punch",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Force Punch, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

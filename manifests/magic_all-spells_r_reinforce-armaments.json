@@ -1,0 +1,16 @@
+{
+  "file": "reinforce-armaments.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/r/reinforce-armaments/",
+  "source_name": "Spell: Reinforce Armaments",
+  "sections": [
+    {
+      "id": "reinforce_armaments",
+      "title": "Reinforce Armaments",
+      "anchor_heading": "# Reinforce Armaments",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Reinforce Armaments, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

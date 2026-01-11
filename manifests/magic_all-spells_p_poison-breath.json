@@ -1,0 +1,16 @@
+{
+  "file": "poison-breath.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/p/poison-breath/",
+  "source_name": "Spell: Poison Breath",
+  "sections": [
+    {
+      "id": "poison_breath",
+      "title": "Poison Breath",
+      "anchor_heading": "# Poison Breath",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Poison Breath, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

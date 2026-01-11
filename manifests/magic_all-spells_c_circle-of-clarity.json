@@ -1,0 +1,16 @@
+{
+  "file": "circle-of-clarity.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/c/circle-of-clarity/",
+  "source_name": "Spell: Circle of Clarity",
+  "sections": [
+    {
+      "id": "circle_of_clarity",
+      "title": "Circle of Clarity",
+      "anchor_heading": "# Circle of Clarity",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Circle of Clarity, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

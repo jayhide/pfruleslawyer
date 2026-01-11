@@ -1,0 +1,16 @@
+{
+  "file": "cause-fear.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/c/cause-fear/",
+  "source_name": "Spell: Cause Fear",
+  "sections": [
+    {
+      "id": "cause_fear",
+      "title": "Cause Fear",
+      "anchor_heading": "# Cause Fear",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Cause Fear, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

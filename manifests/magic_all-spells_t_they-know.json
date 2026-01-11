@@ -1,0 +1,16 @@
+{
+  "file": "they-know.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/t/they-know/",
+  "source_name": "Spell: They Know",
+  "sections": [
+    {
+      "id": "they_know",
+      "title": "They Know",
+      "anchor_heading": "# They Know",
+      "includes_subheadings": [],
+      "description": "Full description of the spell They Know, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

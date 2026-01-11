@@ -1,0 +1,16 @@
+{
+  "file": "shield-of-faith.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/s/shield-of-faith/",
+  "source_name": "Spell: Shield of Faith",
+  "sections": [
+    {
+      "id": "shield_of_faith",
+      "title": "Shield of Faith",
+      "anchor_heading": "# Shield of Faith",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Shield of Faith, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

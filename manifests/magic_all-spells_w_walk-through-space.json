@@ -1,0 +1,16 @@
+{
+  "file": "walk-through-space.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/w/walk-through-space/",
+  "source_name": "Spell: Walk through Space",
+  "sections": [
+    {
+      "id": "walk_through_space",
+      "title": "Walk through Space",
+      "anchor_heading": "# Walk through Space",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Walk through Space, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

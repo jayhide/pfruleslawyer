@@ -1,0 +1,16 @@
+{
+  "file": "illusory-hoard.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/i/illusory-hoard/",
+  "source_name": "Spell: Illusory Hoard",
+  "sections": [
+    {
+      "id": "illusory_hoard",
+      "title": "Illusory Hoard",
+      "anchor_heading": "# Illusory Hoard",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Illusory Hoard, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

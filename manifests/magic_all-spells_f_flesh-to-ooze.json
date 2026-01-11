@@ -1,0 +1,16 @@
+{
+  "file": "flesh-to-ooze.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/f/flesh-to-ooze/",
+  "source_name": "Spell: Flesh to Ooze",
+  "sections": [
+    {
+      "id": "flesh_to_ooze",
+      "title": "Flesh to Ooze",
+      "anchor_heading": "# Flesh to Ooze",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Flesh to Ooze, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

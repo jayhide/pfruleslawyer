@@ -1,0 +1,16 @@
+{
+  "file": "twine-double.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/t/twine-double/",
+  "source_name": "Spell: Twine Double",
+  "sections": [
+    {
+      "id": "twine_double",
+      "title": "Twine Double",
+      "anchor_heading": "# Twine Double",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Twine Double, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

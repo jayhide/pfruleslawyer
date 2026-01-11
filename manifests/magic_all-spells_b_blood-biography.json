@@ -1,0 +1,16 @@
+{
+  "file": "blood-biography.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/b/blood-biography/",
+  "source_name": "Spell: Blood Biography",
+  "sections": [
+    {
+      "id": "blood_biography",
+      "title": "Blood Biography",
+      "anchor_heading": "# Blood Biography",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Blood Biography, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

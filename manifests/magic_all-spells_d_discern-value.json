@@ -1,0 +1,16 @@
+{
+  "file": "discern-value.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/d/discern-value/",
+  "source_name": "Spell: Discern Value",
+  "sections": [
+    {
+      "id": "discern_value",
+      "title": "Discern Value",
+      "anchor_heading": "# Discern Value",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Discern Value, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

@@ -1,0 +1,16 @@
+{
+  "file": "contingency.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/c/contingency/",
+  "source_name": "Spell: Contingency",
+  "sections": [
+    {
+      "id": "contingency",
+      "title": "Contingency",
+      "anchor_heading": "# Contingency",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Contingency, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

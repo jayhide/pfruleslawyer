@@ -1,0 +1,16 @@
+{
+  "file": "angelic-aspect.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/a/angelic-aspect/",
+  "source_name": "Spell: Angelic Aspect",
+  "sections": [
+    {
+      "id": "angelic_aspect",
+      "title": "Angelic Aspect",
+      "anchor_heading": "# Angelic Aspect",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Angelic Aspect, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

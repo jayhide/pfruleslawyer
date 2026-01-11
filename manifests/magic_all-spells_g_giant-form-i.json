@@ -1,0 +1,16 @@
+{
+  "file": "giant-form-i.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/g/giant-form-i/",
+  "source_name": "Spell: Giant Form",
+  "sections": [
+    {
+      "id": "giant_form_i",
+      "title": "Giant Form",
+      "anchor_heading": "# Giant Form",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Giant Form, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

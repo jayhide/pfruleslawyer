@@ -1,0 +1,16 @@
+{
+  "file": "arcane-disruption.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/a/arcane-disruption/",
+  "source_name": "Spell: Arcane Disruption",
+  "sections": [
+    {
+      "id": "arcane_disruption",
+      "title": "Arcane Disruption",
+      "anchor_heading": "# Arcane Disruption",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Arcane Disruption, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

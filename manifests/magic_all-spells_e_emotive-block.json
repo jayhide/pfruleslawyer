@@ -1,0 +1,16 @@
+{
+  "file": "emotive-block.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/e/emotive-block/",
+  "source_name": "Spell: Emotive Block",
+  "sections": [
+    {
+      "id": "emotive_block",
+      "title": "Emotive Block",
+      "anchor_heading": "# Emotive Block",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Emotive Block, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

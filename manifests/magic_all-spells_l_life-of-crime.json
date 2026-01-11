@@ -1,0 +1,16 @@
+{
+  "file": "life-of-crime.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/l/life-of-crime/",
+  "source_name": "Spell: Life of Crime",
+  "sections": [
+    {
+      "id": "life_of_crime",
+      "title": "Life of Crime",
+      "anchor_heading": "# Life of Crime",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Life of Crime, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

@@ -1,0 +1,16 @@
+{
+  "file": "undeath-sense.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/u/undeath-sense/",
+  "source_name": "Spell: Undeath Sense",
+  "sections": [
+    {
+      "id": "undeath_sense",
+      "title": "Undeath Sense",
+      "anchor_heading": "# Undeath Sense",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Undeath Sense, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

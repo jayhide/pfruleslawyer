@@ -1,0 +1,16 @@
+{
+  "file": "fester.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/f/fester/",
+  "source_name": "Spell: Fester",
+  "sections": [
+    {
+      "id": "fester",
+      "title": "Fester",
+      "anchor_heading": "# Fester",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Fester, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

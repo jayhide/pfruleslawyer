@@ -1,0 +1,16 @@
+{
+  "file": "vampiric-shadow-shield.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/v/vampiric-shadow-shield/",
+  "source_name": "Spell: Vampiric Shadow Shield",
+  "sections": [
+    {
+      "id": "vampiric_shadow_shield",
+      "title": "Vampiric Shadow Shield",
+      "anchor_heading": "# Vampiric Shadow Shield",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Vampiric Shadow Shield, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

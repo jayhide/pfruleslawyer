@@ -1,0 +1,16 @@
+{
+  "file": "see-through-stone.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/s/see-through-stone/",
+  "source_name": "Spell: See Through Stone",
+  "sections": [
+    {
+      "id": "see_through_stone",
+      "title": "See Through Stone",
+      "anchor_heading": "# See Through Stone",
+      "includes_subheadings": [],
+      "description": "Full description of the spell See Through Stone, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

@@ -1,0 +1,16 @@
+{
+  "file": "righteous-might.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/r/righteous-might/",
+  "source_name": "Spell: Righteous Might",
+  "sections": [
+    {
+      "id": "righteous_might",
+      "title": "Righteous Might",
+      "anchor_heading": "# Righteous Might",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Righteous Might, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

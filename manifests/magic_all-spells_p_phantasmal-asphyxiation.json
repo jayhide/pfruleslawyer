@@ -1,0 +1,16 @@
+{
+  "file": "phantasmal-asphyxiation.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/p/phantasmal-asphyxiation/",
+  "source_name": "Spell: Phantasmal Asphyxiation",
+  "sections": [
+    {
+      "id": "phantasmal_asphyxiation",
+      "title": "Phantasmal Asphyxiation",
+      "anchor_heading": "# Phantasmal Asphyxiation",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Phantasmal Asphyxiation, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

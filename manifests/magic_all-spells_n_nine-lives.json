@@ -1,0 +1,16 @@
+{
+  "file": "nine-lives.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/n/nine-lives/",
+  "source_name": "Spell: Nine Lives",
+  "sections": [
+    {
+      "id": "nine_lives",
+      "title": "Nine Lives",
+      "anchor_heading": "# Nine Lives",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Nine Lives, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

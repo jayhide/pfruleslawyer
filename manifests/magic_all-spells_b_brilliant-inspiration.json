@@ -1,0 +1,16 @@
+{
+  "file": "brilliant-inspiration.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/b/brilliant-inspiration/",
+  "source_name": "Spell: Brilliant Inspiration",
+  "sections": [
+    {
+      "id": "brilliant_inspiration",
+      "title": "Brilliant Inspiration",
+      "anchor_heading": "# Brilliant Inspiration",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Brilliant Inspiration, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

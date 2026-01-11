@@ -1,0 +1,16 @@
+{
+  "file": "gravity-well.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/g/gravity-well/",
+  "source_name": "Spell: Gravity Well",
+  "sections": [
+    {
+      "id": "gravity_well",
+      "title": "Gravity Well",
+      "anchor_heading": "# Gravity Well",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Gravity Well, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

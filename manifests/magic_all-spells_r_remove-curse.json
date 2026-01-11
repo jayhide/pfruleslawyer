@@ -1,0 +1,16 @@
+{
+  "file": "remove-curse.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/r/remove-curse/",
+  "source_name": "Spell: Remove Curse",
+  "sections": [
+    {
+      "id": "remove_curse",
+      "title": "Remove Curse",
+      "anchor_heading": "# Remove Curse",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Remove Curse, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

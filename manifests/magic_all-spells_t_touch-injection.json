@@ -1,0 +1,16 @@
+{
+  "file": "touch-injection.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/t/touch-injection/",
+  "source_name": "Spell: Touch Injection",
+  "sections": [
+    {
+      "id": "touch_injection",
+      "title": "Touch Injection",
+      "anchor_heading": "# Touch Injection",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Touch Injection, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

@@ -17,22 +17,22 @@
         "### Modifiers",
         "#### Stealth Unchained"
       ],
-      "description": "Rules for the Stealth skill, covering hiding mechanics, movement penalties, sniping, creating diversions, and stealth modifiers including invisibility and size adjustments.",
+      "description": "Covers the Stealth skill mechanics including hiding, moving silently, sniping, creating diversions, and special modifiers for size, observation, and magic.",
       "keywords": [
-        "stealth",
-        "hide",
-        "hiding",
-        "sniping",
-        "create diversion to hide",
-        "breaking stealth",
-        "stealth check",
+        "Stealth",
+        "Hide",
+        "Hiding",
+        "Sniping",
+        "Create a Diversion to Hide",
+        "Hide behind other Creatures",
+        "Breaking Stealth",
+        "Stealth Unchained",
+        "moving silently",
         "concealment",
         "cover",
-        "invisibility bonus",
-        "stealth penalty",
-        "stealth unchained",
-        "signature skill"
+        "invisible"
       ]
     }
-  ]
+  ],
+  "category": "Skills"
 }

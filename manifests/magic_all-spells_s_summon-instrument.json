@@ -1,0 +1,16 @@
+{
+  "file": "summon-instrument.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/s/summon-instrument/",
+  "source_name": "Spell: Summon Instrument",
+  "sections": [
+    {
+      "id": "summon_instrument",
+      "title": "Summon Instrument",
+      "anchor_heading": "# Summon Instrument",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Summon Instrument, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

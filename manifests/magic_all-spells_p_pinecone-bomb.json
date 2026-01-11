@@ -1,0 +1,16 @@
+{
+  "file": "pinecone-bomb.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/p/pinecone-bomb/",
+  "source_name": "Spell: Pinecone Bomb",
+  "sections": [
+    {
+      "id": "pinecone_bomb",
+      "title": "Pinecone Bomb",
+      "anchor_heading": "# Pinecone Bomb",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Pinecone Bomb, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

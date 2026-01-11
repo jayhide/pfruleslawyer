@@ -1,0 +1,16 @@
+{
+  "file": "litany-of-thunder.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/l/litany-of-thunder/",
+  "source_name": "Spell: Litany of Thunder",
+  "sections": [
+    {
+      "id": "litany_of_thunder",
+      "title": "Litany of Thunder",
+      "anchor_heading": "# Litany of Thunder",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Litany of Thunder, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

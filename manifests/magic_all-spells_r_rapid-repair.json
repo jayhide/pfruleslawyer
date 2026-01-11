@@ -1,0 +1,16 @@
+{
+  "file": "rapid-repair.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/r/rapid-repair/",
+  "source_name": "Spell: Rapid Repair",
+  "sections": [
+    {
+      "id": "rapid_repair",
+      "title": "Rapid Repair",
+      "anchor_heading": "# Rapid Repair",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Rapid Repair, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

@@ -1,0 +1,16 @@
+{
+  "file": "fortunes-path.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/f/fortunes-path/",
+  "source_name": "Spell: Fortune\u2019s Path",
+  "sections": [
+    {
+      "id": "fortunes_path",
+      "title": "Fortune\u2019s Path",
+      "anchor_heading": "# Fortune\u2019s Path",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Fortune\u2019s Path, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

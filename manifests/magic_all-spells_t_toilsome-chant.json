@@ -1,0 +1,16 @@
+{
+  "file": "toilsome-chant.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/t/toilsome-chant/",
+  "source_name": "Spell: Toilsome Chant",
+  "sections": [
+    {
+      "id": "toilsome_chant",
+      "title": "Toilsome Chant",
+      "anchor_heading": "# Toilsome Chant",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Toilsome Chant, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

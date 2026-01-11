@@ -9,6 +9,7 @@
       "anchor_heading": "# Fighter",
       "includes_subheadings": [
         "### Class Skills",
+        "### Class Features",
         "#### Weapon and Armor Proficiency",
         "#### Bonus Feats",
         "#### Bravery (Ex)",
@@ -21,25 +22,23 @@
         "### Alternative Capstone Ability",
         "#### Veteran of Endless War (Ex)"
       ],
-      "description": "Covers the Fighter class mechanics including class features like bonus feats, weapon training, armor training, bravery, advanced training options, and alternative capstone abilities.",
+      "description": "Rules for the Fighter core class, covering class features like bonus feats, weapon training, armor training, bravery, and advanced training options, as well as archetypes and alternate class features.",
       "keywords": [
         "fighter",
         "bonus feats",
         "weapon training",
         "armor training",
         "bravery",
-        "armor mastery",
         "weapon mastery",
+        "armor mastery",
         "advanced weapon training",
         "advanced armor training",
         "weapon groups",
         "combat feats",
-        "fighter archetype",
-        "fighter class features",
-        "fighter levels",
-        "fighter progression",
+        "fighter archetypes",
         "veteran of endless war"
       ]
     }
-  ]
+  ],
+  "category": "Classes"
 }

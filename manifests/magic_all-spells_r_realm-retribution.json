@@ -1,0 +1,16 @@
+{
+  "file": "realm-retribution.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/r/realm-retribution/",
+  "source_name": "Spell: Realm Retribution",
+  "sections": [
+    {
+      "id": "realm_retribution",
+      "title": "Realm Retribution",
+      "anchor_heading": "# Realm Retribution",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Realm Retribution, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

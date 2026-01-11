@@ -1,0 +1,16 @@
+{
+  "file": "crimson-confession.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/c/crimson-confession/",
+  "source_name": "Spell: Crimson Confession",
+  "sections": [
+    {
+      "id": "crimson_confession",
+      "title": "Crimson Confession",
+      "anchor_heading": "# Crimson Confession",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Crimson Confession, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

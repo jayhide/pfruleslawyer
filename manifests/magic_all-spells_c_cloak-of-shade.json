@@ -1,0 +1,16 @@
+{
+  "file": "cloak-of-shade.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/c/cloak-of-shade/",
+  "source_name": "Spell: Cloak of Shade",
+  "sections": [
+    {
+      "id": "cloak_of_shade",
+      "title": "Cloak of Shade",
+      "anchor_heading": "# Cloak of Shade",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Cloak of Shade, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

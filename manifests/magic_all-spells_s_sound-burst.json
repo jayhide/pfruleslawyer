@@ -1,0 +1,16 @@
+{
+  "file": "sound-burst.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/s/sound-burst/",
+  "source_name": "Spell: Sound Burst",
+  "sections": [
+    {
+      "id": "sound_burst",
+      "title": "Sound Burst",
+      "anchor_heading": "# Sound Burst",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Sound Burst, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

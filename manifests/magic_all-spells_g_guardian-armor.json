@@ -1,0 +1,16 @@
+{
+  "file": "guardian-armor.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/g/guardian-armor/",
+  "source_name": "Spell: Guardian Armor",
+  "sections": [
+    {
+      "id": "guardian_armor",
+      "title": "Guardian Armor",
+      "anchor_heading": "# Guardian Armor",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Guardian Armor, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

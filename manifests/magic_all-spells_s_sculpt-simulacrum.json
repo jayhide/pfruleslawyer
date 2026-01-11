@@ -1,0 +1,16 @@
+{
+  "file": "sculpt-simulacrum.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/s/sculpt-simulacrum/",
+  "source_name": "Spell: Sculpt Simulacrum",
+  "sections": [
+    {
+      "id": "sculpt_simulacrum",
+      "title": "Sculpt Simulacrum",
+      "anchor_heading": "# Sculpt Simulacrum",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Sculpt Simulacrum, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

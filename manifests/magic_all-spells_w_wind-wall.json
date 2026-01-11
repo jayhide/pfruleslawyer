@@ -1,0 +1,16 @@
+{
+  "file": "wind-wall.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/w/wind-wall/",
+  "source_name": "Spell: Wind Wall",
+  "sections": [
+    {
+      "id": "wind_wall",
+      "title": "Wind Wall",
+      "anchor_heading": "# Wind Wall",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Wind Wall, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

@@ -1,0 +1,16 @@
+{
+  "file": "guardian-monument-lesser.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/g/guardian-monument-lesser/",
+  "source_name": "Spell: Guardian Monument, Lesser",
+  "sections": [
+    {
+      "id": "guardian_monument_lesser",
+      "title": "Guardian Monument, Lesser",
+      "anchor_heading": "# Guardian Monument, Lesser",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Guardian Monument, Lesser, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

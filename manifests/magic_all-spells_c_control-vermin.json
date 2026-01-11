@@ -1,0 +1,16 @@
+{
+  "file": "control-vermin.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/c/control-vermin/",
+  "source_name": "Spell: Control Vermin",
+  "sections": [
+    {
+      "id": "control_vermin",
+      "title": "Control Vermin",
+      "anchor_heading": "# Control Vermin",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Control Vermin, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

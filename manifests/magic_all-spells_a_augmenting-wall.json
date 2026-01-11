@@ -1,0 +1,16 @@
+{
+  "file": "augmenting-wall.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/a/augmenting-wall/",
+  "source_name": "Spell: Augmenting Wall",
+  "sections": [
+    {
+      "id": "augmenting_wall",
+      "title": "Augmenting Wall",
+      "anchor_heading": "# Augmenting Wall",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Augmenting Wall, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

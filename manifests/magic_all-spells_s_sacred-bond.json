@@ -1,0 +1,16 @@
+{
+  "file": "sacred-bond.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/s/sacred-bond/",
+  "source_name": "Spell: Sacred Bond",
+  "sections": [
+    {
+      "id": "sacred_bond",
+      "title": "Sacred Bond",
+      "anchor_heading": "# Sacred Bond",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Sacred Bond, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

@@ -1,0 +1,16 @@
+{
+  "file": "detect-demon.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/d/detect-demon/",
+  "source_name": "Spell: Detect Demon",
+  "sections": [
+    {
+      "id": "detect_demon",
+      "title": "Detect Demon",
+      "anchor_heading": "# Detect Demon",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Detect Demon, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

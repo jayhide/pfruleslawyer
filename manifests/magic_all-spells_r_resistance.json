@@ -1,0 +1,16 @@
+{
+  "file": "resistance.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/r/resistance/",
+  "source_name": "Spell: Resistance",
+  "sections": [
+    {
+      "id": "resistance",
+      "title": "Resistance",
+      "anchor_heading": "# Resistance",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Resistance, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

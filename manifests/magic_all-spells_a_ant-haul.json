@@ -1,0 +1,16 @@
+{
+  "file": "ant-haul.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/a/ant-haul/",
+  "source_name": "Spell: Ant Haul",
+  "sections": [
+    {
+      "id": "ant_haul",
+      "title": "Ant Haul",
+      "anchor_heading": "# Ant Haul",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Ant Haul, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

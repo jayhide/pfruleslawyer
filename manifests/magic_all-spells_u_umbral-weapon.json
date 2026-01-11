@@ -1,0 +1,16 @@
+{
+  "file": "umbral-weapon.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/u/umbral-weapon/",
+  "source_name": "Spell: Umbral Weapon",
+  "sections": [
+    {
+      "id": "umbral_weapon",
+      "title": "Umbral Weapon",
+      "anchor_heading": "# Umbral Weapon",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Umbral Weapon, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

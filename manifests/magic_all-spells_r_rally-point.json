@@ -1,0 +1,16 @@
+{
+  "file": "rally-point.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/r/rally-point/",
+  "source_name": "Spell: Rally Point",
+  "sections": [
+    {
+      "id": "rally_point",
+      "title": "Rally Point",
+      "anchor_heading": "# Rally Point",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Rally Point, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

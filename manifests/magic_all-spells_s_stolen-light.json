@@ -1,0 +1,16 @@
+{
+  "file": "stolen-light.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/s/stolen-light/",
+  "source_name": "Spell: Stolen Light",
+  "sections": [
+    {
+      "id": "stolen_light",
+      "title": "Stolen Light",
+      "anchor_heading": "# Stolen Light",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Stolen Light, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

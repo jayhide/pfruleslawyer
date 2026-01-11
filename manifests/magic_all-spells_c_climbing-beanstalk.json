@@ -1,0 +1,16 @@
+{
+  "file": "climbing-beanstalk.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/c/climbing-beanstalk/",
+  "source_name": "Spell: Climbing Beanstalk",
+  "sections": [
+    {
+      "id": "climbing_beanstalk",
+      "title": "Climbing Beanstalk",
+      "anchor_heading": "# Climbing Beanstalk",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Climbing Beanstalk, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

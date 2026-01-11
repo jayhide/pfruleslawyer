@@ -1,0 +1,16 @@
+{
+  "file": "keen-edge.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/k/keen-edge/",
+  "source_name": "Spell: Keen Edge",
+  "sections": [
+    {
+      "id": "keen_edge",
+      "title": "Keen Edge",
+      "anchor_heading": "# Keen Edge",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Keen Edge, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

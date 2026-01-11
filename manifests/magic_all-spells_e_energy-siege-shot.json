@@ -1,0 +1,16 @@
+{
+  "file": "energy-siege-shot.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/e/energy-siege-shot/",
+  "source_name": "Spell: Energy Siege Shot",
+  "sections": [
+    {
+      "id": "energy_siege_shot",
+      "title": "Energy Siege Shot",
+      "anchor_heading": "# Energy Siege Shot",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Energy Siege Shot, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

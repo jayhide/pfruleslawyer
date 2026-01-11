@@ -1,0 +1,16 @@
+{
+  "file": "spiritual-squire.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/s/spiritual-squire/",
+  "source_name": "Spell: Spiritual Squire",
+  "sections": [
+    {
+      "id": "spiritual_squire",
+      "title": "Spiritual Squire",
+      "anchor_heading": "# Spiritual Squire",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Spiritual Squire, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

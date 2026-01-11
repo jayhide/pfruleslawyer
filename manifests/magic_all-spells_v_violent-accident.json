@@ -1,0 +1,16 @@
+{
+  "file": "violent-accident.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/v/violent-accident/",
+  "source_name": "Spell: Violent Accident",
+  "sections": [
+    {
+      "id": "violent_accident",
+      "title": "Violent Accident",
+      "anchor_heading": "# Violent Accident",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Violent Accident, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

@@ -1,0 +1,16 @@
+{
+  "file": "swipe.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/s/swipe/",
+  "source_name": "Spell: Swipe",
+  "sections": [
+    {
+      "id": "swipe",
+      "title": "Swipe",
+      "anchor_heading": "# Swipe",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Swipe, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

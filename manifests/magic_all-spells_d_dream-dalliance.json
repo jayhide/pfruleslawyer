@@ -1,0 +1,16 @@
+{
+  "file": "dream-dalliance.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/d/dream-dalliance/",
+  "source_name": "Spell: Dream Dalliance",
+  "sections": [
+    {
+      "id": "dream_dalliance",
+      "title": "Dream Dalliance",
+      "anchor_heading": "# Dream Dalliance",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Dream Dalliance, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

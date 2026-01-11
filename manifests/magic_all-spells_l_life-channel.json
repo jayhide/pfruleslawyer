@@ -1,0 +1,16 @@
+{
+  "file": "life-channel.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/l/life-channel/",
+  "source_name": "Spell: Life Channel",
+  "sections": [
+    {
+      "id": "life_channel",
+      "title": "Life Channel",
+      "anchor_heading": "# Life Channel",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Life Channel, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

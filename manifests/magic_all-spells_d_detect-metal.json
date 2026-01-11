@@ -1,0 +1,16 @@
+{
+  "file": "detect-metal.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/d/detect-metal/",
+  "source_name": "Spell: Detect Metal",
+  "sections": [
+    {
+      "id": "detect_metal",
+      "title": "Detect Metal",
+      "anchor_heading": "# Detect Metal",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Detect Metal, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

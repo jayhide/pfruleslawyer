@@ -1,0 +1,16 @@
+{
+  "file": "limited-wish.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/l/limited-wish/",
+  "source_name": "Spell: Limited Wish",
+  "sections": [
+    {
+      "id": "limited_wish",
+      "title": "Limited Wish",
+      "anchor_heading": "# Limited Wish",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Limited Wish, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

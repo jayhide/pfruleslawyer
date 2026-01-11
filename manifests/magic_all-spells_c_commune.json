@@ -1,0 +1,16 @@
+{
+  "file": "commune.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/c/commune/",
+  "source_name": "Spell: Commune",
+  "sections": [
+    {
+      "id": "commune",
+      "title": "Commune",
+      "anchor_heading": "# Commune",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Commune, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

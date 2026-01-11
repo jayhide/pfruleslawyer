@@ -1,0 +1,16 @@
+{
+  "file": "chord-of-shards.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/c/chord-of-shards/",
+  "source_name": "Spell: Chord of Shards",
+  "sections": [
+    {
+      "id": "chord_of_shards",
+      "title": "Chord of Shards",
+      "anchor_heading": "# Chord of Shards",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Chord of Shards, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

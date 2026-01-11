@@ -1,0 +1,16 @@
+{
+  "file": "echolocation.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/e/echolocation/",
+  "source_name": "Spell: Echolocation",
+  "sections": [
+    {
+      "id": "echolocation",
+      "title": "Echolocation",
+      "anchor_heading": "# Echolocation",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Echolocation, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

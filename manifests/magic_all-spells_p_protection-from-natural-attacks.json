@@ -1,0 +1,16 @@
+{
+  "file": "protection-from-natural-attacks.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/p/protection-from-natural-attacks/",
+  "source_name": "Spell: Protection from Natural Attacks",
+  "sections": [
+    {
+      "id": "protection_from_natural_attacks",
+      "title": "Protection from Natural Attacks",
+      "anchor_heading": "# Protection from Natural Attacks",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Protection from Natural Attacks, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

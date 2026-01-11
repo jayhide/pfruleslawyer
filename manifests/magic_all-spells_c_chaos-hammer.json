@@ -1,0 +1,16 @@
+{
+  "file": "chaos-hammer.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/c/chaos-hammer/",
+  "source_name": "Spell: Chaos Hammer",
+  "sections": [
+    {
+      "id": "chaos_hammer",
+      "title": "Chaos Hammer",
+      "anchor_heading": "# Chaos Hammer",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Chaos Hammer, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

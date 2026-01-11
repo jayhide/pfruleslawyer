@@ -1,0 +1,16 @@
+{
+  "file": "gentle-repose.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/g/gentle-repose/",
+  "source_name": "Spell: Gentle Repose",
+  "sections": [
+    {
+      "id": "gentle_repose",
+      "title": "Gentle Repose",
+      "anchor_heading": "# Gentle Repose",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Gentle Repose, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

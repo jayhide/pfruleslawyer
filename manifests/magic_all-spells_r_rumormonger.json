@@ -1,0 +1,16 @@
+{
+  "file": "rumormonger.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/r/rumormonger/",
+  "source_name": "Spell: Rumormonger",
+  "sections": [
+    {
+      "id": "rumormonger",
+      "title": "Rumormonger",
+      "anchor_heading": "# Rumormonger",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Rumormonger, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

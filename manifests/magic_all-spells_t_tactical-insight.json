@@ -1,0 +1,16 @@
+{
+  "file": "tactical-insight.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/t/tactical-insight/",
+  "source_name": "Spell: Tactical Insight",
+  "sections": [
+    {
+      "id": "tactical_insight",
+      "title": "Tactical Insight",
+      "anchor_heading": "# Tactical Insight",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Tactical Insight, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

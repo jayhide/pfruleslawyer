@@ -1,0 +1,16 @@
+{
+  "file": "glide.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/g/glide/",
+  "source_name": "Spell: Glide",
+  "sections": [
+    {
+      "id": "glide",
+      "title": "Glide",
+      "anchor_heading": "# Glide",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Glide, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

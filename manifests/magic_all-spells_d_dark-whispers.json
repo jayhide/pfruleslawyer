@@ -1,0 +1,16 @@
+{
+  "file": "dark-whispers.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/d/dark-whispers/",
+  "source_name": "Spell: Dark Whispers",
+  "sections": [
+    {
+      "id": "dark_whispers",
+      "title": "Dark Whispers",
+      "anchor_heading": "# Dark Whispers",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Dark Whispers, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

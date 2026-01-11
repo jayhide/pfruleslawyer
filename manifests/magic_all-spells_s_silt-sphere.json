@@ -1,0 +1,16 @@
+{
+  "file": "silt-sphere.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/s/silt-sphere/",
+  "source_name": "Spell: Silt Sphere",
+  "sections": [
+    {
+      "id": "silt_sphere",
+      "title": "Silt Sphere",
+      "anchor_heading": "# Silt Sphere",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Silt Sphere, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

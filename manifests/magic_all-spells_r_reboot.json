@@ -1,0 +1,16 @@
+{
+  "file": "reboot.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/r/reboot/",
+  "source_name": "Spell: Reboot",
+  "sections": [
+    {
+      "id": "reboot",
+      "title": "Reboot",
+      "anchor_heading": "# Reboot",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Reboot, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

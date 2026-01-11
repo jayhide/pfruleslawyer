@@ -1,0 +1,16 @@
+{
+  "file": "technomancy.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/t/technomancy/",
+  "source_name": "Spell: Technomancy",
+  "sections": [
+    {
+      "id": "technomancy",
+      "title": "Technomancy",
+      "anchor_heading": "# Technomancy",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Technomancy, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

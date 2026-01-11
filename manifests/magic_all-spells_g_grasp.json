@@ -1,0 +1,16 @@
+{
+  "file": "grasp.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/g/grasp/",
+  "source_name": "Spell: Grasp",
+  "sections": [
+    {
+      "id": "grasp",
+      "title": "Grasp",
+      "anchor_heading": "# Grasp",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Grasp, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

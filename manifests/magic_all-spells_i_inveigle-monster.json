@@ -1,0 +1,16 @@
+{
+  "file": "inveigle-monster.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/i/inveigle-monster/",
+  "source_name": "Spell: Inveigle Monster",
+  "sections": [
+    {
+      "id": "inveigle_monster",
+      "title": "Inveigle Monster",
+      "anchor_heading": "# Inveigle Monster",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Inveigle Monster, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

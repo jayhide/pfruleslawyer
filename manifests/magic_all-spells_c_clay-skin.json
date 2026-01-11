@@ -1,0 +1,16 @@
+{
+  "file": "clay-skin.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/c/clay-skin/",
+  "source_name": "Spell: Clay Skin",
+  "sections": [
+    {
+      "id": "clay_skin",
+      "title": "Clay Skin",
+      "anchor_heading": "# Clay Skin",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Clay Skin, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

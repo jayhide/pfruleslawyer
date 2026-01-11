@@ -1,0 +1,16 @@
+{
+  "file": "verminous-transformation.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/v/verminous-transformation/",
+  "source_name": "Spell: Verminous Transformation",
+  "sections": [
+    {
+      "id": "verminous_transformation",
+      "title": "Verminous Transformation",
+      "anchor_heading": "# Verminous Transformation",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Verminous Transformation, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

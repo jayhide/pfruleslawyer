@@ -1,0 +1,16 @@
+{
+  "file": "mirror-polish.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/m/mirror-polish/",
+  "source_name": "Spell: Mirror Polish",
+  "sections": [
+    {
+      "id": "mirror_polish",
+      "title": "Mirror Polish",
+      "anchor_heading": "# Mirror Polish",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Mirror Polish, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

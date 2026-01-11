@@ -1,0 +1,16 @@
+{
+  "file": "black-spot.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/b/black-spot/",
+  "source_name": "Spell: Black Spot",
+  "sections": [
+    {
+      "id": "black_spot",
+      "title": "Black Spot",
+      "anchor_heading": "# Black Spot",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Black Spot, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

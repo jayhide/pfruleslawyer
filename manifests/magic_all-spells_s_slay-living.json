@@ -1,0 +1,16 @@
+{
+  "file": "slay-living.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/s/slay-living/",
+  "source_name": "Spell: Slay Living",
+  "sections": [
+    {
+      "id": "slay_living",
+      "title": "Slay Living",
+      "anchor_heading": "# Slay Living",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Slay Living, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

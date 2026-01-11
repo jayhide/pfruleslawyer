@@ -1,0 +1,16 @@
+{
+  "file": "symbol-of-stunning.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/s/symbol-of-stunning/",
+  "source_name": "Spell: Symbol of Stunning",
+  "sections": [
+    {
+      "id": "symbol_of_stunning",
+      "title": "Symbol of Stunning",
+      "anchor_heading": "# Symbol of Stunning",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Symbol of Stunning, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

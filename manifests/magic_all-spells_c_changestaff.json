@@ -1,0 +1,16 @@
+{
+  "file": "changestaff.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/c/changestaff/",
+  "source_name": "Spell: Changestaff",
+  "sections": [
+    {
+      "id": "changestaff",
+      "title": "Changestaff",
+      "anchor_heading": "# Changestaff",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Changestaff, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

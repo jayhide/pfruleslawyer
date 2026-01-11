@@ -14,24 +14,26 @@
         "### Modifiers",
         "#### Swim Unchained"
       ],
-      "description": "Covers the Swim skill mechanics including movement speeds, DCs for different water conditions, drowning rules, fatigue, and skill unlock abilities.",
+      "description": "Rules for the Swim skill, including basic swimming mechanics, drowning and breath holding rules, water difficulty DCs, fatigue from swimming, and skill unlock abilities.",
       "keywords": [
-        "swim",
+        "Swim",
         "swimming",
         "underwater",
         "drowning",
         "hold breath",
+        "breath holding",
+        "water",
         "swim speed",
         "calm water",
         "rough water",
         "stormy water",
-        "swim DC",
         "swim check",
+        "swim DC",
+        "fatigue from swimming",
         "swim unchained",
-        "skill unlocks",
-        "fatigue swimming",
-        "nonlethal damage swimming"
+        "swim skill unlocks"
       ]
     }
-  ]
+  ],
+  "category": "Skills"
 }

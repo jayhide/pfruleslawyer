@@ -1,0 +1,16 @@
+{
+  "file": "instant-weapon.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/i/instant-weapon/",
+  "source_name": "Spell: Instant Weapon",
+  "sections": [
+    {
+      "id": "instant_weapon",
+      "title": "Instant Weapon",
+      "anchor_heading": "# Instant Weapon",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Instant Weapon, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

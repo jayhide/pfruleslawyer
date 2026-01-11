@@ -17,20 +17,22 @@
         "### Modifiers",
         "#### Climb Unchained"
       ],
-      "description": "Rules for the Climb skill, including DCs for different surfaces, accelerated climbing, catching falling characters, and special modifiers for creatures with climb speeds.",
+      "description": "Covers the Climb skill mechanics including DCs for different surfaces, accelerated climbing, catching falling characters, and skill unlock abilities at higher ranks.",
       "keywords": [
         "Climb",
         "climbing",
         "accelerated climbing",
+        "catch falling character",
         "climb speed",
+        "pitons",
         "handholds",
         "footholds",
-        "pitons",
-        "catch falling character",
-        "climb DC",
+        "climb unchained",
+        "skill unlocks",
         "wall climbing",
         "rope climbing"
       ]
     }
-  ]
+  ],
+  "category": "Skills"
 }

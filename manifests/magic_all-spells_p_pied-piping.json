@@ -1,0 +1,16 @@
+{
+  "file": "pied-piping.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/p/pied-piping/",
+  "source_name": "Spell: Pied Piping",
+  "sections": [
+    {
+      "id": "pied_piping",
+      "title": "Pied Piping",
+      "anchor_heading": "# Pied Piping",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Pied Piping, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

@@ -1,0 +1,16 @@
+{
+  "file": "guidance.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/g/guidance/",
+  "source_name": "Spell: Guidance",
+  "sections": [
+    {
+      "id": "guidance",
+      "title": "Guidance",
+      "anchor_heading": "# Guidance",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Guidance, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

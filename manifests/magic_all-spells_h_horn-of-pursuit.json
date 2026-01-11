@@ -1,0 +1,16 @@
+{
+  "file": "horn-of-pursuit.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/h/horn-of-pursuit/",
+  "source_name": "Spell: Horn of Pursuit",
+  "sections": [
+    {
+      "id": "horn_of_pursuit",
+      "title": "Horn of Pursuit",
+      "anchor_heading": "# Horn of Pursuit",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Horn of Pursuit, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

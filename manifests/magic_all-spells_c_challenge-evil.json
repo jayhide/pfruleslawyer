@@ -1,0 +1,16 @@
+{
+  "file": "challenge-evil.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/c/challenge-evil/",
+  "source_name": "Spell: Challenge Evil",
+  "sections": [
+    {
+      "id": "challenge_evil",
+      "title": "Challenge Evil",
+      "anchor_heading": "# Challenge Evil",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Challenge Evil, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

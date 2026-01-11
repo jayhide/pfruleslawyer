@@ -1,0 +1,16 @@
+{
+  "file": "resilient-sphere.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/r/resilient-sphere/",
+  "source_name": "Spell: Resilient Sphere",
+  "sections": [
+    {
+      "id": "resilient_sphere",
+      "title": "Resilient Sphere",
+      "anchor_heading": "# Resilient Sphere",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Resilient Sphere, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

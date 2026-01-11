@@ -1,0 +1,16 @@
+{
+  "file": "true-creation.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/t/true-creation/",
+  "source_name": "Spell: True Creation",
+  "sections": [
+    {
+      "id": "true_creation",
+      "title": "True Creation",
+      "anchor_heading": "# True Creation",
+      "includes_subheadings": [],
+      "description": "Full description of the spell True Creation, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

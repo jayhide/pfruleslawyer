@@ -1,0 +1,16 @@
+{
+  "file": "bite-the-hand.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/b/bite-the-hand/",
+  "source_name": "Spell: Bite the Hand",
+  "sections": [
+    {
+      "id": "bite_the_hand",
+      "title": "Bite the Hand",
+      "anchor_heading": "# Bite the Hand",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Bite the Hand, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

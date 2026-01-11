@@ -1,0 +1,16 @@
+{
+  "file": "itching-curse.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/i/itching-curse/",
+  "source_name": "Spell: Itching Curse",
+  "sections": [
+    {
+      "id": "itching_curse",
+      "title": "Itching Curse",
+      "anchor_heading": "# Itching Curse",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Itching Curse, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

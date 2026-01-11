@@ -1,0 +1,16 @@
+{
+  "file": "permanent-hallucination.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/p/permanent-hallucination/",
+  "source_name": "Spell: Permanent Hallucination",
+  "sections": [
+    {
+      "id": "permanent_hallucination",
+      "title": "Permanent Hallucination",
+      "anchor_heading": "# Permanent Hallucination",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Permanent Hallucination, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

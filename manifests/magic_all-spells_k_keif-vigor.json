@@ -1,0 +1,16 @@
+{
+  "file": "keif-vigor.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/k/keif-vigor/",
+  "source_name": "Spell: Keif Vigor",
+  "sections": [
+    {
+      "id": "keif_vigor",
+      "title": "Keif Vigor",
+      "anchor_heading": "# Keif Vigor",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Keif Vigor, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

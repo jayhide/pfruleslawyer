@@ -1,0 +1,16 @@
+{
+  "file": "brand-of-tracking.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/b/brand-of-tracking/",
+  "source_name": "Spell: Brand of Tracking",
+  "sections": [
+    {
+      "id": "brand_of_tracking",
+      "title": "Brand of Tracking",
+      "anchor_heading": "# Brand of Tracking",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Brand of Tracking, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

@@ -1,0 +1,16 @@
+{
+  "file": "mage-hand.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/m/mage-hand/",
+  "source_name": "Spell: Mage Hand",
+  "sections": [
+    {
+      "id": "mage_hand",
+      "title": "Mage Hand",
+      "anchor_heading": "# Mage Hand",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Mage Hand, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

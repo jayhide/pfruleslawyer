@@ -1,0 +1,16 @@
+{
+  "file": "umbral-infusion.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/u/umbral-infusion/",
+  "source_name": "Spell: Umbral Infusion",
+  "sections": [
+    {
+      "id": "umbral_infusion",
+      "title": "Umbral Infusion",
+      "anchor_heading": "# Umbral Infusion",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Umbral Infusion, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

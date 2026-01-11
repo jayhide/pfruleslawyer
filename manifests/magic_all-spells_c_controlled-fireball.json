@@ -1,0 +1,16 @@
+{
+  "file": "controlled-fireball.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/c/controlled-fireball/",
+  "source_name": "Spell: Controlled Fireball",
+  "sections": [
+    {
+      "id": "controlled_fireball",
+      "title": "Controlled Fireball",
+      "anchor_heading": "# Controlled Fireball",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Controlled Fireball, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

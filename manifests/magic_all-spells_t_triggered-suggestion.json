@@ -1,0 +1,16 @@
+{
+  "file": "triggered-suggestion.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/t/triggered-suggestion/",
+  "source_name": "Spell: Triggered Suggestion",
+  "sections": [
+    {
+      "id": "triggered_suggestion",
+      "title": "Triggered Suggestion",
+      "anchor_heading": "# Triggered Suggestion",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Triggered Suggestion, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

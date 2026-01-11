@@ -1,0 +1,16 @@
+{
+  "file": "thorn-body.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/t/thorn-body/",
+  "source_name": "Spell: Thorn Body",
+  "sections": [
+    {
+      "id": "thorn_body",
+      "title": "Thorn Body",
+      "anchor_heading": "# Thorn Body",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Thorn Body, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

@@ -1,0 +1,16 @@
+{
+  "file": "hobble.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/h/hobble/",
+  "source_name": "Spell: Hobble",
+  "sections": [
+    {
+      "id": "hobble",
+      "title": "Hobble",
+      "anchor_heading": "# Hobble",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Hobble, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

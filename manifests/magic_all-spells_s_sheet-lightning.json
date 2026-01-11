@@ -1,0 +1,16 @@
+{
+  "file": "sheet-lightning.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/s/sheet-lightning/",
+  "source_name": "Spell: Sheet Lightning",
+  "sections": [
+    {
+      "id": "sheet_lightning",
+      "title": "Sheet Lightning",
+      "anchor_heading": "# Sheet Lightning",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Sheet Lightning, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

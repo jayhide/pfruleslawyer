@@ -1,0 +1,16 @@
+{
+  "file": "control-water.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/c/control-water/",
+  "source_name": "Spell: Control Water",
+  "sections": [
+    {
+      "id": "control_water",
+      "title": "Control Water",
+      "anchor_heading": "# Control Water",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Control Water, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

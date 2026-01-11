@@ -1,0 +1,16 @@
+{
+  "file": "codespeak.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/c/codespeak/",
+  "source_name": "Spell: Codespeak",
+  "sections": [
+    {
+      "id": "codespeak",
+      "title": "Codespeak",
+      "anchor_heading": "# Codespeak",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Codespeak, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

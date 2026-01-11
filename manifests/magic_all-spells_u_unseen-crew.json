@@ -1,0 +1,16 @@
+{
+  "file": "unseen-crew.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/u/unseen-crew/",
+  "source_name": "Spell: Unseen Crew",
+  "sections": [
+    {
+      "id": "unseen_crew",
+      "title": "Unseen Crew",
+      "anchor_heading": "# Unseen Crew",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Unseen Crew, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

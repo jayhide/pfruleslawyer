@@ -1,0 +1,16 @@
+{
+  "file": "teleport.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/t/teleport/",
+  "source_name": "Spell: Teleport",
+  "sections": [
+    {
+      "id": "teleport",
+      "title": "Teleport",
+      "anchor_heading": "# Teleport",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Teleport, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

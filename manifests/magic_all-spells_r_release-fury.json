@@ -1,0 +1,16 @@
+{
+  "file": "release-fury.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/r/release-fury/",
+  "source_name": "Spell: Release Fury",
+  "sections": [
+    {
+      "id": "release_fury",
+      "title": "Release Fury",
+      "anchor_heading": "# Release Fury",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Release Fury, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

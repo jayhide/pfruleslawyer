@@ -1,0 +1,16 @@
+{
+  "file": "permanent-image.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/p/permanent-image/",
+  "source_name": "Spell: Permanent Image",
+  "sections": [
+    {
+      "id": "permanent_image",
+      "title": "Permanent Image",
+      "anchor_heading": "# Permanent Image",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Permanent Image, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

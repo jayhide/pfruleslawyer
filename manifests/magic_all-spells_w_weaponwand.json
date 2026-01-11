@@ -1,0 +1,16 @@
+{
+  "file": "weaponwand.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/w/weaponwand/",
+  "source_name": "Spell: Weaponwand",
+  "sections": [
+    {
+      "id": "weaponwand",
+      "title": "Weaponwand",
+      "anchor_heading": "# Weaponwand",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Weaponwand, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

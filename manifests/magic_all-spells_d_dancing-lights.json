@@ -1,0 +1,16 @@
+{
+  "file": "dancing-lights.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/d/dancing-lights/",
+  "source_name": "Spell: Dancing Lights",
+  "sections": [
+    {
+      "id": "dancing_lights",
+      "title": "Dancing Lights",
+      "anchor_heading": "# Dancing Lights",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Dancing Lights, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

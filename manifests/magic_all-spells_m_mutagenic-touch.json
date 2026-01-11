@@ -1,0 +1,16 @@
+{
+  "file": "mutagenic-touch.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/m/mutagenic-touch/",
+  "source_name": "Spell: Mutagenic Touch",
+  "sections": [
+    {
+      "id": "mutagenic_touch",
+      "title": "Mutagenic Touch",
+      "anchor_heading": "# Mutagenic Touch",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Mutagenic Touch, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

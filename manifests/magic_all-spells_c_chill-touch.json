@@ -1,0 +1,16 @@
+{
+  "file": "chill-touch.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/c/chill-touch/",
+  "source_name": "Spell: Chill Touch",
+  "sections": [
+    {
+      "id": "chill_touch",
+      "title": "Chill Touch",
+      "anchor_heading": "# Chill Touch",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Chill Touch, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

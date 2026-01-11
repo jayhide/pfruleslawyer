@@ -1,0 +1,16 @@
+{
+  "file": "illusory-poison.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/i/illusory-poison/",
+  "source_name": "Spell: Illusory Poison",
+  "sections": [
+    {
+      "id": "illusory_poison",
+      "title": "Illusory Poison",
+      "anchor_heading": "# Illusory Poison",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Illusory Poison, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

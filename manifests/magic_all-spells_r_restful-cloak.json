@@ -1,0 +1,16 @@
+{
+  "file": "restful-cloak.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/r/restful-cloak/",
+  "source_name": "Spell: Restful Cloak",
+  "sections": [
+    {
+      "id": "restful_cloak",
+      "title": "Restful Cloak",
+      "anchor_heading": "# Restful Cloak",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Restful Cloak, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

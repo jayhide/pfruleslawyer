@@ -1,0 +1,16 @@
+{
+  "file": "aphasia.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/a/aphasia/",
+  "source_name": "Spell: Aphasia",
+  "sections": [
+    {
+      "id": "aphasia",
+      "title": "Aphasia",
+      "anchor_heading": "# Aphasia",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Aphasia, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

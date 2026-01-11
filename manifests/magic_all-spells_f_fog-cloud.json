@@ -1,0 +1,16 @@
+{
+  "file": "fog-cloud.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/f/fog-cloud/",
+  "source_name": "Spell: Fog Cloud",
+  "sections": [
+    {
+      "id": "fog_cloud",
+      "title": "Fog Cloud",
+      "anchor_heading": "# Fog Cloud",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Fog Cloud, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

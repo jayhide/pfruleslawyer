@@ -1,0 +1,16 @@
+{
+  "file": "apparent-treachery.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/a/apparent-treachery/",
+  "source_name": "Spell: Apparent Treachery",
+  "sections": [
+    {
+      "id": "apparent_treachery",
+      "title": "Apparent Treachery",
+      "anchor_heading": "# Apparent Treachery",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Apparent Treachery, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

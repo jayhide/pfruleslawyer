@@ -1,0 +1,16 @@
+{
+  "file": "ban-corruption.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/b/ban-corruption/",
+  "source_name": "Spell: Ban Corruption",
+  "sections": [
+    {
+      "id": "ban_corruption",
+      "title": "Ban Corruption",
+      "anchor_heading": "# Ban Corruption",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Ban Corruption, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

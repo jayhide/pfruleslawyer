@@ -1,0 +1,16 @@
+{
+  "file": "ethereal-envelope.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/e/ethereal-envelope/",
+  "source_name": "Spell: Ethereal Envelope",
+  "sections": [
+    {
+      "id": "ethereal_envelope",
+      "title": "Ethereal Envelope",
+      "anchor_heading": "# Ethereal Envelope",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Ethereal Envelope, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

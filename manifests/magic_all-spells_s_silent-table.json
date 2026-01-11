@@ -1,0 +1,16 @@
+{
+  "file": "silent-table.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/s/silent-table/",
+  "source_name": "Spell: Silent Table",
+  "sections": [
+    {
+      "id": "silent_table",
+      "title": "Silent Table",
+      "anchor_heading": "# Silent Table",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Silent Table, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

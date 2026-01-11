@@ -1,0 +1,16 @@
+{
+  "file": "brand-of-conformity.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/b/brand-of-conformity/",
+  "source_name": "Spell: Brand of Conformity",
+  "sections": [
+    {
+      "id": "brand_of_conformity",
+      "title": "Brand of Conformity",
+      "anchor_heading": "# Brand of Conformity",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Brand of Conformity, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

@@ -1,0 +1,16 @@
+{
+  "file": "unholy-blight.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/u/unholy-blight/",
+  "source_name": "Spell: Unholy Blight",
+  "sections": [
+    {
+      "id": "unholy_blight",
+      "title": "Unholy Blight",
+      "anchor_heading": "# Unholy Blight",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Unholy Blight, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

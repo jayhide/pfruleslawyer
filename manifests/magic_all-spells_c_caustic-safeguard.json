@@ -1,0 +1,16 @@
+{
+  "file": "caustic-safeguard.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/c/caustic-safeguard/",
+  "source_name": "Spell: Caustic Safeguard",
+  "sections": [
+    {
+      "id": "caustic_safeguard",
+      "title": "Caustic Safeguard",
+      "anchor_heading": "# Caustic Safeguard",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Caustic Safeguard, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

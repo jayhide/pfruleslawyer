@@ -1,0 +1,16 @@
+{
+  "file": "half-blood-extraction.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/h/half-blood-extraction/",
+  "source_name": "Spell: Half-Blood Extraction",
+  "sections": [
+    {
+      "id": "half_blood_extraction",
+      "title": "Half-Blood Extraction",
+      "anchor_heading": "# Half-Blood Extraction",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Half-Blood Extraction, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

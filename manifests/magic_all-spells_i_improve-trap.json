@@ -1,0 +1,16 @@
+{
+  "file": "improve-trap.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/i/improve-trap/",
+  "source_name": "Spell: Improve Trap",
+  "sections": [
+    {
+      "id": "improve_trap",
+      "title": "Improve Trap",
+      "anchor_heading": "# Improve Trap",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Improve Trap, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

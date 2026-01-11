@@ -1,0 +1,16 @@
+{
+  "file": "dungeonsight.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/d/dungeonsight/",
+  "source_name": "Spell: Dungeonsight",
+  "sections": [
+    {
+      "id": "dungeonsight",
+      "title": "Dungeonsight",
+      "anchor_heading": "# Dungeonsight",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Dungeonsight, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

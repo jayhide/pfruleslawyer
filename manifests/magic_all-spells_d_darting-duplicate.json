@@ -1,0 +1,16 @@
+{
+  "file": "darting-duplicate.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/d/darting-duplicate/",
+  "source_name": "Spell: Darting Duplicate",
+  "sections": [
+    {
+      "id": "darting_duplicate",
+      "title": "Darting Duplicate",
+      "anchor_heading": "# Darting Duplicate",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Darting Duplicate, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

@@ -1,0 +1,16 @@
+{
+  "file": "unerring-weapon.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/u/unerring-weapon/",
+  "source_name": "Spell: Unerring Weapon",
+  "sections": [
+    {
+      "id": "unerring_weapon",
+      "title": "Unerring Weapon",
+      "anchor_heading": "# Unerring Weapon",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Unerring Weapon, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

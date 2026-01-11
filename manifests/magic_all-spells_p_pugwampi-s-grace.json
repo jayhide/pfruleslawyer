@@ -1,0 +1,16 @@
+{
+  "file": "pugwampi-s-grace.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/p/pugwampi-s-grace/",
+  "source_name": "Spell: Pugwampi\u2019s Grace",
+  "sections": [
+    {
+      "id": "pugwampi_s_grace",
+      "title": "Pugwampi\u2019s Grace",
+      "anchor_heading": "# Pugwampi\u2019s Grace",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Pugwampi\u2019s Grace, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

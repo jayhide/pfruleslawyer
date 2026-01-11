@@ -1,0 +1,16 @@
+{
+  "file": "discordant-blast.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/d/discordant-blast/",
+  "source_name": "Spell: Discordant Blast",
+  "sections": [
+    {
+      "id": "discordant_blast",
+      "title": "Discordant Blast",
+      "anchor_heading": "# Discordant Blast",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Discordant Blast, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

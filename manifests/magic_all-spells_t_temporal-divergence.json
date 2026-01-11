@@ -1,0 +1,16 @@
+{
+  "file": "temporal-divergence.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/t/temporal-divergence/",
+  "source_name": "Spell: Temporal Divergence",
+  "sections": [
+    {
+      "id": "temporal_divergence",
+      "title": "Temporal Divergence",
+      "anchor_heading": "# Temporal Divergence",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Temporal Divergence, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

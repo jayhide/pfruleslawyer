@@ -1,0 +1,16 @@
+{
+  "file": "overstimulate.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/o/overstimulate/",
+  "source_name": "Spell: Overstimulate",
+  "sections": [
+    {
+      "id": "overstimulate",
+      "title": "Overstimulate",
+      "anchor_heading": "# Overstimulate",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Overstimulate, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

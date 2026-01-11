@@ -23,7 +23,7 @@
         "#### Incredible Luck (Ex)",
         "### Swashbuckler Archetypes"
       ],
-      "description": "Comprehensive rules for the Swashbuckler hybrid class, covering panache mechanics, deeds, class features, and archetypes for agile combatants who rely on finesse weapons and daring maneuvers.",
+      "description": "Rules for the Swashbuckler hybrid class, covering panache points, deeds, weapon finesse abilities, and class progression from levels 1-20.",
       "keywords": [
         "swashbuckler",
         "panache",
@@ -31,18 +31,14 @@
         "swashbuckler finesse",
         "charmed life",
         "nimble",
-        "precise strike",
-        "opportune parry",
-        "riposte",
         "derring-do",
         "dodging panache",
-        "swashbuckler weapon training",
-        "swashbuckler weapon mastery",
-        "light piercing weapon",
-        "one-handed piercing weapon",
-        "deeds of renown",
-        "swashbuckler archetypes",
+        "opportune parry",
+        "riposte",
+        "precise strike",
         "swashbuckler initiative",
+        "swashbuckler's grace",
+        "superior feint",
         "targeted strike",
         "bleeding wound",
         "evasive",
@@ -51,8 +47,19 @@
         "perfect thrust",
         "cheat death",
         "deadly stab",
-        "stunning stab"
+        "stunning stab",
+        "swashbuckler weapon training",
+        "swashbuckler weapon mastery",
+        "deeds of renown",
+        "vengeful heart",
+        "hilt hammer",
+        "dodging dance",
+        "vengeful soul",
+        "kip-up",
+        "menacing swordplay",
+        "swashbuckler's edge"
       ]
     }
-  ]
+  ],
+  "category": "Classes"
 }

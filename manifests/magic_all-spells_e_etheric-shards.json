@@ -1,0 +1,16 @@
+{
+  "file": "etheric-shards.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/e/etheric-shards/",
+  "source_name": "Spell: Etheric Shards",
+  "sections": [
+    {
+      "id": "etheric_shards",
+      "title": "Etheric Shards",
+      "anchor_heading": "# Etheric Shards",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Etheric Shards, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

@@ -19,28 +19,28 @@
         "#### High Jump",
         "#### Hop Up"
       ],
-      "description": "Rules for the Acrobatics skill, covering balance on narrow surfaces, movement through threatened squares without provoking attacks of opportunity, jumping mechanics, and falling damage mitigation.",
+      "description": "Rules for the Acrobatics skill including crossing narrow surfaces, moving through threatened squares, jumping mechanics, falling damage reduction, and skill unlock abilities.",
       "keywords": [
         "Acrobatics",
         "balance",
+        "jump",
+        "long jump",
+        "high jump",
+        "hop up",
         "narrow surfaces",
         "threatened squares",
         "attack of opportunity",
-        "jumping",
-        "long jump",
-        "high jump",
         "falling",
-        "falling damage",
-        "move through enemy",
-        "Combat Maneuver Defense",
-        "CMD",
-        "flat-footed",
-        "prone",
         "diving",
-        "hop up",
-        "skill unlocks",
-        "unchained"
+        "flat-footed",
+        "combat maneuver defense",
+        "CMD",
+        "skill unlock",
+        "running start",
+        "pole vault",
+        "balancing pole"
       ]
     }
-  ]
+  ],
+  "category": "Skills"
 }

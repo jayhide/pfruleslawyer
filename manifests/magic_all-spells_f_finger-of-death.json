@@ -1,0 +1,16 @@
+{
+  "file": "finger-of-death.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/f/finger-of-death/",
+  "source_name": "Spell: Finger of Death",
+  "sections": [
+    {
+      "id": "finger_of_death",
+      "title": "Finger of Death",
+      "anchor_heading": "# Finger of Death",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Finger of Death, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

@@ -1,0 +1,16 @@
+{
+  "file": "book-ward.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/b/book-ward/",
+  "source_name": "Spell: Book Ward",
+  "sections": [
+    {
+      "id": "book_ward",
+      "title": "Book Ward",
+      "anchor_heading": "# Book Ward",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Book Ward, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

@@ -1,0 +1,16 @@
+{
+  "file": "dream-voyage.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/d/dream-voyage/",
+  "source_name": "Spell: Dream Voyage",
+  "sections": [
+    {
+      "id": "dream_voyage",
+      "title": "Dream Voyage",
+      "anchor_heading": "# Dream Voyage",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Dream Voyage, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

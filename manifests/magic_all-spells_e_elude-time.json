@@ -1,0 +1,16 @@
+{
+  "file": "elude-time.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/e/elude-time/",
+  "source_name": "Spell: Elude Time",
+  "sections": [
+    {
+      "id": "elude_time",
+      "title": "Elude Time",
+      "anchor_heading": "# Elude Time",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Elude Time, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

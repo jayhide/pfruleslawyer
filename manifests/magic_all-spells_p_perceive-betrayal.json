@@ -1,0 +1,16 @@
+{
+  "file": "perceive-betrayal.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/p/perceive-betrayal/",
+  "source_name": "Spell: Perceive Betrayal",
+  "sections": [
+    {
+      "id": "perceive_betrayal",
+      "title": "Perceive Betrayal",
+      "anchor_heading": "# Perceive Betrayal",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Perceive Betrayal, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

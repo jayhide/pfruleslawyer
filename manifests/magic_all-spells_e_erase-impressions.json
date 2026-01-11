@@ -1,0 +1,16 @@
+{
+  "file": "erase-impressions.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/e/erase-impressions/",
+  "source_name": "Spell: Erase Impressions",
+  "sections": [
+    {
+      "id": "erase_impressions",
+      "title": "Erase Impressions",
+      "anchor_heading": "# Erase Impressions",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Erase Impressions, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

@@ -1,0 +1,16 @@
+{
+  "file": "raven-s-flight.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/r/raven-s-flight/",
+  "source_name": "Spell: Raven\u2019s Flight",
+  "sections": [
+    {
+      "id": "raven_s_flight",
+      "title": "Raven\u2019s Flight",
+      "anchor_heading": "# Raven\u2019s Flight",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Raven\u2019s Flight, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

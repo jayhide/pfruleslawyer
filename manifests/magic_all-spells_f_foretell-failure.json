@@ -1,0 +1,16 @@
+{
+  "file": "foretell-failure.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/f/foretell-failure/",
+  "source_name": "Spell: Foretell Failure",
+  "sections": [
+    {
+      "id": "foretell_failure",
+      "title": "Foretell Failure",
+      "anchor_heading": "# Foretell Failure",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Foretell Failure, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

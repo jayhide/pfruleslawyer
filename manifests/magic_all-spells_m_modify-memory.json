@@ -1,0 +1,16 @@
+{
+  "file": "modify-memory.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/m/modify-memory/",
+  "source_name": "Spell: Modify Memory",
+  "sections": [
+    {
+      "id": "modify_memory",
+      "title": "Modify Memory",
+      "anchor_heading": "# Modify Memory",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Modify Memory, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

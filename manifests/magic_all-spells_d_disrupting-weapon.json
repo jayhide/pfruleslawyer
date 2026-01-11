@@ -1,0 +1,16 @@
+{
+  "file": "disrupting-weapon.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/d/disrupting-weapon/",
+  "source_name": "Spell: Disrupting Weapon",
+  "sections": [
+    {
+      "id": "disrupting_weapon",
+      "title": "Disrupting Weapon",
+      "anchor_heading": "# Disrupting Weapon",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Disrupting Weapon, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

@@ -1,0 +1,16 @@
+{
+  "file": "undeath-inversion.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/u/undeath-inversion/",
+  "source_name": "Spell: Undeath Inversion",
+  "sections": [
+    {
+      "id": "undeath_inversion",
+      "title": "Undeath Inversion",
+      "anchor_heading": "# Undeath Inversion",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Undeath Inversion, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

@@ -1,0 +1,16 @@
+{
+  "file": "vigilant-rest.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/v/vigilant-rest/",
+  "source_name": "Spell: Vigilant Rest",
+  "sections": [
+    {
+      "id": "vigilant_rest",
+      "title": "Vigilant Rest",
+      "anchor_heading": "# Vigilant Rest",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Vigilant Rest, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

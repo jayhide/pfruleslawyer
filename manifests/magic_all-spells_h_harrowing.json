@@ -1,0 +1,16 @@
+{
+  "file": "harrowing.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/h/harrowing/",
+  "source_name": "Spell: Harrowing",
+  "sections": [
+    {
+      "id": "harrowing",
+      "title": "Harrowing",
+      "anchor_heading": "# Harrowing",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Harrowing, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

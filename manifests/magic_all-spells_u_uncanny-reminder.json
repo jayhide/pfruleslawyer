@@ -1,0 +1,16 @@
+{
+  "file": "uncanny-reminder.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/u/uncanny-reminder/",
+  "source_name": "Spell: Uncanny Reminder",
+  "sections": [
+    {
+      "id": "uncanny_reminder",
+      "title": "Uncanny Reminder",
+      "anchor_heading": "# Uncanny Reminder",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Uncanny Reminder, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

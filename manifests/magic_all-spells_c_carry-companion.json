@@ -1,0 +1,16 @@
+{
+  "file": "carry-companion.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/c/carry-companion/",
+  "source_name": "Spell: Carry Companion",
+  "sections": [
+    {
+      "id": "carry_companion",
+      "title": "Carry Companion",
+      "anchor_heading": "# Carry Companion",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Carry Companion, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

@@ -1,0 +1,16 @@
+{
+  "file": "soul-vault.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/s/soul-vault/",
+  "source_name": "Spell: Soul Vault",
+  "sections": [
+    {
+      "id": "soul_vault",
+      "title": "Soul Vault",
+      "anchor_heading": "# Soul Vault",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Soul Vault, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

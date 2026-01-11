@@ -1,0 +1,16 @@
+{
+  "file": "spit-venom.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/s/spit-venom/",
+  "source_name": "Spell: Spit Venom",
+  "sections": [
+    {
+      "id": "spit_venom",
+      "title": "Spit Venom",
+      "anchor_heading": "# Spit Venom",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Spit Venom, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

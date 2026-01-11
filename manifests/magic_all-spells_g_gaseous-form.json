@@ -1,0 +1,16 @@
+{
+  "file": "gaseous-form.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/g/gaseous-form/",
+  "source_name": "Spell: Gaseous Form",
+  "sections": [
+    {
+      "id": "gaseous_form",
+      "title": "Gaseous Form",
+      "anchor_heading": "# Gaseous Form",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Gaseous Form, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

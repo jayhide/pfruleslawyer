@@ -1,0 +1,16 @@
+{
+  "file": "flash-fire.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/f/flash-fire/",
+  "source_name": "Spell: Flash Fire",
+  "sections": [
+    {
+      "id": "flash_fire",
+      "title": "Flash Fire",
+      "anchor_heading": "# Flash Fire",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Flash Fire, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

@@ -1,0 +1,16 @@
+{
+  "file": "inflict-serious-wounds.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/i/inflict-serious-wounds/",
+  "source_name": "Spell: Inflict Serious Wounds",
+  "sections": [
+    {
+      "id": "inflict_serious_wounds",
+      "title": "Inflict Serious Wounds",
+      "anchor_heading": "# Inflict Serious Wounds",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Inflict Serious Wounds, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

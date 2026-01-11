@@ -1,0 +1,16 @@
+{
+  "file": "slow.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/s/slow/",
+  "source_name": "Spell: Slow",
+  "sections": [
+    {
+      "id": "slow",
+      "title": "Slow",
+      "anchor_heading": "# Slow",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Slow, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

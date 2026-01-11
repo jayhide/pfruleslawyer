@@ -1,0 +1,16 @@
+{
+  "file": "simulacrum.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/s/simulacrum/",
+  "source_name": "Spell: Simulacrum",
+  "sections": [
+    {
+      "id": "simulacrum",
+      "title": "Simulacrum",
+      "anchor_heading": "# Simulacrum",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Simulacrum, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

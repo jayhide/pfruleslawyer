@@ -1,0 +1,16 @@
+{
+  "file": "floating-disk.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/f/floating-disk/",
+  "source_name": "Spell: Floating Disk",
+  "sections": [
+    {
+      "id": "floating_disk",
+      "title": "Floating Disk",
+      "anchor_heading": "# Floating Disk",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Floating Disk, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

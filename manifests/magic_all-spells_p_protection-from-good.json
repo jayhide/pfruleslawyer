@@ -1,0 +1,16 @@
+{
+  "file": "protection-from-good.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/p/protection-from-good/",
+  "source_name": "Spell: Protection from Good",
+  "sections": [
+    {
+      "id": "protection_from_good",
+      "title": "Protection from Good",
+      "anchor_heading": "# Protection from Good",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Protection from Good, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

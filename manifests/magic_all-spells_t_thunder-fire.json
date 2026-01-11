@@ -1,0 +1,16 @@
+{
+  "file": "thunder-fire.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/t/thunder-fire/",
+  "source_name": "Spell: Thunder Fire",
+  "sections": [
+    {
+      "id": "thunder_fire",
+      "title": "Thunder Fire",
+      "anchor_heading": "# Thunder Fire",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Thunder Fire, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

@@ -1,0 +1,16 @@
+{
+  "file": "shield-the-banner.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/s/shield-the-banner/",
+  "source_name": "Spell: Shield the Banner",
+  "sections": [
+    {
+      "id": "shield_the_banner",
+      "title": "Shield the Banner",
+      "anchor_heading": "# Shield the Banner",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Shield the Banner, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

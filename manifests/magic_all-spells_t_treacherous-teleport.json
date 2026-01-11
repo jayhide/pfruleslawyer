@@ -1,0 +1,16 @@
+{
+  "file": "treacherous-teleport.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/t/treacherous-teleport/",
+  "source_name": "Spell: Treacherous Teleport",
+  "sections": [
+    {
+      "id": "treacherous_teleport",
+      "title": "Treacherous Teleport",
+      "anchor_heading": "# Treacherous Teleport",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Treacherous Teleport, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

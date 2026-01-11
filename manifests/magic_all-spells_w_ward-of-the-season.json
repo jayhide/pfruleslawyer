@@ -1,0 +1,16 @@
+{
+  "file": "ward-of-the-season.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/w/ward-of-the-season/",
+  "source_name": "Spell: Ward of the Season",
+  "sections": [
+    {
+      "id": "ward_of_the_season",
+      "title": "Ward of the Season",
+      "anchor_heading": "# Ward of the Season",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Ward of the Season, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

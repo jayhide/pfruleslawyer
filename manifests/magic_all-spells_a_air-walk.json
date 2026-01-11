@@ -1,0 +1,16 @@
+{
+  "file": "air-walk.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/a/air-walk/",
+  "source_name": "Spell: Air Walk",
+  "sections": [
+    {
+      "id": "air_walk",
+      "title": "Air Walk",
+      "anchor_heading": "# Air Walk",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Air Walk, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

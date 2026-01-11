@@ -1,0 +1,16 @@
+{
+  "file": "staggering-fall.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/s/staggering-fall/",
+  "source_name": "Spell: Staggering Fall",
+  "sections": [
+    {
+      "id": "staggering_fall",
+      "title": "Staggering Fall",
+      "anchor_heading": "# Staggering Fall",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Staggering Fall, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

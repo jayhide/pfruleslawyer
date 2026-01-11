@@ -1,0 +1,16 @@
+{
+  "file": "geyser.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/g/geyser/",
+  "source_name": "Spell: Geyser",
+  "sections": [
+    {
+      "id": "geyser",
+      "title": "Geyser",
+      "anchor_heading": "# Geyser",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Geyser, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

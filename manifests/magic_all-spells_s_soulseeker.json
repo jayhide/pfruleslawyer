@@ -1,0 +1,16 @@
+{
+  "file": "soulseeker.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/s/soulseeker/",
+  "source_name": "Spell: Soulseeker",
+  "sections": [
+    {
+      "id": "soulseeker",
+      "title": "Soulseeker",
+      "anchor_heading": "# Soulseeker",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Soulseeker, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

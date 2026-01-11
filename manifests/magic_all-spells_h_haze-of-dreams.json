@@ -1,0 +1,16 @@
+{
+  "file": "haze-of-dreams.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/h/haze-of-dreams/",
+  "source_name": "Spell: Haze of Dreams",
+  "sections": [
+    {
+      "id": "haze_of_dreams",
+      "title": "Haze of Dreams",
+      "anchor_heading": "# Haze of Dreams",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Haze of Dreams, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

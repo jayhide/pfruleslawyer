@@ -1,0 +1,16 @@
+{
+  "file": "symbol-of-insanity.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/s/symbol-of-insanity/",
+  "source_name": "Spell: Symbol of Insanity",
+  "sections": [
+    {
+      "id": "symbol_of_insanity",
+      "title": "Symbol of Insanity",
+      "anchor_heading": "# Symbol of Insanity",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Symbol of Insanity, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

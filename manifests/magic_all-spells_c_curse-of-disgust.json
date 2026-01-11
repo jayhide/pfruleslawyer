@@ -1,0 +1,16 @@
+{
+  "file": "curse-of-disgust.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/c/curse-of-disgust/",
+  "source_name": "Spell: Curse of Disgust",
+  "sections": [
+    {
+      "id": "curse_of_disgust",
+      "title": "Curse of Disgust",
+      "anchor_heading": "# Curse of Disgust",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Curse of Disgust, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

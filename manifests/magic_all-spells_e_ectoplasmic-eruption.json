@@ -1,0 +1,16 @@
+{
+  "file": "ectoplasmic-eruption.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/e/ectoplasmic-eruption/",
+  "source_name": "Spell: Ectoplasmic Eruption",
+  "sections": [
+    {
+      "id": "ectoplasmic_eruption",
+      "title": "Ectoplasmic Eruption",
+      "anchor_heading": "# Ectoplasmic Eruption",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Ectoplasmic Eruption, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

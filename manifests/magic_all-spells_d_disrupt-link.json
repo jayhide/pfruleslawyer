@@ -1,0 +1,16 @@
+{
+  "file": "disrupt-link.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/d/disrupt-link/",
+  "source_name": "Spell: Disrupt Link",
+  "sections": [
+    {
+      "id": "disrupt_link",
+      "title": "Disrupt Link",
+      "anchor_heading": "# Disrupt Link",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Disrupt Link, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

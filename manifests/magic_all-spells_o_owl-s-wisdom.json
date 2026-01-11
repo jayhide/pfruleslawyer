@@ -1,0 +1,16 @@
+{
+  "file": "owl-s-wisdom.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/o/owl-s-wisdom/",
+  "source_name": "Spell: Owl\u2019s Wisdom",
+  "sections": [
+    {
+      "id": "owl_s_wisdom",
+      "title": "Owl\u2019s Wisdom",
+      "anchor_heading": "# Owl\u2019s Wisdom",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Owl\u2019s Wisdom, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

@@ -1,0 +1,16 @@
+{
+  "file": "animate-rope.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/a/animate-rope/",
+  "source_name": "Spell: Animate Rope",
+  "sections": [
+    {
+      "id": "animate_rope",
+      "title": "Animate Rope",
+      "anchor_heading": "# Animate Rope",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Animate Rope, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

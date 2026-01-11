@@ -1,0 +1,16 @@
+{
+  "file": "sculpted-cape.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/s/sculpted-cape/",
+  "source_name": "Spell: Sculpted Cape",
+  "sections": [
+    {
+      "id": "sculpted_cape",
+      "title": "Sculpted Cape",
+      "anchor_heading": "# Sculpted Cape",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Sculpted Cape, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

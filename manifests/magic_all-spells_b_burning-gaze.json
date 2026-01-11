@@ -1,0 +1,16 @@
+{
+  "file": "burning-gaze.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/b/burning-gaze/",
+  "source_name": "Spell: Burning Gaze",
+  "sections": [
+    {
+      "id": "burning_gaze",
+      "title": "Burning Gaze",
+      "anchor_heading": "# Burning Gaze",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Burning Gaze, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

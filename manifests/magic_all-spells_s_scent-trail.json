@@ -1,0 +1,16 @@
+{
+  "file": "scent-trail.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/s/scent-trail/",
+  "source_name": "Spell: Scent Trail",
+  "sections": [
+    {
+      "id": "scent_trail",
+      "title": "Scent Trail",
+      "anchor_heading": "# Scent Trail",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Scent Trail, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

@@ -1,0 +1,16 @@
+{
+  "file": "spark.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/s/spark/",
+  "source_name": "Spell: Spark",
+  "sections": [
+    {
+      "id": "spark",
+      "title": "Spark",
+      "anchor_heading": "# Spark",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Spark, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

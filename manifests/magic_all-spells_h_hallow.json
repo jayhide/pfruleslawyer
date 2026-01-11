@@ -1,0 +1,16 @@
+{
+  "file": "hallow.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/h/hallow/",
+  "source_name": "Spell: Hallow",
+  "sections": [
+    {
+      "id": "hallow",
+      "title": "Hallow",
+      "anchor_heading": "# Hallow",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Hallow, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

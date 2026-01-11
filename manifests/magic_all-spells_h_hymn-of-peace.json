@@ -1,0 +1,16 @@
+{
+  "file": "hymn-of-peace.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/h/hymn-of-peace/",
+  "source_name": "Spell: Hymn of Peace",
+  "sections": [
+    {
+      "id": "hymn_of_peace",
+      "title": "Hymn of Peace",
+      "anchor_heading": "# Hymn of Peace",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Hymn of Peace, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

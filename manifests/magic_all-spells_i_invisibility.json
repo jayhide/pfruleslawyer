@@ -1,0 +1,16 @@
+{
+  "file": "invisibility.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/i/invisibility/",
+  "source_name": "Spell: Invisibility",
+  "sections": [
+    {
+      "id": "invisibility",
+      "title": "Invisibility",
+      "anchor_heading": "# Invisibility",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Invisibility, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

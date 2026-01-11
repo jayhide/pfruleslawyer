@@ -18,23 +18,25 @@
         "#### Disable Device Unchained",
         "### Explosives"
       ],
-      "description": "Covers the Disable Device skill rules including disarming traps, opening locks, sabotaging devices, handling explosives, and skill unlock abilities.",
+      "description": "Rules for the Disable Device skill, covering disarming traps, opening locks, sabotaging mechanical devices, handling magic traps, and working with explosives including DCs and time requirements.",
       "keywords": [
-        "Disable Device",
+        "disable device",
         "disarm trap",
         "open lock",
         "sabotage",
-        "thieves' tools",
         "trapfinding",
-        "magic traps",
-        "skill unlocks",
-        "explosives",
-        "Technologist",
+        "magic trap",
+        "thieves' tools",
+        "lockpicking",
+        "explosive",
+        "technologist",
         "detonator",
         "e-pick",
-        "lock picking",
-        "trap disarmament"
+        "trap sense",
+        "skill unlock",
+        "signature skill"
       ]
     }
-  ]
+  ],
+  "category": "Skills"
 }

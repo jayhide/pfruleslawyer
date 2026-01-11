@@ -1,0 +1,16 @@
+{
+  "file": "deathwatch.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/d/deathwatch/",
+  "source_name": "Spell: Deathwatch",
+  "sections": [
+    {
+      "id": "deathwatch",
+      "title": "Deathwatch",
+      "anchor_heading": "# Deathwatch",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Deathwatch, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

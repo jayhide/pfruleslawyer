@@ -1,0 +1,16 @@
+{
+  "file": "quick-change.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/q/quick-change/",
+  "source_name": "Spell: Quick Change",
+  "sections": [
+    {
+      "id": "quick_change",
+      "title": "Quick Change",
+      "anchor_heading": "# Quick Change",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Quick Change, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

@@ -1,0 +1,16 @@
+{
+  "file": "sealed-life.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/s/sealed-life/",
+  "source_name": "Spell: Sealed Life",
+  "sections": [
+    {
+      "id": "sealed_life",
+      "title": "Sealed Life",
+      "anchor_heading": "# Sealed Life",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Sealed Life, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

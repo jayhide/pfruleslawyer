@@ -1,0 +1,16 @@
+{
+  "file": "vitriolic-mist.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/v/vitriolic-mist/",
+  "source_name": "Spell: Vitriolic Mist",
+  "sections": [
+    {
+      "id": "vitriolic_mist",
+      "title": "Vitriolic Mist",
+      "anchor_heading": "# Vitriolic Mist",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Vitriolic Mist, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

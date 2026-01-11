@@ -1,0 +1,16 @@
+{
+  "file": "chain-lightning.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/c/chain-lightning/",
+  "source_name": "Spell: Chain Lightning",
+  "sections": [
+    {
+      "id": "chain_lightning",
+      "title": "Chain Lightning",
+      "anchor_heading": "# Chain Lightning",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Chain Lightning, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

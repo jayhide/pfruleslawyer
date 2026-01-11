@@ -1,0 +1,16 @@
+{
+  "file": "lightning-conductor.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/l/lightning-conductor/",
+  "source_name": "Spell: Lightning Conductor",
+  "sections": [
+    {
+      "id": "lightning_conductor",
+      "title": "Lightning Conductor",
+      "anchor_heading": "# Lightning Conductor",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Lightning Conductor, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

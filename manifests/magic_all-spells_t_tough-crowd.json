@@ -1,0 +1,16 @@
+{
+  "file": "tough-crowd.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/t/tough-crowd/",
+  "source_name": "Spell: Tough Crowd",
+  "sections": [
+    {
+      "id": "tough_crowd",
+      "title": "Tough Crowd",
+      "anchor_heading": "# Tough Crowd",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Tough Crowd, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

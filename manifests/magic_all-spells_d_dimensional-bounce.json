@@ -1,0 +1,16 @@
+{
+  "file": "dimensional-bounce.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/d/dimensional-bounce/",
+  "source_name": "Spell: Dimensional Bounce",
+  "sections": [
+    {
+      "id": "dimensional_bounce",
+      "title": "Dimensional Bounce",
+      "anchor_heading": "# Dimensional Bounce",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Dimensional Bounce, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

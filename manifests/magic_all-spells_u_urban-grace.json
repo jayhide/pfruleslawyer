@@ -1,0 +1,16 @@
+{
+  "file": "urban-grace.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/u/urban-grace/",
+  "source_name": "Spell: Urban Grace",
+  "sections": [
+    {
+      "id": "urban_grace",
+      "title": "Urban Grace",
+      "anchor_heading": "# Urban Grace",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Urban Grace, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

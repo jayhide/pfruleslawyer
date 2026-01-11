@@ -1,0 +1,16 @@
+{
+  "file": "fury-of-sun.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/f/fury-of-sun/",
+  "source_name": "Spell: Fury of the Sun",
+  "sections": [
+    {
+      "id": "fury_of_sun",
+      "title": "Fury of the Sun",
+      "anchor_heading": "# Fury of the Sun",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Fury of the Sun, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

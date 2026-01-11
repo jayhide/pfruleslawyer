@@ -1,0 +1,16 @@
+{
+  "file": "forests-sense.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/f/forests-sense/",
+  "source_name": "Spell: Forest\u2019s Sense",
+  "sections": [
+    {
+      "id": "forests_sense",
+      "title": "Forest\u2019s Sense",
+      "anchor_heading": "# Forest\u2019s Sense",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Forest\u2019s Sense, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

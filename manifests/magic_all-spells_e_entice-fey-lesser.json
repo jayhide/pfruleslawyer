@@ -1,0 +1,16 @@
+{
+  "file": "entice-fey-lesser.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/e/entice-fey-lesser/",
+  "source_name": "Spell: Entice Fey, Lesser",
+  "sections": [
+    {
+      "id": "entice_fey_lesser",
+      "title": "Entice Fey, Lesser",
+      "anchor_heading": "# Entice Fey, Lesser",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Entice Fey, Lesser, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

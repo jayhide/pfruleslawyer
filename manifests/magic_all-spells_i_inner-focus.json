@@ -1,0 +1,16 @@
+{
+  "file": "inner-focus.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/i/inner-focus/",
+  "source_name": "Spell: Inner Focus",
+  "sections": [
+    {
+      "id": "inner_focus",
+      "title": "Inner Focus",
+      "anchor_heading": "# Inner Focus",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Inner Focus, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

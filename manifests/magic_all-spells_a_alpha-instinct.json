@@ -1,0 +1,16 @@
+{
+  "file": "alpha-instinct.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/a/alpha-instinct/",
+  "source_name": "Spell: Alpha Instinct",
+  "sections": [
+    {
+      "id": "alpha_instinct",
+      "title": "Alpha Instinct",
+      "anchor_heading": "# Alpha Instinct",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Alpha Instinct, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

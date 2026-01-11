@@ -1,0 +1,16 @@
+{
+  "file": "locate-object.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/l/locate-object/",
+  "source_name": "Spell: Locate Object",
+  "sections": [
+    {
+      "id": "locate_object",
+      "title": "Locate Object",
+      "anchor_heading": "# Locate Object",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Locate Object, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

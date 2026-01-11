@@ -1,0 +1,16 @@
+{
+  "file": "anti-incorporeal-shell.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/a/anti-incorporeal-shell/",
+  "source_name": "Spell: Anti-Incorporeal Shell",
+  "sections": [
+    {
+      "id": "anti_incorporeal_shell",
+      "title": "Anti-Incorporeal Shell",
+      "anchor_heading": "# Anti-Incorporeal Shell",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Anti-Incorporeal Shell, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

@@ -1,0 +1,16 @@
+{
+  "file": "clarion-call.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/c/clarion-call/",
+  "source_name": "Spell: Clarion Call",
+  "sections": [
+    {
+      "id": "clarion_call",
+      "title": "Clarion Call",
+      "anchor_heading": "# Clarion Call",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Clarion Call, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

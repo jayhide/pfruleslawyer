@@ -1,0 +1,16 @@
+{
+  "file": "call-animal.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/c/call-animal/",
+  "source_name": "Spell: Call Animal",
+  "sections": [
+    {
+      "id": "call_animal",
+      "title": "Call Animal",
+      "anchor_heading": "# Call Animal",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Call Animal, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

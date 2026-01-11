@@ -1,0 +1,16 @@
+{
+  "file": "human-potential.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/h/human-potential/",
+  "source_name": "Spell: Human Potential",
+  "sections": [
+    {
+      "id": "human_potential",
+      "title": "Human Potential",
+      "anchor_heading": "# Human Potential",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Human Potential, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

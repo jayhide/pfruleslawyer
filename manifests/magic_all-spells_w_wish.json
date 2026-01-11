@@ -1,0 +1,16 @@
+{
+  "file": "wish.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/w/wish/",
+  "source_name": "Spell: Wish",
+  "sections": [
+    {
+      "id": "wish",
+      "title": "Wish",
+      "anchor_heading": "# Wish",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Wish, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

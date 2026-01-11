@@ -1,0 +1,16 @@
+{
+  "file": "chameleon-stride.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/c/chameleon-stride/",
+  "source_name": "Spell: Chameleon Stride",
+  "sections": [
+    {
+      "id": "chameleon_stride",
+      "title": "Chameleon Stride",
+      "anchor_heading": "# Chameleon Stride",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Chameleon Stride, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

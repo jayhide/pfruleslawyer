@@ -1,0 +1,16 @@
+{
+  "file": "dream-council.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/d/dream-council/",
+  "source_name": "Spell: Dream Council",
+  "sections": [
+    {
+      "id": "dream_council",
+      "title": "Dream Council",
+      "anchor_heading": "# Dream Council",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Dream Council, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

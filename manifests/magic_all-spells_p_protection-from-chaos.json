@@ -1,0 +1,16 @@
+{
+  "file": "protection-from-chaos.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/p/protection-from-chaos/",
+  "source_name": "Spell: Protection from Chaos",
+  "sections": [
+    {
+      "id": "protection_from_chaos",
+      "title": "Protection from Chaos",
+      "anchor_heading": "# Protection from Chaos",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Protection from Chaos, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

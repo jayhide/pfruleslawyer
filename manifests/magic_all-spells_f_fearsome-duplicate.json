@@ -1,0 +1,16 @@
+{
+  "file": "fearsome-duplicate.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/f/fearsome-duplicate/",
+  "source_name": "Spell: Fearsome Duplicate",
+  "sections": [
+    {
+      "id": "fearsome_duplicate",
+      "title": "Fearsome Duplicate",
+      "anchor_heading": "# Fearsome Duplicate",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Fearsome Duplicate, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

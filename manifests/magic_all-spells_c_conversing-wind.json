@@ -1,0 +1,16 @@
+{
+  "file": "conversing-wind.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/c/conversing-wind/",
+  "source_name": "Spell: Conversing Wind",
+  "sections": [
+    {
+      "id": "conversing_wind",
+      "title": "Conversing Wind",
+      "anchor_heading": "# Conversing Wind",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Conversing Wind, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

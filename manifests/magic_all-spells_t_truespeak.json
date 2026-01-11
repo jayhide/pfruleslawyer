@@ -1,0 +1,16 @@
+{
+  "file": "truespeak.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/t/truespeak/",
+  "source_name": "Spell: Truespeak",
+  "sections": [
+    {
+      "id": "truespeak",
+      "title": "Truespeak",
+      "anchor_heading": "# Truespeak",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Truespeak, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

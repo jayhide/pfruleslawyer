@@ -1,0 +1,16 @@
+{
+  "file": "emergency-force-sphere.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/e/emergency-force-sphere/",
+  "source_name": "Spell: Emergency Force Sphere",
+  "sections": [
+    {
+      "id": "emergency_force_sphere",
+      "title": "Emergency Force Sphere",
+      "anchor_heading": "# Emergency Force Sphere",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Emergency Force Sphere, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

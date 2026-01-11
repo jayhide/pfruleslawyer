@@ -1,0 +1,16 @@
+{
+  "file": "instant-restoration.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/i/instant-restoration/",
+  "source_name": "Spell: Instant Restoration",
+  "sections": [
+    {
+      "id": "instant_restoration",
+      "title": "Instant Restoration",
+      "anchor_heading": "# Instant Restoration",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Instant Restoration, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

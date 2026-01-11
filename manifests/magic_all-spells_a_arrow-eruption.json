@@ -1,0 +1,16 @@
+{
+  "file": "arrow-eruption.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/a/arrow-eruption/",
+  "source_name": "Spell: Arrow Eruption",
+  "sections": [
+    {
+      "id": "arrow_eruption",
+      "title": "Arrow Eruption",
+      "anchor_heading": "# Arrow Eruption",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Arrow Eruption, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

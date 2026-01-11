@@ -1,0 +1,16 @@
+{
+  "file": "awaken-the-devoured.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/a/awaken-the-devoured/",
+  "source_name": "Spell: Awaken the Devoured",
+  "sections": [
+    {
+      "id": "awaken_the_devoured",
+      "title": "Awaken the Devoured",
+      "anchor_heading": "# Awaken the Devoured",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Awaken the Devoured, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

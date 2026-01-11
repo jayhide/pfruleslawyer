@@ -1,0 +1,16 @@
+{
+  "file": "plundered-power.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/p/plundered-power/",
+  "source_name": "Spell: Plundered Power",
+  "sections": [
+    {
+      "id": "plundered_power",
+      "title": "Plundered Power",
+      "anchor_heading": "# Plundered Power",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Plundered Power, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

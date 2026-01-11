@@ -1,0 +1,16 @@
+{
+  "file": "rend-body-i.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/r/rend-body-i/",
+  "source_name": "Spell: Rend Body I",
+  "sections": [
+    {
+      "id": "rend_body_i",
+      "title": "Rend Body I",
+      "anchor_heading": "# Rend Body I",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Rend Body I, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

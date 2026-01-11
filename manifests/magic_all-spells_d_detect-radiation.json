@@ -1,0 +1,16 @@
+{
+  "file": "detect-radiation.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/d/detect-radiation/",
+  "source_name": "Spell: Detect Radiation",
+  "sections": [
+    {
+      "id": "detect_radiation",
+      "title": "Detect Radiation",
+      "anchor_heading": "# Detect Radiation",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Detect Radiation, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

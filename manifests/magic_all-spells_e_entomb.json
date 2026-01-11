@@ -1,0 +1,16 @@
+{
+  "file": "entomb.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/e/entomb/",
+  "source_name": "Spell: Entomb",
+  "sections": [
+    {
+      "id": "entomb",
+      "title": "Entomb",
+      "anchor_heading": "# Entomb",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Entomb, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

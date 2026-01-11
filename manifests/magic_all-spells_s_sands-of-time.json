@@ -1,0 +1,16 @@
+{
+  "file": "sands-of-time.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/s/sands-of-time/",
+  "source_name": "Spell: Sands of Time",
+  "sections": [
+    {
+      "id": "sands_of_time",
+      "title": "Sands of Time",
+      "anchor_heading": "# Sands of Time",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Sands of Time, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

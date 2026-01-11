@@ -1,0 +1,16 @@
+{
+  "file": "sending.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/s/sending/",
+  "source_name": "Spell: Sending",
+  "sections": [
+    {
+      "id": "sending",
+      "title": "Sending",
+      "anchor_heading": "# Sending",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Sending, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

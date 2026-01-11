@@ -1,0 +1,16 @@
+{
+  "file": "life-conduit.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/l/life-conduit/",
+  "source_name": "Spell: Life Conduit",
+  "sections": [
+    {
+      "id": "life_conduit",
+      "title": "Life Conduit",
+      "anchor_heading": "# Life Conduit",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Life Conduit, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

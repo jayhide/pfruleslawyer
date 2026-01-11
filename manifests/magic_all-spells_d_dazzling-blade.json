@@ -1,0 +1,16 @@
+{
+  "file": "dazzling-blade.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/d/dazzling-blade/",
+  "source_name": "Spell: Dazzling Blade",
+  "sections": [
+    {
+      "id": "dazzling_blade",
+      "title": "Dazzling Blade",
+      "anchor_heading": "# Dazzling Blade",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Dazzling Blade, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

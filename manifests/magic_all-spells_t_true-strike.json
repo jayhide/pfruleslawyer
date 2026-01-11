@@ -1,0 +1,16 @@
+{
+  "file": "true-strike.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/t/true-strike/",
+  "source_name": "Spell: True Strike",
+  "sections": [
+    {
+      "id": "true_strike",
+      "title": "True Strike",
+      "anchor_heading": "# True Strike",
+      "includes_subheadings": [],
+      "description": "Full description of the spell True Strike, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

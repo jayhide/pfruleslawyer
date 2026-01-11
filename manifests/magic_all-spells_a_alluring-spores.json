@@ -1,0 +1,16 @@
+{
+  "file": "alluring-spores.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/a/alluring-spores/",
+  "source_name": "Spell: Alluring Spores",
+  "sections": [
+    {
+      "id": "alluring_spores",
+      "title": "Alluring Spores",
+      "anchor_heading": "# Alluring Spores",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Alluring Spores, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

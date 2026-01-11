@@ -1,0 +1,16 @@
+{
+  "file": "nondetection.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/n/nondetection/",
+  "source_name": "Spell: Nondetection",
+  "sections": [
+    {
+      "id": "nondetection",
+      "title": "Nondetection",
+      "anchor_heading": "# Nondetection",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Nondetection, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

@@ -1,0 +1,16 @@
+{
+  "file": "frost-fall.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/f/frost-fall/",
+  "source_name": "Spell: Frost Fall",
+  "sections": [
+    {
+      "id": "frost_fall",
+      "title": "Frost Fall",
+      "anchor_heading": "# Frost Fall",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Frost Fall, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

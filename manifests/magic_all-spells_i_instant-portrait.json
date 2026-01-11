@@ -1,0 +1,16 @@
+{
+  "file": "instant-portrait.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/i/instant-portrait/",
+  "source_name": "Spell: Instant Portrait",
+  "sections": [
+    {
+      "id": "instant_portrait",
+      "title": "Instant Portrait",
+      "anchor_heading": "# Instant Portrait",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Instant Portrait, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

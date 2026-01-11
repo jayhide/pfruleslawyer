@@ -1,0 +1,16 @@
+{
+  "file": "hunter-s-blessing.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/h/hunter-s-blessing/",
+  "source_name": "Spell: Hunter\u2019s Blessing",
+  "sections": [
+    {
+      "id": "hunter_s_blessing",
+      "title": "Hunter\u2019s Blessing",
+      "anchor_heading": "# Hunter\u2019s Blessing",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Hunter\u2019s Blessing, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

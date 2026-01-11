@@ -1,0 +1,16 @@
+{
+  "file": "spider-climb.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/s/spider-climb/",
+  "source_name": "Spell: Spider Climb",
+  "sections": [
+    {
+      "id": "spider_climb",
+      "title": "Spider Climb",
+      "anchor_heading": "# Spider Climb",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Spider Climb, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

@@ -1,0 +1,16 @@
+{
+  "file": "locate-portal.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/l/locate-portal/",
+  "source_name": "Spell: Locate Portal",
+  "sections": [
+    {
+      "id": "locate_portal",
+      "title": "Locate Portal",
+      "anchor_heading": "# Locate Portal",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Locate Portal, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

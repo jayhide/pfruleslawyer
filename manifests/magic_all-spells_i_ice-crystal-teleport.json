@@ -1,0 +1,16 @@
+{
+  "file": "ice-crystal-teleport.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/i/ice-crystal-teleport/",
+  "source_name": "Spell: Ice Crystal Teleport",
+  "sections": [
+    {
+      "id": "ice_crystal_teleport",
+      "title": "Ice Crystal Teleport",
+      "anchor_heading": "# Ice Crystal Teleport",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Ice Crystal Teleport, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

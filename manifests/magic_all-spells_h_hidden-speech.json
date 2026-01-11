@@ -1,0 +1,16 @@
+{
+  "file": "hidden-speech.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/h/hidden-speech/",
+  "source_name": "Spell: Hidden Speech",
+  "sections": [
+    {
+      "id": "hidden_speech",
+      "title": "Hidden Speech",
+      "anchor_heading": "# Hidden Speech",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Hidden Speech, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

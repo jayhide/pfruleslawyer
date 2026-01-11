@@ -1,0 +1,16 @@
+{
+  "file": "phantom-chariot.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/p/phantom-chariot/",
+  "source_name": "Spell: Phantom Chariot",
+  "sections": [
+    {
+      "id": "phantom_chariot",
+      "title": "Phantom Chariot",
+      "anchor_heading": "# Phantom Chariot",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Phantom Chariot, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

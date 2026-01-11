@@ -1,0 +1,16 @@
+{
+  "file": "hide-from-animals.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/h/hide-from-animals/",
+  "source_name": "Spell: Hide from Animals",
+  "sections": [
+    {
+      "id": "hide_from_animals",
+      "title": "Hide from Animals",
+      "anchor_heading": "# Hide from Animals",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Hide from Animals, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

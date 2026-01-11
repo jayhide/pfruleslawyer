@@ -1,0 +1,16 @@
+{
+  "file": "tidal-surge.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/t/tidal-surge/",
+  "source_name": "Spell: Tidal Surge",
+  "sections": [
+    {
+      "id": "tidal_surge",
+      "title": "Tidal Surge",
+      "anchor_heading": "# Tidal Surge",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Tidal Surge, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

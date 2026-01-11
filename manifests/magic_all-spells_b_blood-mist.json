@@ -1,0 +1,16 @@
+{
+  "file": "blood-mist.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/b/blood-mist/",
+  "source_name": "Spell: Blood Mist",
+  "sections": [
+    {
+      "id": "blood_mist",
+      "title": "Blood Mist",
+      "anchor_heading": "# Blood Mist",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Blood Mist, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

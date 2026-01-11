@@ -1,0 +1,16 @@
+{
+  "file": "storm-of-blades.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/s/storm-of-blades/",
+  "source_name": "Spell: Storm of Blades",
+  "sections": [
+    {
+      "id": "storm_of_blades",
+      "title": "Storm of Blades",
+      "anchor_heading": "# Storm of Blades",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Storm of Blades, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

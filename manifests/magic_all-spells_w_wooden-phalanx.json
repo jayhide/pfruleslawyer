@@ -1,0 +1,16 @@
+{
+  "file": "wooden-phalanx.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/w/wooden-phalanx/",
+  "source_name": "Spell: Wooden Phalanx",
+  "sections": [
+    {
+      "id": "wooden_phalanx",
+      "title": "Wooden Phalanx",
+      "anchor_heading": "# Wooden Phalanx",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Wooden Phalanx, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

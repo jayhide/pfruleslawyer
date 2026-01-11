@@ -1,0 +1,16 @@
+{
+  "file": "dragon-turtle-shell.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/d/dragon-turtle-shell/",
+  "source_name": "Spell: Dragon Turtle Shell",
+  "sections": [
+    {
+      "id": "dragon_turtle_shell",
+      "title": "Dragon Turtle Shell",
+      "anchor_heading": "# Dragon Turtle Shell",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Dragon Turtle Shell, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

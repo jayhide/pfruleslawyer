@@ -1,0 +1,16 @@
+{
+  "file": "etherealness.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/e/etherealness/",
+  "source_name": "Spell: Etherealness",
+  "sections": [
+    {
+      "id": "etherealness",
+      "title": "Etherealness",
+      "anchor_heading": "# Etherealness",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Etherealness, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

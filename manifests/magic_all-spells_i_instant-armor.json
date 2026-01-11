@@ -1,0 +1,16 @@
+{
+  "file": "instant-armor.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/i/instant-armor/",
+  "source_name": "Spell: Instant Armor",
+  "sections": [
+    {
+      "id": "instant_armor",
+      "title": "Instant Armor",
+      "anchor_heading": "# Instant Armor",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Instant Armor, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

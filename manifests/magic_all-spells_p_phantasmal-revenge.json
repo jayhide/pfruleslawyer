@@ -1,0 +1,16 @@
+{
+  "file": "phantasmal-revenge.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/p/phantasmal-revenge/",
+  "source_name": "Spell: Phantasmal Revenge",
+  "sections": [
+    {
+      "id": "phantasmal_revenge",
+      "title": "Phantasmal Revenge",
+      "anchor_heading": "# Phantasmal Revenge",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Phantasmal Revenge, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

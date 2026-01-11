@@ -1,0 +1,16 @@
+{
+  "file": "possess-object.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/p/possess-object/",
+  "source_name": "Spell: Possess Object",
+  "sections": [
+    {
+      "id": "possess_object",
+      "title": "Possess Object",
+      "anchor_heading": "# Possess Object",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Possess Object, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

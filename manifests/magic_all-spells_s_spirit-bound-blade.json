@@ -1,0 +1,16 @@
+{
+  "file": "spirit-bound-blade.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/s/spirit-bound-blade/",
+  "source_name": "Spell: Spirit-Bound Blade",
+  "sections": [
+    {
+      "id": "spirit_bound_blade",
+      "title": "Spirit-Bound Blade",
+      "anchor_heading": "# Spirit-Bound Blade",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Spirit-Bound Blade, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

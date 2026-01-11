@@ -1,0 +1,16 @@
+{
+  "file": "web.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/w/web/",
+  "source_name": "Spell: Web",
+  "sections": [
+    {
+      "id": "web",
+      "title": "Web",
+      "anchor_heading": "# Web",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Web, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

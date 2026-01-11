@@ -1,0 +1,16 @@
+{
+  "file": "boneshaker.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/b/boneshaker/",
+  "source_name": "Spell: Boneshaker",
+  "sections": [
+    {
+      "id": "boneshaker",
+      "title": "Boneshaker",
+      "anchor_heading": "# Boneshaker",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Boneshaker, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

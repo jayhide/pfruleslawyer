@@ -1,0 +1,16 @@
+{
+  "file": "anchored-step.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/a/anchored-step/",
+  "source_name": "Spell: Anchored Step",
+  "sections": [
+    {
+      "id": "anchored_step",
+      "title": "Anchored Step",
+      "anchor_heading": "# Anchored Step",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Anchored Step, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

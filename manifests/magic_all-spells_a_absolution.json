@@ -1,0 +1,16 @@
+{
+  "file": "absolution.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/a/absolution/",
+  "source_name": "Spell: Absolution",
+  "sections": [
+    {
+      "id": "absolution",
+      "title": "Absolution",
+      "anchor_heading": "# Absolution",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Absolution, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

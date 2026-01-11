@@ -1,0 +1,16 @@
+{
+  "file": "free-spirit.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/f/free-spirit/",
+  "source_name": "Spell: Free Spirit",
+  "sections": [
+    {
+      "id": "free_spirit",
+      "title": "Free Spirit",
+      "anchor_heading": "# Free Spirit",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Free Spirit, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

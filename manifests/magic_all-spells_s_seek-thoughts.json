@@ -1,0 +1,16 @@
+{
+  "file": "seek-thoughts.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/s/seek-thoughts/",
+  "source_name": "Spell: Seek Thoughts",
+  "sections": [
+    {
+      "id": "seek_thoughts",
+      "title": "Seek Thoughts",
+      "anchor_heading": "# Seek Thoughts",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Seek Thoughts, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

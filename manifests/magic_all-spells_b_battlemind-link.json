@@ -1,0 +1,16 @@
+{
+  "file": "battlemind-link.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/b/battlemind-link/",
+  "source_name": "Spell: Battlemind Link",
+  "sections": [
+    {
+      "id": "battlemind_link",
+      "title": "Battlemind Link",
+      "anchor_heading": "# Battlemind Link",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Battlemind Link, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

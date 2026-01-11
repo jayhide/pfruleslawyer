@@ -1,0 +1,16 @@
+{
+  "file": "enemy-insight.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/e/enemy-insight/",
+  "source_name": "Spell: Enemy Insight",
+  "sections": [
+    {
+      "id": "enemy_insight",
+      "title": "Enemy Insight",
+      "anchor_heading": "# Enemy Insight",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Enemy Insight, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

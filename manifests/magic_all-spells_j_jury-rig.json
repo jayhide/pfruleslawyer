@@ -1,0 +1,16 @@
+{
+  "file": "jury-rig.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/j/jury-rig/",
+  "source_name": "Spell: Jury-Rig",
+  "sections": [
+    {
+      "id": "jury_rig",
+      "title": "Jury-Rig",
+      "anchor_heading": "# Jury-Rig",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Jury-Rig, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

@@ -1,0 +1,16 @@
+{
+  "file": "creeping-ice.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/c/creeping-ice/",
+  "source_name": "Spell: Creeping Ice",
+  "sections": [
+    {
+      "id": "creeping_ice",
+      "title": "Creeping Ice",
+      "anchor_heading": "# Creeping Ice",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Creeping Ice, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

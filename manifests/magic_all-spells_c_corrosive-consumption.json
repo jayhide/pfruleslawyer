@@ -1,0 +1,16 @@
+{
+  "file": "corrosive-consumption.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/c/corrosive-consumption/",
+  "source_name": "Spell: Corrosive Consumption",
+  "sections": [
+    {
+      "id": "corrosive_consumption",
+      "title": "Corrosive Consumption",
+      "anchor_heading": "# Corrosive Consumption",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Corrosive Consumption, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

@@ -1,0 +1,16 @@
+{
+  "file": "wing-bounty.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/w/wing-bounty/",
+  "source_name": "Spell: Wing Bounty",
+  "sections": [
+    {
+      "id": "wing_bounty",
+      "title": "Wing Bounty",
+      "anchor_heading": "# Wing Bounty",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Wing Bounty, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

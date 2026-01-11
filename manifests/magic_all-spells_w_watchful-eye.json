@@ -1,0 +1,16 @@
+{
+  "file": "watchful-eye.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/w/watchful-eye/",
+  "source_name": "Spell: Watchful Eye",
+  "sections": [
+    {
+      "id": "watchful_eye",
+      "title": "Watchful Eye",
+      "anchor_heading": "# Watchful Eye",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Watchful Eye, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

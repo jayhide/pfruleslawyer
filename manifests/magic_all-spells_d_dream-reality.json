@@ -1,0 +1,16 @@
+{
+  "file": "dream-reality.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/d/dream-reality/",
+  "source_name": "Spell: Dream Reality",
+  "sections": [
+    {
+      "id": "dream_reality",
+      "title": "Dream Reality",
+      "anchor_heading": "# Dream Reality",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Dream Reality, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

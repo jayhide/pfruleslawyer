@@ -1,0 +1,16 @@
+{
+  "file": "detonate.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/d/detonate/",
+  "source_name": "Spell: Detonate",
+  "sections": [
+    {
+      "id": "detonate",
+      "title": "Detonate",
+      "anchor_heading": "# Detonate",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Detonate, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

@@ -1,0 +1,16 @@
+{
+  "file": "chameleon-scales.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/c/chameleon-scales/",
+  "source_name": "Spell: Chameleon Scales",
+  "sections": [
+    {
+      "id": "chameleon_scales",
+      "title": "Chameleon Scales",
+      "anchor_heading": "# Chameleon Scales",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Chameleon Scales, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

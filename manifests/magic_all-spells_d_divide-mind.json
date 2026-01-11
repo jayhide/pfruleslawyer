@@ -1,0 +1,16 @@
+{
+  "file": "divide-mind.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/d/divide-mind/",
+  "source_name": "Spell: Divide Mind",
+  "sections": [
+    {
+      "id": "divide_mind",
+      "title": "Divide Mind",
+      "anchor_heading": "# Divide Mind",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Divide Mind, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

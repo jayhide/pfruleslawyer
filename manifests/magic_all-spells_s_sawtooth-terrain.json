@@ -1,0 +1,16 @@
+{
+  "file": "sawtooth-terrain.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/s/sawtooth-terrain/",
+  "source_name": "Spell: Sawtooth Terrain",
+  "sections": [
+    {
+      "id": "sawtooth_terrain",
+      "title": "Sawtooth Terrain",
+      "anchor_heading": "# Sawtooth Terrain",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Sawtooth Terrain, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

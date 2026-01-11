@@ -1,0 +1,16 @@
+{
+  "file": "song-of-healing.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/s/song-of-healing/",
+  "source_name": "Spell: Song of Healing",
+  "sections": [
+    {
+      "id": "song_of_healing",
+      "title": "Song of Healing",
+      "anchor_heading": "# Song of Healing",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Song of Healing, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

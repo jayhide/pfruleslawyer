@@ -1,0 +1,16 @@
+{
+  "file": "acidic-spray.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/a/acidic-spray/",
+  "source_name": "Spell: Acidic Spray",
+  "sections": [
+    {
+      "id": "acidic_spray",
+      "title": "Acidic Spray",
+      "anchor_heading": "# Acidic Spray",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Acidic Spray, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

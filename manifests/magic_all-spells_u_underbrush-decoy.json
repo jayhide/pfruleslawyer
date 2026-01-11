@@ -1,0 +1,16 @@
+{
+  "file": "underbrush-decoy.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/u/underbrush-decoy/",
+  "source_name": "Spell: Underbrush Decoy",
+  "sections": [
+    {
+      "id": "underbrush_decoy",
+      "title": "Underbrush Decoy",
+      "anchor_heading": "# Underbrush Decoy",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Underbrush Decoy, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

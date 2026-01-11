@@ -1,0 +1,16 @@
+{
+  "file": "repulsion.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/r/repulsion/",
+  "source_name": "Spell: Repulsion",
+  "sections": [
+    {
+      "id": "repulsion",
+      "title": "Repulsion",
+      "anchor_heading": "# Repulsion",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Repulsion, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

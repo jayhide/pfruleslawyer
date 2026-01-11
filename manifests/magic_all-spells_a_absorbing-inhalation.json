@@ -1,0 +1,16 @@
+{
+  "file": "absorbing-inhalation.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/a/absorbing-inhalation/",
+  "source_name": "Spell: Absorbing Inhalation",
+  "sections": [
+    {
+      "id": "absorbing_inhalation",
+      "title": "Absorbing Inhalation",
+      "anchor_heading": "# Absorbing Inhalation",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Absorbing Inhalation, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

@@ -1,0 +1,16 @@
+{
+  "file": "transfer-tattoo.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/t/transfer-tattoo/",
+  "source_name": "Spell: Transfer Tattoo",
+  "sections": [
+    {
+      "id": "transfer_tattoo",
+      "title": "Transfer Tattoo",
+      "anchor_heading": "# Transfer Tattoo",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Transfer Tattoo, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

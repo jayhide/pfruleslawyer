@@ -1,0 +1,16 @@
+{
+  "file": "control-construct.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/c/control-construct/",
+  "source_name": "Spell: Control Construct",
+  "sections": [
+    {
+      "id": "control_construct",
+      "title": "Control Construct",
+      "anchor_heading": "# Control Construct",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Control Construct, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

@@ -1,0 +1,16 @@
+{
+  "file": "open-arms.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/o/open-arms/",
+  "source_name": "Spell: Open Arms",
+  "sections": [
+    {
+      "id": "open_arms",
+      "title": "Open Arms",
+      "anchor_heading": "# Open Arms",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Open Arms, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

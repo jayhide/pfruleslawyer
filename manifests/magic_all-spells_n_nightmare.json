@@ -1,0 +1,16 @@
+{
+  "file": "nightmare.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/n/nightmare/",
+  "source_name": "Spell: Nightmare",
+  "sections": [
+    {
+      "id": "nightmare",
+      "title": "Nightmare",
+      "anchor_heading": "# Nightmare",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Nightmare, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

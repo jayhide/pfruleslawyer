@@ -1,0 +1,16 @@
+{
+  "file": "brightest-night.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/b/brightest-night/",
+  "source_name": "Spell: Brightest Night",
+  "sections": [
+    {
+      "id": "brightest_night",
+      "title": "Brightest Night",
+      "anchor_heading": "# Brightest Night",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Brightest Night, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

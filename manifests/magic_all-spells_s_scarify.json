@@ -1,0 +1,16 @@
+{
+  "file": "scarify.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/s/scarify/",
+  "source_name": "Spell: Scarify",
+  "sections": [
+    {
+      "id": "scarify",
+      "title": "Scarify",
+      "anchor_heading": "# Scarify",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Scarify, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

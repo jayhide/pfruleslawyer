@@ -1,0 +1,16 @@
+{
+  "file": "earth-tremor.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/e/earth-tremor/",
+  "source_name": "Spell: Earth Tremor",
+  "sections": [
+    {
+      "id": "earth_tremor",
+      "title": "Earth Tremor",
+      "anchor_heading": "# Earth Tremor",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Earth Tremor, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

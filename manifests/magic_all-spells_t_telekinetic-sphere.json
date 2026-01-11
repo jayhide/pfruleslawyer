@@ -1,0 +1,16 @@
+{
+  "file": "telekinetic-sphere.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/t/telekinetic-sphere/",
+  "source_name": "Spell: Telekinetic Sphere",
+  "sections": [
+    {
+      "id": "telekinetic_sphere",
+      "title": "Telekinetic Sphere",
+      "anchor_heading": "# Telekinetic Sphere",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Telekinetic Sphere, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

@@ -1,0 +1,16 @@
+{
+  "file": "debilitating-pain.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/d/debilitating-pain/",
+  "source_name": "Spell: Debilitating Pain",
+  "sections": [
+    {
+      "id": "debilitating_pain",
+      "title": "Debilitating Pain",
+      "anchor_heading": "# Debilitating Pain",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Debilitating Pain, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

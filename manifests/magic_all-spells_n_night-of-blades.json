@@ -1,0 +1,16 @@
+{
+  "file": "night-of-blades.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/n/night-of-blades/",
+  "source_name": "Spell: Night of Blades",
+  "sections": [
+    {
+      "id": "night_of_blades",
+      "title": "Night of Blades",
+      "anchor_heading": "# Night of Blades",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Night of Blades, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

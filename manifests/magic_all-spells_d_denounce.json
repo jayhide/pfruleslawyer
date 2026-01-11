@@ -1,0 +1,16 @@
+{
+  "file": "denounce.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/d/denounce/",
+  "source_name": "Spell: Denounce",
+  "sections": [
+    {
+      "id": "denounce",
+      "title": "Denounce",
+      "anchor_heading": "# Denounce",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Denounce, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

@@ -1,0 +1,16 @@
+{
+  "file": "timely-inspiration.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/t/timely-inspiration/",
+  "source_name": "Spell: Timely Inspiration",
+  "sections": [
+    {
+      "id": "timely_inspiration",
+      "title": "Timely Inspiration",
+      "anchor_heading": "# Timely Inspiration",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Timely Inspiration, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

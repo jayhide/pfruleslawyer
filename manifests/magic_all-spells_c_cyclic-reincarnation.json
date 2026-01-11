@@ -1,0 +1,16 @@
+{
+  "file": "cyclic-reincarnation.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/c/cyclic-reincarnation/",
+  "source_name": "Spell: Cyclic Reincarnation",
+  "sections": [
+    {
+      "id": "cyclic_reincarnation",
+      "title": "Cyclic Reincarnation",
+      "anchor_heading": "# Cyclic Reincarnation",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Cyclic Reincarnation, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

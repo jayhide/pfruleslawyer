@@ -1,0 +1,16 @@
+{
+  "file": "moment-of-prescience.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/m/moment-of-prescience/",
+  "source_name": "Spell: Moment of Prescience",
+  "sections": [
+    {
+      "id": "moment_of_prescience",
+      "title": "Moment of Prescience",
+      "anchor_heading": "# Moment of Prescience",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Moment of Prescience, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

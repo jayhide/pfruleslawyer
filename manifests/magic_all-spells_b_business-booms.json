@@ -1,0 +1,16 @@
+{
+  "file": "business-booms.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/b/business-booms/",
+  "source_name": "Spell: Business Booms",
+  "sections": [
+    {
+      "id": "business_booms",
+      "title": "Business Booms",
+      "anchor_heading": "# Business Booms",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Business Booms, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

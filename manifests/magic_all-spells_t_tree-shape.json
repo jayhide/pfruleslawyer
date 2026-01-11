@@ -1,0 +1,16 @@
+{
+  "file": "tree-shape.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/t/tree-shape/",
+  "source_name": "Spell: Tree Shape",
+  "sections": [
+    {
+      "id": "tree_shape",
+      "title": "Tree Shape",
+      "anchor_heading": "# Tree Shape",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Tree Shape, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

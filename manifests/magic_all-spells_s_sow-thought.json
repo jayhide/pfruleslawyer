@@ -1,0 +1,16 @@
+{
+  "file": "sow-thought.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/s/sow-thought/",
+  "source_name": "Spell: Sow Thought",
+  "sections": [
+    {
+      "id": "sow_thought",
+      "title": "Sow Thought",
+      "anchor_heading": "# Sow Thought",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Sow Thought, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

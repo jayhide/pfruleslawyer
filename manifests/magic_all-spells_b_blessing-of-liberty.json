@@ -1,0 +1,16 @@
+{
+  "file": "blessing-of-liberty.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/b/blessing-of-liberty/",
+  "source_name": "Spell: Blessing of Liberty",
+  "sections": [
+    {
+      "id": "blessing_of_liberty",
+      "title": "Blessing of Liberty",
+      "anchor_heading": "# Blessing of Liberty",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Blessing of Liberty, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

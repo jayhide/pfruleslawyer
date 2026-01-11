@@ -1,0 +1,16 @@
+{
+  "file": "bow-spirit.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/b/bow-spirit/",
+  "source_name": "Spell: Bow Spirit",
+  "sections": [
+    {
+      "id": "bow_spirit",
+      "title": "Bow Spirit",
+      "anchor_heading": "# Bow Spirit",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Bow Spirit, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

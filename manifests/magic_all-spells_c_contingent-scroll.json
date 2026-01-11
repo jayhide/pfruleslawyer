@@ -1,0 +1,16 @@
+{
+  "file": "contingent-scroll.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/c/contingent-scroll/",
+  "source_name": "Spell: Contingent Scroll",
+  "sections": [
+    {
+      "id": "contingent_scroll",
+      "title": "Contingent Scroll",
+      "anchor_heading": "# Contingent Scroll",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Contingent Scroll, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

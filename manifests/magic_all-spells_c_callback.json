@@ -1,0 +1,16 @@
+{
+  "file": "callback.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/c/callback/",
+  "source_name": "Spell: Callback",
+  "sections": [
+    {
+      "id": "callback",
+      "title": "Callback",
+      "anchor_heading": "# Callback",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Callback, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

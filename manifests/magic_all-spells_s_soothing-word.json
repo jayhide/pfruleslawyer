@@ -1,0 +1,16 @@
+{
+  "file": "soothing-word.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/s/soothing-word/",
+  "source_name": "Spell: Soothing Word",
+  "sections": [
+    {
+      "id": "soothing_word",
+      "title": "Soothing Word",
+      "anchor_heading": "# Soothing Word",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Soothing Word, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

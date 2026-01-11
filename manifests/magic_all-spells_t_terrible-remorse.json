@@ -1,0 +1,16 @@
+{
+  "file": "terrible-remorse.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/t/terrible-remorse/",
+  "source_name": "Spell: Terrible Remorse",
+  "sections": [
+    {
+      "id": "terrible_remorse",
+      "title": "Terrible Remorse",
+      "anchor_heading": "# Terrible Remorse",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Terrible Remorse, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

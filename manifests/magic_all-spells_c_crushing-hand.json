@@ -1,0 +1,16 @@
+{
+  "file": "crushing-hand.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/c/crushing-hand/",
+  "source_name": "Spell: Crushing Hand",
+  "sections": [
+    {
+      "id": "crushing_hand",
+      "title": "Crushing Hand",
+      "anchor_heading": "# Crushing Hand",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Crushing Hand, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

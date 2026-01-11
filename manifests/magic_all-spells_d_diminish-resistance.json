@@ -1,0 +1,16 @@
+{
+  "file": "diminish-resistance.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/d/diminish-resistance/",
+  "source_name": "Spell: Diminish Resistance",
+  "sections": [
+    {
+      "id": "diminish_resistance",
+      "title": "Diminish Resistance",
+      "anchor_heading": "# Diminish Resistance",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Diminish Resistance, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

@@ -1,0 +1,16 @@
+{
+  "file": "major-image.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/m/major-image/",
+  "source_name": "Spell: Major Image",
+  "sections": [
+    {
+      "id": "major_image",
+      "title": "Major Image",
+      "anchor_heading": "# Major Image",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Major Image, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

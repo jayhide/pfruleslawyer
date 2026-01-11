@@ -1,0 +1,16 @@
+{
+  "file": "claim-identity.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/c/claim-identity/",
+  "source_name": "Spell: Claim Identity",
+  "sections": [
+    {
+      "id": "claim_identity",
+      "title": "Claim Identity",
+      "anchor_heading": "# Claim Identity",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Claim Identity, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

@@ -1,0 +1,16 @@
+{
+  "file": "arbitrament.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/a/arbitrament/",
+  "source_name": "Spell: Arbitrament",
+  "sections": [
+    {
+      "id": "arbitrament",
+      "title": "Arbitrament",
+      "anchor_heading": "# Arbitrament",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Arbitrament, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

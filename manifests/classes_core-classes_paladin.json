@@ -31,7 +31,7 @@
         "### Alternative Capstone Ability",
         "#### Crusader Champion (Su)"
       ],
-      "description": "Covers the Paladin class mechanics including class features like smite evil, lay on hands, divine grace, aura abilities, mercies, divine bond, spells, code of conduct, and ex-paladin rules.",
+      "description": "Rules for the Paladin class, including class features like smite evil, lay on hands, divine bond, aura abilities, code of conduct, and favored class bonuses.",
       "keywords": [
         "paladin",
         "smite evil",
@@ -52,11 +52,10 @@
         "code of conduct",
         "ex-paladin",
         "lawful good",
-        "celestial spirit",
-        "paladin mount",
-        "paladin spells",
-        "paladin archetypes"
+        "celestial mount",
+        "weapon bond"
       ]
     }
-  ]
+  ],
+  "category": "Classes"
 }

@@ -1,0 +1,16 @@
+{
+  "file": "spellsword.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/s/spellsword/",
+  "source_name": "Spell: Spellsword",
+  "sections": [
+    {
+      "id": "spellsword",
+      "title": "Spellsword",
+      "anchor_heading": "# Spellsword",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Spellsword, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

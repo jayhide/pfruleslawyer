@@ -1,0 +1,16 @@
+{
+  "file": "synapse-overload.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/s/synapse-overload/",
+  "source_name": "Spell: Synapse Overload",
+  "sections": [
+    {
+      "id": "synapse_overload",
+      "title": "Synapse Overload",
+      "anchor_heading": "# Synapse Overload",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Synapse Overload, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

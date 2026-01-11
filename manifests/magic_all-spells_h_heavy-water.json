@@ -1,0 +1,16 @@
+{
+  "file": "heavy-water.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/h/heavy-water/",
+  "source_name": "Spell: Heavy Water",
+  "sections": [
+    {
+      "id": "heavy_water",
+      "title": "Heavy Water",
+      "anchor_heading": "# Heavy Water",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Heavy Water, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

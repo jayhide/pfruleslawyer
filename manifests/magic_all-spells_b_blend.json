@@ -1,0 +1,16 @@
+{
+  "file": "blend.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/b/blend/",
+  "source_name": "Spell: Blend",
+  "sections": [
+    {
+      "id": "blend",
+      "title": "Blend",
+      "anchor_heading": "# Blend",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Blend, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

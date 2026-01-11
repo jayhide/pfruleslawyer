@@ -1,0 +1,16 @@
+{
+  "file": "threefold-face.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/t/threefold-face/",
+  "source_name": "Spell: Threefold Face",
+  "sections": [
+    {
+      "id": "threefold_face",
+      "title": "Threefold Face",
+      "anchor_heading": "# Threefold Face",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Threefold Face, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

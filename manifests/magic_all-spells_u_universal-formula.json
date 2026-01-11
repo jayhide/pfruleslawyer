@@ -1,0 +1,16 @@
+{
+  "file": "universal-formula.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/u/universal-formula/",
+  "source_name": "Spell: Universal Formula",
+  "sections": [
+    {
+      "id": "universal_formula",
+      "title": "Universal Formula",
+      "anchor_heading": "# Universal Formula",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Universal Formula, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

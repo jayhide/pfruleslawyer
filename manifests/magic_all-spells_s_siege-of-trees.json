@@ -1,0 +1,16 @@
+{
+  "file": "siege-of-trees.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/s/siege-of-trees/",
+  "source_name": "Spell: Siege of Trees",
+  "sections": [
+    {
+      "id": "siege_of_trees",
+      "title": "Siege of Trees",
+      "anchor_heading": "# Siege of Trees",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Siege of Trees, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

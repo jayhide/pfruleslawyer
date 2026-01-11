@@ -1,0 +1,16 @@
+{
+  "file": "word-of-chaos.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/w/word-of-chaos/",
+  "source_name": "Spell: Word of Chaos",
+  "sections": [
+    {
+      "id": "word_of_chaos",
+      "title": "Word of Chaos",
+      "anchor_heading": "# Word of Chaos",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Word of Chaos, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

@@ -1,0 +1,16 @@
+{
+  "file": "martial-telekinesis.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/m/martial-telekinesis/",
+  "source_name": "Spell: Martial Telekinesis",
+  "sections": [
+    {
+      "id": "martial_telekinesis",
+      "title": "Martial Telekinesis",
+      "anchor_heading": "# Martial Telekinesis",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Martial Telekinesis, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

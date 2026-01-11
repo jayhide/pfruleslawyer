@@ -1,0 +1,16 @@
+{
+  "file": "charnel-house.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/c/charnel-house/",
+  "source_name": "Spell: Charnel House",
+  "sections": [
+    {
+      "id": "charnel_house",
+      "title": "Charnel House",
+      "anchor_heading": "# Charnel House",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Charnel House, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

@@ -1,0 +1,16 @@
+{
+  "file": "curse-of-the-outcast.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/c/curse-of-the-outcast/",
+  "source_name": "Spell: Curse of the Outcast",
+  "sections": [
+    {
+      "id": "curse_of_the_outcast",
+      "title": "Curse of the Outcast",
+      "anchor_heading": "# Curse of the Outcast",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Curse of the Outcast, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

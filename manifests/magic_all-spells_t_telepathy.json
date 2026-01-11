@@ -1,0 +1,16 @@
+{
+  "file": "telepathy.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/t/telepathy/",
+  "source_name": "Spell: Telepathy",
+  "sections": [
+    {
+      "id": "telepathy",
+      "title": "Telepathy",
+      "anchor_heading": "# Telepathy",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Telepathy, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

@@ -1,0 +1,16 @@
+{
+  "file": "euphoric-cloud.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/e/euphoric-cloud/",
+  "source_name": "Spell: Euphoric Cloud",
+  "sections": [
+    {
+      "id": "euphoric_cloud",
+      "title": "Euphoric Cloud",
+      "anchor_heading": "# Euphoric Cloud",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Euphoric Cloud, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

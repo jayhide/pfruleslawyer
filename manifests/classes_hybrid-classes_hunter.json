@@ -9,12 +9,12 @@
       "anchor_heading": "# Hunter",
       "includes_subheadings": [
         "### Class Skills",
-        "### Class Features",
         "#### Weapon and Armor Proficiency",
         "#### Spell Casting",
         "#### Orisons",
         "#### Animal Companion (Ex)",
         "#### Animal Focus (Su)",
+        "##### Ward Aspects",
         "#### Nature Training (Ex)",
         "#### Wild Empathy (Ex)",
         "#### Precise Companion (Ex)",
@@ -32,32 +32,30 @@
         "#### One with the Wild (Ex)",
         "#### Master Hunter (Ex)",
         "### Alternative Capstone Ability",
-        "#### Huntmaster (Ex)",
-        "## Favored Class Bonuses",
-        "## Archetypes & Alternate Class Features"
+        "#### Huntmaster (Ex)"
       ],
-      "description": "Rules for the Hunter hybrid class, a nature warrior that fights alongside animal companions using teamwork tactics and animal focus abilities.",
+      "description": "Rules for the Hunter hybrid class, covering spellcasting, animal companion mechanics, animal focus abilities, teamwork feats, and all class features from 1st to 20th level.",
       "keywords": [
         "hunter",
-        "hunter class",
         "animal companion",
         "animal focus",
         "teamwork feat",
         "hunter tactics",
         "wild empathy",
         "nature training",
-        "track",
-        "woodland stride",
-        "empathic link",
-        "raise animal companion",
-        "master hunter",
         "precise companion",
+        "empathic link",
+        "woodland stride",
         "swift tracker",
-        "one with the wild",
-        "second animal focus",
+        "raise animal companion",
         "speak with master",
-        "huntmaster"
+        "master hunter",
+        "orisons",
+        "druid spells",
+        "ranger spells",
+        "summon nature's ally"
       ]
     }
-  ]
+  ],
+  "category": "Classes"
 }

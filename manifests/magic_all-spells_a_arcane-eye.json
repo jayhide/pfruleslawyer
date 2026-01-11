@@ -1,0 +1,16 @@
+{
+  "file": "arcane-eye.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/a/arcane-eye/",
+  "source_name": "Spell: Arcane Eye",
+  "sections": [
+    {
+      "id": "arcane_eye",
+      "title": "Arcane Eye",
+      "anchor_heading": "# Arcane Eye",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Arcane Eye, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

@@ -1,0 +1,16 @@
+{
+  "file": "grove-of-respite.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/g/grove-of-respite/",
+  "source_name": "Spell: Grove of Respite",
+  "sections": [
+    {
+      "id": "grove_of_respite",
+      "title": "Grove of Respite",
+      "anchor_heading": "# Grove of Respite",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Grove of Respite, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

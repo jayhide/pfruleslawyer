@@ -1,0 +1,16 @@
+{
+  "file": "tactical-formation.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/t/tactical-formation/",
+  "source_name": "Spell: Tactical Formation",
+  "sections": [
+    {
+      "id": "tactical_formation",
+      "title": "Tactical Formation",
+      "anchor_heading": "# Tactical Formation",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Tactical Formation, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

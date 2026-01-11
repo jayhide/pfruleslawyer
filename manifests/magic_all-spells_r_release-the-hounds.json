@@ -1,0 +1,16 @@
+{
+  "file": "release-the-hounds.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/r/release-the-hounds/",
+  "source_name": "Spell: Release The Hounds",
+  "sections": [
+    {
+      "id": "release_the_hounds",
+      "title": "Release The Hounds",
+      "anchor_heading": "# Release The Hounds",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Release The Hounds, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

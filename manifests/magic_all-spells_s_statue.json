@@ -1,0 +1,16 @@
+{
+  "file": "statue.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/s/statue/",
+  "source_name": "Spell: Statue",
+  "sections": [
+    {
+      "id": "statue",
+      "title": "Statue",
+      "anchor_heading": "# Statue",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Statue, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

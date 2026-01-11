@@ -1,0 +1,16 @@
+{
+  "file": "debilitating-portent.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/d/debilitating-portent/",
+  "source_name": "Spell: Debilitating Portent",
+  "sections": [
+    {
+      "id": "debilitating_portent",
+      "title": "Debilitating Portent",
+      "anchor_heading": "# Debilitating Portent",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Debilitating Portent, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

@@ -1,0 +1,16 @@
+{
+  "file": "create-undead.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/c/create-undead/",
+  "source_name": "Spell: Create Undead",
+  "sections": [
+    {
+      "id": "create_undead",
+      "title": "Create Undead",
+      "anchor_heading": "# Create Undead",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Create Undead, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

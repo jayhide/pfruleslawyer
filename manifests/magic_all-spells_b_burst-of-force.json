@@ -1,0 +1,16 @@
+{
+  "file": "burst-of-force.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/b/burst-of-force/",
+  "source_name": "Spell: Burst of Force",
+  "sections": [
+    {
+      "id": "burst_of_force",
+      "title": "Burst of Force",
+      "anchor_heading": "# Burst of Force",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Burst of Force, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

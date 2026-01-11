@@ -1,0 +1,16 @@
+{
+  "file": "iron-body.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/i/iron-body/",
+  "source_name": "Spell: Iron Body",
+  "sections": [
+    {
+      "id": "iron_body",
+      "title": "Iron Body",
+      "anchor_heading": "# Iron Body",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Iron Body, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

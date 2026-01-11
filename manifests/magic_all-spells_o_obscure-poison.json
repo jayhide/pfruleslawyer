@@ -1,0 +1,16 @@
+{
+  "file": "obscure-poison.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/o/obscure-poison/",
+  "source_name": "Spell: Obscure Poison",
+  "sections": [
+    {
+      "id": "obscure_poison",
+      "title": "Obscure Poison",
+      "anchor_heading": "# Obscure Poison",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Obscure Poison, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

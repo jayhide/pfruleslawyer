@@ -1,0 +1,16 @@
+{
+  "file": "tactical-acumen.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/t/tactical-acumen/",
+  "source_name": "Spell: Tactical Acumen",
+  "sections": [
+    {
+      "id": "tactical_acumen",
+      "title": "Tactical Acumen",
+      "anchor_heading": "# Tactical Acumen",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Tactical Acumen, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

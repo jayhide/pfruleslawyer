@@ -1,0 +1,16 @@
+{
+  "file": "reversion.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/r/reversion/",
+  "source_name": "Spell: Reversion",
+  "sections": [
+    {
+      "id": "reversion",
+      "title": "Reversion",
+      "anchor_heading": "# Reversion",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Reversion, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

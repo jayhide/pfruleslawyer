@@ -1,0 +1,16 @@
+{
+  "file": "perfect-placement.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/p/perfect-placement/",
+  "source_name": "Spell: Perfect Placement",
+  "sections": [
+    {
+      "id": "perfect_placement",
+      "title": "Perfect Placement",
+      "anchor_heading": "# Perfect Placement",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Perfect Placement, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

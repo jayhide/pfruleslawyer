@@ -1,0 +1,16 @@
+{
+  "file": "rope-tornado.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/r/rope-tornado/",
+  "source_name": "Spell: Rope Tornado",
+  "sections": [
+    {
+      "id": "rope_tornado",
+      "title": "Rope Tornado",
+      "anchor_heading": "# Rope Tornado",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Rope Tornado, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

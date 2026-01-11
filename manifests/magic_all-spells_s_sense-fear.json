@@ -1,0 +1,16 @@
+{
+  "file": "sense-fear.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/s/sense-fear/",
+  "source_name": "Spell: Sense Fear",
+  "sections": [
+    {
+      "id": "sense_fear",
+      "title": "Sense Fear",
+      "anchor_heading": "# Sense Fear",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Sense Fear, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

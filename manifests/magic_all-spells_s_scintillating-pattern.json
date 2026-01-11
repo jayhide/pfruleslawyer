@@ -1,0 +1,16 @@
+{
+  "file": "scintillating-pattern.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/s/scintillating-pattern/",
+  "source_name": "Spell: Scintillating Pattern",
+  "sections": [
+    {
+      "id": "scintillating_pattern",
+      "title": "Scintillating Pattern",
+      "anchor_heading": "# Scintillating Pattern",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Scintillating Pattern, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

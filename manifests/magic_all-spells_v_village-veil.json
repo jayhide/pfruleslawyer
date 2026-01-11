@@ -1,0 +1,16 @@
+{
+  "file": "village-veil.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/v/village-veil/",
+  "source_name": "Spell: Village Veil",
+  "sections": [
+    {
+      "id": "village_veil",
+      "title": "Village Veil",
+      "anchor_heading": "# Village Veil",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Village Veil, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

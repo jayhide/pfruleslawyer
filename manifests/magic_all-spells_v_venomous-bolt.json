@@ -1,0 +1,16 @@
+{
+  "file": "venomous-bolt.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/v/venomous-bolt/",
+  "source_name": "Spell: Venomous Bolt",
+  "sections": [
+    {
+      "id": "venomous_bolt",
+      "title": "Venomous Bolt",
+      "anchor_heading": "# Venomous Bolt",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Venomous Bolt, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

@@ -1,0 +1,16 @@
+{
+  "file": "restore-eidolon.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/r/restore-eidolon/",
+  "source_name": "Spell: Restore Eidolon",
+  "sections": [
+    {
+      "id": "restore_eidolon",
+      "title": "Restore Eidolon",
+      "anchor_heading": "# Restore Eidolon",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Restore Eidolon, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

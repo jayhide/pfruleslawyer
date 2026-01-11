@@ -1,0 +1,16 @@
+{
+  "file": "regenerate.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/r/regenerate/",
+  "source_name": "Spell: Regenerate",
+  "sections": [
+    {
+      "id": "regenerate",
+      "title": "Regenerate",
+      "anchor_heading": "# Regenerate",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Regenerate, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

@@ -1,0 +1,16 @@
+{
+  "file": "insect-spies.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/i/insect-spies/",
+  "source_name": "Spell: Insect Spies",
+  "sections": [
+    {
+      "id": "insect_spies",
+      "title": "Insect Spies",
+      "anchor_heading": "# Insect Spies",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Insect Spies, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

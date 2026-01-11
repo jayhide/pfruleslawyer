@@ -1,0 +1,16 @@
+{
+  "file": "unliving-rage.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/u/unliving-rage/",
+  "source_name": "Spell: Unliving Rage",
+  "sections": [
+    {
+      "id": "unliving_rage",
+      "title": "Unliving Rage",
+      "anchor_heading": "# Unliving Rage",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Unliving Rage, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

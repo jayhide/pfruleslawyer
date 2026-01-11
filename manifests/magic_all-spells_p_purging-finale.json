@@ -1,0 +1,16 @@
+{
+  "file": "purging-finale.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/p/purging-finale/",
+  "source_name": "Spell: Purging Finale",
+  "sections": [
+    {
+      "id": "purging_finale",
+      "title": "Purging Finale",
+      "anchor_heading": "# Purging Finale",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Purging Finale, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

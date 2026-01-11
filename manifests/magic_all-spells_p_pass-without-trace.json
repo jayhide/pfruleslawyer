@@ -1,0 +1,16 @@
+{
+  "file": "pass-without-trace.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/p/pass-without-trace/",
+  "source_name": "Spell: Pass without Trace",
+  "sections": [
+    {
+      "id": "pass_without_trace",
+      "title": "Pass without Trace",
+      "anchor_heading": "# Pass without Trace",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Pass without Trace, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

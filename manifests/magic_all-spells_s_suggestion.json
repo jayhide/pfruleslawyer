@@ -1,0 +1,16 @@
+{
+  "file": "suggestion.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/s/suggestion/",
+  "source_name": "Spell: Suggestion",
+  "sections": [
+    {
+      "id": "suggestion",
+      "title": "Suggestion",
+      "anchor_heading": "# Suggestion",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Suggestion, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

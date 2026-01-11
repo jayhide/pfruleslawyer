@@ -1,0 +1,16 @@
+{
+  "file": "free-swim.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/f/free-swim/",
+  "source_name": "Spell: Free Swim",
+  "sections": [
+    {
+      "id": "free_swim",
+      "title": "Free Swim",
+      "anchor_heading": "# Free Swim",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Free Swim, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

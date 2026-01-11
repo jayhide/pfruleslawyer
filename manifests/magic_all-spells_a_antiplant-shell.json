@@ -1,0 +1,16 @@
+{
+  "file": "antiplant-shell.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/a/antiplant-shell/",
+  "source_name": "Spell: Antiplant Shell",
+  "sections": [
+    {
+      "id": "antiplant_shell",
+      "title": "Antiplant Shell",
+      "anchor_heading": "# Antiplant Shell",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Antiplant Shell, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

@@ -1,0 +1,16 @@
+{
+  "file": "steal-breath.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/s/steal-breath/",
+  "source_name": "Spell: Steal Breath",
+  "sections": [
+    {
+      "id": "steal_breath",
+      "title": "Steal Breath",
+      "anchor_heading": "# Steal Breath",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Steal Breath, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

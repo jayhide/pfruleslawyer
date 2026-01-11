@@ -1,0 +1,16 @@
+{
+  "file": "lose-the-trail.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/l/lose-the-trail/",
+  "source_name": "Spell: Lose the Trail",
+  "sections": [
+    {
+      "id": "lose_the_trail",
+      "title": "Lose the Trail",
+      "anchor_heading": "# Lose the Trail",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Lose the Trail, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

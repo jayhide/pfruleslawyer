@@ -1,0 +1,16 @@
+{
+  "file": "glitterdust.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/g/glitterdust/",
+  "source_name": "Spell: Glitterdust",
+  "sections": [
+    {
+      "id": "glitterdust",
+      "title": "Glitterdust",
+      "anchor_heading": "# Glitterdust",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Glitterdust, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

@@ -1,0 +1,16 @@
+{
+  "file": "blood-sentinel.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/b/blood-sentinel/",
+  "source_name": "Spell: Blood Sentinel",
+  "sections": [
+    {
+      "id": "blood_sentinel",
+      "title": "Blood Sentinel",
+      "anchor_heading": "# Blood Sentinel",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Blood Sentinel, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

@@ -1,0 +1,16 @@
+{
+  "file": "sleepwalk.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/s/sleepwalk/",
+  "source_name": "Spell: Sleepwalk",
+  "sections": [
+    {
+      "id": "sleepwalk",
+      "title": "Sleepwalk",
+      "anchor_heading": "# Sleepwalk",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Sleepwalk, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

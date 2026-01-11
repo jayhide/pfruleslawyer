@@ -1,0 +1,16 @@
+{
+  "file": "cultural-adaptation.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/c/cultural-adaptation/",
+  "source_name": "Spell: Cultural Adaptation",
+  "sections": [
+    {
+      "id": "cultural_adaptation",
+      "title": "Cultural Adaptation",
+      "anchor_heading": "# Cultural Adaptation",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Cultural Adaptation, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

@@ -1,0 +1,16 @@
+{
+  "file": "astral-projection.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/a/astral-projection/",
+  "source_name": "Spell: Astral Projection",
+  "sections": [
+    {
+      "id": "astral_projection",
+      "title": "Astral Projection",
+      "anchor_heading": "# Astral Projection",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Astral Projection, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

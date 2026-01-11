@@ -1,0 +1,16 @@
+{
+  "file": "frostbite.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/f/frostbite/",
+  "source_name": "Spell: Frostbite",
+  "sections": [
+    {
+      "id": "frostbite",
+      "title": "Frostbite",
+      "anchor_heading": "# Frostbite",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Frostbite, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

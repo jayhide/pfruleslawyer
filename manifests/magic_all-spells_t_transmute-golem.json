@@ -1,0 +1,16 @@
+{
+  "file": "transmute-golem.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/t/transmute-golem/",
+  "source_name": "Spell: Transmute Golem",
+  "sections": [
+    {
+      "id": "transmute_golem",
+      "title": "Transmute Golem",
+      "anchor_heading": "# Transmute Golem",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Transmute Golem, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

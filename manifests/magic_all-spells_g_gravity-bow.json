@@ -1,0 +1,16 @@
+{
+  "file": "gravity-bow.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/g/gravity-bow/",
+  "source_name": "Spell: Gravity Bow",
+  "sections": [
+    {
+      "id": "gravity_bow",
+      "title": "Gravity Bow",
+      "anchor_heading": "# Gravity Bow",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Gravity Bow, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

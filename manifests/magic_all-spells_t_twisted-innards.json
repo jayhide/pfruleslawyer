@@ -1,0 +1,16 @@
+{
+  "file": "twisted-innards.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/t/twisted-innards/",
+  "source_name": "Spell: Twisted Innards",
+  "sections": [
+    {
+      "id": "twisted_innards",
+      "title": "Twisted Innards",
+      "anchor_heading": "# Twisted Innards",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Twisted Innards, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

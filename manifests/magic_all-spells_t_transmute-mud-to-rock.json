@@ -1,0 +1,16 @@
+{
+  "file": "transmute-mud-to-rock.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/t/transmute-mud-to-rock/",
+  "source_name": "Spell: Transmute Mud to Rock",
+  "sections": [
+    {
+      "id": "transmute_mud_to_rock",
+      "title": "Transmute Mud to Rock",
+      "anchor_heading": "# Transmute Mud to Rock",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Transmute Mud to Rock, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

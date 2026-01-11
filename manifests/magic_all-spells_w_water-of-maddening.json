@@ -1,0 +1,16 @@
+{
+  "file": "water-of-maddening.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/w/water-of-maddening/",
+  "source_name": "Spell: Water of Maddening",
+  "sections": [
+    {
+      "id": "water_of_maddening",
+      "title": "Water of Maddening",
+      "anchor_heading": "# Water of Maddening",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Water of Maddening, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

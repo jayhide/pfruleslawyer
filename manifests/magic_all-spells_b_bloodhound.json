@@ -1,0 +1,16 @@
+{
+  "file": "bloodhound.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/b/bloodhound/",
+  "source_name": "Spell: Bloodhound",
+  "sections": [
+    {
+      "id": "bloodhound",
+      "title": "Bloodhound",
+      "anchor_heading": "# Bloodhound",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Bloodhound, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

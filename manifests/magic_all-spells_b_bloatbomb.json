@@ -1,0 +1,16 @@
+{
+  "file": "bloatbomb.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/b/bloatbomb/",
+  "source_name": "Spell: Bloatbomb",
+  "sections": [
+    {
+      "id": "bloatbomb",
+      "title": "Bloatbomb",
+      "anchor_heading": "# Bloatbomb",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Bloatbomb, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

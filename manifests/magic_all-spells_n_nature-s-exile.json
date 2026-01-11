@@ -1,0 +1,16 @@
+{
+  "file": "nature-s-exile.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/n/nature-s-exile/",
+  "source_name": "Spell: Nature\u2019s Exile",
+  "sections": [
+    {
+      "id": "nature_s_exile",
+      "title": "Nature\u2019s Exile",
+      "anchor_heading": "# Nature\u2019s Exile",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Nature\u2019s Exile, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

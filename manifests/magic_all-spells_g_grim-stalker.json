@@ -1,0 +1,16 @@
+{
+  "file": "grim-stalker.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/g/grim-stalker/",
+  "source_name": "Spell: Grim Stalker",
+  "sections": [
+    {
+      "id": "grim_stalker",
+      "title": "Grim Stalker",
+      "anchor_heading": "# Grim Stalker",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Grim Stalker, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

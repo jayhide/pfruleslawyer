@@ -1,0 +1,16 @@
+{
+  "file": "cloudkill.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/c/cloudkill/",
+  "source_name": "Spell: Cloudkill",
+  "sections": [
+    {
+      "id": "cloudkill",
+      "title": "Cloudkill",
+      "anchor_heading": "# Cloudkill",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Cloudkill, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

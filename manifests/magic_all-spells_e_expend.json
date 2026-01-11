@@ -1,0 +1,16 @@
+{
+  "file": "expend.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/e/expend/",
+  "source_name": "Spell: Expend",
+  "sections": [
+    {
+      "id": "expend",
+      "title": "Expend",
+      "anchor_heading": "# Expend",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Expend, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

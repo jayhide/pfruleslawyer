@@ -1,0 +1,16 @@
+{
+  "file": "persuasive-goad.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/p/persuasive-goad/",
+  "source_name": "Spell: Persuasive Goad",
+  "sections": [
+    {
+      "id": "persuasive_goad",
+      "title": "Persuasive Goad",
+      "anchor_heading": "# Persuasive Goad",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Persuasive Goad, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

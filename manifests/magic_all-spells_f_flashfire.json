@@ -1,0 +1,16 @@
+{
+  "file": "flashfire.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/f/flashfire/",
+  "source_name": "Spell: Flashfire",
+  "sections": [
+    {
+      "id": "flashfire",
+      "title": "Flashfire",
+      "anchor_heading": "# Flashfire",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Flashfire, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

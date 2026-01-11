@@ -1,0 +1,16 @@
+{
+  "file": "squeeze.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/s/squeeze/",
+  "source_name": "Spell: Squeeze",
+  "sections": [
+    {
+      "id": "squeeze",
+      "title": "Squeeze",
+      "anchor_heading": "# Squeeze",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Squeeze, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

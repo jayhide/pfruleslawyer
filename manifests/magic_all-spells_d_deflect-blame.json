@@ -1,0 +1,16 @@
+{
+  "file": "deflect-blame.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/d/deflect-blame/",
+  "source_name": "Spell: Deflect Blame",
+  "sections": [
+    {
+      "id": "deflect_blame",
+      "title": "Deflect Blame",
+      "anchor_heading": "# Deflect Blame",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Deflect Blame, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

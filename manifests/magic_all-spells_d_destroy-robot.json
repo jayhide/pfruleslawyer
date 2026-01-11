@@ -1,0 +1,16 @@
+{
+  "file": "destroy-robot.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/d/destroy-robot/",
+  "source_name": "Spell: Destroy Robot",
+  "sections": [
+    {
+      "id": "destroy_robot",
+      "title": "Destroy Robot",
+      "anchor_heading": "# Destroy Robot",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Destroy Robot, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

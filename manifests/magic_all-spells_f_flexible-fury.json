@@ -1,0 +1,16 @@
+{
+  "file": "flexible-fury.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/f/flexible-fury/",
+  "source_name": "Spell: Flexible Fury",
+  "sections": [
+    {
+      "id": "flexible_fury",
+      "title": "Flexible Fury",
+      "anchor_heading": "# Flexible Fury",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Flexible Fury, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

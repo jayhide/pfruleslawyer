@@ -1,0 +1,16 @@
+{
+  "file": "warp-metal.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/w/warp-metal/",
+  "source_name": "Spell: Warp Metal",
+  "sections": [
+    {
+      "id": "warp_metal",
+      "title": "Warp Metal",
+      "anchor_heading": "# Warp Metal",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Warp Metal, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

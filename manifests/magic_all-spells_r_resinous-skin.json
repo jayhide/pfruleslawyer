@@ -1,0 +1,16 @@
+{
+  "file": "resinous-skin.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/r/resinous-skin/",
+  "source_name": "Spell: Resinous Skin",
+  "sections": [
+    {
+      "id": "resinous_skin",
+      "title": "Resinous Skin",
+      "anchor_heading": "# Resinous Skin",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Resinous Skin, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

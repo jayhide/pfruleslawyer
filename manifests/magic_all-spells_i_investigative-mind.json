@@ -1,0 +1,16 @@
+{
+  "file": "investigative-mind.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/i/investigative-mind/",
+  "source_name": "Spell: Investigative Mind",
+  "sections": [
+    {
+      "id": "investigative_mind",
+      "title": "Investigative Mind",
+      "anchor_heading": "# Investigative Mind",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Investigative Mind, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

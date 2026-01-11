@@ -1,0 +1,16 @@
+{
+  "file": "whispering-wind.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/w/whispering-wind/",
+  "source_name": "Spell: Whispering Wind",
+  "sections": [
+    {
+      "id": "whispering_wind",
+      "title": "Whispering Wind",
+      "anchor_heading": "# Whispering Wind",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Whispering Wind, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

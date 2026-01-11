@@ -1,0 +1,16 @@
+{
+  "file": "abjuring-step.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/a/abjuring-step/",
+  "source_name": "Spell: Abjuring Step",
+  "sections": [
+    {
+      "id": "abjuring_step",
+      "title": "Abjuring Step",
+      "anchor_heading": "# Abjuring Step",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Abjuring Step, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

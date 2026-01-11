@@ -1,0 +1,16 @@
+{
+  "file": "raging-rubble.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/r/raging-rubble/",
+  "source_name": "Spell: Raging Rubble",
+  "sections": [
+    {
+      "id": "raging_rubble",
+      "title": "Raging Rubble",
+      "anchor_heading": "# Raging Rubble",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Raging Rubble, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

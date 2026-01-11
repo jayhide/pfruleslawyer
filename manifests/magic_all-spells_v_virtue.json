@@ -1,0 +1,16 @@
+{
+  "file": "virtue.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/v/virtue/",
+  "source_name": "Spell: Virtue",
+  "sections": [
+    {
+      "id": "virtue",
+      "title": "Virtue",
+      "anchor_heading": "# Virtue",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Virtue, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

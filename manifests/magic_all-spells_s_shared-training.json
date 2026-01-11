@@ -1,0 +1,16 @@
+{
+  "file": "shared-training.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/s/shared-training/",
+  "source_name": "Spell: Shared Training",
+  "sections": [
+    {
+      "id": "shared_training",
+      "title": "Shared Training",
+      "anchor_heading": "# Shared Training",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Shared Training, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

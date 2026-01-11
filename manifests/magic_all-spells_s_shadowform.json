@@ -1,0 +1,16 @@
+{
+  "file": "shadowform.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/s/shadowform/",
+  "source_name": "Spell: Shadowform",
+  "sections": [
+    {
+      "id": "shadowform",
+      "title": "Shadowform",
+      "anchor_heading": "# Shadowform",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Shadowform, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

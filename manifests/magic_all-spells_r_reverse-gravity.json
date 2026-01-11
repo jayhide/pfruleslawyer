@@ -1,0 +1,16 @@
+{
+  "file": "reverse-gravity.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/r/reverse-gravity/",
+  "source_name": "Spell: Reverse Gravity",
+  "sections": [
+    {
+      "id": "reverse_gravity",
+      "title": "Reverse Gravity",
+      "anchor_heading": "# Reverse Gravity",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Reverse Gravity, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

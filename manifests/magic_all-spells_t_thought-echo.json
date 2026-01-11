@@ -1,0 +1,16 @@
+{
+  "file": "thought-echo.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/t/thought-echo/",
+  "source_name": "Spell: Thought Echo",
+  "sections": [
+    {
+      "id": "thought_echo",
+      "title": "Thought Echo",
+      "anchor_heading": "# Thought Echo",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Thought Echo, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

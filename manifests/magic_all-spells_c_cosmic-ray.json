@@ -1,0 +1,16 @@
+{
+  "file": "cosmic-ray.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/c/cosmic-ray/",
+  "source_name": "Spell: Cosmic Ray",
+  "sections": [
+    {
+      "id": "cosmic_ray",
+      "title": "Cosmic Ray",
+      "anchor_heading": "# Cosmic Ray",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Cosmic Ray, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

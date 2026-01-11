@@ -20,21 +20,24 @@
         "#### Magical Supremacy (Su)",
         "#### Deep Reservoir (Su)"
       ],
-      "description": "Complete class description for the Arcanist hybrid class, covering spellcasting mechanics, arcane reservoir, arcanist exploits, and all class features from levels 1-20.",
+      "description": "Complete rules for the Arcanist hybrid class, including spellcasting mechanics, arcane reservoir, arcanist exploits, and class progression from levels 1-20.",
       "keywords": [
         "arcanist",
         "arcane reservoir",
         "arcanist exploits",
-        "consume spells",
         "greater exploits",
+        "consume spells",
         "magical supremacy",
         "spellbooks",
         "cantrips",
         "hybrid class",
-        "sorcerer wizard spells",
+        "sorcerer wizard spell list",
         "metamagic",
+        "spell preparation",
+        "arcane spells and armor",
         "deep reservoir"
       ]
     }
-  ]
+  ],
+  "category": "Classes"
 }

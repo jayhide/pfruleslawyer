@@ -1,0 +1,16 @@
+{
+  "file": "defile-armor.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/d/defile-armor/",
+  "source_name": "Spell: Defile Armor",
+  "sections": [
+    {
+      "id": "defile_armor",
+      "title": "Defile Armor",
+      "anchor_heading": "# Defile Armor",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Defile Armor, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

@@ -1,0 +1,16 @@
+{
+  "file": "heckle.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/h/heckle/",
+  "source_name": "Spell: Heckle",
+  "sections": [
+    {
+      "id": "heckle",
+      "title": "Heckle",
+      "anchor_heading": "# Heckle",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Heckle, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

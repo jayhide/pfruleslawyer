@@ -1,0 +1,16 @@
+{
+  "file": "thunderstomp.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/t/thunderstomp/",
+  "source_name": "Spell: Thunderstomp",
+  "sections": [
+    {
+      "id": "thunderstomp",
+      "title": "Thunderstomp",
+      "anchor_heading": "# Thunderstomp",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Thunderstomp, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

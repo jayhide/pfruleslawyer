@@ -1,0 +1,16 @@
+{
+  "file": "enhance-water.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/e/enhance-water/",
+  "source_name": "Spell: Enhance Water",
+  "sections": [
+    {
+      "id": "enhance_water",
+      "title": "Enhance Water",
+      "anchor_heading": "# Enhance Water",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Enhance Water, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

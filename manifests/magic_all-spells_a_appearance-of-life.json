@@ -1,0 +1,16 @@
+{
+  "file": "appearance-of-life.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/a/appearance-of-life/",
+  "source_name": "Spell: Appearance of Life",
+  "sections": [
+    {
+      "id": "appearance_of_life",
+      "title": "Appearance of Life",
+      "anchor_heading": "# Appearance of Life",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Appearance of Life, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

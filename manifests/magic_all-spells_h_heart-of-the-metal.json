@@ -1,0 +1,16 @@
+{
+  "file": "heart-of-the-metal.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/h/heart-of-the-metal/",
+  "source_name": "Spell: Heart of The Metal",
+  "sections": [
+    {
+      "id": "heart_of_the_metal",
+      "title": "Heart of The Metal",
+      "anchor_heading": "# Heart of The Metal",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Heart of The Metal, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

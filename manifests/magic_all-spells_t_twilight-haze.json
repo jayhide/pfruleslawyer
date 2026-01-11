@@ -1,0 +1,16 @@
+{
+  "file": "twilight-haze.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/t/twilight-haze/",
+  "source_name": "Spell: Twilight Haze",
+  "sections": [
+    {
+      "id": "twilight_haze",
+      "title": "Twilight Haze",
+      "anchor_heading": "# Twilight Haze",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Twilight Haze, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

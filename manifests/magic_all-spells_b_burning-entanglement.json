@@ -1,0 +1,16 @@
+{
+  "file": "burning-entanglement.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/b/burning-entanglement/",
+  "source_name": "Spell: Burning Entanglement",
+  "sections": [
+    {
+      "id": "burning_entanglement",
+      "title": "Burning Entanglement",
+      "anchor_heading": "# Burning Entanglement",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Burning Entanglement, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

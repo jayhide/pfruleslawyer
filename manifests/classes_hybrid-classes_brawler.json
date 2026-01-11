@@ -28,39 +28,25 @@
         "#### Perfect Warrior (Ex)",
         "### All Archetypes"
       ],
-      "description": "Rules for the Brawler hybrid class, covering unarmed combat abilities, martial flexibility, class features, and various archetypes for versatile melee combatants.",
+      "description": "Complete rules for the Brawler hybrid class, covering unarmed combat specialists who combine martial flexibility with devastating strikes and combat maneuvers.",
       "keywords": [
         "brawler",
+        "brawler class",
         "martial flexibility",
-        "brawler's flurry",
         "unarmed strike",
+        "brawler's flurry",
         "maneuver training",
         "brawler's cunning",
-        "knockout",
-        "brawler's strike",
+        "martial training",
         "close weapon mastery",
+        "brawler's strike",
+        "knockout",
         "awesome blow",
-        "improved awesome blow",
         "AC bonus",
         "hybrid class",
-        "beast-wrestler",
-        "bouncer",
-        "constructed pugilist",
-        "exemplar",
-        "feral striker",
-        "living avalanche",
-        "mutagenic mauler",
-        "shield champion",
-        "snakebite striker",
-        "steel-breaker",
-        "strangler",
-        "turfer",
-        "venomfist",
-        "verdant grappler",
-        "wild child",
-        "winding path renegade",
-        "perfect warrior"
+        "bonus combat feats"
       ]
     }
-  ]
+  ],
+  "category": "Classes"
 }

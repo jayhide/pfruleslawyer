@@ -28,29 +28,30 @@
         "### Alternative Capstone Ability",
         "#### Great Kenning (Su)"
       ],
-      "description": "Complete class rules for the Skald, a hybrid barbarian/bard class that uses raging songs to inspire allies into frenzied combat while providing spellcasting and bardic knowledge.",
+      "description": "Describes the Skald hybrid class, a poet-warrior who uses raging songs to inspire allies into frenzied combat while balancing magical abilities with melee prowess.",
       "keywords": [
         "skald",
         "raging song",
         "inspired rage",
-        "spell kenning",
         "bardic knowledge",
+        "spell kenning",
         "rage powers",
+        "versatile performance",
+        "well-versed",
+        "lore master",
         "song of marching",
         "song of strength",
         "dirge of doom",
         "song of the fallen",
-        "versatile performance",
-        "well-versed",
-        "lore master",
         "master skald",
         "uncanny dodge",
         "damage reduction",
-        "sagas",
-        "skald spells",
         "cantrips",
-        "scribe scroll"
+        "scribe scroll",
+        "sagas",
+        "great kenning"
       ]
     }
-  ]
+  ],
+  "category": "Classes"
 }

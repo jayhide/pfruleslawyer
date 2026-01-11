@@ -1,0 +1,16 @@
+{
+  "file": "slough.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/s/slough/",
+  "source_name": "Spell: Slough",
+  "sections": [
+    {
+      "id": "slough",
+      "title": "Slough",
+      "anchor_heading": "# Slough",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Slough, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

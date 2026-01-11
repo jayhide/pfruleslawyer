@@ -1,0 +1,16 @@
+{
+  "file": "gird-ally.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/g/gird-ally/",
+  "source_name": "Spell: Gird Ally",
+  "sections": [
+    {
+      "id": "gird_ally",
+      "title": "Gird Ally",
+      "anchor_heading": "# Gird Ally",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Gird Ally, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

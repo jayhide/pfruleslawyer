@@ -1,0 +1,16 @@
+{
+  "file": "fey-form.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/f/fey-form/",
+  "source_name": "Spell: Fey Form",
+  "sections": [
+    {
+      "id": "fey_form",
+      "title": "Fey Form",
+      "anchor_heading": "# Fey Form",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Fey Form, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

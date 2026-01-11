@@ -1,0 +1,16 @@
+{
+  "file": "stone-to-flesh.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/s/stone-to-flesh/",
+  "source_name": "Spell: Stone to Flesh",
+  "sections": [
+    {
+      "id": "stone_to_flesh",
+      "title": "Stone to Flesh",
+      "anchor_heading": "# Stone to Flesh",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Stone to Flesh, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

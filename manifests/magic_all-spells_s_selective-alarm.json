@@ -1,0 +1,16 @@
+{
+  "file": "selective-alarm.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/s/selective-alarm/",
+  "source_name": "Spell: Selective Alarm",
+  "sections": [
+    {
+      "id": "selective_alarm",
+      "title": "Selective Alarm",
+      "anchor_heading": "# Selective Alarm",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Selective Alarm, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

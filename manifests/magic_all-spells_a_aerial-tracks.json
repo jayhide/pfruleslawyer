@@ -1,0 +1,16 @@
+{
+  "file": "aerial-tracks.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/a/aerial-tracks/",
+  "source_name": "Spell: Aerial Tracks",
+  "sections": [
+    {
+      "id": "aerial_tracks",
+      "title": "Aerial Tracks",
+      "anchor_heading": "# Aerial Tracks",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Aerial Tracks, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

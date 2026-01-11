@@ -1,0 +1,16 @@
+{
+  "file": "sure-casting.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/s/sure-casting/",
+  "source_name": "Spell: Sure Casting",
+  "sections": [
+    {
+      "id": "sure_casting",
+      "title": "Sure Casting",
+      "anchor_heading": "# Sure Casting",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Sure Casting, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

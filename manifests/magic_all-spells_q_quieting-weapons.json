@@ -1,0 +1,16 @@
+{
+  "file": "quieting-weapons.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/q/quieting-weapons/",
+  "source_name": "Spell: Quieting Weapons",
+  "sections": [
+    {
+      "id": "quieting_weapons",
+      "title": "Quieting Weapons",
+      "anchor_heading": "# Quieting Weapons",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Quieting Weapons, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

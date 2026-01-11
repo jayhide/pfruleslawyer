@@ -1,0 +1,16 @@
+{
+  "file": "control-summoned-creature.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/c/control-summoned-creature/",
+  "source_name": "Spell: Control Summoned Creature",
+  "sections": [
+    {
+      "id": "control_summoned_creature",
+      "title": "Control Summoned Creature",
+      "anchor_heading": "# Control Summoned Creature",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Control Summoned Creature, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

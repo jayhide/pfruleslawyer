@@ -1,0 +1,16 @@
+{
+  "file": "defoliate.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/d/defoliate/",
+  "source_name": "Spell: Defoliate",
+  "sections": [
+    {
+      "id": "defoliate",
+      "title": "Defoliate",
+      "anchor_heading": "# Defoliate",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Defoliate, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

@@ -1,0 +1,16 @@
+{
+  "file": "reduce-person.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/r/reduce-person/",
+  "source_name": "Spell: Reduce Person",
+  "sections": [
+    {
+      "id": "reduce_person",
+      "title": "Reduce Person",
+      "anchor_heading": "# Reduce Person",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Reduce Person, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

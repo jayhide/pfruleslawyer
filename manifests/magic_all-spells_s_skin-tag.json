@@ -1,0 +1,16 @@
+{
+  "file": "skin-tag.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/s/skin-tag/",
+  "source_name": "Spell: Skin Tag",
+  "sections": [
+    {
+      "id": "skin_tag",
+      "title": "Skin Tag",
+      "anchor_heading": "# Skin Tag",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Skin Tag, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

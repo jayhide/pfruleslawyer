@@ -1,0 +1,16 @@
+{
+  "file": "honeyed-tongue.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/h/honeyed-tongue/",
+  "source_name": "Spell: Honeyed Tongue",
+  "sections": [
+    {
+      "id": "honeyed_tongue",
+      "title": "Honeyed Tongue",
+      "anchor_heading": "# Honeyed Tongue",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Honeyed Tongue, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

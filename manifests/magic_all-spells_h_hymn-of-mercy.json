@@ -1,0 +1,16 @@
+{
+  "file": "hymn-of-mercy.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/h/hymn-of-mercy/",
+  "source_name": "Spell: Hymn of Mercy",
+  "sections": [
+    {
+      "id": "hymn_of_mercy",
+      "title": "Hymn of Mercy",
+      "anchor_heading": "# Hymn of Mercy",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Hymn of Mercy, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

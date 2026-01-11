@@ -1,0 +1,16 @@
+{
+  "file": "shield-of-wings.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/s/shield-of-wings/",
+  "source_name": "Spell: Shield of Wings",
+  "sections": [
+    {
+      "id": "shield_of_wings",
+      "title": "Shield of Wings",
+      "anchor_heading": "# Shield of Wings",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Shield of Wings, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

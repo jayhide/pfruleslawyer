@@ -1,0 +1,16 @@
+{
+  "file": "cure-critical-wounds.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/c/cure-critical-wounds/",
+  "source_name": "Spell: Cure Critical Wounds",
+  "sections": [
+    {
+      "id": "cure_critical_wounds",
+      "title": "Cure Critical Wounds",
+      "anchor_heading": "# Cure Critical Wounds",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Cure Critical Wounds, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

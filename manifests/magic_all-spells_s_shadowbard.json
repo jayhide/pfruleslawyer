@@ -1,0 +1,16 @@
+{
+  "file": "shadowbard.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/s/shadowbard/",
+  "source_name": "Spell: Shadowbard",
+  "sections": [
+    {
+      "id": "shadowbard",
+      "title": "Shadowbard",
+      "anchor_heading": "# Shadowbard",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Shadowbard, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

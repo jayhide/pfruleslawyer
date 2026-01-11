@@ -1,0 +1,16 @@
+{
+  "file": "ash-storm.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/a/ash-storm/",
+  "source_name": "Spell: Ash Storm",
+  "sections": [
+    {
+      "id": "ash_storm",
+      "title": "Ash Storm",
+      "anchor_heading": "# Ash Storm",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Ash Storm, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

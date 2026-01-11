@@ -1,0 +1,16 @@
+{
+  "file": "virulence.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/v/virulence/",
+  "source_name": "Spell: Virulence",
+  "sections": [
+    {
+      "id": "virulence",
+      "title": "Virulence",
+      "anchor_heading": "# Virulence",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Virulence, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

@@ -1,0 +1,16 @@
+{
+  "file": "cauterizing-weapon.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/c/cauterizing-weapon/",
+  "source_name": "Spell: Cauterizing Weapon",
+  "sections": [
+    {
+      "id": "cauterizing_weapon",
+      "title": "Cauterizing Weapon",
+      "anchor_heading": "# Cauterizing Weapon",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Cauterizing Weapon, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

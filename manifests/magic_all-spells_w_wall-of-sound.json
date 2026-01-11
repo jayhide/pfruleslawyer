@@ -1,0 +1,16 @@
+{
+  "file": "wall-of-sound.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/w/wall-of-sound/",
+  "source_name": "Spell: Wall of Sound",
+  "sections": [
+    {
+      "id": "wall_of_sound",
+      "title": "Wall of Sound",
+      "anchor_heading": "# Wall of Sound",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Wall of Sound, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

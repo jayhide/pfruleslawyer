@@ -1,0 +1,16 @@
+{
+  "file": "planetarium.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/p/planetarium/",
+  "source_name": "Spell: Planetarium",
+  "sections": [
+    {
+      "id": "planetarium",
+      "title": "Planetarium",
+      "anchor_heading": "# Planetarium",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Planetarium, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

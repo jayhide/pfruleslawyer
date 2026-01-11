@@ -1,0 +1,16 @@
+{
+  "file": "inflict-critical-wounds.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/i/inflict-critical-wounds/",
+  "source_name": "Spell: Inflict Critical Wounds",
+  "sections": [
+    {
+      "id": "inflict_critical_wounds",
+      "title": "Inflict Critical Wounds",
+      "anchor_heading": "# Inflict Critical Wounds",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Inflict Critical Wounds, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

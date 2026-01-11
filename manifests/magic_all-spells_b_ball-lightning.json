@@ -1,0 +1,16 @@
+{
+  "file": "ball-lightning.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/b/ball-lightning/",
+  "source_name": "Spell: Ball Lightning",
+  "sections": [
+    {
+      "id": "ball_lightning",
+      "title": "Ball Lightning",
+      "anchor_heading": "# Ball Lightning",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Ball Lightning, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

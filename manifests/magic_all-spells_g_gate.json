@@ -1,0 +1,16 @@
+{
+  "file": "gate.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/g/gate/",
+  "source_name": "Spell: Gate",
+  "sections": [
+    {
+      "id": "gate",
+      "title": "Gate",
+      "anchor_heading": "# Gate",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Gate, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

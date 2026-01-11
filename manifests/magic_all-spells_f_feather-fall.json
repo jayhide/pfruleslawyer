@@ -1,0 +1,16 @@
+{
+  "file": "feather-fall.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/f/feather-fall/",
+  "source_name": "Spell: Feather Fall",
+  "sections": [
+    {
+      "id": "feather_fall",
+      "title": "Feather Fall",
+      "anchor_heading": "# Feather Fall",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Feather Fall, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

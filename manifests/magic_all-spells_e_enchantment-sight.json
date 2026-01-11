@@ -1,0 +1,16 @@
+{
+  "file": "enchantment-sight.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/e/enchantment-sight/",
+  "source_name": "Spell: Enchantment Sight",
+  "sections": [
+    {
+      "id": "enchantment_sight",
+      "title": "Enchantment Sight",
+      "anchor_heading": "# Enchantment Sight",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Enchantment Sight, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

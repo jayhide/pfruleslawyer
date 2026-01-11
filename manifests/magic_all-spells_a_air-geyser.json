@@ -1,0 +1,16 @@
+{
+  "file": "air-geyser.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/a/air-geyser/",
+  "source_name": "Spell: Air Geyser",
+  "sections": [
+    {
+      "id": "air_geyser",
+      "title": "Air Geyser",
+      "anchor_heading": "# Air Geyser",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Air Geyser, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

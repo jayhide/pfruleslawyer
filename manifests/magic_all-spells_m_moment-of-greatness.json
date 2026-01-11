@@ -1,0 +1,16 @@
+{
+  "file": "moment-of-greatness.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/m/moment-of-greatness/",
+  "source_name": "Spell: Moment of Greatness",
+  "sections": [
+    {
+      "id": "moment_of_greatness",
+      "title": "Moment of Greatness",
+      "anchor_heading": "# Moment of Greatness",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Moment of Greatness, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

@@ -1,0 +1,16 @@
+{
+  "file": "disfiguring-touch.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/d/disfiguring-touch/",
+  "source_name": "Spell: Disfiguring Touch",
+  "sections": [
+    {
+      "id": "disfiguring_touch",
+      "title": "Disfiguring Touch",
+      "anchor_heading": "# Disfiguring Touch",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Disfiguring Touch, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

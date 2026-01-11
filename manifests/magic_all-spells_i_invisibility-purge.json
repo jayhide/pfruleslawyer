@@ -1,0 +1,16 @@
+{
+  "file": "invisibility-purge.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/i/invisibility-purge/",
+  "source_name": "Spell: Invisibility Purge",
+  "sections": [
+    {
+      "id": "invisibility_purge",
+      "title": "Invisibility Purge",
+      "anchor_heading": "# Invisibility Purge",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Invisibility Purge, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

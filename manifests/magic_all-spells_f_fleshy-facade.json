@@ -1,0 +1,16 @@
+{
+  "file": "fleshy-facade.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/f/fleshy-facade/",
+  "source_name": "Spell: Fleshy Facade",
+  "sections": [
+    {
+      "id": "fleshy_facade",
+      "title": "Fleshy Facade",
+      "anchor_heading": "# Fleshy Facade",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Fleshy Facade, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

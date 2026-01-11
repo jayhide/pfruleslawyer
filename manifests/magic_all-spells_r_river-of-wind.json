@@ -1,0 +1,16 @@
+{
+  "file": "river-of-wind.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/r/river-of-wind/",
+  "source_name": "Spell: River of Wind",
+  "sections": [
+    {
+      "id": "river_of_wind",
+      "title": "River of Wind",
+      "anchor_heading": "# River of Wind",
+      "includes_subheadings": [],
+      "description": "Full description of the spell River of Wind, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

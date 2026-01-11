@@ -1,0 +1,16 @@
+{
+  "file": "mark-of-justice.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/m/mark-of-justice/",
+  "source_name": "Spell: Mark of Justice",
+  "sections": [
+    {
+      "id": "mark_of_justice",
+      "title": "Mark of Justice",
+      "anchor_heading": "# Mark of Justice",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Mark of Justice, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

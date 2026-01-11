@@ -1,0 +1,16 @@
+{
+  "file": "deeper-darkness.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/d/deeper-darkness/",
+  "source_name": "Spell: Deeper Darkness",
+  "sections": [
+    {
+      "id": "deeper_darkness",
+      "title": "Deeper Darkness",
+      "anchor_heading": "# Deeper Darkness",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Deeper Darkness, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

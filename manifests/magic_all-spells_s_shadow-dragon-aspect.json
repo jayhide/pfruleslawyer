@@ -1,0 +1,16 @@
+{
+  "file": "shadow-dragon-aspect.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/s/shadow-dragon-aspect/",
+  "source_name": "Spell: Shadow Dragon Aspect",
+  "sections": [
+    {
+      "id": "shadow_dragon_aspect",
+      "title": "Shadow Dragon Aspect",
+      "anchor_heading": "# Shadow Dragon Aspect",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Shadow Dragon Aspect, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

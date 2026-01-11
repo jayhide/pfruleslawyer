@@ -1,0 +1,16 @@
+{
+  "file": "sensory-overload.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/s/sensory-overload/",
+  "source_name": "Spell: Sensory Overload",
+  "sections": [
+    {
+      "id": "sensory_overload",
+      "title": "Sensory Overload",
+      "anchor_heading": "# Sensory Overload",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Sensory Overload, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

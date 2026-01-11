@@ -1,0 +1,16 @@
+{
+  "file": "invisibility-sphere.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/i/invisibility-sphere/",
+  "source_name": "Spell: Invisibility Sphere",
+  "sections": [
+    {
+      "id": "invisibility_sphere",
+      "title": "Invisibility Sphere",
+      "anchor_heading": "# Invisibility Sphere",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Invisibility Sphere, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

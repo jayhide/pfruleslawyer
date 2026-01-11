@@ -17,22 +17,23 @@
         "### Modifiers",
         "#### Spellcraft Unchained"
       ],
-      "description": "Covers the Spellcraft skill mechanics including identifying spells being cast, learning spells from spellbooks, identifying magic item properties, crafting magic items, and associated DCs and modifiers.",
+      "description": "Covers the Spellcraft skill used for casting spells, identifying magic items, crafting magic items, learning spells from spellbooks, and identifying spells being cast, including DCs and modifiers.",
       "keywords": [
-        "spellcraft",
+        "Spellcraft",
         "identify spell",
         "identify magic item",
+        "craft magic items",
         "learn spell",
         "spellbook",
-        "craft magic item",
-        "detect magic",
         "borrowed spellbook",
+        "detect magic",
         "decipher scroll",
         "spell identification",
         "magic item properties",
-        "spellcraft unchained",
+        "Spellcraft Unchained",
         "skill unlocks"
       ]
     }
-  ]
+  ],
+  "category": "Skills"
 }

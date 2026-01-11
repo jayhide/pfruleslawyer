@@ -1,0 +1,16 @@
+{
+  "file": "death-knell.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/d/death-knell/",
+  "source_name": "Spell: Death Knell",
+  "sections": [
+    {
+      "id": "death_knell",
+      "title": "Death Knell",
+      "anchor_heading": "# Death Knell",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Death Knell, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

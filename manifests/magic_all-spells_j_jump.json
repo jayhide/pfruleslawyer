@@ -1,0 +1,16 @@
+{
+  "file": "jump.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/j/jump/",
+  "source_name": "Spell: Jump",
+  "sections": [
+    {
+      "id": "jump",
+      "title": "Jump",
+      "anchor_heading": "# Jump",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Jump, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

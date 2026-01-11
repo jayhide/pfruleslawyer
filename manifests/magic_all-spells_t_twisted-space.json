@@ -1,0 +1,16 @@
+{
+  "file": "twisted-space.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/t/twisted-space/",
+  "source_name": "Spell: Twisted Space",
+  "sections": [
+    {
+      "id": "twisted_space",
+      "title": "Twisted Space",
+      "anchor_heading": "# Twisted Space",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Twisted Space, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

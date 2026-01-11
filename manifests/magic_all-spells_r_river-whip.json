@@ -1,0 +1,16 @@
+{
+  "file": "river-whip.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/r/river-whip/",
+  "source_name": "Spell: River Whip",
+  "sections": [
+    {
+      "id": "river_whip",
+      "title": "River Whip",
+      "anchor_heading": "# River Whip",
+      "includes_subheadings": [],
+      "description": "Full description of the spell River Whip, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

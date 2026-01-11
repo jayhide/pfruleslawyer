@@ -1,0 +1,16 @@
+{
+  "file": "draconic-ally.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/d/draconic-ally/",
+  "source_name": "Spell: Draconic Ally",
+  "sections": [
+    {
+      "id": "draconic_ally",
+      "title": "Draconic Ally",
+      "anchor_heading": "# Draconic Ally",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Draconic Ally, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

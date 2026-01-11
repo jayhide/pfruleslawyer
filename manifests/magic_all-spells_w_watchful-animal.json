@@ -1,0 +1,16 @@
+{
+  "file": "watchful-animal.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/w/watchful-animal/",
+  "source_name": "Spell: Watchful Animal",
+  "sections": [
+    {
+      "id": "watchful_animal",
+      "title": "Watchful Animal",
+      "anchor_heading": "# Watchful Animal",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Watchful Animal, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

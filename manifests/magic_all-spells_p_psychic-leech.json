@@ -1,0 +1,16 @@
+{
+  "file": "psychic-leech.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/p/psychic-leech/",
+  "source_name": "Spell: Psychic Leech",
+  "sections": [
+    {
+      "id": "psychic_leech",
+      "title": "Psychic Leech",
+      "anchor_heading": "# Psychic Leech",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Psychic Leech, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

@@ -1,0 +1,16 @@
+{
+  "file": "grasping-depths.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/g/grasping-depths/",
+  "source_name": "Spell: Grasping Depths",
+  "sections": [
+    {
+      "id": "grasping_depths",
+      "title": "Grasping Depths",
+      "anchor_heading": "# Grasping Depths",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Grasping Depths, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

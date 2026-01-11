@@ -1,0 +1,16 @@
+{
+  "file": "triggered-hallucination.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/t/triggered-hallucination/",
+  "source_name": "Spell: Triggered Hallucination",
+  "sections": [
+    {
+      "id": "triggered_hallucination",
+      "title": "Triggered Hallucination",
+      "anchor_heading": "# Triggered Hallucination",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Triggered Hallucination, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

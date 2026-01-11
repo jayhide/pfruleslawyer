@@ -1,0 +1,16 @@
+{
+  "file": "eyebite.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/e/eyebite/",
+  "source_name": "Spell: Eyebite",
+  "sections": [
+    {
+      "id": "eyebite",
+      "title": "Eyebite",
+      "anchor_heading": "# Eyebite",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Eyebite, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

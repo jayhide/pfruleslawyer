@@ -1,0 +1,16 @@
+{
+  "file": "swarm-of-fangs.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/s/swarm-of-fangs/",
+  "source_name": "Spell: Swarm of Fangs",
+  "sections": [
+    {
+      "id": "swarm_of_fangs",
+      "title": "Swarm of Fangs",
+      "anchor_heading": "# Swarm of Fangs",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Swarm of Fangs, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

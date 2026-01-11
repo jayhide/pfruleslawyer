@@ -1,0 +1,16 @@
+{
+  "file": "destablize-powder.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/d/destablize-powder/",
+  "source_name": "Spell: Destablize Powder",
+  "sections": [
+    {
+      "id": "destablize_powder",
+      "title": "Destablize Powder",
+      "anchor_heading": "# Destablize Powder",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Destablize Powder, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

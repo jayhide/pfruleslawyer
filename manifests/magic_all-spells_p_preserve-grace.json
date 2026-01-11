@@ -1,0 +1,16 @@
+{
+  "file": "preserve-grace.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/p/preserve-grace/",
+  "source_name": "Spell: Preserve Grace",
+  "sections": [
+    {
+      "id": "preserve_grace",
+      "title": "Preserve Grace",
+      "anchor_heading": "# Preserve Grace",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Preserve Grace, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

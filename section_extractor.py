@@ -19,14 +19,32 @@ class Section:
     source_file: str
     source_name: str
     anchor_heading: str
+    category: str = "Uncategorized"
 
     def __repr__(self) -> str:
         content_preview = self.content[:100] + "..." if len(self.content) > 100 else self.content
         return f"Section(id={self.id!r}, title={self.title!r}, content={content_preview!r})"
 
 
+def strip_anchor_id(text: str) -> tuple[str, str | None]:
+    """Strip {#anchor-id} suffix from heading text.
+
+    Args:
+        text: Heading text, possibly with {#id} suffix
+
+    Returns:
+        Tuple of (text_without_anchor, anchor_id or None)
+    """
+    match = re.match(r'^(.+?)\s*\{#([^}]+)\}\s*$', text)
+    if match:
+        return match.group(1).strip(), match.group(2)
+    return text, None
+
+
 def get_heading_level(line: str) -> int | None:
     """Get the heading level (1-6) from a markdown line, or None if not a heading.
+
+    Handles both plain headings and headings with {#id} suffix.
 
     Args:
         line: A line of markdown text
@@ -69,7 +87,9 @@ def extract_section_content(markdown: str, anchor_heading: str) -> str | None:
         line_level = get_heading_level(line)
         if line_level is not None:
             line_text = line.lstrip('#').strip()
-            if line_text == anchor_text and line_level == anchor_level:
+            # Strip anchor ID suffix for comparison (handles {#id} syntax)
+            line_text_clean, _ = strip_anchor_id(line_text)
+            if line_text_clean == anchor_text and line_level == anchor_level:
                 start_idx = i
                 break
 
@@ -161,6 +181,8 @@ class SectionExtractor:
             source_name = manifest.get("source_name")
             if not source_name:
                 source_name = source_file.replace(".md", "").replace("-", " ").title()
+            # Get category for search weight customization (default to Uncategorized)
+            category = manifest.get("category", "Uncategorized")
             markdown = self._load_markdown(source_path)
 
             for section_def in manifest["sections"]:
@@ -179,7 +201,8 @@ class SectionExtractor:
                     content=content,
                     source_file=source_path,
                     source_name=source_name,
-                    anchor_heading=section_def["anchor_heading"]
+                    anchor_heading=section_def["anchor_heading"],
+                    category=category
                 )
                 self._sections.append(section)
 

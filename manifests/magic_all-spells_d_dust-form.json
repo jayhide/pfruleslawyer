@@ -1,0 +1,16 @@
+{
+  "file": "dust-form.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/d/dust-form/",
+  "source_name": "Spell: Dust Form",
+  "sections": [
+    {
+      "id": "dust_form",
+      "title": "Dust Form",
+      "anchor_heading": "# Dust Form",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Dust Form, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

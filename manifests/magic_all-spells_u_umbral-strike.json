@@ -1,0 +1,16 @@
+{
+  "file": "umbral-strike.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/u/umbral-strike/",
+  "source_name": "Spell: Umbral Strike",
+  "sections": [
+    {
+      "id": "umbral_strike",
+      "title": "Umbral Strike",
+      "anchor_heading": "# Umbral Strike",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Umbral Strike, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

@@ -1,0 +1,16 @@
+{
+  "file": "continual-flame.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/c/continual-flame/",
+  "source_name": "Spell: Continual Flame",
+  "sections": [
+    {
+      "id": "continual_flame",
+      "title": "Continual Flame",
+      "anchor_heading": "# Continual Flame",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Continual Flame, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

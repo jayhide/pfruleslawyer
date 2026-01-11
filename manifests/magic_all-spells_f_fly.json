@@ -1,0 +1,16 @@
+{
+  "file": "fly.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/f/fly/",
+  "source_name": "Spell: Fly",
+  "sections": [
+    {
+      "id": "fly",
+      "title": "Fly",
+      "anchor_heading": "# Fly",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Fly, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

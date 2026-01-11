@@ -1,0 +1,16 @@
+{
+  "file": "blot.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/b/blot/",
+  "source_name": "Spell: Blot",
+  "sections": [
+    {
+      "id": "blot",
+      "title": "Blot",
+      "anchor_heading": "# Blot",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Blot, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

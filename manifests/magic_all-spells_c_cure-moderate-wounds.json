@@ -1,0 +1,16 @@
+{
+  "file": "cure-moderate-wounds.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/c/cure-moderate-wounds/",
+  "source_name": "Spell: Cure Moderate Wounds",
+  "sections": [
+    {
+      "id": "cure_moderate_wounds",
+      "title": "Cure Moderate Wounds",
+      "anchor_heading": "# Cure Moderate Wounds",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Cure Moderate Wounds, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

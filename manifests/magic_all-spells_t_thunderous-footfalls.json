@@ -1,0 +1,16 @@
+{
+  "file": "thunderous-footfalls.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/t/thunderous-footfalls/",
+  "source_name": "Spell: Thunderous Footfalls",
+  "sections": [
+    {
+      "id": "thunderous_footfalls",
+      "title": "Thunderous Footfalls",
+      "anchor_heading": "# Thunderous Footfalls",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Thunderous Footfalls, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

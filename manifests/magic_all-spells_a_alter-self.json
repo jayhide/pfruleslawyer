@@ -1,0 +1,16 @@
+{
+  "file": "alter-self.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/a/alter-self/",
+  "source_name": "Spell: Alter Self",
+  "sections": [
+    {
+      "id": "alter_self",
+      "title": "Alter Self",
+      "anchor_heading": "# Alter Self",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Alter Self, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

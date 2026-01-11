@@ -17,7 +17,7 @@
         "### Get Organized!",
         "### Unofficial Extras!"
       ],
-      "description": "Covers the Perception skill mechanics, including DCs for noticing details, opposing Stealth checks, distance modifiers, and skill unlock abilities at higher ranks.",
+      "description": "Rules for the Perception skill, including DCs for noticing creatures and objects, environmental modifiers, opposed checks against Stealth, and skill unlock abilities at higher ranks.",
       "keywords": [
         "Perception",
         "Notice",
@@ -25,17 +25,17 @@
         "opposed check",
         "secret door",
         "concealed door",
-        "trap spotting",
+        "pickpocket",
         "invisible creature",
-        "distance modifier",
+        "trap detection",
         "skill unlock",
         "Perception Unchained",
-        "pickpocket",
-        "tremorsense",
-        "scent",
+        "distance modifier",
+        "sleeping",
         "lip reading",
         "trap spotter"
       ]
     }
-  ]
+  ],
+  "category": "Skills"
 }

@@ -1,0 +1,16 @@
+{
+  "file": "conditional-favor.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/c/conditional-favor/",
+  "source_name": "Spell: Conditional Favor",
+  "sections": [
+    {
+      "id": "conditional_favor",
+      "title": "Conditional Favor",
+      "anchor_heading": "# Conditional Favor",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Conditional Favor, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

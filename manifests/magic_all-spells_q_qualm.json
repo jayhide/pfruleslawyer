@@ -1,0 +1,16 @@
+{
+  "file": "qualm.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/q/qualm/",
+  "source_name": "Spell: Qualm",
+  "sections": [
+    {
+      "id": "qualm",
+      "title": "Qualm",
+      "anchor_heading": "# Qualm",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Qualm, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

@@ -1,0 +1,16 @@
+{
+  "file": "eagle-eye.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/e/eagle-eye/",
+  "source_name": "Spell: Eagle Eye",
+  "sections": [
+    {
+      "id": "eagle_eye",
+      "title": "Eagle Eye",
+      "anchor_heading": "# Eagle Eye",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Eagle Eye, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

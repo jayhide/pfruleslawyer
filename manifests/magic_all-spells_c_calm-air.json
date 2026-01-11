@@ -1,0 +1,16 @@
+{
+  "file": "calm-air.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/c/calm-air/",
+  "source_name": "Spell: Calm Air",
+  "sections": [
+    {
+      "id": "calm_air",
+      "title": "Calm Air",
+      "anchor_heading": "# Calm Air",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Calm Air, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

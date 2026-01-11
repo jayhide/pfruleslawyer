@@ -1,0 +1,16 @@
+{
+  "file": "savage-maw.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/s/savage-maw/",
+  "source_name": "Spell: Savage Maw",
+  "sections": [
+    {
+      "id": "savage_maw",
+      "title": "Savage Maw",
+      "anchor_heading": "# Savage Maw",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Savage Maw, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

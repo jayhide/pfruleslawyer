@@ -1,0 +1,16 @@
+{
+  "file": "incendiary-cloud.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/i/incendiary-cloud/",
+  "source_name": "Spell: Incendiary Cloud",
+  "sections": [
+    {
+      "id": "incendiary_cloud",
+      "title": "Incendiary Cloud",
+      "anchor_heading": "# Incendiary Cloud",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Incendiary Cloud, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

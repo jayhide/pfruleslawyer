@@ -1,0 +1,16 @@
+{
+  "file": "saddle-surge.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/s/saddle-surge/",
+  "source_name": "Spell: Saddle Surge",
+  "sections": [
+    {
+      "id": "saddle_surge",
+      "title": "Saddle Surge",
+      "anchor_heading": "# Saddle Surge",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Saddle Surge, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

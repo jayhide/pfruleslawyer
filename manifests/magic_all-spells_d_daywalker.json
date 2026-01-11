@@ -1,0 +1,16 @@
+{
+  "file": "daywalker.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/d/daywalker/",
+  "source_name": "Spell: Daywalker",
+  "sections": [
+    {
+      "id": "daywalker",
+      "title": "Daywalker",
+      "anchor_heading": "# Daywalker",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Daywalker, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

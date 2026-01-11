@@ -1,0 +1,16 @@
+{
+  "file": "cold-ice-strike.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/c/cold-ice-strike/",
+  "source_name": "Spell: Cold Ice Strike",
+  "sections": [
+    {
+      "id": "cold_ice_strike",
+      "title": "Cold Ice Strike",
+      "anchor_heading": "# Cold Ice Strike",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Cold Ice Strike, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

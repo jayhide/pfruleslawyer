@@ -1,0 +1,16 @@
+{
+  "file": "particulate-form.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/p/particulate-form/",
+  "source_name": "Spell: Particulate Form",
+  "sections": [
+    {
+      "id": "particulate_form",
+      "title": "Particulate Form",
+      "anchor_heading": "# Particulate Form",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Particulate Form, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

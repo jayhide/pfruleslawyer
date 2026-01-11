@@ -1,0 +1,16 @@
+{
+  "file": "exquisite-accompaniment.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/e/exquisite-accompaniment/",
+  "source_name": "Spell: Exquisite Accompaniment",
+  "sections": [
+    {
+      "id": "exquisite_accompaniment",
+      "title": "Exquisite Accompaniment",
+      "anchor_heading": "# Exquisite Accompaniment",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Exquisite Accompaniment, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

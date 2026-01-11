@@ -1,0 +1,16 @@
+{
+  "file": "antithetical-constraint.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/a/antithetical-constraint/",
+  "source_name": "Spell: Antithetical Constraint",
+  "sections": [
+    {
+      "id": "antithetical_constraint",
+      "title": "Antithetical Constraint",
+      "anchor_heading": "# Antithetical Constraint",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Antithetical Constraint, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

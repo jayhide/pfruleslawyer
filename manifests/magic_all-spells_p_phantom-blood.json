@@ -1,0 +1,16 @@
+{
+  "file": "phantom-blood.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/p/phantom-blood/",
+  "source_name": "Spell: Phantom Blood",
+  "sections": [
+    {
+      "id": "phantom_blood",
+      "title": "Phantom Blood",
+      "anchor_heading": "# Phantom Blood",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Phantom Blood, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

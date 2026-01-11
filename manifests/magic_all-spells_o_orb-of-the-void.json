@@ -1,0 +1,16 @@
+{
+  "file": "orb-of-the-void.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/o/orb-of-the-void/",
+  "source_name": "Spell: Orb of the Void",
+  "sections": [
+    {
+      "id": "orb_of_the_void",
+      "title": "Orb of the Void",
+      "anchor_heading": "# Orb of the Void",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Orb of the Void, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

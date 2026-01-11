@@ -1,0 +1,16 @@
+{
+  "file": "burning-sands.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/b/burning-sands/",
+  "source_name": "Spell: Burning Sands",
+  "sections": [
+    {
+      "id": "burning_sands",
+      "title": "Burning Sands",
+      "anchor_heading": "# Burning Sands",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Burning Sands, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

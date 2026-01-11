@@ -1,0 +1,16 @@
+{
+  "file": "harvest-season.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/h/harvest-season/",
+  "source_name": "Spell: Harvest Season",
+  "sections": [
+    {
+      "id": "harvest_season",
+      "title": "Harvest Season",
+      "anchor_heading": "# Harvest Season",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Harvest Season, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

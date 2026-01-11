@@ -1,0 +1,16 @@
+{
+  "file": "first-world-revisions.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/f/first-world-revisions/",
+  "source_name": "Spell: First World Revisions",
+  "sections": [
+    {
+      "id": "first_world_revisions",
+      "title": "First World Revisions",
+      "anchor_heading": "# First World Revisions",
+      "includes_subheadings": [],
+      "description": "Full description of the spell First World Revisions, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

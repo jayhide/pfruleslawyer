@@ -1,0 +1,16 @@
+{
+  "file": "unseen-servant.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/u/unseen-servant/",
+  "source_name": "Spell: Unseen Servant",
+  "sections": [
+    {
+      "id": "unseen_servant",
+      "title": "Unseen Servant",
+      "anchor_heading": "# Unseen Servant",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Unseen Servant, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

@@ -80,7 +80,10 @@ Content extraction:
 - Starts at first `<h1>` tag
 - Stops at copyright section (`div.section15`) or sidebar fallback (`div.right-sidebar`, etc.)
 - Preserves links (useful for LLM context)
+- Preserves HTML anchor IDs in headings using `{#anchor_id}` syntax (e.g., `#### Spell Combat (Ex) {#spell_combat_ex}`)
 - Use `strip_links(markdown)` when generating embeddings to avoid confusing semantic search
+
+The anchor ID preservation enables direct fragment-based link resolution in the RAG system. When a URL like `#spell_combat_ex` is resolved, the vector store can look up the exact section by anchor ID instead of relying on fuzzy heading text matching.
 
 Programmatic usage:
 ```python

@@ -1,0 +1,16 @@
+{
+  "file": "dissolution.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/d/dissolution/",
+  "source_name": "Spell: Dissolution",
+  "sections": [
+    {
+      "id": "dissolution",
+      "title": "Dissolution",
+      "anchor_heading": "# Dissolution",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Dissolution, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

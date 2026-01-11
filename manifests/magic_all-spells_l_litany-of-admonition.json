@@ -1,0 +1,16 @@
+{
+  "file": "litany-of-admonition.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/l/litany-of-admonition/",
+  "source_name": "Spell: Litany of Admonition",
+  "sections": [
+    {
+      "id": "litany_of_admonition",
+      "title": "Litany of Admonition",
+      "anchor_heading": "# Litany of Admonition",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Litany of Admonition, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

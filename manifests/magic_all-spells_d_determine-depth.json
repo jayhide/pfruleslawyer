@@ -1,0 +1,16 @@
+{
+  "file": "determine-depth.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/d/determine-depth/",
+  "source_name": "Spell: Determine Depth",
+  "sections": [
+    {
+      "id": "determine_depth",
+      "title": "Determine Depth",
+      "anchor_heading": "# Determine Depth",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Determine Depth, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

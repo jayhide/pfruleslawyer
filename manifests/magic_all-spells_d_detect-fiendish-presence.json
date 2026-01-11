@@ -1,0 +1,16 @@
+{
+  "file": "detect-fiendish-presence.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/d/detect-fiendish-presence/",
+  "source_name": "Spell: Detect Fiendish Presence",
+  "sections": [
+    {
+      "id": "detect_fiendish_presence",
+      "title": "Detect Fiendish Presence",
+      "anchor_heading": "# Detect Fiendish Presence",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Detect Fiendish Presence, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

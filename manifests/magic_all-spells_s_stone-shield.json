@@ -1,0 +1,16 @@
+{
+  "file": "stone-shield.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/s/stone-shield/",
+  "source_name": "Spell: Stone Shield",
+  "sections": [
+    {
+      "id": "stone_shield",
+      "title": "Stone Shield",
+      "anchor_heading": "# Stone Shield",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Stone Shield, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

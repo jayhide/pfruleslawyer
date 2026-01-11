@@ -1,0 +1,16 @@
+{
+  "file": "daylight.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/d/daylight/",
+  "source_name": "Spell: Daylight",
+  "sections": [
+    {
+      "id": "daylight",
+      "title": "Daylight",
+      "anchor_heading": "# Daylight",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Daylight, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

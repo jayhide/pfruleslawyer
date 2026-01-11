@@ -1,0 +1,16 @@
+{
+  "file": "polar-midnight.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/p/polar-midnight/",
+  "source_name": "Spell: Polar Midnight",
+  "sections": [
+    {
+      "id": "polar_midnight",
+      "title": "Polar Midnight",
+      "anchor_heading": "# Polar Midnight",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Polar Midnight, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

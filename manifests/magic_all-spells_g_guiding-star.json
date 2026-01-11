@@ -1,0 +1,16 @@
+{
+  "file": "guiding-star.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/g/guiding-star/",
+  "source_name": "Spell: Guiding Star",
+  "sections": [
+    {
+      "id": "guiding_star",
+      "title": "Guiding Star",
+      "anchor_heading": "# Guiding Star",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Guiding Star, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

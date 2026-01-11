@@ -1,0 +1,16 @@
+{
+  "file": "borrow-fortune.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/b/borrow-fortune/",
+  "source_name": "Spell: Borrow Fortune",
+  "sections": [
+    {
+      "id": "borrow_fortune",
+      "title": "Borrow Fortune",
+      "anchor_heading": "# Borrow Fortune",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Borrow Fortune, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

@@ -1,0 +1,16 @@
+{
+  "file": "blaze-of-glory.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/b/blaze-of-glory/",
+  "source_name": "Spell: Blaze of Glory",
+  "sections": [
+    {
+      "id": "blaze_of_glory",
+      "title": "Blaze of Glory",
+      "anchor_heading": "# Blaze of Glory",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Blaze of Glory, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

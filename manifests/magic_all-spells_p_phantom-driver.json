@@ -1,0 +1,16 @@
+{
+  "file": "phantom-driver.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/p/phantom-driver/",
+  "source_name": "Spell: Phantom Driver",
+  "sections": [
+    {
+      "id": "phantom_driver",
+      "title": "Phantom Driver",
+      "anchor_heading": "# Phantom Driver",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Phantom Driver, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

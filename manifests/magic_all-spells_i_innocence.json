@@ -1,0 +1,16 @@
+{
+  "file": "innocence.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/i/innocence/",
+  "source_name": "Spell: Innocence",
+  "sections": [
+    {
+      "id": "innocence",
+      "title": "Innocence",
+      "anchor_heading": "# Innocence",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Innocence, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

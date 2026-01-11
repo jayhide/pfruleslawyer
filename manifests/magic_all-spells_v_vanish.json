@@ -1,0 +1,16 @@
+{
+  "file": "vanish.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/v/vanish/",
+  "source_name": "Spell: Vanish",
+  "sections": [
+    {
+      "id": "vanish",
+      "title": "Vanish",
+      "anchor_heading": "# Vanish",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Vanish, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

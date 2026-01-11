@@ -1,0 +1,16 @@
+{
+  "file": "twisted-futures.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/t/twisted-futures/",
+  "source_name": "Spell: Twisted Futures",
+  "sections": [
+    {
+      "id": "twisted_futures",
+      "title": "Twisted Futures",
+      "anchor_heading": "# Twisted Futures",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Twisted Futures, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

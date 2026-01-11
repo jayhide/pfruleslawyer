@@ -1,0 +1,16 @@
+{
+  "file": "blood-song.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/b/blood-song/",
+  "source_name": "Spell: Blood Song",
+  "sections": [
+    {
+      "id": "blood_song",
+      "title": "Blood Song",
+      "anchor_heading": "# Blood Song",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Blood Song, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

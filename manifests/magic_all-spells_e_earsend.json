@@ -1,0 +1,16 @@
+{
+  "file": "earsend.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/e/earsend/",
+  "source_name": "Spell: Earsend",
+  "sections": [
+    {
+      "id": "earsend",
+      "title": "Earsend",
+      "anchor_heading": "# Earsend",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Earsend, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

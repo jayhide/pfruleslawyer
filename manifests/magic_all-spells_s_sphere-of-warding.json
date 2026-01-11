@@ -1,0 +1,16 @@
+{
+  "file": "sphere-of-warding.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/s/sphere-of-warding/",
+  "source_name": "Spell: Sphere of Warding",
+  "sections": [
+    {
+      "id": "sphere_of_warding",
+      "title": "Sphere of Warding",
+      "anchor_heading": "# Sphere of Warding",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Sphere of Warding, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

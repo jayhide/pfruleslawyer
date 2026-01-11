@@ -1,0 +1,16 @@
+{
+  "file": "cone-of-cold.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/c/cone-of-cold/",
+  "source_name": "Spell: Cone of Cold",
+  "sections": [
+    {
+      "id": "cone_of_cold",
+      "title": "Cone of Cold",
+      "anchor_heading": "# Cone of Cold",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Cone of Cold, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

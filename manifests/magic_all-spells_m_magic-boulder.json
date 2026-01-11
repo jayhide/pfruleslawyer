@@ -1,0 +1,16 @@
+{
+  "file": "magic-boulder.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/m/magic-boulder/",
+  "source_name": "Spell: Magic Boulder",
+  "sections": [
+    {
+      "id": "magic_boulder",
+      "title": "Magic Boulder",
+      "anchor_heading": "# Magic Boulder",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Magic Boulder, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

@@ -1,0 +1,16 @@
+{
+  "file": "fleshworm-infestation.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/f/fleshworm-infestation/",
+  "source_name": "Spell: Fleshworm Infestation",
+  "sections": [
+    {
+      "id": "fleshworm_infestation",
+      "title": "Fleshworm Infestation",
+      "anchor_heading": "# Fleshworm Infestation",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Fleshworm Infestation, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

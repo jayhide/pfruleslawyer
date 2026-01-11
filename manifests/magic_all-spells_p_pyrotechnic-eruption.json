@@ -1,0 +1,16 @@
+{
+  "file": "pyrotechnic-eruption.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/p/pyrotechnic-eruption/",
+  "source_name": "Spell: Pyrotechnic Eruption",
+  "sections": [
+    {
+      "id": "pyrotechnic_eruption",
+      "title": "Pyrotechnic Eruption",
+      "anchor_heading": "# Pyrotechnic Eruption",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Pyrotechnic Eruption, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

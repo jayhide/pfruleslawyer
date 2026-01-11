@@ -1,0 +1,16 @@
+{
+  "file": "remove-paralysis.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/r/remove-paralysis/",
+  "source_name": "Spell: Remove Paralysis",
+  "sections": [
+    {
+      "id": "remove_paralysis",
+      "title": "Remove Paralysis",
+      "anchor_heading": "# Remove Paralysis",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Remove Paralysis, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

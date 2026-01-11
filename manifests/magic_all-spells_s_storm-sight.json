@@ -1,0 +1,16 @@
+{
+  "file": "storm-sight.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/s/storm-sight/",
+  "source_name": "Spell: Storm Sight",
+  "sections": [
+    {
+      "id": "storm_sight",
+      "title": "Storm Sight",
+      "anchor_heading": "# Storm Sight",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Storm Sight, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

@@ -1,0 +1,16 @@
+{
+  "file": "lipstitch.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/l/lipstitch/",
+  "source_name": "Spell: Lipstitch",
+  "sections": [
+    {
+      "id": "lipstitch",
+      "title": "Lipstitch",
+      "anchor_heading": "# Lipstitch",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Lipstitch, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

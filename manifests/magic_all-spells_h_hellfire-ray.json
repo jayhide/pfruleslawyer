@@ -1,0 +1,16 @@
+{
+  "file": "hellfire-ray.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/h/hellfire-ray/",
+  "source_name": "Spell: Hellfire Ray",
+  "sections": [
+    {
+      "id": "hellfire_ray",
+      "title": "Hellfire Ray",
+      "anchor_heading": "# Hellfire Ray",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Hellfire Ray, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

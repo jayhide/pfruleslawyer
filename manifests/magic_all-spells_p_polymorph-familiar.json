@@ -1,0 +1,16 @@
+{
+  "file": "polymorph-familiar.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/p/polymorph-familiar/",
+  "source_name": "Spell: Polymorph Familiar",
+  "sections": [
+    {
+      "id": "polymorph_familiar",
+      "title": "Polymorph Familiar",
+      "anchor_heading": "# Polymorph Familiar",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Polymorph Familiar, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

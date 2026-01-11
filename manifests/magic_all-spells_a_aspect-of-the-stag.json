@@ -1,0 +1,16 @@
+{
+  "file": "aspect-of-the-stag.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/a/aspect-of-the-stag/",
+  "source_name": "Spell: Aspect of the Stag",
+  "sections": [
+    {
+      "id": "aspect_of_the_stag",
+      "title": "Aspect of the Stag",
+      "anchor_heading": "# Aspect of the Stag",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Aspect of the Stag, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

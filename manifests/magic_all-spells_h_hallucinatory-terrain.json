@@ -1,0 +1,16 @@
+{
+  "file": "hallucinatory-terrain.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/h/hallucinatory-terrain/",
+  "source_name": "Spell: Hallucinatory Terrain",
+  "sections": [
+    {
+      "id": "hallucinatory_terrain",
+      "title": "Hallucinatory Terrain",
+      "anchor_heading": "# Hallucinatory Terrain",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Hallucinatory Terrain, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

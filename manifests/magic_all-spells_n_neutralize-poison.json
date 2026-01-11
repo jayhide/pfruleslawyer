@@ -1,0 +1,16 @@
+{
+  "file": "neutralize-poison.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/n/neutralize-poison/",
+  "source_name": "Spell: Neutralize Poison",
+  "sections": [
+    {
+      "id": "neutralize_poison",
+      "title": "Neutralize Poison",
+      "anchor_heading": "# Neutralize Poison",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Neutralize Poison, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

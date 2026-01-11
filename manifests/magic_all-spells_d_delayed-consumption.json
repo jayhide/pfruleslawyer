@@ -1,0 +1,16 @@
+{
+  "file": "delayed-consumption.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/d/delayed-consumption/",
+  "source_name": "Spell: Delayed Consumption",
+  "sections": [
+    {
+      "id": "delayed_consumption",
+      "title": "Delayed Consumption",
+      "anchor_heading": "# Delayed Consumption",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Delayed Consumption, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

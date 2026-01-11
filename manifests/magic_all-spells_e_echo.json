@@ -1,0 +1,16 @@
+{
+  "file": "echo.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/e/echo/",
+  "source_name": "Spell: Echo",
+  "sections": [
+    {
+      "id": "echo",
+      "title": "Echo",
+      "anchor_heading": "# Echo",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Echo, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

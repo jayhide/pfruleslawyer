@@ -1,0 +1,16 @@
+{
+  "file": "marionette-possession.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/m/marionette-possession/",
+  "source_name": "Spell: Marionette Possession",
+  "sections": [
+    {
+      "id": "marionette_possession",
+      "title": "Marionette Possession",
+      "anchor_heading": "# Marionette Possession",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Marionette Possession, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

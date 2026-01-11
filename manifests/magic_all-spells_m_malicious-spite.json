@@ -1,0 +1,16 @@
+{
+  "file": "malicious-spite.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/m/malicious-spite/",
+  "source_name": "Spell: Malicious Spite",
+  "sections": [
+    {
+      "id": "malicious_spite",
+      "title": "Malicious Spite",
+      "anchor_heading": "# Malicious Spite",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Malicious Spite, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

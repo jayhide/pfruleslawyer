@@ -1,0 +1,16 @@
+{
+  "file": "caustic-blood.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/c/caustic-blood/",
+  "source_name": "Spell: Caustic Blood",
+  "sections": [
+    {
+      "id": "caustic_blood",
+      "title": "Caustic Blood",
+      "anchor_heading": "# Caustic Blood",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Caustic Blood, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

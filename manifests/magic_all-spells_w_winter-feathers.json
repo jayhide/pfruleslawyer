@@ -1,0 +1,16 @@
+{
+  "file": "winter-feathers.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/w/winter-feathers/",
+  "source_name": "Spell: Winter Feathers",
+  "sections": [
+    {
+      "id": "winter_feathers",
+      "title": "Winter Feathers",
+      "anchor_heading": "# Winter Feathers",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Winter Feathers, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

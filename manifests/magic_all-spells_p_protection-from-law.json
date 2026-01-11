@@ -1,0 +1,16 @@
+{
+  "file": "protection-from-law.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/p/protection-from-law/",
+  "source_name": "Spell: Protection from Law",
+  "sections": [
+    {
+      "id": "protection_from_law",
+      "title": "Protection from Law",
+      "anchor_heading": "# Protection from Law",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Protection from Law, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

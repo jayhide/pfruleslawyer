@@ -1,0 +1,16 @@
+{
+  "file": "psychic-asylum.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/p/psychic-asylum/",
+  "source_name": "Spell: Psychic Asylum",
+  "sections": [
+    {
+      "id": "psychic_asylum",
+      "title": "Psychic Asylum",
+      "anchor_heading": "# Psychic Asylum",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Psychic Asylum, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

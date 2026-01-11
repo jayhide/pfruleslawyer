@@ -1,0 +1,16 @@
+{
+  "file": "hostile-levitation.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/h/hostile-levitation/",
+  "source_name": "Spell: Hostile Levitation",
+  "sections": [
+    {
+      "id": "hostile_levitation",
+      "title": "Hostile Levitation",
+      "anchor_heading": "# Hostile Levitation",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Hostile Levitation, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

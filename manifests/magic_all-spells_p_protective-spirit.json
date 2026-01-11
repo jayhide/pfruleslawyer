@@ -1,0 +1,16 @@
+{
+  "file": "protective-spirit.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/p/protective-spirit/",
+  "source_name": "Spell: Protective Spirit",
+  "sections": [
+    {
+      "id": "protective_spirit",
+      "title": "Protective Spirit",
+      "anchor_heading": "# Protective Spirit",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Protective Spirit, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

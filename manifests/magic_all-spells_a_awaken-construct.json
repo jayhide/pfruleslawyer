@@ -1,0 +1,16 @@
+{
+  "file": "awaken-construct.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/a/awaken-construct/",
+  "source_name": "Spell: Awaken Construct",
+  "sections": [
+    {
+      "id": "awaken_construct",
+      "title": "Awaken Construct",
+      "anchor_heading": "# Awaken Construct",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Awaken Construct, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

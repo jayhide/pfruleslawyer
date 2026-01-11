@@ -1,0 +1,16 @@
+{
+  "file": "memorize-page.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/m/memorize-page/",
+  "source_name": "Spell: Memorize Page",
+  "sections": [
+    {
+      "id": "memorize_page",
+      "title": "Memorize Page",
+      "anchor_heading": "# Memorize Page",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Memorize Page, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

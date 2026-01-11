@@ -1,0 +1,16 @@
+{
+  "file": "burn-corruption-elf.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/b/burn-corruption-elf/",
+  "source_name": "Spell: Burn Corruption",
+  "sections": [
+    {
+      "id": "burn_corruption_elf",
+      "title": "Burn Corruption",
+      "anchor_heading": "# Burn Corruption",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Burn Corruption, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

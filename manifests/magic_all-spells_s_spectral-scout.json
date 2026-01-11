@@ -1,0 +1,16 @@
+{
+  "file": "spectral-scout.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/s/spectral-scout/",
+  "source_name": "Spell: Spectral Scout",
+  "sections": [
+    {
+      "id": "spectral_scout",
+      "title": "Spectral Scout",
+      "anchor_heading": "# Spectral Scout",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Spectral Scout, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

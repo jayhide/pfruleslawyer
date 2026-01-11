@@ -22,12 +22,12 @@
         "#### Other Animals",
         "### FYI"
       ],
-      "description": "Rules for the Ride skill, covering mounted combat actions, mount control, and special maneuvers while riding, plus extensive lists of purchasable mounts and their prices.",
+      "description": "Covers the Ride skill rules for controlling mounts in combat, including special actions like guiding with knees, staying in saddle, spurring mounts, and mounting/dismounting, plus skill unlocks and ridable creature statistics.",
       "keywords": [
         "Ride skill",
-        "mounted combat",
         "mount",
-        "riding",
+        "mounting",
+        "dismounting",
         "guide with knees",
         "stay in saddle",
         "combat-trained mount",
@@ -40,11 +40,17 @@
         "fast dismount",
         "bareback",
         "military saddle",
-        "riding animal",
-        "mount prices",
-        "ridable creatures",
-        "Ride Unchained"
+        "Animal Affinity",
+        "Mounted Archery",
+        "Mounted Combat",
+        "Ride-By Attack",
+        "Spirited Charge",
+        "Trample",
+        "Ride Unchained",
+        "skill unlocks",
+        "ridable creatures"
       ]
     }
-  ]
+  ],
+  "category": "Skills"
 }

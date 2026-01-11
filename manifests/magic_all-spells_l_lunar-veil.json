@@ -1,0 +1,16 @@
+{
+  "file": "lunar-veil.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/l/lunar-veil/",
+  "source_name": "Spell: Lunar Veil",
+  "sections": [
+    {
+      "id": "lunar_veil",
+      "title": "Lunar Veil",
+      "anchor_heading": "# Lunar Veil",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Lunar Veil, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

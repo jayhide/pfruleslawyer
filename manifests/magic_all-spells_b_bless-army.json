@@ -1,0 +1,16 @@
+{
+  "file": "bless-army.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/b/bless-army/",
+  "source_name": "Spell: Bless Army",
+  "sections": [
+    {
+      "id": "bless_army",
+      "title": "Bless Army",
+      "anchor_heading": "# Bless Army",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Bless Army, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

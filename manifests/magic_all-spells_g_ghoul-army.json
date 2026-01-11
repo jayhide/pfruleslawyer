@@ -1,0 +1,16 @@
+{
+  "file": "ghoul-army.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/g/ghoul-army/",
+  "source_name": "Spell: Ghoul Army",
+  "sections": [
+    {
+      "id": "ghoul_army",
+      "title": "Ghoul Army",
+      "anchor_heading": "# Ghoul Army",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Ghoul Army, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

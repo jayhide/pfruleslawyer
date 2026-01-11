@@ -1,0 +1,16 @@
+{
+  "file": "sculpt-corpse.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/s/sculpt-corpse/",
+  "source_name": "Spell: Sculpt Corpse",
+  "sections": [
+    {
+      "id": "sculpt_corpse",
+      "title": "Sculpt Corpse",
+      "anchor_heading": "# Sculpt Corpse",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Sculpt Corpse, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

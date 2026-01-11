@@ -1,0 +1,16 @@
+{
+  "file": "death-knell-aura.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/d/death-knell-aura/",
+  "source_name": "Spell: Death Knell Aura",
+  "sections": [
+    {
+      "id": "death_knell_aura",
+      "title": "Death Knell Aura",
+      "anchor_heading": "# Death Knell Aura",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Death Knell Aura, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

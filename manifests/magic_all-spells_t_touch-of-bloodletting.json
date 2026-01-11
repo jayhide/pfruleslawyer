@@ -1,0 +1,16 @@
+{
+  "file": "touch-of-bloodletting.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/t/touch-of-bloodletting/",
+  "source_name": "Spell: Touch of Bloodletting",
+  "sections": [
+    {
+      "id": "touch_of_bloodletting",
+      "title": "Touch of Bloodletting",
+      "anchor_heading": "# Touch of Bloodletting",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Touch of Bloodletting, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

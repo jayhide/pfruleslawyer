@@ -1,0 +1,16 @@
+{
+  "file": "wall-of-clockwork.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/w/wall-of-clockwork/",
+  "source_name": "Spell: Wall of Clockwork",
+  "sections": [
+    {
+      "id": "wall_of_clockwork",
+      "title": "Wall of Clockwork",
+      "anchor_heading": "# Wall of Clockwork",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Wall of Clockwork, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

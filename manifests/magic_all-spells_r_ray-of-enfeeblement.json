@@ -1,0 +1,16 @@
+{
+  "file": "ray-of-enfeeblement.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/r/ray-of-enfeeblement/",
+  "source_name": "Spell: Ray of Enfeeblement",
+  "sections": [
+    {
+      "id": "ray_of_enfeeblement",
+      "title": "Ray of Enfeeblement",
+      "anchor_heading": "# Ray of Enfeeblement",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Ray of Enfeeblement, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

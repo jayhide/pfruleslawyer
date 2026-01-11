@@ -1,0 +1,16 @@
+{
+  "file": "detect-mindscape.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/d/detect-mindscape/",
+  "source_name": "Spell: Detect Mindscape",
+  "sections": [
+    {
+      "id": "detect_mindscape",
+      "title": "Detect Mindscape",
+      "anchor_heading": "# Detect Mindscape",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Detect Mindscape, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

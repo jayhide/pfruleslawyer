@@ -1,0 +1,16 @@
+{
+  "file": "blade-snare.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/b/blade-snare/",
+  "source_name": "Spell: Blade Snare",
+  "sections": [
+    {
+      "id": "blade_snare",
+      "title": "Blade Snare",
+      "anchor_heading": "# Blade Snare",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Blade Snare, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

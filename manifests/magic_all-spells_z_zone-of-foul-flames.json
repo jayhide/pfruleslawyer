@@ -1,0 +1,16 @@
+{
+  "file": "zone-of-foul-flames.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/z/zone-of-foul-flames/",
+  "source_name": "Spell: Zone of Foul Flames",
+  "sections": [
+    {
+      "id": "zone_of_foul_flames",
+      "title": "Zone of Foul Flames",
+      "anchor_heading": "# Zone of Foul Flames",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Zone of Foul Flames, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

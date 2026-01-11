@@ -21,14 +21,16 @@
         "#### Bluff Unchained",
         "### Unofficial Extras!"
       ],
-      "description": "Rules for the Bluff skill, covering deception, lying, feinting in combat, conveying secret messages, and other uses of misdirection and verbal manipulation.",
+      "description": "Rules for the Bluff skill, covering lying, deception, feinting in combat, conveying secret messages, and various specialized uses like feigning harmlessness or performing inconspicuous actions.",
       "keywords": [
         "Bluff",
         "feint",
         "feinting",
         "secret message",
-        "deceive",
         "lie",
+        "lying",
+        "deceive",
+        "deception",
         "feign harmlessness",
         "inconspicuous action",
         "suggest course of action",
@@ -36,8 +38,9 @@
         "feign injury",
         "quick secret message",
         "Bluff Unchained",
-        "skill unlock"
+        "skill unlocks"
       ]
     }
-  ]
+  ],
+  "category": "Skills"
 }

@@ -1,0 +1,16 @@
+{
+  "file": "sense-madness.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/s/sense-madness/",
+  "source_name": "Spell: Sense Madness",
+  "sections": [
+    {
+      "id": "sense_madness",
+      "title": "Sense Madness",
+      "anchor_heading": "# Sense Madness",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Sense Madness, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

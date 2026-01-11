@@ -1,0 +1,16 @@
+{
+  "file": "pessimism.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/p/pessimism/",
+  "source_name": "Spell: Pessimism",
+  "sections": [
+    {
+      "id": "pessimism",
+      "title": "Pessimism",
+      "anchor_heading": "# Pessimism",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Pessimism, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

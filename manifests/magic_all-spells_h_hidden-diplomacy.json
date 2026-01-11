@@ -1,0 +1,16 @@
+{
+  "file": "hidden-diplomacy.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/h/hidden-diplomacy/",
+  "source_name": "Spell: Hidden Diplomacy",
+  "sections": [
+    {
+      "id": "hidden_diplomacy",
+      "title": "Hidden Diplomacy",
+      "anchor_heading": "# Hidden Diplomacy",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Hidden Diplomacy, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

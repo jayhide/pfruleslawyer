@@ -1,0 +1,16 @@
+{
+  "file": "ice-armor.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/i/ice-armor/",
+  "source_name": "Spell: Ice Armor",
+  "sections": [
+    {
+      "id": "ice_armor",
+      "title": "Ice Armor",
+      "anchor_heading": "# Ice Armor",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Ice Armor, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

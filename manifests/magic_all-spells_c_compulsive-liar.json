@@ -1,0 +1,16 @@
+{
+  "file": "compulsive-liar.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/c/compulsive-liar/",
+  "source_name": "Spell: Compulsive Liar",
+  "sections": [
+    {
+      "id": "compulsive_liar",
+      "title": "Compulsive Liar",
+      "anchor_heading": "# Compulsive Liar",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Compulsive Liar, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

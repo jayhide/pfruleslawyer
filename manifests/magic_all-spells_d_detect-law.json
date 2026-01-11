@@ -1,0 +1,16 @@
+{
+  "file": "detect-law.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/d/detect-law/",
+  "source_name": "Spell: Detect Law",
+  "sections": [
+    {
+      "id": "detect_law",
+      "title": "Detect Law",
+      "anchor_heading": "# Detect Law",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Detect Law, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

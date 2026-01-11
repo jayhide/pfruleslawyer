@@ -1,0 +1,16 @@
+{
+  "file": "linebreaker.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/l/linebreaker/",
+  "source_name": "Spell: Linebreaker",
+  "sections": [
+    {
+      "id": "linebreaker",
+      "title": "Linebreaker",
+      "anchor_heading": "# Linebreaker",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Linebreaker, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

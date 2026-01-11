@@ -1,0 +1,16 @@
+{
+  "file": "carve-passage-kobold.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/c/carve-passage-kobold/",
+  "source_name": "Spell: Carve Passage",
+  "sections": [
+    {
+      "id": "carve_passage_kobold",
+      "title": "Carve Passage",
+      "anchor_heading": "# Carve Passage",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Carve Passage, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

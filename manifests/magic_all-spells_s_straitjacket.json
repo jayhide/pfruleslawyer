@@ -1,0 +1,16 @@
+{
+  "file": "straitjacket.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/s/straitjacket/",
+  "source_name": "Spell: Straitjacket",
+  "sections": [
+    {
+      "id": "straitjacket",
+      "title": "Straitjacket",
+      "anchor_heading": "# Straitjacket",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Straitjacket, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

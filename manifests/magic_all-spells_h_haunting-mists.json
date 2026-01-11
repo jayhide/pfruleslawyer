@@ -1,0 +1,16 @@
+{
+  "file": "haunting-mists.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/h/haunting-mists/",
+  "source_name": "Spell: Haunting Mists",
+  "sections": [
+    {
+      "id": "haunting_mists",
+      "title": "Haunting Mists",
+      "anchor_heading": "# Haunting Mists",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Haunting Mists, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

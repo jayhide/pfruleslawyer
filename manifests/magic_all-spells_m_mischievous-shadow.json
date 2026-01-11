@@ -1,0 +1,16 @@
+{
+  "file": "mischievous-shadow.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/m/mischievous-shadow/",
+  "source_name": "Spell: Mischievous Shadow",
+  "sections": [
+    {
+      "id": "mischievous_shadow",
+      "title": "Mischievous Shadow",
+      "anchor_heading": "# Mischievous Shadow",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Mischievous Shadow, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

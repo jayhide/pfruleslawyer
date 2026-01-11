@@ -1,0 +1,16 @@
+{
+  "file": "rune-of-rule.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/r/rune-of-rule/",
+  "source_name": "Spell: Rune of Rule",
+  "sections": [
+    {
+      "id": "rune_of_rule",
+      "title": "Rune of Rule",
+      "anchor_heading": "# Rune of Rule",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Rune of Rule, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

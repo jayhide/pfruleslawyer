@@ -1,0 +1,16 @@
+{
+  "file": "mnemonic-enhancer.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/m/mnemonic-enhancer/",
+  "source_name": "Spell: Mnemonic Enhancer",
+  "sections": [
+    {
+      "id": "mnemonic_enhancer",
+      "title": "Mnemonic Enhancer",
+      "anchor_heading": "# Mnemonic Enhancer",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Mnemonic Enhancer, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

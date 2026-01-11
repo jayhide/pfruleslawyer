@@ -1,0 +1,16 @@
+{
+  "file": "heal.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/h/heal/",
+  "source_name": "Spell: Heal",
+  "sections": [
+    {
+      "id": "heal",
+      "title": "Heal",
+      "anchor_heading": "# Heal",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Heal, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

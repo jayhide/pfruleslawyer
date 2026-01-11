@@ -1,0 +1,16 @@
+{
+  "file": "sentry-skull.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/s/sentry-skull/",
+  "source_name": "Spell: Sentry Skull",
+  "sections": [
+    {
+      "id": "sentry_skull",
+      "title": "Sentry Skull",
+      "anchor_heading": "# Sentry Skull",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Sentry Skull, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

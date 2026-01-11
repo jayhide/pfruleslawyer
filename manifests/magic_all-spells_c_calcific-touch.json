@@ -1,0 +1,16 @@
+{
+  "file": "calcific-touch.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/c/calcific-touch/",
+  "source_name": "Spell: Calcific Touch",
+  "sections": [
+    {
+      "id": "calcific_touch",
+      "title": "Calcific Touch",
+      "anchor_heading": "# Calcific Touch",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Calcific Touch, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

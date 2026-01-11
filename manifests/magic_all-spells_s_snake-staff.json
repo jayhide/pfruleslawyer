@@ -1,0 +1,16 @@
+{
+  "file": "snake-staff.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/s/snake-staff/",
+  "source_name": "Spell: Snake Staff",
+  "sections": [
+    {
+      "id": "snake_staff",
+      "title": "Snake Staff",
+      "anchor_heading": "# Snake Staff",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Snake Staff, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

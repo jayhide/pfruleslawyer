@@ -1,0 +1,16 @@
+{
+  "file": "parasitic-soul.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/p/parasitic-soul/",
+  "source_name": "Spell: Parasitic Soul",
+  "sections": [
+    {
+      "id": "parasitic_soul",
+      "title": "Parasitic Soul",
+      "anchor_heading": "# Parasitic Soul",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Parasitic Soul, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

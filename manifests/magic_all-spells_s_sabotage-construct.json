@@ -1,0 +1,16 @@
+{
+  "file": "sabotage-construct.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/s/sabotage-construct/",
+  "source_name": "Spell: Sabotage Construct",
+  "sections": [
+    {
+      "id": "sabotage_construct",
+      "title": "Sabotage Construct",
+      "anchor_heading": "# Sabotage Construct",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Sabotage Construct, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

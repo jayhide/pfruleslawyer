@@ -1,0 +1,16 @@
+{
+  "file": "caustic-eruption.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/c/caustic-eruption/",
+  "source_name": "Spell: Caustic Eruption",
+  "sections": [
+    {
+      "id": "caustic_eruption",
+      "title": "Caustic Eruption",
+      "anchor_heading": "# Caustic Eruption",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Caustic Eruption, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

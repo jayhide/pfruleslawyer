@@ -1,0 +1,16 @@
+{
+  "file": "cursed-treasure.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/c/cursed-treasure/",
+  "source_name": "Spell: Cursed Treasure",
+  "sections": [
+    {
+      "id": "cursed_treasure",
+      "title": "Cursed Treasure",
+      "anchor_heading": "# Cursed Treasure",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Cursed Treasure, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

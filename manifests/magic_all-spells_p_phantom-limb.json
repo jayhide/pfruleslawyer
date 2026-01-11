@@ -1,0 +1,16 @@
+{
+  "file": "phantom-limb.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/p/phantom-limb/",
+  "source_name": "Spell: Phantom Limb",
+  "sections": [
+    {
+      "id": "phantom_limb",
+      "title": "Phantom Limb",
+      "anchor_heading": "# Phantom Limb",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Phantom Limb, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

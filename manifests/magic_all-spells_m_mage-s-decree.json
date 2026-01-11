@@ -1,0 +1,16 @@
+{
+  "file": "mage-s-decree.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/m/mage-s-decree/",
+  "source_name": "Spell: Mage\u2019s Decree",
+  "sections": [
+    {
+      "id": "mage_s_decree",
+      "title": "Mage\u2019s Decree",
+      "anchor_heading": "# Mage\u2019s Decree",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Mage\u2019s Decree, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

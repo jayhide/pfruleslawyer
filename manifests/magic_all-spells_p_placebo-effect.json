@@ -1,0 +1,16 @@
+{
+  "file": "placebo-effect.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/p/placebo-effect/",
+  "source_name": "Spell: Placebo Effect",
+  "sections": [
+    {
+      "id": "placebo_effect",
+      "title": "Placebo Effect",
+      "anchor_heading": "# Placebo Effect",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Placebo Effect, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

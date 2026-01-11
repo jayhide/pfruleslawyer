@@ -1,0 +1,16 @@
+{
+  "file": "unwilling-shield.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/u/unwilling-shield/",
+  "source_name": "Spell: Unwilling Shield",
+  "sections": [
+    {
+      "id": "unwilling_shield",
+      "title": "Unwilling Shield",
+      "anchor_heading": "# Unwilling Shield",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Unwilling Shield, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

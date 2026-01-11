@@ -1,0 +1,16 @@
+{
+  "file": "litany-of-order.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/l/litany-of-order/",
+  "source_name": "Spell: Litany of Order",
+  "sections": [
+    {
+      "id": "litany_of_order",
+      "title": "Litany of Order",
+      "anchor_heading": "# Litany of Order",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Litany of Order, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

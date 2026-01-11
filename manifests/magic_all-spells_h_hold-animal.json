@@ -1,0 +1,16 @@
+{
+  "file": "hold-animal.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/h/hold-animal/",
+  "source_name": "Spell: Hold Animal",
+  "sections": [
+    {
+      "id": "hold_animal",
+      "title": "Hold Animal",
+      "anchor_heading": "# Hold Animal",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Hold Animal, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

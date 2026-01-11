@@ -1,0 +1,16 @@
+{
+  "file": "rain-of-arrows.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/r/rain-of-arrows/",
+  "source_name": "Spell: Rain of Arrows",
+  "sections": [
+    {
+      "id": "rain_of_arrows",
+      "title": "Rain of Arrows",
+      "anchor_heading": "# Rain of Arrows",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Rain of Arrows, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

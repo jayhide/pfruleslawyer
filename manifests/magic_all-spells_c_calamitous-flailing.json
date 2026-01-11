@@ -1,0 +1,16 @@
+{
+  "file": "calamitous-flailing.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/c/calamitous-flailing/",
+  "source_name": "Spell: Calamitous Flailing",
+  "sections": [
+    {
+      "id": "calamitous_flailing",
+      "title": "Calamitous Flailing",
+      "anchor_heading": "# Calamitous Flailing",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Calamitous Flailing, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

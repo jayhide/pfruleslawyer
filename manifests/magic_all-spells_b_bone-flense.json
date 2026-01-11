@@ -1,0 +1,16 @@
+{
+  "file": "bone-flense.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/b/bone-flense/",
+  "source_name": "Spell: Bone Flense",
+  "sections": [
+    {
+      "id": "bone_flense",
+      "title": "Bone Flense",
+      "anchor_heading": "# Bone Flense",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Bone Flense, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

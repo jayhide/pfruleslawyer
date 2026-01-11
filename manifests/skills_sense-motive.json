@@ -25,28 +25,25 @@
         "### Using Magic to Bargain",
         "### Unofficial Extras!"
       ],
-      "description": "Rules for the Sense Motive skill including detecting lies, enchantments, and secret messages, plus detailed bargaining mechanics for buying and selling items.",
+      "description": "Covers the Sense Motive skill including detecting lies, sensing enchantments, discerning secret messages, skill unlocks, and detailed bargaining mechanics for buying and selling items.",
       "keywords": [
-        "Sense Motive",
+        "sense motive",
         "hunch",
         "sense enchantment",
         "discern secret message",
-        "detect falsehoods",
-        "trustworthiness",
+        "bluff detection",
         "bargaining",
         "valuation",
         "appraise",
         "asking price",
         "undercut",
-        "initial offer",
-        "final offer",
-        "collector NPCs",
+        "collector npcs",
         "flooding the market",
         "analyze prowess",
         "quick scan",
-        "Sense Motive Unchained",
         "skill unlocks"
       ]
     }
-  ]
+  ],
+  "category": "Skills"
 }

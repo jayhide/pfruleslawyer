@@ -1,0 +1,16 @@
+{
+  "file": "breath-of-life.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/b/breath-of-life/",
+  "source_name": "Spell: Breath of Life",
+  "sections": [
+    {
+      "id": "breath_of_life",
+      "title": "Breath of Life",
+      "anchor_heading": "# Breath of Life",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Breath of Life, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

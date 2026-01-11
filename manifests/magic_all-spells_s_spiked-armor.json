@@ -1,0 +1,16 @@
+{
+  "file": "spiked-armor.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/s/spiked-armor/",
+  "source_name": "Spell: Spiked Armor",
+  "sections": [
+    {
+      "id": "spiked_armor",
+      "title": "Spiked Armor",
+      "anchor_heading": "# Spiked Armor",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Spiked Armor, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

@@ -1,0 +1,16 @@
+{
+  "file": "eagle-aerie.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/e/eagle-aerie/",
+  "source_name": "Spell: Eagle Aerie",
+  "sections": [
+    {
+      "id": "eagle_aerie",
+      "title": "Eagle Aerie",
+      "anchor_heading": "# Eagle Aerie",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Eagle Aerie, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

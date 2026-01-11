@@ -1,0 +1,16 @@
+{
+  "file": "compelling-rant.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/c/compelling-rant/",
+  "source_name": "Spell: Compelling Rant",
+  "sections": [
+    {
+      "id": "compelling_rant",
+      "title": "Compelling Rant",
+      "anchor_heading": "# Compelling Rant",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Compelling Rant, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

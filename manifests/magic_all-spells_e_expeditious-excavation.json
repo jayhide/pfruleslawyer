@@ -1,0 +1,16 @@
+{
+  "file": "expeditious-excavation.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/e/expeditious-excavation/",
+  "source_name": "Spell: Expeditious Excavation",
+  "sections": [
+    {
+      "id": "expeditious_excavation",
+      "title": "Expeditious Excavation",
+      "anchor_heading": "# Expeditious Excavation",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Expeditious Excavation, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

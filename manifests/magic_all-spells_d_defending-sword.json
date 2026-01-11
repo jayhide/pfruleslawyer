@@ -1,0 +1,16 @@
+{
+  "file": "defending-sword.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/d/defending-sword/",
+  "source_name": "Spell: Defending Sword",
+  "sections": [
+    {
+      "id": "defending_sword",
+      "title": "Defending Sword",
+      "anchor_heading": "# Defending Sword",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Defending Sword, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

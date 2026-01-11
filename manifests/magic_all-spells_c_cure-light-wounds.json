@@ -1,0 +1,16 @@
+{
+  "file": "cure-light-wounds.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/c/cure-light-wounds/",
+  "source_name": "Spell: Cure Light Wounds",
+  "sections": [
+    {
+      "id": "cure_light_wounds",
+      "title": "Cure Light Wounds",
+      "anchor_heading": "# Cure Light Wounds",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Cure Light Wounds, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

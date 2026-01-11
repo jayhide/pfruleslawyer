@@ -1,0 +1,16 @@
+{
+  "file": "eldritch-fever.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/e/eldritch-fever/",
+  "source_name": "Spell: Eldritch Fever",
+  "sections": [
+    {
+      "id": "eldritch_fever",
+      "title": "Eldritch Fever",
+      "anchor_heading": "# Eldritch Fever",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Eldritch Fever, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

@@ -1,0 +1,16 @@
+{
+  "file": "accept-affliction.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/a/accept-affliction/",
+  "source_name": "Spell: Accept Affliction",
+  "sections": [
+    {
+      "id": "accept_affliction",
+      "title": "Accept Affliction",
+      "anchor_heading": "# Accept Affliction",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Accept Affliction, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

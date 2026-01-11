@@ -1,0 +1,16 @@
+{
+  "file": "divine-pursuit.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/d/divine-pursuit/",
+  "source_name": "Spell: Divine Pursuit",
+  "sections": [
+    {
+      "id": "divine_pursuit",
+      "title": "Divine Pursuit",
+      "anchor_heading": "# Divine Pursuit",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Divine Pursuit, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

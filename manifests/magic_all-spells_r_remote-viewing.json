@@ -1,0 +1,16 @@
+{
+  "file": "remote-viewing.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/r/remote-viewing/",
+  "source_name": "Spell: Remote Viewing",
+  "sections": [
+    {
+      "id": "remote_viewing",
+      "title": "Remote Viewing",
+      "anchor_heading": "# Remote Viewing",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Remote Viewing, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

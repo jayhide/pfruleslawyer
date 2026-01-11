@@ -1,0 +1,16 @@
+{
+  "file": "neutral-buoyancy.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/n/neutral-buoyancy/",
+  "source_name": "Spell: Neutral Buoyancy",
+  "sections": [
+    {
+      "id": "neutral_buoyancy",
+      "title": "Neutral Buoyancy",
+      "anchor_heading": "# Neutral Buoyancy",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Neutral Buoyancy, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

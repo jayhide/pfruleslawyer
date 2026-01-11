@@ -1,0 +1,16 @@
+{
+  "file": "imprisonment.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/i/imprisonment/",
+  "source_name": "Spell: Imprisonment",
+  "sections": [
+    {
+      "id": "imprisonment",
+      "title": "Imprisonment",
+      "anchor_heading": "# Imprisonment",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Imprisonment, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

@@ -1,0 +1,16 @@
+{
+  "file": "power-word-kill.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/p/power-word-kill/",
+  "source_name": "Spell: Power Word Kill",
+  "sections": [
+    {
+      "id": "power_word_kill",
+      "title": "Power Word Kill",
+      "anchor_heading": "# Power Word Kill",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Power Word Kill, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

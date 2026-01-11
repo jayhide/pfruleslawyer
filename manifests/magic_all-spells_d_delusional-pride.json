@@ -1,0 +1,16 @@
+{
+  "file": "delusional-pride.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/d/delusional-pride/",
+  "source_name": "Spell: Delusional Pride",
+  "sections": [
+    {
+      "id": "delusional_pride",
+      "title": "Delusional Pride",
+      "anchor_heading": "# Delusional Pride",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Delusional Pride, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

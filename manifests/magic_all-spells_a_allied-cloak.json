@@ -1,0 +1,16 @@
+{
+  "file": "allied-cloak.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/a/allied-cloak/",
+  "source_name": "Spell: Allied Cloak",
+  "sections": [
+    {
+      "id": "allied_cloak",
+      "title": "Allied Cloak",
+      "anchor_heading": "# Allied Cloak",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Allied Cloak, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

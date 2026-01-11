@@ -1,0 +1,16 @@
+{
+  "file": "invigorating-poison.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/i/invigorating-poison/",
+  "source_name": "Spell: Invigorating Poison",
+  "sections": [
+    {
+      "id": "invigorating_poison",
+      "title": "Invigorating Poison",
+      "anchor_heading": "# Invigorating Poison",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Invigorating Poison, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

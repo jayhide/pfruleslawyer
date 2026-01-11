@@ -94,7 +94,6 @@ Each manifest in `manifests/` contains sections with:
 - `id` - Unique identifier
 - `title` - Human-readable name
 - `anchor_heading` - Exact markdown heading to locate the section
-- `includes_subheadings` - Subheadings contained in this section
 - `description` - Brief summary of the rules covered
 - `keywords` - Terms for retrieval matching
 
@@ -142,6 +141,16 @@ results = store.query("what happens when I fall unconscious", n_results=5)
 for r in results:
     print(f"{r['title']} (score: {r['score']:.3f})")
     print(r['content'])
+```
+
+### Link Resolution
+
+The vector store supports following links with URL fragments (e.g., `#spell_combat_ex`). Anchor IDs are extracted directly from markdown headings like `#### Spell Combat (Ex) {#spell_combat_ex}` and indexed for lookup:
+
+```python
+store = RulesVectorStore()
+result = store.resolve_link("https://www.d20pfsrd.com/classes/base-classes/magus#spell_combat_ex")
+print(result["content"])  # Returns section containing the anchor
 ```
 
 ## Asking Rules Questions

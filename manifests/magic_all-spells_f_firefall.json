@@ -1,0 +1,16 @@
+{
+  "file": "firefall.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/f/firefall/",
+  "source_name": "Spell: Firefall",
+  "sections": [
+    {
+      "id": "firefall",
+      "title": "Firefall",
+      "anchor_heading": "# Firefall",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Firefall, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

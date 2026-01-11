@@ -1,0 +1,16 @@
+{
+  "file": "jealous-rage.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/j/jealous-rage/",
+  "source_name": "Spell: Jealous Rage",
+  "sections": [
+    {
+      "id": "jealous_rage",
+      "title": "Jealous Rage",
+      "anchor_heading": "# Jealous Rage",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Jealous Rage, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

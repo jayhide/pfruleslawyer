@@ -1,0 +1,16 @@
+{
+  "file": "dream-scan.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/d/dream-scan/",
+  "source_name": "Spell: Dream Scan",
+  "sections": [
+    {
+      "id": "dream_scan",
+      "title": "Dream Scan",
+      "anchor_heading": "# Dream Scan",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Dream Scan, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

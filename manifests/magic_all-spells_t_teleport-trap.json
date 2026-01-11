@@ -1,0 +1,16 @@
+{
+  "file": "teleport-trap.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/t/teleport-trap/",
+  "source_name": "Spell: Teleport Trap",
+  "sections": [
+    {
+      "id": "teleport_trap",
+      "title": "Teleport Trap",
+      "anchor_heading": "# Teleport Trap",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Teleport Trap, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

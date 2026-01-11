@@ -1,0 +1,16 @@
+{
+  "file": "unshakable-chill.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/u/unshakable-chill/",
+  "source_name": "Spell: Unshakable Chill",
+  "sections": [
+    {
+      "id": "unshakable_chill",
+      "title": "Unshakable Chill",
+      "anchor_heading": "# Unshakable Chill",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Unshakable Chill, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

@@ -1,0 +1,16 @@
+{
+  "file": "familiar-figment.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/f/familiar-figment/",
+  "source_name": "Spell: Familiar Figment",
+  "sections": [
+    {
+      "id": "familiar_figment",
+      "title": "Familiar Figment",
+      "anchor_heading": "# Familiar Figment",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Familiar Figment, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

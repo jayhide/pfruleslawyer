@@ -1,0 +1,16 @@
+{
+  "file": "cleansing-fire.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/c/cleansing-fire/",
+  "source_name": "Spell: Cleansing Fire",
+  "sections": [
+    {
+      "id": "cleansing_fire",
+      "title": "Cleansing Fire",
+      "anchor_heading": "# Cleansing Fire",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Cleansing Fire, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

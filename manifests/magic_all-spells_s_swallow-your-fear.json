@@ -1,0 +1,16 @@
+{
+  "file": "swallow-your-fear.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/s/swallow-your-fear/",
+  "source_name": "Spell: Swallow Your Fear",
+  "sections": [
+    {
+      "id": "swallow_your_fear",
+      "title": "Swallow Your Fear",
+      "anchor_heading": "# Swallow Your Fear",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Swallow Your Fear, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

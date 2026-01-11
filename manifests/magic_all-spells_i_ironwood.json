@@ -1,0 +1,16 @@
+{
+  "file": "ironwood.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/i/ironwood/",
+  "source_name": "Spell: Ironwood",
+  "sections": [
+    {
+      "id": "ironwood",
+      "title": "Ironwood",
+      "anchor_heading": "# Ironwood",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Ironwood, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

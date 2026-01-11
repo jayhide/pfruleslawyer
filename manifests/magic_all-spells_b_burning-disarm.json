@@ -1,0 +1,16 @@
+{
+  "file": "burning-disarm.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/b/burning-disarm/",
+  "source_name": "Spell: Burning Disarm",
+  "sections": [
+    {
+      "id": "burning_disarm",
+      "title": "Burning Disarm",
+      "anchor_heading": "# Burning Disarm",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Burning Disarm, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

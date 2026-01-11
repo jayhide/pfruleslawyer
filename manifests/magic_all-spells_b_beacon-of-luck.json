@@ -1,0 +1,16 @@
+{
+  "file": "beacon-of-luck.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/b/beacon-of-luck/",
+  "source_name": "Spell: Beacon of Luck",
+  "sections": [
+    {
+      "id": "beacon_of_luck",
+      "title": "Beacon of Luck",
+      "anchor_heading": "# Beacon of Luck",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Beacon of Luck, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

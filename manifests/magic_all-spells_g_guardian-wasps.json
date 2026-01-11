@@ -1,0 +1,16 @@
+{
+  "file": "guardian-wasps.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/g/guardian-wasps/",
+  "source_name": "Spell: Guardian Wasps",
+  "sections": [
+    {
+      "id": "guardian_wasps",
+      "title": "Guardian Wasps",
+      "anchor_heading": "# Guardian Wasps",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Guardian Wasps, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

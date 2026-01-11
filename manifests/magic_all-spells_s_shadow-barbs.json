@@ -1,0 +1,16 @@
+{
+  "file": "shadow-barbs.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/s/shadow-barbs/",
+  "source_name": "Spell: Shadow Barbs",
+  "sections": [
+    {
+      "id": "shadow_barbs",
+      "title": "Shadow Barbs",
+      "anchor_heading": "# Shadow Barbs",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Shadow Barbs, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

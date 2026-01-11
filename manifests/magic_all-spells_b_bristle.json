@@ -1,0 +1,16 @@
+{
+  "file": "bristle.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/b/bristle/",
+  "source_name": "Spell: Bristle",
+  "sections": [
+    {
+      "id": "bristle",
+      "title": "Bristle",
+      "anchor_heading": "# Bristle",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Bristle, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

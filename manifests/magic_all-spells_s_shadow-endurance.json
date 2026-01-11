@@ -1,0 +1,16 @@
+{
+  "file": "shadow-endurance.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/s/shadow-endurance/",
+  "source_name": "Spell: Shadow Endurance",
+  "sections": [
+    {
+      "id": "shadow_endurance",
+      "title": "Shadow Endurance",
+      "anchor_heading": "# Shadow Endurance",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Shadow Endurance, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

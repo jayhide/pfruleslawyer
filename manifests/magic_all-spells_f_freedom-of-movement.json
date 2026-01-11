@@ -1,0 +1,16 @@
+{
+  "file": "freedom-of-movement.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/f/freedom-of-movement/",
+  "source_name": "Spell: Freedom of Movement",
+  "sections": [
+    {
+      "id": "freedom_of_movement",
+      "title": "Freedom of Movement",
+      "anchor_heading": "# Freedom of Movement",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Freedom of Movement, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

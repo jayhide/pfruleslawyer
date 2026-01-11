@@ -1,0 +1,16 @@
+{
+  "file": "sleepwalking-suggestion.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/s/sleepwalking-suggestion/",
+  "source_name": "Spell: Sleepwalking Suggestion",
+  "sections": [
+    {
+      "id": "sleepwalking_suggestion",
+      "title": "Sleepwalking Suggestion",
+      "anchor_heading": "# Sleepwalking Suggestion",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Sleepwalking Suggestion, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

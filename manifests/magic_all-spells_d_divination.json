@@ -1,0 +1,16 @@
+{
+  "file": "divination.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/d/divination/",
+  "source_name": "Spell: Divination",
+  "sections": [
+    {
+      "id": "divination",
+      "title": "Divination",
+      "anchor_heading": "# Divination",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Divination, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

@@ -1,0 +1,16 @@
+{
+  "file": "gravel-vortex.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/g/gravel-vortex/",
+  "source_name": "Spell: Gravel Vortex",
+  "sections": [
+    {
+      "id": "gravel_vortex",
+      "title": "Gravel Vortex",
+      "anchor_heading": "# Gravel Vortex",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Gravel Vortex, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

@@ -1,0 +1,16 @@
+{
+  "file": "minor-image.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/m/minor-image/",
+  "source_name": "Spell: Minor Image",
+  "sections": [
+    {
+      "id": "minor_image",
+      "title": "Minor Image",
+      "anchor_heading": "# Minor Image",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Minor Image, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

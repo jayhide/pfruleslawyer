@@ -1,0 +1,16 @@
+{
+  "file": "hollow-blades.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/h/hollow-blades/",
+  "source_name": "Spell: Hollow Blades",
+  "sections": [
+    {
+      "id": "hollow_blades",
+      "title": "Hollow Blades",
+      "anchor_heading": "# Hollow Blades",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Hollow Blades, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

@@ -1,0 +1,16 @@
+{
+  "file": "phase-door.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/p/phase-door/",
+  "source_name": "Spell: Phase Door",
+  "sections": [
+    {
+      "id": "phase_door",
+      "title": "Phase Door",
+      "anchor_heading": "# Phase Door",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Phase Door, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

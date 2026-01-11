@@ -23,25 +23,30 @@
         "#### Aspect of War (Su)",
         "#### Hammer of God (Su)"
       ],
-      "description": "Complete rules for the Warpriest hybrid class, covering all class features, abilities, spell casting, blessings, sacred weapons and armor, fervor, and class progression from levels 1-20.",
+      "description": "Comprehensive rules for the Warpriest hybrid class, covering divine spellcasting, sacred weapon and armor abilities, blessings, fervor, channel energy, and all class features from 1st to 20th level.",
       "keywords": [
         "warpriest",
         "sacred weapon",
-        "fervor",
-        "blessings",
         "sacred armor",
+        "blessings",
+        "fervor",
         "channel energy",
         "focus weapon",
-        "aspect of war",
-        "divine spellcasting",
-        "bonus feats",
         "aura",
+        "aspect of war",
+        "divine spellcaster",
         "orisons",
         "spontaneous casting",
+        "bonus feats",
+        "weapon focus",
+        "enhancement bonus",
+        "weapon special abilities",
+        "armor special abilities",
         "hammer of god",
-        "ex-warpriests",
+        "ex-warpriest",
         "favored class bonuses"
       ]
     }
-  ]
+  ],
+  "category": "Classes"
 }

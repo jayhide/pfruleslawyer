@@ -1,0 +1,16 @@
+{
+  "file": "implant-urge.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/i/implant-urge/",
+  "source_name": "Spell: Implant Urge",
+  "sections": [
+    {
+      "id": "implant_urge",
+      "title": "Implant Urge",
+      "anchor_heading": "# Implant Urge",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Implant Urge, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

@@ -1,0 +1,16 @@
+{
+  "file": "blazing-rainbow.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/b/blazing-rainbow/",
+  "source_name": "Spell: Blazing Rainbow",
+  "sections": [
+    {
+      "id": "blazing_rainbow",
+      "title": "Blazing Rainbow",
+      "anchor_heading": "# Blazing Rainbow",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Blazing Rainbow, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

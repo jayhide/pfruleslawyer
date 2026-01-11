@@ -1,0 +1,16 @@
+{
+  "file": "bloody-arrows.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/b/bloody-arrows/",
+  "source_name": "Spell: Bloody Arrows",
+  "sections": [
+    {
+      "id": "bloody_arrows",
+      "title": "Bloody Arrows",
+      "anchor_heading": "# Bloody Arrows",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Bloody Arrows, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

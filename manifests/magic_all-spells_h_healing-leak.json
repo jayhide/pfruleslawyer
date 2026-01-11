@@ -1,0 +1,16 @@
+{
+  "file": "healing-leak.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/h/healing-leak/",
+  "source_name": "Spell: Healing Leak",
+  "sections": [
+    {
+      "id": "healing_leak",
+      "title": "Healing Leak",
+      "anchor_heading": "# Healing Leak",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Healing Leak, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

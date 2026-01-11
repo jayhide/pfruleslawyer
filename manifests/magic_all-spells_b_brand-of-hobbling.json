@@ -1,0 +1,16 @@
+{
+  "file": "brand-of-hobbling.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/b/brand-of-hobbling/",
+  "source_name": "Spell: Brand of Hobbling",
+  "sections": [
+    {
+      "id": "brand_of_hobbling",
+      "title": "Brand of Hobbling",
+      "anchor_heading": "# Brand of Hobbling",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Brand of Hobbling, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

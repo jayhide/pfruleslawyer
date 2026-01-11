@@ -1,0 +1,16 @@
+{
+  "file": "alter-summoned-monster.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/a/alter-summoned-monster/",
+  "source_name": "Spell: Alter Summoned Monster",
+  "sections": [
+    {
+      "id": "alter_summoned_monster",
+      "title": "Alter Summoned Monster",
+      "anchor_heading": "# Alter Summoned Monster",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Alter Summoned Monster, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

@@ -1,0 +1,16 @@
+{
+  "file": "lost-legacy.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/l/lost-legacy/",
+  "source_name": "Spell: Lost Legacy",
+  "sections": [
+    {
+      "id": "lost_legacy",
+      "title": "Lost Legacy",
+      "anchor_heading": "# Lost Legacy",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Lost Legacy, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

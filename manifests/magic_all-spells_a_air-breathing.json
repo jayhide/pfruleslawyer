@@ -1,0 +1,16 @@
+{
+  "file": "air-breathing.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/a/air-breathing/",
+  "source_name": "Spell: Air Breathing",
+  "sections": [
+    {
+      "id": "air_breathing",
+      "title": "Air Breathing",
+      "anchor_heading": "# Air Breathing",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Air Breathing, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

@@ -1,0 +1,16 @@
+{
+  "file": "cloak-of-chaos.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/c/cloak-of-chaos/",
+  "source_name": "Spell: Cloak of Chaos",
+  "sections": [
+    {
+      "id": "cloak_of_chaos",
+      "title": "Cloak of Chaos",
+      "anchor_heading": "# Cloak of Chaos",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Cloak of Chaos, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

@@ -1,0 +1,16 @@
+{
+  "file": "knell-of-the-depths.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/k/knell-of-the-depths/",
+  "source_name": "Spell: Knell of the Depths",
+  "sections": [
+    {
+      "id": "knell_of_the_depths",
+      "title": "Knell of the Depths",
+      "anchor_heading": "# Knell of the Depths",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Knell of the Depths, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

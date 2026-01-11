@@ -1,0 +1,16 @@
+{
+  "file": "prosperous-room.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/p/prosperous-room/",
+  "source_name": "Spell: Prosperous Room",
+  "sections": [
+    {
+      "id": "prosperous_room",
+      "title": "Prosperous Room",
+      "anchor_heading": "# Prosperous Room",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Prosperous Room, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

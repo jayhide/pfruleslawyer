@@ -1,0 +1,16 @@
+{
+  "file": "coordinated-effort.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/c/coordinated-effort/",
+  "source_name": "Spell: Coordinated Effort",
+  "sections": [
+    {
+      "id": "coordinated_effort",
+      "title": "Coordinated Effort",
+      "anchor_heading": "# Coordinated Effort",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Coordinated Effort, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

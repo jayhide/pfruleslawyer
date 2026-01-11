@@ -1,0 +1,16 @@
+{
+  "file": "telekinetic-storm.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/t/telekinetic-storm/",
+  "source_name": "Spell: Telekinetic Storm",
+  "sections": [
+    {
+      "id": "telekinetic_storm",
+      "title": "Telekinetic Storm",
+      "anchor_heading": "# Telekinetic Storm",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Telekinetic Storm, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

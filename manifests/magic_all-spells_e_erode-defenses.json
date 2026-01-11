@@ -1,0 +1,16 @@
+{
+  "file": "erode-defenses.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/e/erode-defenses/",
+  "source_name": "Spell: Erode Defenses",
+  "sections": [
+    {
+      "id": "erode_defenses",
+      "title": "Erode Defenses",
+      "anchor_heading": "# Erode Defenses",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Erode Defenses, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

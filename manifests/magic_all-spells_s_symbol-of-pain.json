@@ -1,0 +1,16 @@
+{
+  "file": "symbol-of-pain.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/s/symbol-of-pain/",
+  "source_name": "Spell: Symbol of Pain",
+  "sections": [
+    {
+      "id": "symbol_of_pain",
+      "title": "Symbol of Pain",
+      "anchor_heading": "# Symbol of Pain",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Symbol of Pain, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

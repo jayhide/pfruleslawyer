@@ -1,0 +1,16 @@
+{
+  "file": "project-image.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/p/project-image/",
+  "source_name": "Spell: Project Image",
+  "sections": [
+    {
+      "id": "project_image",
+      "title": "Project Image",
+      "anchor_heading": "# Project Image",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Project Image, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

@@ -1,0 +1,16 @@
+{
+  "file": "lead-blades.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/l/lead-blades/",
+  "source_name": "Spell: Lead Blades",
+  "sections": [
+    {
+      "id": "lead_blades",
+      "title": "Lead Blades",
+      "anchor_heading": "# Lead Blades",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Lead Blades, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

@@ -1,0 +1,16 @@
+{
+  "file": "brittle-portal.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/b/brittle-portal/",
+  "source_name": "Spell: Brittle Portal",
+  "sections": [
+    {
+      "id": "brittle_portal",
+      "title": "Brittle Portal",
+      "anchor_heading": "# Brittle Portal",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Brittle Portal, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

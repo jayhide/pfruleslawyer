@@ -1,0 +1,16 @@
+{
+  "file": "pouncing-fury.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/p/pouncing-fury/",
+  "source_name": "Spell: Pouncing Fury",
+  "sections": [
+    {
+      "id": "pouncing_fury",
+      "title": "Pouncing Fury",
+      "anchor_heading": "# Pouncing Fury",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Pouncing Fury, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

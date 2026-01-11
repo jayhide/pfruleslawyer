@@ -1,0 +1,16 @@
+{
+  "file": "spirit-call.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/s/spirit-call/",
+  "source_name": "Spell: Spirit Call",
+  "sections": [
+    {
+      "id": "spirit_call",
+      "title": "Spirit Call",
+      "anchor_heading": "# Spirit Call",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Spirit Call, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

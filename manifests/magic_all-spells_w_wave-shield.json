@@ -1,0 +1,16 @@
+{
+  "file": "wave-shield.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/w/wave-shield/",
+  "source_name": "Spell: Wave Shield",
+  "sections": [
+    {
+      "id": "wave_shield",
+      "title": "Wave Shield",
+      "anchor_heading": "# Wave Shield",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Wave Shield, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

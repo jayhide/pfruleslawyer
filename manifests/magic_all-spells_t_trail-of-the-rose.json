@@ -1,0 +1,16 @@
+{
+  "file": "trail-of-the-rose.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/t/trail-of-the-rose/",
+  "source_name": "Spell: Trail of the Rose",
+  "sections": [
+    {
+      "id": "trail_of_the_rose",
+      "title": "Trail of the Rose",
+      "anchor_heading": "# Trail of the Rose",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Trail of the Rose, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

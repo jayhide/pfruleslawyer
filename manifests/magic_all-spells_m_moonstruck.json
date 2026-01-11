@@ -1,0 +1,16 @@
+{
+  "file": "moonstruck.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/m/moonstruck/",
+  "source_name": "Spell: Moonstruck",
+  "sections": [
+    {
+      "id": "moonstruck",
+      "title": "Moonstruck",
+      "anchor_heading": "# Moonstruck",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Moonstruck, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

@@ -1,0 +1,16 @@
+{
+  "file": "goodberry.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/g/goodberry/",
+  "source_name": "Spell: Goodberry",
+  "sections": [
+    {
+      "id": "goodberry",
+      "title": "Goodberry",
+      "anchor_heading": "# Goodberry",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Goodberry, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

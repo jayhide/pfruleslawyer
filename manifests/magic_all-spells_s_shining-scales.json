@@ -1,0 +1,16 @@
+{
+  "file": "shining-scales.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/s/shining-scales/",
+  "source_name": "Spell: Shining Scales",
+  "sections": [
+    {
+      "id": "shining_scales",
+      "title": "Shining Scales",
+      "anchor_heading": "# Shining Scales",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Shining Scales, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

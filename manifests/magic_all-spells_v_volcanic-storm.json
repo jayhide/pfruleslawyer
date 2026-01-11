@@ -1,0 +1,16 @@
+{
+  "file": "volcanic-storm.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/v/volcanic-storm/",
+  "source_name": "Spell: Volcanic Storm",
+  "sections": [
+    {
+      "id": "volcanic_storm",
+      "title": "Volcanic Storm",
+      "anchor_heading": "# Volcanic Storm",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Volcanic Storm, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

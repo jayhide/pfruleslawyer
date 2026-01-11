@@ -1,0 +1,16 @@
+{
+  "file": "obscure-object.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/o/obscure-object/",
+  "source_name": "Spell: Obscure Object",
+  "sections": [
+    {
+      "id": "obscure_object",
+      "title": "Obscure Object",
+      "anchor_heading": "# Obscure Object",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Obscure Object, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

@@ -1,0 +1,16 @@
+{
+  "file": "share-shape.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/s/share-shape/",
+  "source_name": "Spell: Share Shape",
+  "sections": [
+    {
+      "id": "share_shape",
+      "title": "Share Shape",
+      "anchor_heading": "# Share Shape",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Share Shape, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

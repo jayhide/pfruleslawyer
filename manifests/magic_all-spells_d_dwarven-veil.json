@@ -1,0 +1,16 @@
+{
+  "file": "dwarven-veil.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/d/dwarven-veil/",
+  "source_name": "Spell: Dwarven Veil",
+  "sections": [
+    {
+      "id": "dwarven_veil",
+      "title": "Dwarven Veil",
+      "anchor_heading": "# Dwarven Veil",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Dwarven Veil, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

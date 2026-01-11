@@ -1,0 +1,16 @@
+{
+  "file": "heightened-reflexes.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/h/heightened-reflexes/",
+  "source_name": "Spell: Heightened Reflexes",
+  "sections": [
+    {
+      "id": "heightened_reflexes",
+      "title": "Heightened Reflexes",
+      "anchor_heading": "# Heightened Reflexes",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Heightened Reflexes, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

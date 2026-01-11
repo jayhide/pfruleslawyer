@@ -1,0 +1,16 @@
+{
+  "file": "pellet-blast.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/p/pellet-blast/",
+  "source_name": "Spell: Pellet Blast",
+  "sections": [
+    {
+      "id": "pellet_blast",
+      "title": "Pellet Blast",
+      "anchor_heading": "# Pellet Blast",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Pellet Blast, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

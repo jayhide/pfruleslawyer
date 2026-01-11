@@ -1,0 +1,16 @@
+{
+  "file": "sympathy.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/s/sympathy/",
+  "source_name": "Spell: Sympathy",
+  "sections": [
+    {
+      "id": "sympathy",
+      "title": "Sympathy",
+      "anchor_heading": "# Sympathy",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Sympathy, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

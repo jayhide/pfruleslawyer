@@ -1,0 +1,16 @@
+{
+  "file": "grappling-scarf.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/g/grappling-scarf/",
+  "source_name": "Spell: Grappling Scarf",
+  "sections": [
+    {
+      "id": "grappling_scarf",
+      "title": "Grappling Scarf",
+      "anchor_heading": "# Grappling Scarf",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Grappling Scarf, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

@@ -1,0 +1,16 @@
+{
+  "file": "oasis.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/o/oasis/",
+  "source_name": "Spell: Oasis",
+  "sections": [
+    {
+      "id": "oasis",
+      "title": "Oasis",
+      "anchor_heading": "# Oasis",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Oasis, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

@@ -1,0 +1,16 @@
+{
+  "file": "flare.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/f/flare/",
+  "source_name": "Spell: Flare",
+  "sections": [
+    {
+      "id": "flare",
+      "title": "Flare",
+      "anchor_heading": "# Flare",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Flare, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

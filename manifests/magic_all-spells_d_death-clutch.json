@@ -1,0 +1,16 @@
+{
+  "file": "death-clutch.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/d/death-clutch/",
+  "source_name": "Spell: Death Clutch",
+  "sections": [
+    {
+      "id": "death_clutch",
+      "title": "Death Clutch",
+      "anchor_heading": "# Death Clutch",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Death Clutch, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

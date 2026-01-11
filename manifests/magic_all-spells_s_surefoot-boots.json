@@ -1,0 +1,16 @@
+{
+  "file": "surefoot-boots.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/s/surefoot-boots/",
+  "source_name": "Spell: Surefoot Boots",
+  "sections": [
+    {
+      "id": "surefoot_boots",
+      "title": "Surefoot Boots",
+      "anchor_heading": "# Surefoot Boots",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Surefoot Boots, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

@@ -1,0 +1,16 @@
+{
+  "file": "share-senses.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/s/share-senses/",
+  "source_name": "Spell: Share Senses",
+  "sections": [
+    {
+      "id": "share_senses",
+      "title": "Share Senses",
+      "anchor_heading": "# Share Senses",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Share Senses, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

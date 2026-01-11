@@ -9,6 +9,7 @@
       "anchor_heading": "# Wizard",
       "includes_subheadings": [
         "### Class Skills",
+        "### Class Features",
         "#### Weapon and Armor Proficiency",
         "#### Spells",
         "#### Bonus Languages",
@@ -24,31 +25,32 @@
         "#### Adding Spells to a Wizard's Spellbook",
         "### Arcane Spells and Armor"
       ],
-      "description": "Complete rules for the Wizard class in Pathfinder 1e, covering class features, arcane schools, spellcasting mechanics, spellbooks, familiars, bonded objects, and archetypes.",
+      "description": "Defines the complete wizard core class, including class features like arcane schools, familiars, bonded objects, spellcasting mechanics, and spellbook rules.",
       "keywords": [
         "wizard",
         "arcane bond",
+        "bonded object",
+        "familiar",
         "arcane school",
         "spellbook",
         "cantrips",
         "scribe scroll",
-        "bonus feats",
-        "familiar",
-        "bonded object",
-        "opposition schools",
+        "bonus feat",
+        "opposition school",
         "specialist wizard",
-        "universalist",
-        "elemental arcane schools",
-        "metamagic feats",
-        "item creation feats",
+        "universalist wizard",
+        "elemental arcane school",
+        "metamagic feat",
+        "item creation feat",
         "spell mastery",
-        "arcane discoveries",
-        "well-prepared",
-        "arcane spells and armor",
-        "spell failure chance",
+        "arcane discovery",
+        "spells per day",
+        "prepare spells",
         "concentration check",
-        "intelligence modifier"
+        "arcane spell failure",
+        "somatic component"
       ]
     }
-  ]
+  ],
+  "category": "Classes"
 }

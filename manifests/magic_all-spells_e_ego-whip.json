@@ -1,0 +1,16 @@
+{
+  "file": "ego-whip.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/e/ego-whip/",
+  "source_name": "Spell: Ego Whip I",
+  "sections": [
+    {
+      "id": "ego_whip",
+      "title": "Ego Whip I",
+      "anchor_heading": "# Ego Whip I",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Ego Whip I, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

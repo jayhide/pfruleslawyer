@@ -1,0 +1,16 @@
+{
+  "file": "catatonia.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/c/catatonia/",
+  "source_name": "Spell: Catatonia",
+  "sections": [
+    {
+      "id": "catatonia",
+      "title": "Catatonia",
+      "anchor_heading": "# Catatonia",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Catatonia, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

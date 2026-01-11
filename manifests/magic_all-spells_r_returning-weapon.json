@@ -1,0 +1,16 @@
+{
+  "file": "returning-weapon.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/r/returning-weapon/",
+  "source_name": "Spell: Returning Weapon",
+  "sections": [
+    {
+      "id": "returning_weapon",
+      "title": "Returning Weapon",
+      "anchor_heading": "# Returning Weapon",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Returning Weapon, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

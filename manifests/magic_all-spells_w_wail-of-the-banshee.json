@@ -1,0 +1,16 @@
+{
+  "file": "wail-of-the-banshee.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/w/wail-of-the-banshee/",
+  "source_name": "Spell: Wail of the Banshee",
+  "sections": [
+    {
+      "id": "wail_of_the_banshee",
+      "title": "Wail of the Banshee",
+      "anchor_heading": "# Wail of the Banshee",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Wail of the Banshee, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

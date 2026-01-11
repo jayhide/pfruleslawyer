@@ -1,0 +1,16 @@
+{
+  "file": "defensive-grace.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/d/defensive-grace/",
+  "source_name": "Spell: Defensive Grace",
+  "sections": [
+    {
+      "id": "defensive_grace",
+      "title": "Defensive Grace",
+      "anchor_heading": "# Defensive Grace",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Defensive Grace, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

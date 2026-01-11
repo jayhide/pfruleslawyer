@@ -1,0 +1,16 @@
+{
+  "file": "virulent-miasma.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/v/virulent-miasma/",
+  "source_name": "Spell: Virulent Miasma",
+  "sections": [
+    {
+      "id": "virulent_miasma",
+      "title": "Virulent Miasma",
+      "anchor_heading": "# Virulent Miasma",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Virulent Miasma, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

@@ -1,0 +1,16 @@
+{
+  "file": "magic-stone.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/m/magic-stone/",
+  "source_name": "Spell: Magic Stone",
+  "sections": [
+    {
+      "id": "magic_stone",
+      "title": "Magic Stone",
+      "anchor_heading": "# Magic Stone",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Magic Stone, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

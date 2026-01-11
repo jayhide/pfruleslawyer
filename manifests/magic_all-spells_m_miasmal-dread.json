@@ -1,0 +1,16 @@
+{
+  "file": "miasmal-dread.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/m/miasmal-dread/",
+  "source_name": "Spell: Miasmal Dread",
+  "sections": [
+    {
+      "id": "miasmal_dread",
+      "title": "Miasmal Dread",
+      "anchor_heading": "# Miasmal Dread",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Miasmal Dread, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

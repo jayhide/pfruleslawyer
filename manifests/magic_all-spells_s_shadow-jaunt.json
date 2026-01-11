@@ -1,0 +1,16 @@
+{
+  "file": "shadow-jaunt.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/s/shadow-jaunt/",
+  "source_name": "Spell: Shadow Jaunt",
+  "sections": [
+    {
+      "id": "shadow_jaunt",
+      "title": "Shadow Jaunt",
+      "anchor_heading": "# Shadow Jaunt",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Shadow Jaunt, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

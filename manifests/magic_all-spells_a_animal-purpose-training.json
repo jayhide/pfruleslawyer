@@ -1,0 +1,16 @@
+{
+  "file": "animal-purpose-training.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/a/animal-purpose-training/",
+  "source_name": "Spell: Animal Purpose Training",
+  "sections": [
+    {
+      "id": "animal_purpose_training",
+      "title": "Animal Purpose Training",
+      "anchor_heading": "# Animal Purpose Training",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Animal Purpose Training, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

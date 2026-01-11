@@ -1,0 +1,16 @@
+{
+  "file": "phantasmal-putrefaction.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/p/phantasmal-putrefaction/",
+  "source_name": "Spell: Phantasmal Putrefaction",
+  "sections": [
+    {
+      "id": "phantasmal_putrefaction",
+      "title": "Phantasmal Putrefaction",
+      "anchor_heading": "# Phantasmal Putrefaction",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Phantasmal Putrefaction, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

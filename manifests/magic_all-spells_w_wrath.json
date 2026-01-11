@@ -1,0 +1,16 @@
+{
+  "file": "wrath.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/w/wrath/",
+  "source_name": "Spell: Wrath",
+  "sections": [
+    {
+      "id": "wrath",
+      "title": "Wrath",
+      "anchor_heading": "# Wrath",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Wrath, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

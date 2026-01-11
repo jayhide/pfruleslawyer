@@ -1,0 +1,16 @@
+{
+  "file": "display-aversion.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/d/display-aversion/",
+  "source_name": "Spell: Display Aversion",
+  "sections": [
+    {
+      "id": "display_aversion",
+      "title": "Display Aversion",
+      "anchor_heading": "# Display Aversion",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Display Aversion, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

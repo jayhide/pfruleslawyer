@@ -1,0 +1,16 @@
+{
+  "file": "fire-s-friend.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/f/fire-s-friend/",
+  "source_name": "Spell: Fire\u2019s Friend",
+  "sections": [
+    {
+      "id": "fire_s_friend",
+      "title": "Fire\u2019s Friend",
+      "anchor_heading": "# Fire\u2019s Friend",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Fire\u2019s Friend, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

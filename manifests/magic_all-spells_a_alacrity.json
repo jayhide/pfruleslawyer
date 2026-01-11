@@ -1,0 +1,16 @@
+{
+  "file": "alacrity.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/a/alacrity/",
+  "source_name": "Spell: Alacrity",
+  "sections": [
+    {
+      "id": "alacrity",
+      "title": "Alacrity",
+      "anchor_heading": "# Alacrity",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Alacrity, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

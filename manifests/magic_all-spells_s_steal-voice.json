@@ -1,0 +1,16 @@
+{
+  "file": "steal-voice.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/s/steal-voice/",
+  "source_name": "Spell: Steal Voice",
+  "sections": [
+    {
+      "id": "steal_voice",
+      "title": "Steal Voice",
+      "anchor_heading": "# Steal Voice",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Steal Voice, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

@@ -1,0 +1,16 @@
+{
+  "file": "psychic-reading.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/p/psychic-reading/",
+  "source_name": "Spell: Psychic Reading",
+  "sections": [
+    {
+      "id": "psychic_reading",
+      "title": "Psychic Reading",
+      "anchor_heading": "# Psychic Reading",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Psychic Reading, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

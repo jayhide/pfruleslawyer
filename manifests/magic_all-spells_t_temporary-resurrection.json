@@ -1,0 +1,16 @@
+{
+  "file": "temporary-resurrection.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/t/temporary-resurrection/",
+  "source_name": "Spell: Temporary Resurrection",
+  "sections": [
+    {
+      "id": "temporary_resurrection",
+      "title": "Temporary Resurrection",
+      "anchor_heading": "# Temporary Resurrection",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Temporary Resurrection, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

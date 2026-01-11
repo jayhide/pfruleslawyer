@@ -1,0 +1,16 @@
+{
+  "file": "life-shield.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/l/life-shield/",
+  "source_name": "Spell: Life Shield",
+  "sections": [
+    {
+      "id": "life_shield",
+      "title": "Life Shield",
+      "anchor_heading": "# Life Shield",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Life Shield, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

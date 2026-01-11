@@ -1,0 +1,16 @@
+{
+  "file": "tsunami.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/t/tsunami/",
+  "source_name": "Spell: Tsunami",
+  "sections": [
+    {
+      "id": "tsunami",
+      "title": "Tsunami",
+      "anchor_heading": "# Tsunami",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Tsunami, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

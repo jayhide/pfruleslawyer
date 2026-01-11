@@ -1,0 +1,16 @@
+{
+  "file": "call-the-void.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/c/call-the-void/",
+  "source_name": "Spell: Call the Void",
+  "sections": [
+    {
+      "id": "call_the_void",
+      "title": "Call the Void",
+      "anchor_heading": "# Call the Void",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Call the Void, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

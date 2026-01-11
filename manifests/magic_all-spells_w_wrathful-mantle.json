@@ -1,0 +1,16 @@
+{
+  "file": "wrathful-mantle.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/w/wrathful-mantle/",
+  "source_name": "Spell: Wrathful Mantle",
+  "sections": [
+    {
+      "id": "wrathful_mantle",
+      "title": "Wrathful Mantle",
+      "anchor_heading": "# Wrathful Mantle",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Wrathful Mantle, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

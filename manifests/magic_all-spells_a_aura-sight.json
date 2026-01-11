@@ -1,0 +1,16 @@
+{
+  "file": "aura-sight.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/a/aura-sight/",
+  "source_name": "Spell: Aura Sight",
+  "sections": [
+    {
+      "id": "aura_sight",
+      "title": "Aura Sight",
+      "anchor_heading": "# Aura Sight",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Aura Sight, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

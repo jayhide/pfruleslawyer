@@ -1,0 +1,16 @@
+{
+  "file": "mindscape-door.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/m/mindscape-door/",
+  "source_name": "Spell: Mindscape Door",
+  "sections": [
+    {
+      "id": "mindscape_door",
+      "title": "Mindscape Door",
+      "anchor_heading": "# Mindscape Door",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Mindscape Door, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

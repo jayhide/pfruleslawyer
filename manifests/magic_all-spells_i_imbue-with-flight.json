@@ -1,0 +1,16 @@
+{
+  "file": "imbue-with-flight.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/i/imbue-with-flight/",
+  "source_name": "Spell: Imbue with Flight",
+  "sections": [
+    {
+      "id": "imbue_with_flight",
+      "title": "Imbue with Flight",
+      "anchor_heading": "# Imbue with Flight",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Imbue with Flight, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

@@ -1,0 +1,16 @@
+{
+  "file": "extreme-buoyancy.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/e/extreme-buoyancy/",
+  "source_name": "Spell: Extreme Buoyancy",
+  "sections": [
+    {
+      "id": "extreme_buoyancy",
+      "title": "Extreme Buoyancy",
+      "anchor_heading": "# Extreme Buoyancy",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Extreme Buoyancy, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

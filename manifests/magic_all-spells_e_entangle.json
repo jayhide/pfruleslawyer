@@ -1,0 +1,16 @@
+{
+  "file": "entangle.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/e/entangle/",
+  "source_name": "Spell: Entangle",
+  "sections": [
+    {
+      "id": "entangle",
+      "title": "Entangle",
+      "anchor_heading": "# Entangle",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Entangle, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

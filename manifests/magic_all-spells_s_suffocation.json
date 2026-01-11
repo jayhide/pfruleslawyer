@@ -1,0 +1,16 @@
+{
+  "file": "suffocation.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/s/suffocation/",
+  "source_name": "Spell: Suffocation",
+  "sections": [
+    {
+      "id": "suffocation",
+      "title": "Suffocation",
+      "anchor_heading": "# Suffocation",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Suffocation, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

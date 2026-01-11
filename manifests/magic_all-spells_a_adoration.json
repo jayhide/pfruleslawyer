@@ -1,0 +1,16 @@
+{
+  "file": "adoration.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/a/adoration/",
+  "source_name": "Spell: Adoration",
+  "sections": [
+    {
+      "id": "adoration",
+      "title": "Adoration",
+      "anchor_heading": "# Adoration",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Adoration, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

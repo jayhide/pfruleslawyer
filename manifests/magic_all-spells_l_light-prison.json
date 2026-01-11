@@ -1,0 +1,16 @@
+{
+  "file": "light-prison.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/l/light-prison/",
+  "source_name": "Spell: Light Prison",
+  "sections": [
+    {
+      "id": "light_prison",
+      "title": "Light Prison",
+      "anchor_heading": "# Light Prison",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Light Prison, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

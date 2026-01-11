@@ -1,0 +1,16 @@
+{
+  "file": "summon-cacodaemon.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/s/summon-cacodaemon/",
+  "source_name": "Spell: Summon Cacodaemon",
+  "sections": [
+    {
+      "id": "summon_cacodaemon",
+      "title": "Summon Cacodaemon",
+      "anchor_heading": "# Summon Cacodaemon",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Summon Cacodaemon, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

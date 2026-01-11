@@ -1,0 +1,16 @@
+{
+  "file": "identify.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/i/identify/",
+  "source_name": "Spell: Identify",
+  "sections": [
+    {
+      "id": "identify",
+      "title": "Identify",
+      "anchor_heading": "# Identify",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Identify, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

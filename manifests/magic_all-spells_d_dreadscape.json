@@ -1,0 +1,16 @@
+{
+  "file": "dreadscape.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/d/dreadscape/",
+  "source_name": "Spell: Dreadscape",
+  "sections": [
+    {
+      "id": "dreadscape",
+      "title": "Dreadscape",
+      "anchor_heading": "# Dreadscape",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Dreadscape, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

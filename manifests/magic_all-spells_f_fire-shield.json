@@ -1,0 +1,16 @@
+{
+  "file": "fire-shield.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/f/fire-shield/",
+  "source_name": "Spell: Fire Shield",
+  "sections": [
+    {
+      "id": "fire_shield",
+      "title": "Fire Shield",
+      "anchor_heading": "# Fire Shield",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Fire Shield, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

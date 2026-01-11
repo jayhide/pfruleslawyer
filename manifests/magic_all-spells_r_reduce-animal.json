@@ -1,0 +1,16 @@
+{
+  "file": "reduce-animal.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/r/reduce-animal/",
+  "source_name": "Spell: Reduce Animal",
+  "sections": [
+    {
+      "id": "reduce_animal",
+      "title": "Reduce Animal",
+      "anchor_heading": "# Reduce Animal",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Reduce Animal, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

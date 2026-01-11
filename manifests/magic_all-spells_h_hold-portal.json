@@ -1,0 +1,16 @@
+{
+  "file": "hold-portal.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/h/hold-portal/",
+  "source_name": "Spell: Hold Portal",
+  "sections": [
+    {
+      "id": "hold_portal",
+      "title": "Hold Portal",
+      "anchor_heading": "# Hold Portal",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Hold Portal, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

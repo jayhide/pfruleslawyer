@@ -1,0 +1,16 @@
+{
+  "file": "symbol-of-healing.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/s/symbol-of-healing/",
+  "source_name": "Spell: Symbol of Healing",
+  "sections": [
+    {
+      "id": "symbol_of_healing",
+      "title": "Symbol of Healing",
+      "anchor_heading": "# Symbol of Healing",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Symbol of Healing, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

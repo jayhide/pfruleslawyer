@@ -1,0 +1,16 @@
+{
+  "file": "blood-money.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/b/blood-money/",
+  "source_name": "Spell: Blood Money",
+  "sections": [
+    {
+      "id": "blood_money",
+      "title": "Blood Money",
+      "anchor_heading": "# Blood Money",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Blood Money, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

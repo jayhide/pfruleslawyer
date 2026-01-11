@@ -1,0 +1,16 @@
+{
+  "file": "control-undead.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/c/control-undead/",
+  "source_name": "Spell: Control Undead",
+  "sections": [
+    {
+      "id": "control_undead",
+      "title": "Control Undead",
+      "anchor_heading": "# Control Undead",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Control Undead, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

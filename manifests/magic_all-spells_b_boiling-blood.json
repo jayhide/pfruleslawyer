@@ -1,0 +1,16 @@
+{
+  "file": "boiling-blood.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/b/boiling-blood/",
+  "source_name": "Spell: Boiling Blood",
+  "sections": [
+    {
+      "id": "boiling_blood",
+      "title": "Boiling Blood",
+      "anchor_heading": "# Boiling Blood",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Boiling Blood, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

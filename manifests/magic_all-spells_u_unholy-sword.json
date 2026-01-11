@@ -1,0 +1,16 @@
+{
+  "file": "unholy-sword.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/u/unholy-sword/",
+  "source_name": "Spell: Unholy Sword",
+  "sections": [
+    {
+      "id": "unholy_sword",
+      "title": "Unholy Sword",
+      "anchor_heading": "# Unholy Sword",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Unholy Sword, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

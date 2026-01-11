@@ -1,0 +1,16 @@
+{
+  "file": "sensory-amplifier.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/s/sensory-amplifier/",
+  "source_name": "Spell: Sensory Amplifier",
+  "sections": [
+    {
+      "id": "sensory_amplifier",
+      "title": "Sensory Amplifier",
+      "anchor_heading": "# Sensory Amplifier",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Sensory Amplifier, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

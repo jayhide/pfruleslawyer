@@ -1,0 +1,16 @@
+{
+  "file": "reincarnate.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/r/reincarnate/",
+  "source_name": "Spell: Reincarnate",
+  "sections": [
+    {
+      "id": "reincarnate",
+      "title": "Reincarnate",
+      "anchor_heading": "# Reincarnate",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Reincarnate, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

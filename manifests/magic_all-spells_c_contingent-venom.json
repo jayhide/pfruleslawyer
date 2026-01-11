@@ -1,0 +1,16 @@
+{
+  "file": "contingent-venom.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/c/contingent-venom/",
+  "source_name": "Spell: Contingent Venom",
+  "sections": [
+    {
+      "id": "contingent_venom",
+      "title": "Contingent Venom",
+      "anchor_heading": "# Contingent Venom",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Contingent Venom, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

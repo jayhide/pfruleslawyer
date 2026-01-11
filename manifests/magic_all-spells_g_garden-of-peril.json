@@ -1,0 +1,16 @@
+{
+  "file": "garden-of-peril.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/g/garden-of-peril/",
+  "source_name": "Spell: Garden of Peril",
+  "sections": [
+    {
+      "id": "garden_of_peril",
+      "title": "Garden of Peril",
+      "anchor_heading": "# Garden of Peril",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Garden of Peril, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

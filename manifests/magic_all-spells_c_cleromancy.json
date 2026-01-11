@@ -1,0 +1,16 @@
+{
+  "file": "cleromancy.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/c/cleromancy/",
+  "source_name": "Spell: Cleromancy",
+  "sections": [
+    {
+      "id": "cleromancy",
+      "title": "Cleromancy",
+      "anchor_heading": "# Cleromancy",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Cleromancy, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

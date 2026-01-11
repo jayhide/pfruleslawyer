@@ -1,0 +1,16 @@
+{
+  "file": "calculated-luck.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/c/calculated-luck/",
+  "source_name": "Spell: Calculated Luck",
+  "sections": [
+    {
+      "id": "calculated_luck",
+      "title": "Calculated Luck",
+      "anchor_heading": "# Calculated Luck",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Calculated Luck, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

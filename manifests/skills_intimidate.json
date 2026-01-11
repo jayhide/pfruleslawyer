@@ -15,20 +15,21 @@
         "### Modifiers",
         "#### Intimidate Unchained"
       ],
-      "description": "Rules for the Intimidate skill, covering how to demoralize opponents to inflict fear conditions, coerce targets into compliance, influence attitudes, and skill unlock abilities at higher ranks.",
+      "description": "Covers the Intimidate skill mechanics including demoralizing opponents, coercing targets, influencing attitudes, and the unchained skill unlock progression with enhanced fear effects.",
       "keywords": [
         "intimidate",
         "demoralize",
+        "coerce opponent",
+        "influence attitude",
         "shaken",
         "frightened",
         "panicked",
         "cowering",
-        "coerce opponent",
-        "influence attitude",
         "intimidate unchained",
         "skill unlocks",
-        "fear conditions"
+        "fear effects"
       ]
     }
-  ]
+  ],
+  "category": "Skills"
 }

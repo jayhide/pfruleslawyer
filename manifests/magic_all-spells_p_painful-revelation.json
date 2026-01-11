@@ -1,0 +1,16 @@
+{
+  "file": "painful-revelation.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/p/painful-revelation/",
+  "source_name": "Spell: Painful Revelation",
+  "sections": [
+    {
+      "id": "painful_revelation",
+      "title": "Painful Revelation",
+      "anchor_heading": "# Painful Revelation",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Painful Revelation, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

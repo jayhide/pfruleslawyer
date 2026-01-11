@@ -1,0 +1,16 @@
+{
+  "file": "utter-contempt.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/u/utter-contempt/",
+  "source_name": "Spell: Utter Contempt",
+  "sections": [
+    {
+      "id": "utter_contempt",
+      "title": "Utter Contempt",
+      "anchor_heading": "# Utter Contempt",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Utter Contempt, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

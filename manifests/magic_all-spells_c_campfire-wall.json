@@ -1,0 +1,16 @@
+{
+  "file": "campfire-wall.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/c/campfire-wall/",
+  "source_name": "Spell: Campfire Wall",
+  "sections": [
+    {
+      "id": "campfire_wall",
+      "title": "Campfire Wall",
+      "anchor_heading": "# Campfire Wall",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Campfire Wall, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

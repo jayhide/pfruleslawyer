@@ -1,0 +1,16 @@
+{
+  "file": "wall-of-stone.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/w/wall-of-stone/",
+  "source_name": "Spell: Wall of Stone",
+  "sections": [
+    {
+      "id": "wall_of_stone",
+      "title": "Wall of Stone",
+      "anchor_heading": "# Wall of Stone",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Wall of Stone, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

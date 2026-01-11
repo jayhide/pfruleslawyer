@@ -1,0 +1,16 @@
+{
+  "file": "true-appraisal.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/t/true-appraisal/",
+  "source_name": "Spell: True Appraisal",
+  "sections": [
+    {
+      "id": "true_appraisal",
+      "title": "True Appraisal",
+      "anchor_heading": "# True Appraisal",
+      "includes_subheadings": [],
+      "description": "Full description of the spell True Appraisal, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

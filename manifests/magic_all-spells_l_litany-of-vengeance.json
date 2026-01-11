@@ -1,0 +1,16 @@
+{
+  "file": "litany-of-vengeance.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/l/litany-of-vengeance/",
+  "source_name": "Spell: Litany of Vengeance",
+  "sections": [
+    {
+      "id": "litany_of_vengeance",
+      "title": "Litany of Vengeance",
+      "anchor_heading": "# Litany of Vengeance",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Litany of Vengeance, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

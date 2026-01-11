@@ -1,0 +1,16 @@
+{
+  "file": "dousing-rain.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/d/dousing-rain/",
+  "source_name": "Spell: Dousing Rain",
+  "sections": [
+    {
+      "id": "dousing_rain",
+      "title": "Dousing Rain",
+      "anchor_heading": "# Dousing Rain",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Dousing Rain, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

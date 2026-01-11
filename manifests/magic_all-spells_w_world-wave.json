@@ -1,0 +1,16 @@
+{
+  "file": "world-wave.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/w/world-wave/",
+  "source_name": "Spell: World Wave",
+  "sections": [
+    {
+      "id": "world_wave",
+      "title": "World Wave",
+      "anchor_heading": "# World Wave",
+      "includes_subheadings": [],
+      "description": "Full description of the spell World Wave, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

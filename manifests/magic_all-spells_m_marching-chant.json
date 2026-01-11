@@ -1,0 +1,16 @@
+{
+  "file": "marching-chant.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/m/marching-chant/",
+  "source_name": "Spell: Marching Chant",
+  "sections": [
+    {
+      "id": "marching_chant",
+      "title": "Marching Chant",
+      "anchor_heading": "# Marching Chant",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Marching Chant, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

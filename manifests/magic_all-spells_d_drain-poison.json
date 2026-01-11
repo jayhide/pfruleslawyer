@@ -1,0 +1,16 @@
+{
+  "file": "drain-poison.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/d/drain-poison/",
+  "source_name": "Spell: Drain Poison",
+  "sections": [
+    {
+      "id": "drain_poison",
+      "title": "Drain Poison",
+      "anchor_heading": "# Drain Poison",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Drain Poison, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

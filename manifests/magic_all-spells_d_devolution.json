@@ -1,0 +1,16 @@
+{
+  "file": "devolution.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/d/devolution/",
+  "source_name": "Spell: Devolution",
+  "sections": [
+    {
+      "id": "devolution",
+      "title": "Devolution",
+      "anchor_heading": "# Devolution",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Devolution, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

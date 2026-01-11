@@ -1,0 +1,16 @@
+{
+  "file": "languid-venom.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/l/languid-venom/",
+  "source_name": "Spell: Languid Venom",
+  "sections": [
+    {
+      "id": "languid_venom",
+      "title": "Languid Venom",
+      "anchor_heading": "# Languid Venom",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Languid Venom, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

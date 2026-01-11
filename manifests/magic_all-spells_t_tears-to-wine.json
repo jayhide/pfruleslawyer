@@ -1,0 +1,16 @@
+{
+  "file": "tears-to-wine.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/t/tears-to-wine/",
+  "source_name": "Spell: Tears to Wine",
+  "sections": [
+    {
+      "id": "tears_to_wine",
+      "title": "Tears to Wine",
+      "anchor_heading": "# Tears to Wine",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Tears to Wine, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

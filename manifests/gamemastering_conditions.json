@@ -4,122 +4,122 @@
   "sections": [
     {
       "id": "bleed",
-      "title": "Bleed Condition",
+      "title": "Bleed",
       "anchor_heading": "#### Bleed",
       "includes_subheadings": [],
-      "description": "Rules for ongoing damage from bleeding wounds, including how to stop bleeding and interaction with other bleed effects",
+      "description": "Rules for ongoing bleed damage, how it stacks, and methods to stop bleeding",
       "keywords": [
         "bleed",
         "bleeding",
-        "ongoing damage"
+        "heal check"
       ]
     },
     {
       "id": "blinded",
-      "title": "Blinded Condition",
+      "title": "Blinded",
       "anchor_heading": "#### Blinded",
       "includes_subheadings": [],
-      "description": "Complete mechanics for blindness including AC penalties, skill penalties, and movement restrictions",
+      "description": "Effects of blindness including AC penalties, skill check penalties, and movement restrictions",
       "keywords": [
         "blinded",
-        "blind",
-        "vision",
-        "concealment"
+        "blindness",
+        "concealment",
+        "acrobatics"
       ]
     },
     {
       "id": "broken",
-      "title": "Broken Condition",
+      "title": "Broken",
       "anchor_heading": "#### Broken",
       "includes_subheadings": [],
-      "description": "Effects of the broken condition on various types of equipment including weapons, armor, tools, and ships",
+      "description": "Condition affecting damaged items including weapons, armor, tools, and ships, plus repair methods",
       "keywords": [
         "broken",
-        "equipment",
-        "damage",
-        "repair"
+        "item damage",
+        "repair",
+        "ships"
       ]
     },
     {
       "id": "confused",
-      "title": "Confused Condition",
+      "title": "Confused",
       "anchor_heading": "#### Confused",
       "includes_subheadings": [],
-      "description": "Mental confusion mechanics including random behavior table and ally/enemy recognition issues",
+      "description": "Mental befuddlement condition with behavior table and combat effects",
       "keywords": [
         "confused",
         "confusion",
-        "random behavior",
-        "mental"
+        "behavior table",
+        "ally"
       ]
     },
     {
       "id": "cowering",
-      "title": "Cowering Condition",
+      "title": "Cowering",
       "anchor_heading": "#### Cowering",
       "includes_subheadings": [],
-      "description": "Fear-induced paralysis preventing all actions with AC penalties",
+      "description": "Fear-based paralysis preventing all actions with AC penalties",
       "keywords": [
         "cowering",
         "fear",
-        "paralysis"
+        "frozen"
       ]
     },
     {
       "id": "dazed",
-      "title": "Dazed Condition",
+      "title": "Dazed",
       "anchor_heading": "#### Dazed",
       "includes_subheadings": [],
-      "description": "Temporary inability to act normally without AC penalties",
+      "description": "Condition preventing actions but not affecting AC",
       "keywords": [
         "dazed",
-        "unable to act"
+        "no actions"
       ]
     },
     {
       "id": "dazzled",
-      "title": "Dazzled Condition",
+      "title": "Dazzled",
       "anchor_heading": "#### Dazzled",
       "includes_subheadings": [],
       "description": "Vision impairment from overstimulation causing attack and perception penalties",
       "keywords": [
         "dazzled",
         "vision",
-        "light sensitivity"
+        "overstimulation"
       ]
     },
     {
       "id": "dead",
-      "title": "Dead Condition",
+      "title": "Dead",
       "anchor_heading": "#### Dead",
       "includes_subheadings": [],
-      "description": "Death mechanics including hit point thresholds and resurrection considerations",
+      "description": "Death condition, soul departure, and resurrection mechanics",
       "keywords": [
         "dead",
         "death",
         "resurrection",
-        "hit points"
+        "constitution"
       ]
     },
     {
       "id": "deafened",
-      "title": "Deafened Condition",
+      "title": "Deafened",
       "anchor_heading": "#### Deafened",
       "includes_subheadings": [],
       "description": "Hearing loss effects on initiative, perception, and spellcasting",
       "keywords": [
         "deafened",
-        "deaf",
         "hearing",
-        "spell failure"
+        "spell failure",
+        "verbal components"
       ]
     },
     {
       "id": "disabled",
-      "title": "Disabled Condition",
+      "title": "Disabled",
       "anchor_heading": "#### Disabled",
       "includes_subheadings": [],
-      "description": "Mechanics for characters at 0 hit points including limited actions and recovery rules",
+      "description": "Condition for characters at 0 HP allowing limited actions with risks",
       "keywords": [
         "disabled",
         "zero hit points",
@@ -128,385 +128,399 @@
     },
     {
       "id": "dying",
-      "title": "Dying Condition",
+      "title": "Dying",
       "anchor_heading": "#### Dying",
       "includes_subheadings": [],
-      "description": "Rules for characters with negative hit points including stabilization checks and death thresholds",
+      "description": "Unconscious condition for negative HP characters with stabilization checks",
       "keywords": [
         "dying",
         "negative hit points",
-        "stabilization",
-        "death"
+        "constitution check",
+        "stabilize"
       ]
     },
     {
       "id": "energy_drained",
-      "title": "Energy Drained Condition",
+      "title": "Energy Drained",
       "anchor_heading": "#### Energy Drained",
       "includes_subheadings": [],
-      "description": "Effects of negative levels and their relationship to death effects",
+      "description": "Condition involving negative levels and potential death",
       "keywords": [
-        "energy drained",
+        "energy drain",
         "negative levels",
-        "level drain"
+        "death effect"
       ]
     },
     {
       "id": "entangled",
-      "title": "Entangled Condition",
+      "title": "Entangled",
       "anchor_heading": "#### Entangled",
       "includes_subheadings": [],
-      "description": "Movement restriction mechanics including attack penalties and spellcasting difficulties",
+      "description": "Movement impediment condition affecting speed, attacks, and spellcasting",
       "keywords": [
         "entangled",
         "movement",
-        "restrained",
-        "concentration"
+        "concentration",
+        "half speed"
       ]
     },
     {
       "id": "exhausted",
-      "title": "Exhausted Condition",
+      "title": "Exhausted",
       "anchor_heading": "#### Exhausted",
       "includes_subheadings": [],
-      "description": "Severe fatigue effects on movement and ability scores with recovery rules",
+      "description": "Severe fatigue condition with ability score penalties and movement restrictions",
       "keywords": [
         "exhausted",
         "fatigue",
-        "ability penalties"
+        "half speed",
+        "strength penalty"
       ]
     },
     {
       "id": "fascinated",
-      "title": "Fascinated Condition",
+      "title": "Fascinated",
       "anchor_heading": "#### Fascinated",
       "includes_subheadings": [],
-      "description": "Enchantment effects causing distraction and reduced awareness with threat-breaking rules",
+      "description": "Entranced condition preventing actions except paying attention to effect",
       "keywords": [
         "fascinated",
-        "enchantment",
-        "distraction"
+        "entranced",
+        "perception penalty",
+        "threat"
       ]
     },
     {
       "id": "fatigued",
-      "title": "Fatigued Condition",
+      "title": "Fatigued",
       "anchor_heading": "#### Fatigued",
       "includes_subheadings": [],
-      "description": "Mild exhaustion preventing running and charging with ability score penalties",
+      "description": "Mild tiredness preventing running/charging with ability penalties",
       "keywords": [
         "fatigued",
         "tired",
-        "ability penalties"
+        "strength penalty",
+        "dexterity penalty"
       ]
     },
     {
       "id": "flat_footed",
-      "title": "Flat-Footed Condition",
+      "title": "Flat-Footed",
       "anchor_heading": "#### Flat-Footed",
       "includes_subheadings": [],
-      "description": "Combat readiness mechanics for characters who haven't acted yet, including AC and opportunity attack restrictions",
+      "description": "Combat condition for characters who haven't acted, losing Dex bonus and opportunity attacks",
       "keywords": [
         "flat-footed",
-        "initiative",
         "dexterity bonus",
-        "opportunity attacks"
+        "attacks of opportunity",
+        "combat reflexes"
       ]
     },
     {
       "id": "frightened",
-      "title": "Frightened Condition",
+      "title": "Frightened",
       "anchor_heading": "#### Frightened",
       "includes_subheadings": [],
-      "description": "Fear condition requiring flight with penalties to rolls and checks",
+      "description": "Fear condition causing fleeing behavior and penalties to rolls",
       "keywords": [
         "frightened",
         "fear",
         "flee",
-        "penalties"
+        "shaken"
       ]
     },
     {
       "id": "grappled",
-      "title": "Grappled Condition",
+      "title": "Grappled",
       "anchor_heading": "#### Grappled",
       "includes_subheadings": [],
-      "description": "Physical restraint mechanics including movement restriction, combat penalties, and spellcasting difficulties",
+      "description": "Restraint condition preventing movement and limiting actions with combat penalties",
       "keywords": [
         "grappled",
         "restrained",
-        "combat maneuver",
-        "concentration"
+        "concentration",
+        "stealth",
+        "invisible"
       ]
     },
     {
       "id": "helpless",
-      "title": "Helpless Condition",
+      "title": "Helpless",
       "anchor_heading": "#### Helpless",
       "includes_subheadings": [],
-      "description": "Complete vulnerability mechanics including coup de grace rules and combat bonuses against helpless targets",
+      "description": "Condition for completely vulnerable characters including coup de grace rules",
       "keywords": [
         "helpless",
         "coup de grace",
-        "vulnerable",
-        "sneak attack"
+        "sneak attack",
+        "dexterity zero"
       ]
     },
     {
       "id": "incorporeal",
-      "title": "Incorporeal Condition",
+      "title": "Incorporeal",
       "anchor_heading": "#### Incorporeal",
       "includes_subheadings": [],
-      "description": "Non-physical existence mechanics including damage immunities and resistances",
+      "description": "Condition for creatures without physical bodies and their damage interactions",
       "keywords": [
         "incorporeal",
-        "nonphysical",
-        "damage immunity"
+        "nonmagical attacks",
+        "force effects"
       ]
     },
     {
       "id": "invisible",
-      "title": "Invisible Condition",
+      "title": "Invisible",
       "anchor_heading": "#### Invisible",
       "includes_subheadings": [],
-      "description": "Visual concealment mechanics providing combat bonuses and AC interactions",
+      "description": "Visual undetectability condition with attack bonuses",
       "keywords": [
         "invisible",
         "invisibility",
-        "concealment",
-        "visual"
+        "attack bonus",
+        "dexterity bonus"
       ]
     },
     {
       "id": "nauseated",
-      "title": "Nauseated Condition",
+      "title": "Nauseated",
       "anchor_heading": "#### Nauseated",
       "includes_subheadings": [],
-      "description": "Severe sickness preventing most actions except single move actions",
+      "description": "Stomach distress preventing most actions except movement",
       "keywords": [
         "nauseated",
-        "sick",
-        "limited actions"
+        "stomach distress",
+        "move action only"
       ]
     },
     {
       "id": "panicked",
-      "title": "Panicked Condition",
+      "title": "Panicked",
       "anchor_heading": "#### Panicked",
       "includes_subheadings": [],
-      "description": "Extreme fear condition requiring item dropping and random flight with severe penalties",
+      "description": "Extreme fear condition causing fleeing and item dropping with severe penalties",
       "keywords": [
         "panicked",
         "extreme fear",
+        "drop items",
         "flee",
-        "drop items"
+        "cower"
       ]
     },
     {
       "id": "paralyzed",
-      "title": "Paralyzed Condition",
+      "title": "Paralyzed",
       "anchor_heading": "#### Paralyzed",
       "includes_subheadings": [],
-      "description": "Complete physical immobilization with effective ability scores of 0 and helpless status",
+      "description": "Complete physical immobilization with effective ability scores of 0",
       "keywords": [
         "paralyzed",
-        "immobilized",
+        "frozen",
         "helpless",
-        "ability scores"
+        "mental actions",
+        "flying"
       ]
     },
     {
       "id": "petrified",
-      "title": "Petrified Condition",
+      "title": "Petrified",
       "anchor_heading": "#### Petrified",
       "includes_subheadings": [],
-      "description": "Stone transformation mechanics including unconsciousness and damage consequences",
+      "description": "Stone transformation condition and effects of partial restoration",
       "keywords": [
         "petrified",
         "stone",
         "unconscious",
-        "transformation"
+        "permanent damage"
       ]
     },
     {
       "id": "pinned",
-      "title": "Pinned Condition",
+      "title": "Pinned",
       "anchor_heading": "#### Pinned",
       "includes_subheadings": [],
-      "description": "Severe restraint mechanics with greater restrictions than grappled including action limitations",
+      "description": "Severe restraint condition more restrictive than grappled",
       "keywords": [
         "pinned",
-        "restrained",
-        "severe grapple",
-        "action limitations"
+        "tightly bound",
+        "grappled",
+        "escape artist"
       ]
     },
     {
       "id": "prone",
-      "title": "Prone Condition",
+      "title": "Prone",
       "anchor_heading": "#### Prone",
       "includes_subheadings": [],
-      "description": "Ground position mechanics affecting attack rolls and AC differently for melee vs ranged combat",
+      "description": "Lying down condition with different penalties for melee vs ranged combat",
       "keywords": [
         "prone",
         "lying down",
-        "position",
-        "standing up"
+        "melee penalty",
+        "ranged bonus"
       ]
     },
     {
       "id": "shaken",
-      "title": "Shaken Condition",
+      "title": "Shaken",
       "anchor_heading": "#### Shaken",
       "includes_subheadings": [],
-      "description": "Mild fear condition imposing penalties on various rolls and checks",
+      "description": "Mild fear condition with penalties to various rolls",
       "keywords": [
         "shaken",
         "fear",
-        "penalties",
-        "mild"
+        "attack penalty",
+        "saving throw penalty"
       ]
     },
     {
       "id": "sickened",
-      "title": "Sickened Condition",
+      "title": "Sickened",
       "anchor_heading": "#### Sickened",
       "includes_subheadings": [],
-      "description": "Illness condition causing penalties to attack, damage, saves, and checks",
+      "description": "Illness condition causing penalties to attacks, damage, saves, and checks",
       "keywords": [
         "sickened",
-        "ill",
-        "penalties"
+        "illness",
+        "attack penalty",
+        "damage penalty"
       ]
     },
     {
       "id": "sinking",
-      "title": "Sinking Condition",
+      "title": "Sinking",
       "anchor_heading": "#### Sinking",
       "includes_subheadings": [],
-      "description": "Ship destruction mechanics including timing and magical repair possibilities",
+      "description": "Ship-specific condition for vessels reduced to 0 HP with destruction timeline",
       "keywords": [
         "sinking",
         "ship",
-        "destruction",
-        "naval"
+        "destroyed",
+        "make whole"
       ]
     },
     {
       "id": "stable",
-      "title": "Stable Condition",
+      "title": "Stable",
       "anchor_heading": "#### Stable",
       "includes_subheadings": [],
-      "description": "Recovery mechanics for characters who have stopped dying but remain unconscious with negative hit points",
+      "description": "Condition for characters who stopped dying but remain unconscious with negative HP",
       "keywords": [
         "stable",
-        "recovery",
-        "negative hit points",
-        "unconscious"
+        "dying",
+        "unconscious",
+        "constitution check"
       ]
     },
     {
       "id": "staggered",
-      "title": "Staggered Condition",
+      "title": "Staggered",
       "anchor_heading": "#### Staggered",
       "includes_subheadings": [],
-      "description": "Limited action condition allowing only single move or standard actions per round",
+      "description": "Limited action condition allowing only one move or standard action per turn",
       "keywords": [
         "staggered",
-        "limited actions",
+        "single action",
         "nonlethal damage"
       ]
     },
     {
       "id": "stunned",
-      "title": "Stunned Condition",
+      "title": "Stunned",
       "anchor_heading": "#### Stunned",
       "includes_subheadings": [],
-      "description": "Incapacitation condition preventing actions while making character vulnerable to combat maneuvers",
+      "description": "Severe incapacitation dropping items and preventing actions with combat penalties",
       "keywords": [
         "stunned",
-        "incapacitated",
         "drop items",
-        "vulnerable"
+        "no actions",
+        "combat maneuver bonus"
       ]
     },
     {
       "id": "unconscious",
-      "title": "Unconscious Condition",
+      "title": "Unconscious",
       "anchor_heading": "#### Unconscious",
       "includes_subheadings": [],
-      "description": "Complete incapacitation making characters helpless due to negative or nonlethal damage",
+      "description": "Knocked out condition from negative HP or excessive nonlethal damage",
       "keywords": [
         "unconscious",
+        "knocked out",
         "helpless",
-        "incapacitated"
+        "nonlethal damage"
       ]
     },
     {
       "id": "antagonized",
-      "title": "Antagonized Condition",
+      "title": "Antagonized",
       "anchor_heading": "#### Antagonized",
       "includes_subheadings": [],
-      "description": "Third-party condition forcing focus on single target with sense motive escape mechanics",
+      "description": "Third-party condition restricting hostile actions to only the antagonist",
       "keywords": [
         "antagonized",
-        "target focus",
-        "sense motive"
+        "hostile actions",
+        "sense motive",
+        "flanking"
       ]
     },
     {
       "id": "asleep",
-      "title": "Asleep Condition",
+      "title": "Asleep",
       "anchor_heading": "#### Asleep",
       "includes_subheadings": [],
-      "description": "Sleep mechanics including perception penalties and awakening conditions",
+      "description": "Third-party sleeping condition with perception penalties and awakening rules",
       "keywords": [
         "asleep",
         "sleeping",
-        "perception",
+        "helpless",
+        "perception penalty",
         "awakening"
       ]
     },
     {
       "id": "driven",
-      "title": "Driven Condition",
+      "title": "Driven",
       "anchor_heading": "#### Driven",
       "includes_subheadings": [],
-      "description": "Mind control condition allowing forced movement with flat-footed status",
+      "description": "Third-party condition allowing forced movement and causing flat-footed status",
       "keywords": [
         "driven",
-        "mind control",
-        "forced movement"
+        "forced movement",
+        "flat-footed",
+        "mind-affecting immunity"
       ]
     },
     {
       "id": "drowsy",
-      "title": "Drowsy Condition",
+      "title": "Drowsy",
       "anchor_heading": "#### Drowsy",
       "includes_subheadings": [],
-      "description": "Sleepiness condition with escalating severity levels and spell failure chances",
+      "description": "Third-party condition with escalating penalties and spell failure chances based on severity",
       "keywords": [
         "drowsy",
-        "sleepy",
+        "drowsiness",
         "spell failure",
-        "severity levels"
+        "wisdom check",
+        "asleep"
       ]
     },
     {
       "id": "necrosis",
-      "title": "Necrosis Condition",
+      "title": "Necrosis",
       "anchor_heading": "#### Necrosis",
       "includes_subheadings": [
         "##### Sidebar: Other Uses for Necrosis"
       ],
-      "description": "Undead-specific condition with light and severe stages affecting animation and positive energy vulnerability",
+      "description": "Third-party undead-specific condition with light and severe stages affecting animation",
       "keywords": [
         "necrosis",
         "undead",
         "positive energy",
-        "animation"
+        "light necrosis",
+        "severe necrosis"
       ]
     }
   ],
-  "source_name": "Conditions"
+  "source_name": "Conditions",
+  "category": "Core Rules"
 }

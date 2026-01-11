@@ -1,0 +1,16 @@
+{
+  "file": "shifting-sand.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/s/shifting-sand/",
+  "source_name": "Spell: Shifting Sand",
+  "sections": [
+    {
+      "id": "shifting_sand",
+      "title": "Shifting Sand",
+      "anchor_heading": "# Shifting Sand",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Shifting Sand, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

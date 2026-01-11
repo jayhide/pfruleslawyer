@@ -1,0 +1,16 @@
+{
+  "file": "untold-wonder.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/u/untold-wonder/",
+  "source_name": "Spell: Untold Wonder",
+  "sections": [
+    {
+      "id": "untold_wonder",
+      "title": "Untold Wonder",
+      "anchor_heading": "# Untold Wonder",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Untold Wonder, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

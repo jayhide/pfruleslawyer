@@ -1,0 +1,16 @@
+{
+  "file": "soothing-mud.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/s/soothing-mud/",
+  "source_name": "Spell: Soothing Mud",
+  "sections": [
+    {
+      "id": "soothing_mud",
+      "title": "Soothing Mud",
+      "anchor_heading": "# Soothing Mud",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Soothing Mud, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

@@ -1,0 +1,16 @@
+{
+  "file": "planned-assault.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/p/planned-assault/",
+  "source_name": "Spell: Planned Assault",
+  "sections": [
+    {
+      "id": "planned_assault",
+      "title": "Planned Assault",
+      "anchor_heading": "# Planned Assault",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Planned Assault, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

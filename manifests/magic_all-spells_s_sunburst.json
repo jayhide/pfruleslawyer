@@ -1,0 +1,16 @@
+{
+  "file": "sunburst.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/s/sunburst/",
+  "source_name": "Spell: Sunburst",
+  "sections": [
+    {
+      "id": "sunburst",
+      "title": "Sunburst",
+      "anchor_heading": "# Sunburst",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Sunburst, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

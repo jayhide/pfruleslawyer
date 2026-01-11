@@ -1,0 +1,16 @@
+{
+  "file": "tailwind.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/t/tailwind/",
+  "source_name": "Spell: Tailwind",
+  "sections": [
+    {
+      "id": "tailwind",
+      "title": "Tailwind",
+      "anchor_heading": "# Tailwind",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Tailwind, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

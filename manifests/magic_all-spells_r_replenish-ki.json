@@ -1,0 +1,16 @@
+{
+  "file": "replenish-ki.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/r/replenish-ki/",
+  "source_name": "Spell: Replenish Ki",
+  "sections": [
+    {
+      "id": "replenish_ki",
+      "title": "Replenish Ki",
+      "anchor_heading": "# Replenish Ki",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Replenish Ki, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

@@ -1,0 +1,16 @@
+{
+  "file": "commune-with-nature.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/c/commune-with-nature/",
+  "source_name": "Spell: Commune with Nature",
+  "sections": [
+    {
+      "id": "commune_with_nature",
+      "title": "Commune with Nature",
+      "anchor_heading": "# Commune with Nature",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Commune with Nature, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

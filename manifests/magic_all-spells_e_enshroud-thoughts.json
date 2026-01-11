@@ -1,0 +1,16 @@
+{
+  "file": "enshroud-thoughts.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/e/enshroud-thoughts/",
+  "source_name": "Spell: Enshroud Thoughts",
+  "sections": [
+    {
+      "id": "enshroud_thoughts",
+      "title": "Enshroud Thoughts",
+      "anchor_heading": "# Enshroud Thoughts",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Enshroud Thoughts, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

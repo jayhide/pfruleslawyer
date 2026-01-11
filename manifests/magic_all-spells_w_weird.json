@@ -1,0 +1,16 @@
+{
+  "file": "weird.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/w/weird/",
+  "source_name": "Spell: Weird",
+  "sections": [
+    {
+      "id": "weird",
+      "title": "Weird",
+      "anchor_heading": "# Weird",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Weird, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

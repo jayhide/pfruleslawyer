@@ -1,0 +1,16 @@
+{
+  "file": "crafter-s-fortune.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/c/crafter-s-fortune/",
+  "source_name": "Spell: Crafter\u2019s Fortune",
+  "sections": [
+    {
+      "id": "crafter_s_fortune",
+      "title": "Crafter\u2019s Fortune",
+      "anchor_heading": "# Crafter\u2019s Fortune",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Crafter\u2019s Fortune, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

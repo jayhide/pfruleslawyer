@@ -1,0 +1,16 @@
+{
+  "file": "irregular-size.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/i/irregular-size/",
+  "source_name": "Spell: Irregular Size",
+  "sections": [
+    {
+      "id": "irregular_size",
+      "title": "Irregular Size",
+      "anchor_heading": "# Irregular Size",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Irregular Size, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

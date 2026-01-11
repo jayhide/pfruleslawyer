@@ -1,0 +1,16 @@
+{
+  "file": "cloak-of-dreams.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/c/cloak-of-dreams/",
+  "source_name": "Spell: Cloak of Dreams",
+  "sections": [
+    {
+      "id": "cloak_of_dreams",
+      "title": "Cloak of Dreams",
+      "anchor_heading": "# Cloak of Dreams",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Cloak of Dreams, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

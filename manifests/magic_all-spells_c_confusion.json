@@ -1,0 +1,16 @@
+{
+  "file": "confusion.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/c/confusion/",
+  "source_name": "Spell: Confusion",
+  "sections": [
+    {
+      "id": "confusion",
+      "title": "Confusion",
+      "anchor_heading": "# Confusion",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Confusion, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

@@ -1,0 +1,16 @@
+{
+  "file": "phobia.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/p/phobia/",
+  "source_name": "Spell: Phobia",
+  "sections": [
+    {
+      "id": "phobia",
+      "title": "Phobia",
+      "anchor_heading": "# Phobia",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Phobia, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

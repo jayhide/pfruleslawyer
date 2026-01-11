@@ -1,0 +1,16 @@
+{
+  "file": "spell-turning.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/s/spell-turning/",
+  "source_name": "Spell: Spell Turning",
+  "sections": [
+    {
+      "id": "spell_turning",
+      "title": "Spell Turning",
+      "anchor_heading": "# Spell Turning",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Spell Turning, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

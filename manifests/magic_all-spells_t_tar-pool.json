@@ -1,0 +1,16 @@
+{
+  "file": "tar-pool.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/t/tar-pool/",
+  "source_name": "Spell: Tar Pool",
+  "sections": [
+    {
+      "id": "tar_pool",
+      "title": "Tar Pool",
+      "anchor_heading": "# Tar Pool",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Tar Pool, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

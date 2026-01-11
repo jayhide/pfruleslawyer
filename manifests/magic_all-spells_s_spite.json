@@ -1,0 +1,16 @@
+{
+  "file": "spite.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/s/spite/",
+  "source_name": "Spell: Spite",
+  "sections": [
+    {
+      "id": "spite",
+      "title": "Spite",
+      "anchor_heading": "# Spite",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Spite, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

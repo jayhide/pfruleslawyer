@@ -1,0 +1,16 @@
+{
+  "file": "hedging-weapons.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/h/hedging-weapons/",
+  "source_name": "Spell: Hedging Weapons",
+  "sections": [
+    {
+      "id": "hedging_weapons",
+      "title": "Hedging Weapons",
+      "anchor_heading": "# Hedging Weapons",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Hedging Weapons, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

@@ -1,0 +1,16 @@
+{
+  "file": "awaken.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/a/awaken/",
+  "source_name": "Spell: Awaken",
+  "sections": [
+    {
+      "id": "awaken",
+      "title": "Awaken",
+      "anchor_heading": "# Awaken",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Awaken, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

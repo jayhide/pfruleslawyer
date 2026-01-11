@@ -1,0 +1,16 @@
+{
+  "file": "hide-campsite.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/h/hide-campsite/",
+  "source_name": "Spell: Hide Campsite",
+  "sections": [
+    {
+      "id": "hide_campsite",
+      "title": "Hide Campsite",
+      "anchor_heading": "# Hide Campsite",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Hide Campsite, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

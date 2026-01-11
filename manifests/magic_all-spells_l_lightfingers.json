@@ -1,0 +1,16 @@
+{
+  "file": "lightfingers.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/l/lightfingers/",
+  "source_name": "Spell: Lightfingers",
+  "sections": [
+    {
+      "id": "lightfingers",
+      "title": "Lightfingers",
+      "anchor_heading": "# Lightfingers",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Lightfingers, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

@@ -1,0 +1,16 @@
+{
+  "file": "masochistic-shadow.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/m/masochistic-shadow/",
+  "source_name": "Spell: Masochistic Shadow",
+  "sections": [
+    {
+      "id": "masochistic_shadow",
+      "title": "Masochistic Shadow",
+      "anchor_heading": "# Masochistic Shadow",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Masochistic Shadow, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

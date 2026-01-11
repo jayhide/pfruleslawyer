@@ -1,0 +1,16 @@
+{
+  "file": "shadowy-haven.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/s/shadowy-haven/",
+  "source_name": "Spell: Shadowy Haven",
+  "sections": [
+    {
+      "id": "shadowy_haven",
+      "title": "Shadowy Haven",
+      "anchor_heading": "# Shadowy Haven",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Shadowy Haven, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

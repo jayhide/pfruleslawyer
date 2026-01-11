@@ -1,0 +1,16 @@
+{
+  "file": "heroic-fortune.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/h/heroic-fortune/",
+  "source_name": "Spell: Heroic Fortune",
+  "sections": [
+    {
+      "id": "heroic_fortune",
+      "title": "Heroic Fortune",
+      "anchor_heading": "# Heroic Fortune",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Heroic Fortune, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

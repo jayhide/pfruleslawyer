@@ -1,0 +1,16 @@
+{
+  "file": "vision-of-doom.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/v/vision-of-doom/",
+  "source_name": "Spell: Vision of Doom",
+  "sections": [
+    {
+      "id": "vision_of_doom",
+      "title": "Vision of Doom",
+      "anchor_heading": "# Vision of Doom",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Vision of Doom, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

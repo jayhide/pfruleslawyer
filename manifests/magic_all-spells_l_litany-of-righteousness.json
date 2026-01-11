@@ -1,0 +1,16 @@
+{
+  "file": "litany-of-righteousness.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/l/litany-of-righteousness/",
+  "source_name": "Spell: Litany of Righteousness",
+  "sections": [
+    {
+      "id": "litany_of_righteousness",
+      "title": "Litany of Righteousness",
+      "anchor_heading": "# Litany of Righteousness",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Litany of Righteousness, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

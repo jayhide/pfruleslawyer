@@ -1,0 +1,16 @@
+{
+  "file": "bereave.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/b/bereave/",
+  "source_name": "Spell: Bereave",
+  "sections": [
+    {
+      "id": "bereave",
+      "title": "Bereave",
+      "anchor_heading": "# Bereave",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Bereave, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

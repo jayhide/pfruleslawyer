@@ -1,0 +1,16 @@
+{
+  "file": "sky-swim.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/s/sky-swim/",
+  "source_name": "Spell: Sky Swim",
+  "sections": [
+    {
+      "id": "sky_swim",
+      "title": "Sky Swim",
+      "anchor_heading": "# Sky Swim",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Sky Swim, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

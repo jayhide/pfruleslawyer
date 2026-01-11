@@ -1,0 +1,16 @@
+{
+  "file": "domination-link.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/d/domination-link/",
+  "source_name": "Spell: Domination Link",
+  "sections": [
+    {
+      "id": "domination_link",
+      "title": "Domination Link",
+      "anchor_heading": "# Domination Link",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Domination Link, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

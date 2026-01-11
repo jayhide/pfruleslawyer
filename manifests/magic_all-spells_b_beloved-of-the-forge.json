@@ -1,0 +1,16 @@
+{
+  "file": "beloved-of-the-forge.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/b/beloved-of-the-forge/",
+  "source_name": "Spell: Beloved of the Forge",
+  "sections": [
+    {
+      "id": "beloved_of_the_forge",
+      "title": "Beloved of the Forge",
+      "anchor_heading": "# Beloved of the Forge",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Beloved of the Forge, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

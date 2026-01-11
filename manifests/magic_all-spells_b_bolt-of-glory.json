@@ -1,0 +1,16 @@
+{
+  "file": "bolt-of-glory.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/b/bolt-of-glory/",
+  "source_name": "Spell: Bolt of Glory",
+  "sections": [
+    {
+      "id": "bolt_of_glory",
+      "title": "Bolt of Glory",
+      "anchor_heading": "# Bolt of Glory",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Bolt of Glory, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

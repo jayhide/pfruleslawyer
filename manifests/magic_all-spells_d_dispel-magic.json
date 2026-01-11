@@ -1,0 +1,16 @@
+{
+  "file": "dispel-magic.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/d/dispel-magic/",
+  "source_name": "Spell: Dispel Magic",
+  "sections": [
+    {
+      "id": "dispel_magic",
+      "title": "Dispel Magic",
+      "anchor_heading": "# Dispel Magic",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Dispel Magic, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

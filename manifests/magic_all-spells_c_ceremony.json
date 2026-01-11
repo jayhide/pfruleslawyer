@@ -1,0 +1,16 @@
+{
+  "file": "ceremony.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/c/ceremony/",
+  "source_name": "Spell: Ceremony",
+  "sections": [
+    {
+      "id": "ceremony",
+      "title": "Ceremony",
+      "anchor_heading": "# Ceremony",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Ceremony, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

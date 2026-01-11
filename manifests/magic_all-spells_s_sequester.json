@@ -1,0 +1,16 @@
+{
+  "file": "sequester.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/s/sequester/",
+  "source_name": "Spell: Sequester",
+  "sections": [
+    {
+      "id": "sequester",
+      "title": "Sequester",
+      "anchor_heading": "# Sequester",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Sequester, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

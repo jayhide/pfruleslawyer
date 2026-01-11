@@ -1,0 +1,16 @@
+{
+  "file": "boneshatter.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/b/boneshatter/",
+  "source_name": "Spell: Boneshatter",
+  "sections": [
+    {
+      "id": "boneshatter",
+      "title": "Boneshatter",
+      "anchor_heading": "# Boneshatter",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Boneshatter, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

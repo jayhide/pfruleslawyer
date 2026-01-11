@@ -1,0 +1,16 @@
+{
+  "file": "detect-the-faithful.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/d/detect-the-faithful/",
+  "source_name": "Spell: Detect the Faithful",
+  "sections": [
+    {
+      "id": "detect_the_faithful",
+      "title": "Detect the Faithful",
+      "anchor_heading": "# Detect the Faithful",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Detect the Faithful, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

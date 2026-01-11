@@ -1,0 +1,16 @@
+{
+  "file": "holy-word.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/h/holy-word/",
+  "source_name": "Spell: Holy Word",
+  "sections": [
+    {
+      "id": "holy_word",
+      "title": "Holy Word",
+      "anchor_heading": "# Holy Word",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Holy Word, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

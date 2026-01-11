@@ -1,0 +1,16 @@
+{
+  "file": "obscured-script.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/o/obscured-script/",
+  "source_name": "Spell: Obscured Script",
+  "sections": [
+    {
+      "id": "obscured_script",
+      "title": "Obscured Script",
+      "anchor_heading": "# Obscured Script",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Obscured Script, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

@@ -1,0 +1,16 @@
+{
+  "file": "vomit-twin.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/v/vomit-twin/",
+  "source_name": "Spell: Vomit Twin",
+  "sections": [
+    {
+      "id": "vomit_twin",
+      "title": "Vomit Twin",
+      "anchor_heading": "# Vomit Twin",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Vomit Twin, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

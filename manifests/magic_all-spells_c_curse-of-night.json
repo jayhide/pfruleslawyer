@@ -1,0 +1,16 @@
+{
+  "file": "curse-of-night.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/c/curse-of-night/",
+  "source_name": "Spell: Curse of Night",
+  "sections": [
+    {
+      "id": "curse_of_night",
+      "title": "Curse of Night",
+      "anchor_heading": "# Curse of Night",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Curse of Night, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

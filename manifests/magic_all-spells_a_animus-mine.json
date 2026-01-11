@@ -1,0 +1,16 @@
+{
+  "file": "animus-mine.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/a/animus-mine/",
+  "source_name": "Spell: Animus Mine",
+  "sections": [
+    {
+      "id": "animus_mine",
+      "title": "Animus Mine",
+      "anchor_heading": "# Animus Mine",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Animus Mine, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

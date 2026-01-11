@@ -1,0 +1,16 @@
+{
+  "file": "symbol-of-death.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/s/symbol-of-death/",
+  "source_name": "Spell: Symbol of Death",
+  "sections": [
+    {
+      "id": "symbol_of_death",
+      "title": "Symbol of Death",
+      "anchor_heading": "# Symbol of Death",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Symbol of Death, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

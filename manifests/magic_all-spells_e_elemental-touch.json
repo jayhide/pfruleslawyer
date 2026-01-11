@@ -1,0 +1,16 @@
+{
+  "file": "elemental-touch.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/e/elemental-touch/",
+  "source_name": "Spell: Elemental Touch",
+  "sections": [
+    {
+      "id": "elemental_touch",
+      "title": "Elemental Touch",
+      "anchor_heading": "# Elemental Touch",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Elemental Touch, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

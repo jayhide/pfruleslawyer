@@ -1,0 +1,16 @@
+{
+  "file": "telepathic-silence.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/t/telepathic-silence/",
+  "source_name": "Spell: Telepathic Silence",
+  "sections": [
+    {
+      "id": "telepathic_silence",
+      "title": "Telepathic Silence",
+      "anchor_heading": "# Telepathic Silence",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Telepathic Silence, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

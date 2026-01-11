@@ -1,0 +1,16 @@
+{
+  "file": "fabricate-disguise.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/f/fabricate-disguise/",
+  "source_name": "Spell: Fabricate Disguise",
+  "sections": [
+    {
+      "id": "fabricate_disguise",
+      "title": "Fabricate Disguise",
+      "anchor_heading": "# Fabricate Disguise",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Fabricate Disguise, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

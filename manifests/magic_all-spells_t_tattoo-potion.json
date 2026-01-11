@@ -1,0 +1,16 @@
+{
+  "file": "tattoo-potion.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/t/tattoo-potion/",
+  "source_name": "Spell: Tattoo Potion",
+  "sections": [
+    {
+      "id": "tattoo_potion",
+      "title": "Tattoo Potion",
+      "anchor_heading": "# Tattoo Potion",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Tattoo Potion, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

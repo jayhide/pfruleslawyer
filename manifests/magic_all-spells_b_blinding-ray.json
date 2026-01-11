@@ -1,0 +1,16 @@
+{
+  "file": "blinding-ray.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/b/blinding-ray/",
+  "source_name": "Spell: Blinding Ray",
+  "sections": [
+    {
+      "id": "blinding_ray",
+      "title": "Blinding Ray",
+      "anchor_heading": "# Blinding Ray",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Blinding Ray, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

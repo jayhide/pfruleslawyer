@@ -1,0 +1,16 @@
+{
+  "file": "enemy-s-heart.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/e/enemy-s-heart/",
+  "source_name": "Spell: Enemy\u2019s Heart",
+  "sections": [
+    {
+      "id": "enemy_s_heart",
+      "title": "Enemy\u2019s Heart",
+      "anchor_heading": "# Enemy\u2019s Heart",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Enemy\u2019s Heart, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

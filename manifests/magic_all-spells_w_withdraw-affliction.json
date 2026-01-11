@@ -1,0 +1,16 @@
+{
+  "file": "withdraw-affliction.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/w/withdraw-affliction/",
+  "source_name": "Spell: Withdraw Affliction",
+  "sections": [
+    {
+      "id": "withdraw_affliction",
+      "title": "Withdraw Affliction",
+      "anchor_heading": "# Withdraw Affliction",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Withdraw Affliction, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

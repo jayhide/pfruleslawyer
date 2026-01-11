@@ -1,0 +1,16 @@
+{
+  "file": "pierce-disguise.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/p/pierce-disguise/",
+  "source_name": "Spell: Pierce Disguise",
+  "sections": [
+    {
+      "id": "pierce_disguise",
+      "title": "Pierce Disguise",
+      "anchor_heading": "# Pierce Disguise",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Pierce Disguise, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

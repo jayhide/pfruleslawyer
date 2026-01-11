@@ -1,0 +1,16 @@
+{
+  "file": "bowstaff.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/b/bowstaff/",
+  "source_name": "Spell: Bowstaff",
+  "sections": [
+    {
+      "id": "bowstaff",
+      "title": "Bowstaff",
+      "anchor_heading": "# Bowstaff",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Bowstaff, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

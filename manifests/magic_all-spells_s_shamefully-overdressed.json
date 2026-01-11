@@ -1,0 +1,16 @@
+{
+  "file": "shamefully-overdressed.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/s/shamefully-overdressed/",
+  "source_name": "Spell: Shamefully Overdressed",
+  "sections": [
+    {
+      "id": "shamefully_overdressed",
+      "title": "Shamefully Overdressed",
+      "anchor_heading": "# Shamefully Overdressed",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Shamefully Overdressed, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

@@ -1,0 +1,16 @@
+{
+  "file": "death-from-below.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/d/death-from-below/",
+  "source_name": "Spell: Death from Below",
+  "sections": [
+    {
+      "id": "death_from_below",
+      "title": "Death from Below",
+      "anchor_heading": "# Death from Below",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Death from Below, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

@@ -1,0 +1,16 @@
+{
+  "file": "warp-wood.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/w/warp-wood/",
+  "source_name": "Spell: Warp Wood",
+  "sections": [
+    {
+      "id": "warp_wood",
+      "title": "Warp Wood",
+      "anchor_heading": "# Warp Wood",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Warp Wood, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

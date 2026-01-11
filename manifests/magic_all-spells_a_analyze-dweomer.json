@@ -1,0 +1,16 @@
+{
+  "file": "analyze-dweomer.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/a/analyze-dweomer/",
+  "source_name": "Spell: Analyze Dweomer",
+  "sections": [
+    {
+      "id": "analyze_dweomer",
+      "title": "Analyze Dweomer",
+      "anchor_heading": "# Analyze Dweomer",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Analyze Dweomer, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

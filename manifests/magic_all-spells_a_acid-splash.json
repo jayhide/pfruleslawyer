@@ -1,0 +1,16 @@
+{
+  "file": "acid-splash.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/a/acid-splash/",
+  "source_name": "Spell: Acid Splash",
+  "sections": [
+    {
+      "id": "acid_splash",
+      "title": "Acid Splash",
+      "anchor_heading": "# Acid Splash",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Acid Splash, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

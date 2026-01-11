@@ -1,0 +1,16 @@
+{
+  "file": "selective-invisibility.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/s/selective-invisibility/",
+  "source_name": "Spell: Selective Invisibility",
+  "sections": [
+    {
+      "id": "selective_invisibility",
+      "title": "Selective Invisibility",
+      "anchor_heading": "# Selective Invisibility",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Selective Invisibility, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

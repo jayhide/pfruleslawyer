@@ -1,0 +1,16 @@
+{
+  "file": "cure-serious-wounds.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/c/cure-serious-wounds/",
+  "source_name": "Spell: Cure Serious Wounds",
+  "sections": [
+    {
+      "id": "cure_serious_wounds",
+      "title": "Cure Serious Wounds",
+      "anchor_heading": "# Cure Serious Wounds",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Cure Serious Wounds, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

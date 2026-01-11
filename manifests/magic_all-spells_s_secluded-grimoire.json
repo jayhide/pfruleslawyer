@@ -1,0 +1,16 @@
+{
+  "file": "secluded-grimoire.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/s/secluded-grimoire/",
+  "source_name": "Spell: Secluded Grimoire",
+  "sections": [
+    {
+      "id": "secluded_grimoire",
+      "title": "Secluded Grimoire",
+      "anchor_heading": "# Secluded Grimoire",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Secluded Grimoire, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

@@ -1,0 +1,16 @@
+{
+  "file": "shadow-body.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/s/shadow-body/",
+  "source_name": "Spell: Shadow Body",
+  "sections": [
+    {
+      "id": "shadow_body",
+      "title": "Shadow Body",
+      "anchor_heading": "# Shadow Body",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Shadow Body, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

@@ -1,0 +1,16 @@
+{
+  "file": "invigorating-repose.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/i/invigorating-repose/",
+  "source_name": "Spell: Invigorating Repose",
+  "sections": [
+    {
+      "id": "invigorating_repose",
+      "title": "Invigorating Repose",
+      "anchor_heading": "# Invigorating Repose",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Invigorating Repose, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

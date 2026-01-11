@@ -1,0 +1,16 @@
+{
+  "file": "ward-shield.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/w/ward-shield/",
+  "source_name": "Spell: Ward Shield",
+  "sections": [
+    {
+      "id": "ward_shield",
+      "title": "Ward Shield",
+      "anchor_heading": "# Ward Shield",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Ward Shield, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

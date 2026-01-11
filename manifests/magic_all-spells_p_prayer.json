@@ -1,0 +1,16 @@
+{
+  "file": "prayer.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/p/prayer/",
+  "source_name": "Spell: Prayer",
+  "sections": [
+    {
+      "id": "prayer",
+      "title": "Prayer",
+      "anchor_heading": "# Prayer",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Prayer, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

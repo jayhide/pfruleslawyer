@@ -1,0 +1,16 @@
+{
+  "file": "entrap-spirit.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/e/entrap-spirit/",
+  "source_name": "Spell: Entrap Spirit",
+  "sections": [
+    {
+      "id": "entrap_spirit",
+      "title": "Entrap Spirit",
+      "anchor_heading": "# Entrap Spirit",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Entrap Spirit, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

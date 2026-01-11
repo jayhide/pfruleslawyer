@@ -1,0 +1,16 @@
+{
+  "file": "surface-excursion.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/s/surface-excursion/",
+  "source_name": "Spell: Surface Excursion",
+  "sections": [
+    {
+      "id": "surface_excursion",
+      "title": "Surface Excursion",
+      "anchor_heading": "# Surface Excursion",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Surface Excursion, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

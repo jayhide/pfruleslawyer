@@ -1,0 +1,16 @@
+{
+  "file": "emblazon-crest.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/e/emblazon-crest/",
+  "source_name": "Spell: Emblazon Crest",
+  "sections": [
+    {
+      "id": "emblazon_crest",
+      "title": "Emblazon Crest",
+      "anchor_heading": "# Emblazon Crest",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Emblazon Crest, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

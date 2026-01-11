@@ -1,0 +1,16 @@
+{
+  "file": "blistering.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/b/blistering/",
+  "source_name": "Spell: Blistering Invective",
+  "sections": [
+    {
+      "id": "blistering",
+      "title": "Blistering Invective",
+      "anchor_heading": "# Blistering Invective",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Blistering Invective, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

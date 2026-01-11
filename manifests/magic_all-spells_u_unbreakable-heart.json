@@ -1,0 +1,16 @@
+{
+  "file": "unbreakable-heart.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/u/unbreakable-heart/",
+  "source_name": "Spell: Unbreakable Heart",
+  "sections": [
+    {
+      "id": "unbreakable_heart",
+      "title": "Unbreakable Heart",
+      "anchor_heading": "# Unbreakable Heart",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Unbreakable Heart, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

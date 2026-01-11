@@ -1,0 +1,16 @@
+{
+  "file": "elemental-swarm.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/e/elemental-swarm/",
+  "source_name": "Spell: Elemental Swarm",
+  "sections": [
+    {
+      "id": "elemental_swarm",
+      "title": "Elemental Swarm",
+      "anchor_heading": "# Elemental Swarm",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Elemental Swarm, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

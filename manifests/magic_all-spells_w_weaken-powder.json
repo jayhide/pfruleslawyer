@@ -1,0 +1,16 @@
+{
+  "file": "weaken-powder.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/w/weaken-powder/",
+  "source_name": "Spell: Weaken Powder",
+  "sections": [
+    {
+      "id": "weaken_powder",
+      "title": "Weaken Powder",
+      "anchor_heading": "# Weaken Powder",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Weaken Powder, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

@@ -1,0 +1,16 @@
+{
+  "file": "veil.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/v/veil/",
+  "source_name": "Spell: Veil",
+  "sections": [
+    {
+      "id": "veil",
+      "title": "Veil",
+      "anchor_heading": "# Veil",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Veil, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

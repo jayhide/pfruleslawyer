@@ -17,24 +17,26 @@
         "### Modifiers",
         "#### Use Magic Device Unchained"
       ],
-      "description": "Covers the Use Magic Device skill, including activating magic items, emulating class features/alignments/races, using scrolls and wands, and unchained skill unlock abilities.",
+      "description": "Covers the Use Magic Device skill, including activating magic items, emulating class features/races/alignments, using scrolls and wands, and skill unlock abilities.",
       "keywords": [
         "Use Magic Device",
         "UMD",
         "activate magic item",
+        "magic mishap",
         "emulate class feature",
-        "emulate alignment",
         "emulate race",
+        "emulate alignment",
+        "emulate ability score",
         "use scroll",
         "use wand",
+        "spell trigger",
+        "spell completion",
         "activate blindly",
         "decipher written spell",
-        "magic mishap",
-        "spell trigger item",
-        "spell completion",
         "Use Magic Device Unchained",
-        "skill unlocks"
+        "skill unlock"
       ]
     }
-  ]
+  ],
+  "category": "Skills"
 }

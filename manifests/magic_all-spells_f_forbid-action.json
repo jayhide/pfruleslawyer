@@ -1,0 +1,16 @@
+{
+  "file": "forbid-action.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/f/forbid-action/",
+  "source_name": "Spell: Forbid Action",
+  "sections": [
+    {
+      "id": "forbid_action",
+      "title": "Forbid Action",
+      "anchor_heading": "# Forbid Action",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Forbid Action, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

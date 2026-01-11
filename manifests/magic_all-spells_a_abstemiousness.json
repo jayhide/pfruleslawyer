@@ -1,0 +1,16 @@
+{
+  "file": "abstemiousness.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/a/abstemiousness/",
+  "source_name": "Spell: Abstemiousness",
+  "sections": [
+    {
+      "id": "abstemiousness",
+      "title": "Abstemiousness",
+      "anchor_heading": "# Abstemiousness",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Abstemiousness, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

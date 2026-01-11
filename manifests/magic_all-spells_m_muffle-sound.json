@@ -1,0 +1,16 @@
+{
+  "file": "muffle-sound.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/m/muffle-sound/",
+  "source_name": "Spell: Muffle Sound",
+  "sections": [
+    {
+      "id": "muffle_sound",
+      "title": "Muffle Sound",
+      "anchor_heading": "# Muffle Sound",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Muffle Sound, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

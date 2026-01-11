@@ -1,0 +1,16 @@
+{
+  "file": "web-bolt.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/w/web-bolt/",
+  "source_name": "Spell: Web Bolt",
+  "sections": [
+    {
+      "id": "web_bolt",
+      "title": "Web Bolt",
+      "anchor_heading": "# Web Bolt",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Web Bolt, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

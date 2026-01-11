@@ -1,0 +1,16 @@
+{
+  "file": "light-lance.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/l/light-lance/",
+  "source_name": "Spell: Light Lance",
+  "sections": [
+    {
+      "id": "light_lance",
+      "title": "Light Lance",
+      "anchor_heading": "# Light Lance",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Light Lance, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

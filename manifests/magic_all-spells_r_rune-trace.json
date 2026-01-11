@@ -1,0 +1,16 @@
+{
+  "file": "rune-trace.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/r/rune-trace/",
+  "source_name": "Spell: Rune Trace",
+  "sections": [
+    {
+      "id": "rune_trace",
+      "title": "Rune Trace",
+      "anchor_heading": "# Rune Trace",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Rune Trace, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

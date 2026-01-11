@@ -1,0 +1,16 @@
+{
+  "file": "hidden-presence.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/h/hidden-presence/",
+  "source_name": "Spell: Hidden Presence",
+  "sections": [
+    {
+      "id": "hidden_presence",
+      "title": "Hidden Presence",
+      "anchor_heading": "# Hidden Presence",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Hidden Presence, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

@@ -1,0 +1,16 @@
+{
+  "file": "burst-of-nettles.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/b/burst-of-nettles/",
+  "source_name": "Spell: Burst of Nettles",
+  "sections": [
+    {
+      "id": "burst_of_nettles",
+      "title": "Burst of Nettles",
+      "anchor_heading": "# Burst of Nettles",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Burst of Nettles, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

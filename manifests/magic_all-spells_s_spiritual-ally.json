@@ -1,0 +1,16 @@
+{
+  "file": "spiritual-ally.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/s/spiritual-ally/",
+  "source_name": "Spell: Spiritual Ally",
+  "sections": [
+    {
+      "id": "spiritual_ally",
+      "title": "Spiritual Ally",
+      "anchor_heading": "# Spiritual Ally",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Spiritual Ally, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

@@ -1,0 +1,16 @@
+{
+  "file": "revelation.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/r/revelation/",
+  "source_name": "Spell: Revelation",
+  "sections": [
+    {
+      "id": "revelation",
+      "title": "Revelation",
+      "anchor_heading": "# Revelation",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Revelation, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

@@ -1,0 +1,16 @@
+{
+  "file": "resize-item.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/r/resize-item/",
+  "source_name": "Spell: Resize Item",
+  "sections": [
+    {
+      "id": "resize_item",
+      "title": "Resize Item",
+      "anchor_heading": "# Resize Item",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Resize Item, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

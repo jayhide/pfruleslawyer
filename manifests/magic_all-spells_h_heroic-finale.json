@@ -1,0 +1,16 @@
+{
+  "file": "heroic-finale.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/h/heroic-finale/",
+  "source_name": "Spell: Heroic Finale",
+  "sections": [
+    {
+      "id": "heroic_finale",
+      "title": "Heroic Finale",
+      "anchor_heading": "# Heroic Finale",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Heroic Finale, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

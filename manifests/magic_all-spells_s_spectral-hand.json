@@ -1,0 +1,16 @@
+{
+  "file": "spectral-hand.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/s/spectral-hand/",
+  "source_name": "Spell: Spectral Hand",
+  "sections": [
+    {
+      "id": "spectral_hand",
+      "title": "Spectral Hand",
+      "anchor_heading": "# Spectral Hand",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Spectral Hand, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

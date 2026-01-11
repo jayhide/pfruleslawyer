@@ -1,0 +1,16 @@
+{
+  "file": "restoration.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/r/restoration/",
+  "source_name": "Spell: Restoration",
+  "sections": [
+    {
+      "id": "restoration",
+      "title": "Restoration",
+      "anchor_heading": "# Restoration",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Restoration, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

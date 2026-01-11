@@ -1,0 +1,16 @@
+{
+  "file": "inveigle-person.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/i/inveigle-person/",
+  "source_name": "Spell: Inveigle Person",
+  "sections": [
+    {
+      "id": "inveigle_person",
+      "title": "Inveigle Person",
+      "anchor_heading": "# Inveigle Person",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Inveigle Person, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

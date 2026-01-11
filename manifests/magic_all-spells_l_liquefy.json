@@ -1,0 +1,16 @@
+{
+  "file": "liquefy.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/l/liquefy/",
+  "source_name": "Spell: Liquefy",
+  "sections": [
+    {
+      "id": "liquefy",
+      "title": "Liquefy",
+      "anchor_heading": "# Liquefy",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Liquefy, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

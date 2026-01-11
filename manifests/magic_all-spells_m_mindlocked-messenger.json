@@ -1,0 +1,16 @@
+{
+  "file": "mindlocked-messenger.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/m/mindlocked-messenger/",
+  "source_name": "Spell: Mindlocked Messenger",
+  "sections": [
+    {
+      "id": "mindlocked_messenger",
+      "title": "Mindlocked Messenger",
+      "anchor_heading": "# Mindlocked Messenger",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Mindlocked Messenger, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

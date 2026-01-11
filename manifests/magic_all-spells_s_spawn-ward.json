@@ -1,0 +1,16 @@
+{
+  "file": "spawn-ward.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/s/spawn-ward/",
+  "source_name": "Spell: Spawn Ward",
+  "sections": [
+    {
+      "id": "spawn_ward",
+      "title": "Spawn Ward",
+      "anchor_heading": "# Spawn Ward",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Spawn Ward, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

@@ -1,0 +1,16 @@
+{
+  "file": "martial-marionette.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/m/martial-marionette/",
+  "source_name": "Spell: Martial Marionette",
+  "sections": [
+    {
+      "id": "martial_marionette",
+      "title": "Martial Marionette",
+      "anchor_heading": "# Martial Marionette",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Martial Marionette, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

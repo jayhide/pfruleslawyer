@@ -1,0 +1,16 @@
+{
+  "file": "remove-fear.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/r/remove-fear/",
+  "source_name": "Spell: Remove Fear",
+  "sections": [
+    {
+      "id": "remove_fear",
+      "title": "Remove Fear",
+      "anchor_heading": "# Remove Fear",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Remove Fear, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

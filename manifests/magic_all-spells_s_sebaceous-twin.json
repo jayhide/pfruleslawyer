@@ -1,0 +1,16 @@
+{
+  "file": "sebaceous-twin.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/s/sebaceous-twin/",
+  "source_name": "Spell: Sebaceous Twin",
+  "sections": [
+    {
+      "id": "sebaceous_twin",
+      "title": "Sebaceous Twin",
+      "anchor_heading": "# Sebaceous Twin",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Sebaceous Twin, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

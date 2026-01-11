@@ -1,0 +1,16 @@
+{
+  "file": "swarm-skin.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/s/swarm-skin/",
+  "source_name": "Spell: Swarm Skin",
+  "sections": [
+    {
+      "id": "swarm_skin",
+      "title": "Swarm Skin",
+      "anchor_heading": "# Swarm Skin",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Swarm Skin, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

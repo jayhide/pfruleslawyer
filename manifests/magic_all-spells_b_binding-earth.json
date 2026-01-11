@@ -1,0 +1,16 @@
+{
+  "file": "binding-earth.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/b/binding-earth/",
+  "source_name": "Spell: Binding Earth",
+  "sections": [
+    {
+      "id": "binding_earth",
+      "title": "Binding Earth",
+      "anchor_heading": "# Binding Earth",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Binding Earth, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

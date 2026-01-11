@@ -1,0 +1,16 @@
+{
+  "file": "impede-speech.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/i/impede-speech/",
+  "source_name": "Spell: Impede Speech",
+  "sections": [
+    {
+      "id": "impede_speech",
+      "title": "Impede Speech",
+      "anchor_heading": "# Impede Speech",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Impede Speech, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

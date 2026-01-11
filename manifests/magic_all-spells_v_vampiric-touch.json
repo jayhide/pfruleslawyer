@@ -1,0 +1,16 @@
+{
+  "file": "vampiric-touch.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/v/vampiric-touch/",
+  "source_name": "Spell: Vampiric Touch",
+  "sections": [
+    {
+      "id": "vampiric_touch",
+      "title": "Vampiric Touch",
+      "anchor_heading": "# Vampiric Touch",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Vampiric Touch, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

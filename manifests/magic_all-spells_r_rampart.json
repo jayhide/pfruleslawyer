@@ -1,0 +1,16 @@
+{
+  "file": "rampart.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/r/rampart/",
+  "source_name": "Spell: Rampart",
+  "sections": [
+    {
+      "id": "rampart",
+      "title": "Rampart",
+      "anchor_heading": "# Rampart",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Rampart, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

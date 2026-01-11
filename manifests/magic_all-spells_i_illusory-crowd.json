@@ -1,0 +1,16 @@
+{
+  "file": "illusory-crowd.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/i/illusory-crowd/",
+  "source_name": "Spell: Illusory Crowd",
+  "sections": [
+    {
+      "id": "illusory_crowd",
+      "title": "Illusory Crowd",
+      "anchor_heading": "# Illusory Crowd",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Illusory Crowd, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

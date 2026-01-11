@@ -1,0 +1,16 @@
+{
+  "file": "wing-thorns.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/w/wing-thorns/",
+  "source_name": "Spell: Wing Thorns",
+  "sections": [
+    {
+      "id": "wing_thorns",
+      "title": "Wing Thorns",
+      "anchor_heading": "# Wing Thorns",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Wing Thorns, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

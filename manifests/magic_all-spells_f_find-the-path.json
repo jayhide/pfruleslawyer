@@ -1,0 +1,16 @@
+{
+  "file": "find-the-path.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/f/find-the-path/",
+  "source_name": "Spell: Find the Path",
+  "sections": [
+    {
+      "id": "find_the_path",
+      "title": "Find the Path",
+      "anchor_heading": "# Find the Path",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Find the Path, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

@@ -1,0 +1,16 @@
+{
+  "file": "wall-of-suppression.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/w/wall-of-suppression/",
+  "source_name": "Spell: Wall of Suppression",
+  "sections": [
+    {
+      "id": "wall_of_suppression",
+      "title": "Wall of Suppression",
+      "anchor_heading": "# Wall of Suppression",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Wall of Suppression, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

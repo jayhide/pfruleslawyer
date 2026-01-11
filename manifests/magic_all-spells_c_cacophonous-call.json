@@ -1,0 +1,16 @@
+{
+  "file": "cacophonous-call.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/c/cacophonous-call/",
+  "source_name": "Spell: Cacophonous Call",
+  "sections": [
+    {
+      "id": "cacophonous_call",
+      "title": "Cacophonous Call",
+      "anchor_heading": "# Cacophonous Call",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Cacophonous Call, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

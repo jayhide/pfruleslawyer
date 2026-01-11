@@ -1,0 +1,16 @@
+{
+  "file": "pain-strike.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/p/pain-strike/",
+  "source_name": "Spell: Pain Strike",
+  "sections": [
+    {
+      "id": "pain_strike",
+      "title": "Pain Strike",
+      "anchor_heading": "# Pain Strike",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Pain Strike, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

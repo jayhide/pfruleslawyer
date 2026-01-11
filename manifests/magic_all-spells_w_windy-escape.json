@@ -1,0 +1,16 @@
+{
+  "file": "windy-escape.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/w/windy-escape/",
+  "source_name": "Spell: Windy Escape",
+  "sections": [
+    {
+      "id": "windy_escape",
+      "title": "Windy Escape",
+      "anchor_heading": "# Windy Escape",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Windy Escape, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

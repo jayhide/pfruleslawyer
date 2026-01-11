@@ -1,0 +1,16 @@
+{
+  "file": "contagious-flame.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/c/contagious-flame/",
+  "source_name": "Spell: Contagious Flame",
+  "sections": [
+    {
+      "id": "contagious_flame",
+      "title": "Contagious Flame",
+      "anchor_heading": "# Contagious Flame",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Contagious Flame, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

@@ -1,0 +1,16 @@
+{
+  "file": "dispel-good.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/d/dispel-good/",
+  "source_name": "Spell: Dispel Good",
+  "sections": [
+    {
+      "id": "dispel_good",
+      "title": "Dispel Good",
+      "anchor_heading": "# Dispel Good",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Dispel Good, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

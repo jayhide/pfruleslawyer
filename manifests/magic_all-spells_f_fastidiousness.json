@@ -1,0 +1,16 @@
+{
+  "file": "fastidiousness.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/f/fastidiousness/",
+  "source_name": "Spell: Fastidiousness",
+  "sections": [
+    {
+      "id": "fastidiousness",
+      "title": "Fastidiousness",
+      "anchor_heading": "# Fastidiousness",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Fastidiousness, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

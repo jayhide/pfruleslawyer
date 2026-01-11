@@ -1,0 +1,16 @@
+{
+  "file": "toxic-rupture.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/t/toxic-rupture/",
+  "source_name": "Spell: Toxic Rupture",
+  "sections": [
+    {
+      "id": "toxic_rupture",
+      "title": "Toxic Rupture",
+      "anchor_heading": "# Toxic Rupture",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Toxic Rupture, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

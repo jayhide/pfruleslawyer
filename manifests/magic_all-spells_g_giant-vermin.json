@@ -1,0 +1,16 @@
+{
+  "file": "giant-vermin.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/g/giant-vermin/",
+  "source_name": "Spell: Giant Vermin",
+  "sections": [
+    {
+      "id": "giant_vermin",
+      "title": "Giant Vermin",
+      "anchor_heading": "# Giant Vermin",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Giant Vermin, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

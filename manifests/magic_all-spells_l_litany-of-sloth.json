@@ -1,0 +1,16 @@
+{
+  "file": "litany-of-sloth.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/l/litany-of-sloth/",
+  "source_name": "Spell: Litany of Sloth",
+  "sections": [
+    {
+      "id": "litany_of_sloth",
+      "title": "Litany of Sloth",
+      "anchor_heading": "# Litany of Sloth",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Litany of Sloth, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

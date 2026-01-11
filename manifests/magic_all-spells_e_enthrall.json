@@ -1,0 +1,16 @@
+{
+  "file": "enthrall.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/e/enthrall/",
+  "source_name": "Spell: Enthrall",
+  "sections": [
+    {
+      "id": "enthrall",
+      "title": "Enthrall",
+      "anchor_heading": "# Enthrall",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Enthrall, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

@@ -1,0 +1,16 @@
+{
+  "file": "augury.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/a/augury/",
+  "source_name": "Spell: Augury",
+  "sections": [
+    {
+      "id": "augury",
+      "title": "Augury",
+      "anchor_heading": "# Augury",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Augury, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

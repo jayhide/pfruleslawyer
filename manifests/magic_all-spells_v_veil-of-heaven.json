@@ -1,0 +1,16 @@
+{
+  "file": "veil-of-heaven.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/v/veil-of-heaven/",
+  "source_name": "Spell: Veil of Heaven",
+  "sections": [
+    {
+      "id": "veil_of_heaven",
+      "title": "Veil of Heaven",
+      "anchor_heading": "# Veil of Heaven",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Veil of Heaven, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

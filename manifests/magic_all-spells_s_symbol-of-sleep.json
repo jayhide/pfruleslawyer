@@ -1,0 +1,16 @@
+{
+  "file": "symbol-of-sleep.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/s/symbol-of-sleep/",
+  "source_name": "Spell: Symbol of Sleep",
+  "sections": [
+    {
+      "id": "symbol_of_sleep",
+      "title": "Symbol of Sleep",
+      "anchor_heading": "# Symbol of Sleep",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Symbol of Sleep, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

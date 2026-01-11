@@ -1,0 +1,16 @@
+{
+  "file": "witness.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/w/witness/",
+  "source_name": "Spell: Witness",
+  "sections": [
+    {
+      "id": "witness",
+      "title": "Witness",
+      "anchor_heading": "# Witness",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Witness, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

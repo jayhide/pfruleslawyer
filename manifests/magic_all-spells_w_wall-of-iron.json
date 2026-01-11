@@ -1,0 +1,16 @@
+{
+  "file": "wall-of-iron.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/w/wall-of-iron/",
+  "source_name": "Spell: Wall of Iron",
+  "sections": [
+    {
+      "id": "wall_of_iron",
+      "title": "Wall of Iron",
+      "anchor_heading": "# Wall of Iron",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Wall of Iron, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

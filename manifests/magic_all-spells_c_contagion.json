@@ -1,0 +1,16 @@
+{
+  "file": "contagion.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/c/contagion/",
+  "source_name": "Spell: Contagion",
+  "sections": [
+    {
+      "id": "contagion",
+      "title": "Contagion",
+      "anchor_heading": "# Contagion",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Contagion, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

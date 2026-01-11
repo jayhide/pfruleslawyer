@@ -1,0 +1,16 @@
+{
+  "file": "bit-of-luck.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/b/bit-of-luck/",
+  "source_name": "Spell: Bit of Luck",
+  "sections": [
+    {
+      "id": "bit_of_luck",
+      "title": "Bit of Luck",
+      "anchor_heading": "# Bit of Luck",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Bit of Luck, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

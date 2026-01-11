@@ -1,0 +1,16 @@
+{
+  "file": "beastspeak.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/b/beastspeak/",
+  "source_name": "Spell: Beastspeak",
+  "sections": [
+    {
+      "id": "beastspeak",
+      "title": "Beastspeak",
+      "anchor_heading": "# Beastspeak",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Beastspeak, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

@@ -1,0 +1,16 @@
+{
+  "file": "siphon-might.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/s/siphon-might/",
+  "source_name": "Spell: Siphon Might",
+  "sections": [
+    {
+      "id": "siphon_might",
+      "title": "Siphon Might",
+      "anchor_heading": "# Siphon Might",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Siphon Might, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

@@ -1,0 +1,16 @@
+{
+  "file": "gilded-whispers.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/g/gilded-whispers/",
+  "source_name": "Spell: Gilded Whispers",
+  "sections": [
+    {
+      "id": "gilded_whispers",
+      "title": "Gilded Whispers",
+      "anchor_heading": "# Gilded Whispers",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Gilded Whispers, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

@@ -1,0 +1,16 @@
+{
+  "file": "spore-burst.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/s/spore-burst/",
+  "source_name": "Spell: Spore Burst",
+  "sections": [
+    {
+      "id": "spore_burst",
+      "title": "Spore Burst",
+      "anchor_heading": "# Spore Burst",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Spore Burst, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

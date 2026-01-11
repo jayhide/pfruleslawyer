@@ -1,0 +1,16 @@
+{
+  "file": "second-wind.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/s/second-wind/",
+  "source_name": "Spell: Second Wind",
+  "sections": [
+    {
+      "id": "second_wind",
+      "title": "Second Wind",
+      "anchor_heading": "# Second Wind",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Second Wind, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

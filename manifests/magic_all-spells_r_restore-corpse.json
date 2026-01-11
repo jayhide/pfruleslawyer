@@ -1,0 +1,16 @@
+{
+  "file": "restore-corpse.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/r/restore-corpse/",
+  "source_name": "Spell: Restore Corpse",
+  "sections": [
+    {
+      "id": "restore_corpse",
+      "title": "Restore Corpse",
+      "anchor_heading": "# Restore Corpse",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Restore Corpse, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

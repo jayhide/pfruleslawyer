@@ -1,0 +1,16 @@
+{
+  "file": "healing-warmth.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/h/healing-warmth/",
+  "source_name": "Spell: Healing Warmth",
+  "sections": [
+    {
+      "id": "healing_warmth",
+      "title": "Healing Warmth",
+      "anchor_heading": "# Healing Warmth",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Healing Warmth, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

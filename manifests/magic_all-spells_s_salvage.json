@@ -1,0 +1,16 @@
+{
+  "file": "salvage.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/s/salvage/",
+  "source_name": "Spell: Salvage",
+  "sections": [
+    {
+      "id": "salvage",
+      "title": "Salvage",
+      "anchor_heading": "# Salvage",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Salvage, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

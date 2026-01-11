@@ -1,0 +1,16 @@
+{
+  "file": "waves-of-blood.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/w/waves-of-blood/",
+  "source_name": "Spell: Waves of Blood",
+  "sections": [
+    {
+      "id": "waves_of_blood",
+      "title": "Waves of Blood",
+      "anchor_heading": "# Waves of Blood",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Waves of Blood, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

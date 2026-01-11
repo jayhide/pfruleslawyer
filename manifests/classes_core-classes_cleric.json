@@ -9,7 +9,6 @@
       "anchor_heading": "# Cleric",
       "includes_subheadings": [
         "### Class Skills",
-        "### Class Features",
         "#### Weapon and Armor Proficiency",
         "#### Aura (Ex)",
         "#### Spellcasting",
@@ -19,28 +18,27 @@
         "#### Spontaneous Casting",
         "#### Bonus Languages",
         "### Alternative Capstone Ability",
-        "#### Proxy (Su)",
-        "## Ex-Clerics",
-        "## Favored Class Bonuses",
-        "## Archetypes & Alternate Class Features"
+        "#### Proxy (Su)"
       ],
-      "description": "Comprehensive rules for the Cleric class in Pathfinder 1e, covering all class features, progression, abilities, domains, and archetypes.",
+      "description": "Comprehensive rules for the Cleric class, including spellcasting, channel energy, domains, class features, archetypes, and divine magic mechanics.",
       "keywords": [
         "cleric",
         "channel energy",
         "domains",
-        "spontaneous casting",
-        "orisons",
         "divine spells",
+        "orisons",
+        "spontaneous casting",
         "aura",
-        "weapon proficiency",
-        "armor proficiency",
-        "ex-clerics",
-        "favored class bonuses",
+        "cleric spells",
+        "divine magic",
         "cleric archetypes",
-        "alternative capstone",
-        "proxy"
+        "ex-clerics",
+        "cleric domains",
+        "subdomains",
+        "variant channeling",
+        "cleric class features"
       ]
     }
-  ]
+  ],
+  "category": "Classes"
 }

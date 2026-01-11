@@ -1,0 +1,16 @@
+{
+  "file": "seismic-fissure.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/s/seismic-fissure/",
+  "source_name": "Spell: Seismic Fissure",
+  "sections": [
+    {
+      "id": "seismic_fissure",
+      "title": "Seismic Fissure",
+      "anchor_heading": "# Seismic Fissure",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Seismic Fissure, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

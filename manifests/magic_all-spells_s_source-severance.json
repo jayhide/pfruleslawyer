@@ -1,0 +1,16 @@
+{
+  "file": "source-severance.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/s/source-severance/",
+  "source_name": "Spell: Source Severance",
+  "sections": [
+    {
+      "id": "source_severance",
+      "title": "Source Severance",
+      "anchor_heading": "# Source Severance",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Source Severance, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

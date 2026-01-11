@@ -1,0 +1,16 @@
+{
+  "file": "phantom-hunt.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/p/phantom-hunt/",
+  "source_name": "Spell: Phantom Hunt",
+  "sections": [
+    {
+      "id": "phantom_hunt",
+      "title": "Phantom Hunt",
+      "anchor_heading": "# Phantom Hunt",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Phantom Hunt, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

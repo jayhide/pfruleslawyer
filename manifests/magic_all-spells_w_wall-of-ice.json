@@ -1,0 +1,16 @@
+{
+  "file": "wall-of-ice.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/w/wall-of-ice/",
+  "source_name": "Spell: Wall of Ice",
+  "sections": [
+    {
+      "id": "wall_of_ice",
+      "title": "Wall of Ice",
+      "anchor_heading": "# Wall of Ice",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Wall of Ice, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

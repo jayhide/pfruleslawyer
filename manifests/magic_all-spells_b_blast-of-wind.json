@@ -1,0 +1,16 @@
+{
+  "file": "blast-of-wind.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/b/blast-of-wind/",
+  "source_name": "Spell: Blast of Wind",
+  "sections": [
+    {
+      "id": "blast_of_wind",
+      "title": "Blast of Wind",
+      "anchor_heading": "# Blast of Wind",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Blast of Wind, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

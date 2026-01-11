@@ -1,0 +1,16 @@
+{
+  "file": "rift-of-ruin.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/r/rift-of-ruin/",
+  "source_name": "Spell: Rift of Ruin",
+  "sections": [
+    {
+      "id": "rift_of_ruin",
+      "title": "Rift of Ruin",
+      "anchor_heading": "# Rift of Ruin",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Rift of Ruin, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

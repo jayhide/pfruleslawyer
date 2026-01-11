@@ -1,0 +1,16 @@
+{
+  "file": "polar-ray.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/p/polar-ray/",
+  "source_name": "Spell: Polar Ray",
+  "sections": [
+    {
+      "id": "polar_ray",
+      "title": "Polar Ray",
+      "anchor_heading": "# Polar Ray",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Polar Ray, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

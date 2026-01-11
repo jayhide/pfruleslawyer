@@ -1,0 +1,16 @@
+{
+  "file": "emblem-of-greed.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/e/emblem-of-greed/",
+  "source_name": "Spell: Emblem of Greed",
+  "sections": [
+    {
+      "id": "emblem_of_greed",
+      "title": "Emblem of Greed",
+      "anchor_heading": "# Emblem of Greed",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Emblem of Greed, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

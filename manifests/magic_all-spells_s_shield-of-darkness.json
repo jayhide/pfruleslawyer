@@ -1,0 +1,16 @@
+{
+  "file": "shield-of-darkness.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/s/shield-of-darkness/",
+  "source_name": "Spell: Shield of Darkness",
+  "sections": [
+    {
+      "id": "shield_of_darkness",
+      "title": "Shield of Darkness",
+      "anchor_heading": "# Shield of Darkness",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Shield of Darkness, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

@@ -1,0 +1,16 @@
+{
+  "file": "irrisen-mirror-sight.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/m/irrisen-mirror-sight/",
+  "source_name": "Spell: Mirror Sight",
+  "sections": [
+    {
+      "id": "irrisen_mirror_sight",
+      "title": "Mirror Sight",
+      "anchor_heading": "# Mirror Sight",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Mirror Sight, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

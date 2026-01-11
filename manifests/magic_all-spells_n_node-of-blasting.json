@@ -1,0 +1,16 @@
+{
+  "file": "node-of-blasting.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/n/node-of-blasting/",
+  "source_name": "Spell: Node of Blasting",
+  "sections": [
+    {
+      "id": "node_of_blasting",
+      "title": "Node of Blasting",
+      "anchor_heading": "# Node of Blasting",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Node of Blasting, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

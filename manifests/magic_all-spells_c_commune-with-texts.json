@@ -1,0 +1,16 @@
+{
+  "file": "commune-with-texts.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/c/commune-with-texts/",
+  "source_name": "Spell: Commune With Texts",
+  "sections": [
+    {
+      "id": "commune_with_texts",
+      "title": "Commune With Texts",
+      "anchor_heading": "# Commune With Texts",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Commune With Texts, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

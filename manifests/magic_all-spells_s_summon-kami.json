@@ -1,0 +1,16 @@
+{
+  "file": "summon-kami.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/s/summon-kami/",
+  "source_name": "Spell: Summon Kami",
+  "sections": [
+    {
+      "id": "summon_kami",
+      "title": "Summon Kami",
+      "anchor_heading": "# Summon Kami",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Summon Kami, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

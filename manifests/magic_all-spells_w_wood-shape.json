@@ -1,0 +1,16 @@
+{
+  "file": "wood-shape.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/w/wood-shape/",
+  "source_name": "Spell: Wood Shape",
+  "sections": [
+    {
+      "id": "wood_shape",
+      "title": "Wood Shape",
+      "anchor_heading": "# Wood Shape",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Wood Shape, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

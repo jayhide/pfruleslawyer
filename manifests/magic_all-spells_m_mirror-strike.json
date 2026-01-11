@@ -1,0 +1,16 @@
+{
+  "file": "mirror-strike.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/m/mirror-strike/",
+  "source_name": "Spell: Mirror Strike",
+  "sections": [
+    {
+      "id": "mirror_strike",
+      "title": "Mirror Strike",
+      "anchor_heading": "# Mirror Strike",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Mirror Strike, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

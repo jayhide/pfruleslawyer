@@ -1,0 +1,16 @@
+{
+  "file": "venomous-bite.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/v/venomous-bite/",
+  "source_name": "Spell: Venomous Bite",
+  "sections": [
+    {
+      "id": "venomous_bite",
+      "title": "Venomous Bite",
+      "anchor_heading": "# Venomous Bite",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Venomous Bite, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

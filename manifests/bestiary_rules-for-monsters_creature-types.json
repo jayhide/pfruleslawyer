@@ -7,26 +7,23 @@
       "title": "PC Playable Races Overview",
       "anchor_heading": "### PC Playable Races",
       "includes_subheadings": [],
-      "description": "Rules for how creature types work differently for PC races, including humanoid shape requirements and 0-Hit Dice mechanics",
+      "description": "Rules explaining how playable race types differ from creature types, including humanoid shape requirements and 0-HD mechanics",
       "keywords": [
-        "PC race",
         "playable race",
-        "humanoid shape",
-        "0-Hit Dice",
-        "magic item slots"
+        "race type",
+        "humanoid",
+        "0-Hit Dice"
       ]
     },
     {
       "id": "creature_statistics_table",
-      "title": "Creature Statistics by Type Table",
-      "anchor_heading": "# Table: Creature Statistics by Type",
+      "title": "Creature Statistics Table",
+      "anchor_heading": "# Types",
       "includes_subheadings": [],
-      "description": "Complete table showing Hit Die, BAB, saves, skill ranks, and class skills for all creature types",
+      "description": "Reference table showing Hit Dice, BAB, saves, skill ranks, and class skills for each creature type",
       "keywords": [
-        "creature statistics",
         "Hit Die",
         "base attack bonus",
-        "BAB",
         "saving throws",
         "skill ranks",
         "class skills"
@@ -37,13 +34,12 @@
       "title": "Aberration Type",
       "anchor_heading": "#### Aberration",
       "includes_subheadings": [],
-      "description": "Complete rules for aberration creature type including features, traits, proficiencies, and special abilities",
+      "description": "Complete rules for aberration creature type including features, traits, and special abilities",
       "keywords": [
         "aberration",
-        "bizarre anatomy",
-        "alien mindset",
         "darkvision",
-        "Will saves"
+        "bizarre anatomy",
+        "alien mindset"
       ]
     },
     {
@@ -51,32 +47,26 @@
       "title": "Animal Type",
       "anchor_heading": "#### Animal",
       "includes_subheadings": [],
-      "description": "Complete rules for animal creature type including Intelligence limits, natural alignment, and companion information",
+      "description": "Complete rules for animal creature type including features, traits, and companion information",
       "keywords": [
         "animal",
         "vertebrate",
-        "Intelligence 1 or 2",
-        "neutral alignment",
         "low-light vision",
-        "companions"
+        "neutral alignment"
       ]
     },
     {
       "id": "construct_type",
       "title": "Construct Type",
       "anchor_heading": "#### Construct",
-      "includes_subheadings": [
-        "Table: Construct Size and Bonus Hit Points"
-      ],
-      "description": "Complete rules for construct creature type including immunities, healing restrictions, bonus hit points by size, and creation",
+      "includes_subheadings": [],
+      "description": "Complete rules for construct creature type including size bonus hit points table and immunity traits",
       "keywords": [
         "construct",
         "animated object",
         "immunity",
-        "mind-affecting",
-        "no Constitution",
-        "bonus hit points",
-        "repair"
+        "mindless",
+        "bonus hit points"
       ]
     },
     {
@@ -84,15 +74,13 @@
       "title": "Dragon Type",
       "anchor_heading": "#### Dragon",
       "includes_subheadings": [],
-      "description": "Complete rules for dragon creature type including reptilian nature, magical abilities, and high skill points",
+      "description": "Complete rules for dragon creature type including features, traits, and immunities",
       "keywords": [
         "dragon",
-        "reptile-like",
+        "reptile",
         "winged",
-        "magical abilities",
-        "immunity",
-        "sleep",
-        "paralysis"
+        "sleep immunity",
+        "paralysis immunity"
       ]
     },
     {
@@ -100,12 +88,11 @@
       "title": "Fey Type",
       "anchor_heading": "#### Fey",
       "includes_subheadings": [],
-      "description": "Complete rules for fey creature type including supernatural connections to nature and human-like appearance",
+      "description": "Complete rules for fey creature type including supernatural abilities and nature connections",
       "keywords": [
         "fey",
-        "supernatural abilities",
-        "nature connection",
-        "human-shaped",
+        "supernatural",
+        "nature",
         "low-light vision"
       ]
     },
@@ -114,15 +101,12 @@
       "title": "Humanoid Type",
       "anchor_heading": "#### Humanoid",
       "includes_subheadings": [],
-      "description": "Complete rules for humanoid creature type including body structure, societies, subtypes, and Hit Die exchange rules",
+      "description": "Complete rules for humanoid creature type including HD replacement mechanics and subtype requirements",
       "keywords": [
         "humanoid",
-        "two arms",
-        "two legs",
-        "societies",
+        "human-like",
         "subtype",
-        "Hit Die exchange",
-        "giants"
+        "1 Hit Die"
       ]
     },
     {
@@ -130,13 +114,12 @@
       "title": "Magical Beast Type",
       "anchor_heading": "#### Magical Beast",
       "includes_subheadings": [],
-      "description": "Complete rules for magical beast creature type including higher Intelligence than animals and supernatural abilities",
+      "description": "Complete rules for magical beast creature type including Intelligence requirements and supernatural abilities",
       "keywords": [
         "magical beast",
-        "Intelligence higher than 2",
         "supernatural abilities",
         "extraordinary abilities",
-        "darkvision"
+        "Intelligence"
       ]
     },
     {
@@ -144,14 +127,12 @@
       "title": "Monstrous Humanoid Type",
       "anchor_heading": "#### Monstrous Humanoid",
       "includes_subheadings": [],
-      "description": "Complete rules for monstrous humanoid creature type including animalistic features and magical abilities",
+      "description": "Complete rules for monstrous humanoid creature type with animalistic features and magical abilities",
       "keywords": [
         "monstrous humanoid",
-        "animalistic features",
+        "animalistic",
         "magical abilities",
-        "darkvision",
-        "Reflex",
-        "Will saves"
+        "darkvision"
       ]
     },
     {
@@ -159,16 +140,13 @@
       "title": "Ooze Type",
       "anchor_heading": "#### Ooze",
       "includes_subheadings": [],
-      "description": "Complete rules for ooze creature type including amorphous nature, mindless traits, blindsight, and critical hit immunity",
+      "description": "Complete rules for ooze creature type including mindless trait, blindsight, and immunity to precision damage",
       "keywords": [
         "ooze",
         "amorphous",
         "mindless",
         "blindsight",
-        "immunity",
-        "critical hits",
-        "flanking",
-        "precision damage"
+        "critical hits"
       ]
     },
     {
@@ -176,15 +154,13 @@
       "title": "Outsider Type",
       "anchor_heading": "#### Outsider",
       "includes_subheadings": [],
-      "description": "Complete rules for outsider creature type including planar essence, soul mechanics, and resurrection limitations",
+      "description": "Complete rules for outsider creature type including dual nature, resurrection restrictions, and planar origins",
       "keywords": [
         "outsider",
-        "planar essence",
+        "planar",
         "soul",
-        "body form one unit",
         "resurrection",
-        "true resurrection",
-        "native subtype"
+        "dual nature"
       ]
     },
     {
@@ -192,16 +168,13 @@
       "title": "Plant Type",
       "anchor_heading": "#### Plant",
       "includes_subheadings": [],
-      "description": "Complete rules for plant creature type including vegetable nature, immunity to mind-affecting effects, and distinction from regular plants",
+      "description": "Complete rules for plant creature type including immunity to mind-affecting effects and paralysis",
       "keywords": [
         "plant",
-        "vegetable creatures",
-        "immunity",
+        "vegetable",
         "mind-affecting",
         "paralysis",
-        "poison",
-        "polymorph",
-        "sleep"
+        "polymorph"
       ]
     },
     {
@@ -211,15 +184,13 @@
       "includes_subheadings": [
         "### Five Things Almost Everyone Knows About Undead"
       ],
-      "description": "Complete rules for undead creature type including Charisma-based mechanics, immunities, negative energy healing, and common knowledge",
+      "description": "Complete rules for undead creature type including Charisma-based mechanics, immunities, and common knowledge",
       "keywords": [
         "undead",
-        "once-living",
-        "Charisma for Constitution",
+        "Charisma",
         "negative energy",
-        "immunity",
         "holy water",
-        "evil"
+        "soul"
       ]
     },
     {
@@ -227,16 +198,13 @@
       "title": "Vermin Type",
       "anchor_heading": "#### Vermin",
       "includes_subheadings": [],
-      "description": "Complete rules for vermin creature type including insects, arachnids, mindless nature, and darkvision",
+      "description": "Complete rules for vermin creature type including mindless trait and invertebrate characteristics",
       "keywords": [
         "vermin",
         "insects",
-        "arachnids",
         "arthropods",
         "mindless",
-        "immunity",
-        "mind-affecting",
-        "darkvision"
+        "invertebrates"
       ]
     },
     {
@@ -244,11 +212,11 @@
       "title": "Adlet Subtype",
       "anchor_heading": "#### Adlet Subtype",
       "includes_subheadings": [],
-      "description": "Rules for adlet subtype applied to humanoid wolf creatures and related beings",
+      "description": "Rules for adlet subtype applied to humanoid wolf creatures",
       "keywords": [
         "adlet",
-        "humanoid wolf",
-        "subterranean"
+        "humanoid",
+        "wolf"
       ]
     },
     {
@@ -256,13 +224,11 @@
       "title": "Aeon Subtype",
       "anchor_heading": "#### Aeon Subtype",
       "includes_subheadings": [],
-      "description": "Rules for aeon subtype including balance maintenance, immunities, envisaging communication, and void form",
+      "description": "Rules for aeon subtype including envisaging, extension of all, and void form abilities",
       "keywords": [
         "aeon",
-        "neutral outsider",
-        "balance",
+        "neutral",
         "envisaging",
-        "extension of all",
         "void form",
         "multiverse"
       ]
@@ -272,14 +238,12 @@
       "title": "Agathion Subtype",
       "anchor_heading": "#### Agathion Subtype",
       "includes_subheadings": [],
-      "description": "Rules for agathion subtype including beast aspects, lay on hands, and communication with animals",
+      "description": "Rules for agathion subtype including lay on hands and speak with animals abilities",
       "keywords": [
         "agathion",
         "beast-aspect",
-        "Nirvana",
         "lay on hands",
-        "speak with animals",
-        "truespeech"
+        "speak with animals"
       ]
     },
     {
@@ -287,13 +251,12 @@
       "title": "Air Subtype",
       "anchor_heading": "#### Air Subtype",
       "includes_subheadings": [],
-      "description": "Rules for air subtype including Elemental Plane connections, fly speeds, and perfect maneuverability",
+      "description": "Rules for air subtype including fly speeds and perfect maneuverability",
       "keywords": [
-        "air subtype",
-        "Elemental Plane",
-        "fly speed",
-        "perfect maneuverability",
-        "Fly skill"
+        "air",
+        "elemental",
+        "fly",
+        "maneuverability"
       ]
     },
     {
@@ -301,17 +264,12 @@
       "title": "Angel Subtype",
       "anchor_heading": "#### Angel Subtype",
       "includes_subheadings": [],
-      "description": "Rules for angel subtype including celestial nature, protective aura, and truespeech ability",
+      "description": "Rules for angel subtype including protective aura and truespeech abilities",
       "keywords": [
         "angel",
         "celestial",
-        "good outsider",
         "protective aura",
-        "truespeech",
-        "immunity",
-        "acid",
-        "cold",
-        "petrification"
+        "truespeech"
       ]
     },
     {
@@ -319,13 +277,12 @@
       "title": "Aquatic Subtype",
       "anchor_heading": "#### Aquatic Subtype",
       "includes_subheadings": [],
-      "description": "Rules for aquatic subtype including water breathing, swim speeds, and amphibious quality",
+      "description": "Rules for aquatic subtype including swim speeds and water breathing",
       "keywords": [
         "aquatic",
-        "swim speed",
-        "breathe water",
-        "amphibious",
-        "Swim skill"
+        "swim",
+        "water breathing",
+        "amphibious"
       ]
     },
     {
@@ -333,16 +290,12 @@
       "title": "Archon Subtype",
       "anchor_heading": "#### Archon Subtype",
       "includes_subheadings": [],
-      "description": "Rules for archon subtype including lawful good nature, aura of menace, and teleportation",
+      "description": "Rules for archon subtype including aura of menace and teleportation abilities",
       "keywords": [
         "archon",
         "celestial",
-        "lawful good",
         "aura of menace",
-        "teleport",
-        "truespeech",
-        "immunity",
-        "electricity"
+        "teleport"
       ]
     },
     {
@@ -350,16 +303,12 @@
       "title": "Asura Subtype",
       "anchor_heading": "#### Asura Subtype",
       "includes_subheadings": [],
-      "description": "Rules for asura subtype including elusive aura, regeneration, spell resistance, and divine spark",
+      "description": "Rules for asura subtype including elusive aura, regeneration, and spell resistance",
       "keywords": [
         "asura",
         "elusive aura",
         "regeneration",
-        "spell resistance",
-        "summon",
-        "lawful",
-        "evil",
-        "nondetection"
+        "spell resistance"
       ]
     },
     {
@@ -367,13 +316,11 @@
       "title": "Augmented Subtype",
       "anchor_heading": "#### Augmented Subtype",
       "includes_subheadings": [],
-      "description": "Rules for augmented subtype gained when templates change original creature type",
+      "description": "Rules for augmented subtype applied when templates change original creature type",
       "keywords": [
         "augmented",
         "template",
-        "original type",
-        "inherited template",
-        "acquired template"
+        "original type"
       ]
     },
     {
@@ -381,15 +328,12 @@
       "title": "Automaton Subtype",
       "anchor_heading": "#### Automaton Subtype",
       "includes_subheadings": [],
-      "description": "Rules for automaton subtype including lawful neutral constructs, automaton cores, and intelligent construct abilities",
+      "description": "Rules for automaton subtype including automaton core, intelligent construct, and vulnerable mind",
       "keywords": [
         "automaton",
-        "lawful neutral",
         "construct",
-        "extraplanar",
         "automaton core",
-        "intelligent construct",
-        "vulnerable mind"
+        "intelligent construct"
       ]
     },
     {
@@ -397,15 +341,12 @@
       "title": "Azata Subtype",
       "anchor_heading": "#### Azata Subtype",
       "includes_subheadings": [],
-      "description": "Rules for azata subtype including chaotic good celestials and truespeech",
+      "description": "Rules for azata subtype including immunities and truespeech",
       "keywords": [
         "azata",
         "celestial",
         "chaotic good",
-        "truespeech",
-        "immunity",
-        "electricity",
-        "petrification"
+        "truespeech"
       ]
     },
     {
@@ -413,17 +354,13 @@
       "title": "Behemoth Subtype",
       "anchor_heading": "#### Behemoth Subtype",
       "includes_subheadings": [],
-      "description": "Rules for behemoth subtype including Colossal magical beasts, regeneration, ruinous attacks, and miracle vulnerability",
+      "description": "Rules for behemoth subtype including regeneration, ruinous attacks, and vulnerability to miracles",
       "keywords": [
         "behemoth",
-        "neutral",
-        "Colossal",
-        "magical beast",
+        "colossal",
         "regeneration",
         "ruinous",
-        "unstoppable",
-        "miracle",
-        "wish"
+        "miracle"
       ]
     },
     {
@@ -434,7 +371,7 @@
       "description": "Rules for catfolk subtype applied to humanoid felines",
       "keywords": [
         "catfolk",
-        "humanoid feline",
+        "humanoid",
         "feline"
       ]
     },
@@ -447,10 +384,8 @@
       "keywords": [
         "chaotic",
         "alignment",
-        "Outer Planes",
         "damage reduction",
-        "chaotically aligned",
-        "natural weapons"
+        "outsider"
       ]
     },
     {
@@ -460,15 +395,12 @@
       "includes_subheadings": [
         "##### Clockwork Augmentations"
       ],
-      "description": "Rules for clockwork subtype including winding mechanics, electrical vulnerability, swift reactions, and augmentation options",
+      "description": "Rules for clockwork subtype including winding mechanism, swift reactions, and various augmentations",
       "keywords": [
         "clockwork",
-        "construct",
         "winding",
-        "vulnerable to electricity",
-        "swift reactions",
-        "difficult to create",
-        "augmentations"
+        "electricity",
+        "swift reactions"
       ]
     },
     {
@@ -478,9 +410,8 @@
       "includes_subheadings": [],
       "description": "Rules for cold subtype including immunity to cold and vulnerability to fire",
       "keywords": [
-        "cold subtype",
-        "immunity",
         "cold",
+        "immunity",
         "vulnerability",
         "fire"
       ]
@@ -490,16 +421,12 @@
       "title": "Colossus Subtype",
       "anchor_heading": "#### Colossus Subtype",
       "includes_subheadings": [],
-      "description": "Rules for colossus subtype including Mythic constructs, antimagic aura, alternate form, and pinning stomp",
+      "description": "Rules for colossus subtype including antimagic aura, alternate form, and pinning stomp",
       "keywords": [
         "colossus",
-        "Mythic",
-        "construct",
-        "Gargantuan",
-        "selective antimagic aura",
-        "alternate form",
-        "mythic quickening",
-        "pinning stomp"
+        "mythic",
+        "antimagic",
+        "alternate form"
       ]
     },
     {
@@ -507,16 +434,11 @@
       "title": "Daemon Subtype",
       "anchor_heading": "#### Daemon Subtype",
       "includes_subheadings": [],
-      "description": "Rules for daemon subtype including neutral evil outsiders that eat souls and thrive on disaster",
+      "description": "Rules for daemon subtype including immunities and summon abilities",
       "keywords": [
         "daemon",
         "neutral evil",
-        "outsider",
-        "eat souls",
-        "disaster",
-        "immunity",
-        "acid",
-        "death effects",
+        "soul",
         "summon"
       ]
     },
@@ -525,13 +447,11 @@
       "title": "Dark Folk Subtype",
       "anchor_heading": "#### Dark Folk Subtype",
       "includes_subheadings": [],
-      "description": "Rules for dark folk subtype including reclusive subterranean humanoids with light aversion",
+      "description": "Rules for dark folk subtype for subterranean humanoids with light aversion",
       "keywords": [
         "dark folk",
-        "reclusive",
         "subterranean",
-        "humanoid",
-        "aversion to light"
+        "light aversion"
       ]
     },
     {
@@ -539,11 +459,11 @@
       "title": "Deep One Subtype",
       "anchor_heading": "#### Deep One Subtype",
       "includes_subheadings": [],
-      "description": "Rules for deep one subtype applied to deep ones and hybrids with low-light vision",
+      "description": "Rules for deep one subtype including lowlight vision for deep ones and hybrids",
       "keywords": [
         "deep one",
-        "deep one hybrid",
-        "low-light vision"
+        "hybrid",
+        "lowlight vision"
       ]
     },
     {
@@ -551,15 +471,12 @@
       "title": "Demodand Subtype",
       "anchor_heading": "#### Demodand Subtype",
       "includes_subheadings": [],
-      "description": "Rules for demodand subtype including chaotic evil outsiders, faith-stealing strike, and heretical soul",
+      "description": "Rules for demodand subtype including faith-stealing strike and heretical soul",
       "keywords": [
         "demodand",
         "chaotic evil",
-        "outsider",
-        "Abyss",
-        "faith-stealing strike",
-        "heretical soul",
-        "divine spells"
+        "faith-stealing",
+        "heretical soul"
       ]
     },
     {
@@ -567,17 +484,12 @@
       "title": "Demon Subtype",
       "anchor_heading": "#### Demon Subtype",
       "includes_subheadings": [],
-      "description": "Rules for demon subtype including chaotic evil outsiders from the Abyss with standard fiendish traits",
+      "description": "Rules for demon subtype including immunities, resistances, and summon abilities",
       "keywords": [
         "demon",
         "chaotic evil",
-        "outsider",
-        "Abyss",
-        "immunity",
-        "electricity",
-        "poison",
-        "summon",
-        "telepathy"
+        "abyss",
+        "summon"
       ]
     },
     {
@@ -585,17 +497,12 @@
       "title": "Devil Subtype",
       "anchor_heading": "#### Devil Subtype",
       "includes_subheadings": [],
-      "description": "Rules for devil subtype including lawful evil outsiders from Hell with see in darkness ability",
+      "description": "Rules for devil subtype including see in darkness and summon abilities",
       "keywords": [
         "devil",
         "lawful evil",
-        "outsider",
-        "Hell",
-        "immunity",
-        "fire",
-        "see in darkness",
-        "summon",
-        "telepathy"
+        "hell",
+        "see in darkness"
       ]
     },
     {
@@ -603,17 +510,12 @@
       "title": "Div Subtype",
       "anchor_heading": "#### Div Subtype",
       "includes_subheadings": [],
-      "description": "Rules for div subtype including neutral evil outsiders that sow misfortune and ruin",
+      "description": "Rules for div subtype including see in darkness and summon abilities",
       "keywords": [
         "div",
         "neutral evil",
-        "outsider",
         "misfortune",
-        "ruin",
-        "immunity",
-        "fire",
-        "see in darkness",
-        "summon"
+        "see in darkness"
       ]
     },
     {
@@ -621,7 +523,7 @@
       "title": "Dwarf Subtype",
       "anchor_heading": "#### Dwarf Subtype",
       "includes_subheadings": [],
-      "description": "Rules for dwarf subtype applied to dwarves and related creatures with darkvision",
+      "description": "Rules for dwarf subtype including darkvision for dwarves and related creatures",
       "keywords": [
         "dwarf",
         "darkvision"
@@ -632,13 +534,12 @@
       "title": "Earth Subtype",
       "anchor_heading": "#### Earth Subtype",
       "includes_subheadings": [],
-      "description": "Rules for earth subtype including Elemental Plane connections, burrow speeds, and tremorsense",
+      "description": "Rules for earth subtype including burrow speeds and tremorsense",
       "keywords": [
-        "earth subtype",
-        "Elemental Plane",
-        "burrow speed",
-        "tremorsense",
-        "solid rock"
+        "earth",
+        "elemental",
+        "burrow",
+        "tremorsense"
       ]
     },
     {
@@ -646,20 +547,14 @@
       "title": "Elemental Subtype",
       "anchor_heading": "#### Elemental Subtype",
       "includes_subheadings": [],
-      "description": "Rules for elemental subtype including beings composed of classical elements with specific immunities",
+      "description": "Rules for elemental subtype including immunities and precision damage resistance",
       "keywords": [
         "elemental",
-        "classical elements",
         "air",
         "earth",
         "fire",
         "water",
-        "immunity",
-        "bleed",
-        "paralysis",
-        "poison",
-        "sleep",
-        "stunning"
+        "immunity"
       ]
     },
     {
@@ -667,7 +562,7 @@
       "title": "Elf Subtype",
       "anchor_heading": "#### Elf Subtype",
       "includes_subheadings": [],
-      "description": "Rules for elf subtype applied to elves and related creatures with low-light vision",
+      "description": "Rules for elf subtype including low-light vision for elves and related creatures",
       "keywords": [
         "elf",
         "low-light vision"
@@ -678,14 +573,12 @@
       "title": "Evil Subtype",
       "anchor_heading": "#### Evil Subtype",
       "includes_subheadings": [],
-      "description": "Rules for evil subtype including fiends and alignment-based effects",
+      "description": "Rules for evil subtype including alignment effects and damage reduction bypass",
       "keywords": [
-        "evil subtype",
+        "evil",
         "fiend",
-        "Outer Planes",
         "alignment",
-        "damage reduction",
-        "evil-aligned"
+        "damage reduction"
       ]
     },
     {
@@ -693,15 +586,11 @@
       "title": "Extraplanar Subtype",
       "anchor_heading": "#### Extraplanar Subtype",
       "includes_subheadings": [],
-      "description": "Rules for extraplanar subtype applied when creatures are not on their native plane",
+      "description": "Rules for extraplanar subtype applied when creatures are off their native plane",
       "keywords": [
         "extraplanar",
         "native plane",
-        "Material Plane",
-        "transitive plane",
-        "Astral",
-        "Ethereal",
-        "Shadow"
+        "Material Plane"
       ]
     },
     {
@@ -711,9 +600,8 @@
       "includes_subheadings": [],
       "description": "Rules for fire subtype including immunity to fire and vulnerability to cold",
       "keywords": [
-        "fire subtype",
-        "immunity",
         "fire",
+        "immunity",
         "vulnerability",
         "cold"
       ]
@@ -723,16 +611,12 @@
       "title": "Giant Subtype",
       "anchor_heading": "#### Giant Subtype",
       "includes_subheadings": [],
-      "description": "Rules for giant subtype including Large+ humanoids with racial Hit Dice and special skills",
+      "description": "Rules for giant subtype including size requirements and racial Hit Dice",
       "keywords": [
         "giant",
         "humanoid",
-        "great strength",
-        "Large size",
-        "racial Hit Dice",
-        "low-light vision",
-        "Intimidate",
-        "Perception"
+        "Large",
+        "racial Hit Dice"
       ]
     },
     {
@@ -740,7 +624,7 @@
       "title": "Gnome Subtype",
       "anchor_heading": "#### Gnome Subtype",
       "includes_subheadings": [],
-      "description": "Rules for gnome subtype applied to gnomes and related creatures with low-light vision",
+      "description": "Rules for gnome subtype including low-light vision for gnomes and related creatures",
       "keywords": [
         "gnome",
         "low-light vision"
@@ -751,15 +635,12 @@
       "title": "Goblinoid Subtype",
       "anchor_heading": "#### Goblinoid Subtype",
       "includes_subheadings": [],
-      "description": "Rules for goblinoid subtype including stealthy humanoids that speak Goblin",
+      "description": "Rules for goblinoid subtype including stealth abilities and Goblin language",
       "keywords": [
         "goblinoid",
-        "stealthy",
-        "humanoid",
-        "hunting",
-        "raiding",
-        "Goblin language",
-        "Stealth"
+        "stealth",
+        "Goblin",
+        "raiding"
       ]
     },
     {
@@ -767,15 +648,12 @@
       "title": "Godspawn Subtype",
       "anchor_heading": "#### Godspawn Subtype",
       "includes_subheadings": [],
-      "description": "Rules for godspawn subtype including Colossal magical beasts with hibernation, regeneration, and unstoppable force",
+      "description": "Rules for godspawn subtype including hibernation, regeneration, and unstoppable force",
       "keywords": [
         "godspawn",
-        "Colossal",
-        "magical beast",
+        "colossal",
         "hibernation",
-        "regeneration",
-        "unstoppable force",
-        "overrun"
+        "regeneration"
       ]
     },
     {
@@ -783,14 +661,12 @@
       "title": "Good Subtype",
       "anchor_heading": "#### Good Subtype",
       "includes_subheadings": [],
-      "description": "Rules for good subtype including celestials and alignment-based effects",
+      "description": "Rules for good subtype including alignment effects and damage reduction bypass",
       "keywords": [
-        "good subtype",
-        "celestial",
-        "Outer Planes",
+        "good",
         "alignment",
         "damage reduction",
-        "good-aligned"
+        "outsider"
       ]
     },
     {
@@ -798,16 +674,13 @@
       "title": "Great Old One Subtype",
       "anchor_heading": "#### Great Old One Subtype",
       "includes_subheadings": [],
-      "description": "Rules for Great Old One subtype including alien entities, immortality, insanity effects, and Mythic power",
+      "description": "Rules for Great Old One subtype including immortality, insanity, mythic power, and unspeakable presence",
       "keywords": [
         "Great Old One",
-        "alien entity",
-        "chaotic",
         "immortality",
         "insanity",
-        "Mythic",
-        "unspeakable presence",
-        "otherworldly insight"
+        "mythic",
+        "unspeakable presence"
       ]
     },
     {
@@ -825,16 +698,12 @@
       "title": "Herald Subtype",
       "anchor_heading": "#### Herald Subtype",
       "includes_subheadings": [],
-      "description": "Rules for herald subtype including unique divine servants, always armed ability, and emissary status",
+      "description": "Rules for herald subtype including always armed and emissary abilities",
       "keywords": [
         "herald",
-        "divine servant",
         "deity",
-        "messenger",
-        "emissary",
         "always armed",
-        "greater planar ally",
-        "unique"
+        "emissary"
       ]
     },
     {
@@ -842,15 +711,11 @@
       "title": "Hive Subtype",
       "anchor_heading": "#### Hive Subtype",
       "includes_subheadings": [],
-      "description": "Rules for hive subtype including invasive aberrations, corrosive blood, death throes, and hive mind",
+      "description": "Rules for hive subtype including corrosive blood, death throes, and hive mind",
       "keywords": [
         "hive",
-        "invasive",
         "aberration",
-        "blind",
-        "blindsense",
         "corrosive blood",
-        "death throes",
         "hive mind"
       ]
     },
@@ -869,14 +734,11 @@
       "title": "Incorporeal Subtype",
       "anchor_heading": "#### Incorporeal Subtype",
       "includes_subheadings": [],
-      "description": "Rules for incorporeal subtype including no physical body and immunity to critical hits and precision damage",
+      "description": "Rules for incorporeal subtype including immunity to critical hits and precision damage",
       "keywords": [
         "incorporeal",
-        "no physical body",
-        "immunity",
         "critical hits",
         "precision damage",
-        "sneak attack",
         "ghost touch"
       ]
     },
@@ -885,17 +747,12 @@
       "title": "Inevitable Subtype",
       "anchor_heading": "#### Inevitable Subtype",
       "includes_subheadings": [],
-      "description": "Rules for inevitable subtype including construct-like outsiders that enforce law with regeneration and truespeech",
+      "description": "Rules for inevitable subtype including constructed trait, regeneration, and truespeech",
       "keywords": [
         "inevitable",
         "construct-like",
-        "outsider",
-        "axiomite",
-        "enforce law",
-        "constructed",
-        "regeneration",
-        "chaotic",
-        "truespeech"
+        "law",
+        "regeneration"
       ]
     },
     {
@@ -903,16 +760,12 @@
       "title": "Kaiju Subtype",
       "anchor_heading": "#### Kaiju Subtype",
       "includes_subheadings": [],
-      "description": "Rules for kaiju subtype including Colossal creatures with massive ability, hurl foe, and recovery",
+      "description": "Rules for kaiju subtype including massive trait, hurl foe, and recovery abilities",
       "keywords": [
         "kaiju",
-        "Colossal",
-        "desolate places",
+        "colossal",
         "massive",
-        "hurl foe",
-        "ferocity",
-        "recovery",
-        "fast healing"
+        "recovery"
       ]
     },
     {
@@ -920,15 +773,12 @@
       "title": "Kami Subtype",
       "anchor_heading": "#### Kami Subtype",
       "includes_subheadings": [],
-      "description": "Rules for kami subtype including native outsiders that protect wards with merge ability and fast healing",
+      "description": "Rules for kami subtype including ward protection, merge with ward, and fast healing",
       "keywords": [
         "kami",
-        "native outsider",
         "ward",
-        "protect",
-        "merge with ward",
-        "fast healing",
-        "telepathy"
+        "merge",
+        "fast healing"
       ]
     },
     {
@@ -936,12 +786,11 @@
       "title": "Kasatha Subtype",
       "anchor_heading": "#### Kasatha Subtype",
       "includes_subheadings": [],
-      "description": "Rules for kasatha subtype including four-armed humanoids from another planet",
+      "description": "Rules for kasatha subtype for four-armed humanoids from another planet",
       "keywords": [
         "kasatha",
         "four-armed",
-        "humanoid",
-        "another planet"
+        "humanoid"
       ]
     },
     {
@@ -949,12 +798,12 @@
       "title": "Kitsune Subtype",
       "anchor_heading": "#### Kitsune Subtype",
       "includes_subheadings": [],
-      "description": "Rules for kitsune subtype including shapechanging humanoid fox-people",
+      "description": "Rules for kitsune subtype for shapechanging fox-people",
       "keywords": [
         "kitsune",
         "shapechanging",
-        "humanoid",
-        "fox-person"
+        "fox",
+        "humanoid"
       ]
     },
     {
@@ -962,17 +811,12 @@
       "title": "Kyton Subtype",
       "anchor_heading": "#### Kyton Subtype",
       "includes_subheadings": [],
-      "description": "Rules for kyton subtype including lawful evil outsiders from Shadow Plane with unnerving gaze and regeneration",
+      "description": "Rules for kyton subtype including regeneration and unnerving gaze",
       "keywords": [
         "kyton",
         "lawful evil",
-        "outsider",
-        "Shadow Plane",
-        "fear",
-        "pain",
-        "unnerving gaze",
         "regeneration",
-        "cold immunity"
+        "unnerving gaze"
       ]
     },
     {
@@ -984,10 +828,8 @@
       "keywords": [
         "lawful",
         "alignment",
-        "Outer Planes",
         "damage reduction",
-        "lawful-aligned",
-        "natural weapons"
+        "outsider"
       ]
     },
     {
@@ -995,15 +837,12 @@
       "title": "Leshy Subtype",
       "anchor_heading": "#### Leshy Subtype",
       "includes_subheadings": [],
-      "description": "Rules for leshy subtype including nature spirits in plant bodies with change shape and plantspeech",
+      "description": "Rules for leshy subtype including change shape, plantspeech, and verdant burst",
       "keywords": [
         "leshy",
         "nature spirit",
-        "plant body",
         "change shape",
-        "plantspeech",
-        "verdant burst",
-        "pass without trace"
+        "verdant burst"
       ]
     },
     {
@@ -1011,15 +850,12 @@
       "title": "Mortic Subtype",
       "anchor_heading": "#### Mortic Subtype",
       "includes_subheadings": [],
-      "description": "Rules for mortic subtype including humanoids infused with necromantic energy, death gasp, and unliving nature",
+      "description": "Rules for mortic subtype including death gasp, unliving nature, and vulnerability to consecration",
       "keywords": [
         "mortic",
         "humanoid",
-        "necromantic energy",
-        "negative energy affinity",
-        "death gasp",
-        "unliving nature",
-        "vulnerable to consecration"
+        "necromantic",
+        "death gasp"
       ]
     },
     {
@@ -1027,16 +863,12 @@
       "title": "Mythic Subtype",
       "anchor_heading": "#### Mythic Subtype",
       "includes_subheadings": [],
-      "description": "Rules for Mythic subtype including Mythic Power, ability increases, damage reduction, and surge ability",
+      "description": "Rules for mythic subtype including mythic power, surge, and various mythic abilities",
       "keywords": [
-        "Mythic",
-        "Mythic Power",
-        "Surge",
-        "Mythic Rank",
-        "ability score increases",
-        "damage reduction",
-        "epic",
-        "natural armor"
+        "mythic",
+        "mythic power",
+        "surge",
+        "mythic rank"
       ]
     },
     {
@@ -1044,17 +876,12 @@
       "title": "Native Subtype",
       "anchor_heading": "#### Native Subtype",
       "includes_subheadings": [],
-      "description": "Rules for native subtype applied to outsiders with Material Plane connections who can be raised and resurrected",
+      "description": "Rules for native subtype for outsiders with Material Plane connections",
       "keywords": [
         "native",
         "outsider",
         "Material Plane",
-        "mortal ancestors",
-        "raised",
-        "reincarnated",
-        "resurrected",
-        "eat",
-        "sleep"
+        "mortal"
       ]
     },
     {
@@ -1062,17 +889,12 @@
       "title": "Nightshade Subtype",
       "anchor_heading": "#### Nightshade Subtype",
       "includes_subheadings": [],
-      "description": "Rules for nightshade subtype including monstrous undead with desecrating aura, darksense, and light aversion",
+      "description": "Rules for nightshade subtype including desecrating aura, channel energy, and darksense",
       "keywords": [
         "nightshade",
-        "monstrous undead",
-        "shadow",
-        "evil",
+        "undead",
         "desecrating aura",
-        "channel energy",
-        "darksense",
-        "light aversion",
-        "summon"
+        "darksense"
       ]
     },
     {
@@ -1080,13 +902,10 @@
       "title": "Oni Subtype",
       "anchor_heading": "#### Oni Subtype",
       "includes_subheadings": [],
-      "description": "Rules for oni subtype including evil spirits in humanoid form with change shape and regeneration",
+      "description": "Rules for oni subtype including change shape, humanoid form, and regeneration",
       "keywords": [
         "oni",
         "evil spirit",
-        "humanoid form",
-        "native outsider",
-        "shapechanger",
         "change shape",
         "regeneration"
       ]
@@ -1096,10 +915,9 @@
       "title": "Orc Subtype",
       "anchor_heading": "#### Orc Subtype",
       "includes_subheadings": [],
-      "description": "Rules for orc subtype applied to orcs and half-orcs with darkvision and light sensitivity",
+      "description": "Rules for orc subtype including darkvision and light sensitivity",
       "keywords": [
         "orc",
-        "half-orc",
         "darkvision",
         "light sensitivity"
       ]
@@ -1109,19 +927,11 @@
       "title": "Protean Subtype",
       "anchor_heading": "#### Protean Subtype",
       "includes_subheadings": [],
-      "description": "Rules for protean subtype including serpentine outsiders of pure chaos with amorphous anatomy and freedom of movement",
+      "description": "Rules for protean subtype including freedom of movement, amorphous anatomy, and change shape",
       "keywords": [
         "protean",
-        "serpentine",
-        "outsider",
-        "pure chaos",
-        "blindsense",
-        "immunity",
-        "acid",
-        "constrict",
-        "grab",
-        "freedom of movement",
-        "amorphous anatomy",
+        "chaos",
+        "amorphous",
         "change shape"
       ]
     },
@@ -1130,15 +940,12 @@
       "title": "Psychopomp Subtype",
       "anchor_heading": "#### Psychopomp Subtype",
       "includes_subheadings": [],
-      "description": "Rules for psychopomp subtype including neutral outsiders that oversee mortal souls with spirit touch and spiritsense",
+      "description": "Rules for psychopomp subtype including spirit touch and spiritsense",
       "keywords": [
         "psychopomp",
-        "neutral outsider",
-        "goddess of death",
-        "mortal souls",
+        "neutral",
         "spirit touch",
-        "spiritsense",
-        "ghost touch"
+        "spiritsense"
       ]
     },
     {
@@ -1146,18 +953,12 @@
       "title": "Qlippoth Subtype",
       "anchor_heading": "#### Qlippoth Subtype",
       "includes_subheadings": [],
-      "description": "Rules for qlippoth subtype including chaotic evil outsiders from deepest Abyss with horrific appearance",
+      "description": "Rules for qlippoth subtype including horrific appearance and mind-affecting immunity",
       "keywords": [
         "qlippoth",
         "chaotic evil",
-        "outsider",
-        "deepest Abyss",
         "horrific appearance",
-        "mind-rending",
-        "immunity",
-        "cold",
-        "mind-affecting",
-        "telepathy"
+        "abyss"
       ]
     },
     {
@@ -1165,18 +966,12 @@
       "title": "Rakshasa Subtype",
       "anchor_heading": "#### Rakshasa Subtype",
       "includes_subheadings": [],
-      "description": "Rules for rakshasa subtype including lawful evil spirits with change shape, detect thoughts, and enhanced defenses",
+      "description": "Rules for rakshasa subtype including change shape, detect thoughts, and enhanced defenses",
       "keywords": [
         "rakshasa",
         "lawful evil",
-        "spirit",
-        "Material Plane",
-        "shapechanger",
-        "animalistic features",
         "change shape",
-        "detect thoughts",
-        "enhanced defenses",
-        "master of deception"
+        "enhanced defenses"
       ]
     },
     {
@@ -1184,7 +979,7 @@
       "title": "Ratfolk Subtype",
       "anchor_heading": "#### Ratfolk Subtype",
       "includes_subheadings": [],
-      "description": "Rules for ratfolk subtype applied to humanoid rodents and related creatures",
+      "description": "Rules for ratfolk subtype for humanoid rodents",
       "keywords": [
         "ratfolk",
         "humanoid",
@@ -1196,12 +991,12 @@
       "title": "Reptilian Subtype",
       "anchor_heading": "#### Reptilian Subtype",
       "includes_subheadings": [],
-      "description": "Rules for reptilian subtype including scaly, cold-blooded humanoid races",
+      "description": "Rules for reptilian subtype for scaly, cold-blooded humanoid races",
       "keywords": [
         "reptilian",
         "scaly",
         "cold-blooded",
-        "humanoid race"
+        "humanoid"
       ]
     },
     {
@@ -1209,17 +1004,12 @@
       "title": "Robot Subtype",
       "anchor_heading": "#### Robot Subtype",
       "includes_subheadings": [],
-      "description": "Rules for robot subtype including technological constructs with intelligence and electrical vulnerability",
+      "description": "Rules for robot subtype including intelligent trait and vulnerability to electricity",
       "keywords": [
         "robot",
         "technological",
-        "construct",
-        "automaton",
-        "metal men",
         "intelligent",
-        "vulnerable to critical hits",
-        "vulnerable to electricity",
-        "difficult to create"
+        "electricity"
       ]
     },
     {
@@ -1227,11 +1017,10 @@
       "title": "Samsaran Subtype",
       "anchor_heading": "#### Samsaran Subtype",
       "includes_subheadings": [],
-      "description": "Rules for samsaran subtype including humanoids whose spirits reincarnate into other samsarans",
+      "description": "Rules for samsaran subtype for reincarnating humanoids",
       "keywords": [
         "samsaran",
         "humanoid",
-        "spirit",
         "reincarnate"
       ]
     },
@@ -1240,7 +1029,7 @@
       "title": "Sasquatch Subtype",
       "anchor_heading": "#### Sasquatch Subtype",
       "includes_subheadings": [],
-      "description": "Rules for sasquatch subtype applied to humanoid sasquatches and related creatures",
+      "description": "Rules for sasquatch subtype for sasquatches and related creatures",
       "keywords": [
         "sasquatch",
         "humanoid"
@@ -1251,38 +1040,25 @@
       "title": "Shapechanger Subtype",
       "anchor_heading": "#### Shapechanger Subtype",
       "includes_subheadings": [],
-      "description": "Rules for shapechanger subtype including supernatural ability to assume alternate forms with weapon and armor proficiencies",
+      "description": "Rules for shapechanger subtype including supernatural form-changing abilities",
       "keywords": [
         "shapechanger",
         "supernatural",
-        "alternate forms",
-        "proficient",
-        "natural weapons",
-        "simple weapons",
-        "armor"
+        "alternate forms"
       ]
     },
     {
       "id": "swarm_subtype",
       "title": "Swarm Subtype",
       "anchor_heading": "#### Swarm Subtype",
-      "includes_subheadings": [
-        "Table: Swarm Damage by Size"
-      ],
-      "description": "Rules for swarm subtype including collections of Fine/Diminutive/Tiny creatures with automatic damage, immunity to single-target effects, and distraction",
+      "includes_subheadings": [],
+      "description": "Rules for swarm subtype including swarm attack mechanics, immunity to single-target spells, and distraction",
       "keywords": [
         "swarm",
         "Fine",
         "Diminutive",
         "Tiny",
-        "collection",
-        "automatic damage",
-        "immunity",
-        "single-target",
-        "area effects",
-        "distraction",
-        "flanking",
-        "critical hits"
+        "distraction"
       ]
     },
     {
@@ -1290,19 +1066,12 @@
       "title": "Troop Subtype",
       "anchor_heading": "#### Troop Subtype",
       "includes_subheadings": [],
-      "description": "Rules for troop subtype including organized groups of trained soldiers with troop attacks and chaos of combat",
+      "description": "Rules for troop subtype including organized military units, troop attacks, and chaos of combat",
       "keywords": [
         "troop",
-        "organized group",
-        "trained soldiers",
-        "unit",
-        "Small",
-        "Medium",
-        "troop attack",
-        "immunity",
-        "single target spells",
-        "chaos of combat",
-        "looting"
+        "military",
+        "organized",
+        "chaos of combat"
       ]
     },
     {
@@ -1310,11 +1079,10 @@
       "title": "Udaeus Subtype",
       "anchor_heading": "#### Udaeus Subtype",
       "includes_subheadings": [],
-      "description": "Rules for udaeus subtype including warlike Mythic humanoids created from dragon teeth",
+      "description": "Rules for udaeus subtype for mythic humanoids created from dragon teeth",
       "keywords": [
         "udaeus",
-        "warlike",
-        "Mythic",
+        "mythic",
         "humanoid",
         "dragon teeth"
       ]
@@ -1324,17 +1092,11 @@
       "title": "Unbreathing Subtype",
       "anchor_heading": "#### Unbreathing Subtype",
       "includes_subheadings": [],
-      "description": "Rules for unbreathing subtype including living creatures with undead appearance and death connections",
+      "description": "Rules for unbreathing subtype including death-connected living creatures and healing resistance",
       "keywords": [
         "unbreathing",
-        "magical beast",
-        "humanoid",
-        "undead appearance",
-        "death connection",
-        "zombie",
-        "ghoul",
-        "skeleton",
-        "cold resistance",
+        "death",
+        "undead-like",
         "healing resistance"
       ]
     },
@@ -1343,7 +1105,7 @@
       "title": "Vanara Subtype",
       "anchor_heading": "#### Vanara Subtype",
       "includes_subheadings": [],
-      "description": "Rules for vanara subtype applied to vanaras and related creatures",
+      "description": "Rules for vanara subtype for vanaras and related creatures",
       "keywords": [
         "vanara"
       ]
@@ -1353,7 +1115,7 @@
       "title": "Vishkanya Subtype",
       "anchor_heading": "#### Vishkanya Subtype",
       "includes_subheadings": [],
-      "description": "Rules for vishkanya subtype applied to vishkanyas and related creatures",
+      "description": "Rules for vishkanya subtype for vishkanyas and related creatures",
       "keywords": [
         "vishkanya"
       ]
@@ -1363,13 +1125,12 @@
       "title": "Water Subtype",
       "anchor_heading": "#### Water Subtype",
       "includes_subheadings": [],
-      "description": "Rules for water subtype including Elemental Plane connections, swim speeds, and water breathing",
+      "description": "Rules for water subtype including swim speeds and water breathing abilities",
       "keywords": [
-        "water subtype",
-        "Elemental Plane",
-        "swim speed",
-        "breathe underwater",
-        "Swim skill"
+        "water",
+        "elemental",
+        "swim",
+        "breathe underwater"
       ]
     },
     {
@@ -1377,10 +1138,9 @@
       "title": "Wayang Subtype",
       "anchor_heading": "#### Wayang Subtype",
       "includes_subheadings": [],
-      "description": "Rules for wayang subtype including gangly humanoids from the Shadow Plane",
+      "description": "Rules for wayang subtype for humanoids from the Shadow Plane",
       "keywords": [
         "wayang",
-        "gangly",
         "humanoid",
         "Shadow Plane"
       ]
@@ -1390,19 +1150,15 @@
       "title": "Wild Hunt Subtype",
       "anchor_heading": "#### Wild Hunt Subtype",
       "includes_subheadings": [],
-      "description": "Rules for wild hunt subtype including chaotic neutral fey with enhanced senses, wild gaze, and hunt link",
+      "description": "Rules for wild hunt subtype including wild gaze, wild grace, and wild hunt link",
       "keywords": [
         "wild hunt",
-        "chaotic neutral",
         "fey",
-        "enhanced senses",
-        "greensight",
         "wild gaze",
-        "wild grace",
-        "wild hunt link",
-        "instinctive cooperation"
+        "wild hunt link"
       ]
     }
   ],
-  "source_name": "Creature Types & Subtypes"
+  "source_name": "Creature Types & Subtypes",
+  "category": "Core Rules"
 }

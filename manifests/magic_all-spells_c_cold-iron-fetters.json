@@ -1,0 +1,16 @@
+{
+  "file": "cold-iron-fetters.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/c/cold-iron-fetters/",
+  "source_name": "Spell: Cold Iron Fetters",
+  "sections": [
+    {
+      "id": "cold_iron_fetters",
+      "title": "Cold Iron Fetters",
+      "anchor_heading": "# Cold Iron Fetters",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Cold Iron Fetters, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

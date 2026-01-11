@@ -1,0 +1,16 @@
+{
+  "file": "shillelagh.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/s/shillelagh/",
+  "source_name": "Spell: Shillelagh",
+  "sections": [
+    {
+      "id": "shillelagh",
+      "title": "Shillelagh",
+      "anchor_heading": "# Shillelagh",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Shillelagh, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

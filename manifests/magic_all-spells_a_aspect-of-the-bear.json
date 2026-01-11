@@ -1,0 +1,16 @@
+{
+  "file": "aspect-of-the-bear.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/a/aspect-of-the-bear/",
+  "source_name": "Spell: Aspect of the Bear",
+  "sections": [
+    {
+      "id": "aspect_of_the_bear",
+      "title": "Aspect of the Bear",
+      "anchor_heading": "# Aspect of the Bear",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Aspect of the Bear, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

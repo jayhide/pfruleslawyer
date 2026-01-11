@@ -1,0 +1,16 @@
+{
+  "file": "symbol-of-striking.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/s/symbol-of-striking/",
+  "source_name": "Spell: Symbol of Striking",
+  "sections": [
+    {
+      "id": "symbol_of_striking",
+      "title": "Symbol of Striking",
+      "anchor_heading": "# Symbol of Striking",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Symbol of Striking, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

@@ -1,0 +1,16 @@
+{
+  "file": "tracking-mark.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/t/tracking-mark/",
+  "source_name": "Spell: Tracking Mark",
+  "sections": [
+    {
+      "id": "tracking_mark",
+      "title": "Tracking Mark",
+      "anchor_heading": "# Tracking Mark",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Tracking Mark, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

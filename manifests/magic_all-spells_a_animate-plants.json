@@ -1,0 +1,16 @@
+{
+  "file": "animate-plants.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/a/animate-plants/",
+  "source_name": "Spell: Animate Plants",
+  "sections": [
+    {
+      "id": "animate_plants",
+      "title": "Animate Plants",
+      "anchor_heading": "# Animate Plants",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Animate Plants, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

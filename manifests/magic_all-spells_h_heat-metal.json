@@ -1,0 +1,16 @@
+{
+  "file": "heat-metal.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/h/heat-metal/",
+  "source_name": "Spell: Heat Metal",
+  "sections": [
+    {
+      "id": "heat_metal",
+      "title": "Heat Metal",
+      "anchor_heading": "# Heat Metal",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Heat Metal, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

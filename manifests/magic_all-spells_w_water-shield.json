@@ -1,0 +1,16 @@
+{
+  "file": "water-shield.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/w/water-shield/",
+  "source_name": "Spell: Water Shield",
+  "sections": [
+    {
+      "id": "water_shield",
+      "title": "Water Shield",
+      "anchor_heading": "# Water Shield",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Water Shield, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

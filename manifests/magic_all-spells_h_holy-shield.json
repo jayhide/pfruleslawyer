@@ -1,0 +1,16 @@
+{
+  "file": "holy-shield.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/h/holy-shield/",
+  "source_name": "Spell: Holy Shield",
+  "sections": [
+    {
+      "id": "holy_shield",
+      "title": "Holy Shield",
+      "anchor_heading": "# Holy Shield",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Holy Shield, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

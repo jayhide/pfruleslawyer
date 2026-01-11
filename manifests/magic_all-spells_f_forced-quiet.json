@@ -1,0 +1,16 @@
+{
+  "file": "forced-quiet.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/f/forced-quiet/",
+  "source_name": "Spell: Forced Quiet",
+  "sections": [
+    {
+      "id": "forced_quiet",
+      "title": "Forced Quiet",
+      "anchor_heading": "# Forced Quiet",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Forced Quiet, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

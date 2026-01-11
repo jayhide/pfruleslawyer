@@ -1,0 +1,16 @@
+{
+  "file": "beanstalk.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/b/beanstalk/",
+  "source_name": "Spell: Beanstalk",
+  "sections": [
+    {
+      "id": "beanstalk",
+      "title": "Beanstalk",
+      "anchor_heading": "# Beanstalk",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Beanstalk, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

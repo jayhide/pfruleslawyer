@@ -1,0 +1,16 @@
+{
+  "file": "vocal-alteration.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/v/vocal-alteration/",
+  "source_name": "Spell: Vocal Alteration",
+  "sections": [
+    {
+      "id": "vocal_alteration",
+      "title": "Vocal Alteration",
+      "anchor_heading": "# Vocal Alteration",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Vocal Alteration, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

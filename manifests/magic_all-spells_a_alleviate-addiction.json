@@ -1,0 +1,16 @@
+{
+  "file": "alleviate-addiction.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/a/alleviate-addiction/",
+  "source_name": "Spell: Alleviate Addiction",
+  "sections": [
+    {
+      "id": "alleviate_addiction",
+      "title": "Alleviate Addiction",
+      "anchor_heading": "# Alleviate Addiction",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Alleviate Addiction, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

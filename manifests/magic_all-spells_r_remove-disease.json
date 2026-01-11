@@ -1,0 +1,16 @@
+{
+  "file": "remove-disease.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/r/remove-disease/",
+  "source_name": "Spell: Remove Disease",
+  "sections": [
+    {
+      "id": "remove_disease",
+      "title": "Remove Disease",
+      "anchor_heading": "# Remove Disease",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Remove Disease, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

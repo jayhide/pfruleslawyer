@@ -1,0 +1,16 @@
+{
+  "file": "follow-aura.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/f/follow-aura/",
+  "source_name": "Spell: Follow Aura",
+  "sections": [
+    {
+      "id": "follow_aura",
+      "title": "Follow Aura",
+      "anchor_heading": "# Follow Aura",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Follow Aura, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

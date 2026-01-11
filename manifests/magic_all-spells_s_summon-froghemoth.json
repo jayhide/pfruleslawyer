@@ -1,0 +1,16 @@
+{
+  "file": "summon-froghemoth.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/s/summon-froghemoth/",
+  "source_name": "Spell: Summon Froghemoth",
+  "sections": [
+    {
+      "id": "summon_froghemoth",
+      "title": "Summon Froghemoth",
+      "anchor_heading": "# Summon Froghemoth",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Summon Froghemoth, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

@@ -1,0 +1,16 @@
+{
+  "file": "aspect-of-the-wolf.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/a/aspect-of-the-wolf/",
+  "source_name": "Spell: Aspect of the Wolf",
+  "sections": [
+    {
+      "id": "aspect_of_the_wolf",
+      "title": "Aspect of the Wolf",
+      "anchor_heading": "# Aspect of the Wolf",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Aspect of the Wolf, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

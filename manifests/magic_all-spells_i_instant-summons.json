@@ -1,0 +1,16 @@
+{
+  "file": "instant-summons.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/i/instant-summons/",
+  "source_name": "Spell: Instant Summons",
+  "sections": [
+    {
+      "id": "instant_summons",
+      "title": "Instant Summons",
+      "anchor_heading": "# Instant Summons",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Instant Summons, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

@@ -1,0 +1,16 @@
+{
+  "file": "create-treasure-map.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/c/create-treasure-map/",
+  "source_name": "Spell: Create Treasure Map",
+  "sections": [
+    {
+      "id": "create_treasure_map",
+      "title": "Create Treasure Map",
+      "anchor_heading": "# Create Treasure Map",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Create Treasure Map, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

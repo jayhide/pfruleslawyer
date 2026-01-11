@@ -1,0 +1,16 @@
+{
+  "file": "heroic-invocation.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/h/heroic-invocation/",
+  "source_name": "Spell: Heroic Invocation",
+  "sections": [
+    {
+      "id": "heroic_invocation",
+      "title": "Heroic Invocation",
+      "anchor_heading": "# Heroic Invocation",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Heroic Invocation, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

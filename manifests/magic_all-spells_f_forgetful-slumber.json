@@ -1,0 +1,16 @@
+{
+  "file": "forgetful-slumber.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/f/forgetful-slumber/",
+  "source_name": "Spell: Forgetful Slumber",
+  "sections": [
+    {
+      "id": "forgetful_slumber",
+      "title": "Forgetful Slumber",
+      "anchor_heading": "# Forgetful Slumber",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Forgetful Slumber, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

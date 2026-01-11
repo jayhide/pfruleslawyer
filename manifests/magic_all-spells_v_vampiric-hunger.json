@@ -1,0 +1,16 @@
+{
+  "file": "vampiric-hunger.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/v/vampiric-hunger/",
+  "source_name": "Spell: Vampiric Hunger",
+  "sections": [
+    {
+      "id": "vampiric_hunger",
+      "title": "Vampiric Hunger",
+      "anchor_heading": "# Vampiric Hunger",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Vampiric Hunger, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

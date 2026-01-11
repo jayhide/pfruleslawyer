@@ -1,0 +1,16 @@
+{
+  "file": "bless-weapon.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/b/bless-weapon/",
+  "source_name": "Spell: Bless Weapon",
+  "sections": [
+    {
+      "id": "bless_weapon",
+      "title": "Bless Weapon",
+      "anchor_heading": "# Bless Weapon",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Bless Weapon, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

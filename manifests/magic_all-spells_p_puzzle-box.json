@@ -1,0 +1,16 @@
+{
+  "file": "puzzle-box.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/p/puzzle-box/",
+  "source_name": "Spell: Puzzle Box",
+  "sections": [
+    {
+      "id": "puzzle_box",
+      "title": "Puzzle Box",
+      "anchor_heading": "# Puzzle Box",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Puzzle Box, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

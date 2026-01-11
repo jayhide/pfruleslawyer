@@ -1,0 +1,16 @@
+{
+  "file": "transmogrify.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/t/transmogrify/",
+  "source_name": "Spell: Transmogrify",
+  "sections": [
+    {
+      "id": "transmogrify",
+      "title": "Transmogrify",
+      "anchor_heading": "# Transmogrify",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Transmogrify, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

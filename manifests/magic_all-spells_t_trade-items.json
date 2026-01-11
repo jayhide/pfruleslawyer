@@ -1,0 +1,16 @@
+{
+  "file": "trade-items.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/t/trade-items/",
+  "source_name": "Spell: Trade Items",
+  "sections": [
+    {
+      "id": "trade_items",
+      "title": "Trade Items",
+      "anchor_heading": "# Trade Items",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Trade Items, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

@@ -1,0 +1,16 @@
+{
+  "file": "respectful-quiet.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/r/respectful-quiet/",
+  "source_name": "Spell: Respectful Quiet",
+  "sections": [
+    {
+      "id": "respectful_quiet",
+      "title": "Respectful Quiet",
+      "anchor_heading": "# Respectful Quiet",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Respectful Quiet, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

@@ -1,0 +1,16 @@
+{
+  "file": "seamantle.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/s/seamantle/",
+  "source_name": "Spell: Seamantle",
+  "sections": [
+    {
+      "id": "seamantle",
+      "title": "Seamantle",
+      "anchor_heading": "# Seamantle",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Seamantle, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

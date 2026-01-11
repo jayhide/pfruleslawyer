@@ -1,0 +1,16 @@
+{
+  "file": "time-stop.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/t/time-stop/",
+  "source_name": "Spell: Time Stop",
+  "sections": [
+    {
+      "id": "time_stop",
+      "title": "Time Stop",
+      "anchor_heading": "# Time Stop",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Time Stop, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

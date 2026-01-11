@@ -1,0 +1,16 @@
+{
+  "file": "light.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/l/light/",
+  "source_name": "Spell: Light",
+  "sections": [
+    {
+      "id": "light",
+      "title": "Light",
+      "anchor_heading": "# Light",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Light, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

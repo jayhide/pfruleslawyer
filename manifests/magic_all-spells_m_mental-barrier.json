@@ -1,0 +1,16 @@
+{
+  "file": "mental-barrier.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/m/mental-barrier/",
+  "source_name": "Spell: Mental Barrier I",
+  "sections": [
+    {
+      "id": "mental_barrier",
+      "title": "Mental Barrier I",
+      "anchor_heading": "# Mental Barrier I",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Mental Barrier I, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

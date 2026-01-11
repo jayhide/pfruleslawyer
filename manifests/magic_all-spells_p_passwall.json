@@ -1,0 +1,16 @@
+{
+  "file": "passwall.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/p/passwall/",
+  "source_name": "Spell: Passwall",
+  "sections": [
+    {
+      "id": "passwall",
+      "title": "Passwall",
+      "anchor_heading": "# Passwall",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Passwall, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

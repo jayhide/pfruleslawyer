@@ -1,0 +1,16 @@
+{
+  "file": "riding-possession.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/r/riding-possession/",
+  "source_name": "Spell: Riding Possession",
+  "sections": [
+    {
+      "id": "riding_possession",
+      "title": "Riding Possession",
+      "anchor_heading": "# Riding Possession",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Riding Possession, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

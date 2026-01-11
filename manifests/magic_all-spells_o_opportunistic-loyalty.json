@@ -1,0 +1,16 @@
+{
+  "file": "opportunistic-loyalty.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/o/opportunistic-loyalty/",
+  "source_name": "Spell: Opportunistic Loyalty",
+  "sections": [
+    {
+      "id": "opportunistic_loyalty",
+      "title": "Opportunistic Loyalty",
+      "anchor_heading": "# Opportunistic Loyalty",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Opportunistic Loyalty, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

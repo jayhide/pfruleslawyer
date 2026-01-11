@@ -1,0 +1,16 @@
+{
+  "file": "ghost-brand.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/g/ghost-brand/",
+  "source_name": "Spell: Ghost Brand",
+  "sections": [
+    {
+      "id": "ghost_brand",
+      "title": "Ghost Brand",
+      "anchor_heading": "# Ghost Brand",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Ghost Brand, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

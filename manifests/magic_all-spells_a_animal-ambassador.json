@@ -1,0 +1,16 @@
+{
+  "file": "animal-ambassador.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/a/animal-ambassador/",
+  "source_name": "Spell: Animal Ambassador",
+  "sections": [
+    {
+      "id": "animal_ambassador",
+      "title": "Animal Ambassador",
+      "anchor_heading": "# Animal Ambassador",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Animal Ambassador, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

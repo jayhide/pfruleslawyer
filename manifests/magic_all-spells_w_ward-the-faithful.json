@@ -1,0 +1,16 @@
+{
+  "file": "ward-the-faithful.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/w/ward-the-faithful/",
+  "source_name": "Spell: Ward the Faithful",
+  "sections": [
+    {
+      "id": "ward_the_faithful",
+      "title": "Ward the Faithful",
+      "anchor_heading": "# Ward the Faithful",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Ward the Faithful, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

@@ -1,0 +1,16 @@
+{
+  "file": "spell-gauge.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/s/spell-gauge/",
+  "source_name": "Spell: Spell Gauge",
+  "sections": [
+    {
+      "id": "spell_gauge",
+      "title": "Spell Gauge",
+      "anchor_heading": "# Spell Gauge",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Spell Gauge, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

@@ -1,0 +1,16 @@
+{
+  "file": "audiovisual-hallucination.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/a/audiovisual-hallucination/",
+  "source_name": "Spell: Audiovisual Hallucination",
+  "sections": [
+    {
+      "id": "audiovisual_hallucination",
+      "title": "Audiovisual Hallucination",
+      "anchor_heading": "# Audiovisual Hallucination",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Audiovisual Hallucination, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

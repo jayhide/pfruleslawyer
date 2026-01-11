@@ -1,0 +1,16 @@
+{
+  "file": "magnetic-field.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/m/magnetic-field/",
+  "source_name": "Spell: Magnetic Field",
+  "sections": [
+    {
+      "id": "magnetic_field",
+      "title": "Magnetic Field",
+      "anchor_heading": "# Magnetic Field",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Magnetic Field, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

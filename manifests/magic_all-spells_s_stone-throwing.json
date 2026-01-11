@@ -1,0 +1,16 @@
+{
+  "file": "stone-throwing.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/s/stone-throwing/",
+  "source_name": "Spell: Stone Throwing",
+  "sections": [
+    {
+      "id": "stone_throwing",
+      "title": "Stone Throwing",
+      "anchor_heading": "# Stone Throwing",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Stone Throwing, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

@@ -1,0 +1,16 @@
+{
+  "file": "sky-steed.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/s/sky-steed/",
+  "source_name": "Spell: Sky Steed",
+  "sections": [
+    {
+      "id": "sky_steed",
+      "title": "Sky Steed",
+      "anchor_heading": "# Sky Steed",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Sky Steed, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

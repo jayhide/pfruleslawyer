@@ -1,0 +1,16 @@
+{
+  "file": "rain-of-frogs.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/r/rain-of-frogs/",
+  "source_name": "Spell: Rain of Frogs",
+  "sections": [
+    {
+      "id": "rain_of_frogs",
+      "title": "Rain of Frogs",
+      "anchor_heading": "# Rain of Frogs",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Rain of Frogs, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

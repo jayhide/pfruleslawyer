@@ -1,0 +1,16 @@
+{
+  "file": "hunger-for-flesh.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/h/hunger-for-flesh/",
+  "source_name": "Spell: Hunger for Flesh",
+  "sections": [
+    {
+      "id": "hunger_for_flesh",
+      "title": "Hunger for Flesh",
+      "anchor_heading": "# Hunger for Flesh",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Hunger for Flesh, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

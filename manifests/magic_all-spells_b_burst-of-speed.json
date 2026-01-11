@@ -1,0 +1,16 @@
+{
+  "file": "burst-of-speed.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/b/burst-of-speed/",
+  "source_name": "Spell: Burst of Speed",
+  "sections": [
+    {
+      "id": "burst_of_speed",
+      "title": "Burst of Speed",
+      "anchor_heading": "# Burst of Speed",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Burst of Speed, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

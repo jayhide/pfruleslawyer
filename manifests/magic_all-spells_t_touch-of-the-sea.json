@@ -1,0 +1,16 @@
+{
+  "file": "touch-of-the-sea.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/t/touch-of-the-sea/",
+  "source_name": "Spell: Touch of the Sea",
+  "sections": [
+    {
+      "id": "touch_of_the_sea",
+      "title": "Touch of the Sea",
+      "anchor_heading": "# Touch of the Sea",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Touch of the Sea, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

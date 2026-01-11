@@ -1,0 +1,16 @@
+{
+  "file": "enemy-hammer.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/e/enemy-hammer/",
+  "source_name": "Spell: Enemy Hammer",
+  "sections": [
+    {
+      "id": "enemy_hammer",
+      "title": "Enemy Hammer",
+      "anchor_heading": "# Enemy Hammer",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Enemy Hammer, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

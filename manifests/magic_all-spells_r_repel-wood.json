@@ -1,0 +1,16 @@
+{
+  "file": "repel-wood.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/r/repel-wood/",
+  "source_name": "Spell: Repel Wood",
+  "sections": [
+    {
+      "id": "repel_wood",
+      "title": "Repel Wood",
+      "anchor_heading": "# Repel Wood",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Repel Wood, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

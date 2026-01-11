@@ -1,0 +1,16 @@
+{
+  "file": "frozen-note.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/f/frozen-note/",
+  "source_name": "Spell: Frozen Note",
+  "sections": [
+    {
+      "id": "frozen_note",
+      "title": "Frozen Note",
+      "anchor_heading": "# Frozen Note",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Frozen Note, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

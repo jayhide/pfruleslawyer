@@ -1,0 +1,16 @@
+{
+  "file": "screech.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/s/screech/",
+  "source_name": "Spell: Screech",
+  "sections": [
+    {
+      "id": "screech",
+      "title": "Screech",
+      "anchor_heading": "# Screech",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Screech, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

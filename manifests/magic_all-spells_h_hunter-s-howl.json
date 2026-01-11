@@ -1,0 +1,16 @@
+{
+  "file": "hunter-s-howl.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/h/hunter-s-howl/",
+  "source_name": "Spell: Hunter\u2019s Howl",
+  "sections": [
+    {
+      "id": "hunter_s_howl",
+      "title": "Hunter\u2019s Howl",
+      "anchor_heading": "# Hunter\u2019s Howl",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Hunter\u2019s Howl, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

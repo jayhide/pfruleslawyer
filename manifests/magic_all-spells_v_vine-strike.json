@@ -1,0 +1,16 @@
+{
+  "file": "vine-strike.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/v/vine-strike/",
+  "source_name": "Spell: Vine Strike",
+  "sections": [
+    {
+      "id": "vine_strike",
+      "title": "Vine Strike",
+      "anchor_heading": "# Vine Strike",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Vine Strike, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

@@ -1,0 +1,16 @@
+{
+  "file": "shocking-grasp.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/s/shocking-grasp/",
+  "source_name": "Spell: Shocking Grasp",
+  "sections": [
+    {
+      "id": "shocking_grasp",
+      "title": "Shocking Grasp",
+      "anchor_heading": "# Shocking Grasp",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Shocking Grasp, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

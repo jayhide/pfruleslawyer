@@ -1,0 +1,16 @@
+{
+  "file": "scale-spikes.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/s/scale-spikes/",
+  "source_name": "Spell: Scale Spikes",
+  "sections": [
+    {
+      "id": "scale_spikes",
+      "title": "Scale Spikes",
+      "anchor_heading": "# Scale Spikes",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Scale Spikes, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

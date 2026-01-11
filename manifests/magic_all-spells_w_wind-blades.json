@@ -1,0 +1,16 @@
+{
+  "file": "wind-blades.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/w/wind-blades/",
+  "source_name": "Spell: Wind Blades",
+  "sections": [
+    {
+      "id": "wind_blades",
+      "title": "Wind Blades",
+      "anchor_heading": "# Wind Blades",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Wind Blades, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

@@ -1,0 +1,16 @@
+{
+  "file": "firebrand.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/f/firebrand/",
+  "source_name": "Spell: Firebrand",
+  "sections": [
+    {
+      "id": "firebrand",
+      "title": "Firebrand",
+      "anchor_heading": "# Firebrand",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Firebrand, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

@@ -1,0 +1,16 @@
+{
+  "file": "spellcurse.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/s/spellcurse/",
+  "source_name": "Spell: Spellcurse",
+  "sections": [
+    {
+      "id": "spellcurse",
+      "title": "Spellcurse",
+      "anchor_heading": "# Spellcurse",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Spellcurse, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

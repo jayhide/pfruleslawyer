@@ -1,0 +1,16 @@
+{
+  "file": "cloud-of-seasickness.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/c/cloud-of-seasickness/",
+  "source_name": "Spell: Cloud of Seasickness",
+  "sections": [
+    {
+      "id": "cloud_of_seasickness",
+      "title": "Cloud of Seasickness",
+      "anchor_heading": "# Cloud of Seasickness",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Cloud of Seasickness, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

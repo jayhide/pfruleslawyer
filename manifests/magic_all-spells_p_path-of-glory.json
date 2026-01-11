@@ -1,0 +1,16 @@
+{
+  "file": "path-of-glory.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/p/path-of-glory/",
+  "source_name": "Spell: Path of Glory",
+  "sections": [
+    {
+      "id": "path_of_glory",
+      "title": "Path of Glory",
+      "anchor_heading": "# Path of Glory",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Path of Glory, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

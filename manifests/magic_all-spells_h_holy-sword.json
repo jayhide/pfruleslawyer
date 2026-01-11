@@ -1,0 +1,16 @@
+{
+  "file": "holy-sword.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/h/holy-sword/",
+  "source_name": "Spell: Holy Sword",
+  "sections": [
+    {
+      "id": "holy_sword",
+      "title": "Holy Sword",
+      "anchor_heading": "# Holy Sword",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Holy Sword, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

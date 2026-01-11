@@ -1,0 +1,16 @@
+{
+  "file": "dragon-s-breath.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/d/dragon-s-breath/",
+  "source_name": "Spell: Dragon\u2019s Breath",
+  "sections": [
+    {
+      "id": "dragon_s_breath",
+      "title": "Dragon\u2019s Breath",
+      "anchor_heading": "# Dragon\u2019s Breath",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Dragon\u2019s Breath, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

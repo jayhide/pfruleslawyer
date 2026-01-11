@@ -1,0 +1,16 @@
+{
+  "file": "dimension-door.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/d/dimension-door/",
+  "source_name": "Spell: Dimension Door",
+  "sections": [
+    {
+      "id": "dimension_door",
+      "title": "Dimension Door",
+      "anchor_heading": "# Dimension Door",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Dimension Door, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

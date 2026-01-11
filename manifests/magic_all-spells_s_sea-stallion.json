@@ -1,0 +1,16 @@
+{
+  "file": "sea-stallion.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/s/sea-stallion/",
+  "source_name": "Spell: Sea Stallion",
+  "sections": [
+    {
+      "id": "sea_stallion",
+      "title": "Sea Stallion",
+      "anchor_heading": "# Sea Stallion",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Sea Stallion, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

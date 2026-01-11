@@ -1,0 +1,16 @@
+{
+  "file": "grand-destiny.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/g/grand-destiny/",
+  "source_name": "Spell: Grand Destiny",
+  "sections": [
+    {
+      "id": "grand_destiny",
+      "title": "Grand Destiny",
+      "anchor_heading": "# Grand Destiny",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Grand Destiny, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

@@ -1,0 +1,16 @@
+{
+  "file": "sanctify-weapons.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/s/sanctify-weapons/",
+  "source_name": "Spell: Sanctify Weapons",
+  "sections": [
+    {
+      "id": "sanctify_weapons",
+      "title": "Sanctify Weapons",
+      "anchor_heading": "# Sanctify Weapons",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Sanctify Weapons, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

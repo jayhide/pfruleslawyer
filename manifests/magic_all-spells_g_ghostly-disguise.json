@@ -1,0 +1,16 @@
+{
+  "file": "ghostly-disguise.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/g/ghostly-disguise/",
+  "source_name": "Spell: Ghostly Disguise",
+  "sections": [
+    {
+      "id": "ghostly_disguise",
+      "title": "Ghostly Disguise",
+      "anchor_heading": "# Ghostly Disguise",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Ghostly Disguise, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

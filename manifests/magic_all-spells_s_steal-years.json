@@ -1,0 +1,16 @@
+{
+  "file": "steal-years.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/s/steal-years/",
+  "source_name": "Spell: Steal Years",
+  "sections": [
+    {
+      "id": "steal_years",
+      "title": "Steal Years",
+      "anchor_heading": "# Steal Years",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Steal Years, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

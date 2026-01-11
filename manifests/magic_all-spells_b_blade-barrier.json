@@ -1,0 +1,16 @@
+{
+  "file": "blade-barrier.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/b/blade-barrier/",
+  "source_name": "Spell: Blade Barrier",
+  "sections": [
+    {
+      "id": "blade_barrier",
+      "title": "Blade Barrier",
+      "anchor_heading": "# Blade Barrier",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Blade Barrier, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

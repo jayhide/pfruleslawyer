@@ -1,0 +1,16 @@
+{
+  "file": "curse-of-keeping.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/c/curse-of-keeping/",
+  "source_name": "Spell: Curse of Keeping",
+  "sections": [
+    {
+      "id": "curse_of_keeping",
+      "title": "Curse of Keeping",
+      "anchor_heading": "# Curse of Keeping",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Curse of Keeping, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

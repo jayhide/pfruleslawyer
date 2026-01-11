@@ -1,0 +1,16 @@
+{
+  "file": "burning-hands.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/b/burning-hands/",
+  "source_name": "Spell: Burning Hands",
+  "sections": [
+    {
+      "id": "burning_hands",
+      "title": "Burning Hands",
+      "anchor_heading": "# Burning Hands",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Burning Hands, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

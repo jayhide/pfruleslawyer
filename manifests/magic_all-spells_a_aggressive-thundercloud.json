@@ -1,0 +1,16 @@
+{
+  "file": "aggressive-thundercloud.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/a/aggressive-thundercloud/",
+  "source_name": "Spell: Aggressive Thundercloud",
+  "sections": [
+    {
+      "id": "aggressive_thundercloud",
+      "title": "Aggressive Thundercloud",
+      "anchor_heading": "# Aggressive Thundercloud",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Aggressive Thundercloud, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

@@ -1,0 +1,16 @@
+{
+  "file": "jitterbugs.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/j/jitterbugs/",
+  "source_name": "Spell: Jitterbugs",
+  "sections": [
+    {
+      "id": "jitterbugs",
+      "title": "Jitterbugs",
+      "anchor_heading": "# Jitterbugs",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Jitterbugs, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

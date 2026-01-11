@@ -1,0 +1,16 @@
+{
+  "file": "hidden-spring.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/h/hidden-spring/",
+  "source_name": "Spell: Hidden Spring",
+  "sections": [
+    {
+      "id": "hidden_spring",
+      "title": "Hidden Spring",
+      "anchor_heading": "# Hidden Spring",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Hidden Spring, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

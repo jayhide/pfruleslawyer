@@ -1,0 +1,16 @@
+{
+  "file": "fear.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/f/fear/",
+  "source_name": "Spell: Fear",
+  "sections": [
+    {
+      "id": "fear",
+      "title": "Fear",
+      "anchor_heading": "# Fear",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Fear, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

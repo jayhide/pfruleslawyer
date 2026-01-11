@@ -1,0 +1,16 @@
+{
+  "file": "commune-with-plane.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/c/commune-with-plane/",
+  "source_name": "Spell: Commune With Plane",
+  "sections": [
+    {
+      "id": "commune_with_plane",
+      "title": "Commune With Plane",
+      "anchor_heading": "# Commune With Plane",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Commune With Plane, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

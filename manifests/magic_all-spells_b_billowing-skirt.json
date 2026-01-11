@@ -1,0 +1,16 @@
+{
+  "file": "billowing-skirt.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/b/billowing-skirt/",
+  "source_name": "Spell: Billowing Skirt",
+  "sections": [
+    {
+      "id": "billowing_skirt",
+      "title": "Billowing Skirt",
+      "anchor_heading": "# Billowing Skirt",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Billowing Skirt, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

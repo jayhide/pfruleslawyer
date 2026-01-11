@@ -1,0 +1,16 @@
+{
+  "file": "earthquake.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/e/earthquake/",
+  "source_name": "Spell: Earthquake",
+  "sections": [
+    {
+      "id": "earthquake",
+      "title": "Earthquake",
+      "anchor_heading": "# Earthquake",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Earthquake, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

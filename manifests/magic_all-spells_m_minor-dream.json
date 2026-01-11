@@ -1,0 +1,16 @@
+{
+  "file": "minor-dream.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/m/minor-dream/",
+  "source_name": "Spell: Minor Dream",
+  "sections": [
+    {
+      "id": "minor_dream",
+      "title": "Minor Dream",
+      "anchor_heading": "# Minor Dream",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Minor Dream, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

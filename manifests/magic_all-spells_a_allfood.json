@@ -1,0 +1,16 @@
+{
+  "file": "allfood.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/a/allfood/",
+  "source_name": "Spell: Allfood",
+  "sections": [
+    {
+      "id": "allfood",
+      "title": "Allfood",
+      "anchor_heading": "# Allfood",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Allfood, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

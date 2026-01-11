@@ -1,0 +1,16 @@
+{
+  "file": "spike-growth.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/s/spike-growth/",
+  "source_name": "Spell: Spike Growth",
+  "sections": [
+    {
+      "id": "spike_growth",
+      "title": "Spike Growth",
+      "anchor_heading": "# Spike Growth",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Spike Growth, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

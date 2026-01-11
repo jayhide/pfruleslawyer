@@ -15,34 +15,37 @@
         "### Example Territory: Gnoll Canyon",
         "#### Gnoll Canyon Territory CR 5"
       ],
-      "description": "Complete system for wilderness exploration including Discovery Points, exploration checks, territories, locations, and way signs",
+      "description": "Complete exploration system for discovering locations in wilderness territories using Discovery Points, exploration checks, and way signs",
       "keywords": [
         "exploration",
-        "discovery_points",
+        "discovery points",
+        "exploration check",
+        "location",
         "territory",
-        "way_signs",
+        "way sign",
         "survival"
       ]
     },
     {
       "id": "carrying_capacity",
-      "title": "Carrying Capacity and Encumbrance",
+      "title": "Carrying Capacity",
       "anchor_heading": "## Carrying Capacity",
       "includes_subheadings": [
         "### Armor and Encumbrance for Other Base Speeds"
       ],
-      "description": "Rules for determining how much weight characters can carry and how encumbrance affects movement and abilities",
+      "description": "Rules for encumbrance by armor and weight, lifting and dragging limits, and effects on movement and abilities",
       "keywords": [
-        "carrying_capacity",
+        "carrying capacity",
         "encumbrance",
-        "strength",
-        "load",
-        "armor"
+        "light load",
+        "medium load",
+        "heavy load",
+        "strength"
       ]
     },
     {
-      "id": "movement_system",
-      "title": "Movement System",
+      "id": "movement",
+      "title": "Movement",
       "anchor_heading": "## Movement",
       "includes_subheadings": [
         "### Modes of Movement",
@@ -50,12 +53,13 @@
         "### Local Movement",
         "### Overland Movement"
       ],
-      "description": "Complete movement rules covering tactical, local, and overland movement scales including walking, hustling, and running",
+      "description": "Movement rules across all three scales (tactical, local, overland) including walking, hustling, running, and terrain effects",
       "keywords": [
         "movement",
-        "tactical",
-        "overland",
-        "speed",
+        "tactical movement",
+        "local movement",
+        "overland movement",
+        "walk",
         "hustle",
         "run"
       ]
@@ -65,13 +69,13 @@
       "title": "Evasion and Pursuit",
       "anchor_heading": "## Evasion and Pursuit",
       "includes_subheadings": [],
-      "description": "Rules for resolving chases and pursuits between characters of different speeds",
+      "description": "Rules for chases and pursuit, including opposed checks for characters of equal speed and extended pursuits",
       "keywords": [
-        "chase",
-        "pursuit",
         "evasion",
-        "dexterity",
-        "constitution"
+        "pursuit",
+        "chase",
+        "dexterity check",
+        "constitution check"
       ]
     },
     {
@@ -84,14 +88,16 @@
         "### Dim Light",
         "### Darkness"
       ],
-      "description": "Complete rules for different lighting conditions and their effects on vision, stealth, and combat",
+      "description": "Complete lighting system including all light levels and their mechanical effects on visibility, stealth, and combat",
       "keywords": [
         "vision",
         "light",
+        "bright light",
+        "normal light",
+        "dim light",
         "darkness",
         "darkvision",
-        "concealment",
-        "stealth"
+        "concealment"
       ]
     },
     {
@@ -105,12 +111,15 @@
       "description": "Rules for destroying objects through combat or strength checks, including hardness, hit points, and break DCs",
       "keywords": [
         "breaking",
+        "smashing",
         "hardness",
+        "hit points",
+        "break dc",
         "sunder",
-        "strength_check",
-        "objects"
+        "strength check"
       ]
     }
   ],
-  "source_name": "Exploration & Movement"
+  "source_name": "Exploration & Movement",
+  "category": "Core Rules"
 }

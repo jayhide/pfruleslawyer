@@ -1,0 +1,16 @@
+{
+  "file": "disable-construct.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/d/disable-construct/",
+  "source_name": "Spell: Disable Construct",
+  "sections": [
+    {
+      "id": "disable_construct",
+      "title": "Disable Construct",
+      "anchor_heading": "# Disable Construct",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Disable Construct, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

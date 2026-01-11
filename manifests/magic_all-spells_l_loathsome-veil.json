@@ -1,0 +1,16 @@
+{
+  "file": "loathsome-veil.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/l/loathsome-veil/",
+  "source_name": "Spell: Loathsome Veil",
+  "sections": [
+    {
+      "id": "loathsome_veil",
+      "title": "Loathsome Veil",
+      "anchor_heading": "# Loathsome Veil",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Loathsome Veil, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

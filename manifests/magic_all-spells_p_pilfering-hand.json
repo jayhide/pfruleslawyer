@@ -1,0 +1,16 @@
+{
+  "file": "pilfering-hand.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/p/pilfering-hand/",
+  "source_name": "Spell: Pilfering Hand",
+  "sections": [
+    {
+      "id": "pilfering_hand",
+      "title": "Pilfering Hand",
+      "anchor_heading": "# Pilfering Hand",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Pilfering Hand, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

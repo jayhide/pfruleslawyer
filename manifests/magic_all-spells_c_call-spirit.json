@@ -1,0 +1,16 @@
+{
+  "file": "call-spirit.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/c/call-spirit/",
+  "source_name": "Spell: Call Spirit",
+  "sections": [
+    {
+      "id": "call_spirit",
+      "title": "Call Spirit",
+      "anchor_heading": "# Call Spirit",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Call Spirit, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

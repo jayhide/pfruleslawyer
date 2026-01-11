@@ -1,0 +1,16 @@
+{
+  "file": "contingent-action.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/c/contingent-action/",
+  "source_name": "Spell: Contingent Action",
+  "sections": [
+    {
+      "id": "contingent_action",
+      "title": "Contingent Action",
+      "anchor_heading": "# Contingent Action",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Contingent Action, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

@@ -1,0 +1,16 @@
+{
+  "file": "mark-of-spite.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/m/mark-of-spite/",
+  "source_name": "Spell: Mark of Spite",
+  "sections": [
+    {
+      "id": "mark_of_spite",
+      "title": "Mark of Spite",
+      "anchor_heading": "# Mark of Spite",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Mark of Spite, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

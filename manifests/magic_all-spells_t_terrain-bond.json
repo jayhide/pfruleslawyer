@@ -1,0 +1,16 @@
+{
+  "file": "terrain-bond.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/t/terrain-bond/",
+  "source_name": "Spell: Terrain Bond",
+  "sections": [
+    {
+      "id": "terrain_bond",
+      "title": "Terrain Bond",
+      "anchor_heading": "# Terrain Bond",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Terrain Bond, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

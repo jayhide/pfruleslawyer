@@ -1,0 +1,16 @@
+{
+  "file": "preserve.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/p/preserve/",
+  "source_name": "Spell: Preserve",
+  "sections": [
+    {
+      "id": "preserve",
+      "title": "Preserve",
+      "anchor_heading": "# Preserve",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Preserve, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

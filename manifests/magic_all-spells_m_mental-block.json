@@ -1,0 +1,16 @@
+{
+  "file": "mental-block.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/m/mental-block/",
+  "source_name": "Spell: Mental Block",
+  "sections": [
+    {
+      "id": "mental_block",
+      "title": "Mental Block",
+      "anchor_heading": "# Mental Block",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Mental Block, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

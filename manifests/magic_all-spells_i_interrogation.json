@@ -1,0 +1,16 @@
+{
+  "file": "interrogation.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/i/interrogation/",
+  "source_name": "Spell: Interrogation",
+  "sections": [
+    {
+      "id": "interrogation",
+      "title": "Interrogation",
+      "anchor_heading": "# Interrogation",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Interrogation, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

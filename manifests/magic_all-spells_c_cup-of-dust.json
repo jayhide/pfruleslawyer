@@ -1,0 +1,16 @@
+{
+  "file": "cup-of-dust.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/c/cup-of-dust/",
+  "source_name": "Spell: Cup of Dust",
+  "sections": [
+    {
+      "id": "cup_of_dust",
+      "title": "Cup of Dust",
+      "anchor_heading": "# Cup of Dust",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Cup of Dust, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

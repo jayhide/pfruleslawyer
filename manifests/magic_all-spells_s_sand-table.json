@@ -1,0 +1,16 @@
+{
+  "file": "sand-table.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/s/sand-table/",
+  "source_name": "Spell: Sand Table",
+  "sections": [
+    {
+      "id": "sand_table",
+      "title": "Sand Table",
+      "anchor_heading": "# Sand Table",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Sand Table, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

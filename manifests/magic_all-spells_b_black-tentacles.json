@@ -1,0 +1,16 @@
+{
+  "file": "black-tentacles.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/b/black-tentacles/",
+  "source_name": "Spell: Black Tentacles",
+  "sections": [
+    {
+      "id": "black_tentacles",
+      "title": "Black Tentacles",
+      "anchor_heading": "# Black Tentacles",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Black Tentacles, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

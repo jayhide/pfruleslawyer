@@ -1,0 +1,16 @@
+{
+  "file": "summon-erodaemon.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/s/summon-erodaemon/",
+  "source_name": "Spell: Summon Erodaemon",
+  "sections": [
+    {
+      "id": "summon_erodaemon",
+      "title": "Summon Erodaemon",
+      "anchor_heading": "# Summon Erodaemon",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Summon Erodaemon, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

@@ -1,0 +1,16 @@
+{
+  "file": "lead-anchor.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/l/lead-anchor/",
+  "source_name": "Spell: Lead Anchor",
+  "sections": [
+    {
+      "id": "lead_anchor",
+      "title": "Lead Anchor",
+      "anchor_heading": "# Lead Anchor",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Lead Anchor, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

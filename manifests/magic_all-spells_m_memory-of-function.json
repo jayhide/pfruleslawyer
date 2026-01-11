@@ -1,0 +1,16 @@
+{
+  "file": "memory-of-function.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/m/memory-of-function/",
+  "source_name": "Spell: Memory of Function",
+  "sections": [
+    {
+      "id": "memory_of_function",
+      "title": "Memory of Function",
+      "anchor_heading": "# Memory of Function",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Memory of Function, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

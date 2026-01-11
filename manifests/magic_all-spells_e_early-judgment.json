@@ -1,0 +1,16 @@
+{
+  "file": "early-judgment.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/e/early-judgment/",
+  "source_name": "Spell: Early Judgment",
+  "sections": [
+    {
+      "id": "early_judgment",
+      "title": "Early Judgment",
+      "anchor_heading": "# Early Judgment",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Early Judgment, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

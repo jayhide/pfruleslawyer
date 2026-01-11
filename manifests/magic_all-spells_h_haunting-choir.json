@@ -1,0 +1,16 @@
+{
+  "file": "haunting-choir.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/h/haunting-choir/",
+  "source_name": "Spell: Haunting Choir",
+  "sections": [
+    {
+      "id": "haunting_choir",
+      "title": "Haunting Choir",
+      "anchor_heading": "# Haunting Choir",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Haunting Choir, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

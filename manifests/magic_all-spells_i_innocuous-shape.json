@@ -1,0 +1,16 @@
+{
+  "file": "innocuous-shape.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/i/innocuous-shape/",
+  "source_name": "Spell: Innocuous Shape",
+  "sections": [
+    {
+      "id": "innocuous_shape",
+      "title": "Innocuous Shape",
+      "anchor_heading": "# Innocuous Shape",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Innocuous Shape, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

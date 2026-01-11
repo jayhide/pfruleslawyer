@@ -1,0 +1,16 @@
+{
+  "file": "ironskin.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/i/ironskin/",
+  "source_name": "Spell: Ironskin",
+  "sections": [
+    {
+      "id": "ironskin",
+      "title": "Ironskin",
+      "anchor_heading": "# Ironskin",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Ironskin, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

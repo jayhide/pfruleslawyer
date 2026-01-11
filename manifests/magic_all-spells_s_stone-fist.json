@@ -1,0 +1,16 @@
+{
+  "file": "stone-fist.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/s/stone-fist/",
+  "source_name": "Spell: Stone Fist",
+  "sections": [
+    {
+      "id": "stone_fist",
+      "title": "Stone Fist",
+      "anchor_heading": "# Stone Fist",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Stone Fist, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

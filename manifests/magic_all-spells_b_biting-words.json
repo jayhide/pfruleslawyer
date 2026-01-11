@@ -1,0 +1,16 @@
+{
+  "file": "biting-words.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/b/biting-words/",
+  "source_name": "Spell: Biting Words",
+  "sections": [
+    {
+      "id": "biting_words",
+      "title": "Biting Words",
+      "anchor_heading": "# Biting Words",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Biting Words, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

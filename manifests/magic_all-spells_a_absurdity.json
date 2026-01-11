@@ -1,0 +1,16 @@
+{
+  "file": "absurdity.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/a/absurdity/",
+  "source_name": "Spell: Absurdity",
+  "sections": [
+    {
+      "id": "absurdity",
+      "title": "Absurdity",
+      "anchor_heading": "# Absurdity",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Absurdity, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

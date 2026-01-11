@@ -1,0 +1,16 @@
+{
+  "file": "frost-mammoth.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/f/frost-mammoth/",
+  "source_name": "Spell: Frost Mammoth",
+  "sections": [
+    {
+      "id": "frost_mammoth",
+      "title": "Frost Mammoth",
+      "anchor_heading": "# Frost Mammoth",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Frost Mammoth, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

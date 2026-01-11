@@ -1,0 +1,16 @@
+{
+  "file": "deja-vu.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/d/deja-vu/",
+  "source_name": "Spell: Deja Vu",
+  "sections": [
+    {
+      "id": "deja_vu",
+      "title": "Deja Vu",
+      "anchor_heading": "# Deja Vu",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Deja Vu, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

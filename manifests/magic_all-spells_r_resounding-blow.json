@@ -1,0 +1,16 @@
+{
+  "file": "resounding-blow.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/r/resounding-blow/",
+  "source_name": "Spell: Resounding Blow",
+  "sections": [
+    {
+      "id": "resounding_blow",
+      "title": "Resounding Blow",
+      "anchor_heading": "# Resounding Blow",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Resounding Blow, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

@@ -1,0 +1,16 @@
+{
+  "file": "crushing-despair.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/c/crushing-despair/",
+  "source_name": "Spell: Crushing Despair",
+  "sections": [
+    {
+      "id": "crushing_despair",
+      "title": "Crushing Despair",
+      "anchor_heading": "# Crushing Despair",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Crushing Despair, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

@@ -1,0 +1,16 @@
+{
+  "file": "flexile-curse.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/f/flexile-curse/",
+  "source_name": "Spell: Flexile Curse",
+  "sections": [
+    {
+      "id": "flexile_curse",
+      "title": "Flexile Curse",
+      "anchor_heading": "# Flexile Curse",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Flexile Curse, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

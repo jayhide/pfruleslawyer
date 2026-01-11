@@ -1,0 +1,16 @@
+{
+  "file": "frightful-aspect.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/f/frightful-aspect/",
+  "source_name": "Spell: Frightful Aspect",
+  "sections": [
+    {
+      "id": "frightful_aspect",
+      "title": "Frightful Aspect",
+      "anchor_heading": "# Frightful Aspect",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Frightful Aspect, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

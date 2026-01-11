@@ -1,0 +1,16 @@
+{
+  "file": "swift-girding.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/s/swift-girding/",
+  "source_name": "Spell: Swift Girding",
+  "sections": [
+    {
+      "id": "swift_girding",
+      "title": "Swift Girding",
+      "anchor_heading": "# Swift Girding",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Swift Girding, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

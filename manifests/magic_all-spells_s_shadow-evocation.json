@@ -1,0 +1,16 @@
+{
+  "file": "shadow-evocation.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/s/shadow-evocation/",
+  "source_name": "Spell: Shadow Evocation",
+  "sections": [
+    {
+      "id": "shadow_evocation",
+      "title": "Shadow Evocation",
+      "anchor_heading": "# Shadow Evocation",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Shadow Evocation, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

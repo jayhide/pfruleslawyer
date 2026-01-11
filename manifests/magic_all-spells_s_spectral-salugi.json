@@ -1,0 +1,16 @@
+{
+  "file": "spectral-salugi.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/s/spectral-salugi/",
+  "source_name": "Spell: Spectral Saluqi",
+  "sections": [
+    {
+      "id": "spectral_salugi",
+      "title": "Spectral Saluqi",
+      "anchor_heading": "# Spectral Saluqi",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Spectral Saluqi, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

@@ -1,0 +1,16 @@
+{
+  "file": "peacebond.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/p/peacebond/",
+  "source_name": "Spell: Peacebond",
+  "sections": [
+    {
+      "id": "peacebond",
+      "title": "Peacebond",
+      "anchor_heading": "# Peacebond",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Peacebond, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

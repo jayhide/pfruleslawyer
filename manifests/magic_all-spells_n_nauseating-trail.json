@@ -1,0 +1,16 @@
+{
+  "file": "nauseating-trail.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/n/nauseating-trail/",
+  "source_name": "Spell: Nauseating Trail",
+  "sections": [
+    {
+      "id": "nauseating_trail",
+      "title": "Nauseating Trail",
+      "anchor_heading": "# Nauseating Trail",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Nauseating Trail, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

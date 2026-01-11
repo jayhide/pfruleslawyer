@@ -1,0 +1,16 @@
+{
+  "file": "blasphemy.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/b/blasphemy/",
+  "source_name": "Spell: Blasphemy",
+  "sections": [
+    {
+      "id": "blasphemy",
+      "title": "Blasphemy",
+      "anchor_heading": "# Blasphemy",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Blasphemy, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

@@ -25,23 +25,26 @@
         "### Trade Goods",
         "### Using Magic to Bargain"
       ],
-      "description": "Rules for the Appraise skill, including determining item values, skill modifiers, unchained skill unlocks, and detailed bargaining mechanics between buyers and sellers.",
+      "description": "Covers the Appraise skill mechanics for determining item values, including skill unlocks and detailed bargaining rules for buying and selling items with NPCs.",
       "keywords": [
         "Appraise",
         "appraise skill",
         "item value",
-        "appraise check",
+        "treasure valuation",
         "bargaining",
-        "valuation",
+        "selling items",
+        "buying items",
         "skill unlocks",
         "appraise unchained",
-        "treasure hoard",
-        "asking price",
-        "counteroffer",
-        "undercut percentage",
         "collector NPCs",
-        "trade goods"
+        "trade goods",
+        "flooding the market",
+        "asking price",
+        "final offer",
+        "initial offer",
+        "undercut percentage"
       ]
     }
-  ]
+  ],
+  "category": "Skills"
 }

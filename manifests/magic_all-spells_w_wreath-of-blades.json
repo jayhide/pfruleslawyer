@@ -1,0 +1,16 @@
+{
+  "file": "wreath-of-blades.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/w/wreath-of-blades/",
+  "source_name": "Spell: Wreath of Blades",
+  "sections": [
+    {
+      "id": "wreath_of_blades",
+      "title": "Wreath of Blades",
+      "anchor_heading": "# Wreath of Blades",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Wreath of Blades, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

@@ -1,0 +1,16 @@
+{
+  "file": "repress-memory.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/r/repress-memory/",
+  "source_name": "Spell: Repress Memory",
+  "sections": [
+    {
+      "id": "repress_memory",
+      "title": "Repress Memory",
+      "anchor_heading": "# Repress Memory",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Repress Memory, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

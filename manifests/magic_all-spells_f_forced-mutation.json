@@ -1,0 +1,16 @@
+{
+  "file": "forced-mutation.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/f/forced-mutation/",
+  "source_name": "Spell: Forced Mutation",
+  "sections": [
+    {
+      "id": "forced_mutation",
+      "title": "Forced Mutation",
+      "anchor_heading": "# Forced Mutation",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Forced Mutation, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

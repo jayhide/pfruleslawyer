@@ -1,0 +1,16 @@
+{
+  "file": "see-alignment.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/s/see-alignment/",
+  "source_name": "Spell: See Alignment",
+  "sections": [
+    {
+      "id": "see_alignment",
+      "title": "See Alignment",
+      "anchor_heading": "# See Alignment",
+      "includes_subheadings": [],
+      "description": "Full description of the spell See Alignment, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

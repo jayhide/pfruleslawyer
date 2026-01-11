@@ -1,0 +1,16 @@
+{
+  "file": "strangling-hair.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/s/strangling-hair/",
+  "source_name": "Spell: Strangling Hair",
+  "sections": [
+    {
+      "id": "strangling_hair",
+      "title": "Strangling Hair",
+      "anchor_heading": "# Strangling Hair",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Strangling Hair, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

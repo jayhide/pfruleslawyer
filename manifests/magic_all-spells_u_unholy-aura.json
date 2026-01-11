@@ -1,0 +1,16 @@
+{
+  "file": "unholy-aura.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/u/unholy-aura/",
+  "source_name": "Spell: Unholy Aura",
+  "sections": [
+    {
+      "id": "unholy_aura",
+      "title": "Unholy Aura",
+      "anchor_heading": "# Unholy Aura",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Unholy Aura, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

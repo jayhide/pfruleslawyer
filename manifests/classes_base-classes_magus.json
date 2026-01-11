@@ -9,6 +9,7 @@
       "anchor_heading": "# Magus",
       "includes_subheadings": [
         "### Class skills",
+        "### Class Features",
         "#### Weapon and Armor Proficiency",
         "#### Spells",
         "#### Arcane Pool (Su)",
@@ -27,13 +28,12 @@
         "#### Counterstrike (Ex)",
         "#### Greater Spell Access (Su)",
         "#### True Magus (Su)",
-        "#### Legendary Blade (Su)",
-        "## Favored Class Bonuses",
-        "## Archetypes & Alternate Class Features"
+        "### Alternative Capstone Ability",
+        "#### Legendary Blade (Su)"
       ],
-      "description": "Comprehensive rules for the Magus class, covering all class features, abilities, progression, archetypes, and magus arcana options for this hybrid warrior-spellcaster.",
+      "description": "Comprehensive rules for the Magus class, a hybrid warrior-spellcaster that combines martial prowess with arcane magic through spell combat and spellstrike abilities.",
       "keywords": [
-        "magus",
+        "Magus",
         "spell combat",
         "spellstrike",
         "arcane pool",
@@ -41,13 +41,14 @@
         "spell recall",
         "knowledge pool",
         "true magus",
-        "bladebound",
-        "kensai",
-        "hexcrafter",
-        "eldritch archer",
-        "myrmidarch",
-        "skirnir"
+        "counterstrike",
+        "greater spell combat",
+        "improved spell combat",
+        "greater spell access",
+        "fighter training",
+        "legendary blade"
       ]
     }
-  ]
+  ],
+  "category": "Classes"
 }

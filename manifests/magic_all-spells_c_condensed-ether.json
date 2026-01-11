@@ -1,0 +1,16 @@
+{
+  "file": "condensed-ether.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/c/condensed-ether/",
+  "source_name": "Spell: Condensed Ether",
+  "sections": [
+    {
+      "id": "condensed_ether",
+      "title": "Condensed Ether",
+      "anchor_heading": "# Condensed Ether",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Condensed Ether, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

@@ -1,0 +1,16 @@
+{
+  "file": "absorb-rune-i.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/a/absorb-rune-i/",
+  "source_name": "Spell: Absorb Rune",
+  "sections": [
+    {
+      "id": "absorb_rune_i",
+      "title": "Absorb Rune",
+      "anchor_heading": "# Absorb Rune",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Absorb Rune, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

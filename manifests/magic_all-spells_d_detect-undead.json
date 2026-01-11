@@ -1,0 +1,16 @@
+{
+  "file": "detect-undead.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/d/detect-undead/",
+  "source_name": "Spell: Detect Undead",
+  "sections": [
+    {
+      "id": "detect_undead",
+      "title": "Detect Undead",
+      "anchor_heading": "# Detect Undead",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Detect Undead, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

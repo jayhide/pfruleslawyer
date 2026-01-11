@@ -1,0 +1,16 @@
+{
+  "file": "sunstalker.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/s/sunstalker/",
+  "source_name": "Spell: Sunstalker",
+  "sections": [
+    {
+      "id": "sunstalker",
+      "title": "Sunstalker",
+      "anchor_heading": "# Sunstalker",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Sunstalker, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

@@ -1,0 +1,16 @@
+{
+  "file": "halt-undead.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/h/halt-undead/",
+  "source_name": "Spell: Halt Undead",
+  "sections": [
+    {
+      "id": "halt_undead",
+      "title": "Halt Undead",
+      "anchor_heading": "# Halt Undead",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Halt Undead, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

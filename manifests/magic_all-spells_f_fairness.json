@@ -1,0 +1,16 @@
+{
+  "file": "fairness.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/f/fairness/",
+  "source_name": "Spell: Fairness",
+  "sections": [
+    {
+      "id": "fairness",
+      "title": "Fairness",
+      "anchor_heading": "# Fairness",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Fairness, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

@@ -1,0 +1,16 @@
+{
+  "file": "toxic-gift.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/t/toxic-gift/",
+  "source_name": "Spell: Toxic Gift",
+  "sections": [
+    {
+      "id": "toxic_gift",
+      "title": "Toxic Gift",
+      "anchor_heading": "# Toxic Gift",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Toxic Gift, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

@@ -1,0 +1,16 @@
+{
+  "file": "symbol-of-fear.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/s/symbol-of-fear/",
+  "source_name": "Spell: Symbol of Fear",
+  "sections": [
+    {
+      "id": "symbol_of_fear",
+      "title": "Symbol of Fear",
+      "anchor_heading": "# Symbol of Fear",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Symbol of Fear, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

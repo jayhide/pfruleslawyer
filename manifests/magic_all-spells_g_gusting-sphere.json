@@ -1,0 +1,16 @@
+{
+  "file": "gusting-sphere.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/g/gusting-sphere/",
+  "source_name": "Spell: Gusting Sphere",
+  "sections": [
+    {
+      "id": "gusting_sphere",
+      "title": "Gusting Sphere",
+      "anchor_heading": "# Gusting Sphere",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Gusting Sphere, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

@@ -1,0 +1,16 @@
+{
+  "file": "cruel-jaunt.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/c/cruel-jaunt/",
+  "source_name": "Spell: Cruel Jaunt",
+  "sections": [
+    {
+      "id": "cruel_jaunt",
+      "title": "Cruel Jaunt",
+      "anchor_heading": "# Cruel Jaunt",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Cruel Jaunt, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

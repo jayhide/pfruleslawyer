@@ -1,0 +1,16 @@
+{
+  "file": "sleet-storm.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/s/sleet-storm/",
+  "source_name": "Spell: Sleet Storm",
+  "sections": [
+    {
+      "id": "sleet_storm",
+      "title": "Sleet Storm",
+      "anchor_heading": "# Sleet Storm",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Sleet Storm, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

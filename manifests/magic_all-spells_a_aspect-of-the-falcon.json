@@ -1,0 +1,16 @@
+{
+  "file": "aspect-of-the-falcon.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/a/aspect-of-the-falcon/",
+  "source_name": "Spell: Aspect of the Falcon",
+  "sections": [
+    {
+      "id": "aspect_of_the_falcon",
+      "title": "Aspect of the Falcon",
+      "anchor_heading": "# Aspect of the Falcon",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Aspect of the Falcon, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

@@ -1,0 +1,16 @@
+{
+  "file": "death-ward.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/d/death-ward/",
+  "source_name": "Spell: Death Ward",
+  "sections": [
+    {
+      "id": "death_ward",
+      "title": "Death Ward",
+      "anchor_heading": "# Death Ward",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Death Ward, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

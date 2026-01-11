@@ -1,0 +1,16 @@
+{
+  "file": "abeyance.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/a/abeyance/",
+  "source_name": "Spell: Abeyance",
+  "sections": [
+    {
+      "id": "abeyance",
+      "title": "Abeyance",
+      "anchor_heading": "# Abeyance",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Abeyance, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

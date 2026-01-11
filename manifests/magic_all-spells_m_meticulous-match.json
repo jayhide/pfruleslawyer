@@ -1,0 +1,16 @@
+{
+  "file": "meticulous-match.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/m/meticulous-match/",
+  "source_name": "Spell: Meticulous Match",
+  "sections": [
+    {
+      "id": "meticulous_match",
+      "title": "Meticulous Match",
+      "anchor_heading": "# Meticulous Match",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Meticulous Match, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

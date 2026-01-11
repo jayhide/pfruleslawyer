@@ -1,0 +1,16 @@
+{
+  "file": "monkey-fish.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/m/monkey-fish/",
+  "source_name": "Spell: Monkey Fish",
+  "sections": [
+    {
+      "id": "monkey_fish",
+      "title": "Monkey Fish",
+      "anchor_heading": "# Monkey Fish",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Monkey Fish, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

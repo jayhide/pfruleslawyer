@@ -1,0 +1,16 @@
+{
+  "file": "celestial-companion.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/c/celestial-companion/",
+  "source_name": "Spell: Celestial Companion",
+  "sections": [
+    {
+      "id": "celestial_companion",
+      "title": "Celestial Companion",
+      "anchor_heading": "# Celestial Companion",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Celestial Companion, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

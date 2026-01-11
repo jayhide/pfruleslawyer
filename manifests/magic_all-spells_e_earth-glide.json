@@ -1,0 +1,16 @@
+{
+  "file": "earth-glide.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/e/earth-glide/",
+  "source_name": "Spell: Earth Glide",
+  "sections": [
+    {
+      "id": "earth_glide",
+      "title": "Earth Glide",
+      "anchor_heading": "# Earth Glide",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Earth Glide, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

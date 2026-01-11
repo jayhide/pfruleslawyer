@@ -1,0 +1,16 @@
+{
+  "file": "blood-crow-strike.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/b/blood-crow-strike/",
+  "source_name": "Spell: Blood Crow Strike",
+  "sections": [
+    {
+      "id": "blood_crow_strike",
+      "title": "Blood Crow Strike",
+      "anchor_heading": "# Blood Crow Strike",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Blood Crow Strike, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

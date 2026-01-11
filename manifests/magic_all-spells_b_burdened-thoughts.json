@@ -1,0 +1,16 @@
+{
+  "file": "burdened-thoughts.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/b/burdened-thoughts/",
+  "source_name": "Spell: Burdened Thoughts",
+  "sections": [
+    {
+      "id": "burdened_thoughts",
+      "title": "Burdened Thoughts",
+      "anchor_heading": "# Burdened Thoughts",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Burdened Thoughts, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

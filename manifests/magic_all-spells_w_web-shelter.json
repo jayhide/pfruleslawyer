@@ -1,0 +1,16 @@
+{
+  "file": "web-shelter.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/w/web-shelter/",
+  "source_name": "Spell: Web Shelter",
+  "sections": [
+    {
+      "id": "web_shelter",
+      "title": "Web Shelter",
+      "anchor_heading": "# Web Shelter",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Web Shelter, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

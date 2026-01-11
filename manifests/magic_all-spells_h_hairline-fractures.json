@@ -1,0 +1,16 @@
+{
+  "file": "hairline-fractures.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/h/hairline-fractures/",
+  "source_name": "Spell: Hairline Fractures",
+  "sections": [
+    {
+      "id": "hairline_fractures",
+      "title": "Hairline Fractures",
+      "anchor_heading": "# Hairline Fractures",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Hairline Fractures, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

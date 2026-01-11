@@ -1,0 +1,16 @@
+{
+  "file": "stone-discus.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/s/stone-discus/",
+  "source_name": "Spell: Stone Discus",
+  "sections": [
+    {
+      "id": "stone_discus",
+      "title": "Stone Discus",
+      "anchor_heading": "# Stone Discus",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Stone Discus, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

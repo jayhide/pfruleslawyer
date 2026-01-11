@@ -1,0 +1,16 @@
+{
+  "file": "anti-summoning-shield.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/a/anti-summoning-shield/",
+  "source_name": "Spell: Anti-Summoning Shield",
+  "sections": [
+    {
+      "id": "anti_summoning_shield",
+      "title": "Anti-Summoning Shield",
+      "anchor_heading": "# Anti-Summoning Shield",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Anti-Summoning Shield, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

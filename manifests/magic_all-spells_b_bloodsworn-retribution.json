@@ -1,0 +1,16 @@
+{
+  "file": "bloodsworn-retribution.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/b/bloodsworn-retribution/",
+  "source_name": "Spell: Bloodsworn Retribution",
+  "sections": [
+    {
+      "id": "bloodsworn_retribution",
+      "title": "Bloodsworn Retribution",
+      "anchor_heading": "# Bloodsworn Retribution",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Bloodsworn Retribution, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

@@ -1,0 +1,16 @@
+{
+  "file": "locksight.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/l/locksight/",
+  "source_name": "Spell: Locksight",
+  "sections": [
+    {
+      "id": "locksight",
+      "title": "Locksight",
+      "anchor_heading": "# Locksight",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Locksight, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

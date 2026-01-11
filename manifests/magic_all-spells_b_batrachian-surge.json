@@ -1,0 +1,16 @@
+{
+  "file": "batrachian-surge.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/b/batrachian-surge/",
+  "source_name": "Spell: Batrachian Surge",
+  "sections": [
+    {
+      "id": "batrachian_surge",
+      "title": "Batrachian Surge",
+      "anchor_heading": "# Batrachian Surge",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Batrachian Surge, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

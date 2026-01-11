@@ -1,0 +1,16 @@
+{
+  "file": "seeds-of-influence.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/s/seeds-of-influence/",
+  "source_name": "Spell: Seeds of Influence",
+  "sections": [
+    {
+      "id": "seeds_of_influence",
+      "title": "Seeds of Influence",
+      "anchor_heading": "# Seeds of Influence",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Seeds of Influence, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

@@ -1,0 +1,16 @@
+{
+  "file": "scripted-hallucination.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/s/scripted-hallucination/",
+  "source_name": "Spell: Scripted Hallucination",
+  "sections": [
+    {
+      "id": "scripted_hallucination",
+      "title": "Scripted Hallucination",
+      "anchor_heading": "# Scripted Hallucination",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Scripted Hallucination, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

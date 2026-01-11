@@ -1,0 +1,16 @@
+{
+  "file": "toxic-blood.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/t/toxic-blood/",
+  "source_name": "Spell: Toxic Blood",
+  "sections": [
+    {
+      "id": "toxic_blood",
+      "title": "Toxic Blood",
+      "anchor_heading": "# Toxic Blood",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Toxic Blood, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

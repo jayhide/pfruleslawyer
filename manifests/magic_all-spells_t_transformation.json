@@ -1,0 +1,16 @@
+{
+  "file": "transformation.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/t/transformation/",
+  "source_name": "Spell: Transformation",
+  "sections": [
+    {
+      "id": "transformation",
+      "title": "Transformation",
+      "anchor_heading": "# Transformation",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Transformation, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

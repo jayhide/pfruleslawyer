@@ -1,0 +1,16 @@
+{
+  "file": "banishment.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/b/banishment/",
+  "source_name": "Spell: Banishment",
+  "sections": [
+    {
+      "id": "banishment",
+      "title": "Banishment",
+      "anchor_heading": "# Banishment",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Banishment, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

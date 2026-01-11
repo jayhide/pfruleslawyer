@@ -1,0 +1,16 @@
+{
+  "file": "nap-stack.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/n/nap-stack/",
+  "source_name": "Spell: Nap Stack",
+  "sections": [
+    {
+      "id": "nap_stack",
+      "title": "Nap Stack",
+      "anchor_heading": "# Nap Stack",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Nap Stack, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

@@ -1,0 +1,16 @@
+{
+  "file": "icicle-dagger.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/i/icicle-dagger/",
+  "source_name": "Spell: Icicle Dagger",
+  "sections": [
+    {
+      "id": "icicle_dagger",
+      "title": "Icicle Dagger",
+      "anchor_heading": "# Icicle Dagger",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Icicle Dagger, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

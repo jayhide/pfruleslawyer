@@ -1,0 +1,16 @@
+{
+  "file": "righteous-vigor.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/r/righteous-vigor/",
+  "source_name": "Spell: Righteous Vigor",
+  "sections": [
+    {
+      "id": "righteous_vigor",
+      "title": "Righteous Vigor",
+      "anchor_heading": "# Righteous Vigor",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Righteous Vigor, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

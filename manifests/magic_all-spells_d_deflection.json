@@ -1,0 +1,16 @@
+{
+  "file": "deflection.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/d/deflection/",
+  "source_name": "Spell: Deflection",
+  "sections": [
+    {
+      "id": "deflection",
+      "title": "Deflection",
+      "anchor_heading": "# Deflection",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Deflection, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

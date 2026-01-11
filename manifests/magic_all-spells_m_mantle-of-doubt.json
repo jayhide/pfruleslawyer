@@ -1,0 +1,16 @@
+{
+  "file": "mantle-of-doubt.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/m/mantle-of-doubt/",
+  "source_name": "Spell: Mantle of Doubt",
+  "sections": [
+    {
+      "id": "mantle_of_doubt",
+      "title": "Mantle of Doubt",
+      "anchor_heading": "# Mantle of Doubt",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Mantle of Doubt, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

@@ -1,0 +1,16 @@
+{
+  "file": "rising-water.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/r/rising-water/",
+  "source_name": "Spell: Rising Water",
+  "sections": [
+    {
+      "id": "rising_water",
+      "title": "Rising Water",
+      "anchor_heading": "# Rising Water",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Rising Water, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

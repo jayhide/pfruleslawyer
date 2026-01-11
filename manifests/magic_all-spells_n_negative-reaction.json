@@ -1,0 +1,16 @@
+{
+  "file": "negative-reaction.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/n/negative-reaction/",
+  "source_name": "Spell: Negative Reaction",
+  "sections": [
+    {
+      "id": "negative_reaction",
+      "title": "Negative Reaction",
+      "anchor_heading": "# Negative Reaction",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Negative Reaction, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

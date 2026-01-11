@@ -1,0 +1,16 @@
+{
+  "file": "glibness.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/g/glibness/",
+  "source_name": "Spell: Glibness",
+  "sections": [
+    {
+      "id": "glibness",
+      "title": "Glibness",
+      "anchor_heading": "# Glibness",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Glibness, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

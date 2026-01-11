@@ -18,7 +18,7 @@ from pathlib import Path
 from threading import Lock
 
 from bs4 import BeautifulSoup
-from markdownify import markdownify as md
+from markdownify import markdownify as md, MarkdownConverter
 
 DB_PATH = Path("html_cache.db")
 
@@ -37,6 +37,100 @@ def strip_links(markdown: str) -> str:
     """
     pattern = r'\[([^\]]+)\]\([^)]+\)'
     return re.sub(pattern, r'\1', markdown)
+
+
+class AnchorPreservingConverter(MarkdownConverter):
+    """Custom markdown converter that preserves HTML anchor IDs in headings.
+
+    Converts headings to extended markdown syntax with anchor IDs:
+        <h4><span id="spell_combat_ex">Spell Combat (Ex)</span></h4>
+    becomes:
+        #### Spell Combat (Ex) {#spell_combat_ex}
+
+    This enables direct fragment-based lookup in the RAG system.
+    """
+
+    def _extract_anchor_id(self, el) -> str | None:
+        """Extract anchor ID from heading element.
+
+        Priority:
+        1. <span id="anchor_id"> inside heading (most common on d20pfsrd)
+        2. id attribute directly on heading element
+
+        Returns None if no suitable anchor found.
+        """
+        # Pattern 1: span with id inside the heading
+        span = el.find('span', id=True)
+        if span:
+            anchor_id = span.get('id')
+            # Skip UI-related IDs
+            if anchor_id and not anchor_id.startswith('expand-'):
+                return anchor_id
+
+        # Pattern 2: id directly on heading element (skip TOC- prefixed)
+        h_id = el.get('id')
+        if h_id and not h_id.upper().startswith('TOC-'):
+            return h_id
+
+        return None
+
+    def convert_hn(self, n, el, text, parent_tags):
+        """Convert heading with anchor ID preservation.
+
+        Overrides base class to append {#anchor_id} when available.
+        """
+        if '_inline' in parent_tags:
+            return text
+
+        # Constrain heading level
+        n = max(1, min(6, n))
+        style = self.options.get('heading_style', 'ATX').lower()
+        text = text.strip()
+
+        if not text:
+            return ''
+
+        # Clean whitespace
+        text = re.sub(r'\s+', ' ', text)
+
+        # For underlined style with n <= 2, no anchor support
+        if style == 'underlined' and n <= 2:
+            line = '=' if n == 1 else '-'
+            return self.underline(text, line)
+
+        hashes = '#' * n
+
+        # Extract anchor ID
+        anchor_id = self._extract_anchor_id(el)
+
+        if style == 'atx_closed':
+            if anchor_id:
+                return '\n\n%s %s {#%s} %s\n\n' % (hashes, text, anchor_id, hashes)
+            return '\n\n%s %s %s\n\n' % (hashes, text, hashes)
+
+        # ATX style (default)
+        if anchor_id:
+            return '\n\n%s %s {#%s}\n\n' % (hashes, text, anchor_id)
+        return '\n\n%s %s\n\n' % (hashes, text)
+
+    # Override individual heading methods to use convert_hn
+    def convert_h1(self, el, text, parent_tags):
+        return self.convert_hn(1, el, text, parent_tags)
+
+    def convert_h2(self, el, text, parent_tags):
+        return self.convert_hn(2, el, text, parent_tags)
+
+    def convert_h3(self, el, text, parent_tags):
+        return self.convert_hn(3, el, text, parent_tags)
+
+    def convert_h4(self, el, text, parent_tags):
+        return self.convert_hn(4, el, text, parent_tags)
+
+    def convert_h5(self, el, text, parent_tags):
+        return self.convert_hn(5, el, text, parent_tags)
+
+    def convert_h6(self, el, text, parent_tags):
+        return self.convert_hn(6, el, text, parent_tags)
 
 
 def find_content_end(soup: BeautifulSoup, first_h1) -> tuple[bool, any]:
@@ -146,8 +240,10 @@ def extract_clean_markdown(html: str) -> str:
         for elem in content_div.find_all(class_=class_name):
             elem.decompose()
 
-    # Convert the cleaned content div to markdown
-    markdown_content = md(str(content_div), heading_style="ATX", strip=["script", "style"])
+    # Convert the cleaned content div to markdown using custom converter
+    # that preserves anchor IDs in headings
+    converter = AnchorPreservingConverter(heading_style="ATX", strip=["script", "style"])
+    markdown_content = converter.convert(str(content_div))
 
     # Clean up excessive whitespace
     markdown_content = re.sub(r"\n{3,}", "\n\n", markdown_content)

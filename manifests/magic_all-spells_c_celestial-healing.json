@@ -1,0 +1,16 @@
+{
+  "file": "celestial-healing.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/c/celestial-healing/",
+  "source_name": "Spell: Celestial Healing",
+  "sections": [
+    {
+      "id": "celestial_healing",
+      "title": "Celestial Healing",
+      "anchor_heading": "# Celestial Healing",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Celestial Healing, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

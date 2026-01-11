@@ -1,0 +1,16 @@
+{
+  "file": "summon-minor-ally.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/s/summon-minor-ally/",
+  "source_name": "Spell: Summon Minor Ally",
+  "sections": [
+    {
+      "id": "summon_minor_ally",
+      "title": "Summon Minor Ally",
+      "anchor_heading": "# Summon Minor Ally",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Summon Minor Ally, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

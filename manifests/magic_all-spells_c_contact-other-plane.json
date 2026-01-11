@@ -1,0 +1,16 @@
+{
+  "file": "contact-other-plane.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/c/contact-other-plane/",
+  "source_name": "Spell: Contact Other Plane",
+  "sections": [
+    {
+      "id": "contact_other_plane",
+      "title": "Contact Other Plane",
+      "anchor_heading": "# Contact Other Plane",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Contact Other Plane, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

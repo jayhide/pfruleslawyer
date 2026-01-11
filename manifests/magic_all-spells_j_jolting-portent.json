@@ -1,0 +1,16 @@
+{
+  "file": "jolting-portent.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/j/jolting-portent/",
+  "source_name": "Spell: Jolting Portent",
+  "sections": [
+    {
+      "id": "jolting_portent",
+      "title": "Jolting Portent",
+      "anchor_heading": "# Jolting Portent",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Jolting Portent, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

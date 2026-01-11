@@ -1,0 +1,16 @@
+{
+  "file": "vacuous-vessel.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/v/vacuous-vessel/",
+  "source_name": "Spell: Vacuous Vessel",
+  "sections": [
+    {
+      "id": "vacuous_vessel",
+      "title": "Vacuous Vessel",
+      "anchor_heading": "# Vacuous Vessel",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Vacuous Vessel, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

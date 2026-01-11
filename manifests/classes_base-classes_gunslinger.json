@@ -23,39 +23,30 @@
         "#### Gun Training (Ex)",
         "#### True Grit (Ex)",
         "### Alternative Capstone Ability",
-        "#### Personal Armory (Ex)"
+        "#### Personal Armory (Ex)",
+        "## Favored Class Bonuses",
+        "## Archetypes & Alternate Class Features"
       ],
-      "description": "Contains the complete Gunslinger class rules including class features, grit system, deeds, archetypes, and favored class bonuses for various races.",
+      "description": "Complete rules for the Gunslinger base class, covering grit, deeds, gun training, and firearm-based combat abilities.",
       "keywords": [
         "gunslinger",
         "grit",
         "deeds",
         "firearms",
-        "gunsmith",
         "gun training",
+        "gunsmith",
         "nimble",
-        "true grit",
         "deadeye",
         "quick clear",
         "pistol-whip",
-        "utility shot",
         "dead shot",
         "targeting",
-        "bleeding wound",
         "lightning reload",
-        "evasive",
-        "menacing shot",
-        "cheat death",
-        "death's shot",
-        "stunning shot",
-        "dares",
+        "true grit",
         "daring act",
-        "deeds of renown",
-        "thundering shot",
-        "gruesome parry",
-        "lethal patience",
-        "personal armory"
+        "dares"
       ]
     }
-  ]
+  ],
+  "category": "Classes"
 }

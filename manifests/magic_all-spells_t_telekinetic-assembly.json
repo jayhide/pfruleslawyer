@@ -1,0 +1,16 @@
+{
+  "file": "telekinetic-assembly.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/t/telekinetic-assembly/",
+  "source_name": "Spell: Telekinetic Assembly",
+  "sections": [
+    {
+      "id": "telekinetic_assembly",
+      "title": "Telekinetic Assembly",
+      "anchor_heading": "# Telekinetic Assembly",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Telekinetic Assembly, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

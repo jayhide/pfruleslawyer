@@ -1,0 +1,16 @@
+{
+  "file": "acute-senses.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/a/acute-senses/",
+  "source_name": "Spell: Acute Senses",
+  "sections": [
+    {
+      "id": "acute_senses",
+      "title": "Acute Senses",
+      "anchor_heading": "# Acute Senses",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Acute Senses, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

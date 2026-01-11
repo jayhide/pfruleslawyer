@@ -17,29 +17,27 @@
         "#### Modifiers",
         "#### Survival Unchained"
       ],
-      "description": "Rules for the Survival skill, covering tracking creatures, avoiding getting lost, surviving in wilderness, finding water, and weather prediction with associated DCs and modifiers.",
+      "description": "Covers the Survival skill mechanics including tracking creatures, following trails, surviving in wilderness, avoiding natural hazards, and finding water/food.",
       "keywords": [
         "Survival",
         "tracking",
         "follow tracks",
-        "avoid getting lost",
+        "wilderness survival",
         "natural hazards",
-        "survive in wilderness",
-        "finding water",
-        "weather prediction",
+        "getting lost",
+        "foraging",
+        "hunting",
+        "predict weather",
         "trackless step",
         "pass without trace",
         "Self-Sufficient",
         "favored enemy",
-        "ranger tracking",
+        "oasis",
+        "finding water",
         "Survival Unchained",
-        "skill unlocks",
-        "Signature Skill",
-        "wilderness survival",
-        "overland movement",
-        "forage",
-        "hunting"
+        "skill unlocks"
       ]
     }
-  ]
+  ],
+  "category": "Skills"
 }

@@ -1,0 +1,16 @@
+{
+  "file": "tail-current.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/t/tail-current/",
+  "source_name": "Spell: Tail Current",
+  "sections": [
+    {
+      "id": "tail_current",
+      "title": "Tail Current",
+      "anchor_heading": "# Tail Current",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Tail Current, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

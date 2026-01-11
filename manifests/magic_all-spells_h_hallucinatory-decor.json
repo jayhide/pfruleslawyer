@@ -1,0 +1,16 @@
+{
+  "file": "hallucinatory-decor.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/h/hallucinatory-decor/",
+  "source_name": "Spell: Hallucinatory Decor",
+  "sections": [
+    {
+      "id": "hallucinatory_decor",
+      "title": "Hallucinatory Decor",
+      "anchor_heading": "# Hallucinatory Decor",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Hallucinatory Decor, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

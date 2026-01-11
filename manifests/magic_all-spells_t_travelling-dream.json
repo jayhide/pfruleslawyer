@@ -1,0 +1,16 @@
+{
+  "file": "travelling-dream.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/t/travelling-dream/",
+  "source_name": "Spell: Traveling Dream",
+  "sections": [
+    {
+      "id": "travelling_dream",
+      "title": "Traveling Dream",
+      "anchor_heading": "# Traveling Dream",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Traveling Dream, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

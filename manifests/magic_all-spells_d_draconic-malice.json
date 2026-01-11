@@ -1,0 +1,16 @@
+{
+  "file": "draconic-malice.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/d/draconic-malice/",
+  "source_name": "Spell: Draconic Malice",
+  "sections": [
+    {
+      "id": "draconic_malice",
+      "title": "Draconic Malice",
+      "anchor_heading": "# Draconic Malice",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Draconic Malice, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

@@ -1,0 +1,16 @@
+{
+  "file": "ablative-barrier.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/a/ablative-barrier/",
+  "source_name": "Spell: Ablative Barrier",
+  "sections": [
+    {
+      "id": "ablative_barrier",
+      "title": "Ablative Barrier",
+      "anchor_heading": "# Ablative Barrier",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Ablative Barrier, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

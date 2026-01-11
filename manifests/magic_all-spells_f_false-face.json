@@ -1,0 +1,16 @@
+{
+  "file": "false-face.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/f/false-face/",
+  "source_name": "Spell: False Face",
+  "sections": [
+    {
+      "id": "false_face",
+      "title": "False Face",
+      "anchor_heading": "# False Face",
+      "includes_subheadings": [],
+      "description": "Full description of the spell False Face, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

@@ -1,0 +1,16 @@
+{
+  "file": "yellow-sign.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/y/yellow-sign/",
+  "source_name": "Spell: Yellow Sign",
+  "sections": [
+    {
+      "id": "yellow_sign",
+      "title": "Yellow Sign",
+      "anchor_heading": "# Yellow Sign",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Yellow Sign, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

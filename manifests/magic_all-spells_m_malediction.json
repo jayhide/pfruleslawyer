@@ -1,0 +1,16 @@
+{
+  "file": "malediction.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/m/malediction/",
+  "source_name": "Spell: Malediction",
+  "sections": [
+    {
+      "id": "malediction",
+      "title": "Malediction",
+      "anchor_heading": "# Malediction",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Malediction, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

@@ -1,0 +1,16 @@
+{
+  "file": "cast-out.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/c/cast-out/",
+  "source_name": "Spell: Cast Out",
+  "sections": [
+    {
+      "id": "cast_out",
+      "title": "Cast Out",
+      "anchor_heading": "# Cast Out",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Cast Out, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

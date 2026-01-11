@@ -1,0 +1,16 @@
+{
+  "file": "ray-of-sickening.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/r/ray-of-sickening/",
+  "source_name": "Spell: Ray of Sickening",
+  "sections": [
+    {
+      "id": "ray_of_sickening",
+      "title": "Ray of Sickening",
+      "anchor_heading": "# Ray of Sickening",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Ray of Sickening, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

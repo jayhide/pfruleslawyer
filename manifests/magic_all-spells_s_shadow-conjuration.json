@@ -1,0 +1,16 @@
+{
+  "file": "shadow-conjuration.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/s/shadow-conjuration/",
+  "source_name": "Spell: Shadow Conjuration",
+  "sections": [
+    {
+      "id": "shadow_conjuration",
+      "title": "Shadow Conjuration",
+      "anchor_heading": "# Shadow Conjuration",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Shadow Conjuration, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

@@ -1,0 +1,16 @@
+{
+  "file": "mind-blank.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/m/mind-blank/",
+  "source_name": "Spell: Mind Blank",
+  "sections": [
+    {
+      "id": "mind_blank",
+      "title": "Mind Blank",
+      "anchor_heading": "# Mind Blank",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Mind Blank, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

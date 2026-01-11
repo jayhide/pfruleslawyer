@@ -1,0 +1,16 @@
+{
+  "file": "homeward-bound.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/h/homeward-bound/",
+  "source_name": "Spell: Homeward Bound",
+  "sections": [
+    {
+      "id": "homeward_bound",
+      "title": "Homeward Bound",
+      "anchor_heading": "# Homeward Bound",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Homeward Bound, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

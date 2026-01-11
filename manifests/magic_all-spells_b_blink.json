@@ -1,0 +1,16 @@
+{
+  "file": "blink.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/b/blink/",
+  "source_name": "Spell: Blink",
+  "sections": [
+    {
+      "id": "blink",
+      "title": "Blink",
+      "anchor_heading": "# Blink",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Blink, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

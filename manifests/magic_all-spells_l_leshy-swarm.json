@@ -1,0 +1,16 @@
+{
+  "file": "leshy-swarm.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/l/leshy-swarm/",
+  "source_name": "Spell: Leshy Swarm",
+  "sections": [
+    {
+      "id": "leshy_swarm",
+      "title": "Leshy Swarm",
+      "anchor_heading": "# Leshy Swarm",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Leshy Swarm, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

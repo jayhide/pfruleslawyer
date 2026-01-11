@@ -1,0 +1,16 @@
+{
+  "file": "sepia-snake-sigil.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/s/sepia-snake-sigil/",
+  "source_name": "Spell: Sepia Snake Sigil",
+  "sections": [
+    {
+      "id": "sepia_snake_sigil",
+      "title": "Sepia Snake Sigil",
+      "anchor_heading": "# Sepia Snake Sigil",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Sepia Snake Sigil, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

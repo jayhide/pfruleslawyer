@@ -1,0 +1,16 @@
+{
+  "file": "irresistible-dance.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/i/irresistible-dance/",
+  "source_name": "Spell: Irresistible Dance",
+  "sections": [
+    {
+      "id": "irresistible_dance",
+      "title": "Irresistible Dance",
+      "anchor_heading": "# Irresistible Dance",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Irresistible Dance, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

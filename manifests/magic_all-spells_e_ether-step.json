@@ -1,0 +1,16 @@
+{
+  "file": "ether-step.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/e/ether-step/",
+  "source_name": "Spell: Ether Step",
+  "sections": [
+    {
+      "id": "ether_step",
+      "title": "Ether Step",
+      "anchor_heading": "# Ether Step",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Ether Step, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

@@ -1,0 +1,16 @@
+{
+  "file": "fair-is-foul.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/f/fair-is-foul/",
+  "source_name": "Spell: Fair Is Foul",
+  "sections": [
+    {
+      "id": "fair_is_foul",
+      "title": "Fair Is Foul",
+      "anchor_heading": "# Fair Is Foul",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Fair Is Foul, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

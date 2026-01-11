@@ -1,0 +1,16 @@
+{
+  "file": "touch-of-idiocy.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/t/touch-of-idiocy/",
+  "source_name": "Spell: Touch of Idiocy",
+  "sections": [
+    {
+      "id": "touch_of_idiocy",
+      "title": "Touch of Idiocy",
+      "anchor_heading": "# Touch of Idiocy",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Touch of Idiocy, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

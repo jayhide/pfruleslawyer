@@ -1,0 +1,16 @@
+{
+  "file": "scintillating-wall.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/s/scintillating-wall/",
+  "source_name": "Spell: Scintillating Wall",
+  "sections": [
+    {
+      "id": "scintillating_wall",
+      "title": "Scintillating Wall",
+      "anchor_heading": "# Scintillating Wall",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Scintillating Wall, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

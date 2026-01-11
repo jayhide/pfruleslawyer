@@ -1,0 +1,16 @@
+{
+  "file": "rebuke.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/r/rebuke/",
+  "source_name": "Spell: Rebuke",
+  "sections": [
+    {
+      "id": "rebuke",
+      "title": "Rebuke",
+      "anchor_heading": "# Rebuke",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Rebuke, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

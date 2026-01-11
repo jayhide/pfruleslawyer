@@ -1,0 +1,16 @@
+{
+  "file": "radiation-ward.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/r/radiation-ward/",
+  "source_name": "Spell: Radiation Ward",
+  "sections": [
+    {
+      "id": "radiation_ward",
+      "title": "Radiation Ward",
+      "anchor_heading": "# Radiation Ward",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Radiation Ward, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

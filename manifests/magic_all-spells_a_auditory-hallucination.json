@@ -1,0 +1,16 @@
+{
+  "file": "auditory-hallucination.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/a/auditory-hallucination/",
+  "source_name": "Spell: Auditory Hallucination",
+  "sections": [
+    {
+      "id": "auditory_hallucination",
+      "title": "Auditory Hallucination",
+      "anchor_heading": "# Auditory Hallucination",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Auditory Hallucination, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

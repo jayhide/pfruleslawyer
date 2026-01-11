@@ -1,0 +1,16 @@
+{
+  "file": "tireless-pursuit.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/t/tireless-pursuit/",
+  "source_name": "Spell: Tireless Pursuit",
+  "sections": [
+    {
+      "id": "tireless_pursuit",
+      "title": "Tireless Pursuit",
+      "anchor_heading": "# Tireless Pursuit",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Tireless Pursuit, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

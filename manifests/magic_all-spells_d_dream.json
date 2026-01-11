@@ -1,0 +1,16 @@
+{
+  "file": "dream.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/d/dream/",
+  "source_name": "Spell: Dream",
+  "sections": [
+    {
+      "id": "dream",
+      "title": "Dream",
+      "anchor_heading": "# Dream",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Dream, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

@@ -1,0 +1,16 @@
+{
+  "file": "mind-swap.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/m/mind-swap/",
+  "source_name": "Spell: Mind Swap",
+  "sections": [
+    {
+      "id": "mind_swap",
+      "title": "Mind Swap",
+      "anchor_heading": "# Mind Swap",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Mind Swap, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

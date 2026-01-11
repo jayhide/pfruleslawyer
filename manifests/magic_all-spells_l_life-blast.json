@@ -1,0 +1,16 @@
+{
+  "file": "life-blast.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/l/life-blast/",
+  "source_name": "Spell: Life Blast",
+  "sections": [
+    {
+      "id": "life_blast",
+      "title": "Life Blast",
+      "anchor_heading": "# Life Blast",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Life Blast, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

@@ -1,0 +1,16 @@
+{
+  "file": "resilient-reservoir.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/r/resilient-reservoir/",
+  "source_name": "Spell: Resilient Reservoir",
+  "sections": [
+    {
+      "id": "resilient_reservoir",
+      "title": "Resilient Reservoir",
+      "anchor_heading": "# Resilient Reservoir",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Resilient Reservoir, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

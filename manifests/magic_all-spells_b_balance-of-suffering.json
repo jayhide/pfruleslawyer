@@ -1,0 +1,16 @@
+{
+  "file": "balance-of-suffering.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/b/balance-of-suffering/",
+  "source_name": "Spell: Balance of Suffering",
+  "sections": [
+    {
+      "id": "balance_of_suffering",
+      "title": "Balance of Suffering",
+      "anchor_heading": "# Balance of Suffering",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Balance of Suffering, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

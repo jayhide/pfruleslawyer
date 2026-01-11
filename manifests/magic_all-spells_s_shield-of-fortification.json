@@ -1,0 +1,16 @@
+{
+  "file": "shield-of-fortification.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/s/shield-of-fortification/",
+  "source_name": "Spell: Shield of Fortification",
+  "sections": [
+    {
+      "id": "shield_of_fortification",
+      "title": "Shield of Fortification",
+      "anchor_heading": "# Shield of Fortification",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Shield of Fortification, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

@@ -1,0 +1,16 @@
+{
+  "file": "blood-armor.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/b/blood-armor/",
+  "source_name": "Spell: Blood Armor",
+  "sections": [
+    {
+      "id": "blood_armor",
+      "title": "Blood Armor",
+      "anchor_heading": "# Blood Armor",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Blood Armor, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

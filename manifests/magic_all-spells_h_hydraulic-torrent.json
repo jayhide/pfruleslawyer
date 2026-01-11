@@ -1,0 +1,16 @@
+{
+  "file": "hydraulic-torrent.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/h/hydraulic-torrent/",
+  "source_name": "Spell: Hydraulic Torrent",
+  "sections": [
+    {
+      "id": "hydraulic_torrent",
+      "title": "Hydraulic Torrent",
+      "anchor_heading": "# Hydraulic Torrent",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Hydraulic Torrent, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

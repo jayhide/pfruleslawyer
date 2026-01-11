@@ -1,0 +1,16 @@
+{
+  "file": "draconic-suppression.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/d/draconic-suppression/",
+  "source_name": "Spell: Draconic Suppression",
+  "sections": [
+    {
+      "id": "draconic_suppression",
+      "title": "Draconic Suppression",
+      "anchor_heading": "# Draconic Suppression",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Draconic Suppression, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

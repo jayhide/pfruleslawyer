@@ -1,0 +1,16 @@
+{
+  "file": "necrostasis.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/n/necrostasis/",
+  "source_name": "Spell: Necrostasis",
+  "sections": [
+    {
+      "id": "necrostasis",
+      "title": "Necrostasis",
+      "anchor_heading": "# Necrostasis",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Necrostasis, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

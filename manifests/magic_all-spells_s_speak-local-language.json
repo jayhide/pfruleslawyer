@@ -1,0 +1,16 @@
+{
+  "file": "speak-local-language.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/s/speak-local-language/",
+  "source_name": "Spell: Speak Local Language",
+  "sections": [
+    {
+      "id": "speak_local_language",
+      "title": "Speak Local Language",
+      "anchor_heading": "# Speak Local Language",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Speak Local Language, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

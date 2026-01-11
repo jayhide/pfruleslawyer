@@ -1,0 +1,16 @@
+{
+  "file": "quick-throwing.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/q/quick-throwing/",
+  "source_name": "Spell: Quick Throwing",
+  "sections": [
+    {
+      "id": "quick_throwing",
+      "title": "Quick Throwing",
+      "anchor_heading": "# Quick Throwing",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Quick Throwing, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

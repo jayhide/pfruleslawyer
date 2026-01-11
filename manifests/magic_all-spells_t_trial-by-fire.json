@@ -1,0 +1,16 @@
+{
+  "file": "trial-by-fire.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/t/trial-by-fire/",
+  "source_name": "Spell: Trial By Fire",
+  "sections": [
+    {
+      "id": "trial_by_fire",
+      "title": "Trial By Fire",
+      "anchor_heading": "# Trial By Fire",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Trial By Fire, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

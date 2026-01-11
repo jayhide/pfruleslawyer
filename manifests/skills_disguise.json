@@ -13,22 +13,23 @@
         "### Modifiers",
         "#### Disguise Unchained"
       ],
-      "description": "Rules for the Disguise skill, including check mechanics, DC modifiers for different types of disguises, magical enhancement bonuses, and unchained skill unlock abilities.",
+      "description": "Rules for the Disguise skill, including check mechanics, DC modifiers for different types of disguises, time requirements, magical enhancements, and unchained skill unlock abilities.",
       "keywords": [
-        "Disguise",
+        "disguise",
+        "disguise skill",
         "disguise check",
         "impersonation",
         "alter appearance",
         "disguise self",
         "alter self",
-        "polymorph",
-        "shapechange",
-        "veil",
         "simulacrum",
-        "Deceitful",
         "skill unlock",
-        "Signature Skill"
+        "disguise unchained",
+        "deceitful feat",
+        "veil spell",
+        "true seeing"
       ]
     }
-  ]
+  ],
+  "category": "Skills"
 }

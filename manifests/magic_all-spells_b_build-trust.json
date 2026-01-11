@@ -1,0 +1,16 @@
+{
+  "file": "build-trust.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/b/build-trust/",
+  "source_name": "Spell: Build Trust",
+  "sections": [
+    {
+      "id": "build_trust",
+      "title": "Build Trust",
+      "anchor_heading": "# Build Trust",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Build Trust, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

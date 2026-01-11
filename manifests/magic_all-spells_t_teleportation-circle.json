@@ -1,0 +1,16 @@
+{
+  "file": "teleportation-circle.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/t/teleportation-circle/",
+  "source_name": "Spell: Teleportation Circle",
+  "sections": [
+    {
+      "id": "teleportation_circle",
+      "title": "Teleportation Circle",
+      "anchor_heading": "# Teleportation Circle",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Teleportation Circle, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

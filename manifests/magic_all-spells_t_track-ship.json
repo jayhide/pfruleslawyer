@@ -1,0 +1,16 @@
+{
+  "file": "track-ship.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/t/track-ship/",
+  "source_name": "Spell: Track Ship",
+  "sections": [
+    {
+      "id": "track_ship",
+      "title": "Track Ship",
+      "anchor_heading": "# Track Ship",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Track Ship, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

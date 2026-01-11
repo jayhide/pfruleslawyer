@@ -18,31 +18,27 @@
         "#### Orisons",
         "#### Revelation",
         "#### Final Revelation",
-        "### Alternative Capstone Ability",
         "#### Diverse Mysteries (Su)",
         "## Favored Class Bonuses",
         "## Archetypes & Alternate Class Features"
       ],
-      "description": "This document covers the Oracle class rules, including spellcasting mechanics, mysteries, curses, revelations, and class progression from levels 1-20.",
+      "description": "Contains complete rules for the Oracle class, a divine spellcaster who gains power through mysterious forces and is affected by both a curse and revelations from their chosen mystery.",
       "keywords": [
         "oracle",
-        "oracle class",
         "mystery",
-        "oracle mystery",
         "revelation",
-        "oracle revelation",
-        "oracle curse",
+        "oracle's curse",
         "orisons",
         "final revelation",
-        "divine spells",
-        "charisma-based spellcaster",
-        "oracle spellcasting",
-        "oracle archetype",
-        "dual-cursed oracle",
-        "spirit guide",
-        "planar oracle",
+        "divine spellcasting",
+        "charisma-based caster",
+        "oracle spells",
+        "oracle mysteries",
+        "oracle curses",
+        "oracle archetypes",
         "diverse mysteries"
       ]
     }
-  ]
+  ],
+  "category": "Classes"
 }

@@ -1,0 +1,16 @@
+{
+  "file": "infuse-robot.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/i/infuse-robot/",
+  "source_name": "Spell: Infuse Robot",
+  "sections": [
+    {
+      "id": "infuse_robot",
+      "title": "Infuse Robot",
+      "anchor_heading": "# Infuse Robot",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Infuse Robot, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

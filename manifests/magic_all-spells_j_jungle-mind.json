@@ -1,0 +1,16 @@
+{
+  "file": "jungle-mind.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/j/jungle-mind/",
+  "source_name": "Spell: Jungle Mind",
+  "sections": [
+    {
+      "id": "jungle_mind",
+      "title": "Jungle Mind",
+      "anchor_heading": "# Jungle Mind",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Jungle Mind, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

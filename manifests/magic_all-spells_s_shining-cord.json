@@ -1,0 +1,16 @@
+{
+  "file": "shining-cord.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/s/shining-cord/",
+  "source_name": "Spell: Shining Cord",
+  "sections": [
+    {
+      "id": "shining_cord",
+      "title": "Shining Cord",
+      "anchor_heading": "# Shining Cord",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Shining Cord, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

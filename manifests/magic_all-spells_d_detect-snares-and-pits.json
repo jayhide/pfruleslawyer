@@ -1,0 +1,16 @@
+{
+  "file": "detect-snares-and-pits.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/d/detect-snares-and-pits/",
+  "source_name": "Spell: Detect Snares and Pits",
+  "sections": [
+    {
+      "id": "detect_snares_and_pits",
+      "title": "Detect Snares and Pits",
+      "anchor_heading": "# Detect Snares and Pits",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Detect Snares and Pits, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

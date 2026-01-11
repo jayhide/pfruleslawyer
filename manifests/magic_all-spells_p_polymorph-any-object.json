@@ -1,0 +1,16 @@
+{
+  "file": "polymorph-any-object.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/p/polymorph-any-object/",
+  "source_name": "Spell: Polymorph Any Object",
+  "sections": [
+    {
+      "id": "polymorph_any_object",
+      "title": "Polymorph Any Object",
+      "anchor_heading": "# Polymorph Any Object",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Polymorph Any Object, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

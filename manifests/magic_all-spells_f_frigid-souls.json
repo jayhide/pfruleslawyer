@@ -1,0 +1,16 @@
+{
+  "file": "frigid-souls.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/f/frigid-souls/",
+  "source_name": "Spell: Frigid Souls",
+  "sections": [
+    {
+      "id": "frigid_souls",
+      "title": "Frigid Souls",
+      "anchor_heading": "# Frigid Souls",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Frigid Souls, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

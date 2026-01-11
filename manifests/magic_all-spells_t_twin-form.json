@@ -1,0 +1,16 @@
+{
+  "file": "twin-form.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/t/twin-form/",
+  "source_name": "Spell: Twin Form",
+  "sections": [
+    {
+      "id": "twin_form",
+      "title": "Twin Form",
+      "anchor_heading": "# Twin Form",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Twin Form, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

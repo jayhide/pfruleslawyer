@@ -25,22 +25,22 @@
         "## Favored Class Bonuses",
         "## Archetypes & Alternate Class Features"
       ],
-      "description": "Complete rules for the Bard class including class skills, bardic performance abilities, spells, versatile performance, class features, archetypes, and favored class bonuses.",
+      "description": "Rules for the Bard core class, including class features like bardic performance, spells, versatile performance, bardic knowledge, and progression from levels 1-20.",
       "keywords": [
         "bard",
         "bardic performance",
         "bardic knowledge",
-        "versatile performance",
         "inspire courage",
         "inspire competence",
         "fascinate",
         "suggestion",
         "countersong",
         "distraction",
-        "cantrips",
+        "versatile performance",
         "well-versed",
         "lore master",
         "jack of all trades",
+        "cantrips",
         "dirge of doom",
         "inspire greatness",
         "soothing performance",
@@ -48,11 +48,10 @@
         "inspire heroics",
         "mass suggestion",
         "deadly performance",
-        "bard spells",
-        "bard archetypes",
-        "bardic masterpieces",
+        "advanced versatile performances",
         "adoring fan"
       ]
     }
-  ]
+  ],
+  "category": "Classes"
 }

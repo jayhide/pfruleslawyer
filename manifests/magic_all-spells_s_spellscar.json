@@ -1,0 +1,16 @@
+{
+  "file": "spellscar.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/s/spellscar/",
+  "source_name": "Spell: Spellscar",
+  "sections": [
+    {
+      "id": "spellscar",
+      "title": "Spellscar",
+      "anchor_heading": "# Spellscar",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Spellscar, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

@@ -1,0 +1,16 @@
+{
+  "file": "instant-enemy.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/i/instant-enemy/",
+  "source_name": "Spell: Instant Enemy",
+  "sections": [
+    {
+      "id": "instant_enemy",
+      "title": "Instant Enemy",
+      "anchor_heading": "# Instant Enemy",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Instant Enemy, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

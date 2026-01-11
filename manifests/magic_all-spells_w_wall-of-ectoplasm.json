@@ -1,0 +1,16 @@
+{
+  "file": "wall-of-ectoplasm.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/w/wall-of-ectoplasm/",
+  "source_name": "Spell: Wall of Ectoplasm",
+  "sections": [
+    {
+      "id": "wall_of_ectoplasm",
+      "title": "Wall of Ectoplasm",
+      "anchor_heading": "# Wall of Ectoplasm",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Wall of Ectoplasm, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

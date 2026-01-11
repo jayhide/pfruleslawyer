@@ -1,0 +1,16 @@
+{
+  "file": "riversight.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/r/riversight/",
+  "source_name": "Spell: Riversight",
+  "sections": [
+    {
+      "id": "riversight",
+      "title": "Riversight",
+      "anchor_heading": "# Riversight",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Riversight, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

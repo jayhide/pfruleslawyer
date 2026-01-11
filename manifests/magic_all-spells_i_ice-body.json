@@ -1,0 +1,16 @@
+{
+  "file": "ice-body.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/i/ice-body/",
+  "source_name": "Spell: Ice Body",
+  "sections": [
+    {
+      "id": "ice_body",
+      "title": "Ice Body",
+      "anchor_heading": "# Ice Body",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Ice Body, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

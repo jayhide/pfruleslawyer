@@ -1,0 +1,16 @@
+{
+  "file": "instant-suffocation.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/i/instant-suffocation/",
+  "source_name": "Spell: Instant Suffocation",
+  "sections": [
+    {
+      "id": "instant_suffocation",
+      "title": "Instant Suffocation",
+      "anchor_heading": "# Instant Suffocation",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Instant Suffocation, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

@@ -1,0 +1,16 @@
+{
+  "file": "enlarge-tail.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/e/enlarge-tail/",
+  "source_name": "Spell: Enlarge Tail",
+  "sections": [
+    {
+      "id": "enlarge_tail",
+      "title": "Enlarge Tail",
+      "anchor_heading": "# Enlarge Tail",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Enlarge Tail, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

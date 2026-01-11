@@ -9,7 +9,6 @@
       "anchor_heading": "# Ranger",
       "includes_subheadings": [
         "### Class Skills",
-        "### Class Features",
         "#### Weapon and Armor Proficiency",
         "#### Favored Enemy (Ex)",
         "#### Track (Ex)",
@@ -29,11 +28,9 @@
         "#### Improved Quarry (Ex)",
         "#### Master Hunter (Ex)",
         "### Alternative Capstone Ability",
-        "#### Seen It Before (Ex)",
-        "## Favored Class Bonuses",
-        "## Archetypes & Alternate Class Features"
+        "#### Seen It Before (Ex)"
       ],
-      "description": "Complete rules for the Ranger core class including class features like favored enemy, favored terrain, combat styles, spells, animal companions, and all class progression from 1st to 20th level.",
+      "description": "Core class rules for the Ranger, covering all class features including favored enemies, favored terrain, combat style feats, animal companions, hunter's bond, spells, and tracking abilities from levels 1-20.",
       "keywords": [
         "ranger",
         "favored enemy",
@@ -53,10 +50,10 @@
         "improved quarry",
         "master hunter",
         "ranger spells",
-        "ranger combat styles",
-        "endurance",
-        "seen it before"
+        "ranger archetype",
+        "endurance"
       ]
     }
-  ]
+  ],
+  "category": "Classes"
 }

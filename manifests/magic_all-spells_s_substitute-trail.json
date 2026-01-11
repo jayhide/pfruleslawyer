@@ -1,0 +1,16 @@
+{
+  "file": "substitute-trail.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/s/substitute-trail/",
+  "source_name": "Spell: Substitute Trail",
+  "sections": [
+    {
+      "id": "substitute_trail",
+      "title": "Substitute Trail",
+      "anchor_heading": "# Substitute Trail",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Substitute Trail, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

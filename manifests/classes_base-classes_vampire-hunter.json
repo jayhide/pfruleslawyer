@@ -26,31 +26,32 @@
         "#### Critical Reflexes (Su)",
         "#### Improved Quarry (Ex)",
         "#### Master Vampire Hunter (Ex)",
+        "### Class Features",
         "### Favored Class Bonuses",
         "### Variant Multiclassing",
         "### Mythic Vampire Hunter"
       ],
-      "description": "Comprehensive rules for the Vampire Hunter class, including class features, spellcasting, vampiric focus abilities, and specialized abilities for hunting undead creatures and vampires.",
+      "description": "Comprehensive rules for the Vampire Hunter class, a divine spellcasting class specialized in hunting vampires and undead creatures with unique vampiric focus abilities and tracking powers.",
       "keywords": [
         "vampire hunter",
         "vampiric focus",
         "detect undead",
         "technique feat",
-        "relentless",
-        "stake",
+        "vampire tracker",
         "vampire bane",
-        "remove vampirism",
         "quarry",
+        "stake",
+        "remove vampirism",
         "critical reflexes",
         "master vampire hunter",
-        "vampire tracker",
-        "relentless band",
+        "relentless",
         "swift tracker",
-        "improved quarry",
         "undead hunting",
+        "vampiric foci",
         "mythic vampire hunter",
-        "variant multiclassing vampire hunter"
+        "vampire hunting"
       ]
     }
-  ]
+  ],
+  "category": "Classes"
 }

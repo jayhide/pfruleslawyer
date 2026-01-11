@@ -1,0 +1,16 @@
+{
+  "file": "geomessage.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/g/geomessage/",
+  "source_name": "Spell: Geomessage",
+  "sections": [
+    {
+      "id": "geomessage",
+      "title": "Geomessage",
+      "anchor_heading": "# Geomessage",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Geomessage, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

@@ -1,0 +1,16 @@
+{
+  "file": "ray-of-frost.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/r/ray-of-frost/",
+  "source_name": "Spell: Ray of Frost",
+  "sections": [
+    {
+      "id": "ray_of_frost",
+      "title": "Ray of Frost",
+      "anchor_heading": "# Ray of Frost",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Ray of Frost, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

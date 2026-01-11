@@ -1,0 +1,16 @@
+{
+  "file": "silverlight.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/s/silverlight/",
+  "source_name": "Spell: Silverlight",
+  "sections": [
+    {
+      "id": "silverlight",
+      "title": "Silverlight",
+      "anchor_heading": "# Silverlight",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Silverlight, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

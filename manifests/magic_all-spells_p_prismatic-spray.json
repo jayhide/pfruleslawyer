@@ -1,0 +1,16 @@
+{
+  "file": "prismatic-spray.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/p/prismatic-spray/",
+  "source_name": "Spell: Prismatic Spray",
+  "sections": [
+    {
+      "id": "prismatic_spray",
+      "title": "Prismatic Spray",
+      "anchor_heading": "# Prismatic Spray",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Prismatic Spray, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

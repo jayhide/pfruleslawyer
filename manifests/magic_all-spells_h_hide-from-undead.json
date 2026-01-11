@@ -1,0 +1,16 @@
+{
+  "file": "hide-from-undead.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/h/hide-from-undead/",
+  "source_name": "Spell: Hide from Undead",
+  "sections": [
+    {
+      "id": "hide_from_undead",
+      "title": "Hide from Undead",
+      "anchor_heading": "# Hide from Undead",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Hide from Undead, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

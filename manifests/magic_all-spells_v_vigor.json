@@ -1,0 +1,16 @@
+{
+  "file": "vigor.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/v/vigor/",
+  "source_name": "Spell: Vigor",
+  "sections": [
+    {
+      "id": "vigor",
+      "title": "Vigor",
+      "anchor_heading": "# Vigor",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Vigor, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

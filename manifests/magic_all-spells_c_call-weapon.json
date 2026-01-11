@@ -1,0 +1,16 @@
+{
+  "file": "call-weapon.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/c/call-weapon/",
+  "source_name": "Spell: Call Weapon",
+  "sections": [
+    {
+      "id": "call_weapon",
+      "title": "Call Weapon",
+      "anchor_heading": "# Call Weapon",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Call Weapon, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

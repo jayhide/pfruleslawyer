@@ -1,0 +1,16 @@
+{
+  "file": "majestic-image.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/m/majestic-image/",
+  "source_name": "Spell: Majestic Image",
+  "sections": [
+    {
+      "id": "majestic_image",
+      "title": "Majestic Image",
+      "anchor_heading": "# Majestic Image",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Majestic Image, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

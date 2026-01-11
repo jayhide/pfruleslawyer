@@ -1,0 +1,16 @@
+{
+  "file": "adhesive-blood.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/a/adhesive-blood/",
+  "source_name": "Spell: Adhesive Blood",
+  "sections": [
+    {
+      "id": "adhesive_blood",
+      "title": "Adhesive Blood",
+      "anchor_heading": "# Adhesive Blood",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Adhesive Blood, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

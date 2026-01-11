@@ -1,0 +1,16 @@
+{
+  "file": "stabilize-powder.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/s/stabilize-powder/",
+  "source_name": "Spell: Stabilize Powder",
+  "sections": [
+    {
+      "id": "stabilize_powder",
+      "title": "Stabilize Powder",
+      "anchor_heading": "# Stabilize Powder",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Stabilize Powder, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

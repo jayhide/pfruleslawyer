@@ -1,0 +1,16 @@
+{
+  "file": "crown-of-glory.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/c/crown-of-glory/",
+  "source_name": "Spell: Crown of Glory",
+  "sections": [
+    {
+      "id": "crown_of_glory",
+      "title": "Crown of Glory",
+      "anchor_heading": "# Crown of Glory",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Crown of Glory, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

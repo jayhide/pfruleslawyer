@@ -1,0 +1,16 @@
+{
+  "file": "sharesister.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/s/sharesister/",
+  "source_name": "Spell: Sharesister",
+  "sections": [
+    {
+      "id": "sharesister",
+      "title": "Sharesister",
+      "anchor_heading": "# Sharesister",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Sharesister, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

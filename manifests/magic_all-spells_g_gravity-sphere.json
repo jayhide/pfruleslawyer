@@ -1,0 +1,16 @@
+{
+  "file": "gravity-sphere.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/g/gravity-sphere/",
+  "source_name": "Spell: Gravity Sphere",
+  "sections": [
+    {
+      "id": "gravity_sphere",
+      "title": "Gravity Sphere",
+      "anchor_heading": "# Gravity Sphere",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Gravity Sphere, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

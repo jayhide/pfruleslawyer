@@ -1,0 +1,16 @@
+{
+  "file": "tiny-hut.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/t/tiny-hut/",
+  "source_name": "Spell: Tiny Hut",
+  "sections": [
+    {
+      "id": "tiny_hut",
+      "title": "Tiny Hut",
+      "anchor_heading": "# Tiny Hut",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Tiny Hut, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

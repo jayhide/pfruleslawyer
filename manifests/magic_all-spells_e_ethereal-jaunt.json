@@ -1,0 +1,16 @@
+{
+  "file": "ethereal-jaunt.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/e/ethereal-jaunt/",
+  "source_name": "Spell: Ethereal Jaunt",
+  "sections": [
+    {
+      "id": "ethereal_jaunt",
+      "title": "Ethereal Jaunt",
+      "anchor_heading": "# Ethereal Jaunt",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Ethereal Jaunt, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

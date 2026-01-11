@@ -1,0 +1,16 @@
+{
+  "file": "shadow-trap.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/s/shadow-trap/",
+  "source_name": "Spell: Shadow Trap",
+  "sections": [
+    {
+      "id": "shadow_trap",
+      "title": "Shadow Trap",
+      "anchor_heading": "# Shadow Trap",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Shadow Trap, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

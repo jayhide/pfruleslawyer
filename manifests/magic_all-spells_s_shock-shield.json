@@ -1,0 +1,16 @@
+{
+  "file": "shock-shield.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/s/shock-shield/",
+  "source_name": "Spell: Shock Shield",
+  "sections": [
+    {
+      "id": "shock_shield",
+      "title": "Shock Shield",
+      "anchor_heading": "# Shock Shield",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Shock Shield, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

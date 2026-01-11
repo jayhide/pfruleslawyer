@@ -1,0 +1,16 @@
+{
+  "file": "contagious-zeal.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/c/contagious-zeal/",
+  "source_name": "Spell: Contagious Zeal",
+  "sections": [
+    {
+      "id": "contagious_zeal",
+      "title": "Contagious Zeal",
+      "anchor_heading": "# Contagious Zeal",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Contagious Zeal, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

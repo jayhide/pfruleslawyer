@@ -1,0 +1,16 @@
+{
+  "file": "shield-of-law.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/s/shield-of-law/",
+  "source_name": "Spell: Shield of Law",
+  "sections": [
+    {
+      "id": "shield_of_law",
+      "title": "Shield of Law",
+      "anchor_heading": "# Shield of Law",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Shield of Law, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

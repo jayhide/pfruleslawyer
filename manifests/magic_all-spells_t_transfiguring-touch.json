@@ -1,0 +1,16 @@
+{
+  "file": "transfiguring-touch.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/t/transfiguring-touch/",
+  "source_name": "Spell: Transfiguring Touch",
+  "sections": [
+    {
+      "id": "transfiguring_touch",
+      "title": "Transfiguring Touch",
+      "anchor_heading": "# Transfiguring Touch",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Transfiguring Touch, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

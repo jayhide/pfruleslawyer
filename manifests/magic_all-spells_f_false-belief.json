@@ -1,0 +1,16 @@
+{
+  "file": "false-belief.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/f/false-belief/",
+  "source_name": "Spell: False Belief",
+  "sections": [
+    {
+      "id": "false_belief",
+      "title": "False Belief",
+      "anchor_heading": "# False Belief",
+      "includes_subheadings": [],
+      "description": "Full description of the spell False Belief, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

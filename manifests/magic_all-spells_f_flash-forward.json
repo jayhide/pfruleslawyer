@@ -1,0 +1,16 @@
+{
+  "file": "flash-forward.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/f/flash-forward/",
+  "source_name": "Spell: Flash Forward",
+  "sections": [
+    {
+      "id": "flash_forward",
+      "title": "Flash Forward",
+      "anchor_heading": "# Flash Forward",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Flash Forward, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

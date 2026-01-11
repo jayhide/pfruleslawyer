@@ -1,0 +1,16 @@
+{
+  "file": "fluid-form.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/f/fluid-form/",
+  "source_name": "Spell: Fluid Form",
+  "sections": [
+    {
+      "id": "fluid_form",
+      "title": "Fluid Form",
+      "anchor_heading": "# Fluid Form",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Fluid Form, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

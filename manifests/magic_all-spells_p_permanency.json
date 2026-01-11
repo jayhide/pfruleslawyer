@@ -1,0 +1,16 @@
+{
+  "file": "permanency.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/p/permanency/",
+  "source_name": "Spell: Permanency",
+  "sections": [
+    {
+      "id": "permanency",
+      "title": "Permanency",
+      "anchor_heading": "# Permanency",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Permanency, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

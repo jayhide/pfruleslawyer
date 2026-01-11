@@ -1,0 +1,16 @@
+{
+  "file": "healing-token.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/h/healing-token/",
+  "source_name": "Spell: Healing Token",
+  "sections": [
+    {
+      "id": "healing_token",
+      "title": "Healing Token",
+      "anchor_heading": "# Healing Token",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Healing Token, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

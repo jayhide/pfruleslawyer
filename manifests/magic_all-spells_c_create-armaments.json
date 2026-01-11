@@ -1,0 +1,16 @@
+{
+  "file": "create-armaments.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/c/create-armaments/",
+  "source_name": "Spell: Create Armaments",
+  "sections": [
+    {
+      "id": "create_armaments",
+      "title": "Create Armaments",
+      "anchor_heading": "# Create Armaments",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Create Armaments, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

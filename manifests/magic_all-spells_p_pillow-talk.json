@@ -1,0 +1,16 @@
+{
+  "file": "pillow-talk.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/p/pillow-talk/",
+  "source_name": "Spell: Pillow Talk",
+  "sections": [
+    {
+      "id": "pillow_talk",
+      "title": "Pillow Talk",
+      "anchor_heading": "# Pillow Talk",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Pillow Talk, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

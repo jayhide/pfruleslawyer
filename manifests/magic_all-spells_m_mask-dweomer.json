@@ -1,0 +1,16 @@
+{
+  "file": "mask-dweomer.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/m/mask-dweomer/",
+  "source_name": "Spell: Mask Dweomer",
+  "sections": [
+    {
+      "id": "mask_dweomer",
+      "title": "Mask Dweomer",
+      "anchor_heading": "# Mask Dweomer",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Mask Dweomer, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

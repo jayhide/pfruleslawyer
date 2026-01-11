@@ -1,0 +1,16 @@
+{
+  "file": "blade-of-dark-triumph.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/b/blade-of-dark-triumph/",
+  "source_name": "Spell: Blade of Dark Triumph",
+  "sections": [
+    {
+      "id": "blade_of_dark_triumph",
+      "title": "Blade of Dark Triumph",
+      "anchor_heading": "# Blade of Dark Triumph",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Blade of Dark Triumph, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

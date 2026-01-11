@@ -1,0 +1,16 @@
+{
+  "file": "transfer-familiar.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/t/transfer-familiar/",
+  "source_name": "Spell: Transfer Familiar",
+  "sections": [
+    {
+      "id": "transfer_familiar",
+      "title": "Transfer Familiar",
+      "anchor_heading": "# Transfer Familiar",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Transfer Familiar, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

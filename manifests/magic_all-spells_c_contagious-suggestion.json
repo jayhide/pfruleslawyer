@@ -1,0 +1,16 @@
+{
+  "file": "contagious-suggestion.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/c/contagious-suggestion/",
+  "source_name": "Spell: Contagious Suggestion",
+  "sections": [
+    {
+      "id": "contagious_suggestion",
+      "title": "Contagious Suggestion",
+      "anchor_heading": "# Contagious Suggestion",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Contagious Suggestion, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

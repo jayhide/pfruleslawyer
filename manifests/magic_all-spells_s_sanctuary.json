@@ -1,0 +1,16 @@
+{
+  "file": "sanctuary.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/s/sanctuary/",
+  "source_name": "Spell: Sanctuary",
+  "sections": [
+    {
+      "id": "sanctuary",
+      "title": "Sanctuary",
+      "anchor_heading": "# Sanctuary",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Sanctuary, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

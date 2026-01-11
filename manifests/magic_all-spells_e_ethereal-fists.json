@@ -1,0 +1,16 @@
+{
+  "file": "ethereal-fists.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/e/ethereal-fists/",
+  "source_name": "Spell: Ethereal Fists",
+  "sections": [
+    {
+      "id": "ethereal_fists",
+      "title": "Ethereal Fists",
+      "anchor_heading": "# Ethereal Fists",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Ethereal Fists, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

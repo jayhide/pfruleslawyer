@@ -1,0 +1,16 @@
+{
+  "file": "resounding-clang.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/r/resounding-clang/",
+  "source_name": "Spell: Resounding Clang",
+  "sections": [
+    {
+      "id": "resounding_clang",
+      "title": "Resounding Clang",
+      "anchor_heading": "# Resounding Clang",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Resounding Clang, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

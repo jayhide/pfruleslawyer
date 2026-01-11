@@ -1,0 +1,16 @@
+{
+  "file": "vengeful-stinger.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/v/vengeful-stinger/",
+  "source_name": "Spell: Vengeful Stinger",
+  "sections": [
+    {
+      "id": "vengeful_stinger",
+      "title": "Vengeful Stinger",
+      "anchor_heading": "# Vengeful Stinger",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Vengeful Stinger, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

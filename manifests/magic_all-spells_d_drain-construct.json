@@ -1,0 +1,16 @@
+{
+  "file": "drain-construct.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/d/drain-construct/",
+  "source_name": "Spell: Drain Construct",
+  "sections": [
+    {
+      "id": "drain_construct",
+      "title": "Drain Construct",
+      "anchor_heading": "# Drain Construct",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Drain Construct, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

@@ -1,0 +1,16 @@
+{
+  "file": "questing-ward.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/q/questing-ward/",
+  "source_name": "Spell: Questing Stone",
+  "sections": [
+    {
+      "id": "questing_ward",
+      "title": "Questing Stone",
+      "anchor_heading": "# Questing Stone",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Questing Stone, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

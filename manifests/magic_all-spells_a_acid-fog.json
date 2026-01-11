@@ -1,0 +1,16 @@
+{
+  "file": "acid-fog.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/a/acid-fog/",
+  "source_name": "Spell: Acid Fog",
+  "sections": [
+    {
+      "id": "acid_fog",
+      "title": "Acid Fog",
+      "anchor_heading": "# Acid Fog",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Acid Fog, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

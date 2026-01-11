@@ -1,0 +1,16 @@
+{
+  "file": "guardian-of-faith.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/g/guardian-of-faith/",
+  "source_name": "Spell: Guardian of Faith",
+  "sections": [
+    {
+      "id": "guardian_of_faith",
+      "title": "Guardian of Faith",
+      "anchor_heading": "# Guardian of Faith",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Guardian of Faith, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

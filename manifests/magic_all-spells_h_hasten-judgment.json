@@ -1,0 +1,16 @@
+{
+  "file": "hasten-judgment.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/h/hasten-judgment/",
+  "source_name": "Spell: Hasten Judgment",
+  "sections": [
+    {
+      "id": "hasten_judgment",
+      "title": "Hasten Judgment",
+      "anchor_heading": "# Hasten Judgment",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Hasten Judgment, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

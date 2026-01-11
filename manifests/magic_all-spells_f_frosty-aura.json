@@ -1,0 +1,16 @@
+{
+  "file": "frosty-aura.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/f/frosty-aura/",
+  "source_name": "Spell: Frosty Aura",
+  "sections": [
+    {
+      "id": "frosty_aura",
+      "title": "Frosty Aura",
+      "anchor_heading": "# Frosty Aura",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Frosty Aura, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

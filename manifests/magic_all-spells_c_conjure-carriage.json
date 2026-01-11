@@ -1,0 +1,16 @@
+{
+  "file": "conjure-carriage.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/c/conjure-carriage/",
+  "source_name": "Spell: Conjure Carriage",
+  "sections": [
+    {
+      "id": "conjure_carriage",
+      "title": "Conjure Carriage",
+      "anchor_heading": "# Conjure Carriage",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Conjure Carriage, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

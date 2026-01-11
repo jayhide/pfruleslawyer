@@ -1,0 +1,16 @@
+{
+  "file": "know-direction.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/k/know-direction/",
+  "source_name": "Spell: Know Direction",
+  "sections": [
+    {
+      "id": "know_direction",
+      "title": "Know Direction",
+      "anchor_heading": "# Know Direction",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Know Direction, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

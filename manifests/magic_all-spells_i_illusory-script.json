@@ -1,0 +1,16 @@
+{
+  "file": "illusory-script.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/i/illusory-script/",
+  "source_name": "Spell: Illusory Script",
+  "sections": [
+    {
+      "id": "illusory_script",
+      "title": "Illusory Script",
+      "anchor_heading": "# Illusory Script",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Illusory Script, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

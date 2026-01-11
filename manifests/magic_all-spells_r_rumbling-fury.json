@@ -1,0 +1,16 @@
+{
+  "file": "rumbling-fury.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/r/rumbling-fury/",
+  "source_name": "Spell: Rumbling Fury",
+  "sections": [
+    {
+      "id": "rumbling_fury",
+      "title": "Rumbling Fury",
+      "anchor_heading": "# Rumbling Fury",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Rumbling Fury, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

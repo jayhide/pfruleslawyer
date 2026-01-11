@@ -1,0 +1,16 @@
+{
+  "file": "ghost-whip.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/g/ghost-whip/",
+  "source_name": "Spell: Ghost Whip",
+  "sections": [
+    {
+      "id": "ghost_whip",
+      "title": "Ghost Whip",
+      "anchor_heading": "# Ghost Whip",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Ghost Whip, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

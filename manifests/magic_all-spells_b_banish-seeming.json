@@ -1,0 +1,16 @@
+{
+  "file": "banish-seeming.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/b/banish-seeming/",
+  "source_name": "Spell: Banish Seeming",
+  "sections": [
+    {
+      "id": "banish_seeming",
+      "title": "Banish Seeming",
+      "anchor_heading": "# Banish Seeming",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Banish Seeming, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

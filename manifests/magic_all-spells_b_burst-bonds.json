@@ -1,0 +1,16 @@
+{
+  "file": "burst-bonds.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/b/burst-bonds/",
+  "source_name": "Spell: Burst Bonds",
+  "sections": [
+    {
+      "id": "burst_bonds",
+      "title": "Burst Bonds",
+      "anchor_heading": "# Burst Bonds",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Burst Bonds, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

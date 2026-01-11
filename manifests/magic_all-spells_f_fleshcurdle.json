@@ -1,0 +1,16 @@
+{
+  "file": "fleshcurdle.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/f/fleshcurdle/",
+  "source_name": "Spell: Fleshcurdle",
+  "sections": [
+    {
+      "id": "fleshcurdle",
+      "title": "Fleshcurdle",
+      "anchor_heading": "# Fleshcurdle",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Fleshcurdle, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

@@ -1,0 +1,16 @@
+{
+  "file": "hellmouth-lash.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/h/hellmouth-lash/",
+  "source_name": "Spell: Hellmouth Lash",
+  "sections": [
+    {
+      "id": "hellmouth_lash",
+      "title": "Hellmouth Lash",
+      "anchor_heading": "# Hellmouth Lash",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Hellmouth Lash, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

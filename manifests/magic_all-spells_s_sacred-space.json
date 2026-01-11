@@ -1,0 +1,16 @@
+{
+  "file": "sacred-space.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/s/sacred-space/",
+  "source_name": "Spell: Sacred Space",
+  "sections": [
+    {
+      "id": "sacred_space",
+      "title": "Sacred Space",
+      "anchor_heading": "# Sacred Space",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Sacred Space, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

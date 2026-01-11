@@ -1,0 +1,16 @@
+{
+  "file": "harvest-knowledge.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/h/harvest-knowledge/",
+  "source_name": "Spell: Harvest Knowledge",
+  "sections": [
+    {
+      "id": "harvest_knowledge",
+      "title": "Harvest Knowledge",
+      "anchor_heading": "# Harvest Knowledge",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Harvest Knowledge, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

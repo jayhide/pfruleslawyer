@@ -3,11 +3,11 @@
   "source_path": "https://www.d20pfsrd.com/gamemastering/afflictions/",
   "sections": [
     {
-      "id": "general_affliction_rules",
-      "title": "General Affliction Rules",
+      "id": "afflictions_overview",
+      "title": "Afflictions Overview",
       "anchor_heading": "# Afflictions",
       "includes_subheadings": [],
-      "description": "Core mechanics for how all afflictions work, including save structure, onset times, frequency, effects, and cures",
+      "description": "Basic rules for how all afflictions work, including saving throws, onset, frequency, effects, and cure conditions",
       "keywords": [
         "affliction",
         "saving throw",
@@ -17,28 +17,145 @@
       ]
     },
     {
-      "id": "disease_poison_progression_tracks",
-      "title": "Disease and Poison Progression Tracks (Optional Rules)",
+      "id": "diseases_poisons_optional_rules",
+      "title": "Diseases and Poisons Optional Rules",
       "anchor_heading": "## Diseases and Poisons Optional Rules",
       "includes_subheadings": [
-        "#### Progression and End States",
-        "#### Diseases",
-        "#### Physical Disease Track",
-        "#### Mental Disease Track",
-        "#### Poisons",
-        "#### Strength Poison Track",
-        "#### Dexterity Poison Track",
-        "#### Constitution Poison Track",
-        "#### Intelligence Poison Track",
-        "#### Wisdom Poison Track",
-        "#### Charisma Poison Track"
+        "#### Progression and End States"
       ],
-      "description": "Optional progression track system for diseases and poisons that create escalating conditions rather than simple ability damage",
+      "description": "Alternative system for diseases and poisons using progression tracks instead of ability damage",
       "keywords": [
         "progression track",
+        "end state",
+        "optional rules"
+      ]
+    },
+    {
+      "id": "diseases_optional_system",
+      "title": "Diseases Optional System",
+      "anchor_heading": "#### Diseases",
+      "includes_subheadings": [],
+      "description": "How the optional disease track system works, including cure conditions and recovery",
+      "keywords": [
         "disease track",
+        "latent",
+        "carrier",
+        "recovery"
+      ]
+    },
+    {
+      "id": "physical_disease_track",
+      "title": "Physical Disease Track",
+      "anchor_heading": "#### Physical Disease Track",
+      "includes_subheadings": [],
+      "description": "Progression track for diseases affecting physical ability scores, from healthy to dead",
+      "keywords": [
+        "physical disease",
+        "weakened",
+        "impaired",
+        "disabled",
+        "bedridden",
+        "comatose"
+      ]
+    },
+    {
+      "id": "mental_disease_track",
+      "title": "Mental Disease Track",
+      "anchor_heading": "#### Mental Disease Track",
+      "includes_subheadings": [],
+      "description": "Progression track for diseases affecting mental ability scores, from healthy to dead",
+      "keywords": [
+        "mental disease",
+        "befuddled",
+        "deranged",
+        "shaken"
+      ]
+    },
+    {
+      "id": "poisons_optional_system",
+      "title": "Poisons Optional System",
+      "anchor_heading": "#### Poisons",
+      "includes_subheadings": [],
+      "description": "How the optional poison track system works, including poison damage and recovery",
+      "keywords": [
         "poison track",
-        "end state"
+        "poison damage",
+        "multiple doses"
+      ]
+    },
+    {
+      "id": "strength_poison_track",
+      "title": "Strength Poison Track",
+      "anchor_heading": "#### Strength Poison Track",
+      "includes_subheadings": [],
+      "description": "Progression track for poisons affecting Strength, from healthy to immobile to dead",
+      "keywords": [
+        "strength poison",
+        "muscle atrophy",
+        "immobile",
+        "staggered"
+      ]
+    },
+    {
+      "id": "dexterity_poison_track",
+      "title": "Dexterity Poison Track",
+      "anchor_heading": "#### Dexterity Poison Track",
+      "includes_subheadings": [],
+      "description": "Progression track for poisons affecting Dexterity, from healthy to immobile to dead",
+      "keywords": [
+        "dexterity poison",
+        "sluggish",
+        "stiffened",
+        "flat-footed"
+      ]
+    },
+    {
+      "id": "constitution_poison_track",
+      "title": "Constitution Poison Track",
+      "anchor_heading": "#### Constitution Poison Track",
+      "includes_subheadings": [],
+      "description": "Progression track for poisons affecting Constitution, from healthy to unconscious to dead",
+      "keywords": [
+        "constitution poison",
+        "shock",
+        "immune system"
+      ]
+    },
+    {
+      "id": "intelligence_poison_track",
+      "title": "Intelligence Poison Track",
+      "anchor_heading": "#### Intelligence Poison Track",
+      "includes_subheadings": [],
+      "description": "Progression track for poisons affecting Intelligence, from healthy to animalistic to dead",
+      "keywords": [
+        "intelligence poison",
+        "animalistic",
+        "feeblemind"
+      ]
+    },
+    {
+      "id": "wisdom_poison_track",
+      "title": "Wisdom Poison Track",
+      "anchor_heading": "#### Wisdom Poison Track",
+      "includes_subheadings": [],
+      "description": "Progression track for poisons affecting Wisdom, from healthy to confused to dead",
+      "keywords": [
+        "wisdom poison",
+        "confused",
+        "awareness"
+      ]
+    },
+    {
+      "id": "charisma_poison_track",
+      "title": "Charisma Poison Track",
+      "anchor_heading": "#### Charisma Poison Track",
+      "includes_subheadings": [],
+      "description": "Progression track for poisons affecting Charisma, from healthy to pliable to dead",
+      "keywords": [
+        "charisma poison",
+        "pliable",
+        "catatonic",
+        "sense of self"
       ]
     },
     {
@@ -46,11 +163,11 @@
       "title": "Blinding Sickness",
       "anchor_heading": "#### Blinding Sickness",
       "includes_subheadings": [],
-      "description": "Disease that causes blindness at the impaired state on the physical disease track",
+      "description": "Disease that causes permanent blindness at the impaired state",
       "keywords": [
         "blinding sickness",
-        "disease",
-        "blind"
+        "permanent blind",
+        "ingested disease"
       ]
     },
     {
@@ -58,11 +175,11 @@
       "title": "Bubonic Plague",
       "anchor_heading": "#### Bubonic Plague",
       "includes_subheadings": [],
-      "description": "Disease that follows the physical disease track, transmitted by injury or inhalation",
+      "description": "Physical disease transmitted by injury or inhalation",
       "keywords": [
         "bubonic plague",
-        "disease",
-        "physical"
+        "injury disease",
+        "inhaled disease"
       ]
     },
     {
@@ -70,11 +187,10 @@
       "title": "Cackle Fever",
       "anchor_heading": "#### Cackle Fever",
       "includes_subheadings": [],
-      "description": "Inhaled disease that follows the mental disease track",
+      "description": "Mental disease transmitted by inhalation",
       "keywords": [
         "cackle fever",
-        "disease",
-        "mental",
+        "mental disease",
         "inhaled"
       ]
     },
@@ -86,9 +202,8 @@
       "description": "Mental disease that requires magic to cure and improve condition",
       "keywords": [
         "dementia dust",
-        "disease",
-        "mental",
-        "magic only"
+        "magic only",
+        "greater restoration"
       ]
     },
     {
@@ -96,12 +211,11 @@
       "title": "Demon Fever",
       "anchor_heading": "#### Demon Fever",
       "includes_subheadings": [],
-      "description": "Physical disease with permanent penalties at impaired state",
+      "description": "Physical disease with permanent penalties that require magical healing",
       "keywords": [
         "demon fever",
-        "disease",
-        "physical",
-        "permanent"
+        "permanent penalties",
+        "heal spell"
       ]
     },
     {
@@ -112,8 +226,8 @@
       "description": "Physical disease requiring three consecutive saves to cure",
       "keywords": [
         "devil chills",
-        "disease",
-        "physical"
+        "three saves",
+        "injury disease"
       ]
     },
     {
@@ -124,8 +238,7 @@
       "description": "Basic physical disease transmitted by injury",
       "keywords": [
         "filth fever",
-        "disease",
-        "physical",
+        "basic disease",
         "injury"
       ]
     },
@@ -134,12 +247,12 @@
       "title": "Leprosy",
       "anchor_heading": "#### Leprosy",
       "includes_subheadings": [],
-      "description": "Special physical disease with custom track ending at stiffened state",
+      "description": "Disease with special track that ends at stiffened state",
       "keywords": [
         "leprosy",
-        "disease",
-        "physical",
-        "custom track"
+        "special track",
+        "stiffened",
+        "contact disease"
       ]
     },
     {
@@ -147,11 +260,10 @@
       "title": "Mindfire",
       "anchor_heading": "#### Mindfire",
       "includes_subheadings": [],
-      "description": "Inhaled disease that follows the mental disease track",
+      "description": "Mental disease transmitted by inhalation",
       "keywords": [
         "mindfire",
-        "disease",
-        "mental",
+        "mental disease",
         "inhaled"
       ]
     },
@@ -160,13 +272,12 @@
       "title": "Mummy Rot",
       "anchor_heading": "#### Mummy Rot",
       "includes_subheadings": [],
-      "description": "Special disease affecting both physical and mental tracks simultaneously",
+      "description": "Disease affecting both physical and mental tracks simultaneously",
       "keywords": [
         "mummy rot",
-        "disease",
-        "physical",
-        "mental",
-        "curse"
+        "dual tracks",
+        "remove curse",
+        "remove disease"
       ]
     },
     {
@@ -174,12 +285,11 @@
       "title": "Red Ache",
       "anchor_heading": "#### Red Ache",
       "includes_subheadings": [],
-      "description": "Physical disease that also causes strength damage",
+      "description": "Physical disease that also causes Strength damage",
       "keywords": [
         "red ache",
-        "disease",
-        "physical",
-        "strength damage"
+        "strength damage",
+        "injury disease"
       ]
     },
     {
@@ -187,13 +297,11 @@
       "title": "Shakes",
       "anchor_heading": "#### Shakes",
       "includes_subheadings": [],
-      "description": "Contact disease that causes dexterity damage and follows physical track",
+      "description": "Physical disease that causes Dexterity damage through contact",
       "keywords": [
         "shakes",
-        "disease",
-        "physical",
         "dexterity damage",
-        "contact"
+        "contact disease"
       ]
     },
     {
@@ -201,13 +309,11 @@
       "title": "Slimy Doom",
       "anchor_heading": "#### Slimy Doom",
       "includes_subheadings": [],
-      "description": "Contact disease with permanent penalties from impaired state onward",
+      "description": "Physical disease with permanent penalties requiring magical healing",
       "keywords": [
         "slimy doom",
-        "disease",
-        "physical",
-        "contact",
-        "permanent"
+        "permanent penalties",
+        "contact disease"
       ]
     },
     {
@@ -215,11 +321,10 @@
       "title": "Black Lotus Extract",
       "anchor_heading": "#### Black Lotus Extract",
       "includes_subheadings": [],
-      "description": "Deadly contact poison with shortened constitution track",
+      "description": "Deadly Constitution poison with shortened track",
       "keywords": [
         "black lotus extract",
-        "poison",
-        "contact",
+        "contact poison",
         "constitution"
       ]
     },
@@ -228,13 +333,11 @@
       "title": "Blue Whinnis",
       "anchor_heading": "#### Blue Whinnis",
       "includes_subheadings": [],
-      "description": "Injury poison with shortened constitution track ending at unconscious",
+      "description": "Constitution poison that causes unconsciousness without death",
       "keywords": [
         "blue whinnis",
-        "poison",
-        "injury",
-        "constitution",
-        "unconscious"
+        "unconscious",
+        "injury poison"
       ]
     },
     {
@@ -242,12 +345,11 @@
       "title": "Deathblade",
       "anchor_heading": "#### Deathblade",
       "includes_subheadings": [],
-      "description": "Lethal injury poison following full constitution track",
+      "description": "Deadly Constitution poison applied to weapons",
       "keywords": [
         "deathblade",
-        "poison",
-        "injury",
-        "constitution"
+        "constitution poison",
+        "injury"
       ]
     },
     {
@@ -255,13 +357,12 @@
       "title": "Green Lotus",
       "anchor_heading": "#### Green Lotus",
       "includes_subheadings": [],
-      "description": "Contact poison affecting charisma with pliable end state",
+      "description": "Charisma poison that makes victims pliable and easily manipulated",
       "keywords": [
         "green lotus",
-        "poison",
-        "contact",
-        "charisma",
-        "pliable"
+        "charisma poison",
+        "pliable",
+        "contact"
       ]
     },
     {
@@ -269,12 +370,11 @@
       "title": "Id Moss",
       "anchor_heading": "#### Id Moss",
       "includes_subheadings": [],
-      "description": "Ingested poison that affects intelligence",
+      "description": "Intelligence poison that affects reasoning ability",
       "keywords": [
         "id moss",
-        "poison",
-        "ingested",
-        "intelligence"
+        "intelligence poison",
+        "ingested"
       ]
     },
     {
@@ -282,12 +382,11 @@
       "title": "Insanity Mist",
       "anchor_heading": "#### Insanity Mist",
       "includes_subheadings": [],
-      "description": "Inhaled poison that follows the wisdom track",
+      "description": "Wisdom poison that affects perception and awareness",
       "keywords": [
         "insanity mist",
-        "poison",
-        "inhaled",
-        "wisdom"
+        "wisdom poison",
+        "inhaled"
       ]
     },
     {
@@ -295,12 +394,11 @@
       "title": "Large Scorpion Venom",
       "anchor_heading": "#### Large Scorpion Venom",
       "includes_subheadings": [],
-      "description": "Injury poison that follows the strength track",
+      "description": "Strength poison from large scorpion stings",
       "keywords": [
         "large scorpion venom",
-        "poison",
-        "injury",
-        "strength"
+        "strength poison",
+        "injury"
       ]
     },
     {
@@ -308,12 +406,11 @@
       "title": "Small Centipede Poison",
       "anchor_heading": "#### Small Centipede Poison",
       "includes_subheadings": [],
-      "description": "Dexterity poison requiring two failed saves to progress past sluggish",
+      "description": "Dexterity poison requiring multiple failed saves to progress",
       "keywords": [
         "small centipede poison",
-        "poison",
-        "injury",
-        "dexterity"
+        "dexterity poison",
+        "multiple saves"
       ]
     },
     {
@@ -321,12 +418,12 @@
       "title": "Ungol Dust",
       "anchor_heading": "#### Ungol Dust",
       "includes_subheadings": [],
-      "description": "Inhaled charisma poison requiring magic to recover past weakened state",
+      "description": "Charisma poison with limited recovery without magical healing",
       "keywords": [
         "ungol dust",
-        "poison",
-        "inhaled",
-        "charisma"
+        "charisma poison",
+        "limited recovery",
+        "inhaled"
       ]
     },
     {
@@ -334,23 +431,68 @@
       "title": "Inebriation System",
       "anchor_heading": "### Inebriation",
       "includes_subheadings": [
-        "#### Levels of Inebriation",
-        "### Drinking and Fighting",
-        "### Strong Drinks",
-        "### Hangovers and Addiction",
-        "### Drinking Games"
+        "#### Levels of Inebriation"
       ],
-      "description": "Complete system for alcohol consumption with progression levels from sober to passed out, plus rules for hangovers and addiction",
+      "description": "Optional rules for alcohol consumption with five levels of intoxication from sober to passed out",
       "keywords": [
         "inebriation",
-        "drunk",
         "alcohol",
+        "drunk",
+        "tipsy",
+        "soused",
+        "passed out"
+      ]
+    },
+    {
+      "id": "drinking_and_fighting",
+      "title": "Drinking and Fighting",
+      "anchor_heading": "### Drinking and Fighting",
+      "includes_subheadings": [],
+      "description": "Rules for strong alcoholic beverages and their enhanced effects",
+      "keywords": [
+        "strong drinks",
+        "alcohol content",
+        "moonshine"
+      ]
+    },
+    {
+      "id": "strong_drinks",
+      "title": "Strong Drinks",
+      "anchor_heading": "### Strong Drinks",
+      "includes_subheadings": [],
+      "description": "Rules for recovering from alcohol effects over time",
+      "keywords": [
+        "sobering up",
+        "recovery",
+        "fortitude save"
+      ]
+    },
+    {
+      "id": "hangovers_and_addiction",
+      "title": "Hangovers and Addiction",
+      "anchor_heading": "### Hangovers and Addiction",
+      "includes_subheadings": [],
+      "description": "Rules for hangovers after heavy drinking and alcohol addiction mechanics",
+      "keywords": [
         "hangover",
         "addiction",
-        "tipsy",
-        "soused"
+        "sickened",
+        "moderate addiction"
+      ]
+    },
+    {
+      "id": "drinking_games",
+      "title": "Drinking Games",
+      "anchor_heading": "### Drinking Games",
+      "includes_subheadings": [],
+      "description": "Simple rules for running drinking contests and competitions",
+      "keywords": [
+        "drinking contest",
+        "drinking game",
+        "competition"
       ]
     }
   ],
-  "source_name": "Afflictions (Curses, Diseases, Poisons)"
+  "source_name": "Afflictions (Curses, Diseases, Poisons)",
+  "category": "Core Rules"
 }

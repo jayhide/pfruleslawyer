@@ -1,0 +1,16 @@
+{
+  "file": "power-word-stun.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/p/power-word-stun/",
+  "source_name": "Spell: Power Word Stun",
+  "sections": [
+    {
+      "id": "power_word_stun",
+      "title": "Power Word Stun",
+      "anchor_heading": "# Power Word Stun",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Power Word Stun, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

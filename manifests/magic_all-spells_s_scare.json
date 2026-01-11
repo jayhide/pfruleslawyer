@@ -1,0 +1,16 @@
+{
+  "file": "scare.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/s/scare/",
+  "source_name": "Spell: Scare",
+  "sections": [
+    {
+      "id": "scare",
+      "title": "Scare",
+      "anchor_heading": "# Scare",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Scare, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

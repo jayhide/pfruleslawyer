@@ -1,0 +1,16 @@
+{
+  "file": "temporal-regression.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/t/temporal-regression/",
+  "source_name": "Spell: Temporal Regression",
+  "sections": [
+    {
+      "id": "temporal_regression",
+      "title": "Temporal Regression",
+      "anchor_heading": "# Temporal Regression",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Temporal Regression, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

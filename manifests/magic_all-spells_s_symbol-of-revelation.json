@@ -1,0 +1,16 @@
+{
+  "file": "symbol-of-revelation.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/s/symbol-of-revelation/",
+  "source_name": "Spell: Symbol of Revelation",
+  "sections": [
+    {
+      "id": "symbol_of_revelation",
+      "title": "Symbol of Revelation",
+      "anchor_heading": "# Symbol of Revelation",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Symbol of Revelation, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

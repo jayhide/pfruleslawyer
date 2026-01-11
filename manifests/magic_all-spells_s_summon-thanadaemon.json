@@ -1,0 +1,16 @@
+{
+  "file": "summon-thanadaemon.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/s/summon-thanadaemon/",
+  "source_name": "Spell: Summon Thanadaemon",
+  "sections": [
+    {
+      "id": "summon_thanadaemon",
+      "title": "Summon Thanadaemon",
+      "anchor_heading": "# Summon Thanadaemon",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Summon Thanadaemon, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

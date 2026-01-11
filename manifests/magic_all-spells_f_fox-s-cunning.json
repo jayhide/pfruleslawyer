@@ -1,0 +1,16 @@
+{
+  "file": "fox-s-cunning.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/f/fox-s-cunning/",
+  "source_name": "Spell: Fox\u2019s Cunning",
+  "sections": [
+    {
+      "id": "fox_s_cunning",
+      "title": "Fox\u2019s Cunning",
+      "anchor_heading": "# Fox\u2019s Cunning",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Fox\u2019s Cunning, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

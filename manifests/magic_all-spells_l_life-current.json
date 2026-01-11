@@ -1,0 +1,16 @@
+{
+  "file": "life-current.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/l/life-current/",
+  "source_name": "Spell: Life Current",
+  "sections": [
+    {
+      "id": "life_current",
+      "title": "Life Current",
+      "anchor_heading": "# Life Current",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Life Current, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

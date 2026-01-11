@@ -1,0 +1,16 @@
+{
+  "file": "arcane-lock.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/a/arcane-lock/",
+  "source_name": "Spell: Arcane Lock",
+  "sections": [
+    {
+      "id": "arcane_lock",
+      "title": "Arcane Lock",
+      "anchor_heading": "# Arcane Lock",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Arcane Lock, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

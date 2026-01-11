@@ -1,0 +1,16 @@
+{
+  "file": "bestow-insight.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/b/bestow-insight/",
+  "source_name": "Spell: Bestow Insight",
+  "sections": [
+    {
+      "id": "bestow_insight",
+      "title": "Bestow Insight",
+      "anchor_heading": "# Bestow Insight",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Bestow Insight, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

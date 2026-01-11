@@ -1,0 +1,16 @@
+{
+  "file": "hidden-blades.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/h/hidden-blades/",
+  "source_name": "Spell: Hidden Blades",
+  "sections": [
+    {
+      "id": "hidden_blades",
+      "title": "Hidden Blades",
+      "anchor_heading": "# Hidden Blades",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Hidden Blades, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

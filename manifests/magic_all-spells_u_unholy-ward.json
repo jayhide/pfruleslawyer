@@ -1,0 +1,16 @@
+{
+  "file": "unholy-ward.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/u/unholy-ward/",
+  "source_name": "Spell: Unholy Ward",
+  "sections": [
+    {
+      "id": "unholy_ward",
+      "title": "Unholy Ward",
+      "anchor_heading": "# Unholy Ward",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Unholy Ward, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

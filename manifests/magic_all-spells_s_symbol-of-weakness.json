@@ -1,0 +1,16 @@
+{
+  "file": "symbol-of-weakness.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/s/symbol-of-weakness/",
+  "source_name": "Spell: Symbol of Weakness",
+  "sections": [
+    {
+      "id": "symbol_of_weakness",
+      "title": "Symbol of Weakness",
+      "anchor_heading": "# Symbol of Weakness",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Symbol of Weakness, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

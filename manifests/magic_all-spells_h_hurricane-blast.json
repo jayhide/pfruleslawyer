@@ -1,0 +1,16 @@
+{
+  "file": "hurricane-blast.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/h/hurricane-blast/",
+  "source_name": "Spell: Hurricane Blast",
+  "sections": [
+    {
+      "id": "hurricane_blast",
+      "title": "Hurricane Blast",
+      "anchor_heading": "# Hurricane Blast",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Hurricane Blast, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

@@ -1,0 +1,16 @@
+{
+  "file": "hold-fey.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/h/hold-fey/",
+  "source_name": "Spell: Hold Fey",
+  "sections": [
+    {
+      "id": "hold_fey",
+      "title": "Hold Fey",
+      "anchor_heading": "# Hold Fey",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Hold Fey, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

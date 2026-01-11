@@ -1,0 +1,16 @@
+{
+  "file": "tomb-legion.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/t/tomb-legion/",
+  "source_name": "Spell: Tomb Legion",
+  "sections": [
+    {
+      "id": "tomb_legion",
+      "title": "Tomb Legion",
+      "anchor_heading": "# Tomb Legion",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Tomb Legion, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

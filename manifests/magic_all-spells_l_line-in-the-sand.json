@@ -1,0 +1,16 @@
+{
+  "file": "line-in-the-sand.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/l/line-in-the-sand/",
+  "source_name": "Spell: Line In The Sand",
+  "sections": [
+    {
+      "id": "line_in_the_sand",
+      "title": "Line In The Sand",
+      "anchor_heading": "# Line In The Sand",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Line In The Sand, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

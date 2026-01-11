@@ -1,0 +1,16 @@
+{
+  "file": "dispel-law.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/d/dispel-law/",
+  "source_name": "Spell: Dispel Law",
+  "sections": [
+    {
+      "id": "dispel_law",
+      "title": "Dispel Law",
+      "anchor_heading": "# Dispel Law",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Dispel Law, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

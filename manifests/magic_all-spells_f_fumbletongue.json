@@ -1,0 +1,16 @@
+{
+  "file": "fumbletongue.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/f/fumbletongue/",
+  "source_name": "Spell: Fumbletongue",
+  "sections": [
+    {
+      "id": "fumbletongue",
+      "title": "Fumbletongue",
+      "anchor_heading": "# Fumbletongue",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Fumbletongue, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

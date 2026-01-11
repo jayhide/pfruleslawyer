@@ -1,0 +1,16 @@
+{
+  "file": "vomit-swarm.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/v/vomit-swarm/",
+  "source_name": "Spell: Vomit Swarm",
+  "sections": [
+    {
+      "id": "vomit_swarm",
+      "title": "Vomit Swarm",
+      "anchor_heading": "# Vomit Swarm",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Vomit Swarm, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

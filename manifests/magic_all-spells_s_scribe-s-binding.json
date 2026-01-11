@@ -1,0 +1,16 @@
+{
+  "file": "scribe-s-binding.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/s/scribe-s-binding/",
+  "source_name": "Spell: Scribe\u2019s Binding",
+  "sections": [
+    {
+      "id": "scribe_s_binding",
+      "title": "Scribe\u2019s Binding",
+      "anchor_heading": "# Scribe\u2019s Binding",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Scribe\u2019s Binding, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

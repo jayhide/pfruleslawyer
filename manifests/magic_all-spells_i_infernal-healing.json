@@ -1,0 +1,16 @@
+{
+  "file": "infernal-healing.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/i/infernal-healing/",
+  "source_name": "Spell: Infernal Healing",
+  "sections": [
+    {
+      "id": "infernal_healing",
+      "title": "Infernal Healing",
+      "anchor_heading": "# Infernal Healing",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Infernal Healing, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

@@ -1,0 +1,16 @@
+{
+  "file": "aqueous-orb.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/a/aqueous-orb/",
+  "source_name": "Spell: Aqueous Orb",
+  "sections": [
+    {
+      "id": "aqueous_orb",
+      "title": "Aqueous Orb",
+      "anchor_heading": "# Aqueous Orb",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Aqueous Orb, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

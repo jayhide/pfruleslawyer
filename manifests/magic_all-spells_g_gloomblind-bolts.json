@@ -1,0 +1,16 @@
+{
+  "file": "gloomblind-bolts.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/g/gloomblind-bolts/",
+  "source_name": "Spell: Gloomblind Bolts",
+  "sections": [
+    {
+      "id": "gloomblind_bolts",
+      "title": "Gloomblind Bolts",
+      "anchor_heading": "# Gloomblind Bolts",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Gloomblind Bolts, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

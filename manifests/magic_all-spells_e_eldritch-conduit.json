@@ -1,0 +1,16 @@
+{
+  "file": "eldritch-conduit.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/e/eldritch-conduit/",
+  "source_name": "Spell: Eldritch Conduit",
+  "sections": [
+    {
+      "id": "eldritch_conduit",
+      "title": "Eldritch Conduit",
+      "anchor_heading": "# Eldritch Conduit",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Eldritch Conduit, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

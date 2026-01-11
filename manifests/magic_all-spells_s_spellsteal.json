@@ -1,0 +1,16 @@
+{
+  "file": "spellsteal.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/s/spellsteal/",
+  "source_name": "Spell: Spellsteal",
+  "sections": [
+    {
+      "id": "spellsteal",
+      "title": "Spellsteal",
+      "anchor_heading": "# Spellsteal",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Spellsteal, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

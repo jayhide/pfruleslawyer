@@ -1,0 +1,16 @@
+{
+  "file": "impart-mind.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/i/impart-mind/",
+  "source_name": "Spell: Impart Mind",
+  "sections": [
+    {
+      "id": "impart_mind",
+      "title": "Impart Mind",
+      "anchor_heading": "# Impart Mind",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Impart Mind, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

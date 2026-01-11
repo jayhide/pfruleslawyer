@@ -1,0 +1,16 @@
+{
+  "file": "solidify-earth.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/s/solidify-earth/",
+  "source_name": "Spell: Solidify Earth",
+  "sections": [
+    {
+      "id": "solidify_earth",
+      "title": "Solidify Earth",
+      "anchor_heading": "# Solidify Earth",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Solidify Earth, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

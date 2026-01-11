@@ -1,0 +1,16 @@
+{
+  "file": "firebelly.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/f/firebelly/",
+  "source_name": "Spell: Firebelly",
+  "sections": [
+    {
+      "id": "firebelly",
+      "title": "Firebelly",
+      "anchor_heading": "# Firebelly",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Firebelly, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

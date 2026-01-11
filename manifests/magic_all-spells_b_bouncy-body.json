@@ -1,0 +1,16 @@
+{
+  "file": "bouncy-body.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/b/bouncy-body/",
+  "source_name": "Spell: Bouncy Body",
+  "sections": [
+    {
+      "id": "bouncy_body",
+      "title": "Bouncy Body",
+      "anchor_heading": "# Bouncy Body",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Bouncy Body, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

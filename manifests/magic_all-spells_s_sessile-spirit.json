@@ -1,0 +1,16 @@
+{
+  "file": "sessile-spirit.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/s/sessile-spirit/",
+  "source_name": "Spell: Sessile Spirit",
+  "sections": [
+    {
+      "id": "sessile_spirit",
+      "title": "Sessile Spirit",
+      "anchor_heading": "# Sessile Spirit",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Sessile Spirit, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

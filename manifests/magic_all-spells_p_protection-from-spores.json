@@ -1,0 +1,16 @@
+{
+  "file": "protection-from-spores.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/p/protection-from-spores/",
+  "source_name": "Spell: Protection from Spores",
+  "sections": [
+    {
+      "id": "protection_from_spores",
+      "title": "Protection from Spores",
+      "anchor_heading": "# Protection from Spores",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Protection from Spores, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

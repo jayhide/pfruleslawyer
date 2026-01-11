@@ -1,0 +1,16 @@
+{
+  "file": "banishing-blade.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/b/banishing-blade/",
+  "source_name": "Spell: Banishing Blade",
+  "sections": [
+    {
+      "id": "banishing_blade",
+      "title": "Banishing Blade",
+      "anchor_heading": "# Banishing Blade",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Banishing Blade, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

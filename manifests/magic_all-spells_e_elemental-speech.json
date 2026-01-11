@@ -1,0 +1,16 @@
+{
+  "file": "elemental-speech.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/e/elemental-speech/",
+  "source_name": "Spell: Elemental Speech",
+  "sections": [
+    {
+      "id": "elemental_speech",
+      "title": "Elemental Speech",
+      "anchor_heading": "# Elemental Speech",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Elemental Speech, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

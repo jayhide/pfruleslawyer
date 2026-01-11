@@ -1,0 +1,16 @@
+{
+  "file": "ride-the-waves.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/r/ride-the-waves/",
+  "source_name": "Spell: Ride the Waves",
+  "sections": [
+    {
+      "id": "ride_the_waves",
+      "title": "Ride the Waves",
+      "anchor_heading": "# Ride the Waves",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Ride the Waves, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

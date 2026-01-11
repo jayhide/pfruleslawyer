@@ -1,0 +1,16 @@
+{
+  "file": "ancestral-regression.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/a/ancestral-regression/",
+  "source_name": "Spell: Ancestral Regression",
+  "sections": [
+    {
+      "id": "ancestral_regression",
+      "title": "Ancestral Regression",
+      "anchor_heading": "# Ancestral Regression",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Ancestral Regression, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

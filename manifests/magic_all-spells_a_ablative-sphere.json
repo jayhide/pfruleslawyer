@@ -1,0 +1,16 @@
+{
+  "file": "ablative-sphere.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/a/ablative-sphere/",
+  "source_name": "Spell: Ablative Sphere",
+  "sections": [
+    {
+      "id": "ablative_sphere",
+      "title": "Ablative Sphere",
+      "anchor_heading": "# Ablative Sphere",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Ablative Sphere, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

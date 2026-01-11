@@ -1,0 +1,16 @@
+{
+  "file": "snowball.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/s/snowball/",
+  "source_name": "Spell: Snowball",
+  "sections": [
+    {
+      "id": "snowball",
+      "title": "Snowball",
+      "anchor_heading": "# Snowball",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Snowball, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

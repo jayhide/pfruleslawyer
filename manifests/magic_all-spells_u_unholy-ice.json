@@ -1,0 +1,16 @@
+{
+  "file": "unholy-ice.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/u/unholy-ice/",
+  "source_name": "Spell: Unholy Ice",
+  "sections": [
+    {
+      "id": "unholy_ice",
+      "title": "Unholy Ice",
+      "anchor_heading": "# Unholy Ice",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Unholy Ice, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

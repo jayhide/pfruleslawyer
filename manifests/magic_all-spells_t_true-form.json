@@ -1,0 +1,16 @@
+{
+  "file": "true-form.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/t/true-form/",
+  "source_name": "Spell: True Form",
+  "sections": [
+    {
+      "id": "true_form",
+      "title": "True Form",
+      "anchor_heading": "# True Form",
+      "includes_subheadings": [],
+      "description": "Full description of the spell True Form, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

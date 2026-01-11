@@ -1,0 +1,16 @@
+{
+  "file": "archon-s-aura.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/a/archon-s-aura/",
+  "source_name": "Spell: Archon\u2019s Aura",
+  "sections": [
+    {
+      "id": "archon_s_aura",
+      "title": "Archon\u2019s Aura",
+      "anchor_heading": "# Archon\u2019s Aura",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Archon\u2019s Aura, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

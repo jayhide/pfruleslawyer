@@ -1,0 +1,16 @@
+{
+  "file": "desperate-weapon.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/d/desperate-weapon/",
+  "source_name": "Spell: Desperate Weapon",
+  "sections": [
+    {
+      "id": "desperate_weapon",
+      "title": "Desperate Weapon",
+      "anchor_heading": "# Desperate Weapon",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Desperate Weapon, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

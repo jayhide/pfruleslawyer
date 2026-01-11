@@ -1,0 +1,16 @@
+{
+  "file": "kinetic-reverberation.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/k/kinetic-reverberation/",
+  "source_name": "Spell: Kinetic Reverberation",
+  "sections": [
+    {
+      "id": "kinetic_reverberation",
+      "title": "Kinetic Reverberation",
+      "anchor_heading": "# Kinetic Reverberation",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Kinetic Reverberation, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

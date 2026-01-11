@@ -1,0 +1,16 @@
+{
+  "file": "break-enchantment.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/b/break-enchantment/",
+  "source_name": "Spell: Break Enchantment",
+  "sections": [
+    {
+      "id": "break_enchantment",
+      "title": "Break Enchantment",
+      "anchor_heading": "# Break Enchantment",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Break Enchantment, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

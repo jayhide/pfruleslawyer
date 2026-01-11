@@ -1,0 +1,16 @@
+{
+  "file": "absorb-toxicity.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/a/absorb-toxicity/",
+  "source_name": "Spell: Absorb Toxicity",
+  "sections": [
+    {
+      "id": "absorb_toxicity",
+      "title": "Absorb Toxicity",
+      "anchor_heading": "# Absorb Toxicity",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Absorb Toxicity, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

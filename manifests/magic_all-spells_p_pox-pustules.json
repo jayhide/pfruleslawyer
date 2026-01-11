@@ -1,0 +1,16 @@
+{
+  "file": "pox-pustules.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/p/pox-pustules/",
+  "source_name": "Spell: Pox Pustules",
+  "sections": [
+    {
+      "id": "pox_pustules",
+      "title": "Pox Pustules",
+      "anchor_heading": "# Pox Pustules",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Pox Pustules, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

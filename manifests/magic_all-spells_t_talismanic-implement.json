@@ -1,0 +1,16 @@
+{
+  "file": "talismanic-implement.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/t/talismanic-implement/",
+  "source_name": "Spell: Talismanic Implement",
+  "sections": [
+    {
+      "id": "talismanic_implement",
+      "title": "Talismanic Implement",
+      "anchor_heading": "# Talismanic Implement",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Talismanic Implement, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

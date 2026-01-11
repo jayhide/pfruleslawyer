@@ -1,0 +1,16 @@
+{
+  "file": "seed-spies.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/s/seed-spies/",
+  "source_name": "Spell: Seed Spies",
+  "sections": [
+    {
+      "id": "seed_spies",
+      "title": "Seed Spies",
+      "anchor_heading": "# Seed Spies",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Seed Spies, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

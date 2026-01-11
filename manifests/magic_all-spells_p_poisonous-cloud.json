@@ -1,0 +1,16 @@
+{
+  "file": "poisonous-cloud.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/p/poisonous-cloud/",
+  "source_name": "Spell: Poisonous Cloud",
+  "sections": [
+    {
+      "id": "poisonous_cloud",
+      "title": "Poisonous Cloud",
+      "anchor_heading": "# Poisonous Cloud",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Poisonous Cloud, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

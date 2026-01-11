@@ -1,0 +1,16 @@
+{
+  "file": "symbol-of-storms.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/s/symbol-of-storms/",
+  "source_name": "Spell: Symbol of Storms",
+  "sections": [
+    {
+      "id": "symbol_of_storms",
+      "title": "Symbol of Storms",
+      "anchor_heading": "# Symbol of Storms",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Symbol of Storms, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

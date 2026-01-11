@@ -79,22 +79,22 @@
         "#### Handle Animal Unchained",
         "### Feats for Animal Companions"
       ],
-      "description": "Rules for the Handle Animal skill, covering training animals, teaching tricks, commanding animal companions, and general animal handling mechanics.",
+      "description": "Rules for the Handle Animal skill, including teaching tricks, training animals for general purposes, and commanding animal companions in Pathfinder 1e.",
       "keywords": [
         "Handle Animal",
         "animal tricks",
         "train animal",
-        "push animal",
         "animal companion",
-        "combat training",
-        "domesticate animal",
-        "rear wild animal",
-        "animal commands",
-        "handle an animal",
+        "push animal",
+        "handle animal",
         "teach trick",
         "animal training",
-        "animal companion tricks"
+        "combat training",
+        "rear wild animal",
+        "animal purpose",
+        "domesticate animal"
       ]
     }
-  ]
+  ],
+  "category": "Skills"
 }

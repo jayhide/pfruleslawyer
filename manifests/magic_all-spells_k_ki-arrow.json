@@ -1,0 +1,16 @@
+{
+  "file": "ki-arrow.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/k/ki-arrow/",
+  "source_name": "Spell: Ki Arrow",
+  "sections": [
+    {
+      "id": "ki_arrow",
+      "title": "Ki Arrow",
+      "anchor_heading": "# Ki Arrow",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Ki Arrow, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

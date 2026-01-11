@@ -1,0 +1,16 @@
+{
+  "file": "righteous-condemnation.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/r/righteous-condemnation/",
+  "source_name": "Spell: Righteous Condemnation",
+  "sections": [
+    {
+      "id": "righteous_condemnation",
+      "title": "Righteous Condemnation",
+      "anchor_heading": "# Righteous Condemnation",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Righteous Condemnation, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

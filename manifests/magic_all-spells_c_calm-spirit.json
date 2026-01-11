@@ -1,0 +1,16 @@
+{
+  "file": "calm-spirit.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/c/calm-spirit/",
+  "source_name": "Spell: Calm Spirit",
+  "sections": [
+    {
+      "id": "calm_spirit",
+      "title": "Calm Spirit",
+      "anchor_heading": "# Calm Spirit",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Calm Spirit, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

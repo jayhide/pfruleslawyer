@@ -1,0 +1,16 @@
+{
+  "file": "sword-to-snake.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/s/sword-to-snake/",
+  "source_name": "Spell: Sword to Snake",
+  "sections": [
+    {
+      "id": "sword_to_snake",
+      "title": "Sword to Snake",
+      "anchor_heading": "# Sword to Snake",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Sword to Snake, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

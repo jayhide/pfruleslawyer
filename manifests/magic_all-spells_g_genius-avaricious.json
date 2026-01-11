@@ -1,0 +1,16 @@
+{
+  "file": "genius-avaricious.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/g/genius-avaricious/",
+  "source_name": "Spell: Genius Avaricious",
+  "sections": [
+    {
+      "id": "genius_avaricious",
+      "title": "Genius Avaricious",
+      "anchor_heading": "# Genius Avaricious",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Genius Avaricious, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

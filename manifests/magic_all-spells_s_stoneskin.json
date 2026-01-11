@@ -1,0 +1,16 @@
+{
+  "file": "stoneskin.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/s/stoneskin/",
+  "source_name": "Spell: Stoneskin",
+  "sections": [
+    {
+      "id": "stoneskin",
+      "title": "Stoneskin",
+      "anchor_heading": "# Stoneskin",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Stoneskin, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

@@ -1,0 +1,16 @@
+{
+  "file": "sift.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/s/sift/",
+  "source_name": "Spell: Sift",
+  "sections": [
+    {
+      "id": "sift",
+      "title": "Sift",
+      "anchor_heading": "# Sift",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Sift, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

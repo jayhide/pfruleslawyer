@@ -1,0 +1,16 @@
+{
+  "file": "ashen-path.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/a/ashen-path/",
+  "source_name": "Spell: Ashen Path",
+  "sections": [
+    {
+      "id": "ashen_path",
+      "title": "Ashen Path",
+      "anchor_heading": "# Ashen Path",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Ashen Path, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

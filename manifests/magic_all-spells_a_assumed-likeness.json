@@ -1,0 +1,16 @@
+{
+  "file": "assumed-likeness.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/a/assumed-likeness/",
+  "source_name": "Spell: Assumed Likeness",
+  "sections": [
+    {
+      "id": "assumed_likeness",
+      "title": "Assumed Likeness",
+      "anchor_heading": "# Assumed Likeness",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Assumed Likeness, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

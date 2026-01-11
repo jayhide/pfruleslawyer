@@ -1,0 +1,16 @@
+{
+  "file": "explosion-of-rot.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/e/explosion-of-rot/",
+  "source_name": "Spell: Explosion of Rot",
+  "sections": [
+    {
+      "id": "explosion_of_rot",
+      "title": "Explosion of Rot",
+      "anchor_heading": "# Explosion of Rot",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Explosion of Rot, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

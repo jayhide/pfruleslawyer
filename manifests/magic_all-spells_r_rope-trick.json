@@ -1,0 +1,16 @@
+{
+  "file": "rope-trick.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/r/rope-trick/",
+  "source_name": "Spell: Rope Trick",
+  "sections": [
+    {
+      "id": "rope_trick",
+      "title": "Rope Trick",
+      "anchor_heading": "# Rope Trick",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Rope Trick, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

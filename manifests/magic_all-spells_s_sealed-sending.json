@@ -1,0 +1,16 @@
+{
+  "file": "sealed-sending.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/s/sealed-sending/",
+  "source_name": "Spell: Sealed Sending",
+  "sections": [
+    {
+      "id": "sealed_sending",
+      "title": "Sealed Sending",
+      "anchor_heading": "# Sealed Sending",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Sealed Sending, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

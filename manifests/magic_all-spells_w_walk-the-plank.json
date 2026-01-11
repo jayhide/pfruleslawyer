@@ -1,0 +1,16 @@
+{
+  "file": "walk-the-plank.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/w/walk-the-plank/",
+  "source_name": "Spell: Walk the Plank",
+  "sections": [
+    {
+      "id": "walk_the_plank",
+      "title": "Walk the Plank",
+      "anchor_heading": "# Walk the Plank",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Walk the Plank, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

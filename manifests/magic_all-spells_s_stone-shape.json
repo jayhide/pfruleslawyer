@@ -1,0 +1,16 @@
+{
+  "file": "stone-shape.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/s/stone-shape/",
+  "source_name": "Spell: Stone Shape",
+  "sections": [
+    {
+      "id": "stone_shape",
+      "title": "Stone Shape",
+      "anchor_heading": "# Stone Shape",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Stone Shape, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

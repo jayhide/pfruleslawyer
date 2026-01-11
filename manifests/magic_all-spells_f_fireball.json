@@ -1,0 +1,16 @@
+{
+  "file": "fireball.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/f/fireball/",
+  "source_name": "Spell: Fireball",
+  "sections": [
+    {
+      "id": "fireball",
+      "title": "Fireball",
+      "anchor_heading": "# Fireball",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Fireball, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

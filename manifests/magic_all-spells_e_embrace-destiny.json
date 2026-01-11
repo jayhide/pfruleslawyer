@@ -1,0 +1,16 @@
+{
+  "file": "embrace-destiny.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/e/embrace-destiny/",
+  "source_name": "Spell: Embrace Destiny",
+  "sections": [
+    {
+      "id": "embrace_destiny",
+      "title": "Embrace Destiny",
+      "anchor_heading": "# Embrace Destiny",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Embrace Destiny, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

@@ -1,0 +1,16 @@
+{
+  "file": "detect-relations.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/d/detect-relations/",
+  "source_name": "Spell: Detect Relations",
+  "sections": [
+    {
+      "id": "detect_relations",
+      "title": "Detect Relations",
+      "anchor_heading": "# Detect Relations",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Detect Relations, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

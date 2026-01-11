@@ -1,0 +1,16 @@
+{
+  "file": "positive-pulse.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/p/positive-pulse/",
+  "source_name": "Spell: Positive Pulse",
+  "sections": [
+    {
+      "id": "positive_pulse",
+      "title": "Positive Pulse",
+      "anchor_heading": "# Positive Pulse",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Positive Pulse, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

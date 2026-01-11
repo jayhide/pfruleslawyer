@@ -22,26 +22,25 @@
         "#### Improved Quarry (Ex)",
         "#### Master Slayer (Ex)",
         "### Alternative Capstone Ability",
-        "#### Against the Odds (Ex)",
-        "## Favored Class Bonuses",
-        "## Archetypes & Alternate Class Features"
+        "#### Against the Odds (Ex)"
       ],
-      "description": "Rules for the Slayer hybrid class, covering class features like studied target, sneak attack, slayer talents, tracking abilities, and progression from 1st to 20th level.",
+      "description": "Complete rules for the Slayer hybrid class, covering class features like studied target, sneak attack, slayer talents, tracking abilities, and quarry mechanics.",
       "keywords": [
         "slayer",
         "studied target",
         "slayer talents",
-        "advanced talents",
         "sneak attack",
         "track",
         "stalker",
         "quarry",
         "improved quarry",
         "master slayer",
-        "swift tracker",
         "slayer's advance",
-        "against the odds"
+        "swift tracker",
+        "advanced talents",
+        "hybrid class"
       ]
     }
-  ]
+  ],
+  "category": "Classes"
 }

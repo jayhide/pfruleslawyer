@@ -1,0 +1,16 @@
+{
+  "file": "web-cloud.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/w/web-cloud/",
+  "source_name": "Spell: Web Cloud",
+  "sections": [
+    {
+      "id": "web_cloud",
+      "title": "Web Cloud",
+      "anchor_heading": "# Web Cloud",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Web Cloud, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

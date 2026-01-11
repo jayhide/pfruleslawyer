@@ -1,0 +1,16 @@
+{
+  "file": "burrow.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/b/burrow/",
+  "source_name": "Spell: Burrow",
+  "sections": [
+    {
+      "id": "burrow",
+      "title": "Burrow",
+      "anchor_heading": "# Burrow",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Burrow, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

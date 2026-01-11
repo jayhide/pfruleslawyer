@@ -16,6 +16,7 @@ from db import HtmlCacheDB
 from preprocess_sections import (
     process_markdown_full,
     process_markdown_simple,
+    process_markdown_template,
     get_source_name,
 )
 
@@ -108,6 +109,7 @@ def process_url(
     output_dir: Path,
     source_name: str | None = None,
     name_prefix: str | None = None,
+    category: str = "Uncategorized",
     model: str = "claude-sonnet-4-20250514",
     timeout: float = 300.0,
     verbose: bool = False,
@@ -123,6 +125,7 @@ def process_url(
         output_dir: Directory to save manifest
         source_name: Human-readable name for this source (from config)
         name_prefix: Prefix to prepend to page title (e.g., "Skill" -> "Skill: Acrobatics")
+        category: Category for this source (e.g., "Spells", "Skills", "Core Rules")
         model: Claude model to use
         timeout: API timeout in seconds
         verbose: Print detailed progress
@@ -151,6 +154,9 @@ def process_url(
     try:
         if mode == "full":
             manifest = process_markdown_full(client, markdown, url, model, timeout)
+        elif mode == "template":
+            # No LLM call - pure template-based processing
+            manifest = process_markdown_template(markdown, url, category)
         else:
             manifest = process_markdown_simple(client, markdown, url, model, timeout)
 
@@ -161,6 +167,9 @@ def process_url(
             # Generate name from prefix + page title
             title = extract_title_from_markdown(markdown)
             manifest["source_name"] = f"{name_prefix}: {title}"
+
+        # Store category for search weight customization
+        manifest["category"] = category
 
         # Save manifest
         with open(output_path, "w", encoding="utf-8") as f:
@@ -346,6 +355,7 @@ def main():
             output_dir=args.output_dir,
             source_name=source_name,
             name_prefix=name_prefix,
+            category=category,
             model=args.model,
             timeout=args.timeout,
             verbose=args.verbose,

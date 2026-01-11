@@ -1,0 +1,16 @@
+{
+  "file": "lucky-number.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/l/lucky-number/",
+  "source_name": "Spell: Lucky Number",
+  "sections": [
+    {
+      "id": "lucky_number",
+      "title": "Lucky Number",
+      "anchor_heading": "# Lucky Number",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Lucky Number, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

@@ -1,0 +1,16 @@
+{
+  "file": "threefold-aspect.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/t/threefold-aspect/",
+  "source_name": "Spell: Threefold Aspect",
+  "sections": [
+    {
+      "id": "threefold_aspect",
+      "title": "Threefold Aspect",
+      "anchor_heading": "# Threefold Aspect",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Threefold Aspect, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

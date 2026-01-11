@@ -1,0 +1,16 @@
+{
+  "file": "telepathic-bond.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/t/telepathic-bond/",
+  "source_name": "Spell: Telepathic Bond",
+  "sections": [
+    {
+      "id": "telepathic_bond",
+      "title": "Telepathic Bond",
+      "anchor_heading": "# Telepathic Bond",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Telepathic Bond, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

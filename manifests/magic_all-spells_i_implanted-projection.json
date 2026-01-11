@@ -1,0 +1,16 @@
+{
+  "file": "implanted-projection.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/i/implanted-projection/",
+  "source_name": "Spell: Implanted Projection",
+  "sections": [
+    {
+      "id": "implanted_projection",
+      "title": "Implanted Projection",
+      "anchor_heading": "# Implanted Projection",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Implanted Projection, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

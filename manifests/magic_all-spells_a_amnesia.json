@@ -1,0 +1,16 @@
+{
+  "file": "amnesia.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/a/amnesia/",
+  "source_name": "Spell: Amnesia",
+  "sections": [
+    {
+      "id": "amnesia",
+      "title": "Amnesia",
+      "anchor_heading": "# Amnesia",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Amnesia, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

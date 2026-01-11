@@ -1,0 +1,16 @@
+{
+  "file": "symbol-of-persuasion.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/s/symbol-of-persuasion/",
+  "source_name": "Spell: Symbol of Persuasion",
+  "sections": [
+    {
+      "id": "symbol_of_persuasion",
+      "title": "Symbol of Persuasion",
+      "anchor_heading": "# Symbol of Persuasion",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Symbol of Persuasion, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

@@ -1,0 +1,16 @@
+{
+  "file": "telekinetic-strikes.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/t/telekinetic-strikes/",
+  "source_name": "Spell: Telekinetic Strikes",
+  "sections": [
+    {
+      "id": "telekinetic_strikes",
+      "title": "Telekinetic Strikes",
+      "anchor_heading": "# Telekinetic Strikes",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Telekinetic Strikes, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

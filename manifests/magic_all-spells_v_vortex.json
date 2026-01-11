@@ -1,0 +1,16 @@
+{
+  "file": "vortex.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/v/vortex/",
+  "source_name": "Spell: Vortex",
+  "sections": [
+    {
+      "id": "vortex",
+      "title": "Vortex",
+      "anchor_heading": "# Vortex",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Vortex, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

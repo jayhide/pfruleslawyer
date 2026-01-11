@@ -1,0 +1,16 @@
+{
+  "file": "wooden-wing-shield.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/w/wooden-wing-shield/",
+  "source_name": "Spell: Wooden Wing Shield",
+  "sections": [
+    {
+      "id": "wooden_wing_shield",
+      "title": "Wooden Wing Shield",
+      "anchor_heading": "# Wooden Wing Shield",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Wooden Wing Shield, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

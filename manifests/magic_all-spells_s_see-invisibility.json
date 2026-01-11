@@ -1,0 +1,16 @@
+{
+  "file": "see-invisibility.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/s/see-invisibility/",
+  "source_name": "Spell: See Invisibility",
+  "sections": [
+    {
+      "id": "see_invisibility",
+      "title": "See Invisibility",
+      "anchor_heading": "# See Invisibility",
+      "includes_subheadings": [],
+      "description": "Full description of the spell See Invisibility, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

@@ -1,0 +1,16 @@
+{
+  "file": "symbol-of-strife.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/s/symbol-of-strife/",
+  "source_name": "Spell: Symbol of Strife",
+  "sections": [
+    {
+      "id": "symbol_of_strife",
+      "title": "Symbol of Strife",
+      "anchor_heading": "# Symbol of Strife",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Symbol of Strife, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

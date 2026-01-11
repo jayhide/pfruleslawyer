@@ -1,0 +1,16 @@
+{
+  "file": "icy-prison.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/i/icy-prison/",
+  "source_name": "Spell: Icy Prison",
+  "sections": [
+    {
+      "id": "icy_prison",
+      "title": "Icy Prison",
+      "anchor_heading": "# Icy Prison",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Icy Prison, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

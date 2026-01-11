@@ -1,0 +1,16 @@
+{
+  "file": "strong-jaw.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/s/strong-jaw/",
+  "source_name": "Spell: Strong Jaw",
+  "sections": [
+    {
+      "id": "strong_jaw",
+      "title": "Strong Jaw",
+      "anchor_heading": "# Strong Jaw",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Strong Jaw, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

@@ -1,0 +1,16 @@
+{
+  "file": "synesthesia.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/s/synesthesia/",
+  "source_name": "Spell: Synesthesia",
+  "sections": [
+    {
+      "id": "synesthesia",
+      "title": "Synesthesia",
+      "anchor_heading": "# Synesthesia",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Synesthesia, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

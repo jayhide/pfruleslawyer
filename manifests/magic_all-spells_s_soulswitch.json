@@ -1,0 +1,16 @@
+{
+  "file": "soulswitch.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/s/soulswitch/",
+  "source_name": "Spell: Soulswitch",
+  "sections": [
+    {
+      "id": "soulswitch",
+      "title": "Soulswitch",
+      "anchor_heading": "# Soulswitch",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Soulswitch, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

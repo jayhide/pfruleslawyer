@@ -1,0 +1,16 @@
+{
+  "file": "shield-of-dawn.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/s/shield-of-dawn/",
+  "source_name": "Spell: Shield of Dawn",
+  "sections": [
+    {
+      "id": "shield_of_dawn",
+      "title": "Shield of Dawn",
+      "anchor_heading": "# Shield of Dawn",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Shield of Dawn, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

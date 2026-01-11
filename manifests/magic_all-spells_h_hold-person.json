@@ -1,0 +1,16 @@
+{
+  "file": "hold-person.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/h/hold-person/",
+  "source_name": "Spell: Hold Person",
+  "sections": [
+    {
+      "id": "hold_person",
+      "title": "Hold Person",
+      "anchor_heading": "# Hold Person",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Hold Person, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

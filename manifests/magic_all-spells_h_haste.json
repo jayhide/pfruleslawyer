@@ -1,0 +1,16 @@
+{
+  "file": "haste.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/h/haste/",
+  "source_name": "Spell: Haste",
+  "sections": [
+    {
+      "id": "haste",
+      "title": "Haste",
+      "anchor_heading": "# Haste",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Haste, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

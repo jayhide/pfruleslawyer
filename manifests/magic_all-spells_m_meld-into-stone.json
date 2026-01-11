@@ -1,0 +1,16 @@
+{
+  "file": "meld-into-stone.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/m/meld-into-stone/",
+  "source_name": "Spell: Meld into Stone",
+  "sections": [
+    {
+      "id": "meld_into_stone",
+      "title": "Meld into Stone",
+      "anchor_heading": "# Meld into Stone",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Meld into Stone, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

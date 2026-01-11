@@ -1,0 +1,16 @@
+{
+  "file": "touch-of-gracelessness.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/t/touch-of-gracelessness/",
+  "source_name": "Spell: Touch of Gracelessness",
+  "sections": [
+    {
+      "id": "touch_of_gracelessness",
+      "title": "Touch of Gracelessness",
+      "anchor_heading": "# Touch of Gracelessness",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Touch of Gracelessness, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

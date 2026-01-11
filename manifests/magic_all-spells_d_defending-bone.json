@@ -1,0 +1,16 @@
+{
+  "file": "defending-bone.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/d/defending-bone/",
+  "source_name": "Spell: Defending Bone",
+  "sections": [
+    {
+      "id": "defending_bone",
+      "title": "Defending Bone",
+      "anchor_heading": "# Defending Bone",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Defending Bone, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

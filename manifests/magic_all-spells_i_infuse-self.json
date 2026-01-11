@@ -1,0 +1,16 @@
+{
+  "file": "infuse-self.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/i/infuse-self/",
+  "source_name": "Spell: Infuse Self",
+  "sections": [
+    {
+      "id": "infuse_self",
+      "title": "Infuse Self",
+      "anchor_heading": "# Infuse Self",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Infuse Self, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

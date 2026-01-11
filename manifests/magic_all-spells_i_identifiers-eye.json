@@ -1,0 +1,16 @@
+{
+  "file": "identifiers-eye.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/i/identifiers-eye/",
+  "source_name": "Spell: Identifier\u2019s Eye",
+  "sections": [
+    {
+      "id": "identifiers_eye",
+      "title": "Identifier\u2019s Eye",
+      "anchor_heading": "# Identifier\u2019s Eye",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Identifier\u2019s Eye, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

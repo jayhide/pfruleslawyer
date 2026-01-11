@@ -1,0 +1,16 @@
+{
+  "file": "apport-animal.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/a/apport-animal/",
+  "source_name": "Spell: Apport Animal",
+  "sections": [
+    {
+      "id": "apport_animal",
+      "title": "Apport Animal",
+      "anchor_heading": "# Apport Animal",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Apport Animal, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

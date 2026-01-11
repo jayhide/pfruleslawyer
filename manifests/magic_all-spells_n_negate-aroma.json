@@ -1,0 +1,16 @@
+{
+  "file": "negate-aroma.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/n/negate-aroma/",
+  "source_name": "Spell: Negate Aroma",
+  "sections": [
+    {
+      "id": "negate_aroma",
+      "title": "Negate Aroma",
+      "anchor_heading": "# Negate Aroma",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Negate Aroma, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

@@ -1,0 +1,16 @@
+{
+  "file": "thorn-javelin.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/t/thorn-javelin/",
+  "source_name": "Spell: Thorn Javelin",
+  "sections": [
+    {
+      "id": "thorn_javelin",
+      "title": "Thorn Javelin",
+      "anchor_heading": "# Thorn Javelin",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Thorn Javelin, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

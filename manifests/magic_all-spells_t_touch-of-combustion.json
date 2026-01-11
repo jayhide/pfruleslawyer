@@ -1,0 +1,16 @@
+{
+  "file": "touch-of-combustion.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/t/touch-of-combustion/",
+  "source_name": "Spell: Touch of Combustion",
+  "sections": [
+    {
+      "id": "touch_of_combustion",
+      "title": "Touch of Combustion",
+      "anchor_heading": "# Touch of Combustion",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Touch of Combustion, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

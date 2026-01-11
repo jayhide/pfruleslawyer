@@ -1,0 +1,16 @@
+{
+  "file": "analyze-aura.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/a/analyze-aura/",
+  "source_name": "Spell: Analyze Aura",
+  "sections": [
+    {
+      "id": "analyze_aura",
+      "title": "Analyze Aura",
+      "anchor_heading": "# Analyze Aura",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Analyze Aura, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

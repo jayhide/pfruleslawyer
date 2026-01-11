@@ -1,0 +1,16 @@
+{
+  "file": "raiment-of-command.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/r/raiment-of-command/",
+  "source_name": "Spell: Raiment of Command",
+  "sections": [
+    {
+      "id": "raiment_of_command",
+      "title": "Raiment of Command",
+      "anchor_heading": "# Raiment of Command",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Raiment of Command, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

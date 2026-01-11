@@ -1,0 +1,16 @@
+{
+  "file": "escaping-ward.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/e/escaping-ward/",
+  "source_name": "Spell: Escaping Ward",
+  "sections": [
+    {
+      "id": "escaping_ward",
+      "title": "Escaping Ward",
+      "anchor_heading": "# Escaping Ward",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Escaping Ward, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

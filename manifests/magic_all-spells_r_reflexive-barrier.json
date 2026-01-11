@@ -1,0 +1,16 @@
+{
+  "file": "reflexive-barrier.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/r/reflexive-barrier/",
+  "source_name": "Spell: Reflexive Barrier",
+  "sections": [
+    {
+      "id": "reflexive_barrier",
+      "title": "Reflexive Barrier",
+      "anchor_heading": "# Reflexive Barrier",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Reflexive Barrier, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

@@ -20,22 +20,22 @@
         "### Modifiers",
         "#### Fly Unchained"
       ],
-      "description": "Covers the Fly skill mechanics for aerial movement, including maneuver DCs, collision and falling rules, wind effects, and skill modifiers based on size and maneuverability.",
+      "description": "Rules for the Fly skill, covering flight maneuvers, DCs for aerial movement, collision and damage avoidance, wind effects, and skill modifiers based on size and maneuverability.",
       "keywords": [
         "Fly skill",
         "flying maneuvers",
-        "aerial movement",
+        "aerial combat",
+        "flight",
         "hover",
         "wind effects",
         "falling damage",
         "collision",
         "maneuverability",
         "fly speed",
-        "airborne",
-        "ascend",
-        "descend",
-        "plummet"
+        "wings",
+        "airborne"
       ]
     }
-  ]
+  ],
+  "category": "Skills"
 }

@@ -1,0 +1,16 @@
+{
+  "file": "blood-transcription.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/b/blood-transcription/",
+  "source_name": "Spell: Blood Transcription",
+  "sections": [
+    {
+      "id": "blood_transcription",
+      "title": "Blood Transcription",
+      "anchor_heading": "# Blood Transcription",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Blood Transcription, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

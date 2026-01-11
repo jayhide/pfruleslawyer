@@ -1,0 +1,16 @@
+{
+  "file": "sunder-breaker.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/s/sunder-breaker/",
+  "source_name": "Spell: Sunder Breaker",
+  "sections": [
+    {
+      "id": "sunder_breaker",
+      "title": "Sunder Breaker",
+      "anchor_heading": "# Sunder Breaker",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Sunder Breaker, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

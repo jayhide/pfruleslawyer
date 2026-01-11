@@ -1,0 +1,16 @@
+{
+  "file": "fire-breath.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/f/fire-breath/",
+  "source_name": "Spell: Fire Breath",
+  "sections": [
+    {
+      "id": "fire_breath",
+      "title": "Fire Breath",
+      "anchor_heading": "# Fire Breath",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Fire Breath, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

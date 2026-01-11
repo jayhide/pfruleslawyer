@@ -1,0 +1,16 @@
+{
+  "file": "flame-strike.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/f/flame-strike/",
+  "source_name": "Spell: Flame Strike",
+  "sections": [
+    {
+      "id": "flame_strike",
+      "title": "Flame Strike",
+      "anchor_heading": "# Flame Strike",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Flame Strike, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

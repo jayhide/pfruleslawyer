@@ -1,0 +1,16 @@
+{
+  "file": "instant-clot.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/i/instant-clot/",
+  "source_name": "Spell: Instant Clot",
+  "sections": [
+    {
+      "id": "instant_clot",
+      "title": "Instant Clot",
+      "anchor_heading": "# Instant Clot",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Instant Clot, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

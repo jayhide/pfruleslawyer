@@ -1,0 +1,16 @@
+{
+  "file": "holy-ice-weapon.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/h/holy-ice-weapon/",
+  "source_name": "Spell: Holy Ice Weapon",
+  "sections": [
+    {
+      "id": "holy_ice_weapon",
+      "title": "Holy Ice Weapon",
+      "anchor_heading": "# Holy Ice Weapon",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Holy Ice Weapon, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

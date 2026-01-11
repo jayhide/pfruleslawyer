@@ -1,0 +1,16 @@
+{
+  "file": "summon-meladaemon.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/s/summon-meladaemon/",
+  "source_name": "Spell: Summon Meladaemon",
+  "sections": [
+    {
+      "id": "summon_meladaemon",
+      "title": "Summon Meladaemon",
+      "anchor_heading": "# Summon Meladaemon",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Summon Meladaemon, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

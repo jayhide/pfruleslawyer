@@ -1,0 +1,16 @@
+{
+  "file": "amplify-elixir.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/a/amplify-elixir/",
+  "source_name": "Spell: Amplify Elixir",
+  "sections": [
+    {
+      "id": "amplify_elixir",
+      "title": "Amplify Elixir",
+      "anchor_heading": "# Amplify Elixir",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Amplify Elixir, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

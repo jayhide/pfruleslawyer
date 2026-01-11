@@ -1,0 +1,16 @@
+{
+  "file": "planar-aegis.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/p/planar-aegis/",
+  "source_name": "Spell: Planar Aegis",
+  "sections": [
+    {
+      "id": "planar_aegis",
+      "title": "Planar Aegis",
+      "anchor_heading": "# Planar Aegis",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Planar Aegis, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

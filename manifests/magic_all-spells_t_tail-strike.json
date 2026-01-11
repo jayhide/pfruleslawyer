@@ -1,0 +1,16 @@
+{
+  "file": "tail-strike.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/t/tail-strike/",
+  "source_name": "Spell: Tail Strike",
+  "sections": [
+    {
+      "id": "tail_strike",
+      "title": "Tail Strike",
+      "anchor_heading": "# Tail Strike",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Tail Strike, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

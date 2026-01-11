@@ -1,0 +1,16 @@
+{
+  "file": "winter-s-grasp.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/w/winter-s-grasp/",
+  "source_name": "Spell: Winter\u2019s Grasp",
+  "sections": [
+    {
+      "id": "winter_s_grasp",
+      "title": "Winter\u2019s Grasp",
+      "anchor_heading": "# Winter\u2019s Grasp",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Winter\u2019s Grasp, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

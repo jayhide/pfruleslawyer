@@ -1,0 +1,16 @@
+{
+  "file": "spiked-pit.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/s/spiked-pit/",
+  "source_name": "Spell: Spiked Pit",
+  "sections": [
+    {
+      "id": "spiked_pit",
+      "title": "Spiked Pit",
+      "anchor_heading": "# Spiked Pit",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Spiked Pit, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

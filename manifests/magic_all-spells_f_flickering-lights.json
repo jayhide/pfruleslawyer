@@ -1,0 +1,16 @@
+{
+  "file": "flickering-lights.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/f/flickering-lights/",
+  "source_name": "Spell: Flickering Lights",
+  "sections": [
+    {
+      "id": "flickering_lights",
+      "title": "Flickering Lights",
+      "anchor_heading": "# Flickering Lights",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Flickering Lights, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

@@ -1,0 +1,16 @@
+{
+  "file": "passing-fancy.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/p/passing-fancy/",
+  "source_name": "Spell: Passing Fancy",
+  "sections": [
+    {
+      "id": "passing_fancy",
+      "title": "Passing Fancy",
+      "anchor_heading": "# Passing Fancy",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Passing Fancy, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

@@ -1,0 +1,89 @@
+{
+  "file": "skills.md",
+  "source_path": "https://www.d20pfsrd.com/skills/",
+  "sections": [
+    {
+      "id": "skill_acquisition_and_class_skills",
+      "title": "Skill Acquisition and Class Skills",
+      "anchor_heading": "## Acquiring Skills",
+      "includes_subheadings": [
+        "## Class Skills"
+      ],
+      "description": "Rules for how characters gain skill ranks, the concept of class skills, and the +3 bonus system",
+      "keywords": [
+        "acquiring skills",
+        "class skills",
+        "skill ranks",
+        "hit dice",
+        "intelligence modifier",
+        "favored class"
+      ]
+    },
+    {
+      "id": "skill_checks",
+      "title": "Skill Checks",
+      "anchor_heading": "### Skill Checks",
+      "includes_subheadings": [],
+      "description": "Core mechanics of making skill checks, bonuses, penalties, and opposed checks",
+      "keywords": [
+        "skill check",
+        "difficulty class",
+        "opposed check",
+        "ability modifier",
+        "trained",
+        "untrained"
+      ]
+    },
+    {
+      "id": "taking_10_and_taking_20",
+      "title": "Taking 10 and Taking 20",
+      "anchor_heading": "Taking 10 and Taking 20",
+      "includes_subheadings": [
+        "Taking 10",
+        "Taking 20",
+        "Ability Checks and Caster Level Checks"
+      ],
+      "description": "Rules for taking 10 and taking 20 on skill checks under specific conditions",
+      "keywords": [
+        "taking 10",
+        "taking 20",
+        "routine tasks",
+        "time pressure",
+        "distractions",
+        "penalties for failure"
+      ]
+    },
+    {
+      "id": "aid_another",
+      "title": "Aid Another",
+      "anchor_heading": "#### Aid Another",
+      "includes_subheadings": [],
+      "description": "Rules for helping another character with skill checks through cooperative effort",
+      "keywords": [
+        "aid another",
+        "cooperative effort",
+        "bonus",
+        "limited participants"
+      ]
+    },
+    {
+      "id": "skill_description_format",
+      "title": "Skill Description Format",
+      "anchor_heading": "#### Skill Description Format",
+      "includes_subheadings": [
+        "More Information on Armor Check Penalties"
+      ],
+      "description": "Standard format and terminology used in skill descriptions, including armor check penalties",
+      "keywords": [
+        "skill description",
+        "key ability",
+        "trained only",
+        "armor check penalty",
+        "untrained",
+        "difficulty class"
+      ]
+    }
+  ],
+  "source_name": "Skills Overview",
+  "category": "Skills"
+}

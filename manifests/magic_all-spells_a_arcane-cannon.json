@@ -1,0 +1,16 @@
+{
+  "file": "arcane-cannon.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/a/arcane-cannon/",
+  "source_name": "Spell: Arcane Cannon",
+  "sections": [
+    {
+      "id": "arcane_cannon",
+      "title": "Arcane Cannon",
+      "anchor_heading": "# Arcane Cannon",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Arcane Cannon, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

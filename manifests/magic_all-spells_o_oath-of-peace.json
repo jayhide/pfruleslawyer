@@ -1,0 +1,16 @@
+{
+  "file": "oath-of-peace.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/o/oath-of-peace/",
+  "source_name": "Spell: Oath of Peace",
+  "sections": [
+    {
+      "id": "oath_of_peace",
+      "title": "Oath of Peace",
+      "anchor_heading": "# Oath of Peace",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Oath of Peace, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

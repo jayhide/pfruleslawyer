@@ -1,0 +1,16 @@
+{
+  "file": "ray-of-exhaustion.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/r/ray-of-exhaustion/",
+  "source_name": "Spell: Ray of Exhaustion",
+  "sections": [
+    {
+      "id": "ray_of_exhaustion",
+      "title": "Ray of Exhaustion",
+      "anchor_heading": "# Ray of Exhaustion",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Ray of Exhaustion, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

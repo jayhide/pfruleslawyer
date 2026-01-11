@@ -1,0 +1,16 @@
+{
+  "file": "barghest-feast.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/b/barghest-feast/",
+  "source_name": "Spell: Barghest Feast",
+  "sections": [
+    {
+      "id": "barghest_feast",
+      "title": "Barghest Feast",
+      "anchor_heading": "# Barghest Feast",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Barghest Feast, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

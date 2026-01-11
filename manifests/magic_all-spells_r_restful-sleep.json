@@ -1,0 +1,16 @@
+{
+  "file": "restful-sleep.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/r/restful-sleep/",
+  "source_name": "Spell: Restful Sleep",
+  "sections": [
+    {
+      "id": "restful_sleep",
+      "title": "Restful Sleep",
+      "anchor_heading": "# Restful Sleep",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Restful Sleep, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

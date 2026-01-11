@@ -1,0 +1,16 @@
+{
+  "file": "persistent-vigor.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/p/persistent-vigor/",
+  "source_name": "Spell: Persistent Vigor",
+  "sections": [
+    {
+      "id": "persistent_vigor",
+      "title": "Persistent Vigor",
+      "anchor_heading": "# Persistent Vigor",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Persistent Vigor, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

@@ -1,0 +1,16 @@
+{
+  "file": "wandering-star-motes.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/w/wandering-star-motes/",
+  "source_name": "Spell: Wandering Star Motes",
+  "sections": [
+    {
+      "id": "wandering_star_motes",
+      "title": "Wandering Star Motes",
+      "anchor_heading": "# Wandering Star Motes",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Wandering Star Motes, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

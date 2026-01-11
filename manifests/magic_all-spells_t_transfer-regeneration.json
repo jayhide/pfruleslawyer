@@ -1,0 +1,16 @@
+{
+  "file": "transfer-regeneration.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/t/transfer-regeneration/",
+  "source_name": "Spell: Transfer Regeneration",
+  "sections": [
+    {
+      "id": "transfer_regeneration",
+      "title": "Transfer Regeneration",
+      "anchor_heading": "# Transfer Regeneration",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Transfer Regeneration, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

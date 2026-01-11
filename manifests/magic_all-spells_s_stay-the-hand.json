@@ -1,0 +1,16 @@
+{
+  "file": "stay-the-hand.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/s/stay-the-hand/",
+  "source_name": "Spell: Stay the Hand",
+  "sections": [
+    {
+      "id": "stay_the_hand",
+      "title": "Stay the Hand",
+      "anchor_heading": "# Stay the Hand",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Stay the Hand, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

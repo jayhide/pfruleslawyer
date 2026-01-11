@@ -1,0 +1,16 @@
+{
+  "file": "freezing-sphere.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/f/freezing-sphere/",
+  "source_name": "Spell: Freezing Sphere",
+  "sections": [
+    {
+      "id": "freezing_sphere",
+      "title": "Freezing Sphere",
+      "anchor_heading": "# Freezing Sphere",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Freezing Sphere, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

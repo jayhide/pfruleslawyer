@@ -1,0 +1,16 @@
+{
+  "file": "bull-s-strength.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/b/bull-s-strength/",
+  "source_name": "Spell: Bull\u2019s Strength",
+  "sections": [
+    {
+      "id": "bull_s_strength",
+      "title": "Bull\u2019s Strength",
+      "anchor_heading": "# Bull\u2019s Strength",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Bull\u2019s Strength, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

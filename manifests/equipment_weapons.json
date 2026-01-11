@@ -3,84 +3,101 @@
   "source_path": "https://www.d20pfsrd.com/equipment/weapons/",
   "sections": [
     {
-      "id": "simple_weapons_tables",
-      "title": "Simple Weapons Tables",
-      "anchor_heading": "# Weapons",
+      "id": "simple_weapons",
+      "title": "Simple Weapons",
+      "anchor_heading": "# Simple Weapons",
       "includes_subheadings": [
-        "#### Simple",
-        "#### Martial",
-        "#### Exotic",
-        "#### Other"
+        "## Unarmed",
+        "## Light Melee",
+        "## One-Handed Melee",
+        "## Two-Handed Melee",
+        "## Ranged",
+        "## Ammunition"
       ],
-      "description": "Complete weapon tables for simple weapons including unarmed attacks, light melee weapons, one-handed melee weapons, two-handed melee weapons, ranged weapons, and ammunition with full statistics",
+      "description": "Complete listing of all simple weapons with their statistics, damage, cost, and special properties",
       "keywords": [
         "simple weapons",
-        "weapon tables",
-        "damage",
-        "cost",
-        "weight",
-        "critical",
-        "range"
+        "weapon proficiency",
+        "unarmed strike",
+        "gauntlet",
+        "dagger",
+        "club",
+        "spear",
+        "crossbow",
+        "sling",
+        "ammunition"
       ]
     },
     {
-      "id": "martial_weapons_tables",
-      "title": "Martial Weapons Tables",
+      "id": "martial_weapons",
+      "title": "Martial Weapons",
       "anchor_heading": "### Martial Weapons",
       "includes_subheadings": [
-        "### FAQ"
+        "#### Light Melee",
+        "#### One-Handed Melee",
+        "### FAQ",
+        "#### Two-Handed Melee",
+        "#### Ranged",
+        "#### Ammunition"
       ],
-      "description": "Complete weapon tables for martial weapons including light melee weapons, one-handed melee weapons, two-handed melee weapons, ranged weapons, and ammunition with full statistics",
+      "description": "Complete listing of all martial weapons with their statistics, damage, cost, and special properties, including FAQ about two-handed weapon usage",
       "keywords": [
         "martial weapons",
-        "weapon tables",
-        "damage",
-        "cost",
-        "weight",
-        "critical",
-        "range"
+        "longsword",
+        "battleaxe",
+        "greataxe",
+        "shortbow",
+        "longbow",
+        "composite bow",
+        "arrows"
       ]
     },
     {
-      "id": "exotic_weapons_tables",
-      "title": "Exotic Weapons Tables",
+      "id": "exotic_weapons",
+      "title": "Exotic Weapons",
       "anchor_heading": "### Exotic Weapons",
-      "includes_subheadings": [],
-      "description": "Complete weapon tables for exotic weapons including light melee weapons, one-handed melee weapons, two-handed melee weapons, ranged weapons, and ammunition with full statistics",
+      "includes_subheadings": [
+        "#### Light Melee",
+        "#### One-Handed Melee",
+        "#### Two-Handed Melee",
+        "#### Ranged",
+        "#### Ammunition"
+      ],
+      "description": "Complete listing of all exotic weapons with their statistics, damage, cost, and special properties",
       "keywords": [
         "exotic weapons",
-        "weapon tables",
-        "damage",
-        "cost",
-        "weight",
-        "critical",
-        "range"
+        "bastard sword",
+        "dwarven waraxe",
+        "whip",
+        "spiked chain",
+        "net",
+        "shuriken"
       ]
     },
     {
       "id": "weapon_proficiency_categories",
-      "title": "Weapon Proficiency Categories",
+      "title": "Simple, Martial, and Exotic Weapons",
       "anchor_heading": "## Simple, Martial, and Exotic Weapons",
       "includes_subheadings": [],
-      "description": "Rules for weapon proficiency categories, nonproficiency penalties, and which classes are proficient with which weapon types",
+      "description": "Rules for weapon proficiency categories and penalties for using weapons without proficiency",
       "keywords": [
         "weapon proficiency",
-        "simple",
-        "martial",
-        "exotic",
-        "nonproficiency penalty"
+        "simple weapons",
+        "martial weapons",
+        "exotic weapons",
+        "nonproficient penalty"
       ]
     },
     {
-      "id": "melee_and_ranged_weapons",
+      "id": "melee_ranged_weapons",
       "title": "Melee and Ranged Weapons",
       "anchor_heading": "## Melee and Ranged Weapons",
       "includes_subheadings": [],
-      "description": "Rules for melee vs ranged weapons, reach weapons, double weapons, thrown weapons, projectile weapons, and ammunition mechanics",
+      "description": "Rules for melee vs ranged weapons, reach weapons, double weapons, thrown weapons, projectile weapons, and ammunition",
       "keywords": [
         "melee weapons",
         "ranged weapons",
-        "reach",
+        "reach weapons",
         "double weapons",
         "thrown weapons",
         "projectile weapons",
@@ -88,20 +105,30 @@
       ]
     },
     {
-      "id": "weapon_size_categories",
-      "title": "Weapon Size and Handedness",
+      "id": "weapon_handedness",
+      "title": "Light, One-Handed, and Two-Handed Melee Weapons",
       "anchor_heading": "## Light, One-Handed, and Two-Handed Melee Weapons",
-      "includes_subheadings": [
-        "## Weapon Size"
-      ],
-      "description": "Rules for light, one-handed, and two-handed weapons, weapon size categories, inappropriately sized weapons, and strength bonus applications",
+      "includes_subheadings": [],
+      "description": "Rules for weapon handedness categories and how Strength bonuses apply to damage with different weapon types",
       "keywords": [
         "light weapons",
         "one-handed weapons",
         "two-handed weapons",
+        "strength bonus",
+        "weapon handedness"
+      ]
+    },
+    {
+      "id": "weapon_size",
+      "title": "Weapon Size",
+      "anchor_heading": "## Weapon Size",
+      "includes_subheadings": [],
+      "description": "Rules for weapon size categories and penalties for using inappropriately sized weapons",
+      "keywords": [
         "weapon size",
         "inappropriately sized weapons",
-        "strength bonus"
+        "size penalty",
+        "weapon categories"
       ]
     },
     {
@@ -109,10 +136,10 @@
       "title": "Improvised Weapons",
       "anchor_heading": "## Improvised Weapons",
       "includes_subheadings": [],
-      "description": "Rules for using objects not designed as weapons in combat, nonproficiency penalties, damage determination, and critical hits",
+      "description": "Rules for using objects not designed as weapons in combat",
       "keywords": [
         "improvised weapons",
-        "nonproficiency",
+        "nonproficient",
         "makeshift weapons"
       ]
     },
@@ -121,28 +148,26 @@
       "title": "Damaged Weapons",
       "anchor_heading": "## Damaged Weapons",
       "includes_subheadings": [],
-      "description": "Rules for weapons with the broken condition and how damage affects weapon performance",
+      "description": "Rules for weapons with the broken condition and their penalties",
       "keywords": [
-        "broken condition",
         "damaged weapons",
-        "weapon condition"
+        "broken condition",
+        "weapon penalties"
       ]
     },
     {
-      "id": "weapon_qualities_table_format",
-      "title": "Weapon Qualities and Table Format",
+      "id": "weapon_qualities",
+      "title": "Weapon Qualities",
       "anchor_heading": "## Weapon Qualities",
       "includes_subheadings": [],
-      "description": "Explanation of weapon table columns including price, damage, critical, range, weight, type, and weapon damage size conversion rules",
+      "description": "Explanation of weapon statistics including price, damage, critical, range, weight, and damage types",
       "keywords": [
-        "weapon qualities",
-        "price",
+        "weapon statistics",
         "damage",
-        "critical",
-        "range",
-        "weight",
-        "type",
-        "weapon damage conversion"
+        "critical hit",
+        "range increment",
+        "weapon weight",
+        "damage types"
       ]
     },
     {
@@ -150,22 +175,19 @@
       "title": "Special Weapon Features",
       "anchor_heading": "## Special Weapon Features",
       "includes_subheadings": [],
-      "description": "Detailed rules for special weapon properties like blocking, brace, deadly, disarm, distracting, double, fragile, grapple, monk, nonlethal, performance, reach, strength, and trip",
+      "description": "Detailed rules for special weapon properties like blocking, brace, disarm, trip, reach, fragile, monk, and performance",
       "keywords": [
+        "weapon special features",
         "blocking",
         "brace",
-        "deadly",
         "disarm",
-        "distracting",
-        "double",
-        "fragile",
-        "grapple",
-        "monk",
-        "nonlethal",
-        "performance",
-        "reach",
         "trip",
-        "strength rating"
+        "reach",
+        "fragile",
+        "monk weapons",
+        "performance",
+        "grapple",
+        "nonlethal"
       ]
     },
     {
@@ -173,12 +195,12 @@
       "title": "Gladiator Weapons",
       "anchor_heading": "## Gladiator Weapons",
       "includes_subheadings": [],
-      "description": "Rules for performance weapons used in arena combat and entertainment fighting",
+      "description": "Rules for performance weapons and combat performance checks",
       "keywords": [
         "gladiator weapons",
-        "performance",
-        "arena combat",
-        "performance combat"
+        "performance weapons",
+        "performance combat",
+        "arena combat"
       ]
     },
     {
@@ -186,24 +208,24 @@
       "title": "Masterwork Weapons",
       "anchor_heading": "## Masterwork Weapons",
       "includes_subheadings": [],
-      "description": "Rules for masterwork weapons, enhancement bonuses, crafting requirements, costs, and interaction with magic weapons",
+      "description": "Rules for masterwork weapon quality, enhancement bonuses, and crafting requirements",
       "keywords": [
-        "masterwork",
+        "masterwork weapons",
         "enhancement bonus",
-        "crafting",
-        "magic weapons"
+        "weapon quality",
+        "crafting"
       ]
     },
     {
       "id": "splash_weapons",
-      "title": "Splash Weapons",
+      "title": "Splash (Grenade-like) Weapons",
       "anchor_heading": "## Splash (Grenade-like) Weapons",
       "includes_subheadings": [],
-      "description": "Reference to splash weapon rules found under Special Substances and Items",
+      "description": "Reference to splash weapons rules found in Special Substances and Items",
       "keywords": [
         "splash weapons",
         "grenade-like weapons",
-        "special substances"
+        "thrown weapons"
       ]
     },
     {
@@ -217,23 +239,23 @@
         "#### Khakkhara",
         "#### War Flute"
       ],
-      "description": "Complete system for designing custom weapons using Design Points, including base statistics, weapon qualities, costs, and example weapons",
+      "description": "Complete system for designing custom weapons using Design Points, including weapon qualities and sample weapons",
       "keywords": [
-        "weapon creation",
+        "weapon design",
         "design points",
         "custom weapons",
-        "weapon design system",
+        "weapon creation",
         "weapon qualities"
       ]
     },
     {
-      "id": "ranged_attack_range_increments",
+      "id": "range_increments",
       "title": "Ranged Attack Range Increments",
       "anchor_heading": "## Ranged Attack Range Increments",
       "includes_subheadings": [],
-      "description": "Rules for ranged weapon range increments, maximum ranges, and comprehensive table of range increments for various ranged attacks and weapons",
+      "description": "Rules for ranged weapon range increments and maximum ranges, plus comprehensive table of range increments for all ranged weapons",
       "keywords": [
-        "range increments",
+        "range increment",
         "maximum range",
         "ranged attacks",
         "projectile weapons",
@@ -241,5 +263,6 @@
       ]
     }
   ],
-  "source_name": ""
+  "source_name": "",
+  "category": "Core Rules"
 }

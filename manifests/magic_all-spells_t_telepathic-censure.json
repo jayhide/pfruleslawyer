@@ -1,0 +1,16 @@
+{
+  "file": "telepathic-censure.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/t/telepathic-censure/",
+  "source_name": "Spell: Telepathic Censure",
+  "sections": [
+    {
+      "id": "telepathic_censure",
+      "title": "Telepathic Censure",
+      "anchor_heading": "# Telepathic Censure",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Telepathic Censure, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

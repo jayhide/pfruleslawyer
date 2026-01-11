@@ -1,0 +1,16 @@
+{
+  "file": "splinter-spell-resistance.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/s/splinter-spell-resistance/",
+  "source_name": "Spell: Splinter Spell Resistance",
+  "sections": [
+    {
+      "id": "splinter_spell_resistance",
+      "title": "Splinter Spell Resistance",
+      "anchor_heading": "# Splinter Spell Resistance",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Splinter Spell Resistance, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

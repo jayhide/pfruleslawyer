@@ -1,0 +1,16 @@
+{
+  "file": "protection-from-arrows.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/p/protection-from-arrows/",
+  "source_name": "Spell: Protection from Arrows",
+  "sections": [
+    {
+      "id": "protection_from_arrows",
+      "title": "Protection from Arrows",
+      "anchor_heading": "# Protection from Arrows",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Protection from Arrows, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

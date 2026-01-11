@@ -1,0 +1,16 @@
+{
+  "file": "companion-transposition.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/c/companion-transposition/",
+  "source_name": "Spell: Companion Transposition",
+  "sections": [
+    {
+      "id": "companion_transposition",
+      "title": "Companion Transposition",
+      "anchor_heading": "# Companion Transposition",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Companion Transposition, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

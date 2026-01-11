@@ -1,0 +1,16 @@
+{
+  "file": "lightning-arc.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/l/lightning-arc/",
+  "source_name": "Spell: Lightning Arc",
+  "sections": [
+    {
+      "id": "lightning_arc",
+      "title": "Lightning Arc",
+      "anchor_heading": "# Lightning Arc",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Lightning Arc, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

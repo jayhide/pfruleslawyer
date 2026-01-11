@@ -1,0 +1,16 @@
+{
+  "file": "rock-whip.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/r/rock-whip/",
+  "source_name": "Spell: Rock Whip",
+  "sections": [
+    {
+      "id": "rock_whip",
+      "title": "Rock Whip",
+      "anchor_heading": "# Rock Whip",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Rock Whip, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

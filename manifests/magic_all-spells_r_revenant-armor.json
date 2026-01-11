@@ -1,0 +1,16 @@
+{
+  "file": "revenant-armor.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/r/revenant-armor/",
+  "source_name": "Spell: Revenant Armor",
+  "sections": [
+    {
+      "id": "revenant_armor",
+      "title": "Revenant Armor",
+      "anchor_heading": "# Revenant Armor",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Revenant Armor, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

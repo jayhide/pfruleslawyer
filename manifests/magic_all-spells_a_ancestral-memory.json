@@ -1,0 +1,16 @@
+{
+  "file": "ancestral-memory.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/a/ancestral-memory/",
+  "source_name": "Spell: Ancestral Memory",
+  "sections": [
+    {
+      "id": "ancestral_memory",
+      "title": "Ancestral Memory",
+      "anchor_heading": "# Ancestral Memory",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Ancestral Memory, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

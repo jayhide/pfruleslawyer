@@ -1,0 +1,16 @@
+{
+  "file": "entropic-shield.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/e/entropic-shield/",
+  "source_name": "Spell: Entropic Shield",
+  "sections": [
+    {
+      "id": "entropic_shield",
+      "title": "Entropic Shield",
+      "anchor_heading": "# Entropic Shield",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Entropic Shield, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

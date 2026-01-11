@@ -1,0 +1,16 @@
+{
+  "file": "antitoxin-touch.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/a/antitoxin-touch/",
+  "source_name": "Spell: Antitoxin Touch",
+  "sections": [
+    {
+      "id": "antitoxin_touch",
+      "title": "Antitoxin Touch",
+      "anchor_heading": "# Antitoxin Touch",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Antitoxin Touch, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

@@ -1,0 +1,16 @@
+{
+  "file": "flurry-of-snowballs.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/f/flurry-of-snowballs/",
+  "source_name": "Spell: Flurry of Snowballs",
+  "sections": [
+    {
+      "id": "flurry_of_snowballs",
+      "title": "Flurry of Snowballs",
+      "anchor_heading": "# Flurry of Snowballs",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Flurry of Snowballs, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

@@ -1,0 +1,16 @@
+{
+  "file": "spiritual-weapon.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/s/spiritual-weapon/",
+  "source_name": "Spell: Spiritual Weapon",
+  "sections": [
+    {
+      "id": "spiritual_weapon",
+      "title": "Spiritual Weapon",
+      "anchor_heading": "# Spiritual Weapon",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Spiritual Weapon, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

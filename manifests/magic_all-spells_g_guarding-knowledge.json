@@ -1,0 +1,16 @@
+{
+  "file": "guarding-knowledge.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/g/guarding-knowledge/",
+  "source_name": "Spell: Guarding Knowledge",
+  "sections": [
+    {
+      "id": "guarding_knowledge",
+      "title": "Guarding Knowledge",
+      "anchor_heading": "# Guarding Knowledge",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Guarding Knowledge, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

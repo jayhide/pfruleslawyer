@@ -1,0 +1,16 @@
+{
+  "file": "genesis.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/g/genesis/",
+  "source_name": "Spell: Genesis",
+  "sections": [
+    {
+      "id": "genesis",
+      "title": "Genesis",
+      "anchor_heading": "# Genesis",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Genesis, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

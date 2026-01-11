@@ -1,0 +1,16 @@
+{
+  "file": "create-variant-mummy.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/c/create-variant-mummy/",
+  "source_name": "Spell: Create Variant Mummy",
+  "sections": [
+    {
+      "id": "create_variant_mummy",
+      "title": "Create Variant Mummy",
+      "anchor_heading": "# Create Variant Mummy",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Create Variant Mummy, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

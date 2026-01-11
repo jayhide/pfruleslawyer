@@ -1,0 +1,16 @@
+{
+  "file": "speak-with-dead.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/s/speak-with-dead/",
+  "source_name": "Spell: Speak with Dead",
+  "sections": [
+    {
+      "id": "speak_with_dead",
+      "title": "Speak with Dead",
+      "anchor_heading": "# Speak with Dead",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Speak with Dead, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

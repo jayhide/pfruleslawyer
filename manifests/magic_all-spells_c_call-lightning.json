@@ -1,0 +1,16 @@
+{
+  "file": "call-lightning.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/c/call-lightning/",
+  "source_name": "Spell: Call Lightning",
+  "sections": [
+    {
+      "id": "call_lightning",
+      "title": "Call Lightning",
+      "anchor_heading": "# Call Lightning",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Call Lightning, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

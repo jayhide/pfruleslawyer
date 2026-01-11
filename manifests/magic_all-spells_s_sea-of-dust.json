@@ -1,0 +1,16 @@
+{
+  "file": "sea-of-dust.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/s/sea-of-dust/",
+  "source_name": "Spell: Sea of Dust",
+  "sections": [
+    {
+      "id": "sea_of_dust",
+      "title": "Sea of Dust",
+      "anchor_heading": "# Sea of Dust",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Sea of Dust, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

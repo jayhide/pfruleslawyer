@@ -1,0 +1,16 @@
+{
+  "file": "linked-legacy.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/l/linked-legacy/",
+  "source_name": "Spell: Linked Legacy",
+  "sections": [
+    {
+      "id": "linked_legacy",
+      "title": "Linked Legacy",
+      "anchor_heading": "# Linked Legacy",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Linked Legacy, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

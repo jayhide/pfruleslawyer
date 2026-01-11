@@ -1,0 +1,16 @@
+{
+  "file": "bladed-dash.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/b/bladed-dash/",
+  "source_name": "Spell: Bladed Dash",
+  "sections": [
+    {
+      "id": "bladed_dash",
+      "title": "Bladed Dash",
+      "anchor_heading": "# Bladed Dash",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Bladed Dash, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

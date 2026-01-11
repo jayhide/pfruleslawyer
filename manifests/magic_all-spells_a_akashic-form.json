@@ -1,0 +1,16 @@
+{
+  "file": "akashic-form.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/a/akashic-form/",
+  "source_name": "Spell: Akashic Form",
+  "sections": [
+    {
+      "id": "akashic_form",
+      "title": "Akashic Form",
+      "anchor_heading": "# Akashic Form",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Akashic Form, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

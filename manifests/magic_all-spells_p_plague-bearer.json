@@ -1,0 +1,16 @@
+{
+  "file": "plague-bearer.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/p/plague-bearer/",
+  "source_name": "Spell: Plague Bearer",
+  "sections": [
+    {
+      "id": "plague_bearer",
+      "title": "Plague Bearer",
+      "anchor_heading": "# Plague Bearer",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Plague Bearer, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

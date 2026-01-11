@@ -1,0 +1,16 @@
+{
+  "file": "stoke-the-inner-fire.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/s/stoke-the-inner-fire/",
+  "source_name": "Spell: Stoke the Inner Fire",
+  "sections": [
+    {
+      "id": "stoke_the_inner_fire",
+      "title": "Stoke the Inner Fire",
+      "anchor_heading": "# Stoke the Inner Fire",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Stoke the Inner Fire, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

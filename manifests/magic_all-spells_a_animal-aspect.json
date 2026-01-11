@@ -1,0 +1,16 @@
+{
+  "file": "animal-aspect.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/a/animal-aspect/",
+  "source_name": "Spell: Animal Aspect",
+  "sections": [
+    {
+      "id": "animal_aspect",
+      "title": "Animal Aspect",
+      "anchor_heading": "# Animal Aspect",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Animal Aspect, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

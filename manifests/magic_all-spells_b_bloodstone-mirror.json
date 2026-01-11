@@ -1,0 +1,16 @@
+{
+  "file": "bloodstone-mirror.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/b/bloodstone-mirror/",
+  "source_name": "Spell: Bloodstone Mirror",
+  "sections": [
+    {
+      "id": "bloodstone_mirror",
+      "title": "Bloodstone Mirror",
+      "anchor_heading": "# Bloodstone Mirror",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Bloodstone Mirror, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

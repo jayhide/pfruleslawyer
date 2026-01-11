@@ -1,0 +1,16 @@
+{
+  "file": "unholy-ice-weapon.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/u/unholy-ice-weapon/",
+  "source_name": "Spell: Unholy Ice Weapon",
+  "sections": [
+    {
+      "id": "unholy_ice_weapon",
+      "title": "Unholy Ice Weapon",
+      "anchor_heading": "# Unholy Ice Weapon",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Unholy Ice Weapon, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

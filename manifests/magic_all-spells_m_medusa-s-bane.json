@@ -1,0 +1,16 @@
+{
+  "file": "medusa-s-bane.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/m/medusa-s-bane/",
+  "source_name": "Spell: Medusa\u2019s Bane",
+  "sections": [
+    {
+      "id": "medusa_s_bane",
+      "title": "Medusa\u2019s Bane",
+      "anchor_heading": "# Medusa\u2019s Bane",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Medusa\u2019s Bane, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

@@ -1,0 +1,16 @@
+{
+  "file": "miracle.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/m/miracle/",
+  "source_name": "Spell: Miracle",
+  "sections": [
+    {
+      "id": "miracle",
+      "title": "Miracle",
+      "anchor_heading": "# Miracle",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Miracle, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

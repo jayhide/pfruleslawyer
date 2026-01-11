@@ -1,0 +1,16 @@
+{
+  "file": "hunter-s-friend.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/h/hunter-s-friend/",
+  "source_name": "Spell: Hunter\u2019s Friend",
+  "sections": [
+    {
+      "id": "hunter_s_friend",
+      "title": "Hunter\u2019s Friend",
+      "anchor_heading": "# Hunter\u2019s Friend",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Hunter\u2019s Friend, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

@@ -1,0 +1,16 @@
+{
+  "file": "planar-inquiry.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/p/planar-inquiry/",
+  "source_name": "Spell: Planar Inquiry",
+  "sections": [
+    {
+      "id": "planar_inquiry",
+      "title": "Planar Inquiry",
+      "anchor_heading": "# Planar Inquiry",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Planar Inquiry, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

@@ -1,0 +1,16 @@
+{
+  "file": "shadowfade.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/s/shadowfade/",
+  "source_name": "Spell: Shadowfade",
+  "sections": [
+    {
+      "id": "shadowfade",
+      "title": "Shadowfade",
+      "anchor_heading": "# Shadowfade",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Shadowfade, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

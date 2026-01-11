@@ -1,0 +1,16 @@
+{
+  "file": "piercing-shriek.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/p/piercing-shriek/",
+  "source_name": "Spell: Piercing Shriek",
+  "sections": [
+    {
+      "id": "piercing_shriek",
+      "title": "Piercing Shriek",
+      "anchor_heading": "# Piercing Shriek",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Piercing Shriek, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

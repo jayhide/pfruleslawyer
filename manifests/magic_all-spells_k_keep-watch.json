@@ -1,0 +1,16 @@
+{
+  "file": "keep-watch.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/k/keep-watch/",
+  "source_name": "Spell: Keep Watch",
+  "sections": [
+    {
+      "id": "keep_watch",
+      "title": "Keep Watch",
+      "anchor_heading": "# Keep Watch",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Keep Watch, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

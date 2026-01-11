@@ -1,0 +1,16 @@
+{
+  "file": "unlock-flesh.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/u/unlock-flesh/",
+  "source_name": "Spell: Unlock Flesh",
+  "sections": [
+    {
+      "id": "unlock_flesh",
+      "title": "Unlock Flesh",
+      "anchor_heading": "# Unlock Flesh",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Unlock Flesh, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

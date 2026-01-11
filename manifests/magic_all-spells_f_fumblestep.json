@@ -1,0 +1,16 @@
+{
+  "file": "fumblestep.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/f/fumblestep/",
+  "source_name": "Spell: Fumblestep",
+  "sections": [
+    {
+      "id": "fumblestep",
+      "title": "Fumblestep",
+      "anchor_heading": "# Fumblestep",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Fumblestep, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

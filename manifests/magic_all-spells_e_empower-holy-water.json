@@ -1,0 +1,16 @@
+{
+  "file": "empower-holy-water.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/e/empower-holy-water/",
+  "source_name": "Spell: Empower Holy Water",
+  "sections": [
+    {
+      "id": "empower_holy_water",
+      "title": "Empower Holy Water",
+      "anchor_heading": "# Empower Holy Water",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Empower Holy Water, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

@@ -1,0 +1,16 @@
+{
+  "file": "secure-shelter.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/s/secure-shelter/",
+  "source_name": "Spell: Secure Shelter",
+  "sections": [
+    {
+      "id": "secure_shelter",
+      "title": "Secure Shelter",
+      "anchor_heading": "# Secure Shelter",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Secure Shelter, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

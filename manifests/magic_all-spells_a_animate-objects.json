@@ -1,0 +1,16 @@
+{
+  "file": "animate-objects.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/a/animate-objects/",
+  "source_name": "Spell: Animate Objects",
+  "sections": [
+    {
+      "id": "animate_objects",
+      "title": "Animate Objects",
+      "anchor_heading": "# Animate Objects",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Animate Objects, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

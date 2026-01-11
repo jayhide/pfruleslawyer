@@ -1,0 +1,16 @@
+{
+  "file": "dominate-person.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/d/dominate-person/",
+  "source_name": "Spell: Dominate Person",
+  "sections": [
+    {
+      "id": "dominate_person",
+      "title": "Dominate Person",
+      "anchor_heading": "# Dominate Person",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Dominate Person, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

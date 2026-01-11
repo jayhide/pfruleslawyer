@@ -1,0 +1,16 @@
+{
+  "file": "sympathetic-wounds.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/s/sympathetic-wounds/",
+  "source_name": "Spell: Sympathetic Wounds",
+  "sections": [
+    {
+      "id": "sympathetic_wounds",
+      "title": "Sympathetic Wounds",
+      "anchor_heading": "# Sympathetic Wounds",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Sympathetic Wounds, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

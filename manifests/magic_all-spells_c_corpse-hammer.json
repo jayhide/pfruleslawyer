@@ -1,0 +1,16 @@
+{
+  "file": "corpse-hammer.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/c/corpse-hammer/",
+  "source_name": "Spell: Corpse Hammer",
+  "sections": [
+    {
+      "id": "corpse_hammer",
+      "title": "Corpse Hammer",
+      "anchor_heading": "# Corpse Hammer",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Corpse Hammer, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

@@ -1,0 +1,16 @@
+{
+  "file": "pale-flame.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/p/pale-flame/",
+  "source_name": "Spell: Pale Flame",
+  "sections": [
+    {
+      "id": "pale_flame",
+      "title": "Pale Flame",
+      "anchor_heading": "# Pale Flame",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Pale Flame, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

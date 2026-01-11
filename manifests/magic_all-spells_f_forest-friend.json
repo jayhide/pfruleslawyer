@@ -1,0 +1,16 @@
+{
+  "file": "forest-friend.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/f/forest-friend/",
+  "source_name": "Spell: Forest Friend",
+  "sections": [
+    {
+      "id": "forest_friend",
+      "title": "Forest Friend",
+      "anchor_heading": "# Forest Friend",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Forest Friend, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

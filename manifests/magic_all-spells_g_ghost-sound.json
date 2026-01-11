@@ -1,0 +1,16 @@
+{
+  "file": "ghost-sound.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/g/ghost-sound/",
+  "source_name": "Spell: Ghost Sound",
+  "sections": [
+    {
+      "id": "ghost_sound",
+      "title": "Ghost Sound",
+      "anchor_heading": "# Ghost Sound",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Ghost Sound, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

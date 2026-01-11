@@ -1,0 +1,16 @@
+{
+  "file": "suppressing-stone.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/s/suppressing-stone/",
+  "source_name": "Spell: Suppressing Stone",
+  "sections": [
+    {
+      "id": "suppressing_stone",
+      "title": "Suppressing Stone",
+      "anchor_heading": "# Suppressing Stone",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Suppressing Stone, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

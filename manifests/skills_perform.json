@@ -13,9 +13,13 @@
         "### Modifiers",
         "#### Perform Unchained"
       ],
-      "description": "Rules for the Perform skill, covering its nine categories (act, comedy, dance, instruments, etc.), DC tables for earning money through performances, and skill unlock abilities for high-rank performers.",
+      "description": "Rules for the Perform skill, covering entertainment abilities, earning money through performances, skill DCs, and unchained skill unlocks for performance-based bonuses.",
       "keywords": [
         "Perform",
+        "performance",
+        "entertainment",
+        "earning money",
+        "busking",
         "Act",
         "Comedy",
         "Dance",
@@ -25,15 +29,13 @@
         "String instruments",
         "Wind instruments",
         "Sing",
-        "performance",
-        "earning money performing",
-        "masterwork musical instrument",
         "bardic performance",
-        "Perform Unchained",
+        "masterwork musical instrument",
         "skill unlocks",
-        "emotion descriptor",
-        "language-dependent descriptor"
+        "Perform Unchained",
+        "Signature Skill"
       ]
     }
-  ]
+  ],
+  "category": "Skills"
 }

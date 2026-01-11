@@ -1,0 +1,16 @@
+{
+  "file": "antilife-shell.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/a/antilife-shell/",
+  "source_name": "Spell: Antilife Shell",
+  "sections": [
+    {
+      "id": "antilife_shell",
+      "title": "Antilife Shell",
+      "anchor_heading": "# Antilife Shell",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Antilife Shell, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

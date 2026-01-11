@@ -1,0 +1,16 @@
+{
+  "file": "spells-m-p.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/spells-m-p/",
+  "source_name": "Spell: M-P",
+  "sections": [
+    {
+      "id": "spells_m_p",
+      "title": "M-P",
+      "anchor_heading": "# M-P",
+      "includes_subheadings": [],
+      "description": "Full description of the spell M-P, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

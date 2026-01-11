@@ -1,0 +1,16 @@
+{
+  "file": "banshee-blast.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/b/banshee-blast/",
+  "source_name": "Spell: Banshee Blast",
+  "sections": [
+    {
+      "id": "banshee_blast",
+      "title": "Banshee Blast",
+      "anchor_heading": "# Banshee Blast",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Banshee Blast, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

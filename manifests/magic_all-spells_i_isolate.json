@@ -1,0 +1,16 @@
+{
+  "file": "isolate.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/i/isolate/",
+  "source_name": "Spell: Isolate",
+  "sections": [
+    {
+      "id": "isolate",
+      "title": "Isolate",
+      "anchor_heading": "# Isolate",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Isolate, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

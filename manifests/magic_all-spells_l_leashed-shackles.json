@@ -1,0 +1,16 @@
+{
+  "file": "leashed-shackles.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/l/leashed-shackles/",
+  "source_name": "Spell: Leashed Shackles",
+  "sections": [
+    {
+      "id": "leashed_shackles",
+      "title": "Leashed Shackles",
+      "anchor_heading": "# Leashed Shackles",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Leashed Shackles, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

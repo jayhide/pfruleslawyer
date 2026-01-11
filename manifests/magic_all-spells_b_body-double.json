@@ -1,0 +1,16 @@
+{
+  "file": "body-double.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/b/body-double/",
+  "source_name": "Spell: Body Double",
+  "sections": [
+    {
+      "id": "body_double",
+      "title": "Body Double",
+      "anchor_heading": "# Body Double",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Body Double, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

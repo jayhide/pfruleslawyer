@@ -1,0 +1,16 @@
+{
+  "file": "parchment-swarm.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/p/parchment-swarm/",
+  "source_name": "Spell: Parchment Swarm",
+  "sections": [
+    {
+      "id": "parchment_swarm",
+      "title": "Parchment Swarm",
+      "anchor_heading": "# Parchment Swarm",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Parchment Swarm, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

@@ -1,0 +1,16 @@
+{
+  "file": "sadomasochism.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/s/sadomasochism/",
+  "source_name": "Spell: Sadomasochism",
+  "sections": [
+    {
+      "id": "sadomasochism",
+      "title": "Sadomasochism",
+      "anchor_heading": "# Sadomasochism",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Sadomasochism, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

@@ -1,0 +1,16 @@
+{
+  "file": "ki-leech.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/k/ki-leech/",
+  "source_name": "Spell: Ki Leech",
+  "sections": [
+    {
+      "id": "ki_leech",
+      "title": "Ki Leech",
+      "anchor_heading": "# Ki Leech",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Ki Leech, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

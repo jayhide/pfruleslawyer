@@ -1,0 +1,16 @@
+{
+  "file": "wall-of-mist.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/w/wall-of-mist/",
+  "source_name": "Spell: Wall of Mist",
+  "sections": [
+    {
+      "id": "wall_of_mist",
+      "title": "Wall of Mist",
+      "anchor_heading": "# Wall of Mist",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Wall of Mist, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

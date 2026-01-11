@@ -1,0 +1,16 @@
+{
+  "file": "flash-flood.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/f/flash-flood/",
+  "source_name": "Spell: Flash Flood",
+  "sections": [
+    {
+      "id": "flash_flood",
+      "title": "Flash Flood",
+      "anchor_heading": "# Flash Flood",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Flash Flood, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

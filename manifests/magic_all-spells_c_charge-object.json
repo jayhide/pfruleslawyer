@@ -1,0 +1,16 @@
+{
+  "file": "charge-object.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/c/charge-object/",
+  "source_name": "Spell: Charge Object",
+  "sections": [
+    {
+      "id": "charge_object",
+      "title": "Charge Object",
+      "anchor_heading": "# Charge Object",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Charge Object, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

@@ -1,0 +1,16 @@
+{
+  "file": "planetary-adaptation.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/p/planetary-adaptation/",
+  "source_name": "Spell: Planetary Adaptation",
+  "sections": [
+    {
+      "id": "planetary_adaptation",
+      "title": "Planetary Adaptation",
+      "anchor_heading": "# Planetary Adaptation",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Planetary Adaptation, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

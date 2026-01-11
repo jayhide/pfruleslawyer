@@ -1,0 +1,16 @@
+{
+  "file": "acid-arrow.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/a/acid-arrow/",
+  "source_name": "Spell: Acid Arrow",
+  "sections": [
+    {
+      "id": "acid_arrow",
+      "title": "Acid Arrow",
+      "anchor_heading": "# Acid Arrow",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Acid Arrow, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

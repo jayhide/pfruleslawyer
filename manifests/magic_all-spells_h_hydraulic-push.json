@@ -1,0 +1,16 @@
+{
+  "file": "hydraulic-push.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/h/hydraulic-push/",
+  "source_name": "Spell: Hydraulic Push",
+  "sections": [
+    {
+      "id": "hydraulic_push",
+      "title": "Hydraulic Push",
+      "anchor_heading": "# Hydraulic Push",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Hydraulic Push, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

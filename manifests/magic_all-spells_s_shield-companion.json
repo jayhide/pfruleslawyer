@@ -1,0 +1,16 @@
+{
+  "file": "shield-companion.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/s/shield-companion/",
+  "source_name": "Spell: Shield Companion (AA)",
+  "sections": [
+    {
+      "id": "shield_companion",
+      "title": "Shield Companion (AA)",
+      "anchor_heading": "# Shield Companion (AA)",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Shield Companion (AA), including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

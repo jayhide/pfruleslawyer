@@ -1,0 +1,16 @@
+{
+  "file": "decapitate.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/d/decapitate/",
+  "source_name": "Spell: Decapitate",
+  "sections": [
+    {
+      "id": "decapitate",
+      "title": "Decapitate",
+      "anchor_heading": "# Decapitate",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Decapitate, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

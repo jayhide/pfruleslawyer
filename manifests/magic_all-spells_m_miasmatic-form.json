@@ -1,0 +1,16 @@
+{
+  "file": "miasmatic-form.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/m/miasmatic-form/",
+  "source_name": "Spell: Miasmatic Form",
+  "sections": [
+    {
+      "id": "miasmatic_form",
+      "title": "Miasmatic Form",
+      "anchor_heading": "# Miasmatic Form",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Miasmatic Form, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

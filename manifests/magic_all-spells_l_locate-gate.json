@@ -1,0 +1,16 @@
+{
+  "file": "locate-gate.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/l/locate-gate/",
+  "source_name": "Spell: Locate Gate",
+  "sections": [
+    {
+      "id": "locate_gate",
+      "title": "Locate Gate",
+      "anchor_heading": "# Locate Gate",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Locate Gate, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

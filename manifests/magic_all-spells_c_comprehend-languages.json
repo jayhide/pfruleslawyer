@@ -1,0 +1,16 @@
+{
+  "file": "comprehend-languages.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/c/comprehend-languages/",
+  "source_name": "Spell: Comprehend Languages",
+  "sections": [
+    {
+      "id": "comprehend_languages",
+      "title": "Comprehend Languages",
+      "anchor_heading": "# Comprehend Languages",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Comprehend Languages, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

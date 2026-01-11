@@ -1,0 +1,16 @@
+{
+  "file": "carrion-compass.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/c/carrion-compass/",
+  "source_name": "Spell: Carrion Compass",
+  "sections": [
+    {
+      "id": "carrion_compass",
+      "title": "Carrion Compass",
+      "anchor_heading": "# Carrion Compass",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Carrion Compass, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

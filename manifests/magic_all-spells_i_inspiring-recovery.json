@@ -1,0 +1,16 @@
+{
+  "file": "inspiring-recovery.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/i/inspiring-recovery/",
+  "source_name": "Spell: Inspiring Recovery",
+  "sections": [
+    {
+      "id": "inspiring_recovery",
+      "title": "Inspiring Recovery",
+      "anchor_heading": "# Inspiring Recovery",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Inspiring Recovery, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

@@ -1,0 +1,16 @@
+{
+  "file": "dream-feast.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/d/dream-feast/",
+  "source_name": "Spell: Dream Feast",
+  "sections": [
+    {
+      "id": "dream_feast",
+      "title": "Dream Feast",
+      "anchor_heading": "# Dream Feast",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Dream Feast, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

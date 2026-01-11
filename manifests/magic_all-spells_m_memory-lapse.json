@@ -1,0 +1,16 @@
+{
+  "file": "memory-lapse.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/m/memory-lapse/",
+  "source_name": "Spell: Memory Lapse",
+  "sections": [
+    {
+      "id": "memory_lapse",
+      "title": "Memory Lapse",
+      "anchor_heading": "# Memory Lapse",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Memory Lapse, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

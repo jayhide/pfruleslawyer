@@ -1,0 +1,16 @@
+{
+  "file": "maze.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/m/maze/",
+  "source_name": "Spell: Maze",
+  "sections": [
+    {
+      "id": "maze",
+      "title": "Maze",
+      "anchor_heading": "# Maze",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Maze, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

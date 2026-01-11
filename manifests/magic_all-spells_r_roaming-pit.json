@@ -1,0 +1,16 @@
+{
+  "file": "roaming-pit.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/r/roaming-pit/",
+  "source_name": "Spell: Roaming Pit",
+  "sections": [
+    {
+      "id": "roaming_pit",
+      "title": "Roaming Pit",
+      "anchor_heading": "# Roaming Pit",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Roaming Pit, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

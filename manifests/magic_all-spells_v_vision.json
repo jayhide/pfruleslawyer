@@ -1,0 +1,16 @@
+{
+  "file": "vision.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/v/vision/",
+  "source_name": "Spell: Vision",
+  "sections": [
+    {
+      "id": "vision",
+      "title": "Vision",
+      "anchor_heading": "# Vision",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Vision, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

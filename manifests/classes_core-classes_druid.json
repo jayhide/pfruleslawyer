@@ -29,12 +29,14 @@
         "### Alternative Capstone Ability",
         "#### Home Ground (Su)"
       ],
-      "description": "Comprehensive rules for the Druid core class, including all class features, abilities, archetypes, and animal companion mechanics for nature-focused spellcasters.",
+      "description": "Complete rules for the Druid class, including class features like wild shape and nature bond, spells, animal companions, archetypes, and favored class bonuses.",
       "keywords": [
         "druid",
-        "nature bond",
         "wild shape",
+        "nature bond",
         "animal companion",
+        "orisons",
+        "spontaneous casting",
         "wild empathy",
         "woodland stride",
         "trackless step",
@@ -42,18 +44,14 @@
         "venom immunity",
         "thousand faces",
         "timeless body",
-        "orisons",
-        "spontaneous casting",
-        "summon nature's ally",
         "druidic",
         "nature sense",
-        "domains",
-        "terrain domains",
-        "animal domains",
+        "ex-druids",
+        "druid archetypes",
         "druidic herbalism",
-        "ex-druid",
-        "favored class bonuses"
+        "home ground"
       ]
     }
-  ]
+  ],
+  "category": "Classes"
 }

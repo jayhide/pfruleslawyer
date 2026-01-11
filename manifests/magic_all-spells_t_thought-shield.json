@@ -1,0 +1,16 @@
+{
+  "file": "thought-shield.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/t/thought-shield/",
+  "source_name": "Spell: Thought Shield",
+  "sections": [
+    {
+      "id": "thought_shield",
+      "title": "Thought Shield",
+      "anchor_heading": "# Thought Shield",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Thought Shield, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

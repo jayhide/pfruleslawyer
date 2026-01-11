@@ -1,0 +1,16 @@
+{
+  "file": "sacred-nimbus.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/s/sacred-nimbus/",
+  "source_name": "Spell: Sacred Nimbus",
+  "sections": [
+    {
+      "id": "sacred_nimbus",
+      "title": "Sacred Nimbus",
+      "anchor_heading": "# Sacred Nimbus",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Sacred Nimbus, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

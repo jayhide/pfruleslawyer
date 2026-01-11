@@ -1,0 +1,16 @@
+{
+  "file": "prestidigitation.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/p/prestidigitation/",
+  "source_name": "Spell: Prestidigitation",
+  "sections": [
+    {
+      "id": "prestidigitation",
+      "title": "Prestidigitation",
+      "anchor_heading": "# Prestidigitation",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Prestidigitation, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

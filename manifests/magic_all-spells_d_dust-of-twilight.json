@@ -1,0 +1,16 @@
+{
+  "file": "dust-of-twilight.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/d/dust-of-twilight/",
+  "source_name": "Spell: Dust of Twilight",
+  "sections": [
+    {
+      "id": "dust_of_twilight",
+      "title": "Dust of Twilight",
+      "anchor_heading": "# Dust of Twilight",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Dust of Twilight, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

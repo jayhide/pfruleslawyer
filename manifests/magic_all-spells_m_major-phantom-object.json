@@ -1,0 +1,16 @@
+{
+  "file": "major-phantom-object.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/m/major-phantom-object/",
+  "source_name": "Spell: Major Phantom Object",
+  "sections": [
+    {
+      "id": "major_phantom_object",
+      "title": "Major Phantom Object",
+      "anchor_heading": "# Major Phantom Object",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Major Phantom Object, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

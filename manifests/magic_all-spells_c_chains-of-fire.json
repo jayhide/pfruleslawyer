@@ -1,0 +1,16 @@
+{
+  "file": "chains-of-fire.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/c/chains-of-fire/",
+  "source_name": "Spell: Chains of Fire",
+  "sections": [
+    {
+      "id": "chains_of_fire",
+      "title": "Chains of Fire",
+      "anchor_heading": "# Chains of Fire",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Chains of Fire, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

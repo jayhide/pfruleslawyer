@@ -1,0 +1,16 @@
+{
+  "file": "word-of-beckoning.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/w/word-of-beckoning/",
+  "source_name": "Spell: Word of Beckoning",
+  "sections": [
+    {
+      "id": "word_of_beckoning",
+      "title": "Word of Beckoning",
+      "anchor_heading": "# Word of Beckoning",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Word of Beckoning, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

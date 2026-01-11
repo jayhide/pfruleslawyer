@@ -1,0 +1,16 @@
+{
+  "file": "desecrate.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/d/desecrate/",
+  "source_name": "Spell: Desecrate",
+  "sections": [
+    {
+      "id": "desecrate",
+      "title": "Desecrate",
+      "anchor_heading": "# Desecrate",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Desecrate, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

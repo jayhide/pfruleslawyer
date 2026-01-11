@@ -1,0 +1,16 @@
+{
+  "file": "molten-orb.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/m/molten-orb/",
+  "source_name": "Spell: Molten Orb",
+  "sections": [
+    {
+      "id": "molten_orb",
+      "title": "Molten Orb",
+      "anchor_heading": "# Molten Orb",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Molten Orb, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

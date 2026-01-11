@@ -1,0 +1,16 @@
+{
+  "file": "akashic-communion.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/a/akashic-communion/",
+  "source_name": "Spell: Akashic Communion",
+  "sections": [
+    {
+      "id": "akashic_communion",
+      "title": "Akashic Communion",
+      "anchor_heading": "# Akashic Communion",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Akashic Communion, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

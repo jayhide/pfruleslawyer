@@ -1,0 +1,16 @@
+{
+  "file": "burst-of-radiance.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/b/burst-of-radiance/",
+  "source_name": "Spell: Burst of Radiance",
+  "sections": [
+    {
+      "id": "burst_of_radiance",
+      "title": "Burst of Radiance",
+      "anchor_heading": "# Burst of Radiance",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Burst of Radiance, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

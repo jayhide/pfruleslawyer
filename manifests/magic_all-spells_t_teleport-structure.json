@@ -1,0 +1,16 @@
+{
+  "file": "teleport-structure.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/t/teleport-structure/",
+  "source_name": "Spell: Teleport Structure",
+  "sections": [
+    {
+      "id": "teleport_structure",
+      "title": "Teleport Structure",
+      "anchor_heading": "# Teleport Structure",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Teleport Structure, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

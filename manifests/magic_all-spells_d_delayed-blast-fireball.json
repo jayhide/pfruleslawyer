@@ -1,0 +1,16 @@
+{
+  "file": "delayed-blast-fireball.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/d/delayed-blast-fireball/",
+  "source_name": "Spell: Delayed Blast Fireball",
+  "sections": [
+    {
+      "id": "delayed_blast_fireball",
+      "title": "Delayed Blast Fireball",
+      "anchor_heading": "# Delayed Blast Fireball",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Delayed Blast Fireball, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

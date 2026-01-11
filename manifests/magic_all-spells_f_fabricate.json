@@ -1,0 +1,16 @@
+{
+  "file": "fabricate.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/f/fabricate/",
+  "source_name": "Spell: Fabricate",
+  "sections": [
+    {
+      "id": "fabricate",
+      "title": "Fabricate",
+      "anchor_heading": "# Fabricate",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Fabricate, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

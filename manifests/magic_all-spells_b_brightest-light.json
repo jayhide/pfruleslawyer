@@ -1,0 +1,16 @@
+{
+  "file": "brightest-light.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/b/brightest-light/",
+  "source_name": "Spell: Brightest Light",
+  "sections": [
+    {
+      "id": "brightest_light",
+      "title": "Brightest Light",
+      "anchor_heading": "# Brightest Light",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Brightest Light, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

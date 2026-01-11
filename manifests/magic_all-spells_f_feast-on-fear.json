@@ -1,0 +1,16 @@
+{
+  "file": "feast-on-fear.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/f/feast-on-fear/",
+  "source_name": "Spell: Feast On Fear",
+  "sections": [
+    {
+      "id": "feast_on_fear",
+      "title": "Feast On Fear",
+      "anchor_heading": "# Feast On Fear",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Feast On Fear, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

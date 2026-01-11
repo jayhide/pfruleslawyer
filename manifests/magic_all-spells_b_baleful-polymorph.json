@@ -1,0 +1,16 @@
+{
+  "file": "baleful-polymorph.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/b/baleful-polymorph/",
+  "source_name": "Spell: Baleful Polymorph",
+  "sections": [
+    {
+      "id": "baleful_polymorph",
+      "title": "Baleful Polymorph",
+      "anchor_heading": "# Baleful Polymorph",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Baleful Polymorph, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

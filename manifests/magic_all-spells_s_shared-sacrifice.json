@@ -1,0 +1,16 @@
+{
+  "file": "shared-sacrifice.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/s/shared-sacrifice/",
+  "source_name": "Spell: Shared Sacrifice",
+  "sections": [
+    {
+      "id": "shared_sacrifice",
+      "title": "Shared Sacrifice",
+      "anchor_heading": "# Shared Sacrifice",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Shared Sacrifice, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

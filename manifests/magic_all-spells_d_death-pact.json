@@ -1,0 +1,16 @@
+{
+  "file": "death-pact.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/d/death-pact/",
+  "source_name": "Spell: Death Pact",
+  "sections": [
+    {
+      "id": "death_pact",
+      "title": "Death Pact",
+      "anchor_heading": "# Death Pact",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Death Pact, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

@@ -1,0 +1,16 @@
+{
+  "file": "form-of-the-dragon-i.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/f/form-of-the-dragon-i/",
+  "source_name": "Spell: Form of the Dragon",
+  "sections": [
+    {
+      "id": "form_of_the_dragon_i",
+      "title": "Form of the Dragon",
+      "anchor_heading": "# Form of the Dragon",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Form of the Dragon, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

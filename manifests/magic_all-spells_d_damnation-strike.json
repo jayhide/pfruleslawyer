@@ -1,0 +1,16 @@
+{
+  "file": "damnation-strike.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/d/damnation-strike/",
+  "source_name": "Spell: Damnation Stride",
+  "sections": [
+    {
+      "id": "damnation_strike",
+      "title": "Damnation Stride",
+      "anchor_heading": "# Damnation Stride",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Damnation Stride, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

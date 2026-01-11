@@ -1,0 +1,16 @@
+{
+  "file": "karmic-blessing.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/k/karmic-blessing/",
+  "source_name": "Spell: Karmic Blessing",
+  "sections": [
+    {
+      "id": "karmic_blessing",
+      "title": "Karmic Blessing",
+      "anchor_heading": "# Karmic Blessing",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Karmic Blessing, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

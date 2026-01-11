@@ -1,0 +1,16 @@
+{
+  "file": "hypnotic-pattern.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/h/hypnotic-pattern/",
+  "source_name": "Spell: Hypnotic Pattern",
+  "sections": [
+    {
+      "id": "hypnotic_pattern",
+      "title": "Hypnotic Pattern",
+      "anchor_heading": "# Hypnotic Pattern",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Hypnotic Pattern, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

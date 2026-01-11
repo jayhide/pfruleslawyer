@@ -1,0 +1,16 @@
+{
+  "file": "shifted-steps.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/s/shifted-steps/",
+  "source_name": "Spell: Shifted Steps",
+  "sections": [
+    {
+      "id": "shifted_steps",
+      "title": "Shifted Steps",
+      "anchor_heading": "# Shifted Steps",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Shifted Steps, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

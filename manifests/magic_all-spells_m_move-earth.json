@@ -1,0 +1,16 @@
+{
+  "file": "move-earth.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/m/move-earth/",
+  "source_name": "Spell: Move Earth",
+  "sections": [
+    {
+      "id": "move_earth",
+      "title": "Move Earth",
+      "anchor_heading": "# Move Earth",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Move Earth, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

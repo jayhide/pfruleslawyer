@@ -1,0 +1,16 @@
+{
+  "file": "damp-powder.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/d/damp-powder/",
+  "source_name": "Spell: Damp Powder",
+  "sections": [
+    {
+      "id": "damp_powder",
+      "title": "Damp Powder",
+      "anchor_heading": "# Damp Powder",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Damp Powder, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

@@ -1,0 +1,16 @@
+{
+  "file": "id-insinuation.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/i/id-insinuation/",
+  "source_name": "Spell: Id Insinuation I",
+  "sections": [
+    {
+      "id": "id_insinuation",
+      "title": "Id Insinuation I",
+      "anchor_heading": "# Id Insinuation I",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Id Insinuation I, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

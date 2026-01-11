@@ -1,0 +1,16 @@
+{
+  "file": "explode-head.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/e/explode-head/",
+  "source_name": "Spell: Explode Head",
+  "sections": [
+    {
+      "id": "explode_head",
+      "title": "Explode Head",
+      "anchor_heading": "# Explode Head",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Explode Head, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

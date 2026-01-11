@@ -1,0 +1,16 @@
+{
+  "file": "minor-phantom-object.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/m/minor-phantom-object/",
+  "source_name": "Spell: Minor Phantom Object",
+  "sections": [
+    {
+      "id": "minor_phantom_object",
+      "title": "Minor Phantom Object",
+      "anchor_heading": "# Minor Phantom Object",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Minor Phantom Object, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

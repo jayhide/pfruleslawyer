@@ -1,0 +1,16 @@
+{
+  "file": "rubberskin.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/r/rubberskin/",
+  "source_name": "Spell: Rubberskin",
+  "sections": [
+    {
+      "id": "rubberskin",
+      "title": "Rubberskin",
+      "anchor_heading": "# Rubberskin",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Rubberskin, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

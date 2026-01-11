@@ -1,0 +1,16 @@
+{
+  "file": "shard-of-chaos.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/s/shard-of-chaos/",
+  "source_name": "Spell: Shard of Chaos",
+  "sections": [
+    {
+      "id": "shard_of_chaos",
+      "title": "Shard of Chaos",
+      "anchor_heading": "# Shard of Chaos",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Shard of Chaos, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

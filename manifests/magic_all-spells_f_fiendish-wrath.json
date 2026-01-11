@@ -1,0 +1,16 @@
+{
+  "file": "fiendish-wrath.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/f/fiendish-wrath/",
+  "source_name": "Spell: Fiendish Wrath",
+  "sections": [
+    {
+      "id": "fiendish_wrath",
+      "title": "Fiendish Wrath",
+      "anchor_heading": "# Fiendish Wrath",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Fiendish Wrath, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

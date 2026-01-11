@@ -1,0 +1,16 @@
+{
+  "file": "false-future.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/f/false-future/",
+  "source_name": "Spell: False Future",
+  "sections": [
+    {
+      "id": "false_future",
+      "title": "False Future",
+      "anchor_heading": "# False Future",
+      "includes_subheadings": [],
+      "description": "Full description of the spell False Future, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

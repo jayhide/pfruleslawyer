@@ -1,0 +1,16 @@
+{
+  "file": "refuge.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/r/refuge/",
+  "source_name": "Spell: Refuge",
+  "sections": [
+    {
+      "id": "refuge",
+      "title": "Refuge",
+      "anchor_heading": "# Refuge",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Refuge, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

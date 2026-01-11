@@ -1,0 +1,16 @@
+{
+  "file": "rusting-grasp.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/r/rusting-grasp/",
+  "source_name": "Spell: Rusting Grasp",
+  "sections": [
+    {
+      "id": "rusting_grasp",
+      "title": "Rusting Grasp",
+      "anchor_heading": "# Rusting Grasp",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Rusting Grasp, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

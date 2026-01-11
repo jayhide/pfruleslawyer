@@ -1,0 +1,16 @@
+{
+  "file": "speak-with-soul.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/s/speak-with-soul/",
+  "source_name": "Spell: Speak with Soul",
+  "sections": [
+    {
+      "id": "speak_with_soul",
+      "title": "Speak with Soul",
+      "anchor_heading": "# Speak with Soul",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Speak with Soul, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

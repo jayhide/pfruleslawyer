@@ -1,0 +1,16 @@
+{
+  "file": "burst-with-light.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/b/burst-with-light/",
+  "source_name": "Spell: Burst With Light",
+  "sections": [
+    {
+      "id": "burst_with_light",
+      "title": "Burst With Light",
+      "anchor_heading": "# Burst With Light",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Burst With Light, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

@@ -1,0 +1,16 @@
+{
+  "file": "signs-of-the-land.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/s/signs-of-the-land/",
+  "source_name": "Spell: Signs of the Land",
+  "sections": [
+    {
+      "id": "signs_of_the_land",
+      "title": "Signs of the Land",
+      "anchor_heading": "# Signs of the Land",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Signs of the Land, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

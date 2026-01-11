@@ -1,0 +1,16 @@
+{
+  "file": "unbearable-brightness.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/u/unbearable-brightness/",
+  "source_name": "Spell: Unbearable Brightness",
+  "sections": [
+    {
+      "id": "unbearable_brightness",
+      "title": "Unbearable Brightness",
+      "anchor_heading": "# Unbearable Brightness",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Unbearable Brightness, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

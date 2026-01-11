@@ -1,0 +1,16 @@
+{
+  "file": "fire-trail.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/f/fire-trail/",
+  "source_name": "Spell: Fire Trail",
+  "sections": [
+    {
+      "id": "fire_trail",
+      "title": "Fire Trail",
+      "anchor_heading": "# Fire Trail",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Fire Trail, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

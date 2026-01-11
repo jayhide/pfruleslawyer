@@ -1,0 +1,16 @@
+{
+  "file": "seek-shelter.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/s/seek-shelter/",
+  "source_name": "Spell: Seek Shelter",
+  "sections": [
+    {
+      "id": "seek_shelter",
+      "title": "Seek Shelter",
+      "anchor_heading": "# Seek Shelter",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Seek Shelter, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

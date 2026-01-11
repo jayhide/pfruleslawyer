@@ -1,0 +1,16 @@
+{
+  "file": "shadow-walk.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/s/shadow-walk/",
+  "source_name": "Spell: Shadow Walk",
+  "sections": [
+    {
+      "id": "shadow_walk",
+      "title": "Shadow Walk",
+      "anchor_heading": "# Shadow Walk",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Shadow Walk, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

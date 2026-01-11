@@ -1,0 +1,16 @@
+{
+  "file": "pernicious-pranksters.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/p/pernicious-pranksters/",
+  "source_name": "Spell: Pernicious Pranksters",
+  "sections": [
+    {
+      "id": "pernicious_pranksters",
+      "title": "Pernicious Pranksters",
+      "anchor_heading": "# Pernicious Pranksters",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Pernicious Pranksters, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

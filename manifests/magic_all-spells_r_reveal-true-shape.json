@@ -1,0 +1,16 @@
+{
+  "file": "reveal-true-shape.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/r/reveal-true-shape/",
+  "source_name": "Spell: Reveal True Shape",
+  "sections": [
+    {
+      "id": "reveal_true_shape",
+      "title": "Reveal True Shape",
+      "anchor_heading": "# Reveal True Shape",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Reveal True Shape, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

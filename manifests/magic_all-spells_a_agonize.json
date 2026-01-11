@@ -1,0 +1,16 @@
+{
+  "file": "agonize.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/a/agonize/",
+  "source_name": "Spell: Agonize",
+  "sections": [
+    {
+      "id": "agonize",
+      "title": "Agonize",
+      "anchor_heading": "# Agonize",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Agonize, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

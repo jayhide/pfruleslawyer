@@ -1,0 +1,16 @@
+{
+  "file": "wizened-appearance.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/w/wizened-appearance/",
+  "source_name": "Spell: Wizened Appearance",
+  "sections": [
+    {
+      "id": "wizened_appearance",
+      "title": "Wizened Appearance",
+      "anchor_heading": "# Wizened Appearance",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Wizened Appearance, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

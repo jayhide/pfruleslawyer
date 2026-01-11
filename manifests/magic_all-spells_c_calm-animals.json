@@ -1,0 +1,16 @@
+{
+  "file": "calm-animals.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/c/calm-animals/",
+  "source_name": "Spell: Calm Animals",
+  "sections": [
+    {
+      "id": "calm_animals",
+      "title": "Calm Animals",
+      "anchor_heading": "# Calm Animals",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Calm Animals, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

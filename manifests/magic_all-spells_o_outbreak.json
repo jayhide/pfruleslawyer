@@ -1,0 +1,16 @@
+{
+  "file": "outbreak.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/o/outbreak/",
+  "source_name": "Spell: Outbreak",
+  "sections": [
+    {
+      "id": "outbreak",
+      "title": "Outbreak",
+      "anchor_heading": "# Outbreak",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Outbreak, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

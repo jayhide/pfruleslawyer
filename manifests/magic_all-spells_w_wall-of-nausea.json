@@ -1,0 +1,16 @@
+{
+  "file": "wall-of-nausea.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/w/wall-of-nausea/",
+  "source_name": "Spell: Wall of Nausea",
+  "sections": [
+    {
+      "id": "wall_of_nausea",
+      "title": "Wall of Nausea",
+      "anchor_heading": "# Wall of Nausea",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Wall of Nausea, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

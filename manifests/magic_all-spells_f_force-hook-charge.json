@@ -1,0 +1,16 @@
+{
+  "file": "force-hook-charge.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/f/force-hook-charge/",
+  "source_name": "Spell: Force Hook Charge",
+  "sections": [
+    {
+      "id": "force_hook_charge",
+      "title": "Force Hook Charge",
+      "anchor_heading": "# Force Hook Charge",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Force Hook Charge, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

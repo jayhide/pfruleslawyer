@@ -1,0 +1,16 @@
+{
+  "file": "shadow-transmutation.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/s/shadow-transmutation/",
+  "source_name": "Spell: Shadow Transmutation",
+  "sections": [
+    {
+      "id": "shadow_transmutation",
+      "title": "Shadow Transmutation",
+      "anchor_heading": "# Shadow Transmutation",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Shadow Transmutation, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

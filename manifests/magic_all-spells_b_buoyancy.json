@@ -1,0 +1,16 @@
+{
+  "file": "buoyancy.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/b/buoyancy/",
+  "source_name": "Spell: Buoyancy",
+  "sections": [
+    {
+      "id": "buoyancy",
+      "title": "Buoyancy",
+      "anchor_heading": "# Buoyancy",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Buoyancy, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

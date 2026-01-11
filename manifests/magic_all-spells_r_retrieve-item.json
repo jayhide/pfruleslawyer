@@ -1,0 +1,16 @@
+{
+  "file": "retrieve-item.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/r/retrieve-item/",
+  "source_name": "Spell: Retrieve Item",
+  "sections": [
+    {
+      "id": "retrieve_item",
+      "title": "Retrieve Item",
+      "anchor_heading": "# Retrieve Item",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Retrieve Item, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

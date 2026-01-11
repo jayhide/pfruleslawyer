@@ -1,0 +1,16 @@
+{
+  "file": "erase.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/e/erase/",
+  "source_name": "Spell: Erase",
+  "sections": [
+    {
+      "id": "erase",
+      "title": "Erase",
+      "anchor_heading": "# Erase",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Erase, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

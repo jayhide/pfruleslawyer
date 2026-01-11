@@ -1,0 +1,16 @@
+{
+  "file": "remove-radioactivity.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/r/remove-radioactivity/",
+  "source_name": "Spell: Remove Radioactivity",
+  "sections": [
+    {
+      "id": "remove_radioactivity",
+      "title": "Remove Radioactivity",
+      "anchor_heading": "# Remove Radioactivity",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Remove Radioactivity, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

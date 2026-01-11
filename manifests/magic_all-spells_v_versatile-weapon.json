@@ -1,0 +1,16 @@
+{
+  "file": "versatile-weapon.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/v/versatile-weapon/",
+  "source_name": "Spell: Versatile Weapon",
+  "sections": [
+    {
+      "id": "versatile_weapon",
+      "title": "Versatile Weapon",
+      "anchor_heading": "# Versatile Weapon",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Versatile Weapon, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

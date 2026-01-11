@@ -1,0 +1,16 @@
+{
+  "file": "spellstaff.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/s/spellstaff/",
+  "source_name": "Spell: Spellstaff",
+  "sections": [
+    {
+      "id": "spellstaff",
+      "title": "Spellstaff",
+      "anchor_heading": "# Spellstaff",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Spellstaff, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

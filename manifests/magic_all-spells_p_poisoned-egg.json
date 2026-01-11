@@ -1,0 +1,16 @@
+{
+  "file": "poisoned-egg.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/p/poisoned-egg/",
+  "source_name": "Spell: Poisoned Egg",
+  "sections": [
+    {
+      "id": "poisoned_egg",
+      "title": "Poisoned Egg",
+      "anchor_heading": "# Poisoned Egg",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Poisoned Egg, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

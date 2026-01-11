@@ -1,0 +1,16 @@
+{
+  "file": "shapechange.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/s/shapechange/",
+  "source_name": "Spell: Shapechange",
+  "sections": [
+    {
+      "id": "shapechange",
+      "title": "Shapechange",
+      "anchor_heading": "# Shapechange",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Shapechange, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

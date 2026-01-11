@@ -1,0 +1,16 @@
+{
+  "file": "keyhole.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/k/keyhole/",
+  "source_name": "Spell: Keyhole",
+  "sections": [
+    {
+      "id": "keyhole",
+      "title": "Keyhole",
+      "anchor_heading": "# Keyhole",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Keyhole, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

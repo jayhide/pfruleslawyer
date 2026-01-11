@@ -1,0 +1,16 @@
+{
+  "file": "decrepit-disguise.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/d/decrepit-disguise/",
+  "source_name": "Spell: Decrepit Disguise",
+  "sections": [
+    {
+      "id": "decrepit_disguise",
+      "title": "Decrepit Disguise",
+      "anchor_heading": "# Decrepit Disguise",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Decrepit Disguise, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

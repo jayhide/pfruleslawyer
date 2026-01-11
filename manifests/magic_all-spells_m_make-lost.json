@@ -1,0 +1,16 @@
+{
+  "file": "make-lost.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/m/make-lost/",
+  "source_name": "Spell: Make Lost",
+  "sections": [
+    {
+      "id": "make_lost",
+      "title": "Make Lost",
+      "anchor_heading": "# Make Lost",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Make Lost, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

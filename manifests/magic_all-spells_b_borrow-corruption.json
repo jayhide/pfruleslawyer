@@ -1,0 +1,16 @@
+{
+  "file": "borrow-corruption.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/b/borrow-corruption/",
+  "source_name": "Spell: Borrow Corruption",
+  "sections": [
+    {
+      "id": "borrow_corruption",
+      "title": "Borrow Corruption",
+      "anchor_heading": "# Borrow Corruption",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Borrow Corruption, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

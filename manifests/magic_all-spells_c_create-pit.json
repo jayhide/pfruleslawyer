@@ -1,0 +1,16 @@
+{
+  "file": "create-pit.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/c/create-pit/",
+  "source_name": "Spell: Create Pit",
+  "sections": [
+    {
+      "id": "create_pit",
+      "title": "Create Pit",
+      "anchor_heading": "# Create Pit",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Create Pit, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

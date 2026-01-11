@@ -1,0 +1,16 @@
+{
+  "file": "tongues.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/t/tongues/",
+  "source_name": "Spell: Tongues",
+  "sections": [
+    {
+      "id": "tongues",
+      "title": "Tongues",
+      "anchor_heading": "# Tongues",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Tongues, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

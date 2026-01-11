@@ -1,0 +1,16 @@
+{
+  "file": "summon-giant-ally.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/s/summon-giant-ally/",
+  "source_name": "Spell: Summon Giant Ally",
+  "sections": [
+    {
+      "id": "summon_giant_ally",
+      "title": "Summon Giant Ally",
+      "anchor_heading": "# Summon Giant Ally",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Summon Giant Ally, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

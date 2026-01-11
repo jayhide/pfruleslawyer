@@ -1,0 +1,16 @@
+{
+  "file": "plant-voice.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/p/plant-voice/",
+  "source_name": "Spell: Plant Voice",
+  "sections": [
+    {
+      "id": "plant_voice",
+      "title": "Plant Voice",
+      "anchor_heading": "# Plant Voice",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Plant Voice, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

@@ -1,0 +1,16 @@
+{
+  "file": "acid-pit.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/a/acid-pit/",
+  "source_name": "Spell: Acid Pit",
+  "sections": [
+    {
+      "id": "acid_pit",
+      "title": "Acid Pit",
+      "anchor_heading": "# Acid Pit",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Acid Pit, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

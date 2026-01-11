@@ -1,0 +1,16 @@
+{
+  "file": "enter-image.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/e/enter-image/",
+  "source_name": "Spell: Enter Image",
+  "sections": [
+    {
+      "id": "enter_image",
+      "title": "Enter Image",
+      "anchor_heading": "# Enter Image",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Enter Image, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

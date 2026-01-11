@@ -1,0 +1,16 @@
+{
+  "file": "litany-of-truth.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/l/litany-of-truth/",
+  "source_name": "Spell: Litany of Truth",
+  "sections": [
+    {
+      "id": "litany_of_truth",
+      "title": "Litany of Truth",
+      "anchor_heading": "# Litany of Truth",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Litany of Truth, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

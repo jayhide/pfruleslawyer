@@ -1,0 +1,16 @@
+{
+  "file": "out-of-sight.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/o/out-of-sight/",
+  "source_name": "Spell: Out of Sight",
+  "sections": [
+    {
+      "id": "out_of_sight",
+      "title": "Out of Sight",
+      "anchor_heading": "# Out of Sight",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Out of Sight, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

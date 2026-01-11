@@ -1,0 +1,16 @@
+{
+  "file": "dancing-lantern.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/d/dancing-lantern/",
+  "source_name": "Spell: Dancing Lantern",
+  "sections": [
+    {
+      "id": "dancing_lantern",
+      "title": "Dancing Lantern",
+      "anchor_heading": "# Dancing Lantern",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Dancing Lantern, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

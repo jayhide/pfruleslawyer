@@ -1,0 +1,16 @@
+{
+  "file": "bone-fists.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/b/bone-fists/",
+  "source_name": "Spell: Bone Fists",
+  "sections": [
+    {
+      "id": "bone_fists",
+      "title": "Bone Fists",
+      "anchor_heading": "# Bone Fists",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Bone Fists, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

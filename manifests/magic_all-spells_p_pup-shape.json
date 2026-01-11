@@ -1,0 +1,16 @@
+{
+  "file": "pup-shape.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/p/pup-shape/",
+  "source_name": "Spell: Pup Shape",
+  "sections": [
+    {
+      "id": "pup_shape",
+      "title": "Pup Shape",
+      "anchor_heading": "# Pup Shape",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Pup Shape, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

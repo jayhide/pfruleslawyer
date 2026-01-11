@@ -1,0 +1,16 @@
+{
+  "file": "anywhere-but-here.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/a/anywhere-but-here/",
+  "source_name": "Spell: Anywhere But Here",
+  "sections": [
+    {
+      "id": "anywhere_but_here",
+      "title": "Anywhere But Here",
+      "anchor_heading": "# Anywhere But Here",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Anywhere But Here, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

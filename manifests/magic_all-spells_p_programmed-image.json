@@ -1,0 +1,16 @@
+{
+  "file": "programmed-image.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/p/programmed-image/",
+  "source_name": "Spell: Programmed Image",
+  "sections": [
+    {
+      "id": "programmed_image",
+      "title": "Programmed Image",
+      "anchor_heading": "# Programmed Image",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Programmed Image, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

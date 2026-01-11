@@ -1,0 +1,16 @@
+{
+  "file": "charm-monster.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/c/charm-monster/",
+  "source_name": "Spell: Charm Monster",
+  "sections": [
+    {
+      "id": "charm_monster",
+      "title": "Charm Monster",
+      "anchor_heading": "# Charm Monster",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Charm Monster, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

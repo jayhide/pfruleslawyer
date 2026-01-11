@@ -1,0 +1,16 @@
+{
+  "file": "clashing-rocks.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/c/clashing-rocks/",
+  "source_name": "Spell: Clashing Rocks",
+  "sections": [
+    {
+      "id": "clashing_rocks",
+      "title": "Clashing Rocks",
+      "anchor_heading": "# Clashing Rocks",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Clashing Rocks, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

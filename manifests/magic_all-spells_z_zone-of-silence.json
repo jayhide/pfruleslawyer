@@ -1,0 +1,16 @@
+{
+  "file": "zone-of-silence.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/z/zone-of-silence/",
+  "source_name": "Spell: Zone of Silence",
+  "sections": [
+    {
+      "id": "zone_of_silence",
+      "title": "Zone of Silence",
+      "anchor_heading": "# Zone of Silence",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Zone of Silence, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

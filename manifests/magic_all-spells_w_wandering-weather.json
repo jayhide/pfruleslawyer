@@ -1,0 +1,16 @@
+{
+  "file": "wandering-weather.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/w/wandering-weather/",
+  "source_name": "Spell: Wandering Weather",
+  "sections": [
+    {
+      "id": "wandering_weather",
+      "title": "Wandering Weather",
+      "anchor_heading": "# Wandering Weather",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Wandering Weather, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

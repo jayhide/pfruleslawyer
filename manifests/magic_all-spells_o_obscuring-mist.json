@@ -1,0 +1,16 @@
+{
+  "file": "obscuring-mist.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/o/obscuring-mist/",
+  "source_name": "Spell: Obscuring Mist",
+  "sections": [
+    {
+      "id": "obscuring_mist",
+      "title": "Obscuring Mist",
+      "anchor_heading": "# Obscuring Mist",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Obscuring Mist, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

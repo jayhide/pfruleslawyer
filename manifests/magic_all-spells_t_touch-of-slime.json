@@ -1,0 +1,16 @@
+{
+  "file": "touch-of-slime.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/t/touch-of-slime/",
+  "source_name": "Spell: Touch of Slime",
+  "sections": [
+    {
+      "id": "touch_of_slime",
+      "title": "Touch of Slime",
+      "anchor_heading": "# Touch of Slime",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Touch of Slime, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

@@ -1,0 +1,16 @@
+{
+  "file": "sotto-voce.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/s/sotto-voce/",
+  "source_name": "Spell: Sotto Voce",
+  "sections": [
+    {
+      "id": "sotto_voce",
+      "title": "Sotto Voce",
+      "anchor_heading": "# Sotto Voce",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Sotto Voce, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

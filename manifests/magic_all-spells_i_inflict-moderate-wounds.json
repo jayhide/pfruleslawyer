@@ -1,0 +1,16 @@
+{
+  "file": "inflict-moderate-wounds.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/i/inflict-moderate-wounds/",
+  "source_name": "Spell: Inflict Moderate Wounds",
+  "sections": [
+    {
+      "id": "inflict_moderate_wounds",
+      "title": "Inflict Moderate Wounds",
+      "anchor_heading": "# Inflict Moderate Wounds",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Inflict Moderate Wounds, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

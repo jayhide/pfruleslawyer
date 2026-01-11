@@ -1,0 +1,16 @@
+{
+  "file": "illusory-wall.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/i/illusory-wall/",
+  "source_name": "Spell: Illusory Wall",
+  "sections": [
+    {
+      "id": "illusory_wall",
+      "title": "Illusory Wall",
+      "anchor_heading": "# Illusory Wall",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Illusory Wall, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

@@ -1,0 +1,16 @@
+{
+  "file": "bilocation.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/b/bilocation/",
+  "source_name": "Spell: Bilocation",
+  "sections": [
+    {
+      "id": "bilocation",
+      "title": "Bilocation",
+      "anchor_heading": "# Bilocation",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Bilocation, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

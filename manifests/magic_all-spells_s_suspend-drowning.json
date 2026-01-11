@@ -1,0 +1,16 @@
+{
+  "file": "suspend-drowning.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/s/suspend-drowning/",
+  "source_name": "Spell: Suspend Drowning",
+  "sections": [
+    {
+      "id": "suspend_drowning",
+      "title": "Suspend Drowning",
+      "anchor_heading": "# Suspend Drowning",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Suspend Drowning, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

@@ -1,0 +1,16 @@
+{
+  "file": "fiery-body.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/f/fiery-body/",
+  "source_name": "Spell: Fiery Body",
+  "sections": [
+    {
+      "id": "fiery_body",
+      "title": "Fiery Body",
+      "anchor_heading": "# Fiery Body",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Fiery Body, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

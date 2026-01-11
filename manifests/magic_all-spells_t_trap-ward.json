@@ -1,0 +1,16 @@
+{
+  "file": "trap-ward.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/t/trap-ward/",
+  "source_name": "Spell: Trap Ward",
+  "sections": [
+    {
+      "id": "trap_ward",
+      "title": "Trap Ward",
+      "anchor_heading": "# Trap Ward",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Trap Ward, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

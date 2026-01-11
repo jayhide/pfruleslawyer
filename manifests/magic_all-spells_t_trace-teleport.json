@@ -1,0 +1,16 @@
+{
+  "file": "trace-teleport.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/t/trace-teleport/",
+  "source_name": "Spell: Trace Teleport",
+  "sections": [
+    {
+      "id": "trace_teleport",
+      "title": "Trace Teleport",
+      "anchor_heading": "# Trace Teleport",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Trace Teleport, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

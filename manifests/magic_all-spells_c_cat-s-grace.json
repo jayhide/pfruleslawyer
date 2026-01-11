@@ -1,0 +1,16 @@
+{
+  "file": "cat-s-grace.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/c/cat-s-grace/",
+  "source_name": "Spell: Cat\u2019s Grace",
+  "sections": [
+    {
+      "id": "cat_s_grace",
+      "title": "Cat\u2019s Grace",
+      "anchor_heading": "# Cat\u2019s Grace",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Cat\u2019s Grace, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

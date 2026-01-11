@@ -1,0 +1,16 @@
+{
+  "file": "litany-of-defense.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/l/litany-of-defense/",
+  "source_name": "Spell: Litany of Defense",
+  "sections": [
+    {
+      "id": "litany_of_defense",
+      "title": "Litany of Defense",
+      "anchor_heading": "# Litany of Defense",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Litany of Defense, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

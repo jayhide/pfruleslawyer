@@ -1,0 +1,16 @@
+{
+  "file": "monstrous-physique-i.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/m/monstrous-physique-i/",
+  "source_name": "Spell: Monstrous Physique",
+  "sections": [
+    {
+      "id": "monstrous_physique_i",
+      "title": "Monstrous Physique",
+      "anchor_heading": "# Monstrous Physique",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Monstrous Physique, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

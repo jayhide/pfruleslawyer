@@ -1,0 +1,16 @@
+{
+  "file": "recharge-innate-magic.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/r/recharge-innate-magic/",
+  "source_name": "Spell: Recharge Innate Magic",
+  "sections": [
+    {
+      "id": "recharge_innate_magic",
+      "title": "Recharge Innate Magic",
+      "anchor_heading": "# Recharge Innate Magic",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Recharge Innate Magic, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

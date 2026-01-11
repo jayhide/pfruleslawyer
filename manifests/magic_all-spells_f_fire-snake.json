@@ -1,0 +1,16 @@
+{
+  "file": "fire-snake.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/f/fire-snake/",
+  "source_name": "Spell: Fire Snake",
+  "sections": [
+    {
+      "id": "fire_snake",
+      "title": "Fire Snake",
+      "anchor_heading": "# Fire Snake",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Fire Snake, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

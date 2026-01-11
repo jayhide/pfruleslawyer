@@ -1,0 +1,16 @@
+{
+  "file": "sundered-serpent-coil.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/s/sundered-serpent-coil/",
+  "source_name": "Spell: Sundered Serpent Coil",
+  "sections": [
+    {
+      "id": "sundered_serpent_coil",
+      "title": "Sundered Serpent Coil",
+      "anchor_heading": "# Sundered Serpent Coil",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Sundered Serpent Coil, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

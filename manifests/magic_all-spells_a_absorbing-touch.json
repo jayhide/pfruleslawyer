@@ -1,0 +1,16 @@
+{
+  "file": "absorbing-touch.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/a/absorbing-touch/",
+  "source_name": "Spell: Absorbing Touch",
+  "sections": [
+    {
+      "id": "absorbing_touch",
+      "title": "Absorbing Touch",
+      "anchor_heading": "# Absorbing Touch",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Absorbing Touch, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

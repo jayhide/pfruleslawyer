@@ -1,0 +1,16 @@
+{
+  "file": "compel-hostility.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/c/compel-hostility/",
+  "source_name": "Spell: Compel Hostility",
+  "sections": [
+    {
+      "id": "compel_hostility",
+      "title": "Compel Hostility",
+      "anchor_heading": "# Compel Hostility",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Compel Hostility, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

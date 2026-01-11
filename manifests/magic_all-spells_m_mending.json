@@ -1,0 +1,16 @@
+{
+  "file": "mending.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/m/mending/",
+  "source_name": "Spell: Mending",
+  "sections": [
+    {
+      "id": "mending",
+      "title": "Mending",
+      "anchor_heading": "# Mending",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Mending, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

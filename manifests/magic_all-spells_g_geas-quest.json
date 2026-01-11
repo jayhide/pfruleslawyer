@@ -1,0 +1,16 @@
+{
+  "file": "geas-quest.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/g/geas-quest/",
+  "source_name": "Spell: Geas/Quest",
+  "sections": [
+    {
+      "id": "geas_quest",
+      "title": "Geas/Quest",
+      "anchor_heading": "# Geas/Quest",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Geas/Quest, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

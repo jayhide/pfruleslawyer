@@ -1,0 +1,16 @@
+{
+  "file": "cleanse.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/c/cleanse/",
+  "source_name": "Spell: Cleanse",
+  "sections": [
+    {
+      "id": "cleanse",
+      "title": "Cleanse",
+      "anchor_heading": "# Cleanse",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Cleanse, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

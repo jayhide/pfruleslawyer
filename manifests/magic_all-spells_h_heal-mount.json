@@ -1,0 +1,16 @@
+{
+  "file": "heal-mount.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/h/heal-mount/",
+  "source_name": "Spell: Heal Mount",
+  "sections": [
+    {
+      "id": "heal_mount",
+      "title": "Heal Mount",
+      "anchor_heading": "# Heal Mount",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Heal Mount, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

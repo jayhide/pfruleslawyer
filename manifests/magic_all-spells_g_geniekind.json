@@ -1,0 +1,16 @@
+{
+  "file": "geniekind.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/g/geniekind/",
+  "source_name": "Spell: Geniekind",
+  "sections": [
+    {
+      "id": "geniekind",
+      "title": "Geniekind",
+      "anchor_heading": "# Geniekind",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Geniekind, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

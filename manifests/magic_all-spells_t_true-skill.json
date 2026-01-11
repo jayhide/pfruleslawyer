@@ -1,0 +1,16 @@
+{
+  "file": "true-skill.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/t/true-skill/",
+  "source_name": "Spell: True Skill",
+  "sections": [
+    {
+      "id": "true_skill",
+      "title": "True Skill",
+      "anchor_heading": "# True Skill",
+      "includes_subheadings": [],
+      "description": "Full description of the spell True Skill, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

@@ -1,0 +1,16 @@
+{
+  "file": "merge-with-familiar.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/m/merge-with-familiar/",
+  "source_name": "Spell: Merge with Familiar",
+  "sections": [
+    {
+      "id": "merge_with_familiar",
+      "title": "Merge with Familiar",
+      "anchor_heading": "# Merge with Familiar",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Merge with Familiar, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

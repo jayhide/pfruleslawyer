@@ -1,0 +1,16 @@
+{
+  "file": "eaglesoul.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/e/eaglesoul/",
+  "source_name": "Spell: Eaglesoul",
+  "sections": [
+    {
+      "id": "eaglesoul",
+      "title": "Eaglesoul",
+      "anchor_heading": "# Eaglesoul",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Eaglesoul, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

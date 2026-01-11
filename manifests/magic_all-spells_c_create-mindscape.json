@@ -1,0 +1,16 @@
+{
+  "file": "create-mindscape.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/c/create-mindscape/",
+  "source_name": "Spell: Create Mindscape",
+  "sections": [
+    {
+      "id": "create_mindscape",
+      "title": "Create Mindscape",
+      "anchor_heading": "# Create Mindscape",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Create Mindscape, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

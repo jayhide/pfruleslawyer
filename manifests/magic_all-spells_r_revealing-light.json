@@ -1,0 +1,16 @@
+{
+  "file": "revealing-light.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/r/revealing-light/",
+  "source_name": "Spell: Revealing Light",
+  "sections": [
+    {
+      "id": "revealing_light",
+      "title": "Revealing Light",
+      "anchor_heading": "# Revealing Light",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Revealing Light, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

@@ -1,0 +1,16 @@
+{
+  "file": "canopic-conversion.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/c/canopic-conversion/",
+  "source_name": "Spell: Canopic Conversion",
+  "sections": [
+    {
+      "id": "canopic_conversion",
+      "title": "Canopic Conversion",
+      "anchor_heading": "# Canopic Conversion",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Canopic Conversion, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

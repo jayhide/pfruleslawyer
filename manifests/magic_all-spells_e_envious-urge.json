@@ -1,0 +1,16 @@
+{
+  "file": "envious-urge.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/e/envious-urge/",
+  "source_name": "Spell: Envious Urge",
+  "sections": [
+    {
+      "id": "envious_urge",
+      "title": "Envious Urge",
+      "anchor_heading": "# Envious Urge",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Envious Urge, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

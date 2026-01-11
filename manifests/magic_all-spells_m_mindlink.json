@@ -1,0 +1,16 @@
+{
+  "file": "mindlink.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/m/mindlink/",
+  "source_name": "Spell: Mindlink",
+  "sections": [
+    {
+      "id": "mindlink",
+      "title": "Mindlink",
+      "anchor_heading": "# Mindlink",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Mindlink, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

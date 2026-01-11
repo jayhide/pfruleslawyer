@@ -1,0 +1,16 @@
+{
+  "file": "phantom-steed.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/p/phantom-steed/",
+  "source_name": "Spell: Phantom Steed",
+  "sections": [
+    {
+      "id": "phantom_steed",
+      "title": "Phantom Steed",
+      "anchor_heading": "# Phantom Steed",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Phantom Steed, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

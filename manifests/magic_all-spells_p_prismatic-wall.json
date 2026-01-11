@@ -1,0 +1,16 @@
+{
+  "file": "prismatic-wall.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/p/prismatic-wall/",
+  "source_name": "Spell: Prismatic Wall",
+  "sections": [
+    {
+      "id": "prismatic_wall",
+      "title": "Prismatic Wall",
+      "anchor_heading": "# Prismatic Wall",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Prismatic Wall, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

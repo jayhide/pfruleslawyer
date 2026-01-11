@@ -1,0 +1,16 @@
+{
+  "file": "scouring-winds.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/s/scouring-winds/",
+  "source_name": "Spell: Scouring Winds",
+  "sections": [
+    {
+      "id": "scouring_winds",
+      "title": "Scouring Winds",
+      "anchor_heading": "# Scouring Winds",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Scouring Winds, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

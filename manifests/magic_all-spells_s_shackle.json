@@ -1,0 +1,16 @@
+{
+  "file": "shackle.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/s/shackle/",
+  "source_name": "Spell: Shackle",
+  "sections": [
+    {
+      "id": "shackle",
+      "title": "Shackle",
+      "anchor_heading": "# Shackle",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Shackle, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

@@ -1,0 +1,16 @@
+{
+  "file": "freedom.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/f/freedom/",
+  "source_name": "Spell: Freedom",
+  "sections": [
+    {
+      "id": "freedom",
+      "title": "Freedom",
+      "anchor_heading": "# Freedom",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Freedom, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

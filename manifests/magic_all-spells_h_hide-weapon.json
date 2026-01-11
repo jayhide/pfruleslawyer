@@ -1,0 +1,16 @@
+{
+  "file": "hide-weapon.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/h/hide-weapon/",
+  "source_name": "Spell: Hide Weapon",
+  "sections": [
+    {
+      "id": "hide_weapon",
+      "title": "Hide Weapon",
+      "anchor_heading": "# Hide Weapon",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Hide Weapon, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

@@ -1,0 +1,16 @@
+{
+  "file": "stone-tell.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/s/stone-tell/",
+  "source_name": "Spell: Stone Tell",
+  "sections": [
+    {
+      "id": "stone_tell",
+      "title": "Stone Tell",
+      "anchor_heading": "# Stone Tell",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Stone Tell, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

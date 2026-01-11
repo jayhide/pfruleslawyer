@@ -1,0 +1,16 @@
+{
+  "file": "apathy.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/a/apathy/",
+  "source_name": "Spell: Apathy",
+  "sections": [
+    {
+      "id": "apathy",
+      "title": "Apathy",
+      "anchor_heading": "# Apathy",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Apathy, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

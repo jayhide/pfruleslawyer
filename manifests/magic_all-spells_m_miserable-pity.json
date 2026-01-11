@@ -1,0 +1,16 @@
+{
+  "file": "miserable-pity.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/m/miserable-pity/",
+  "source_name": "Spell: Miserable Pity",
+  "sections": [
+    {
+      "id": "miserable_pity",
+      "title": "Miserable Pity",
+      "anchor_heading": "# Miserable Pity",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Miserable Pity, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

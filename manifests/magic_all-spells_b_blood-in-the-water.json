@@ -1,0 +1,16 @@
+{
+  "file": "blood-in-the-water.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/b/blood-in-the-water/",
+  "source_name": "Spell: Blood in the Water",
+  "sections": [
+    {
+      "id": "blood_in_the_water",
+      "title": "Blood in the Water",
+      "anchor_heading": "# Blood in the Water",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Blood in the Water, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

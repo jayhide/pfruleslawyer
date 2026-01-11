@@ -1,0 +1,16 @@
+{
+  "file": "illusion-of-calm.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/i/illusion-of-calm/",
+  "source_name": "Spell: Illusion of Calm",
+  "sections": [
+    {
+      "id": "illusion_of_calm",
+      "title": "Illusion of Calm",
+      "anchor_heading": "# Illusion of Calm",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Illusion of Calm, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

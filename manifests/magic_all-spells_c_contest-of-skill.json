@@ -1,0 +1,16 @@
+{
+  "file": "contest-of-skill.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/c/contest-of-skill/",
+  "source_name": "Spell: Contest of Skill",
+  "sections": [
+    {
+      "id": "contest_of_skill",
+      "title": "Contest of Skill",
+      "anchor_heading": "# Contest of Skill",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Contest of Skill, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

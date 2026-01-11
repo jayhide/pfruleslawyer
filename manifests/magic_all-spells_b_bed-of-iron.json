@@ -1,0 +1,16 @@
+{
+  "file": "bed-of-iron.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/b/bed-of-iron/",
+  "source_name": "Spell: Bed of Iron",
+  "sections": [
+    {
+      "id": "bed_of_iron",
+      "title": "Bed of Iron",
+      "anchor_heading": "# Bed of Iron",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Bed of Iron, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

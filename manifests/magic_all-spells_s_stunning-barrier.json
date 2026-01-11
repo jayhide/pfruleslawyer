@@ -1,0 +1,16 @@
+{
+  "file": "stunning-barrier.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/s/stunning-barrier/",
+  "source_name": "Spell: Stunning Barrier",
+  "sections": [
+    {
+      "id": "stunning_barrier",
+      "title": "Stunning Barrier",
+      "anchor_heading": "# Stunning Barrier",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Stunning Barrier, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

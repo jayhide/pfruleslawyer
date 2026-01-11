@@ -1,0 +1,16 @@
+{
+  "file": "fungal-blisters.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/f/fungal-blisters/",
+  "source_name": "Spell: Fungal Blisters",
+  "sections": [
+    {
+      "id": "fungal_blisters",
+      "title": "Fungal Blisters",
+      "anchor_heading": "# Fungal Blisters",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Fungal Blisters, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

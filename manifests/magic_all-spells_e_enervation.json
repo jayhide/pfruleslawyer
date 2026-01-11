@@ -1,0 +1,16 @@
+{
+  "file": "enervation.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/e/enervation/",
+  "source_name": "Spell: Enervation",
+  "sections": [
+    {
+      "id": "enervation",
+      "title": "Enervation",
+      "anchor_heading": "# Enervation",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Enervation, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

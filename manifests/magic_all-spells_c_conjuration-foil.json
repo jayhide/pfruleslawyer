@@ -1,0 +1,16 @@
+{
+  "file": "conjuration-foil.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/c/conjuration-foil/",
+  "source_name": "Spell: Conjuration Foil",
+  "sections": [
+    {
+      "id": "conjuration_foil",
+      "title": "Conjuration Foil",
+      "anchor_heading": "# Conjuration Foil",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Conjuration Foil, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

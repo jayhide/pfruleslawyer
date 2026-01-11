@@ -1,0 +1,16 @@
+{
+  "file": "sanctify-armor.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/s/sanctify-armor/",
+  "source_name": "Spell: Sanctify Armor",
+  "sections": [
+    {
+      "id": "sanctify_armor",
+      "title": "Sanctify Armor",
+      "anchor_heading": "# Sanctify Armor",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Sanctify Armor, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

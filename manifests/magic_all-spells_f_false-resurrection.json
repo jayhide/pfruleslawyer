@@ -1,0 +1,16 @@
+{
+  "file": "false-resurrection.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/f/false-resurrection/",
+  "source_name": "Spell: False Resurrection",
+  "sections": [
+    {
+      "id": "false_resurrection",
+      "title": "False Resurrection",
+      "anchor_heading": "# False Resurrection",
+      "includes_subheadings": [],
+      "description": "Full description of the spell False Resurrection, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

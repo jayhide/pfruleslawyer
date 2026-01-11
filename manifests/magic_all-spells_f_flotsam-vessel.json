@@ -1,0 +1,16 @@
+{
+  "file": "flotsam-vessel.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/f/flotsam-vessel/",
+  "source_name": "Spell: Flotsam Vessel",
+  "sections": [
+    {
+      "id": "flotsam_vessel",
+      "title": "Flotsam Vessel",
+      "anchor_heading": "# Flotsam Vessel",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Flotsam Vessel, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

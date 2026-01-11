@@ -1,0 +1,16 @@
+{
+  "file": "elemental-assessor.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/e/elemental-assessor/",
+  "source_name": "Spell: Elemental Assessor",
+  "sections": [
+    {
+      "id": "elemental_assessor",
+      "title": "Elemental Assessor",
+      "anchor_heading": "# Elemental Assessor",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Elemental Assessor, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

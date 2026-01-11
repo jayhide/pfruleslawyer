@@ -1,0 +1,16 @@
+{
+  "file": "blood-of-the-martyr.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/b/blood-of-the-martyr/",
+  "source_name": "Spell: Blood of the Martyr",
+  "sections": [
+    {
+      "id": "blood_of_the_martyr",
+      "title": "Blood of the Martyr",
+      "anchor_heading": "# Blood of the Martyr",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Blood of the Martyr, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

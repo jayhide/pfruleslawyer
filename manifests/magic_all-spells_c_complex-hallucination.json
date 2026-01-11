@@ -1,0 +1,16 @@
+{
+  "file": "complex-hallucination.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/c/complex-hallucination/",
+  "source_name": "Spell: Complex Hallucination",
+  "sections": [
+    {
+      "id": "complex_hallucination",
+      "title": "Complex Hallucination",
+      "anchor_heading": "# Complex Hallucination",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Complex Hallucination, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

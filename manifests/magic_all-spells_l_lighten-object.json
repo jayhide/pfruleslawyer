@@ -1,0 +1,16 @@
+{
+  "file": "lighten-object.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/l/lighten-object/",
+  "source_name": "Spell: Lighten Object",
+  "sections": [
+    {
+      "id": "lighten_object",
+      "title": "Lighten Object",
+      "anchor_heading": "# Lighten Object",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Lighten Object, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

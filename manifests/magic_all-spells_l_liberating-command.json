@@ -1,0 +1,16 @@
+{
+  "file": "liberating-command.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/l/liberating-command/",
+  "source_name": "Spell: Liberating Command",
+  "sections": [
+    {
+      "id": "liberating_command",
+      "title": "Liberating Command",
+      "anchor_heading": "# Liberating Command",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Liberating Command, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

@@ -1,0 +1,16 @@
+{
+  "file": "spawn-calling.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/c/spawn-calling/",
+  "source_name": "Spell: Call the Godspawn",
+  "sections": [
+    {
+      "id": "spawn_calling",
+      "title": "Call the Godspawn",
+      "anchor_heading": "# Call the Godspawn",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Call the Godspawn, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

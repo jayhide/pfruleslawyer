@@ -1,0 +1,16 @@
+{
+  "file": "energy-hack.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/e/energy-hack/",
+  "source_name": "Spell: Energy Hack",
+  "sections": [
+    {
+      "id": "energy_hack",
+      "title": "Energy Hack",
+      "anchor_heading": "# Energy Hack",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Energy Hack, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

@@ -1,0 +1,16 @@
+{
+  "file": "cackling-skull.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/c/cackling-skull/",
+  "source_name": "Spell: Cackling Skull",
+  "sections": [
+    {
+      "id": "cackling_skull",
+      "title": "Cackling Skull",
+      "anchor_heading": "# Cackling Skull",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Cackling Skull, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

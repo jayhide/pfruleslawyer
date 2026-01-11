@@ -1,0 +1,16 @@
+{
+  "file": "silence.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/s/silence/",
+  "source_name": "Spell: Silence",
+  "sections": [
+    {
+      "id": "silence",
+      "title": "Silence",
+      "anchor_heading": "# Silence",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Silence, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

@@ -1,0 +1,16 @@
+{
+  "file": "water-breathing.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/w/water-breathing/",
+  "source_name": "Spell: Water Breathing",
+  "sections": [
+    {
+      "id": "water_breathing",
+      "title": "Water Breathing",
+      "anchor_heading": "# Water Breathing",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Water Breathing, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

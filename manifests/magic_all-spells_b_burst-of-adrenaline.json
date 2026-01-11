@@ -1,0 +1,16 @@
+{
+  "file": "burst-of-adrenaline.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/b/burst-of-adrenaline/",
+  "source_name": "Spell: Burst of Adrenaline",
+  "sections": [
+    {
+      "id": "burst_of_adrenaline",
+      "title": "Burst of Adrenaline",
+      "anchor_heading": "# Burst of Adrenaline",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Burst of Adrenaline, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

@@ -1,0 +1,16 @@
+{
+  "file": "vinetrap.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/v/vinetrap/",
+  "source_name": "Spell: Vinetrap",
+  "sections": [
+    {
+      "id": "vinetrap",
+      "title": "Vinetrap",
+      "anchor_heading": "# Vinetrap",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Vinetrap, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

@@ -1,0 +1,16 @@
+{
+  "file": "summon-totem-creature.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/s/summon-totem-creature/",
+  "source_name": "Spell: Summon Totem Creature",
+  "sections": [
+    {
+      "id": "summon_totem_creature",
+      "title": "Summon Totem Creature",
+      "anchor_heading": "# Summon Totem Creature",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Summon Totem Creature, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

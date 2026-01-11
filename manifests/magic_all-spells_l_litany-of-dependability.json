@@ -1,0 +1,16 @@
+{
+  "file": "litany-of-dependability.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/l/litany-of-dependability/",
+  "source_name": "Spell: Litany of Dependability",
+  "sections": [
+    {
+      "id": "litany_of_dependability",
+      "title": "Litany of Dependability",
+      "anchor_heading": "# Litany of Dependability",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Litany of Dependability, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

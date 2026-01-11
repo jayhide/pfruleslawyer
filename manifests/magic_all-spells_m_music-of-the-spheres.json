@@ -1,0 +1,16 @@
+{
+  "file": "music-of-the-spheres.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/m/music-of-the-spheres/",
+  "source_name": "Spell: Music of the Spheres",
+  "sections": [
+    {
+      "id": "music_of_the_spheres",
+      "title": "Music of the Spheres",
+      "anchor_heading": "# Music of the Spheres",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Music of the Spheres, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

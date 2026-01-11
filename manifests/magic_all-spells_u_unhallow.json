@@ -1,0 +1,16 @@
+{
+  "file": "unhallow.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/u/unhallow/",
+  "source_name": "Spell: Unhallow",
+  "sections": [
+    {
+      "id": "unhallow",
+      "title": "Unhallow",
+      "anchor_heading": "# Unhallow",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Unhallow, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

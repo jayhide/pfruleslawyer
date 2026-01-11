@@ -1,0 +1,16 @@
+{
+  "file": "divine-power.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/d/divine-power/",
+  "source_name": "Spell: Divine Power",
+  "sections": [
+    {
+      "id": "divine_power",
+      "title": "Divine Power",
+      "anchor_heading": "# Divine Power",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Divine Power, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

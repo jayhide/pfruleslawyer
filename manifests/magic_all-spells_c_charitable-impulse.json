@@ -1,0 +1,16 @@
+{
+  "file": "charitable-impulse.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/c/charitable-impulse/",
+  "source_name": "Spell: Charitable Impulse",
+  "sections": [
+    {
+      "id": "charitable_impulse",
+      "title": "Charitable Impulse",
+      "anchor_heading": "# Charitable Impulse",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Charitable Impulse, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

@@ -1,0 +1,16 @@
+{
+  "file": "anthropomorphic-animal.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/a/anthropomorphic-animal/",
+  "source_name": "Spell: Anthropomorphic Animal",
+  "sections": [
+    {
+      "id": "anthropomorphic_animal",
+      "title": "Anthropomorphic Animal",
+      "anchor_heading": "# Anthropomorphic Animal",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Anthropomorphic Animal, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

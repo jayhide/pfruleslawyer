@@ -22,25 +22,26 @@
         "#### Vengeance Strike (Ex)",
         "#### Past Your Limits (Ex)"
       ],
-      "description": "Rules for the vigilante class, a character with a dual identity who operates as both a respected member of society and a masked crusader, featuring specializations, talents, and archetypes.",
+      "description": "Complete class features and rules for the vigilante base class, including dual identities, social and vigilante talents, specializations (avenger/stalker), and archetypes.",
       "keywords": [
         "vigilante",
         "dual identity",
         "social identity",
         "vigilante identity",
-        "seamless guise",
         "social talent",
         "vigilante talent",
-        "vigilante specialization",
         "avenger",
         "stalker",
         "hidden strike",
+        "seamless guise",
         "startling appearance",
         "frightening appearance",
         "stunning appearance",
         "vengeance strike",
+        "vigilante specialization",
         "unshakable"
       ]
     }
-  ]
+  ],
+  "category": "Classes"
 }

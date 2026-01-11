@@ -1,0 +1,16 @@
+{
+  "file": "silver-darts.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/s/silver-darts/",
+  "source_name": "Spell: Silver Darts",
+  "sections": [
+    {
+      "id": "silver_darts",
+      "title": "Silver Darts",
+      "anchor_heading": "# Silver Darts",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Silver Darts, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

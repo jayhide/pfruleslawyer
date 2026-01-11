@@ -1,0 +1,16 @@
+{
+  "file": "focused-scrutiny.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/f/focused-scrutiny/",
+  "source_name": "Spell: Focused Scrutiny",
+  "sections": [
+    {
+      "id": "focused_scrutiny",
+      "title": "Focused Scrutiny",
+      "anchor_heading": "# Focused Scrutiny",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Focused Scrutiny, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

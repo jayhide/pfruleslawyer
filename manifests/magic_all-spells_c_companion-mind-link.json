@@ -1,0 +1,16 @@
+{
+  "file": "companion-mind-link.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/c/companion-mind-link/",
+  "source_name": "Spell: Companion Mind Link",
+  "sections": [
+    {
+      "id": "companion_mind_link",
+      "title": "Companion Mind Link",
+      "anchor_heading": "# Companion Mind Link",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Companion Mind Link, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

@@ -1,0 +1,16 @@
+{
+  "file": "what-grows-within.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/w/what-grows-within/",
+  "source_name": "Spell: What Grows Within",
+  "sections": [
+    {
+      "id": "what_grows_within",
+      "title": "What Grows Within",
+      "anchor_heading": "# What Grows Within",
+      "includes_subheadings": [],
+      "description": "Full description of the spell What Grows Within, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

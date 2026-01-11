@@ -1,0 +1,16 @@
+{
+  "file": "hide-bruises.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/h/hide-bruises/",
+  "source_name": "Spell: Hide Bruises",
+  "sections": [
+    {
+      "id": "hide_bruises",
+      "title": "Hide Bruises",
+      "anchor_heading": "# Hide Bruises",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Hide Bruises, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

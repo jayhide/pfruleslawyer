@@ -1,0 +1,16 @@
+{
+  "file": "damnation.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/d/damnation/",
+  "source_name": "Spell: Damnation",
+  "sections": [
+    {
+      "id": "damnation",
+      "title": "Damnation",
+      "anchor_heading": "# Damnation",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Damnation, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

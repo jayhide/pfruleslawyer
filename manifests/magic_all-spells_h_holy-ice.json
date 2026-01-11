@@ -1,0 +1,16 @@
+{
+  "file": "holy-ice.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/h/holy-ice/",
+  "source_name": "Spell: Holy Ice",
+  "sections": [
+    {
+      "id": "holy_ice",
+      "title": "Holy Ice",
+      "anchor_heading": "# Holy Ice",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Holy Ice, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

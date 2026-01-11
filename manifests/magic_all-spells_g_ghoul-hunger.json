@@ -1,0 +1,16 @@
+{
+  "file": "ghoul-hunger.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/g/ghoul-hunger/",
+  "source_name": "Spell: Ghoul Hunger",
+  "sections": [
+    {
+      "id": "ghoul_hunger",
+      "title": "Ghoul Hunger",
+      "anchor_heading": "# Ghoul Hunger",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Ghoul Hunger, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

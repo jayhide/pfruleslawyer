@@ -1,0 +1,16 @@
+{
+  "file": "vicarious-view.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/v/vicarious-view/",
+  "source_name": "Spell: Vicarious View",
+  "sections": [
+    {
+      "id": "vicarious_view",
+      "title": "Vicarious View",
+      "anchor_heading": "# Vicarious View",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Vicarious View, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

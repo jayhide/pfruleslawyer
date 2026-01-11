@@ -1,0 +1,16 @@
+{
+  "file": "insanity.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/i/insanity/",
+  "source_name": "Spell: Insanity",
+  "sections": [
+    {
+      "id": "insanity",
+      "title": "Insanity",
+      "anchor_heading": "# Insanity",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Insanity, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

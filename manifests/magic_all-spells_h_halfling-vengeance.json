@@ -1,0 +1,16 @@
+{
+  "file": "halfling-vengeance.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/h/halfling-vengeance/",
+  "source_name": "Spell: Halfling Vengeance",
+  "sections": [
+    {
+      "id": "halfling_vengeance",
+      "title": "Halfling Vengeance",
+      "anchor_heading": "# Halfling Vengeance",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Halfling Vengeance, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

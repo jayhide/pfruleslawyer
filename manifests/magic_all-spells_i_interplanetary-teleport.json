@@ -1,0 +1,16 @@
+{
+  "file": "interplanetary-teleport.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/i/interplanetary-teleport/",
+  "source_name": "Spell: Interplanetary Teleport",
+  "sections": [
+    {
+      "id": "interplanetary_teleport",
+      "title": "Interplanetary Teleport",
+      "anchor_heading": "# Interplanetary Teleport",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Interplanetary Teleport, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

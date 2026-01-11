@@ -1,0 +1,16 @@
+{
+  "file": "primal-scream.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/p/primal-scream/",
+  "source_name": "Spell: Primal Scream",
+  "sections": [
+    {
+      "id": "primal_scream",
+      "title": "Primal Scream",
+      "anchor_heading": "# Primal Scream",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Primal Scream, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

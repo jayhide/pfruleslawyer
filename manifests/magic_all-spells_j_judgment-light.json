@@ -1,0 +1,16 @@
+{
+  "file": "judgment-light.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/j/judgment-light/",
+  "source_name": "Spell: Judgment Light",
+  "sections": [
+    {
+      "id": "judgment_light",
+      "title": "Judgment Light",
+      "anchor_heading": "# Judgment Light",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Judgment Light, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

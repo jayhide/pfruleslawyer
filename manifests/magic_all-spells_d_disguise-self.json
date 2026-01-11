@@ -1,0 +1,16 @@
+{
+  "file": "disguise-self.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/d/disguise-self/",
+  "source_name": "Spell: Disguise Self",
+  "sections": [
+    {
+      "id": "disguise_self",
+      "title": "Disguise Self",
+      "anchor_heading": "# Disguise Self",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Disguise Self, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

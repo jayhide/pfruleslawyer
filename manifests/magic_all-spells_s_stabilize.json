@@ -1,0 +1,16 @@
+{
+  "file": "stabilize.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/s/stabilize/",
+  "source_name": "Spell: Stabilize",
+  "sections": [
+    {
+      "id": "stabilize",
+      "title": "Stabilize",
+      "anchor_heading": "# Stabilize",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Stabilize, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

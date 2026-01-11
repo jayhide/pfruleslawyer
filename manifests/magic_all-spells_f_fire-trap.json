@@ -1,0 +1,16 @@
+{
+  "file": "fire-trap.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/f/fire-trap/",
+  "source_name": "Spell: Fire Trap",
+  "sections": [
+    {
+      "id": "fire_trap",
+      "title": "Fire Trap",
+      "anchor_heading": "# Fire Trap",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Fire Trap, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

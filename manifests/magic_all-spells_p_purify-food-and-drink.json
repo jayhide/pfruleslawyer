@@ -1,0 +1,16 @@
+{
+  "file": "purify-food-and-drink.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/p/purify-food-and-drink/",
+  "source_name": "Spell: Purify Food and Drink",
+  "sections": [
+    {
+      "id": "purify_food_and_drink",
+      "title": "Purify Food and Drink",
+      "anchor_heading": "# Purify Food and Drink",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Purify Food and Drink, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

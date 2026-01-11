@@ -1,0 +1,16 @@
+{
+  "file": "profane-nimbus.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/p/profane-nimbus/",
+  "source_name": "Spell: Profane Nimbus",
+  "sections": [
+    {
+      "id": "profane_nimbus",
+      "title": "Profane Nimbus",
+      "anchor_heading": "# Profane Nimbus",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Profane Nimbus, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

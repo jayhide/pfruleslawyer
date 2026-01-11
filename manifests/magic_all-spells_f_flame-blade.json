@@ -1,0 +1,16 @@
+{
+  "file": "flame-blade.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/f/flame-blade/",
+  "source_name": "Spell: Flame Blade",
+  "sections": [
+    {
+      "id": "flame_blade",
+      "title": "Flame Blade",
+      "anchor_heading": "# Flame Blade",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Flame Blade, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

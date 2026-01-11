@@ -1,0 +1,16 @@
+{
+  "file": "iron-spine.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/i/iron-spine/",
+  "source_name": "Spell: Iron Spine",
+  "sections": [
+    {
+      "id": "iron_spine",
+      "title": "Iron Spine",
+      "anchor_heading": "# Iron Spine",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Iron Spine, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

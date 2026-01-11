@@ -1,0 +1,16 @@
+{
+  "file": "align-weapon.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/a/align-weapon/",
+  "source_name": "Spell: Align Weapon",
+  "sections": [
+    {
+      "id": "align_weapon",
+      "title": "Align Weapon",
+      "anchor_heading": "# Align Weapon",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Align Weapon, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

@@ -1,0 +1,16 @@
+{
+  "file": "solid-note.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/s/solid-note/",
+  "source_name": "Spell: Solid Note",
+  "sections": [
+    {
+      "id": "solid_note",
+      "title": "Solid Note",
+      "anchor_heading": "# Solid Note",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Solid Note, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

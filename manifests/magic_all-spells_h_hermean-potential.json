@@ -1,0 +1,16 @@
+{
+  "file": "hermean-potential.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/h/hermean-potential/",
+  "source_name": "Spell: Hermean Potential",
+  "sections": [
+    {
+      "id": "hermean_potential",
+      "title": "Hermean Potential",
+      "anchor_heading": "# Hermean Potential",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Hermean Potential, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

@@ -1,0 +1,16 @@
+{
+  "file": "handy-grapnel.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/h/handy-grapnel/",
+  "source_name": "Spell: Handy Grapnel",
+  "sections": [
+    {
+      "id": "handy_grapnel",
+      "title": "Handy Grapnel",
+      "anchor_heading": "# Handy Grapnel",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Handy Grapnel, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

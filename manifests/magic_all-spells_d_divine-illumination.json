@@ -1,0 +1,16 @@
+{
+  "file": "divine-illumination.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/d/divine-illumination/",
+  "source_name": "Spell: Divine Illumination",
+  "sections": [
+    {
+      "id": "divine_illumination",
+      "title": "Divine Illumination",
+      "anchor_heading": "# Divine Illumination",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Divine Illumination, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

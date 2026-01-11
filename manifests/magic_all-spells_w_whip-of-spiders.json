@@ -1,0 +1,16 @@
+{
+  "file": "whip-of-spiders.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/w/whip-of-spiders/",
+  "source_name": "Spell: Whip of Spiders",
+  "sections": [
+    {
+      "id": "whip_of_spiders",
+      "title": "Whip of Spiders",
+      "anchor_heading": "# Whip of Spiders",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Whip of Spiders, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

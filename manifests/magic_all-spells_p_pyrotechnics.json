@@ -1,0 +1,16 @@
+{
+  "file": "pyrotechnics.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/p/pyrotechnics/",
+  "source_name": "Spell: Pyrotechnics",
+  "sections": [
+    {
+      "id": "pyrotechnics",
+      "title": "Pyrotechnics",
+      "anchor_heading": "# Pyrotechnics",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Pyrotechnics, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

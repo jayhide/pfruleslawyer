@@ -1,0 +1,16 @@
+{
+  "file": "getaway.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/g/getaway/",
+  "source_name": "Spell: Getaway",
+  "sections": [
+    {
+      "id": "getaway",
+      "title": "Getaway",
+      "anchor_heading": "# Getaway",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Getaway, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

@@ -1,0 +1,16 @@
+{
+  "file": "true-seeing.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/t/true-seeing/",
+  "source_name": "Spell: True Seeing",
+  "sections": [
+    {
+      "id": "true_seeing",
+      "title": "True Seeing",
+      "anchor_heading": "# True Seeing",
+      "includes_subheadings": [],
+      "description": "Full description of the spell True Seeing, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

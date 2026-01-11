@@ -1,0 +1,16 @@
+{
+  "file": "blurred-movement.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/b/blurred-movement/",
+  "source_name": "Spell: Blurred Movement",
+  "sections": [
+    {
+      "id": "blurred_movement",
+      "title": "Blurred Movement",
+      "anchor_heading": "# Blurred Movement",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Blurred Movement, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

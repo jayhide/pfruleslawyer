@@ -1,0 +1,16 @@
+{
+  "file": "litany-of-weakness.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/l/litany-of-weakness/",
+  "source_name": "Spell: Litany of Weakness",
+  "sections": [
+    {
+      "id": "litany_of_weakness",
+      "title": "Litany of Weakness",
+      "anchor_heading": "# Litany of Weakness",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Litany of Weakness, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

@@ -1,0 +1,16 @@
+{
+  "file": "heart-of-the-mammoth.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/h/heart-of-the-mammoth/",
+  "source_name": "Spell: Heart of the Mammoth",
+  "sections": [
+    {
+      "id": "heart_of_the_mammoth",
+      "title": "Heart of the Mammoth",
+      "anchor_heading": "# Heart of the Mammoth",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Heart of the Mammoth, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

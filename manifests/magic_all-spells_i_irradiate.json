@@ -1,0 +1,16 @@
+{
+  "file": "irradiate.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/i/irradiate/",
+  "source_name": "Spell: Irradiate",
+  "sections": [
+    {
+      "id": "irradiate",
+      "title": "Irradiate",
+      "anchor_heading": "# Irradiate",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Irradiate, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

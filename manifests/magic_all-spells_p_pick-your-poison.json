@@ -1,0 +1,16 @@
+{
+  "file": "pick-your-poison.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/p/pick-your-poison/",
+  "source_name": "Spell: Pick Your Poison",
+  "sections": [
+    {
+      "id": "pick_your_poison",
+      "title": "Pick Your Poison",
+      "anchor_heading": "# Pick Your Poison",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Pick Your Poison, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

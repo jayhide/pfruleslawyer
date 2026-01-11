@@ -1,0 +1,16 @@
+{
+  "file": "summon-ship.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/s/summon-ship/",
+  "source_name": "Spell: Summon Ship",
+  "sections": [
+    {
+      "id": "summon_ship",
+      "title": "Summon Ship",
+      "anchor_heading": "# Summon Ship",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Summon Ship, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

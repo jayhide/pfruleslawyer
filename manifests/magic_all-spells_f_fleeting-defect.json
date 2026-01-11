@@ -1,0 +1,16 @@
+{
+  "file": "fleeting-defect.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/f/fleeting-defect/",
+  "source_name": "Spell: Fleeting Defect",
+  "sections": [
+    {
+      "id": "fleeting_defect",
+      "title": "Fleeting Defect",
+      "anchor_heading": "# Fleeting Defect",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Fleeting Defect, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

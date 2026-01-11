@@ -1,0 +1,16 @@
+{
+  "file": "feeblemind.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/f/feeblemind/",
+  "source_name": "Spell: Feeblemind",
+  "sections": [
+    {
+      "id": "feeblemind",
+      "title": "Feeblemind",
+      "anchor_heading": "# Feeblemind",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Feeblemind, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

@@ -1,0 +1,16 @@
+{
+  "file": "atonement.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/a/atonement/",
+  "source_name": "Spell: Atonement",
+  "sections": [
+    {
+      "id": "atonement",
+      "title": "Atonement",
+      "anchor_heading": "# Atonement",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Atonement, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

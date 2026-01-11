@@ -1,0 +1,16 @@
+{
+  "file": "wicker-horse.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/w/wicker-horse/",
+  "source_name": "Spell: Wicker Horse",
+  "sections": [
+    {
+      "id": "wicker_horse",
+      "title": "Wicker Horse",
+      "anchor_heading": "# Wicker Horse",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Wicker Horse, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

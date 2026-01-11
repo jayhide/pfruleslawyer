@@ -1,0 +1,16 @@
+{
+  "file": "bestow-grace.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/b/bestow-grace/",
+  "source_name": "Spell: Bestow Grace",
+  "sections": [
+    {
+      "id": "bestow_grace",
+      "title": "Bestow Grace",
+      "anchor_heading": "# Bestow Grace",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Bestow Grace, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

@@ -1,0 +1,16 @@
+{
+  "file": "good-hope.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/g/good-hope/",
+  "source_name": "Spell: Good Hope",
+  "sections": [
+    {
+      "id": "good_hope",
+      "title": "Good Hope",
+      "anchor_heading": "# Good Hope",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Good Hope, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

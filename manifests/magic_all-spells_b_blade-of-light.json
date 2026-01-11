@@ -1,0 +1,16 @@
+{
+  "file": "blade-of-light.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/b/blade-of-light/",
+  "source_name": "Spell: Blade of Light",
+  "sections": [
+    {
+      "id": "blade_of_light",
+      "title": "Blade of Light",
+      "anchor_heading": "# Blade of Light",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Blade of Light, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

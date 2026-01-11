@@ -1,0 +1,16 @@
+{
+  "file": "magnifying-chime.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/m/magnifying-chime/",
+  "source_name": "Spell: Magnifying Chime",
+  "sections": [
+    {
+      "id": "magnifying_chime",
+      "title": "Magnifying Chime",
+      "anchor_heading": "# Magnifying Chime",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Magnifying Chime, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

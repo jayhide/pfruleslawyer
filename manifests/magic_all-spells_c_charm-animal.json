@@ -1,0 +1,16 @@
+{
+  "file": "charm-animal.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/c/charm-animal/",
+  "source_name": "Spell: Charm Animal",
+  "sections": [
+    {
+      "id": "charm_animal",
+      "title": "Charm Animal",
+      "anchor_heading": "# Charm Animal",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Charm Animal, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

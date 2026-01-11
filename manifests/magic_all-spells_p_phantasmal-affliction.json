@@ -1,0 +1,16 @@
+{
+  "file": "phantasmal-affliction.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/p/phantasmal-affliction/",
+  "source_name": "Spell: Phantasmal Affliction",
+  "sections": [
+    {
+      "id": "phantasmal_affliction",
+      "title": "Phantasmal Affliction",
+      "anchor_heading": "# Phantasmal Affliction",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Phantasmal Affliction, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

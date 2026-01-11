@@ -1,0 +1,16 @@
+{
+  "file": "undetectable-trap.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/u/undetectable-trap/",
+  "source_name": "Spell: Undetectable Trap",
+  "sections": [
+    {
+      "id": "undetectable_trap",
+      "title": "Undetectable Trap",
+      "anchor_heading": "# Undetectable Trap",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Undetectable Trap, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

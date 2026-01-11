@@ -1,0 +1,16 @@
+{
+  "file": "undeath-ward.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/u/undeath-ward/",
+  "source_name": "Spell: Undeath Ward",
+  "sections": [
+    {
+      "id": "undeath_ward",
+      "title": "Undeath Ward",
+      "anchor_heading": "# Undeath Ward",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Undeath Ward, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

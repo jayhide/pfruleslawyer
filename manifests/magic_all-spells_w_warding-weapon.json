@@ -1,0 +1,16 @@
+{
+  "file": "warding-weapon.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/w/warding-weapon/",
+  "source_name": "Spell: Warding Weapon",
+  "sections": [
+    {
+      "id": "warding_weapon",
+      "title": "Warding Weapon",
+      "anchor_heading": "# Warding Weapon",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Warding Weapon, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

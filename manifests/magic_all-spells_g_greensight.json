@@ -1,0 +1,16 @@
+{
+  "file": "greensight.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/g/greensight/",
+  "source_name": "Spell: Greensight",
+  "sections": [
+    {
+      "id": "greensight",
+      "title": "Greensight",
+      "anchor_heading": "# Greensight",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Greensight, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

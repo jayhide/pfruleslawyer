@@ -1,0 +1,16 @@
+{
+  "file": "create-food-and-water.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/c/create-food-and-water/",
+  "source_name": "Spell: Create Food and Water",
+  "sections": [
+    {
+      "id": "create_food_and_water",
+      "title": "Create Food and Water",
+      "anchor_heading": "# Create Food and Water",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Create Food and Water, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

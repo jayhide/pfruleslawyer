@@ -10,16 +10,11 @@ SECTION_SCHEMA = {
             "type": "array",
             "items": {
                 "type": "object",
-                "required": ["id", "title", "anchor_heading", "includes_subheadings", "description", "keywords"],
+                "required": ["id", "title", "anchor_heading", "description", "keywords"],
                 "properties": {
                     "id": {"type": "string", "description": "Unique snake_case identifier"},
                     "title": {"type": "string", "description": "Human-readable title"},
                     "anchor_heading": {"type": "string", "description": "Exact markdown heading text including # symbols"},
-                    "includes_subheadings": {
-                        "type": "array",
-                        "items": {"type": "string"},
-                        "description": "List of subheadings included in this section"
-                    },
                     "description": {"type": "string", "description": "Brief description of the rules and terms covered"},
                     "keywords": {
                         "type": "array",
@@ -46,7 +41,7 @@ Your task: Identify self-contained "topics" that should be retrieved together wh
 
 4. **Anchor headings**: Identify the markdown heading that starts each section (include the # symbols exactly as they appear).
 
-5. **Subheadings**: List all subheadings that fall under this section and should be included when retrieving it.
+5. **Keywords**: List keywords / phrases defined in this section. 
 
 ## Examples of GOOD chunking:
 
@@ -87,7 +82,6 @@ Output valid JSON matching this exact structure. Do not include any text before 
       "id": "snake_case_id",
       "title": "Human Readable Title",
       "anchor_heading": "### Exact Heading Text",
-      "includes_subheadings": ["#### Subheading 1", "##### Subheading 2"],
       "description": "Brief description of what rules this section covers",
       "keywords": ["keyword1", "keyword2", "keyword3"]
     }}
@@ -135,16 +129,13 @@ This document should be treated as a SINGLE section (do not split it). Your task
 
 Do not use generic or general terms as keywords, stick to terms that should trigger retrieval of these rules.
 
-3. **Subheadings**: List ALL markdown headings (###, ####, etc.) found in the document.
-
 ## Output Format
 
 Output valid JSON matching this exact structure. Do not include any text before or after the JSON:
 
 {{
   "description": "Brief description of the rules covered",
-  "keywords": ["keyword1", "keyword2", "keyword3"],
-  "subheadings": ["### Heading 1", "#### Heading 2"]
+  "keywords": ["keyword1", "keyword2", "keyword3"]
 }}
 
 ## Document to Analyze

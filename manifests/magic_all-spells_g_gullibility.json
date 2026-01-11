@@ -1,0 +1,16 @@
+{
+  "file": "gullibility.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/g/gullibility/",
+  "source_name": "Spell: Gullibility",
+  "sections": [
+    {
+      "id": "gullibility",
+      "title": "Gullibility",
+      "anchor_heading": "# Gullibility",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Gullibility, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

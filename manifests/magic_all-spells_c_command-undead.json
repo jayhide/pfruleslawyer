@@ -1,0 +1,16 @@
+{
+  "file": "command-undead.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/c/command-undead/",
+  "source_name": "Spell: Command Undead",
+  "sections": [
+    {
+      "id": "command_undead",
+      "title": "Command Undead",
+      "anchor_heading": "# Command Undead",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Command Undead, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

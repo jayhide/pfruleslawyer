@@ -1,0 +1,16 @@
+{
+  "file": "dimensional-blade.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/d/dimensional-blade/",
+  "source_name": "Spell: Dimensional Blade",
+  "sections": [
+    {
+      "id": "dimensional_blade",
+      "title": "Dimensional Blade",
+      "anchor_heading": "# Dimensional Blade",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Dimensional Blade, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

@@ -1,0 +1,16 @@
+{
+  "file": "armor-lock.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/a/armor-lock/",
+  "source_name": "Spell: Armor Lock",
+  "sections": [
+    {
+      "id": "armor_lock",
+      "title": "Armor Lock",
+      "anchor_heading": "# Armor Lock",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Armor Lock, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

@@ -1,0 +1,16 @@
+{
+  "file": "mad-hallucination.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/m/mad-hallucination/",
+  "source_name": "Spell: Mad Hallucination",
+  "sections": [
+    {
+      "id": "mad_hallucination",
+      "title": "Mad Hallucination",
+      "anchor_heading": "# Mad Hallucination",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Mad Hallucination, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

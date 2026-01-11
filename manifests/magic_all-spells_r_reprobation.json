@@ -1,0 +1,16 @@
+{
+  "file": "reprobation.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/r/reprobation/",
+  "source_name": "Spell: Reprobation",
+  "sections": [
+    {
+      "id": "reprobation",
+      "title": "Reprobation",
+      "anchor_heading": "# Reprobation",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Reprobation, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

@@ -1,0 +1,16 @@
+{
+  "file": "treasure-stitching.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/t/treasure-stitching/",
+  "source_name": "Spell: Treasure Stitching",
+  "sections": [
+    {
+      "id": "treasure_stitching",
+      "title": "Treasure Stitching",
+      "anchor_heading": "# Treasure Stitching",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Treasure Stitching, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

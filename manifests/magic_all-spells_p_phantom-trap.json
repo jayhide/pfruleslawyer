@@ -1,0 +1,16 @@
+{
+  "file": "phantom-trap.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/p/phantom-trap/",
+  "source_name": "Spell: Phantom Trap",
+  "sections": [
+    {
+      "id": "phantom_trap",
+      "title": "Phantom Trap",
+      "anchor_heading": "# Phantom Trap",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Phantom Trap, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

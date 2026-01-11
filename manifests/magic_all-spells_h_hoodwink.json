@@ -1,0 +1,16 @@
+{
+  "file": "hoodwink.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/h/hoodwink/",
+  "source_name": "Spell: Hoodwink",
+  "sections": [
+    {
+      "id": "hoodwink",
+      "title": "Hoodwink",
+      "anchor_heading": "# Hoodwink",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Hoodwink, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

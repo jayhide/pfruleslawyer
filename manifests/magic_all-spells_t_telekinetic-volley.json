@@ -1,0 +1,16 @@
+{
+  "file": "telekinetic-volley.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/t/telekinetic-volley/",
+  "source_name": "Spell: Telekinetic Volley",
+  "sections": [
+    {
+      "id": "telekinetic_volley",
+      "title": "Telekinetic Volley",
+      "anchor_heading": "# Telekinetic Volley",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Telekinetic Volley, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

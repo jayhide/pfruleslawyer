@@ -1,0 +1,16 @@
+{
+  "file": "sirocco.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/s/sirocco/",
+  "source_name": "Spell: Sirocco",
+  "sections": [
+    {
+      "id": "sirocco",
+      "title": "Sirocco",
+      "anchor_heading": "# Sirocco",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Sirocco, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

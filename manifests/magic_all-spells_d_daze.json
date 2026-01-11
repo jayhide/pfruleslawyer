@@ -1,0 +1,16 @@
+{
+  "file": "daze.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/d/daze/",
+  "source_name": "Spell: Daze",
+  "sections": [
+    {
+      "id": "daze",
+      "title": "Daze",
+      "anchor_heading": "# Daze",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Daze, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

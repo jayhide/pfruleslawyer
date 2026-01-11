@@ -1,0 +1,16 @@
+{
+  "file": "searching-shadows.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/s/searching-shadows/",
+  "source_name": "Spell: Searching Shadows",
+  "sections": [
+    {
+      "id": "searching_shadows",
+      "title": "Searching Shadows",
+      "anchor_heading": "# Searching Shadows",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Searching Shadows, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

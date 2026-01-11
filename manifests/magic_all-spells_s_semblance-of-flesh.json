@@ -1,0 +1,16 @@
+{
+  "file": "semblance-of-flesh.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/s/semblance-of-flesh/",
+  "source_name": "Spell: Semblance of Flesh",
+  "sections": [
+    {
+      "id": "semblance_of_flesh",
+      "title": "Semblance of Flesh",
+      "anchor_heading": "# Semblance of Flesh",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Semblance of Flesh, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

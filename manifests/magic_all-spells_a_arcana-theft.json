@@ -1,0 +1,16 @@
+{
+  "file": "arcana-theft.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/a/arcana-theft/",
+  "source_name": "Spell: Arcana Theft",
+  "sections": [
+    {
+      "id": "arcana_theft",
+      "title": "Arcana Theft",
+      "anchor_heading": "# Arcana Theft",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Arcana Theft, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

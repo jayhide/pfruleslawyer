@@ -1,0 +1,16 @@
+{
+  "file": "heroes-feast.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/h/heroes-feast/",
+  "source_name": "Spell: Heroes\u2019 Feast",
+  "sections": [
+    {
+      "id": "heroes_feast",
+      "title": "Heroes\u2019 Feast",
+      "anchor_heading": "# Heroes\u2019 Feast",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Heroes\u2019 Feast, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

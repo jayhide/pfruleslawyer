@@ -1,0 +1,16 @@
+{
+  "file": "lock-gaze.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/l/lock-gaze/",
+  "source_name": "Spell: Lock Gaze",
+  "sections": [
+    {
+      "id": "lock_gaze",
+      "title": "Lock Gaze",
+      "anchor_heading": "# Lock Gaze",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Lock Gaze, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

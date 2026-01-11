@@ -1,0 +1,16 @@
+{
+  "file": "coin-shot.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/c/coin-shot/",
+  "source_name": "Spell: Coin Shot",
+  "sections": [
+    {
+      "id": "coin_shot",
+      "title": "Coin Shot",
+      "anchor_heading": "# Coin Shot",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Coin Shot, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

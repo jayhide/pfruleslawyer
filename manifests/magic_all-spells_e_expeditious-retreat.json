@@ -1,0 +1,16 @@
+{
+  "file": "expeditious-retreat.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/e/expeditious-retreat/",
+  "source_name": "Spell: Expeditious Retreat",
+  "sections": [
+    {
+      "id": "expeditious_retreat",
+      "title": "Expeditious Retreat",
+      "anchor_heading": "# Expeditious Retreat",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Expeditious Retreat, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

@@ -9,6 +9,7 @@
       "anchor_heading": "# Inquisitor",
       "includes_subheadings": [
         "### Class Skills",
+        "### Class Features",
         "#### Weapon and Armor Proficiency",
         "#### Spells",
         "#### Domain (or Inquisition)",
@@ -33,12 +34,12 @@
         "### Alternative Capstone Ability",
         "#### Team Leader (Ex)"
       ],
-      "description": "Comprehensive rules for the Inquisitor class, including all class features, spells, judgments, domains, archetypes, and progression mechanics.",
+      "description": "Complete rules for the Inquisitor class in Pathfinder 1e, covering class features like judgments, bane abilities, solo tactics, teamwork feats, spellcasting, and all progression from levels 1-20.",
       "keywords": [
         "inquisitor",
         "judgment",
-        "judgement",
         "bane",
+        "greater bane",
         "solo tactics",
         "teamwork feat",
         "stern gaze",
@@ -46,21 +47,20 @@
         "detect alignment",
         "track",
         "discern lies",
+        "second judgment",
         "stalwart",
-        "greater bane",
         "exploit weakness",
+        "third judgment",
         "slayer",
         "true judgment",
         "monster lore",
         "orisons",
         "domain",
         "inquisition",
-        "second judgment",
-        "third judgment",
         "ex-inquisitor",
-        "capstone",
         "team leader"
       ]
     }
-  ]
+  ],
+  "category": "Classes"
 }

@@ -1,0 +1,16 @@
+{
+  "file": "shadow-projection.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/s/shadow-projection/",
+  "source_name": "Spell: Shadow Projection",
+  "sections": [
+    {
+      "id": "shadow_projection",
+      "title": "Shadow Projection",
+      "anchor_heading": "# Shadow Projection",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Shadow Projection, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

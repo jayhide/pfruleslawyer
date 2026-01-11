@@ -1,0 +1,16 @@
+{
+  "file": "veil-of-ash.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/v/veil-of-ash/",
+  "source_name": "Spell: Veil of Ash",
+  "sections": [
+    {
+      "id": "veil_of_ash",
+      "title": "Veil of Ash",
+      "anchor_heading": "# Veil of Ash",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Veil of Ash, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

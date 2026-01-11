@@ -1,0 +1,16 @@
+{
+  "file": "dragonvoice.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/d/dragonvoice/",
+  "source_name": "Spell: Dragonvoice",
+  "sections": [
+    {
+      "id": "dragonvoice",
+      "title": "Dragonvoice",
+      "anchor_heading": "# Dragonvoice",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Dragonvoice, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

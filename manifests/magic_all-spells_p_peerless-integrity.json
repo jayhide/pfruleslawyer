@@ -1,0 +1,16 @@
+{
+  "file": "peerless-integrity.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/p/peerless-integrity/",
+  "source_name": "Spell: Peerless Integrity",
+  "sections": [
+    {
+      "id": "peerless_integrity",
+      "title": "Peerless Integrity",
+      "anchor_heading": "# Peerless Integrity",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Peerless Integrity, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

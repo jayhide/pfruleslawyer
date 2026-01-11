@@ -1,0 +1,16 @@
+{
+  "file": "final-sacrifice.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/f/final-sacrifice/",
+  "source_name": "Spell: Final Sacrifice",
+  "sections": [
+    {
+      "id": "final_sacrifice",
+      "title": "Final Sacrifice",
+      "anchor_heading": "# Final Sacrifice",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Final Sacrifice, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

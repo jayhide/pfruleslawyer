@@ -1,0 +1,16 @@
+{
+  "file": "find-traps.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/f/find-traps/",
+  "source_name": "Spell: Find Traps",
+  "sections": [
+    {
+      "id": "find_traps",
+      "title": "Find Traps",
+      "anchor_heading": "# Find Traps",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Find Traps, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

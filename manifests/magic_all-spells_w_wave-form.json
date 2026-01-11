@@ -1,0 +1,16 @@
+{
+  "file": "wave-form.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/w/wave-form/",
+  "source_name": "Spell: Wave Form",
+  "sections": [
+    {
+      "id": "wave_form",
+      "title": "Wave Form",
+      "anchor_heading": "# Wave Form",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Wave Form, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

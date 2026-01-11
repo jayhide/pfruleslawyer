@@ -1,0 +1,16 @@
+{
+  "file": "open-and-shut.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/o/open-and-shut/",
+  "source_name": "Spell: Open and Shut",
+  "sections": [
+    {
+      "id": "open_and_shut",
+      "title": "Open and Shut",
+      "anchor_heading": "# Open and Shut",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Open and Shut, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

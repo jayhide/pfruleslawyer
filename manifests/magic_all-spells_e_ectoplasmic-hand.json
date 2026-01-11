@@ -1,0 +1,16 @@
+{
+  "file": "ectoplasmic-hand.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/e/ectoplasmic-hand/",
+  "source_name": "Spell: Ectoplasmic Hand",
+  "sections": [
+    {
+      "id": "ectoplasmic_hand",
+      "title": "Ectoplasmic Hand",
+      "anchor_heading": "# Ectoplasmic Hand",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Ectoplasmic Hand, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

@@ -101,6 +101,33 @@ def normalize_url(url: str) -> tuple[str, str | None]:
     return base, fragment
 
 
+def extract_headings_from_content(content: str) -> list[tuple[str, str | None]]:
+    """Extract all headings from markdown content with their anchor IDs.
+
+    Args:
+        content: Markdown content
+
+    Returns:
+        List of (heading_text, anchor_id) tuples. anchor_id may be None.
+    """
+    headings = []
+    for line in content.split('\n'):
+        # Match markdown headings (## to ######)
+        match = re.match(r'^(#{2,6})\s+(.+)$', line)
+        if match:
+            heading_text = match.group(2).strip()
+            # Extract anchor ID if present: "Heading Text {#anchor_id}"
+            anchor_match = re.search(r'\{#([^}]+)\}\s*$', heading_text)
+            if anchor_match:
+                anchor_id = anchor_match.group(1)
+                # Remove anchor from heading text for display matching
+                heading_text = heading_text[:anchor_match.start()].strip()
+            else:
+                anchor_id = None
+            headings.append((heading_text, anchor_id))
+    return headings
+
+
 class Lemmatizer:
     """Lemmatizer for normalizing words to their base form.
 
@@ -222,6 +249,7 @@ class Reranker:
         self,
         query: str,
         results: list[dict],
+        weight_getter: "callable[[str], float] | None" = None
     ) -> list[dict]:
         """Rerank results using cross-encoder relevance scores.
 
@@ -231,6 +259,9 @@ class Reranker:
         Args:
             query: The search query
             results: List of result dicts from vector search
+            weight_getter: Optional callable that takes a category name and returns
+                          the rerank_weight for that category. If None, uses global
+                          RERANK_WEIGHT constant.
 
         Returns:
             Results sorted by cross-encoder relevance score, with
@@ -264,9 +295,18 @@ class Reranker:
             result["rerank_score"] = float(score)
             # Normalize rerank score to 0-1 range
             normalized_rerank = (score - min_score) / score_range
+
+            # Get category-specific rerank weight or use global default
+            if weight_getter:
+                category = result.get("category", "Uncategorized")
+                rerank_weight = weight_getter(category)
+            else:
+                rerank_weight = RERANK_WEIGHT
+            retrieval_weight = 1.0 - rerank_weight
+
             # Combine with retrieval score (weighted average)
             retrieval_score = result.get("score", 0.5)
-            result["combined_score"] = RERANK_WEIGHT * normalized_rerank + RETRIEVAL_WEIGHT * retrieval_score
+            result["combined_score"] = rerank_weight * normalized_rerank + retrieval_weight * retrieval_score
 
         return sorted(results, key=lambda x: x["combined_score"], reverse=True)
 
@@ -314,6 +354,59 @@ class RulesVectorStore:
         self._section_metadata: dict[str, dict] | None = None
         self._url_index: dict[str, list[str]] | None = None  # base URL -> section unique_ids
         self._heading_to_section: dict[str, dict[str, str]] | None = None  # base URL -> {heading_text: unique_id}
+        self._anchor_id_index: dict[str, dict[str, str]] | None = None  # base URL -> {anchor_id: unique_id}
+
+        # Category-specific search weights
+        self._category_weights: dict[str, dict[str, float]] | None = None
+        self._config_path = Path("preprocess_config.json")
+
+    def _load_category_weights(self) -> None:
+        """Load category weights from config file.
+
+        Weights control how different scoring factors contribute to search ranking
+        per category. Categories without explicit weights use the '_default' weights.
+        """
+        if self._category_weights is not None:
+            return
+
+        # Default weights (same as original global constants)
+        self._category_weights = {
+            "_default": {
+                "semantic_weight": 1.0,
+                "keyword_boost": KEYWORD_MATCH_BOOST,
+                "subheading_boost": SUBHEADING_MATCH_BOOST,
+                "title_boost": TITLE_MATCH_BOOST,
+                "rerank_weight": RERANK_WEIGHT
+            }
+        }
+
+        # Try to load from config file
+        if self._config_path.exists():
+            try:
+                with open(self._config_path, encoding="utf-8") as f:
+                    config = json.load(f)
+                if "category_weights" in config:
+                    # Merge config weights with defaults
+                    for category, weights in config["category_weights"].items():
+                        self._category_weights[category] = weights
+            except (json.JSONDecodeError, KeyError):
+                pass  # Use defaults if config is invalid
+
+    def _get_weights_for_category(self, category: str) -> dict[str, float]:
+        """Get search weights for a category.
+
+        Args:
+            category: The category name (e.g., "Spells", "Skills")
+
+        Returns:
+            Dict with weight values for semantic_weight, keyword_boost,
+            subheading_boost, title_boost, and rerank_weight
+        """
+        self._load_category_weights()
+
+        if category in self._category_weights:
+            return self._category_weights[category]
+        return self._category_weights["_default"]
 
     def _load_keyword_index(self) -> None:
         """Load keyword and subheading indices from manifests.
@@ -329,6 +422,7 @@ class RulesVectorStore:
         self._section_metadata = {}  # unique_id -> section metadata
         self._url_index = {}  # normalized base URL -> list of section unique_ids
         self._heading_to_section = {}  # normalized base URL -> {normalized_heading: unique_id}
+        self._anchor_id_index = {}  # normalized base URL -> {anchor_id: unique_id}
 
         lemmatizer = Lemmatizer()
 
@@ -360,7 +454,7 @@ class RulesVectorStore:
                     "source_file": source_file,
                     "source_name": source_name,
                     "anchor_heading": section["anchor_heading"],
-                    "includes_subheadings": section.get("includes_subheadings", [])
+                    "category": manifest.get("category", "Uncategorized")
                 }
 
                 # Index keywords (lemmatized for matching)
@@ -369,15 +463,6 @@ class RulesVectorStore:
                     if kw_lemma not in self._keyword_index:
                         self._keyword_index[kw_lemma] = []
                     self._keyword_index[kw_lemma].append(unique_id)
-
-                # Index subheadings (extract text without # symbols, then lemmatize)
-                for subheading in section.get("includes_subheadings", []):
-                    # Extract just the text part (remove markdown # and bold **)
-                    text = re.sub(r'^[#\s*]+', '', subheading).strip('* ')
-                    text_lemma = _lemmatize_phrase(text)
-                    if text_lemma not in self._subheading_index:
-                        self._subheading_index[text_lemma] = []
-                    self._subheading_index[text_lemma].append(unique_id)
 
                 # Index section title (lemmatized)
                 title_lemma = _lemmatize_phrase(section["title"])
@@ -403,19 +488,33 @@ class RulesVectorStore:
                         self._url_index[base_url] = []
                     self._url_index[base_url].append(unique_id)
 
-                    # Build heading-to-section mapping for this URL
+                    # Build heading-to-section mapping from actual content
                     if base_url not in self._heading_to_section:
                         self._heading_to_section[base_url] = {}
+                    if base_url not in self._anchor_id_index:
+                        self._anchor_id_index[base_url] = {}
 
-                    # Index the anchor heading (normalized, lowercase)
-                    anchor_normalized = anchor_text.lower()
-                    self._heading_to_section[base_url][anchor_normalized] = unique_id
+                    # Get content from ChromaDB to extract actual headings with anchor IDs
+                    result = self.collection.get(ids=[unique_id], include=["metadatas"])
+                    if result["ids"] and result["metadatas"]:
+                        content = result["metadatas"][0].get("content", "")
 
-                    # Index all subheadings
-                    for subheading in section.get("includes_subheadings", []):
-                        sub_text = re.sub(r'^[#\s*]+', '', subheading).strip('* ')
-                        sub_normalized = sub_text.lower()
-                        self._heading_to_section[base_url][sub_normalized] = unique_id
+                        # Extract headings with anchor IDs from content
+                        headings = extract_headings_from_content(content)
+                        for heading_text, anchor_id in headings:
+                            # Index by heading text (normalized)
+                            normalized_heading = heading_text.lower()
+                            self._heading_to_section[base_url][normalized_heading] = unique_id
+
+                            # Index by anchor ID if present
+                            if anchor_id:
+                                self._anchor_id_index[base_url][anchor_id] = unique_id
+
+                            # Index subheading for search (lemmatized)
+                            heading_lemma = _lemmatize_phrase(heading_text)
+                            if heading_lemma not in self._subheading_index:
+                                self._subheading_index[heading_lemma] = []
+                            self._subheading_index[heading_lemma].append(unique_id)
 
     @staticmethod
     def _fallback_source_name(source_path: str) -> str:
@@ -459,7 +558,23 @@ class RulesVectorStore:
             unique_id = section_ids[0]
             return self._get_section_result(unique_id)
 
-        # Convert fragment to heading text and look up
+        # Try direct anchor ID lookup first (most reliable)
+        anchor_map = self._anchor_id_index.get(base_url, {})
+
+        # Try exact match on anchor ID
+        if fragment in anchor_map:
+            return self._get_section_result(anchor_map[fragment])
+
+        # Try normalized fragment: strip TOC- prefix, convert to lowercase with underscores
+        normalized_fragment = fragment
+        if normalized_fragment.upper().startswith("TOC-"):
+            normalized_fragment = normalized_fragment[4:]
+        normalized_fragment = normalized_fragment.lower().replace("-", "_")
+
+        if normalized_fragment in anchor_map:
+            return self._get_section_result(anchor_map[normalized_fragment])
+
+        # Fallback: Convert fragment to heading text and look up
         heading_text = fragment_to_heading_text(fragment)
         heading_map = self._heading_to_section.get(base_url, {})
 
@@ -546,8 +661,10 @@ class RulesVectorStore:
             query_text: The search query
 
         Returns:
-            Dict mapping unique_id to dict of match scores by type
-            (keyword_boost, subheading_boost, title_boost)
+            Dict mapping unique_id to dict of raw match counts by type
+            (keyword_matches, subheading_matches, title_matches).
+            These are raw counts, not weighted - weights are applied per-category
+            in the query() method.
         """
         self._load_keyword_index()
 
@@ -561,7 +678,7 @@ class RulesVectorStore:
 
         def _ensure_entry(uid: str) -> dict[str, float]:
             if uid not in matches:
-                matches[uid] = {"keyword_boost": 0, "subheading_boost": 0, "title_boost": 0}
+                matches[uid] = {"keyword_matches": 0, "subheading_matches": 0, "title_matches": 0}
             return matches[uid]
 
         def _matches_whole_word(phrase: str, text: str) -> bool:
@@ -580,26 +697,26 @@ class RulesVectorStore:
             # Full keyword appears in lemmatized query as whole word(s)
             if _matches_whole_word(keyword, query_lemma_text):
                 for uid in section_ids:
-                    _ensure_entry(uid)["keyword_boost"] += KEYWORD_MATCH_BOOST
-            # Or lemmatized query word matches keyword exactly
+                    _ensure_entry(uid)["keyword_matches"] += 1.0
+            # Or lemmatized query word matches keyword exactly (half weight)
             elif keyword in query_lemma_words:
                 for uid in section_ids:
-                    _ensure_entry(uid)["keyword_boost"] += KEYWORD_MATCH_BOOST * 0.5
+                    _ensure_entry(uid)["keyword_matches"] += 0.5
 
         # Check for subheading matches (subheadings are already lemmatized in the index)
         for subheading, section_ids in self._subheading_index.items():
             if _matches_whole_word(subheading, query_lemma_text):
                 for uid in section_ids:
-                    _ensure_entry(uid)["subheading_boost"] += SUBHEADING_MATCH_BOOST
+                    _ensure_entry(uid)["subheading_matches"] += 1.0
 
         # Check for title/anchor_heading matches (titles are already lemmatized in the index)
         for title, section_ids in self._title_index.items():
             if _matches_whole_word(title, query_lemma_text):
                 for uid in section_ids:
-                    _ensure_entry(uid)["title_boost"] += TITLE_MATCH_BOOST
+                    _ensure_entry(uid)["title_matches"] += 1.0
             elif title in query_lemma_words:
                 for uid in section_ids:
-                    _ensure_entry(uid)["title_boost"] += TITLE_MATCH_BOOST * 0.5
+                    _ensure_entry(uid)["title_matches"] += 0.5
 
         return matches
 
@@ -658,7 +775,8 @@ Keywords: {keywords_str}
                     "source_name": section.source_name,
                     "anchor_heading": section.anchor_heading,
                     "content": section.content,  # Original content with links
-                    "content_length": len(section.content)
+                    "content_length": len(section.content),
+                    "category": section.category
                 })
 
             self.collection.add(
@@ -708,18 +826,41 @@ Keywords: {keywords_str}
         # Build results dict keyed by ID for deduplication
         results_by_id = {}
 
-        def _get_boosts(uid: str) -> dict[str, float]:
-            """Get boost scores for a uid, defaulting to zeros."""
-            return exact_matches.get(uid, {"keyword_boost": 0, "subheading_boost": 0, "title_boost": 0})
+        def _get_raw_matches(uid: str) -> dict[str, float]:
+            """Get raw match counts for a uid, defaulting to zeros."""
+            return exact_matches.get(uid, {"keyword_matches": 0, "subheading_matches": 0, "title_matches": 0})
+
+        def _apply_category_weights(
+            semantic_score: float,
+            raw_matches: dict[str, float],
+            category: str
+        ) -> tuple[float, float, float, float, float]:
+            """Apply category-specific weights to compute final score.
+
+            Returns:
+                Tuple of (final_score, weighted_semantic, keyword_boost, subheading_boost, title_boost)
+            """
+            weights = self._get_weights_for_category(category)
+
+            # Apply weights to each component
+            weighted_semantic = semantic_score * weights.get("semantic_weight", 1.0)
+            keyword_boost = raw_matches["keyword_matches"] * weights.get("keyword_boost", KEYWORD_MATCH_BOOST)
+            subheading_boost = raw_matches["subheading_matches"] * weights.get("subheading_boost", SUBHEADING_MATCH_BOOST)
+            title_boost = raw_matches["title_matches"] * weights.get("title_boost", TITLE_MATCH_BOOST)
+
+            final_score = weighted_semantic + keyword_boost + subheading_boost + title_boost
+            return final_score, weighted_semantic, keyword_boost, subheading_boost, title_boost
 
         for i in range(len(results["ids"][0])):
             uid = results["ids"][0][i]
-            semantic_score = 1 / (1 + results["distances"][0][i])
+            raw_semantic_score = 1 / (1 + results["distances"][0][i])
+            category = results["metadatas"][0][i].get("category", "Uncategorized")
 
-            # Add exact match boosts if applicable
-            boosts = _get_boosts(uid)
-            total_boost = boosts["keyword_boost"] + boosts["subheading_boost"] + boosts["title_boost"]
-            final_score = semantic_score + total_boost
+            # Apply category-specific weights
+            raw_matches = _get_raw_matches(uid)
+            final_score, weighted_semantic, keyword_boost, subheading_boost, title_boost = _apply_category_weights(
+                raw_semantic_score, raw_matches, category
+            )
 
             results_by_id[uid] = {
                 "id": uid,
@@ -728,12 +869,13 @@ Keywords: {keywords_str}
                 "keywords": results["metadatas"][0][i]["keywords"],
                 "source_file": results["metadatas"][0][i]["source_file"],
                 "source_name": results["metadatas"][0][i].get("source_name") or self._fallback_source_name(results["metadatas"][0][i]["source_file"]),
+                "category": category,
                 "distance": results["distances"][0][i],
                 "score": final_score,
-                "semantic_score": semantic_score,
-                "keyword_boost": boosts["keyword_boost"],
-                "subheading_boost": boosts["subheading_boost"],
-                "title_boost": boosts["title_boost"],
+                "semantic_score": weighted_semantic,
+                "keyword_boost": keyword_boost,
+                "subheading_boost": subheading_boost,
+                "title_boost": title_boost,
                 # Return original content with links from metadata
                 "content": results["metadatas"][0][i].get("content") if include_content else None
             }
@@ -751,13 +893,18 @@ Keywords: {keywords_str}
             query_embedding = self.embedding_fn([query_text])[0]
 
             for i, uid in enumerate(extra_results["ids"]):
-                boosts = _get_boosts(uid)
-                total_boost = boosts["keyword_boost"] + boosts["subheading_boost"] + boosts["title_boost"]
-
                 # Compute cosine distance between query and document embedding
                 doc_embedding = extra_results["embeddings"][i]
                 distance = self._cosine_distance(query_embedding, doc_embedding)
-                semantic_score = 1 / (1 + distance)
+                raw_semantic_score = 1 / (1 + distance)
+
+                category = extra_results["metadatas"][i].get("category", "Uncategorized")
+
+                # Apply category-specific weights
+                raw_matches = _get_raw_matches(uid)
+                final_score, weighted_semantic, keyword_boost, subheading_boost, title_boost = _apply_category_weights(
+                    raw_semantic_score, raw_matches, category
+                )
 
                 results_by_id[uid] = {
                     "id": uid,
@@ -766,12 +913,13 @@ Keywords: {keywords_str}
                     "keywords": extra_results["metadatas"][i]["keywords"],
                     "source_file": extra_results["metadatas"][i]["source_file"],
                     "source_name": extra_results["metadatas"][i].get("source_name") or self._fallback_source_name(extra_results["metadatas"][i]["source_file"]),
+                    "category": category,
                     "distance": distance,
-                    "score": semantic_score + total_boost,
-                    "semantic_score": semantic_score,
-                    "keyword_boost": boosts["keyword_boost"],
-                    "subheading_boost": boosts["subheading_boost"],
-                    "title_boost": boosts["title_boost"],
+                    "score": final_score,
+                    "semantic_score": weighted_semantic,
+                    "keyword_boost": keyword_boost,
+                    "subheading_boost": subheading_boost,
+                    "title_boost": title_boost,
                     # Return original content with links from metadata
                     "content": extra_results["metadatas"][i].get("content") if include_content else None
                 }
@@ -785,7 +933,13 @@ Keywords: {keywords_str}
         # Apply cross-encoder reranking if requested
         if rerank and candidates:
             reranker = Reranker()
-            candidates = reranker.rerank(query_text, candidates)
+
+            # Create weight getter for category-specific rerank weights
+            def get_rerank_weight(category: str) -> float:
+                weights = self._get_weights_for_category(category)
+                return weights.get("rerank_weight", RERANK_WEIGHT)
+
+            candidates = reranker.rerank(query_text, candidates, weight_getter=get_rerank_weight)
             # Take top n after reranking
             candidates = candidates[:n_results]
 

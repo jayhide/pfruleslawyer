@@ -1,0 +1,16 @@
+{
+  "file": "create-holds.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/c/create-holds/",
+  "source_name": "Spell: Create Holds",
+  "sections": [
+    {
+      "id": "create_holds",
+      "title": "Create Holds",
+      "anchor_heading": "# Create Holds",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Create Holds, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

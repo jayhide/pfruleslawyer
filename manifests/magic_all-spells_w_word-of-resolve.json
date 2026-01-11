@@ -1,0 +1,16 @@
+{
+  "file": "word-of-resolve.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/w/word-of-resolve/",
+  "source_name": "Spell: Word of Resolve",
+  "sections": [
+    {
+      "id": "word_of_resolve",
+      "title": "Word of Resolve",
+      "anchor_heading": "# Word of Resolve",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Word of Resolve, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

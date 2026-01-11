@@ -1,0 +1,16 @@
+{
+  "file": "dust-ward.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/d/dust-ward/",
+  "source_name": "Spell: Dust Ward",
+  "sections": [
+    {
+      "id": "dust_ward",
+      "title": "Dust Ward",
+      "anchor_heading": "# Dust Ward",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Dust Ward, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

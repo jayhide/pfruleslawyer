@@ -1,0 +1,16 @@
+{
+  "file": "confess.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/c/confess/",
+  "source_name": "Spell: Confess",
+  "sections": [
+    {
+      "id": "confess",
+      "title": "Confess",
+      "anchor_heading": "# Confess",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Confess, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

@@ -1,0 +1,16 @@
+{
+  "file": "shadow-weapon.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/s/shadow-weapon/",
+  "source_name": "Spell: Shadow Weapon",
+  "sections": [
+    {
+      "id": "shadow_weapon",
+      "title": "Shadow Weapon",
+      "anchor_heading": "# Shadow Weapon",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Shadow Weapon, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

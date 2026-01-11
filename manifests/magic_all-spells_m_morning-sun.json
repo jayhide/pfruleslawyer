@@ -1,0 +1,16 @@
+{
+  "file": "morning-sun.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/m/morning-sun/",
+  "source_name": "Spell: Morning Sun",
+  "sections": [
+    {
+      "id": "morning_sun",
+      "title": "Morning Sun",
+      "anchor_heading": "# Morning Sun",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Morning Sun, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

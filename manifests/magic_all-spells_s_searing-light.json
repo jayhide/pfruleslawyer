@@ -1,0 +1,16 @@
+{
+  "file": "searing-light.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/s/searing-light/",
+  "source_name": "Spell: Searing Light",
+  "sections": [
+    {
+      "id": "searing_light",
+      "title": "Searing Light",
+      "anchor_heading": "# Searing Light",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Searing Light, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

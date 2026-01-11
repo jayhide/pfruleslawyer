@@ -1,0 +1,16 @@
+{
+  "file": "shadow-step.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/s/shadow-step/",
+  "source_name": "Spell: Shadow Step",
+  "sections": [
+    {
+      "id": "shadow_step",
+      "title": "Shadow Step",
+      "anchor_heading": "# Shadow Step",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Shadow Step, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

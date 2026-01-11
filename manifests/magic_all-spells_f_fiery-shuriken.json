@@ -1,0 +1,16 @@
+{
+  "file": "fiery-shuriken.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/f/fiery-shuriken/",
+  "source_name": "Spell: Fiery Shuriken",
+  "sections": [
+    {
+      "id": "fiery_shuriken",
+      "title": "Fiery Shuriken",
+      "anchor_heading": "# Fiery Shuriken",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Fiery Shuriken, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

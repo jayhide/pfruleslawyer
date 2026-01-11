@@ -1,0 +1,16 @@
+{
+  "file": "open-close.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/o/open-close/",
+  "source_name": "Spell: Open-Close",
+  "sections": [
+    {
+      "id": "open_close",
+      "title": "Open-Close",
+      "anchor_heading": "# Open-Close",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Open-Close, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

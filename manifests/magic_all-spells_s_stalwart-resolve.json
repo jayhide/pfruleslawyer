@@ -1,0 +1,16 @@
+{
+  "file": "stalwart-resolve.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/s/stalwart-resolve/",
+  "source_name": "Spell: Stalwart Resolve",
+  "sections": [
+    {
+      "id": "stalwart_resolve",
+      "title": "Stalwart Resolve",
+      "anchor_heading": "# Stalwart Resolve",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Stalwart Resolve, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

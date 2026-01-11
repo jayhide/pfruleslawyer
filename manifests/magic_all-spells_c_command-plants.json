@@ -1,0 +1,16 @@
+{
+  "file": "command-plants.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/c/command-plants/",
+  "source_name": "Spell: Command Plants",
+  "sections": [
+    {
+      "id": "command_plants",
+      "title": "Command Plants",
+      "anchor_heading": "# Command Plants",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Command Plants, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

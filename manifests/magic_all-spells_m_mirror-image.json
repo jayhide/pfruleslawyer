@@ -1,0 +1,16 @@
+{
+  "file": "mirror-image.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/m/mirror-image/",
+  "source_name": "Spell: Mirror Image",
+  "sections": [
+    {
+      "id": "mirror_image",
+      "title": "Mirror Image",
+      "anchor_heading": "# Mirror Image",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Mirror Image, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

@@ -1,0 +1,16 @@
+{
+  "file": "chastise.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/c/chastise/",
+  "source_name": "Spell: Chastise",
+  "sections": [
+    {
+      "id": "chastise",
+      "title": "Chastise",
+      "anchor_heading": "# Chastise",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Chastise, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

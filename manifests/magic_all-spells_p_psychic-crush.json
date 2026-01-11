@@ -1,0 +1,16 @@
+{
+  "file": "psychic-crush.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/p/psychic-crush/",
+  "source_name": "Spell: Psychic Crush I",
+  "sections": [
+    {
+      "id": "psychic_crush",
+      "title": "Psychic Crush I",
+      "anchor_heading": "# Psychic Crush I",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Psychic Crush I, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

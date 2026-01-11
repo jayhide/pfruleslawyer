@@ -1,0 +1,16 @@
+{
+  "file": "curative-distillation.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/c/curative-distillation/",
+  "source_name": "Spell: Curative Distillation",
+  "sections": [
+    {
+      "id": "curative_distillation",
+      "title": "Curative Distillation",
+      "anchor_heading": "# Curative Distillation",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Curative Distillation, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

@@ -1,0 +1,16 @@
+{
+  "file": "gift-of-the-deep.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/g/gift-of-the-deep/",
+  "source_name": "Spell: Gift of the Deep",
+  "sections": [
+    {
+      "id": "gift_of_the_deep",
+      "title": "Gift of the Deep",
+      "anchor_heading": "# Gift of the Deep",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Gift of the Deep, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

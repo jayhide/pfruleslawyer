@@ -1,0 +1,16 @@
+{
+  "file": "magic-vestment.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/m/magic-vestment/",
+  "source_name": "Spell: Magic Vestment",
+  "sections": [
+    {
+      "id": "magic_vestment",
+      "title": "Magic Vestment",
+      "anchor_heading": "# Magic Vestment",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Magic Vestment, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

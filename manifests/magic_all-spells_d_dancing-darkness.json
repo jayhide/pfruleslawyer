@@ -1,0 +1,16 @@
+{
+  "file": "dancing-darkness.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/d/dancing-darkness/",
+  "source_name": "Spell: Dancing Darkness",
+  "sections": [
+    {
+      "id": "dancing_darkness",
+      "title": "Dancing Darkness",
+      "anchor_heading": "# Dancing Darkness",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Dancing Darkness, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

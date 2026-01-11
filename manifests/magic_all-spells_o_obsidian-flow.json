@@ -1,0 +1,16 @@
+{
+  "file": "obsidian-flow.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/o/obsidian-flow/",
+  "source_name": "Spell: Obsidian Flow",
+  "sections": [
+    {
+      "id": "obsidian_flow",
+      "title": "Obsidian Flow",
+      "anchor_heading": "# Obsidian Flow",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Obsidian Flow, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

@@ -1,0 +1,16 @@
+{
+  "file": "phase-step.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/p/phase-step/",
+  "source_name": "Spell: Phase Step",
+  "sections": [
+    {
+      "id": "phase_step",
+      "title": "Phase Step",
+      "anchor_heading": "# Phase Step",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Phase Step, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

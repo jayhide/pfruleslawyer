@@ -1,0 +1,16 @@
+{
+  "file": "incorporeal-chains.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/i/incorporeal-chains/",
+  "source_name": "Spell: Incorporeal Chains",
+  "sections": [
+    {
+      "id": "incorporeal_chains",
+      "title": "Incorporeal Chains",
+      "anchor_heading": "# Incorporeal Chains",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Incorporeal Chains, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

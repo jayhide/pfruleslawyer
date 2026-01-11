@@ -1,0 +1,16 @@
+{
+  "file": "ironbeard.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/i/ironbeard/",
+  "source_name": "Spell: Ironbeard",
+  "sections": [
+    {
+      "id": "ironbeard",
+      "title": "Ironbeard",
+      "anchor_heading": "# Ironbeard",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Ironbeard, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

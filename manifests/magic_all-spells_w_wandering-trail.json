@@ -1,0 +1,16 @@
+{
+  "file": "wandering-trail.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/w/wandering-trail/",
+  "source_name": "Spell: Wandering Trail",
+  "sections": [
+    {
+      "id": "wandering_trail",
+      "title": "Wandering Trail",
+      "anchor_heading": "# Wandering Trail",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Wandering Trail, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

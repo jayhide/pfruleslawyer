@@ -1,0 +1,16 @@
+{
+  "file": "pillar-of-life.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/p/pillar-of-life/",
+  "source_name": "Spell: Pillar of Life",
+  "sections": [
+    {
+      "id": "pillar_of_life",
+      "title": "Pillar of Life",
+      "anchor_heading": "# Pillar of Life",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Pillar of Life, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

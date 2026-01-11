@@ -1,0 +1,16 @@
+{
+  "file": "hex-glyph.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/h/hex-glyph/",
+  "source_name": "Spell: Hex Glyph",
+  "sections": [
+    {
+      "id": "hex_glyph",
+      "title": "Hex Glyph",
+      "anchor_heading": "# Hex Glyph",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Hex Glyph, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

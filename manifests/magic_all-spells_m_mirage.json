@@ -1,0 +1,16 @@
+{
+  "file": "mirage.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/m/mirage/",
+  "source_name": "Spell: Mirage",
+  "sections": [
+    {
+      "id": "mirage",
+      "title": "Mirage",
+      "anchor_heading": "# Mirage",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Mirage, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

@@ -1,0 +1,16 @@
+{
+  "file": "forced-repentance.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/f/forced-repentance/",
+  "source_name": "Spell: Forced Repentance",
+  "sections": [
+    {
+      "id": "forced_repentance",
+      "title": "Forced Repentance",
+      "anchor_heading": "# Forced Repentance",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Forced Repentance, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

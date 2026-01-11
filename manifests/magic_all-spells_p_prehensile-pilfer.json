@@ -1,0 +1,16 @@
+{
+  "file": "prehensile-pilfer.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/p/prehensile-pilfer/",
+  "source_name": "Spell: Prehensile Pilfer",
+  "sections": [
+    {
+      "id": "prehensile_pilfer",
+      "title": "Prehensile Pilfer",
+      "anchor_heading": "# Prehensile Pilfer",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Prehensile Pilfer, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

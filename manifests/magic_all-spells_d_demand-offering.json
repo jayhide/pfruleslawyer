@@ -1,0 +1,16 @@
+{
+  "file": "demand-offering.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/d/demand-offering/",
+  "source_name": "Spell: Demand Offering",
+  "sections": [
+    {
+      "id": "demand_offering",
+      "title": "Demand Offering",
+      "anchor_heading": "# Demand Offering",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Demand Offering, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

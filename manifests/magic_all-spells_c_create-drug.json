@@ -1,0 +1,16 @@
+{
+  "file": "create-drug.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/c/create-drug/",
+  "source_name": "Spell: Create Drug",
+  "sections": [
+    {
+      "id": "create_drug",
+      "title": "Create Drug",
+      "anchor_heading": "# Create Drug",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Create Drug, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

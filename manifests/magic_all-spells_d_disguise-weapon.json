@@ -1,0 +1,16 @@
+{
+  "file": "disguise-weapon.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/d/disguise-weapon/",
+  "source_name": "Spell: Disguise Weapon",
+  "sections": [
+    {
+      "id": "disguise_weapon",
+      "title": "Disguise Weapon",
+      "anchor_heading": "# Disguise Weapon",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Disguise Weapon, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

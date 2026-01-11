@@ -1,0 +1,16 @@
+{
+  "file": "sleep.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/s/sleep/",
+  "source_name": "Spell: Sleep",
+  "sections": [
+    {
+      "id": "sleep",
+      "title": "Sleep",
+      "anchor_heading": "# Sleep",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Sleep, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

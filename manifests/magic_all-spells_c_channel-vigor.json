@@ -1,0 +1,16 @@
+{
+  "file": "channel-vigor.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/c/channel-vigor/",
+  "source_name": "Spell: Channel Vigor",
+  "sections": [
+    {
+      "id": "channel_vigor",
+      "title": "Channel Vigor",
+      "anchor_heading": "# Channel Vigor",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Channel Vigor, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

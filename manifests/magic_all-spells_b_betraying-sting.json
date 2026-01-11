@@ -1,0 +1,16 @@
+{
+  "file": "betraying-sting.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/b/betraying-sting/",
+  "source_name": "Spell: Betraying Sting",
+  "sections": [
+    {
+      "id": "betraying_sting",
+      "title": "Betraying Sting",
+      "anchor_heading": "# Betraying Sting",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Betraying Sting, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

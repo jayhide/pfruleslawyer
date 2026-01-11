@@ -1,0 +1,16 @@
+{
+  "file": "divine-vessel.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/d/divine-vessel/",
+  "source_name": "Spell: Divine Vessel",
+  "sections": [
+    {
+      "id": "divine_vessel",
+      "title": "Divine Vessel",
+      "anchor_heading": "# Divine Vessel",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Divine Vessel, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

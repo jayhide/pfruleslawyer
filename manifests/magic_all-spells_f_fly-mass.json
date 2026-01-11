@@ -1,0 +1,16 @@
+{
+  "file": "fly-mass.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/f/fly-mass/",
+  "source_name": "Spell: Fly, Mass",
+  "sections": [
+    {
+      "id": "fly_mass",
+      "title": "Fly, Mass",
+      "anchor_heading": "# Fly, Mass",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Fly, Mass, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

@@ -1,0 +1,16 @@
+{
+  "file": "shield-of-shards.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/s/shield-of-shards/",
+  "source_name": "Spell: Shield of Shards",
+  "sections": [
+    {
+      "id": "shield_of_shards",
+      "title": "Shield of Shards",
+      "anchor_heading": "# Shield of Shards",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Shield of Shards, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

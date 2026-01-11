@@ -1,0 +1,16 @@
+{
+  "file": "fire-of-vengeance.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/f/fire-of-vengeance/",
+  "source_name": "Spell: Fire of Vengeance",
+  "sections": [
+    {
+      "id": "fire_of_vengeance",
+      "title": "Fire of Vengeance",
+      "anchor_heading": "# Fire of Vengeance",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Fire of Vengeance, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

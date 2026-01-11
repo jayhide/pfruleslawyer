@@ -1,0 +1,16 @@
+{
+  "file": "aura-alteration.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/a/aura-alteration/",
+  "source_name": "Spell: Aura Alteration",
+  "sections": [
+    {
+      "id": "aura_alteration",
+      "title": "Aura Alteration",
+      "anchor_heading": "# Aura Alteration",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Aura Alteration, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

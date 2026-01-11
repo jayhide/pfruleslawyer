@@ -1,0 +1,16 @@
+{
+  "file": "aquatic-cavalry.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/a/aquatic-cavalry/",
+  "source_name": "Spell: Aquatic Cavalry",
+  "sections": [
+    {
+      "id": "aquatic_cavalry",
+      "title": "Aquatic Cavalry",
+      "anchor_heading": "# Aquatic Cavalry",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Aquatic Cavalry, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

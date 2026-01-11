@@ -1,0 +1,16 @@
+{
+  "file": "symbol-of-scrying.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/s/symbol-of-scrying/",
+  "source_name": "Spell: Symbol of Scrying",
+  "sections": [
+    {
+      "id": "symbol_of_scrying",
+      "title": "Symbol of Scrying",
+      "anchor_heading": "# Symbol of Scrying",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Symbol of Scrying, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

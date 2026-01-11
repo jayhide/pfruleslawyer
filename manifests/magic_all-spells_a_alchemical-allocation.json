@@ -1,0 +1,16 @@
+{
+  "file": "alchemical-allocation.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/a/alchemical-allocation/",
+  "source_name": "Spell: Alchemical Allocation",
+  "sections": [
+    {
+      "id": "alchemical_allocation",
+      "title": "Alchemical Allocation",
+      "anchor_heading": "# Alchemical Allocation",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Alchemical Allocation, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

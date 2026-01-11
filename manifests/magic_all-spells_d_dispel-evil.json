@@ -1,0 +1,16 @@
+{
+  "file": "dispel-evil.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/d/dispel-evil/",
+  "source_name": "Spell: Dispel Evil",
+  "sections": [
+    {
+      "id": "dispel_evil",
+      "title": "Dispel Evil",
+      "anchor_heading": "# Dispel Evil",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Dispel Evil, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

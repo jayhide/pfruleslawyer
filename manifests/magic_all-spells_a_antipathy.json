@@ -1,0 +1,16 @@
+{
+  "file": "antipathy.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/a/antipathy/",
+  "source_name": "Spell: Antipathy",
+  "sections": [
+    {
+      "id": "antipathy",
+      "title": "Antipathy",
+      "anchor_heading": "# Antipathy",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Antipathy, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

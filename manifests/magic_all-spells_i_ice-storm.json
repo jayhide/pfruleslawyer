@@ -1,0 +1,16 @@
+{
+  "file": "ice-storm.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/i/ice-storm/",
+  "source_name": "Spell: Ice Storm",
+  "sections": [
+    {
+      "id": "ice_storm",
+      "title": "Ice Storm",
+      "anchor_heading": "# Ice Storm",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Ice Storm, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

@@ -1,0 +1,16 @@
+{
+  "file": "acid-maw.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/a/acid-maw/",
+  "source_name": "Spell: Acid Maw",
+  "sections": [
+    {
+      "id": "acid_maw",
+      "title": "Acid Maw",
+      "anchor_heading": "# Acid Maw",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Acid Maw, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

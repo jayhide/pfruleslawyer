@@ -1,0 +1,16 @@
+{
+  "file": "stinking-cloud.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/s/stinking-cloud/",
+  "source_name": "Spell: Stinking Cloud",
+  "sections": [
+    {
+      "id": "stinking_cloud",
+      "title": "Stinking Cloud",
+      "anchor_heading": "# Stinking Cloud",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Stinking Cloud, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

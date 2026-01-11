@@ -1,0 +1,16 @@
+{
+  "file": "shadow-anchor.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/s/shadow-anchor/",
+  "source_name": "Spell: Shadow Anchor",
+  "sections": [
+    {
+      "id": "shadow_anchor",
+      "title": "Shadow Anchor",
+      "anchor_heading": "# Shadow Anchor",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Shadow Anchor, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

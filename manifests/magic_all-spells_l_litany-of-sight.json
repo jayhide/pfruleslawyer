@@ -1,0 +1,16 @@
+{
+  "file": "litany-of-sight.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/l/litany-of-sight/",
+  "source_name": "Spell: Litany of Sight",
+  "sections": [
+    {
+      "id": "litany_of_sight",
+      "title": "Litany of Sight",
+      "anchor_heading": "# Litany of Sight",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Litany of Sight, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

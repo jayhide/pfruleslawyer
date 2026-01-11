@@ -1,0 +1,16 @@
+{
+  "file": "pierce-facade.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/p/pierce-facade/",
+  "source_name": "Spell: Pierce Facade",
+  "sections": [
+    {
+      "id": "pierce_facade",
+      "title": "Pierce Facade",
+      "anchor_heading": "# Pierce Facade",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Pierce Facade, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

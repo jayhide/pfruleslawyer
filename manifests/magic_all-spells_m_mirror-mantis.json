@@ -1,0 +1,16 @@
+{
+  "file": "mirror-mantis.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/m/mirror-mantis/",
+  "source_name": "Spell: Mirror Mantis",
+  "sections": [
+    {
+      "id": "mirror_mantis",
+      "title": "Mirror Mantis",
+      "anchor_heading": "# Mirror Mantis",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Mirror Mantis, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

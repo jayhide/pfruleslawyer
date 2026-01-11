@@ -9,6 +9,7 @@
       "anchor_heading": "# Investigator",
       "includes_subheadings": [
         "### Class Skills",
+        "### Class Features",
         "#### Weapon and Armor Proficiency",
         "#### Alchemy (Su)",
         "#### Inspiration (Ex)",
@@ -24,29 +25,41 @@
         "#### True Inspiration (Ex)",
         "### Alternative Capstone Ability",
         "#### Deadly Study (Ex)",
-        "### Class Features",
-        "## Favored Class Bonuses",
-        "## Archetypes & Alternate Class Features",
         "### Subpages"
       ],
-      "description": "Rules for the Investigator hybrid class, covering class features like alchemy, inspiration, studied combat, trapfinding, and investigator talents.",
+      "description": "Rules for the Investigator hybrid class, covering class features like alchemy, inspiration, studied combat, trapfinding, and poison resistance, plus investigator talents and archetypes.",
       "keywords": [
         "investigator",
+        "investigator class",
+        "alchemy",
         "inspiration",
         "studied combat",
         "studied strike",
-        "alchemy",
         "trapfinding",
-        "investigator talent",
         "poison lore",
         "poison resistance",
+        "investigator talent",
         "keen recollection",
         "trap sense",
         "swift alchemy",
         "true inspiration",
         "formula book",
-        "extracts"
+        "extracts",
+        "empiricist",
+        "sleuth",
+        "psychic detective",
+        "mastermind",
+        "spiritualist",
+        "steel hound",
+        "dread investigator",
+        "infiltrator",
+        "lamplighter",
+        "relentless inspector",
+        "ruthless agent",
+        "monster chronicler",
+        "war genius"
       ]
     }
-  ]
+  ],
+  "category": "Classes"
 }

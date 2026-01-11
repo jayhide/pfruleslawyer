@@ -1,0 +1,16 @@
+{
+  "file": "retribution.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/r/retribution/",
+  "source_name": "Spell: Retribution",
+  "sections": [
+    {
+      "id": "retribution",
+      "title": "Retribution",
+      "anchor_heading": "# Retribution",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Retribution, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

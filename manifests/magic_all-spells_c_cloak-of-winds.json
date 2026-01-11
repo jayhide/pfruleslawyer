@@ -1,0 +1,16 @@
+{
+  "file": "cloak-of-winds.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/c/cloak-of-winds/",
+  "source_name": "Spell: Cloak of Winds",
+  "sections": [
+    {
+      "id": "cloak_of_winds",
+      "title": "Cloak of Winds",
+      "anchor_heading": "# Cloak of Winds",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Cloak of Winds, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

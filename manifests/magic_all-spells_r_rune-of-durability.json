@@ -1,0 +1,16 @@
+{
+  "file": "rune-of-durability.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/r/rune-of-durability/",
+  "source_name": "Spell: Rune of Durability",
+  "sections": [
+    {
+      "id": "rune_of_durability",
+      "title": "Rune of Durability",
+      "anchor_heading": "# Rune of Durability",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Rune of Durability, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

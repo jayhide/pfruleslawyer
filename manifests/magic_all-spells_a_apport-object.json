@@ -1,0 +1,16 @@
+{
+  "file": "apport-object.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/a/apport-object/",
+  "source_name": "Spell: Apport Object",
+  "sections": [
+    {
+      "id": "apport_object",
+      "title": "Apport Object",
+      "anchor_heading": "# Apport Object",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Apport Object, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

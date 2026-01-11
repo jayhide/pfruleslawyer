@@ -1,0 +1,16 @@
+{
+  "file": "weapon-of-awe.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/w/weapon-of-awe/",
+  "source_name": "Spell: Weapon of Awe",
+  "sections": [
+    {
+      "id": "weapon_of_awe",
+      "title": "Weapon of Awe",
+      "anchor_heading": "# Weapon of Awe",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Weapon of Awe, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

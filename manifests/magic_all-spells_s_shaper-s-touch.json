@@ -1,0 +1,16 @@
+{
+  "file": "shaper-s-touch.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/s/shaper-s-touch/",
+  "source_name": "Spell: Shaper\u2019s Touch",
+  "sections": [
+    {
+      "id": "shaper_s_touch",
+      "title": "Shaper\u2019s Touch",
+      "anchor_heading": "# Shaper\u2019s Touch",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Shaper\u2019s Touch, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

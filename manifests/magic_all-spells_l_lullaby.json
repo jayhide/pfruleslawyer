@@ -1,0 +1,16 @@
+{
+  "file": "lullaby.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/l/lullaby/",
+  "source_name": "Spell: Lullaby",
+  "sections": [
+    {
+      "id": "lullaby",
+      "title": "Lullaby",
+      "anchor_heading": "# Lullaby",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Lullaby, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

@@ -1,0 +1,16 @@
+{
+  "file": "cognitive-block.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/c/cognitive-block/",
+  "source_name": "Spell: Cognitive Block",
+  "sections": [
+    {
+      "id": "cognitive_block",
+      "title": "Cognitive Block",
+      "anchor_heading": "# Cognitive Block",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Cognitive Block, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

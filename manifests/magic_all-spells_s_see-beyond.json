@@ -1,0 +1,16 @@
+{
+  "file": "see-beyond.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/s/see-beyond/",
+  "source_name": "Spell: See Beyond",
+  "sections": [
+    {
+      "id": "see_beyond",
+      "title": "See Beyond",
+      "anchor_heading": "# See Beyond",
+      "includes_subheadings": [],
+      "description": "Full description of the spell See Beyond, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

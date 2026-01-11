@@ -1,0 +1,16 @@
+{
+  "file": "beguiling-gift.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/b/beguiling-gift/",
+  "source_name": "Spell: Beguiling Gift",
+  "sections": [
+    {
+      "id": "beguiling_gift",
+      "title": "Beguiling Gift",
+      "anchor_heading": "# Beguiling Gift",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Beguiling Gift, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

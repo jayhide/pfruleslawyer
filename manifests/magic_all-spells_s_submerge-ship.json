@@ -1,0 +1,16 @@
+{
+  "file": "submerge-ship.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/s/submerge-ship/",
+  "source_name": "Spell: Submerge Ship",
+  "sections": [
+    {
+      "id": "submerge_ship",
+      "title": "Submerge Ship",
+      "anchor_heading": "# Submerge Ship",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Submerge Ship, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

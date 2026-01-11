@@ -1,0 +1,16 @@
+{
+  "file": "barrow-haze.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/b/barrow-haze/",
+  "source_name": "Spell: Barrow Haze",
+  "sections": [
+    {
+      "id": "barrow_haze",
+      "title": "Barrow Haze",
+      "anchor_heading": "# Barrow Haze",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Barrow Haze, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

@@ -1,0 +1,16 @@
+{
+  "file": "blindness-deafness.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/b/blindness-deafness/",
+  "source_name": "Spell: Blindness-Deafness",
+  "sections": [
+    {
+      "id": "blindness_deafness",
+      "title": "Blindness-Deafness",
+      "anchor_heading": "# Blindness-Deafness",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Blindness-Deafness, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

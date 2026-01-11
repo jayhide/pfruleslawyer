@@ -1,0 +1,16 @@
+{
+  "file": "magic-jar.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/m/magic-jar/",
+  "source_name": "Spell: Magic Jar",
+  "sections": [
+    {
+      "id": "magic_jar",
+      "title": "Magic Jar",
+      "anchor_heading": "# Magic Jar",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Magic Jar, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

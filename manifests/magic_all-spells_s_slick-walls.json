@@ -1,0 +1,16 @@
+{
+  "file": "slick-walls.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/s/slick-walls/",
+  "source_name": "Spell: Slick Walls",
+  "sections": [
+    {
+      "id": "slick_walls",
+      "title": "Slick Walls",
+      "anchor_heading": "# Slick Walls",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Slick Walls, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

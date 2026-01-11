@@ -1,0 +1,16 @@
+{
+  "file": "shadow-invasion.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/s/shadow-invasion/",
+  "source_name": "Spell: Shadow Invasion",
+  "sections": [
+    {
+      "id": "shadow_invasion",
+      "title": "Shadow Invasion",
+      "anchor_heading": "# Shadow Invasion",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Shadow Invasion, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

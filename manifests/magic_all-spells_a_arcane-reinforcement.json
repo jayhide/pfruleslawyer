@@ -1,0 +1,16 @@
+{
+  "file": "arcane-reinforcement.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/a/arcane-reinforcement/",
+  "source_name": "Spell: Arcane Reinforcement",
+  "sections": [
+    {
+      "id": "arcane_reinforcement",
+      "title": "Arcane Reinforcement",
+      "anchor_heading": "# Arcane Reinforcement",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Arcane Reinforcement, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

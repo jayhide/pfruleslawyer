@@ -1,0 +1,16 @@
+{
+  "file": "reveal-emotions.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/r/reveal-emotions/",
+  "source_name": "Spell: Reveal Emotions",
+  "sections": [
+    {
+      "id": "reveal_emotions",
+      "title": "Reveal Emotions",
+      "anchor_heading": "# Reveal Emotions",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Reveal Emotions, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

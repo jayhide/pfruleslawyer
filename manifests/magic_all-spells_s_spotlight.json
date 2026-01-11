@@ -1,0 +1,16 @@
+{
+  "file": "spotlight.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/s/spotlight/",
+  "source_name": "Spell: Spotlight",
+  "sections": [
+    {
+      "id": "spotlight",
+      "title": "Spotlight",
+      "anchor_heading": "# Spotlight",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Spotlight, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

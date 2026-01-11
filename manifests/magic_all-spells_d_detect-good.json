@@ -1,0 +1,16 @@
+{
+  "file": "detect-good.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/d/detect-good/",
+  "source_name": "Spell: Detect Good",
+  "sections": [
+    {
+      "id": "detect_good",
+      "title": "Detect Good",
+      "anchor_heading": "# Detect Good",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Detect Good, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

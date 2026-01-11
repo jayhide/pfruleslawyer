@@ -1,0 +1,16 @@
+{
+  "file": "touch-of-fatigue.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/t/touch-of-fatigue/",
+  "source_name": "Spell: Touch of Fatigue",
+  "sections": [
+    {
+      "id": "touch_of_fatigue",
+      "title": "Touch of Fatigue",
+      "anchor_heading": "# Touch of Fatigue",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Touch of Fatigue, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

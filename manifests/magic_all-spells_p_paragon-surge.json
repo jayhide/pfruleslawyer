@@ -1,0 +1,16 @@
+{
+  "file": "paragon-surge.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/p/paragon-surge/",
+  "source_name": "Spell: Paragon Surge",
+  "sections": [
+    {
+      "id": "paragon_surge",
+      "title": "Paragon Surge",
+      "anchor_heading": "# Paragon Surge",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Paragon Surge, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

@@ -1,0 +1,16 @@
+{
+  "file": "inflict-light-wounds.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/i/inflict-light-wounds/",
+  "source_name": "Spell: Inflict Light Wounds",
+  "sections": [
+    {
+      "id": "inflict_light_wounds",
+      "title": "Inflict Light Wounds",
+      "anchor_heading": "# Inflict Light Wounds",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Inflict Light Wounds, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

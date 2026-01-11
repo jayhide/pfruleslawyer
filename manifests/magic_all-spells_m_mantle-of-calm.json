@@ -1,0 +1,16 @@
+{
+  "file": "mantle-of-calm.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/m/mantle-of-calm/",
+  "source_name": "Spell: Mantle of Calm",
+  "sections": [
+    {
+      "id": "mantle_of_calm",
+      "title": "Mantle of Calm",
+      "anchor_heading": "# Mantle of Calm",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Mantle of Calm, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

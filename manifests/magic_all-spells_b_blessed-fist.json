@@ -1,0 +1,16 @@
+{
+  "file": "blessed-fist.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/b/blessed-fist/",
+  "source_name": "Spell: Blessed Fist",
+  "sections": [
+    {
+      "id": "blessed_fist",
+      "title": "Blessed Fist",
+      "anchor_heading": "# Blessed Fist",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Blessed Fist, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

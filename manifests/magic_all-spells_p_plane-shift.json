@@ -1,0 +1,16 @@
+{
+  "file": "plane-shift.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/p/plane-shift/",
+  "source_name": "Spell: Plane Shift",
+  "sections": [
+    {
+      "id": "plane_shift",
+      "title": "Plane Shift",
+      "anchor_heading": "# Plane Shift",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Plane Shift, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

@@ -1,0 +1,16 @@
+{
+  "file": "threefold-sight.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/t/threefold-sight/",
+  "source_name": "Spell: Threefold Sight",
+  "sections": [
+    {
+      "id": "threefold_sight",
+      "title": "Threefold Sight",
+      "anchor_heading": "# Threefold Sight",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Threefold Sight, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

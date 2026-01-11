@@ -1,0 +1,16 @@
+{
+  "file": "unsettling-presence.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/u/unsettling-presence/",
+  "source_name": "Spell: Unsettling Presence",
+  "sections": [
+    {
+      "id": "unsettling_presence",
+      "title": "Unsettling Presence",
+      "anchor_heading": "# Unsettling Presence",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Unsettling Presence, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

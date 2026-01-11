@@ -1,0 +1,16 @@
+{
+  "file": "insect-scouts.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/i/insect-scouts/",
+  "source_name": "Spell: Insect Scouts",
+  "sections": [
+    {
+      "id": "insect_scouts",
+      "title": "Insect Scouts",
+      "anchor_heading": "# Insect Scouts",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Insect Scouts, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

@@ -1,0 +1,16 @@
+{
+  "file": "rune-of-warding.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/r/rune-of-warding/",
+  "source_name": "Spell: Rune of Warding",
+  "sections": [
+    {
+      "id": "rune_of_warding",
+      "title": "Rune of Warding",
+      "anchor_heading": "# Rune of Warding",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Rune of Warding, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

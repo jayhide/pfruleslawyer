@@ -1,0 +1,16 @@
+{
+  "file": "ancestral-communion.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/a/ancestral-communion/",
+  "source_name": "Spell: Ancestral Communion",
+  "sections": [
+    {
+      "id": "ancestral_communion",
+      "title": "Ancestral Communion",
+      "anchor_heading": "# Ancestral Communion",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Ancestral Communion, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

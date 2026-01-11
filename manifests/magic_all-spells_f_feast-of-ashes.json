@@ -1,0 +1,16 @@
+{
+  "file": "feast-of-ashes.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/f/feast-of-ashes/",
+  "source_name": "Spell: Feast of Ashes",
+  "sections": [
+    {
+      "id": "feast_of_ashes",
+      "title": "Feast of Ashes",
+      "anchor_heading": "# Feast of Ashes",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Feast of Ashes, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

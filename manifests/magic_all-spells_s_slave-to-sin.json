@@ -1,0 +1,16 @@
+{
+  "file": "slave-to-sin.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/s/slave-to-sin/",
+  "source_name": "Spell: Slave to Sin",
+  "sections": [
+    {
+      "id": "slave_to_sin",
+      "title": "Slave to Sin",
+      "anchor_heading": "# Slave to Sin",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Slave to Sin, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

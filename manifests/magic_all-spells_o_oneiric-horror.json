@@ -1,0 +1,16 @@
+{
+  "file": "oneiric-horror.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/o/oneiric-horror/",
+  "source_name": "Spell: Oneiric Horror",
+  "sections": [
+    {
+      "id": "oneiric_horror",
+      "title": "Oneiric Horror",
+      "anchor_heading": "# Oneiric Horror",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Oneiric Horror, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

@@ -1,0 +1,16 @@
+{
+  "file": "discharge.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/d/discharge/",
+  "source_name": "Spell: Discharge",
+  "sections": [
+    {
+      "id": "discharge",
+      "title": "Discharge",
+      "anchor_heading": "# Discharge",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Discharge, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

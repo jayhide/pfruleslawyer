@@ -1,0 +1,16 @@
+{
+  "file": "ears-of-the-city.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/e/ears-of-the-city/",
+  "source_name": "Spell: Ears of the City",
+  "sections": [
+    {
+      "id": "ears_of_the_city",
+      "title": "Ears of the City",
+      "anchor_heading": "# Ears of the City",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Ears of the City, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

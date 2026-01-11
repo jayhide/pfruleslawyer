@@ -1,0 +1,16 @@
+{
+  "file": "arboreal-hammer.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/a/arboreal-hammer/",
+  "source_name": "Spell: Arboreal Hammer",
+  "sections": [
+    {
+      "id": "arboreal_hammer",
+      "title": "Arboreal Hammer",
+      "anchor_heading": "# Arboreal Hammer",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Arboreal Hammer, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

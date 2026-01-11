@@ -1,0 +1,16 @@
+{
+  "file": "darkvision.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/d/darkvision/",
+  "source_name": "Spell: Darkvision",
+  "sections": [
+    {
+      "id": "darkvision",
+      "title": "Darkvision",
+      "anchor_heading": "# Darkvision",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Darkvision, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

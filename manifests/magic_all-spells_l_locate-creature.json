@@ -1,0 +1,16 @@
+{
+  "file": "locate-creature.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/l/locate-creature/",
+  "source_name": "Spell: Locate Creature",
+  "sections": [
+    {
+      "id": "locate_creature",
+      "title": "Locate Creature",
+      "anchor_heading": "# Locate Creature",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Locate Creature, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

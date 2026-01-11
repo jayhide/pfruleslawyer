@@ -1,0 +1,16 @@
+{
+  "file": "amplify-stench.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/a/amplify-stench/",
+  "source_name": "Spell: Amplify Stench",
+  "sections": [
+    {
+      "id": "amplify_stench",
+      "title": "Amplify Stench",
+      "anchor_heading": "# Amplify Stench",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Amplify Stench, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

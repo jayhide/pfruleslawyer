@@ -1,0 +1,16 @@
+{
+  "file": "stench-of-prey.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/s/stench-of-prey/",
+  "source_name": "Spell: Stench of Prey",
+  "sections": [
+    {
+      "id": "stench_of_prey",
+      "title": "Stench of Prey",
+      "anchor_heading": "# Stench of Prey",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Stench of Prey, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

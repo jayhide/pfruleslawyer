@@ -1,0 +1,16 @@
+{
+  "file": "curse-major.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/c/curse-major/",
+  "source_name": "Spell: Curse, Major",
+  "sections": [
+    {
+      "id": "curse_major",
+      "title": "Curse, Major",
+      "anchor_heading": "# Curse, Major",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Curse, Major, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

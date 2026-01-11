@@ -1,0 +1,16 @@
+{
+  "file": "blood-tentacles.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/b/blood-tentacles/",
+  "source_name": "Spell: Blood Tentacles",
+  "sections": [
+    {
+      "id": "blood_tentacles",
+      "title": "Blood Tentacles",
+      "anchor_heading": "# Blood Tentacles",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Blood Tentacles, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}

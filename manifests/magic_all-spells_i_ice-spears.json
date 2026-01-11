@@ -1,0 +1,16 @@
+{
+  "file": "ice-spears.md",
+  "source_path": "https://www.d20pfsrd.com/magic/all-spells/i/ice-spears/",
+  "source_name": "Spell: Ice Spears",
+  "sections": [
+    {
+      "id": "ice_spears",
+      "title": "Ice Spears",
+      "anchor_heading": "# Ice Spears",
+      "includes_subheadings": [],
+      "description": "Full description of the spell Ice Spears, including casting time, components, range, and effects.",
+      "keywords": []
+    }
+  ],
+  "category": "Spells"
+}
