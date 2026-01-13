@@ -2,39 +2,68 @@
   "file": "swashbuckler.md",
   "source_path": "https://www.d20pfsrd.com/classes/hybrid-classes/swashbuckler/",
   "source_name": "Class: Swashbuckler",
+  "category": "Classes",
+  "toc_content": "Contents\n+ [Class Skills](#class_skills)\n+ [Class Features](#class_features)\n  - [Weapon and Armor Proficiency](#weapon_and_armor_proficiency)\n  - [Panache (Ex)](#panache_ex)\n  - [Deeds](#deeds)\n  - [Deeds of Renown](#deeds_of_renown)\n  - [Swashbuckler Finesse (Ex)](#swashbuckler_finesse_ex)\n  - [Charmed Life (Ex)](#charmed_life_ex)\n  - [Nimble (Ex)](#nimble_ex)\n  - [Bonus Feats](#bonus_feats)\n  - [Swashbuckler Weapon Training (Ex)](#swashbuckler_weapon_training_ex)\n  - [Swashbuckler Weapon Mastery (Ex)](#swashbuckler_weapon_mastery_ex)\n+ [Alternative Capstone Ability](#alternative_capstone_ability)\n  - [Incredible Luck (Ex)](#incredible_luck_ex)\n* [Favored Class Bonuses](#favored_class_bonuses)\n* [Archetypes & Alternate Class Features](#archetypes_alternate_class_features)\n  + [Swashbuckler Archetypes](#swashbuckler_archetypes)",
   "sections": [
     {
-      "id": "swashbuckler",
-      "title": "Swashbuckler",
+      "id": "swashbuckler_overview",
+      "title": "Swashbuckler (Class Overview)",
       "anchor_heading": "# Swashbuckler",
-      "includes_subheadings": [
-        "### Class Skills",
-        "#### Weapon and Armor Proficiency",
-        "#### Panache (Ex)",
-        "#### Deeds",
-        "#### Deeds of Renown",
-        "#### Swashbuckler Finesse (Ex)",
-        "#### Charmed Life (Ex)",
-        "#### Nimble (Ex)",
-        "#### Bonus Feats",
-        "#### Swashbuckler Weapon Training (Ex)",
-        "#### Swashbuckler Weapon Mastery (Ex)",
-        "### Alternative Capstone Ability",
-        "#### Incredible Luck (Ex)",
-        "### Swashbuckler Archetypes"
-      ],
-      "description": "Rules for the Swashbuckler hybrid class, covering panache points, deeds, weapon finesse abilities, and class progression from levels 1-20.",
+      "end_at_heading": "### Class Skills {#class_skills}",
+      "description": "Overview of the Swashbuckler class including role, alignment, hit die, and starting wealth.",
       "keywords": [
         "swashbuckler",
+        "class",
+        "hit die",
+        "role",
+        "alignment"
+      ]
+    },
+    {
+      "id": "swashbuckler_weapon_and_armor_proficiency",
+      "title": "Weapon and Armor Proficiency (Swashbuckler)",
+      "anchor_heading": "#### Weapon and Armor Proficiency {#weapon_and_armor_proficiency}",
+      "description": "Swashbucklers are proficient with simple and martial weapons, light armor, and bucklers.",
+      "keywords": [
+        "weapon proficiency",
+        "armor proficiency",
+        "simple weapons",
+        "martial weapons",
+        "light armor",
+        "buckler",
+        "proficient"
+      ]
+    },
+    {
+      "id": "swashbuckler_panache_ex",
+      "title": "Panache (Ex) (Swashbuckler)",
+      "anchor_heading": "#### Panache (Ex) {#panache_ex}",
+      "description": "A resource pool equal to Charisma modifier that fuels deeds, regained by critical hits and killing blows with light or one-handed piercing melee weapons.",
+      "keywords": [
         "panache",
+        "charisma modifier",
+        "critical hit",
+        "killing blow",
+        "light piercing weapon",
+        "one-handed piercing weapon",
+        "grit",
+        "luck",
+        "resource pool",
+        "panache points"
+      ]
+    },
+    {
+      "id": "swashbuckler_deeds",
+      "title": "Deeds (Swashbuckler)",
+      "anchor_heading": "#### Deeds {#deeds}",
+      "description": "Special abilities powered by panache points, ranging from skill bonuses to combat maneuvers, with effects scaling by level.",
+      "keywords": [
         "deeds",
-        "swashbuckler finesse",
-        "charmed life",
-        "nimble",
         "derring-do",
         "dodging panache",
-        "opportune parry",
-        "riposte",
+        "opportune parry and riposte",
+        "kip-up",
+        "menacing swordplay",
         "precise strike",
         "swashbuckler initiative",
         "swashbuckler's grace",
@@ -45,21 +74,140 @@
         "subtle blade",
         "dizzying defense",
         "perfect thrust",
+        "swashbuckler's edge",
         "cheat death",
         "deadly stab",
         "stunning stab",
-        "swashbuckler weapon training",
-        "swashbuckler weapon mastery",
+        "parry",
+        "riposte",
+        "immediate action",
+        "precision damage",
+        "touch AC",
+        "feint"
+      ]
+    },
+    {
+      "id": "swashbuckler_deeds_of_renown",
+      "title": "Deeds of Renown (Swashbuckler)",
+      "anchor_heading": "#### Deeds of Renown {#deeds_of_renown}",
+      "description": "Optional replacement deeds that provide alternative abilities, including samurai resolve integration and specialized combat techniques.",
+      "keywords": [
         "deeds of renown",
         "vengeful heart",
         "hilt hammer",
         "dodging dance",
         "vengeful soul",
-        "kip-up",
-        "menacing swordplay",
-        "swashbuckler's edge"
+        "resolve",
+        "samurai resolve",
+        "renowned deed",
+        "precision damage",
+        "attacks of opportunity"
+      ]
+    },
+    {
+      "id": "swashbuckler_swashbuckler_finesse_ex",
+      "title": "Swashbuckler Finesse (Ex) (Swashbuckler)",
+      "anchor_heading": "#### Swashbuckler Finesse (Ex) {#swashbuckler_finesse_ex}",
+      "description": "Grants Weapon Finesse with light or one-handed piercing melee weapons and allows Charisma to replace Intelligence for combat feat prerequisites.",
+      "keywords": [
+        "swashbuckler finesse",
+        "weapon finesse",
+        "light piercing weapon",
+        "one-handed piercing weapon",
+        "charisma",
+        "intelligence",
+        "combat feat prerequisites",
+        "feat prerequisite"
+      ]
+    },
+    {
+      "id": "swashbuckler_charmed_life_ex",
+      "title": "Charmed Life (Ex) (Swashbuckler)",
+      "anchor_heading": "#### Charmed Life (Ex) {#charmed_life_ex}",
+      "description": "Allows adding Charisma modifier to saving throws a limited number of times per day as an immediate action.",
+      "keywords": [
+        "charmed life",
+        "saving throw",
+        "charisma modifier",
+        "immediate action",
+        "per day",
+        "save bonus"
+      ]
+    },
+    {
+      "id": "swashbuckler_nimble_ex",
+      "title": "Nimble (Ex) (Swashbuckler)",
+      "anchor_heading": "#### Nimble (Ex) {#nimble_ex}",
+      "description": "Provides a scaling dodge bonus to AC while wearing light or no armor, lost when Dexterity bonus to AC is lost.",
+      "keywords": [
+        "nimble",
+        "dodge bonus",
+        "AC",
+        "light armor",
+        "no armor",
+        "dexterity bonus",
+        "armor class bonus"
+      ]
+    },
+    {
+      "id": "swashbuckler_bonus_feats",
+      "title": "Bonus Feats (Swashbuckler)",
+      "anchor_heading": "#### Bonus Feats {#bonus_feats}",
+      "description": "Grants bonus combat feats every 4 levels starting at 4th, with swashbuckler levels counting as fighter levels for prerequisites.",
+      "keywords": [
+        "bonus feats",
+        "combat feats",
+        "fighter levels",
+        "feat prerequisites",
+        "retrain feats",
+        "swap feats"
+      ]
+    },
+    {
+      "id": "swashbuckler_swashbuckler_weapon_training_ex",
+      "title": "Swashbuckler Weapon Training (Ex) (Swashbuckler)",
+      "anchor_heading": "#### Swashbuckler Weapon Training (Ex) {#swashbuckler_weapon_training_ex}",
+      "description": "Provides scaling attack and damage bonuses with light or one-handed piercing melee weapons plus Improved Critical feat benefit.",
+      "keywords": [
+        "swashbuckler weapon training",
+        "weapon training",
+        "attack bonus",
+        "damage bonus",
+        "improved critical",
+        "light piercing weapon",
+        "one-handed piercing weapon",
+        "critical threat range"
+      ]
+    },
+    {
+      "id": "swashbuckler_swashbuckler_weapon_mastery_ex",
+      "title": "Swashbuckler Weapon Mastery (Ex) (Swashbuckler)",
+      "anchor_heading": "#### Swashbuckler Weapon Mastery (Ex) {#swashbuckler_weapon_mastery_ex}",
+      "description": "Automatically confirms critical threats and increases critical multipliers with light or one-handed piercing melee weapons.",
+      "keywords": [
+        "swashbuckler weapon mastery",
+        "weapon mastery",
+        "critical hit",
+        "critical confirmation",
+        "critical multiplier",
+        "light piercing weapon",
+        "one-handed piercing weapon",
+        "automatic confirmation"
+      ]
+    },
+    {
+      "id": "swashbuckler_incredible_luck_ex",
+      "title": "Incredible Luck (Ex) (Swashbuckler)",
+      "anchor_heading": "#### Incredible Luck (Ex) {#incredible_luck_ex}",
+      "description": "Grants three additional uses of charmed life and allows activation as a free action, even outside of turn.",
+      "keywords": [
+        "incredible luck",
+        "charmed life",
+        "free action",
+        "outside turn",
+        "additional uses",
+        "capstone ability"
       ]
     }
-  ],
-  "category": "Classes"
+  ]
 }

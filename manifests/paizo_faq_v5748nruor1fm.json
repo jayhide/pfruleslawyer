@@ -1,0 +1,3359 @@
+{
+  "file": "v5748nruor1fm.md",
+  "source_path": "https://paizo.com/paizo/faq/v5748nruor1fm",
+  "source_name": "Paizo FAQ",
+  "sections": [
+    {
+      "id": "faq_alternate_ability_scorebased_checks_if_i_change_the_key_abil",
+      "title": "Alternate Ability Score-Based Checks: If I change the key ability score of a skill (or other check), for example, if I change Knowledge from Intelligence to Charisma, is it no-longer an Intelligence-based check? Is it now a Charisma-based check?",
+      "anchor_heading": "## Alternate Ability Score-Based Checks: If I change the key ability score of a skill (or other check), for example, if I change Knowledge from Intelligence to Charisma, is it no-longer an Intelligence-based check? Is it now a Charisma-based check?",
+      "description": "Generally yes\u2014at the time of rolling a check, if you substitute the ability score, the check is now based on the new ability score. In the example,...",
+      "keywords": [
+        "alternate",
+        "ability",
+        "score",
+        "based",
+        "checks",
+        "change",
+        "key",
+        "ability",
+        "score",
+        "skill"
+      ]
+    },
+    {
+      "id": "faq_do_ability_modifiers_from_the_same_ability_stack_for_instanc",
+      "title": "Do ability modifiers from the same ability stack? For instance, can you add the same ability bonus on the same roll twice using two different effects that each add that same ability modifier?",
+      "anchor_heading": "## Do ability modifiers from the same ability stack? For instance, can you add the same ability bonus on the same roll twice using two different effects that each add that same ability modifier?",
+      "description": "No. An ability bonus, such as \"Strength bonus\", is considered to be the same source for the purpose of bonuses from the same source not stacking. H...",
+      "keywords": [
+        "ability",
+        "modifiers",
+        "same",
+        "ability",
+        "stack",
+        "instance",
+        "add",
+        "same",
+        "ability",
+        "bonus"
+      ]
+    },
+    {
+      "id": "faq_how_does_the_surprise_spells_class_feature_of_the_arcane_tri",
+      "title": "How does the Surprise Spells class feature of the Arcane Trickster prestige class (Core Rulebook, page 378) work with spells likemagic missileandfireball?",
+      "anchor_heading": "## How does the Surprise Spells class feature of the Arcane Trickster prestige class (Core Rulebook, page 378) work with spells likemagic missileandfireball?",
+      "description": "The Surprise Spells class feature allows the Arcane Trickster to add his sneak attack dice to spells that deal damage that target flat-footed foes....",
+      "keywords": [
+        "surprise",
+        "spells",
+        "class",
+        "feature",
+        "arcane",
+        "trickster",
+        "prestige",
+        "class",
+        "core",
+        "rulebook"
+      ]
+    },
+    {
+      "id": "faq_sleep_what_penalties_happen_if_a_character_stays_up_all_nigh",
+      "title": "Sleep: What penalties happen if a character stays up all night without sleep?",
+      "anchor_heading": "## Sleep: What penalties happen if a character stays up all night without sleep?",
+      "description": "The character is fatigued.",
+      "keywords": [
+        "sleep",
+        "penalties",
+        "happen",
+        "character",
+        "stays",
+        "all",
+        "night",
+        "without",
+        "sleep"
+      ]
+    },
+    {
+      "id": "faq_temporarily_gaining_abilities_if_i_temporarily_gain_an_abili",
+      "title": "Temporarily gaining abilities: If I temporarily gain an ability that is limited in its uses per day, am I limited in my overall uses of that ability if I can temporarily gain it more than once?",
+      "anchor_heading": "## Temporarily gaining abilities: If I temporarily gain an ability that is limited in its uses per day, am I limited in my overall uses of that ability if I can temporarily gain it more than once?",
+      "description": "Yes. You are limited by the ability in the same way as a character that has that ability permanently. For example, if you have an ability that allo...",
+      "keywords": [
+        "temporarily",
+        "gaining",
+        "abilities",
+        "temporarily",
+        "gain",
+        "ability",
+        "limited",
+        "uses",
+        "per",
+        "day"
+      ]
+    },
+    {
+      "id": "faq_temporary_ability_score_increases_and_monster_abilities_do_t",
+      "title": "Temporary Ability Score Increases and Monster Abilities: Do these affect the DCs of monster and PC supernatural abilities based on those ability scores?",
+      "anchor_heading": "## Temporary Ability Score Increases and Monster Abilities: Do these affect the DCs of monster and PC supernatural abilities based on those ability scores?",
+      "description": "Although the description of temporarily ability score bonuses just refers to increasing spell DCs, that is a legacy of some older game terminology...",
+      "keywords": [
+        "temporary",
+        "ability",
+        "score",
+        "increases",
+        "monster",
+        "abilities",
+        "these",
+        "affect",
+        "dcs",
+        "monster"
+      ]
+    },
+    {
+      "id": "faq_temporary_ability_score_increases_vs_permanent_ability_score",
+      "title": "Temporary Ability Score Increases vs. Permanent Ability Score Increases: Why do temporary bonuses only apply to some things?",
+      "anchor_heading": "## Temporary Ability Score Increases vs. Permanent Ability Score Increases: Why do temporary bonuses only apply to some things?",
+      "description": "Temporary ability bonuses should apply to anything relating to that ability score, just as permanent ability score bonuses do. The section in the g...",
+      "keywords": [
+        "temporary",
+        "ability",
+        "score",
+        "increases",
+        "permanent",
+        "ability",
+        "score",
+        "increases",
+        "temporary",
+        "bonuses"
+      ]
+    },
+    {
+      "id": "faq_ability_score_increases_according_to_the_table_and_text_on_p",
+      "title": "Ability Score Increases: According to the table and text on page 30, a character gains an ability score increase at level 4, 8, 12, 16, and 20. How much is this increase? What ability scores does it affect?",
+      "anchor_heading": "## Ability Score Increases: According to the table and text on page 30, a character gains an ability score increase at level 4, 8, 12, 16, and 20. How much is this increase? What ability scores does it affect?",
+      "description": "At 4th level, a character can increase one ability score by +1. This is a typeless, nonmagical bonus that cannot be changed once selected.\n\nFor exa...",
+      "keywords": [
+        "ability",
+        "score",
+        "increases",
+        "according",
+        "table",
+        "text",
+        "page",
+        "character",
+        "gains",
+        "ability"
+      ]
+    },
+    {
+      "id": "faq_archetype_if_an_archetype_replaces_a_class_ability_with_a_mo",
+      "title": "Archetype: If an archetype replaces a class ability with a more specific version of that ability (or one that works similarly to the replaced ability), does the archetype's ability count as the original ability for the purpose of rules that improve the original ability?",
+      "anchor_heading": "## Archetype: If an archetype replaces a class ability with a more specific version of that ability (or one that works similarly to the replaced ability), does the archetype's ability count as the original ability for the purpose of rules that improve the original ability?",
+      "description": "It depends on how the archetype's ability is worded. If the archetype ability says it works like the standard ability, it counts as that ability. I...",
+      "keywords": [
+        "archetype",
+        "archetype",
+        "replaces",
+        "class",
+        "ability",
+        "more",
+        "specific",
+        "version",
+        "ability",
+        "one"
+      ]
+    },
+    {
+      "id": "faq_bonus_spells_from_a_high_ability_score_can_i_use_these_even_",
+      "title": "Bonus Spells from a High Ability Score: Can I use these even if my spellcasting class level isn't high enough to give me access to those spell levels?",
+      "anchor_heading": "## Bonus Spells from a High Ability Score: Can I use these even if my spellcasting class level isn't high enough to give me access to those spell levels?",
+      "description": "No. You only get the bonus spells if your class level grants you access to those spell levels. You can't even use them for lower-level spells. See...",
+      "keywords": [
+        "bonus",
+        "spells",
+        "high",
+        "ability",
+        "score",
+        "use",
+        "these",
+        "even",
+        "spellcasting",
+        "class"
+      ]
+    },
+    {
+      "id": "faq_cleric_domains_sorcerer_bloodlines_wizard_schools_and_certai",
+      "title": "Cleric domains, sorcerer bloodlines, wizard schools, and certain other class features give spell-like abilities that aren't based on spells. What's the effective spell level for these abilities?",
+      "anchor_heading": "## Cleric domains, sorcerer bloodlines, wizard schools, and certain other class features give spell-like abilities that aren't based on spells. What's the effective spell level for these abilities?",
+      "description": "The effective spell level for these spell-like abilities is equal to the highest-level spell that a character of that class could normally cast at...",
+      "keywords": [
+        "cleric",
+        "domains",
+        "sorcerer",
+        "bloodlines",
+        "wizard",
+        "schools",
+        "certain",
+        "other",
+        "class",
+        "features"
+      ]
+    },
+    {
+      "id": "faq_channel_energy_if_i_have_this_ability_from_more_than_one_cla",
+      "title": "Channel Energy: If I have this ability from more than one class, do they stack?",
+      "anchor_heading": "## Channel Energy: If I have this ability from more than one class, do they stack?",
+      "description": "No\u2014unless an ability specifically says it stacks with similar abilities (such as an assassin's sneak attack), or adds in some way based on the char...",
+      "keywords": [
+        "channel",
+        "energy",
+        "ability",
+        "more",
+        "than",
+        "one",
+        "class",
+        "they",
+        "stack"
+      ]
+    },
+    {
+      "id": "faq_cleric_does_a_cleric_whose_deitys_favored_weapon_is_the_bast",
+      "title": "Cleric: Does a cleric, whose deity's favored weapon is the bastard sword, receive free martial or exotic weapon proficiency with the sword?",
+      "anchor_heading": "## Cleric: Does a cleric, whose deity's favored weapon is the bastard sword, receive free martial or exotic weapon proficiency with the sword?",
+      "description": "Since the bastard sword is listed as an exotic weapon, he receives the Exotic Weapon proficiency with the weapon, allowing him to use it one-handed.",
+      "keywords": [
+        "cleric",
+        "cleric",
+        "whose",
+        "deity",
+        "favored",
+        "weapon",
+        "bastard",
+        "sword",
+        "receive",
+        "free"
+      ]
+    },
+    {
+      "id": "faq_duelistcanny_defense_does_the_canny_defense_ability_add_to_t",
+      "title": "Duelist--Canny Defense: Does the canny defense ability add to the duelist's CMD?",
+      "anchor_heading": "## Duelist--Canny Defense: Does the canny defense ability add to the duelist's CMD?",
+      "description": "As of the 6th printing of theCore Rulebook, the canny defense ability grants a dodge bonus to AC, which does improve the duelist's CMD.\n\n(Previous...",
+      "keywords": [
+        "duelist",
+        "canny",
+        "defense",
+        "canny",
+        "defense",
+        "ability",
+        "add",
+        "duelist",
+        "cmd"
+      ]
+    },
+    {
+      "id": "faq_duelistcanny_defense_is_this_ability_limited_by_my_armors_ma",
+      "title": "Duelist--Canny Defense: Is this ability limited by my armor's maximum Dexterity?",
+      "anchor_heading": "## Duelist--Canny Defense: Is this ability limited by my armor's maximum Dexterity?",
+      "description": "A duelist adds her Int bonus to her AC (not to her Dex bonus to AC). She loses that Int-based AC bonus under any situation where she's denied her D...",
+      "keywords": [
+        "duelist",
+        "canny",
+        "defense",
+        "ability",
+        "limited",
+        "armor",
+        "maximum",
+        "dexterity"
+      ]
+    },
+    {
+      "id": "faq_familiar_and_invisibility_if_i_use_my_familiar_to_deliver_a_",
+      "title": "Familiar and Invisibility: If I use my familiar to deliver a touch spell while I am invisible, does that break my invisibility?",
+      "anchor_heading": "## Familiar and Invisibility: If I use my familiar to deliver a touch spell while I am invisible, does that break my invisibility?",
+      "description": "No. The familiar is not you, and the familiar attacking does not count as you attacking, therefore your invisibility is unaffected.",
+      "keywords": [
+        "familiar",
+        "invisibility",
+        "use",
+        "familiar",
+        "deliver",
+        "touch",
+        "spell",
+        "while",
+        "invisible",
+        "break"
+      ]
+    },
+    {
+      "id": "faq_fighter_can_i_learn_a_new_fighter_bonus_feat_in_place_of_one",
+      "title": "Fighter: Can I learn a new fighter bonus feat in place of one of my armor proficiency feats?",
+      "anchor_heading": "## Fighter: Can I learn a new fighter bonus feat in place of one of my armor proficiency feats?",
+      "description": "No. Despite wording in the Armor Proficiency feats, fighters (and other classes) have a class ability that grants proficiency in those armors--it d...",
+      "keywords": [
+        "fighter",
+        "learn",
+        "new",
+        "fighter",
+        "bonus",
+        "feat",
+        "place",
+        "one",
+        "armor",
+        "proficiency"
+      ]
+    },
+    {
+      "id": "faq_fighter_can_i_use_the_fighter_bonus_feat_class_feature_to_re",
+      "title": "Fighter: Can I use the Fighter bonus feat class feature to retrain a feat that I gained at 1st level (such as Cleave) to gain a feat that I did not qualify for at 1st level, but do qualify for now (such as Lunge)?",
+      "anchor_heading": "## Fighter: Can I use the Fighter bonus feat class feature to retrain a feat that I gained at 1st level (such as Cleave) to gain a feat that I did not qualify for at 1st level, but do qualify for now (such as Lunge)?",
+      "description": "Yes. So long as the feat that you \"lose\" is not used as a prerequisite for any other feat, prestige class, or other ability, you can gain any feat...",
+      "keywords": [
+        "fighter",
+        "use",
+        "fighter",
+        "bonus",
+        "feat",
+        "class",
+        "feature",
+        "retrain",
+        "feat",
+        "gained"
+      ]
+    },
+    {
+      "id": "faq_fighter_what_feats_can_i_retrain_at_level_4_8_and_so_on",
+      "title": "Fighter: What feats can I retrain at level 4, 8, and so on?",
+      "anchor_heading": "## Fighter: What feats can I retrain at level 4, 8, and so on?",
+      "description": "Class entries in theCore Rulebookare written assuming that your character is single-classed (not multiclassed). The fighter's ability to retrain fe...",
+      "keywords": [
+        "fighter",
+        "feats",
+        "retrain",
+        "level"
+      ]
+    },
+    {
+      "id": "faq_halfelf_or_halforc_can_a_character_of_either_of_these_races_",
+      "title": "Half-Elf or Half-Orc: Can a character of either of these races select human racial archetypes (such as fromAdvanced Race Guide?",
+      "anchor_heading": "## Half-Elf or Half-Orc: Can a character of either of these races select human racial archetypes (such as fromAdvanced Race Guide?",
+      "description": "Yes. Half-elves and half-orcs may select racial favored class options, archetypes, traits, and so on, as if they were a full member of both races (...",
+      "keywords": [
+        "half",
+        "elf",
+        "half",
+        "orc",
+        "character",
+        "either",
+        "these",
+        "races",
+        "select",
+        "human"
+      ]
+    },
+    {
+      "id": "faq_hit_points_what_creatures_get_max_hit_points_for_their_first",
+      "title": "Hit Points: What creatures get max hit points for their first level or first Hit Die? What creatures get favored class bonuses to hit points or skills?",
+      "anchor_heading": "## Hit Points: What creatures get max hit points for their first level or first Hit Die? What creatures get favored class bonuses to hit points or skills?",
+      "description": "Creatures whose first Hit Die is from a PC-appropriate character class gain max hit points for that Hit Die. The current list of PC-appropriate cha...",
+      "keywords": [
+        "hit",
+        "points",
+        "creatures",
+        "get",
+        "max",
+        "hit",
+        "points",
+        "first",
+        "level",
+        "first"
+      ]
+    },
+    {
+      "id": "faq_human_for_a_lowint_human_character_is_the_minimum_number_of_",
+      "title": "Human: For a low-Int human character, is the minimum number of skill ranks per level 1 or 2?",
+      "anchor_heading": "## Human: For a low-Int human character, is the minimum number of skill ranks per level 1 or 2?",
+      "description": "It's 1, but you add your human bonus rank at the end, so you end up with 2 ranks total.For example, a human fighter 1 with Int 6 would start with 2...",
+      "keywords": [
+        "human",
+        "low",
+        "int",
+        "human",
+        "character",
+        "minimum",
+        "number",
+        "skill",
+        "ranks",
+        "per"
+      ]
+    },
+    {
+      "id": "faq_intelligence_if_my_intelligence_modifier_increases_can_i_sel",
+      "title": "Intelligence: If my Intelligence modifier increases, can I select another bonus language?",
+      "anchor_heading": "## Intelligence: If my Intelligence modifier increases, can I select another bonus language?",
+      "description": "Yes. For example, if your Int is 13 and you reach level 4 and apply your ability score increase to Int, this increases your Int bonus from +1 to +2...",
+      "keywords": [
+        "intelligence",
+        "intelligence",
+        "modifier",
+        "increases",
+        "select",
+        "another",
+        "bonus",
+        "language"
+      ]
+    },
+    {
+      "id": "faq_lore_master_bard_ability_and_taking_10_can_i_take_10_on_know",
+      "title": "Lore Master Bard Ability and Taking 10: Can I take 10 on Knowledge checks? The Knowledge skill doesn\u2019t say I can\u2019t, but if that's true, the first half of the lore master bard ability doesn\u2019t do anything.",
+      "anchor_heading": "## Lore Master Bard Ability and Taking 10: Can I take 10 on Knowledge checks? The Knowledge skill doesn\u2019t say I can\u2019t, but if that's true, the first half of the lore master bard ability doesn\u2019t do anything.",
+      "description": "Yes, you can. The lore master bard ability should add to the end of that first sentence \u201ceven when threatened or distracted.\u201d",
+      "keywords": [
+        "lore",
+        "master",
+        "bard",
+        "ability",
+        "taking",
+        "take",
+        "knowledge",
+        "checks",
+        "knowledge",
+        "skill"
+      ]
+    },
+    {
+      "id": "faq_monk_how_does_a_monks_improved_bab_when_flurrying_interact_w",
+      "title": "Monk: How does a monk's improved BAB when flurrying interact with feats like Power Attack and Combat Expertise, which have different effects depending on your BAB?",
+      "anchor_heading": "## Monk: How does a monk's improved BAB when flurrying interact with feats like Power Attack and Combat Expertise, which have different effects depending on your BAB?",
+      "description": "The monk uses his improved flurrying BAB to determine the effect of those feats.",
+      "keywords": [
+        "monk",
+        "monk",
+        "improved",
+        "bab",
+        "flurrying",
+        "interact",
+        "feats",
+        "like",
+        "power",
+        "attack"
+      ]
+    },
+    {
+      "id": "faq_monk_the_monk_rules_for_flurry_state_for_the_purpose_of_thes",
+      "title": "Monk: The monk rules for flurry state, \"For the purpose of these attacks, the monk's base attack bonus is equal to his monk level.\" How does this interact with BAB from class levels and racial Hit Dice? Does a multiclassed fighter 19/monk 1 flurry as if his BAB were only +1?",
+      "anchor_heading": "## Monk: The monk rules for flurry state, \"For the purpose of these attacks, the monk's base attack bonus is equal to his monk level.\" How does this interact with BAB from class levels and racial Hit Dice? Does a multiclassed fighter 19/monk 1 flurry as if his BAB were only +1?",
+      "description": "A monk using flurry treats his BAB from monk levels as equal to his monk level. He still adds BAB from other sources (such as other classes or raci...",
+      "keywords": [
+        "monk",
+        "monk",
+        "rules",
+        "flurry",
+        "state",
+        "purpose",
+        "these",
+        "attacks",
+        "monk",
+        "base"
+      ]
+    },
+    {
+      "id": "faq_monk_does_the_extra_attack_from_spending_ki_as_part_of_a_flu",
+      "title": "Monk: Does the extra attack from spending ki as part of a flurry of blows stack with the extra attack fromhaste?",
+      "anchor_heading": "## Monk: Does the extra attack from spending ki as part of a flurry of blows stack with the extra attack fromhaste?",
+      "description": "Yes. The extra attack described in the ki pool ability doesn't say it works likehaste, nor does it say that it doesn't stack with haste, so the mon...",
+      "keywords": [
+        "monk",
+        "extra",
+        "attack",
+        "spending",
+        "part",
+        "flurry",
+        "blows",
+        "stack",
+        "extra",
+        "attack"
+      ]
+    },
+    {
+      "id": "faq_monk_flurry_of_blows_when_i_use_flurry_of_blows_can_i_make_a",
+      "title": "Monk Flurry of Blows: When I use flurry of blows, can I make all of the attacks with just one weapon, or do I have to use two, as implied by the ability functioning similarly to Two-Weapon Fighting?",
+      "anchor_heading": "## Monk Flurry of Blows: When I use flurry of blows, can I make all of the attacks with just one weapon, or do I have to use two, as implied by the ability functioning similarly to Two-Weapon Fighting?",
+      "description": "You can make all of your attacks with a single monk weapon. Alternatively, you can replace any number of these attacks with an unarmed strike. This...",
+      "keywords": [
+        "monk",
+        "flurry",
+        "blows",
+        "use",
+        "flurry",
+        "blows",
+        "make",
+        "all",
+        "attacks",
+        "just"
+      ]
+    },
+    {
+      "id": "faq_monk_ki_pool_what_kinds_of_damage_reduction_can_a_monk_bypas",
+      "title": "Monk Ki Pool: What kinds of damage reduction can a monk bypass with this ability?",
+      "anchor_heading": "## Monk Ki Pool: What kinds of damage reduction can a monk bypass with this ability?",
+      "description": "Monks typically have problems bypassing DR with their unarmed strikes, forcing them to rely on weapons to deal with many forms of DR. We have decid...",
+      "keywords": [
+        "monk",
+        "pool",
+        "kinds",
+        "damage",
+        "reduction",
+        "monk",
+        "bypass",
+        "ability"
+      ]
+    },
+    {
+      "id": "faq_mystic_theurge_how_does_the_second_paragraph_affect_dualspon",
+      "title": "Mystic Theurge: How does the second paragraph affect dual-spontaneous casters, such as an oracle/sorcerer/mystic theurge?",
+      "anchor_heading": "## Mystic Theurge: How does the second paragraph affect dual-spontaneous casters, such as an oracle/sorcerer/mystic theurge?",
+      "description": "The text in question is:Spontaneous spellcasters can only select spells that they have prepared that day using non-spontaneous classes for this abi...",
+      "keywords": [
+        "mystic",
+        "theurge",
+        "second",
+        "paragraph",
+        "affect",
+        "dual",
+        "spontaneous",
+        "casters",
+        "such",
+        "oracle"
+      ]
+    },
+    {
+      "id": "faq_paladin_does_a_paladins_lay_on_hands_use_positive_energy",
+      "title": "Paladin: Does a paladin's lay on hands use positive energy?",
+      "anchor_heading": "## Paladin: Does a paladin's lay on hands use positive energy?",
+      "description": "Yes.",
+      "keywords": [
+        "paladin",
+        "paladin",
+        "lay",
+        "hands",
+        "use",
+        "positive",
+        "energy"
+      ]
+    },
+    {
+      "id": "faq_paladin_divine_bond_can_i_expend_two_daily_uses_of_this_abil",
+      "title": "Paladin, divine bond: Can I expend two daily uses of this ability to enhance two of my weapons or both sides of a double weapon?",
+      "anchor_heading": "## Paladin, divine bond: Can I expend two daily uses of this ability to enhance two of my weapons or both sides of a double weapon?",
+      "description": "Yes.",
+      "keywords": [
+        "paladin",
+        "divine",
+        "bond",
+        "expend",
+        "two",
+        "daily",
+        "uses",
+        "ability",
+        "enhance",
+        "two"
+      ]
+    },
+    {
+      "id": "faq_paladin_does_smite_evil_bypass_the_defenses_of_the_incorpore",
+      "title": "Paladin: Does smite evil bypass the defenses of the incorporeal special quality?",
+      "anchor_heading": "## Paladin: Does smite evil bypass the defenses of the incorporeal special quality?",
+      "description": "Smite is not an effect on the weapon, it is an effect on the paladin. The weapon still needs to be magic to harm the incorporeal creature, and even...",
+      "keywords": [
+        "paladin",
+        "smite",
+        "evil",
+        "bypass",
+        "defenses",
+        "incorporeal",
+        "special",
+        "quality"
+      ]
+    },
+    {
+      "id": "faq_paladin_if_im_immune_to_disease_am_i_immune_tomummy_rot_whic",
+      "title": "Paladin: If I'm immune to disease, am I immune tomummy rot, which is both a curse and a disease?",
+      "anchor_heading": "## Paladin: If I'm immune to disease, am I immune tomummy rot, which is both a curse and a disease?",
+      "description": "Yes.",
+      "keywords": [
+        "paladin",
+        "immune",
+        "disease",
+        "immune",
+        "tomummy",
+        "rot",
+        "both",
+        "curse",
+        "disease"
+      ]
+    },
+    {
+      "id": "faq_paladins_detect_evil_does_a_paladin_need_to_spend_a_standard",
+      "title": "Paladin\u2019s Detect Evil: Does a paladin need to spend a standard action to activatedetect evilbefore spending a move action to concentrate on a single creature or item?",
+      "anchor_heading": "## Paladin\u2019s Detect Evil: Does a paladin need to spend a standard action to activatedetect evilbefore spending a move action to concentrate on a single creature or item?",
+      "description": "No, the first sentence is discrete from the rest of the ability, and offers an alternative option for usingdetect evil. A paladin can use the move...",
+      "keywords": [
+        "paladin",
+        "detect",
+        "evil",
+        "paladin",
+        "need",
+        "spend",
+        "standard",
+        "action",
+        "activatedetect",
+        "evilbefore"
+      ]
+    },
+    {
+      "id": "faq_prestige_class_requirements_if_a_prestige_class_requires_5_r",
+      "title": "Prestige Class Requirements: If a prestige class requires 5 ranks in a skill and I have 6 ranks in that skill, do I still meet the requirements?",
+      "anchor_heading": "## Prestige Class Requirements: If a prestige class requires 5 ranks in a skill and I have 6 ranks in that skill, do I still meet the requirements?",
+      "description": "Yes, because skill ranks are inclusive: if you have 6 ranks in a skill, then you have 5 ranks in that skill, and therefore meet the \"have 5 ranks i...",
+      "keywords": [
+        "prestige",
+        "class",
+        "requirements",
+        "prestige",
+        "class",
+        "requires",
+        "ranks",
+        "skill",
+        "ranks",
+        "skill"
+      ]
+    },
+    {
+      "id": "faq_prestige_class_if_i_take_levels_in_a_prestige_class_that_adv",
+      "title": "Prestige Class: If I take levels in a prestige class that advances spellcasting, does that give me access to my higher-level bloodline spells?",
+      "anchor_heading": "## Prestige Class: If I take levels in a prestige class that advances spellcasting, does that give me access to my higher-level bloodline spells?",
+      "description": "No. Likewise, it doesn't give you any additional bloodline feats.If you were an oracle, it wouldn't give you any additional mystery spells. (Howeve...",
+      "keywords": [
+        "prestige",
+        "class",
+        "take",
+        "levels",
+        "prestige",
+        "class",
+        "advances",
+        "spellcasting",
+        "give",
+        "access"
+      ]
+    },
+    {
+      "id": "faq_sorcerer_do_the_bonuses_granted_from_bloodline_arcana_apply_",
+      "title": "Sorcerer: Do the bonuses granted from Bloodline Arcana apply to all of the spells cast by the sorcerer, or just those cast from the sorcerer's spell list?",
+      "anchor_heading": "## Sorcerer: Do the bonuses granted from Bloodline Arcana apply to all of the spells cast by the sorcerer, or just those cast from the sorcerer's spell list?",
+      "description": "The Bloodline Arcana powers apply to all of the spells cast by characters of that bloodline, not just those cast using the sorcerer's spell slots....",
+      "keywords": [
+        "sorcerer",
+        "bonuses",
+        "granted",
+        "bloodline",
+        "arcana",
+        "apply",
+        "all",
+        "spells",
+        "cast",
+        "sorcerer"
+      ]
+    },
+    {
+      "id": "faq_sorcererwizard_can_i_dismiss_my_familiar_so_i_may_select_a_n",
+      "title": "Sorcerer/Wizard: Can I dismiss my familiar so I may select a new familiar?",
+      "anchor_heading": "## Sorcerer/Wizard: Can I dismiss my familiar so I may select a new familiar?",
+      "description": "This isn't addressed in the rules anywhere, but yes, you should be able to dismiss a familiar if you want to select a new one. However, you must st...",
+      "keywords": [
+        "sorcerer",
+        "wizard",
+        "dismiss",
+        "familiar",
+        "select",
+        "new",
+        "familiar"
+      ]
+    },
+    {
+      "id": "faq_when_do_i_count_as_having_a_class_feature",
+      "title": "When do I count as having a class feature?",
+      "anchor_heading": "## When do I count as having a class feature?",
+      "description": "You have a class feature when your class description tells you you gain that class feature, generally based on your level in that class (and perhap...",
+      "keywords": [
+        "count",
+        "having",
+        "class",
+        "feature"
+      ]
+    },
+    {
+      "id": "faq_acrobatics_how_does_acrobatics_work_when_you_use_it_to_avoid",
+      "title": "Acrobatics: How does Acrobatics work when you use it to avoid attacks of opportunity? When do you make checks? How many do you make?",
+      "anchor_heading": "## Acrobatics: How does Acrobatics work when you use it to avoid attacks of opportunity? When do you make checks? How many do you make?",
+      "description": "Acrobatics allows you to make checks to move through the threatened area of foes without provoking attacks of opportunity. You must make a check th...",
+      "keywords": [
+        "acrobatics",
+        "acrobatics",
+        "work",
+        "use",
+        "avoid",
+        "attacks",
+        "opportunity",
+        "make",
+        "checks",
+        "many"
+      ]
+    },
+    {
+      "id": "faq_acrobatics_what_happens_if_i_fail_the_check_when_using_this_",
+      "title": "Acrobatics: What happens if I fail the check when using this skill to move through an enemy's square?",
+      "anchor_heading": "## Acrobatics: What happens if I fail the check when using this skill to move through an enemy's square?",
+      "description": "You lose the move action and provoke an AOO. (Note: This means you can attempt this up to two times in the same round, once as a move action and on...",
+      "keywords": [
+        "acrobatics",
+        "happens",
+        "fail",
+        "check",
+        "using",
+        "skill",
+        "move",
+        "through",
+        "enemy",
+        "square"
+      ]
+    },
+    {
+      "id": "faq_augment_summoning_does_this_feat_apply_to_monsters_summoned_",
+      "title": "Augment Summoning: Does this feat apply to monsters summoned withsummon monsterorsummon nature's allyspell-like abilities?",
+      "anchor_heading": "## Augment Summoning: Does this feat apply to monsters summoned withsummon monsterorsummon nature's allyspell-like abilities?",
+      "description": "Yes.",
+      "keywords": [
+        "augment",
+        "summoning",
+        "feat",
+        "apply",
+        "monsters",
+        "summoned",
+        "withsummon",
+        "monsterorsummon",
+        "nature",
+        "allyspell"
+      ]
+    },
+    {
+      "id": "faq_brew_potion_can_a_character_with_this_feat_create_a_potion_o",
+      "title": "Brew Potion: Can a character with this feat create a potion of any spell he knows simply by adding +5 to the DC, even without preparing it?",
+      "anchor_heading": "## Brew Potion: Can a character with this feat create a potion of any spell he knows simply by adding +5 to the DC, even without preparing it?",
+      "description": "No. When creating potions, the crafter must prepare and expend the spell used by the potion as part of its creation. This is an exception to the no...",
+      "keywords": [
+        "brew",
+        "potion",
+        "character",
+        "feat",
+        "create",
+        "potion",
+        "any",
+        "spell",
+        "knows",
+        "simply"
+      ]
+    },
+    {
+      "id": "faq_cleave_can_i_take_a_5foot_step_in_the_middle_of_my_attempt_t",
+      "title": "Cleave: Can I take a 5-foot step in the middle of my attempt to use the Cleave feat, to bring another foe within reach?",
+      "anchor_heading": "## Cleave: Can I take a 5-foot step in the middle of my attempt to use the Cleave feat, to bring another foe within reach?",
+      "description": "No. Cleave is a special action and the conditions for that action are checked at the moment you begin your action. At that moment, all of the avail...",
+      "keywords": [
+        "cleave",
+        "take",
+        "foot",
+        "step",
+        "middle",
+        "attempt",
+        "use",
+        "cleave",
+        "feat",
+        "bring"
+      ]
+    },
+    {
+      "id": "faq_cleave_can_i_use_this_feat_or_great_cleave_to_cleave_to_or_f",
+      "title": "Cleave: Can I use this feat or Great Cleave to cleave to or from an image created by amirror imagespell?",
+      "anchor_heading": "## Cleave: Can I use this feat or Great Cleave to cleave to or from an image created by amirror imagespell?",
+      "description": "No. If your initial attack hit the caster, you can\u2019t cleave to an image as if it were an actual creature. If your initial attack hit an image, you...",
+      "keywords": [
+        "cleave",
+        "use",
+        "feat",
+        "great",
+        "cleave",
+        "cleave",
+        "image",
+        "created",
+        "amirror",
+        "imagespell"
+      ]
+    },
+    {
+      "id": "faq_command_undead_how_long_do_the_undead_remain_under_my_contro",
+      "title": "Command Undead: How long do the undead remain under my control?",
+      "anchor_heading": "## Command Undead: How long do the undead remain under my control?",
+      "description": "The undead remain under your control indefinitely until you release them (or, if an intelligent undead creature, it succeeds at the daily saving th...",
+      "keywords": [
+        "command",
+        "undead",
+        "long",
+        "undead",
+        "remain",
+        "under",
+        "control"
+      ]
+    },
+    {
+      "id": "faq_empower_spell_if_i_use_empower_spell_on_a_spell_that_has_a_d",
+      "title": "Empower Spell: If I use Empower Spell on a spell that has a die roll with a numerical bonus (such ascure moderate wounds), does the feat affect the numerical bonus?",
+      "anchor_heading": "## Empower Spell: If I use Empower Spell on a spell that has a die roll with a numerical bonus (such ascure moderate wounds), does the feat affect the numerical bonus?",
+      "description": "Yes. For example, if you empowercure moderate wounds, the +50% from the feat applies to the 2d8 and to the level-based bonus.",
+      "keywords": [
+        "empower",
+        "spell",
+        "use",
+        "empower",
+        "spell",
+        "spell",
+        "die",
+        "roll",
+        "numerical",
+        "bonus"
+      ]
+    },
+    {
+      "id": "faq_extra_channel_if_i_take_this_feat_and_i_have_more_than_one_c",
+      "title": "Extra Channel: If I take this feat and I have more than one class with the ability to channel energy, do I have to assign the extra uses to a particular class when I choose the feat?",
+      "anchor_heading": "## Extra Channel: If I take this feat and I have more than one class with the ability to channel energy, do I have to assign the extra uses to a particular class when I choose the feat?",
+      "description": "No. In effect, the feat gives you two \"floating\" uses of channel energy per day, and you can use them with any appropriate class you have which gra...",
+      "keywords": [
+        "extra",
+        "channel",
+        "take",
+        "feat",
+        "more",
+        "than",
+        "one",
+        "class",
+        "ability",
+        "channel"
+      ]
+    },
+    {
+      "id": "faq_flight_and_magical_flight_can_a_paralyzed_or_stunned_creatur",
+      "title": "Flight and Magical Flight: Can a paralyzed or stunned creature keep flying with magical flight? Does a creature with magical flight not apply bonuses or penalties to Fly checks because it doesn\u2019t have a \u201cnatural\u201d fly speed? Does flying make a creature immune to being flat-footed?",
+      "anchor_heading": "## Flight and Magical Flight: Can a paralyzed or stunned creature keep flying with magical flight? Does a creature with magical flight not apply bonuses or penalties to Fly checks because it doesn\u2019t have a \u201cnatural\u201d fly speed? Does flying make a creature immune to being flat-footed?",
+      "description": "No, any creature that loses all actions can\u2019t take an action to attempt a Fly check to hover in place and thus automatically falls. That includes a...",
+      "keywords": [
+        "flight",
+        "magical",
+        "flight",
+        "paralyzed",
+        "stunned",
+        "creature",
+        "keep",
+        "flying",
+        "magical",
+        "flight"
+      ]
+    },
+    {
+      "id": "faq_fly_when_a_character_or_creature_is_flying_and_that_creature",
+      "title": "Fly: When a character or creature is flying, and that creature decides to ascend at a 45 degree angle, the rules states that it moves at half speed? Do the rules for diagonal square counting still apply when moving up diagonally in this way?",
+      "anchor_heading": "## Fly: When a character or creature is flying, and that creature decides to ascend at a 45 degree angle, the rules states that it moves at half speed? Do the rules for diagonal square counting still apply when moving up diagonally in this way?",
+      "description": "No. Since the game is generally assumed to be played in two dimensions, even when representing three dimensional combat, the rules for ascending ar...",
+      "keywords": [
+        "fly",
+        "character",
+        "creature",
+        "flying",
+        "creature",
+        "decides",
+        "ascend",
+        "degree",
+        "angle",
+        "rules"
+      ]
+    },
+    {
+      "id": "faq_greater_feint_greater_feint_says_the_target_is_denied_its_de",
+      "title": "Greater Feint: Greater Feint says the target is denied its Dexterity bonus to AC until the beginning of my next turn in addition to against my next attack. Is that just against my attacks, which probably won\u2019t be more than just my next attack until my next turn, or is it against my allies as well?",
+      "anchor_heading": "## Greater Feint: Greater Feint says the target is denied its Dexterity bonus to AC until the beginning of my next turn in addition to against my next attack. Is that just against my attacks, which probably won\u2019t be more than just my next attack until my next turn, or is it against my allies as well?",
+      "description": "Greater Feint makes the target lose its Dexterity bonus against all melee attacks by anyone until the start of your next turn, not just you. Unless...",
+      "keywords": [
+        "greater",
+        "feint",
+        "greater",
+        "feint",
+        "says",
+        "target",
+        "denied",
+        "dexterity",
+        "bonus",
+        "until"
+      ]
+    },
+    {
+      "id": "faq_greater_trip_how_does_this_interact_with_vicious_stomp_apg_d",
+      "title": "Greater Trip: How does this interact with Vicious Stomp (APG)? Do you get two AOOs or just one?",
+      "anchor_heading": "## Greater Trip: How does this interact with Vicious Stomp (APG)? Do you get two AOOs or just one?",
+      "description": "Using these feats together provokes two AOOs, because the two AOO-triggering acts are similar, but different.Greater Trip gives you an AOO when you...",
+      "keywords": [
+        "greater",
+        "trip",
+        "interact",
+        "vicious",
+        "stomp",
+        "apg",
+        "get",
+        "two",
+        "aoos",
+        "just"
+      ]
+    },
+    {
+      "id": "faq_handle_animal_does_training_an_animal_using_handle_animal_to",
+      "title": "Handle Animal: Does training an animal using Handle Animal to be Combat Trained (pg 98 in theCore Rulebook) grant it Light Armor Proficiency?",
+      "anchor_heading": "## Handle Animal: Does training an animal using Handle Animal to be Combat Trained (pg 98 in theCore Rulebook) grant it Light Armor Proficiency?",
+      "description": "No, using Handle Animal to train an animal, or mount, in this way does not grant it a free bonus feat. It is not unreasonable, however to assume th...",
+      "keywords": [
+        "handle",
+        "animal",
+        "training",
+        "animal",
+        "using",
+        "handle",
+        "animal",
+        "combat",
+        "trained",
+        "thecore"
+      ]
+    },
+    {
+      "id": "faq_heighten_spell_how_does_this_spell_combine_with_other_metama",
+      "title": "Heighten Spell: How does this spell combine with other metamagic feats and using higher-level slots for lower-level spells?",
+      "anchor_heading": "## Heighten Spell: How does this spell combine with other metamagic feats and using higher-level slots for lower-level spells?",
+      "description": "Heighten Spell is worded poorly and can be confusing. It lets you use a higher-level spell slot for a spell, treating the spell as if it were natur...",
+      "keywords": [
+        "heighten",
+        "spell",
+        "spell",
+        "combine",
+        "other",
+        "metamagic",
+        "feats",
+        "using",
+        "higher",
+        "level"
+      ]
+    },
+    {
+      "id": "faq_improved_familiars_there_are_various_ways_for_characters_oth",
+      "title": "Improved Familiars: There are various ways for characters other than arcane spellcasters to gain familiars at this point, and some of those options even grant Improved Familiar as a bonus feat, but technically each Improved Familiar option requires a certain arcane spellcaster level to take it. Does that mean that non-arcane characters with Improved Familiar have a dead feature? How does it work? If it does work, can I take an Improved Familiar as some kind of variant familiar or a temporary familiar like the occultist\u2019s soulbound puppet?",
+      "anchor_heading": "## Improved Familiars: There are various ways for characters other than arcane spellcasters to gain familiars at this point, and some of those options even grant Improved Familiar as a bonus feat, but technically each Improved Familiar option requires a certain arcane spellcaster level to take it. Does that mean that non-arcane characters with Improved Familiar have a dead feature? How does it work? If it does work, can I take an Improved Familiar as some kind of variant familiar or a temporary familiar like the occultist\u2019s soulbound puppet?",
+      "description": "The Improved Familiar description was written back when only arcane spellcasters could have familiars, and it wasn\u2019t sufficiently future-proofed. T...",
+      "keywords": [
+        "improved",
+        "familiars",
+        "there",
+        "various",
+        "ways",
+        "characters",
+        "other",
+        "than",
+        "arcane",
+        "spellcasters"
+      ]
+    },
+    {
+      "id": "faq_item_creation_feats_does_having_a_caster_level_from_a_spelll",
+      "title": "Item Creation Feats: Does having a caster level from a spell-like ability meet the caster level prerequisite for selecting an item creation feat?",
+      "anchor_heading": "## Item Creation Feats: Does having a caster level from a spell-like ability meet the caster level prerequisite for selecting an item creation feat?",
+      "description": "No.",
+      "keywords": [
+        "item",
+        "creation",
+        "feats",
+        "having",
+        "caster",
+        "level",
+        "spell",
+        "like",
+        "ability",
+        "meet"
+      ]
+    },
+    {
+      "id": "faq_jumping_if_i_want_to_jump_over_a_10foot_pit_is_the_dc_10_lik",
+      "title": "Jumping: If I want to jump over a 10-foot pit, is the DC 10, like the table says, or is it higher, since I need to move a total of 15 feet to reach a non-pit square?",
+      "anchor_heading": "## Jumping: If I want to jump over a 10-foot pit, is the DC 10, like the table says, or is it higher, since I need to move a total of 15 feet to reach a non-pit square?",
+      "description": "The DC is still 10 to jump over a 10-foot pit. You do move a total of 15 feet when you make that jump, but some of that is not required to be part...",
+      "keywords": [
+        "jumping",
+        "want",
+        "jump",
+        "over",
+        "foot",
+        "pit",
+        "like",
+        "table",
+        "says",
+        "higher"
+      ]
+    },
+    {
+      "id": "faq_manyshot_can_i_fire_two_arrows_with_my_shot_then_cancel_the_",
+      "title": "Manyshot: Can I fire two arrows with my shot, then cancel the full attack and take a move?",
+      "anchor_heading": "## Manyshot: Can I fire two arrows with my shot, then cancel the full attack and take a move?",
+      "description": "No. Though the rules for \"Deciding between an Attack or a Full Attack (Core Rulebook187) give you the option to move after your first attack instea...",
+      "keywords": [
+        "manyshot",
+        "fire",
+        "two",
+        "arrows",
+        "shot",
+        "then",
+        "cancel",
+        "full",
+        "attack",
+        "take"
+      ]
+    },
+    {
+      "id": "faq_metamagic_at_what_spell_level_does_the_spell_count_for_conce",
+      "title": "Metamagic: At what spell level does the spell count for concentration DCs, magus spell recall, or apearl of power?",
+      "anchor_heading": "## Metamagic: At what spell level does the spell count for concentration DCs, magus spell recall, or apearl of power?",
+      "description": "The spell counts as the level of the spell slot necessary to cast it.\n\nFor example, an empoweredburning handsuses a 3rd-level spell slot, counts as...",
+      "keywords": [
+        "metamagic",
+        "spell",
+        "level",
+        "spell",
+        "count",
+        "concentration",
+        "dcs",
+        "magus",
+        "spell",
+        "recall"
+      ]
+    },
+    {
+      "id": "faq_metamagic_can_i_use_a_metamagic_feat_to_alter_a_spelllike_ab",
+      "title": "Metamagic: Can I use a metamagic feat to alter a spell-like ability?",
+      "anchor_heading": "## Metamagic: Can I use a metamagic feat to alter a spell-like ability?",
+      "description": "No. Metamagic feats specifically only affect spells, not spell-like abilities. Also, spell-like abilities do not have spell slots, so you can't adj...",
+      "keywords": [
+        "metamagic",
+        "use",
+        "metamagic",
+        "feat",
+        "alter",
+        "spell",
+        "like",
+        "ability"
+      ]
+    },
+    {
+      "id": "faq_perception_when_i_use_perception_as_a_move_action_to_search_",
+      "title": "Perception: When I use Perception as a move action to search for traps or other secrets, how wide of an area can I search? TheCore Rulebookdoesn\u2019t say, andPathfinder Unchainedmentions a 10 by 10 area, but it\u2019s part of an optional consolidated skills subsystem.",
+      "anchor_heading": "## Perception: When I use Perception as a move action to search for traps or other secrets, how wide of an area can I search? TheCore Rulebookdoesn\u2019t say, andPathfinder Unchainedmentions a 10 by 10 area, but it\u2019s part of an optional consolidated skills subsystem.",
+      "description": "As perUltimate Intrigue, there are two ways Perception checks happen in the game. The first way is automatic and reactive. Certain stimuli automati...",
+      "keywords": [
+        "perception",
+        "use",
+        "perception",
+        "move",
+        "action",
+        "search",
+        "traps",
+        "other",
+        "secrets",
+        "wide"
+      ]
+    },
+    {
+      "id": "faq_point_blank_shot_do_i_add_the_feats_extra_damage_to_the_spla",
+      "title": "Point Blank Shot: Do I add the feat's extra damage to the splash damage from a splash weapon?",
+      "anchor_heading": "## Point Blank Shot: Do I add the feat's extra damage to the splash damage from a splash weapon?",
+      "description": "No, the extra damage from Point Blank Shot only applies to the target of a direct hit with a splash weapon (including direct hits from an alchemist...",
+      "keywords": [
+        "point",
+        "blank",
+        "shot",
+        "add",
+        "feat",
+        "extra",
+        "damage",
+        "splash",
+        "damage",
+        "splash"
+      ]
+    },
+    {
+      "id": "faq_power_attack_if_i_am_using_a_twohanded_weapon_with_one_hand_",
+      "title": "Power Attack: If I am using a two-handed weapon with one hand (such as a lance while mounted), do still I get the +50% damage for using a two-handed weapon?",
+      "anchor_heading": "## Power Attack: If I am using a two-handed weapon with one hand (such as a lance while mounted), do still I get the +50% damage for using a two-handed weapon?",
+      "description": "Yes.",
+      "keywords": [
+        "power",
+        "attack",
+        "using",
+        "two",
+        "handed",
+        "weapon",
+        "one",
+        "hand",
+        "such",
+        "lance"
+      ]
+    },
+    {
+      "id": "faq_quicken_spell_can_you_use_quicken_spell_on_a_spell_with_a_ca",
+      "title": "Quicken Spell: Can you use Quicken Spell on a spell with a casting time of \"1 round\" (such asenlarge person)? Can you use it on a spell with a casting time of \"1 full round\" (such as a spontaneous caster using a metamagic feat on a spell)?",
+      "anchor_heading": "## Quicken Spell: Can you use Quicken Spell on a spell with a casting time of \"1 round\" (such asenlarge person)? Can you use it on a spell with a casting time of \"1 full round\" (such as a spontaneous caster using a metamagic feat on a spell)?",
+      "description": "Yes and yes. Neither type has a longer casting time than the \"longer than 1 full-round action\" limitation of Quicken Spell, therefore both can be q...",
+      "keywords": [
+        "quicken",
+        "spell",
+        "use",
+        "quicken",
+        "spell",
+        "spell",
+        "casting",
+        "time",
+        "round",
+        "such"
+      ]
+    },
+    {
+      "id": "faq_spell_mastery_can_an_alchemist_magus_or_witch_select_this_fe",
+      "title": "Spell Mastery: Can an alchemist, magus, or witch select this feat?",
+      "anchor_heading": "## Spell Mastery: Can an alchemist, magus, or witch select this feat?",
+      "description": "As written, no, as the feat's prerequisite is \"1st-level wizard.\"However, the feat was written before the existence of the alchemist, magus, and wi...",
+      "keywords": [
+        "spell",
+        "mastery",
+        "alchemist",
+        "magus",
+        "witch",
+        "select",
+        "feat"
+      ]
+    },
+    {
+      "id": "faq_selective_channeling_do_i_have_to_be_able_to_see_a_creature_",
+      "title": "Selective Channeling: Do I have to be able to see a creature in order to exclude them from the effect of my channeled energy?",
+      "anchor_heading": "## Selective Channeling: Do I have to be able to see a creature in order to exclude them from the effect of my channeled energy?",
+      "description": "Just like using a Target: creature spell, you must be able to see or touch a creature to affect it (or, in the case of this feat, select it to be u...",
+      "keywords": [
+        "selective",
+        "channeling",
+        "able",
+        "see",
+        "creature",
+        "order",
+        "exclude",
+        "them",
+        "effect",
+        "channeled"
+      ]
+    },
+    {
+      "id": "faq_shield_master_when_shield_master_says_you_do_not_suffer_any_",
+      "title": "Shield Master: When Shield Master says \u201cYou do not suffer any penalties on attack rolls made with a shield while you are wielding another weapon\u201d it seems like in context it means you don\u2019t take the penalty for Two-Weapon Fighting, but it just says \u201cany penalties\u201d so it isn\u2019t clear. Which penalties does the feat let a character ignore?",
+      "anchor_heading": "## Shield Master: When Shield Master says \u201cYou do not suffer any penalties on attack rolls made with a shield while you are wielding another weapon\u201d it seems like in context it means you don\u2019t take the penalty for Two-Weapon Fighting, but it just says \u201cany penalties\u201d so it isn\u2019t clear. Which penalties does the feat let a character ignore?",
+      "description": "Shield Master allows a character to ignore the Two-Weapon Fighting penalties on attack rolls with a shield while wielding another weapon, but not a...",
+      "keywords": [
+        "shield",
+        "master",
+        "shield",
+        "master",
+        "says",
+        "not",
+        "suffer",
+        "any",
+        "penalties",
+        "attack"
+      ]
+    },
+    {
+      "id": "faq_spring_attack_can_i_use_spring_attack_to_make_an_attack_from",
+      "title": "Spring Attack: Can I use Spring Attack to make an attack from an ally's square?",
+      "anchor_heading": "## Spring Attack: Can I use Spring Attack to make an attack from an ally's square?",
+      "description": "Let's use a diagram of a 5-foot-wide hallway to help visualize this question. Periods are open squares. A is the acting character. Numbers are alli...",
+      "keywords": [
+        "spring",
+        "attack",
+        "use",
+        "spring",
+        "attack",
+        "make",
+        "attack",
+        "ally",
+        "square"
+      ]
+    },
+    {
+      "id": "faq_weapon_finesse_if_i_have_this_feat_can_i_apply_my_dex_bonus_",
+      "title": "Weapon Finesse: If I have this feat, can I apply my Dex bonus to my combat maneuver checks instead of my Strength bonus?",
+      "anchor_heading": "## Weapon Finesse: If I have this feat, can I apply my Dex bonus to my combat maneuver checks instead of my Strength bonus?",
+      "description": "It depends on what combat maneuver you're attempting. Disarm, sunder, and trip are normally the only kinds of combat maneuvers in which you\u2019re actu...",
+      "keywords": [
+        "weapon",
+        "finesse",
+        "feat",
+        "apply",
+        "dex",
+        "bonus",
+        "combat",
+        "maneuver",
+        "checks",
+        "instead"
+      ]
+    },
+    {
+      "id": "faq_widen_spell_how_does_the_widen_spell_feat_affect_spells_with",
+      "title": "Widen Spell: How does the Widen Spell feat affect spells with line effects?",
+      "anchor_heading": "## Widen Spell: How does the Widen Spell feat affect spells with line effects?",
+      "description": "As written, nothing--lines do not have a width dimension, so that can't be doubled by the feat, and most line spells have a fixed range, which the...",
+      "keywords": [
+        "widen",
+        "spell",
+        "widen",
+        "spell",
+        "feat",
+        "affect",
+        "spells",
+        "line",
+        "effects"
+      ]
+    },
+    {
+      "id": "faq_weapon_specialization_can_you_take_weapon_specialization_ray",
+      "title": "Weapon Specialization: Can you take Weapon Specialization (ray) or Improved Critical (ray) as feats? How about Weapon Specialization (bomb) or Improved Critical (bomb)?",
+      "anchor_heading": "## Weapon Specialization: Can you take Weapon Specialization (ray) or Improved Critical (ray) as feats? How about Weapon Specialization (bomb) or Improved Critical (bomb)?",
+      "description": "All four of those are valid choices.\n\nNote that Weapon Specialization (ray) only adds tohit pointdamage caused by a ray attack that would normally...",
+      "keywords": [
+        "weapon",
+        "specialization",
+        "take",
+        "weapon",
+        "specialization",
+        "ray",
+        "improved",
+        "critical",
+        "ray",
+        "feats"
+      ]
+    },
+    {
+      "id": "faq_vital_strike_can_i_use_this_with_spring_attack_or_on_a_charg",
+      "title": "Vital Strike: Can I use this with Spring Attack, or on a charge?",
+      "anchor_heading": "## Vital Strike: Can I use this with Spring Attack, or on a charge?",
+      "description": "No. Vital Strike can only be used as part of an attack action, which is a specific kind of standard action. Spring Attack is a special kind of full...",
+      "keywords": [
+        "vital",
+        "strike",
+        "use",
+        "spring",
+        "attack",
+        "charge"
+      ]
+    },
+    {
+      "id": "faq_amulet_of_mighty_fists_does_this_allow_a_creatures_natural_a",
+      "title": "Amulet of Mighty Fists: Does this allow a creature's natural attacks to bypass damage reduction if the enhancement bonus is high enough (as noted on page 562)?",
+      "anchor_heading": "## Amulet of Mighty Fists: Does this allow a creature's natural attacks to bypass damage reduction if the enhancement bonus is high enough (as noted on page 562)?",
+      "description": "Yes. If the amulet grants at least a +3 enhancement bonus it allows a creature's natural attacks to bypass cold iron and silver damage reduction. I...",
+      "keywords": [
+        "amulet",
+        "mighty",
+        "fists",
+        "allow",
+        "creature",
+        "natural",
+        "attacks",
+        "bypass",
+        "damage",
+        "reduction"
+      ]
+    },
+    {
+      "id": "faq_adamantine_whats_the_hardness_of_a_metal_weapon_made_out_of_",
+      "title": "Adamantine: What's the hardness of a metal weapon made out of adamantine?",
+      "anchor_heading": "## Adamantine: What's the hardness of a metal weapon made out of adamantine?",
+      "description": "The answer depends on whether the weapon is entirely adamantine, or partly adamantine and partly some other material.\n\nTable 7\u201312 on page 175 of th...",
+      "keywords": [
+        "adamantine",
+        "hardness",
+        "metal",
+        "weapon",
+        "made",
+        "out",
+        "adamantine"
+      ]
+    },
+    {
+      "id": "faq_adamantine_adamantine_says_it_bypasses_hardness_less_than_20",
+      "title": "Adamantine: Adamantine says it bypasses hardness less than 20, but hardness says adamantine bypasses hardness of 20 or less. Which one should I use?",
+      "anchor_heading": "## Adamantine: Adamantine says it bypasses hardness less than 20, but hardness says adamantine bypasses hardness of 20 or less. Which one should I use?",
+      "description": "Use \u201cless than 20\u201d from the adamantine entry. Adamantine, which has 20 hardness, is strong enough to stand against adamantine (this is also why ada...",
+      "keywords": [
+        "adamantine",
+        "adamantine",
+        "says",
+        "bypasses",
+        "hardness",
+        "less",
+        "than",
+        "but",
+        "hardness",
+        "says"
+      ]
+    },
+    {
+      "id": "faq_amulet_of_mighty_fists_is_the_price_on_this_item_correct",
+      "title": "Amulet of Mighty Fists: Is the price on this item correct?",
+      "anchor_heading": "## Amulet of Mighty Fists: Is the price on this item correct?",
+      "description": "The design team has decided to reduce the price of this item. The new prices are as follows: 4,000 gp (+1), 16,000 gp (+2), 36,000 gp (+3), 64,000...",
+      "keywords": [
+        "amulet",
+        "mighty",
+        "fists",
+        "price",
+        "item",
+        "correct"
+      ]
+    },
+    {
+      "id": "faq_bane_can_i_apply_multiplebanespecial_abilities_to_the_same_w",
+      "title": "Bane: Can I apply multiplebanespecial abilities to the same weapon? If so, do their effects stack?",
+      "anchor_heading": "## Bane: Can I apply multiplebanespecial abilities to the same weapon? If so, do their effects stack?",
+      "description": "You can apply multiplebanespecial abilities to the same weapon. For example, you can have a+1 dragon- and fey-bane longsword, which has an increase...",
+      "keywords": [
+        "bane",
+        "apply",
+        "multiplebanespecial",
+        "abilities",
+        "same",
+        "weapon",
+        "effects",
+        "stack"
+      ]
+    },
+    {
+      "id": "faq_bastard_sword_is_this_a_onehanded_weapon_or_a_twohanded_weap",
+      "title": "Bastard Sword: Is this a one-handed weapon or a two-handed weapon?",
+      "anchor_heading": "## Bastard Sword: Is this a one-handed weapon or a two-handed weapon?",
+      "description": "A bastard sword is a one-handed weapon (although for some rules it blurs the line between a one-handed and a two-handed weapon).\n\nThe physical prop...",
+      "keywords": [
+        "bastard",
+        "sword",
+        "one",
+        "handed",
+        "weapon",
+        "two",
+        "handed",
+        "weapon"
+      ]
+    },
+    {
+      "id": "faq_cost_multipliers_for_items_when_an_item_has_a_cost_multiplie",
+      "title": "Cost Multipliers for Items: When an item has a cost multiplier, for instance for its size, unusual shape, or composition, does that apply before or after additional costs such as for making the item masterwork or using a special material?",
+      "anchor_heading": "## Cost Multipliers for Items: When an item has a cost multiplier, for instance for its size, unusual shape, or composition, does that apply before or after additional costs such as for making the item masterwork or using a special material?",
+      "description": "First add up the total cost of the base item, including any special material. Then multiply by any multiplier for the size and unusual shape from T...",
+      "keywords": [
+        "cost",
+        "multipliers",
+        "items",
+        "item",
+        "cost",
+        "multiplier",
+        "instance",
+        "size",
+        "unusual",
+        "shape"
+      ]
+    },
+    {
+      "id": "faq_crafting_and_bypassing_requirements_what_crafting_requiremen",
+      "title": "Crafting and Bypassing Requirements: What crafting requirements can you bypass by adding +5 to the DC of your Spellcraft check?",
+      "anchor_heading": "## Crafting and Bypassing Requirements: What crafting requirements can you bypass by adding +5 to the DC of your Spellcraft check?",
+      "description": "As presented on page 549 of theCore Rulebook, there are no limitations other than (1) you have to have the item creation feat, and (2) you cannot c...",
+      "keywords": [
+        "crafting",
+        "bypassing",
+        "requirements",
+        "crafting",
+        "requirements",
+        "bypass",
+        "adding",
+        "spellcraft",
+        "check"
+      ]
+    },
+    {
+      "id": "faq_crafting_and_spell_requirements_when_crafting_an_item_can_an",
+      "title": "Crafting and Spell Requirements: When crafting an item, can an arcane caster use a divine scroll to fulfill an item's divine spell requirement?",
+      "anchor_heading": "## Crafting and Spell Requirements: When crafting an item, can an arcane caster use a divine scroll to fulfill an item's divine spell requirement?",
+      "description": "Yes. (Likewise, a divine caster could use an arcane scroll to fulfill an item's arcane spell requirement.)However, the character has to be able to...",
+      "keywords": [
+        "crafting",
+        "spell",
+        "requirements",
+        "crafting",
+        "item",
+        "arcane",
+        "caster",
+        "use",
+        "divine",
+        "scroll"
+      ]
+    },
+    {
+      "id": "faq_crafting_and_take_10_can_i_take_10_on_the_spellcraft_check_t",
+      "title": "Crafting and Take 10: Can I take 10 on the Spellcraft check to craft a magic item?",
+      "anchor_heading": "## Crafting and Take 10: Can I take 10 on the Spellcraft check to craft a magic item?",
+      "description": "Yes.",
+      "keywords": [
+        "crafting",
+        "take",
+        "take",
+        "spellcraft",
+        "check",
+        "craft",
+        "magic",
+        "item"
+      ]
+    },
+    {
+      "id": "faq_enhancement_bonus_can_i_craft_an_item_that_gives_an_oddnumbe",
+      "title": "Enhancement Bonus: Can I craft an item that gives an odd-numbered enhancement bonus to an ability score, such as a+1 belt of giant strength?",
+      "anchor_heading": "## Enhancement Bonus: Can I craft an item that gives an odd-numbered enhancement bonus to an ability score, such as a+1 belt of giant strength?",
+      "description": "Technically the item-pricing formula in theCore Rulebookallows for items like that, but officially the game should only have even-numbered enhancem...",
+      "keywords": [
+        "enhancement",
+        "bonus",
+        "craft",
+        "item",
+        "gives",
+        "odd",
+        "numbered",
+        "enhancement",
+        "bonus",
+        "ability"
+      ]
+    },
+    {
+      "id": "faq_exotic_weapons_and_hands_if_a_weapon_is_wielded_twohanded_as",
+      "title": "Exotic Weapons and Hands: If a weapon is wielded two-handed as a martial weapon and one-handed with an exotic weapon proficiency, can I wield it one-handed without the exotic proficiency at a \u20134 penalty?",
+      "anchor_heading": "## Exotic Weapons and Hands: If a weapon is wielded two-handed as a martial weapon and one-handed with an exotic weapon proficiency, can I wield it one-handed without the exotic proficiency at a \u20134 penalty?",
+      "description": "No.Note that normally you can't wield a two-handed weapon in one hand. A bastard sword is an exception to that rule that you can't wield a two-hand...",
+      "keywords": [
+        "exotic",
+        "weapons",
+        "hands",
+        "weapon",
+        "wielded",
+        "two",
+        "handed",
+        "martial",
+        "weapon",
+        "one"
+      ]
+    },
+    {
+      "id": "faq_headband_of_vast_intelligence_if_i_wear_this_item_do_i_get_r",
+      "title": "Headband of Vast Intelligence: If I wear this item, do I get retroactive skill ranks for my Int increase in addition to the skill ranks associated with the item?",
+      "anchor_heading": "## Headband of Vast Intelligence: If I wear this item, do I get retroactive skill ranks for my Int increase in addition to the skill ranks associated with the item?",
+      "description": "No. The skill associated with the magic item represents the \"retroactive\" skill ranks you'd get from the item increasing your Intelligence. You don...",
+      "keywords": [
+        "headband",
+        "vast",
+        "intelligence",
+        "wear",
+        "item",
+        "get",
+        "retroactive",
+        "skill",
+        "ranks",
+        "int"
+      ]
+    },
+    {
+      "id": "faq_lance_if_i_have_the_pounce_ability_and_i_charge_with_a_lance",
+      "title": "Lance: If I have the pounce ability and I charge with a lance, do my iterative lance attacks get the lance's extra damage multiplier from charging?",
+      "anchor_heading": "## Lance: If I have the pounce ability and I charge with a lance, do my iterative lance attacks get the lance's extra damage multiplier from charging?",
+      "description": "No, it doesn\u2019t makes sense that those iterative attacks gain the damage bonus. To make that second attack, you have to pull the lance back and stab...",
+      "keywords": [
+        "lance",
+        "pounce",
+        "ability",
+        "charge",
+        "lance",
+        "iterative",
+        "lance",
+        "attacks",
+        "get",
+        "lance"
+      ]
+    },
+    {
+      "id": "faq_magic_items_wearers_and_durations_if_a_magic_item_grants_an_",
+      "title": "Magic Items, Wearers, and Durations: If a magic item grants an effect with a duration to the wearer, can I put it on, activate the effect, take it off, and keep the effect active?",
+      "anchor_heading": "## Magic Items, Wearers, and Durations: If a magic item grants an effect with a duration to the wearer, can I put it on, activate the effect, take it off, and keep the effect active?",
+      "description": "No, as soon as you remove an item that grants an effect to the wearer, you are no longer the wearer, so any remaining duration immediately expires....",
+      "keywords": [
+        "magic",
+        "items",
+        "wearers",
+        "durations",
+        "magic",
+        "item",
+        "grants",
+        "effect",
+        "duration",
+        "wearer"
+      ]
+    },
+    {
+      "id": "faq_magic_ranged_weapons_and_ammunition_when_a_ranged_weapon_sha",
+      "title": "Magic Ranged Weapons and Ammunition: When a ranged weapon shares its enhancement bonus with its ammunition, does this count as \u201ctrue\u201d enhancement bonus or more like a temporary bonus like greater magic weapon? In other words, does the shared enhancement bonus allow the arrow to bypass damage reduction as if it was cold iron, silver, adamantine, and aligned?",
+      "anchor_heading": "## Magic Ranged Weapons and Ammunition: When a ranged weapon shares its enhancement bonus with its ammunition, does this count as \u201ctrue\u201d enhancement bonus or more like a temporary bonus like greater magic weapon? In other words, does the shared enhancement bonus allow the arrow to bypass damage reduction as if it was cold iron, silver, adamantine, and aligned?",
+      "description": "No, other than the ways indicated in the Core Rulebook (if the ranged weapon is at least +1, they count as magic, and if the ranged weapon is align...",
+      "keywords": [
+        "magic",
+        "ranged",
+        "weapons",
+        "ammunition",
+        "ranged",
+        "weapon",
+        "shares",
+        "enhancement",
+        "bonus",
+        "ammunition"
+      ]
+    },
+    {
+      "id": "faq_metamagic_when_casting_a_spell_from_a_scroll_wand_or_staff_c",
+      "title": "Metamagic: When casting a spell from a scroll, wand, or staff, can I apply one or more of my metamagic feats to that spell?",
+      "anchor_heading": "## Metamagic: When casting a spell from a scroll, wand, or staff, can I apply one or more of my metamagic feats to that spell?",
+      "description": "No.",
+      "keywords": [
+        "metamagic",
+        "casting",
+        "spell",
+        "scroll",
+        "wand",
+        "staff",
+        "apply",
+        "one",
+        "more",
+        "metamagic"
+      ]
+    },
+    {
+      "id": "faq_metamagic_rod_can_i_use_one_of_these_items_to_alter_a_spelll",
+      "title": "Metamagic Rod: Can I use one of these items to alter a spell-like ability?",
+      "anchor_heading": "## Metamagic Rod: Can I use one of these items to alter a spell-like ability?",
+      "description": "No. Metamagic rods allow you to apply a metamagic feat to a spell, and metamagic feats do not work on spell-like abilities.",
+      "keywords": [
+        "metamagic",
+        "rod",
+        "use",
+        "one",
+        "these",
+        "items",
+        "alter",
+        "spell",
+        "like",
+        "ability"
+      ]
+    },
+    {
+      "id": "faq_mithral_what_weight_do_i_use_to_determine_the_price_of_a_mit",
+      "title": "Mithral: What weight do I use to determine the price of a mithral weapon or non-armor item?",
+      "anchor_heading": "## Mithral: What weight do I use to determine the price of a mithral weapon or non-armor item?",
+      "description": "To determine the additional price for the mithral (as compared to the normal item's price), use the non-mithral item's original weight and multiply...",
+      "keywords": [
+        "mithral",
+        "weight",
+        "use",
+        "determine",
+        "price",
+        "mithral",
+        "weapon",
+        "non",
+        "armor",
+        "item"
+      ]
+    },
+    {
+      "id": "faq_mithral_armor_what_exactly_does_it_mean_when_it_says_mithral",
+      "title": "Mithral armor: What exactly does it mean when it says mithral armor is counted as one category lighter for \u201cother limitations?\u201d",
+      "anchor_heading": "## Mithral armor: What exactly does it mean when it says mithral armor is counted as one category lighter for \u201cother limitations?\u201d",
+      "description": "This means that mithral armor allows its wearer to use it when her own class features or special abilities demand her to wear lighter armor; in oth...",
+      "keywords": [
+        "mithral",
+        "armor",
+        "exactly",
+        "mean",
+        "says",
+        "mithral",
+        "armor",
+        "counted",
+        "one",
+        "category"
+      ]
+    },
+    {
+      "id": "faq_monk_special_weapons_are_monks_automatically_proficient_with",
+      "title": "Monk Special Weapons: Are monks automatically proficient with all weapons that have the \"monk\" weapon special feature?",
+      "anchor_heading": "## Monk Special Weapons: Are monks automatically proficient with all weapons that have the \"monk\" weapon special feature?",
+      "description": "As written, no--the \"monk\" weapon special feature says a monk can use the weapon as part of a flurry of blows, but it doesn't grant proficiency in...",
+      "keywords": [
+        "monk",
+        "special",
+        "weapons",
+        "monks",
+        "automatically",
+        "proficient",
+        "all",
+        "weapons",
+        "monk",
+        "weapon"
+      ]
+    },
+    {
+      "id": "faq_pc_wealth_by_level_if_a_pc_has_an_item_crafting_feat_does_a_",
+      "title": "PC Wealth By Level: If a PC has an item crafting feat, does a crafted item count as its Price or its Cost?",
+      "anchor_heading": "## PC Wealth By Level: If a PC has an item crafting feat, does a crafted item count as its Price or its Cost?",
+      "description": "It counts as the item's Cost, not the Price. This comes into play in two ways.\n\nIf you're equipping a higher-level PC, you have to count crafted it...",
+      "keywords": [
+        "wealth",
+        "level",
+        "item",
+        "crafting",
+        "feat",
+        "crafted",
+        "item",
+        "count",
+        "price",
+        "cost"
+      ]
+    },
+    {
+      "id": "faq_pearl_of_power_what_is_the_caster_level_required_to_create_t",
+      "title": "Pearl of Power: What is the caster level required to create this item?",
+      "anchor_heading": "## Pearl of Power: What is the caster level required to create this item?",
+      "description": "Though the listedCaster Levelfor apearl of poweris 17th, that caster level is not part of theRequirementslisting for that item. Therefore, the only...",
+      "keywords": [
+        "pearl",
+        "power",
+        "caster",
+        "level",
+        "required",
+        "create",
+        "item"
+      ]
+    },
+    {
+      "id": "faq_potions_if_i_drink_a_potion_do_i_automatically_forgo_my_save",
+      "title": "Potions: If I drink a potion, do I automatically forgo my save against that potion?",
+      "anchor_heading": "## Potions: If I drink a potion, do I automatically forgo my save against that potion?",
+      "description": "No. Nothing in the potion rules says it changes whether or not you get a saving throw against the spell stored in the potion. Even if someone hands...",
+      "keywords": [
+        "potions",
+        "drink",
+        "potion",
+        "automatically",
+        "forgo",
+        "save",
+        "against",
+        "potion"
+      ]
+    },
+    {
+      "id": "faq_ring_of_counterspells_does_this_counter_area_spells_such_asf",
+      "title": "Ring of Counterspells: Does this counter area spells such asfireball?",
+      "anchor_heading": "## Ring of Counterspells: Does this counter area spells such asfireball?",
+      "description": "The ring only affects spells that target you, not spells that include you in the area. One possible interpretation is that the ring would make you...",
+      "keywords": [
+        "ring",
+        "counterspells",
+        "counter",
+        "area",
+        "spells",
+        "such",
+        "asfireball"
+      ]
+    },
+    {
+      "id": "faq_shield_bash_if_i_am_proficient_with_wearing_shields_can_i_ma",
+      "title": "Shield Bash: If I am proficient with wearing shields, can I make a shield bash without a nonproficiency penalty?",
+      "anchor_heading": "## Shield Bash: If I am proficient with wearing shields, can I make a shield bash without a nonproficiency penalty?",
+      "description": "Armor proficiencies and weapon proficiencies are different things.\n\nTable 6\u20134: Weapon (page 142) lists light shields, heavy shields, and spiked shi...",
+      "keywords": [
+        "shield",
+        "bash",
+        "proficient",
+        "wearing",
+        "shields",
+        "make",
+        "shield",
+        "bash",
+        "without",
+        "nonproficiency"
+      ]
+    },
+    {
+      "id": "faq_shield_bash_if_i_make_a_shield_bash_does_it_always_have_to_b",
+      "title": "Shield Bash: If I make a shield bash, does it always have to be an off-hand attack?",
+      "anchor_heading": "## Shield Bash: If I make a shield bash, does it always have to be an off-hand attack?",
+      "description": "The text for a shield bash assumes you're making a bash as an off-hand attack, but you don't have to. You can, for example, just make a shield bash...",
+      "keywords": [
+        "shield",
+        "bash",
+        "make",
+        "shield",
+        "bash",
+        "always",
+        "off",
+        "hand",
+        "attack"
+      ]
+    },
+    {
+      "id": "faq_speedweapons_can_i_get_two_extra_attacks_per_round_if_i_dual",
+      "title": "SpeedWeapons: Can I get two extra attacks per round if I dual-wield twospeedweapons?",
+      "anchor_heading": "## SpeedWeapons: Can I get two extra attacks per round if I dual-wield twospeedweapons?",
+      "description": "No. The benefits ofspeedare not cumulative with similar effects, and \"a secondspeedweapon\" is a similar effect.",
+      "keywords": [
+        "speedweapons",
+        "get",
+        "two",
+        "extra",
+        "attacks",
+        "per",
+        "round",
+        "dual",
+        "wield",
+        "twospeedweapons"
+      ]
+    },
+    {
+      "id": "faq_trip_weapons_if_you_want_to_make_a_trip_combat_maneuver_do_y",
+      "title": "Trip Weapons: If you want to make a trip combat maneuver, do you have to use a weapon with the trip special feature?",
+      "anchor_heading": "## Trip Weapons: If you want to make a trip combat maneuver, do you have to use a weapon with the trip special feature?",
+      "description": "No. When making a trip combat maneuver, you don't have to use a weapon with the trip special feature--you can use any weapon. For example, you can...",
+      "keywords": [
+        "trip",
+        "weapons",
+        "want",
+        "make",
+        "trip",
+        "combat",
+        "maneuver",
+        "use",
+        "weapon",
+        "trip"
+      ]
+    },
+    {
+      "id": "faq_unarmed_strike_for_the_purpose_ofmagic_fangand_other_spells_",
+      "title": "Unarmed Strike: For the purpose ofmagic fangand other spells, is an unarmed strike your whole body, or is it a part of your body (such as a fist or kick)?",
+      "anchor_heading": "## Unarmed Strike: For the purpose ofmagic fangand other spells, is an unarmed strike your whole body, or is it a part of your body (such as a fist or kick)?",
+      "description": "As written, the text isn't as clear as it could be. Becausemagic fangrequires the caster to select a specific natural attack to affect, you could i...",
+      "keywords": [
+        "unarmed",
+        "strike",
+        "purpose",
+        "ofmagic",
+        "fangand",
+        "other",
+        "spells",
+        "unarmed",
+        "strike",
+        "whole"
+      ]
+    },
+    {
+      "id": "faq_weapon_bonuses_can_weapon_special_abilities_such_asbane_or_c",
+      "title": "Weapon Bonuses: Can weapon special abilities (such asbane) or class abilities (such as a paladin's divine bond) allow you to exceed the +5 enhancement bonus limit and the +10 bonus-equivalent limitation?",
+      "anchor_heading": "## Weapon Bonuses: Can weapon special abilities (such asbane) or class abilities (such as a paladin's divine bond) allow you to exceed the +5 enhancement bonus limit and the +10 bonus-equivalent limitation?",
+      "description": "For the enhancement bonus limitation, it depends on the specific effect or ability that's altering the weapon.\n\nBane: This allows the weapon to exc...",
+      "keywords": [
+        "weapon",
+        "bonuses",
+        "weapon",
+        "special",
+        "abilities",
+        "such",
+        "asbane",
+        "class",
+        "abilities",
+        "such"
+      ]
+    },
+    {
+      "id": "faq_weapons_twohanded_in_one_hand_when_a_feat_or_other_special_a",
+      "title": "Weapons, Two-Handed in One Hand: When a feat or other special ability says to treat a weapon\u00a0that is normally wielded in two hands as a one handed weapon, does it get\u00a0treated as one or\u00a0two handed weapon for the purposes of how to apply\u00a0the Strength modifier or the Power Attack feat?",
+      "anchor_heading": "## Weapons, Two-Handed in One Hand: When a feat or other special ability says to treat a weapon\u00a0that is normally wielded in two hands as a one handed weapon, does it get\u00a0treated as one or\u00a0two handed weapon for the purposes of how to apply\u00a0the Strength modifier or the Power Attack feat?",
+      "description": "If you're wielding it in one hand (even if it is normally a two-handed weapon), treat it as a one-handed weapon for the purpose of how much Strengt...",
+      "keywords": [
+        "weapons",
+        "two",
+        "handed",
+        "one",
+        "hand",
+        "feat",
+        "other",
+        "special",
+        "ability",
+        "says"
+      ]
+    },
+    {
+      "id": "faq_when_i_use_a_magic_item_likering_of_invisibilityorhat_of_dis",
+      "title": "When I use a magic item likering of invisibilityorhat of disguisethat can be activated to gain the effects of a spell, does the wording \"as the spell\" also include the spell\u2019s duration?",
+      "anchor_heading": "## When I use a magic item likering of invisibilityorhat of disguisethat can be activated to gain the effects of a spell, does the wording \"as the spell\" also include the spell\u2019s duration?",
+      "description": "Yes, such items' effects have a duration, as indicated by the spell\u2019s duration and the item\u2019s caster level. If the item has no daily use limit, how...",
+      "keywords": [
+        "use",
+        "magic",
+        "item",
+        "likering",
+        "invisibilityorhat",
+        "disguisethat",
+        "activated",
+        "gain",
+        "effects",
+        "spell"
+      ]
+    },
+    {
+      "id": "faq_wild_armor_and_other_transforming_armor_when_i_use_a_wild_ar",
+      "title": "Wild armor and other transforming armor: When I use a wild armor and gain the armor\u2019s benefits, what restrictions, if any, apply to me? In general, when I transform with a polymorph effect and some of my gear melds into the form, what restrictions do I have for melding with large amounts of heavy gear? What about other types of transforming armor?",
+      "anchor_heading": "## Wild armor and other transforming armor: When I use a wild armor and gain the armor\u2019s benefits, what restrictions, if any, apply to me? In general, when I transform with a polymorph effect and some of my gear melds into the form, what restrictions do I have for melding with large amounts of heavy gear? What about other types of transforming armor?",
+      "description": "If you were in medium or heavy load from encumbrance before transforming, you continue to take those penalties in your melded form. Otherwise, igno...",
+      "keywords": [
+        "wild",
+        "armor",
+        "other",
+        "transforming",
+        "armor",
+        "use",
+        "wild",
+        "armor",
+        "gain",
+        "armor"
+      ]
+    },
+    {
+      "id": "faq_10foot_reach_and_diagonals_im_confused_about_reach_and_diago",
+      "title": "10-Foot Reach and Diagonals: I\u2019m confused about reach and diagonals. I heard somewhere online that you don\u2019t threaten the second diagonal with a 10-foot reach but that you somehow get an attack of opportunity when opponents move out of that square, but the Rules Reference Cards show that you do threaten the second diagonal. Which one is correct?",
+      "anchor_heading": "## 10-Foot Reach and Diagonals: I\u2019m confused about reach and diagonals. I heard somewhere online that you don\u2019t threaten the second diagonal with a 10-foot reach but that you somehow get an attack of opportunity when opponents move out of that square, but the Rules Reference Cards show that you do threaten the second diagonal. Which one is correct?",
+      "description": "The cards are correct. As an exception to the way that diagonals normally work, a creature with 10 feet of reach threatens the second diagonal. The...",
+      "keywords": [
+        "foot",
+        "reach",
+        "diagonals",
+        "confused",
+        "about",
+        "reach",
+        "diagonals",
+        "heard",
+        "somewhere",
+        "online"
+      ]
+    },
+    {
+      "id": "faq_armor_spikes_can_i_use_twoweapon_fighting_to_make_an_offhand",
+      "title": "Armor Spikes: Can I use two-weapon fighting to make an \"off-hand\" attack with my armor spikes in the same round I use a two-handed weapon?",
+      "anchor_heading": "## Armor Spikes: Can I use two-weapon fighting to make an \"off-hand\" attack with my armor spikes in the same round I use a two-handed weapon?",
+      "description": "No.Likewise, you couldn't use an armored gauntlet to do so, as you are using both of your hands to wield your two-handed weapon, therefore your off...",
+      "keywords": [
+        "armor",
+        "spikes",
+        "use",
+        "two",
+        "weapon",
+        "fighting",
+        "make",
+        "off",
+        "hand",
+        "attack"
+      ]
+    },
+    {
+      "id": "faq_bonus_dice_do_bonus_dice_from_channel_smite_or_spells_such_a",
+      "title": "Bonus Dice: Do bonus dice from Channel Smite or spells such aselemental touchorflame arrowmultiply on a critical hit?",
+      "anchor_heading": "## Bonus Dice: Do bonus dice from Channel Smite or spells such aselemental touchorflame arrowmultiply on a critical hit?",
+      "description": "No.Core Rulebookpage 179 states in theMultiplying Damagesection: \"Exception: Extra damage dice over and above a weapon\u2019s normal damage are never mu...",
+      "keywords": [
+        "bonus",
+        "dice",
+        "bonus",
+        "dice",
+        "channel",
+        "smite",
+        "spells",
+        "such",
+        "aselemental",
+        "touchorflame"
+      ]
+    },
+    {
+      "id": "faq_can_i_use_my_longspear_to_attack_at_both_10_feet_and_5_feet_",
+      "title": "Can I use my longspear to attack at both 10 feet and 5 feet? I know that the rules for reach weapons don't allow them to attack adjacent foes, but can I use the improvised weapon rules to say that the blunt end of my longspear resembles a club and use it to attack adjacent foes? I know that the improvised weapon rules say they are for objects not designed to be weapons, but the blunt end of my longspear was not designed to be a weapon, right?",
+      "anchor_heading": "## Can I use my longspear to attack at both 10 feet and 5 feet? I know that the rules for reach weapons don't allow them to attack adjacent foes, but can I use the improvised weapon rules to say that the blunt end of my longspear resembles a club and use it to attack adjacent foes? I know that the improvised weapon rules say they are for objects not designed to be weapons, but the blunt end of my longspear was not designed to be a weapon, right?",
+      "description": "You could choose to wield your longspear as an improvised blunt weapon. In this case, it threatens only your adjacent squares, and not the further...",
+      "keywords": [
+        "use",
+        "longspear",
+        "attack",
+        "both",
+        "feet",
+        "feet",
+        "know",
+        "rules",
+        "reach",
+        "weapons"
+      ]
+    },
+    {
+      "id": "faq_concealment_and_precision_damage_does_concealment_the_20_kin",
+      "title": "Concealment and Precision Damage: Does concealment (the 20% kind, not total concealment) negate all kinds of precision damage? There is some confusion from the multiple places where precision damage appears.",
+      "anchor_heading": "## Concealment and Precision Damage: Does concealment (the 20% kind, not total concealment) negate all kinds of precision damage? There is some confusion from the multiple places where precision damage appears.",
+      "description": "Yes, in general concealment does negate all kinds of precision damage, unless you have a special ability that particularly says otherwise like the...",
+      "keywords": [
+        "concealment",
+        "precision",
+        "damage",
+        "concealment",
+        "kind",
+        "not",
+        "total",
+        "concealment",
+        "negate",
+        "all"
+      ]
+    },
+    {
+      "id": "faq_critical_hits_is_there_a_difference_between_scoring_a_critic",
+      "title": "Critical Hits: Is there a difference between \"scoring a critical hit\" and \"confirming a critical hit\"?",
+      "anchor_heading": "## Critical Hits: Is there a difference between \"scoring a critical hit\" and \"confirming a critical hit\"?",
+      "description": "No, they mean the same thing. However, the preferred rules language is \"confirming a critical hit.\" (Similarly, the preferred rules language for a...",
+      "keywords": [
+        "critical",
+        "hits",
+        "there",
+        "difference",
+        "between",
+        "scoring",
+        "critical",
+        "hit",
+        "confirming",
+        "critical"
+      ]
+    },
+    {
+      "id": "faq_grapple_there_are_some_contradictions_between_the_various_ru",
+      "title": "Grapple: There are some contradictions between the various rules on grappling. What is correct?",
+      "anchor_heading": "## Grapple: There are some contradictions between the various rules on grappling. What is correct?",
+      "description": "To sum up the correct rules:\n\n1) Grappling does not deny you your Dex bonus to AC, whether you are the grappler or the target.\n\n2) A grappled creat...",
+      "keywords": [
+        "grapple",
+        "there",
+        "some",
+        "contradictions",
+        "between",
+        "various",
+        "rules",
+        "grappling",
+        "correct"
+      ]
+    },
+    {
+      "id": "faq_damage_reduction_how_does_dr_interact_with_magical_effects_t",
+      "title": "Damage Reduction: How does DR interact with magical effects that deal bludgeoning, piercing, or slashing damage?",
+      "anchor_heading": "## Damage Reduction: How does DR interact with magical effects that deal bludgeoning, piercing, or slashing damage?",
+      "description": "Although theBestiarydefinition of Damage Reduction (page 299) says \"The creature takes normal damage from energy attacks (even nonmagical ones), sp...",
+      "keywords": [
+        "damage",
+        "reduction",
+        "interact",
+        "magical",
+        "effects",
+        "deal",
+        "bludgeoning",
+        "piercing",
+        "slashing",
+        "damage"
+      ]
+    },
+    {
+      "id": "faq_deflecting_attacks_does_an_attack_that_is_deflected_count_as",
+      "title": "Deflecting Attacks: Does an attack that is deflected count as a miss?",
+      "anchor_heading": "## Deflecting Attacks: Does an attack that is deflected count as a miss?",
+      "description": "It depends on the ability that is deflecting the attack.For example, the Deflect Arrows feat says, \"Once per round when you would normally be hit w...",
+      "keywords": [
+        "deflecting",
+        "attacks",
+        "attack",
+        "deflected",
+        "count",
+        "miss"
+      ]
+    },
+    {
+      "id": "faq_dim_light_when_an_ability_requires_a_character_to_be_near_sh",
+      "title": "Dim Light: When an ability requires a character to be near shadows or an area of dim light (like the shadowdancer\u2019s shadow jump or hide in plain sight), how does that interact with low-light vision, darkvision, and the like?",
+      "anchor_heading": "## Dim Light: When an ability requires a character to be near shadows or an area of dim light (like the shadowdancer\u2019s shadow jump or hide in plain sight), how does that interact with low-light vision, darkvision, and the like?",
+      "description": "While it\u2019s true that most creatures in the game have low-light vision or darkvision, when the rules talk about being in or near an objective light...",
+      "keywords": [
+        "dim",
+        "light",
+        "ability",
+        "requires",
+        "character",
+        "near",
+        "shadows",
+        "area",
+        "dim",
+        "light"
+      ]
+    },
+    {
+      "id": "faq_drawing_and_sheathing_a_weaponlike_object_i_know_i_can_draw_",
+      "title": "Drawing and Sheathing a Weapon-like Object: I know I can draw or sheathe a weapon-like object as a move action using the \"Draw or sheathe a weapon\" action, but if I have a base attack bonus of +1 or higher, can I draw a weapon-like object with a regular move?",
+      "anchor_heading": "## Drawing and Sheathing a Weapon-like Object: I know I can draw or sheathe a weapon-like object as a move action using the \"Draw or sheathe a weapon\" action, but if I have a base attack bonus of +1 or higher, can I draw a weapon-like object with a regular move?",
+      "description": "Yes. As shown on the chart on page 183, when you have a BAB of +1 or higher, you are combining the regular draw or sheathe a weapon action (to draw...",
+      "keywords": [
+        "drawing",
+        "sheathing",
+        "weapon",
+        "like",
+        "object",
+        "know",
+        "draw",
+        "sheathe",
+        "weapon",
+        "like"
+      ]
+    },
+    {
+      "id": "faq_free_actions_can_you_take_free_actions_during_an_attack_of_o",
+      "title": "Free Actions: Can you take free actions during an attack of opportunity? For instance, can you use the Grab, Trip, Pull, or Push universal monster rules after hitting with an attack of opportunity, since they require free actions and free actions can\u2019t be used off-turn? What about Rock Catching? That seems like it could only work off-turn.",
+      "anchor_heading": "## Free Actions: Can you take free actions during an attack of opportunity? For instance, can you use the Grab, Trip, Pull, or Push universal monster rules after hitting with an attack of opportunity, since they require free actions and free actions can\u2019t be used off-turn? What about Rock Catching? That seems like it could only work off-turn.",
+      "description": "While you can\u2019t take most free actions off your turn, Grab, Trip, Pull, Push, and Rock Catching\u2019s free actions can all be used off-turn. This will...",
+      "keywords": [
+        "free",
+        "actions",
+        "take",
+        "free",
+        "actions",
+        "during",
+        "attack",
+        "opportunity",
+        "instance",
+        "use"
+      ]
+    },
+    {
+      "id": "faq_free_actions_how_many_free_actions_can_i_take_in_a_round",
+      "title": "Free Actions: How many free actions can I take in a round?",
+      "anchor_heading": "## Free Actions: How many free actions can I take in a round?",
+      "description": "A:Core Rulebookpage 181 says,\"Free Action: Free actions consume a very small amount of time and effort. You can perform one or more fr ee actions w...",
+      "keywords": [
+        "free",
+        "actions",
+        "many",
+        "free",
+        "actions",
+        "take",
+        "round"
+      ]
+    },
+    {
+      "id": "faq_limited_actions_on_my_turn_if_an_aoo_or_other_interrupting_e",
+      "title": "Limited actions on my turn: If an AOO or other interrupting effect reduces what actions I can take on my turn, does this reduction apply immediately?",
+      "anchor_heading": "## Limited actions on my turn: If an AOO or other interrupting effect reduces what actions I can take on my turn, does this reduction apply immediately?",
+      "description": "Yes, even if it interrupts or limits your in-progress.\n\nFor example, if you are making a full attack and attempt to trip your opponent, but you pro...",
+      "keywords": [
+        "limited",
+        "actions",
+        "turn",
+        "aoo",
+        "other",
+        "interrupting",
+        "effect",
+        "reduces",
+        "actions",
+        "take"
+      ]
+    },
+    {
+      "id": "faq_mounted_combat_when_making_a_charge_while_mounted_which_crea",
+      "title": "Mounted Combat: When making a charge while mounted, which creature charges? The rider or the mount?",
+      "anchor_heading": "## Mounted Combat: When making a charge while mounted, which creature charges? The rider or the mount?",
+      "description": "Both charge in unison, suffer the same penalty to AC, the gaining the same bonus to the attack rolls and following all other rules for the charge....",
+      "keywords": [
+        "mounted",
+        "combat",
+        "making",
+        "charge",
+        "while",
+        "mounted",
+        "creature",
+        "charges",
+        "rider",
+        "mount"
+      ]
+    },
+    {
+      "id": "faq_multiple_weapons_extra_attacks_and_twoweapon_fighting_if_i_h",
+      "title": "Multiple Weapons, Extra Attacks, and Two-Weapon Fighting: If I have extra attacks from a high BAB, can I make attacks with different weapons and not incur a two-weapon fighting penalty?",
+      "anchor_heading": "## Multiple Weapons, Extra Attacks, and Two-Weapon Fighting: If I have extra attacks from a high BAB, can I make attacks with different weapons and not incur a two-weapon fighting penalty?",
+      "description": "Yes. Basically, you only incur TWF penalties if you are trying to get an extra attack per round.Let's assume you're a 6th-level fighter (BAB +6/+1)...",
+      "keywords": [
+        "multiple",
+        "weapons",
+        "extra",
+        "attacks",
+        "two",
+        "weapon",
+        "fighting",
+        "extra",
+        "attacks",
+        "high"
+      ]
+    },
+    {
+      "id": "faq_natural_20_and_natural_1_on_attack_rolls_and_saving_throws_a",
+      "title": "Natural 20 and Natural 1: On attack rolls and saving throws, a natural 20 is an automatic success and a natural 1 is an automatic failure. But should I treat them differently than other results when deciding if a roll succeeded or failed by 5 or more, when comparing two opposed attack rolls to see which is a higher result, or other similar situations?",
+      "anchor_heading": "## Natural 20 and Natural 1: On attack rolls and saving throws, a natural 20 is an automatic success and a natural 1 is an automatic failure. But should I treat them differently than other results when deciding if a roll succeeded or failed by 5 or more, when comparing two opposed attack rolls to see which is a higher result, or other similar situations?",
+      "description": "No, unless a specific rule tells you otherwise, treat a natural 20 or natural 1 result on an attack roll or saving throw the same as any other resu...",
+      "keywords": [
+        "natural",
+        "natural",
+        "attack",
+        "rolls",
+        "saving",
+        "throws",
+        "natural",
+        "automatic",
+        "success",
+        "natural"
+      ]
+    },
+    {
+      "id": "faq_natural_attacks_am_i_proficient_in_my_natural_attacks",
+      "title": "Natural Attacks: Am I proficient in my natural attacks?",
+      "anchor_heading": "## Natural Attacks: Am I proficient in my natural attacks?",
+      "description": "Yes. Whether you get those natural attacks from your race (as stated in theBestiaryentry on natural attacks), your class (as stated in the druid pr...",
+      "keywords": [
+        "natural",
+        "attacks",
+        "proficient",
+        "natural",
+        "attacks"
+      ]
+    },
+    {
+      "id": "faq_nauseated_and_actions_does_the_nauseated_condition_really_me",
+      "title": "Nauseated and Actions: Does the nauseated condition really mean what it says when it says \u201cThe only action such a character can take is a single move action per turn\u201d or does it just mean I can\u2019t take a standard action?",
+      "anchor_heading": "## Nauseated and Actions: Does the nauseated condition really mean what it says when it says \u201cThe only action such a character can take is a single move action per turn\u201d or does it just mean I can\u2019t take a standard action?",
+      "description": "The nauseated condition really means what it says. You are limited to one move action per round, and not any other actions. Compare to the staggere...",
+      "keywords": [
+        "nauseated",
+        "actions",
+        "nauseated",
+        "condition",
+        "really",
+        "mean",
+        "says",
+        "says",
+        "only",
+        "action"
+      ]
+    },
+    {
+      "id": "faq_pin_a_creature_grappling_an_opponent_typically_needs_to_make",
+      "title": "Pin: A creature grappling an opponent typically needs to make two combat maneuver checks to pin someone (one to grapple, the next to pin). If you're pinned, do you also need to succeed at two checks to escape, one for the grab and the other for the pin?",
+      "anchor_heading": "## Pin: A creature grappling an opponent typically needs to make two combat maneuver checks to pin someone (one to grapple, the next to pin). If you're pinned, do you also need to succeed at two checks to escape, one for the grab and the other for the pin?",
+      "description": "No. When a creature is pinned, it gains this more severe version of the grappled condition, and the two conditions do not stack (as described in th...",
+      "keywords": [
+        "pin",
+        "creature",
+        "grappling",
+        "opponent",
+        "typically",
+        "needs",
+        "make",
+        "two",
+        "combat",
+        "maneuver"
+      ]
+    },
+    {
+      "id": "faq_ranged_touch_attack_spells_and_aoos_when_you_cast_a_spell_th",
+      "title": "Ranged Touch Attack Spells and AOOs: When you cast a spell that allows you to make a ranged touch attack (such asscorching ray), and an enemy is within reach, do you provoke two attacks of opportunity?",
+      "anchor_heading": "## Ranged Touch Attack Spells and AOOs: When you cast a spell that allows you to make a ranged touch attack (such asscorching ray), and an enemy is within reach, do you provoke two attacks of opportunity?",
+      "description": "Yes, you provoke two attacks of opportunity: one for casting the spell and one for making a ranged attack, since these are two separate events.(Not...",
+      "keywords": [
+        "ranged",
+        "touch",
+        "attack",
+        "spells",
+        "aoos",
+        "cast",
+        "spell",
+        "allows",
+        "make",
+        "ranged"
+      ]
+    },
+    {
+      "id": "faq_reach_and_objects_can_you_pick_up_or_manipulate_an_object_in",
+      "title": "Reach and Objects: Can you pick up or manipulate an object in a square within your reach? Does this provoke an AOO? Does it provoke even if the foe can reach the object, but not your space?",
+      "anchor_heading": "## Reach and Objects: Can you pick up or manipulate an object in a square within your reach? Does this provoke an AOO? Does it provoke even if the foe can reach the object, but not your space?",
+      "description": "The rules are a little hazy here, but to put it simply, you can affect objects and creatures within your reach. When picking up or manipulating obj...",
+      "keywords": [
+        "reach",
+        "objects",
+        "pick",
+        "manipulate",
+        "object",
+        "square",
+        "within",
+        "reach",
+        "provoke",
+        "aoo"
+      ]
+    },
+    {
+      "id": "faq_reach_increases_and_size_increases_the_description_of_large_",
+      "title": "Reach increases and size increases: The description of Large or larger creatures with reach weapons says that they can strike up to double their natural reach but can\u2019t strike at their natural reach or less. Do I calculate this doubling before or after effects that alter my reach like Lunge orlongarm?",
+      "anchor_heading": "## Reach increases and size increases: The description of Large or larger creatures with reach weapons says that they can strike up to double their natural reach but can\u2019t strike at their natural reach or less. Do I calculate this doubling before or after effects that alter my reach like Lunge orlongarm?",
+      "description": "Double the base reach for a creature of your size first, then add in all the other abilities afterwards. So for instance, an ogre with thelongarmsp...",
+      "keywords": [
+        "reach",
+        "increases",
+        "size",
+        "increases",
+        "description",
+        "large",
+        "larger",
+        "creatures",
+        "reach",
+        "weapons"
+      ]
+    },
+    {
+      "id": "faq_ready_can_you_ready_an_action_to_charge",
+      "title": "Ready: Can you ready an action to charge?",
+      "anchor_heading": "## Ready: Can you ready an action to charge?",
+      "description": "No. The rules for a charge state that you can take a charge action as a standard action if you are \"restricted to taking only a standard action on...",
+      "keywords": [
+        "ready",
+        "ready",
+        "action",
+        "charge"
+      ]
+    },
+    {
+      "id": "faq_reflex_saves_if_im_paralyzed_held_dying_or_otherwise_complet",
+      "title": "Reflex Saves: If I\u2019m paralyzed, held, dying, or otherwise completely immobilized or insensate, can I still attempt a Reflex save?",
+      "anchor_heading": "## Reflex Saves: If I\u2019m paralyzed, held, dying, or otherwise completely immobilized or insensate, can I still attempt a Reflex save?",
+      "description": "Yes, you can still attempt a Reflex save, but since your Dexterity is set to 0, you\u2019ll have to replace your Dexterity bonus with a \u20135 penalty, so y...",
+      "keywords": [
+        "reflex",
+        "saves",
+        "paralyzed",
+        "held",
+        "dying",
+        "otherwise",
+        "completely",
+        "immobilized",
+        "insensate",
+        "still"
+      ]
+    },
+    {
+      "id": "faq_size_changes_effective_size_changes_and_damage_dice_progress",
+      "title": "Size Changes, Effective Size Changes, and Damage Dice Progression: I'm confused by how to increase and decrease manufactured and natural weapon damage dice when the weapon's size or effective size changes. There's a bunch of different charts, and I'm not sure which to use.",
+      "anchor_heading": "## Size Changes, Effective Size Changes, and Damage Dice Progression: I'm confused by how to increase and decrease manufactured and natural weapon damage dice when the weapon's size or effective size changes. There's a bunch of different charts, and I'm not sure which to use.",
+      "description": "When the damage dealt by a creature\u2019s weapons or natural attacks changes due to a change in its size (or the size of its weapon), use the following...",
+      "keywords": [
+        "size",
+        "changes",
+        "effective",
+        "size",
+        "changes",
+        "damage",
+        "dice",
+        "progression",
+        "confused",
+        "increase"
+      ]
+    },
+    {
+      "id": "faq_size_increases_and_effective_size_increases_how_does_damage_",
+      "title": "Size increases and effective size increases: How does damage work if I have various effects that change my actual size, my effective size, and my damage dice?",
+      "anchor_heading": "## Size increases and effective size increases: How does damage work if I have various effects that change my actual size, my effective size, and my damage dice?",
+      "description": "As per the rules on size changes, size changes do not stack, so if you have multiple size changing effects (for instance an effect that increases y...",
+      "keywords": [
+        "size",
+        "increases",
+        "effective",
+        "size",
+        "increases",
+        "damage",
+        "work",
+        "various",
+        "effects",
+        "change"
+      ]
+    },
+    {
+      "id": "faq_sneak_attack_can_i_add_sneak_attack_damage_to_simultaneous_a",
+      "title": "Sneak Attack: Can I add sneak attack damage to simultaneous attacks from a spell?",
+      "anchor_heading": "## Sneak Attack: Can I add sneak attack damage to simultaneous attacks from a spell?",
+      "description": "No. For example,scorching rayfires simultaneous rays at one or more targets, and the extra damage is only added once to one ray, chosen by the cast...",
+      "keywords": [
+        "sneak",
+        "attack",
+        "add",
+        "sneak",
+        "attack",
+        "damage",
+        "simultaneous",
+        "attacks",
+        "spell"
+      ]
+    },
+    {
+      "id": "faq_splash_weapons_does_the_prepare_to_throw_splash_weapon_fullr",
+      "title": "Splash Weapons: Does the \"prepare to throw splash weapon\" full-round action (page 183) apply to using all splash weapons?",
+      "anchor_heading": "## Splash Weapons: Does the \"prepare to throw splash weapon\" full-round action (page 183) apply to using all splash weapons?",
+      "description": "No. Throwing a splash weapon is an attack, and most splash weapons don't need any preparation before use, as they explode or activate on impact (al...",
+      "keywords": [
+        "splash",
+        "weapons",
+        "prepare",
+        "throw",
+        "splash",
+        "weapon",
+        "full",
+        "round",
+        "action",
+        "page"
+      ]
+    },
+    {
+      "id": "faq_sunder_can_i_make_multiple_sunder_attempts_in_one_round_as_p",
+      "title": "Sunder: Can I make multiple sunder attempts in one round as part of a full-attack action? The sunder text says that I can make sunder attempts in place of melee attacks in an attack action, which is not technically a full-attack action.",
+      "anchor_heading": "## Sunder: Can I make multiple sunder attempts in one round as part of a full-attack action? The sunder text says that I can make sunder attempts in place of melee attacks in an attack action, which is not technically a full-attack action.",
+      "description": "Yes you can. The text is a little unclear here. Instead of saying \"as part of an attack action in place of a melee attack\", the text should read \"i...",
+      "keywords": [
+        "sunder",
+        "make",
+        "multiple",
+        "sunder",
+        "attempts",
+        "one",
+        "round",
+        "part",
+        "full",
+        "attack"
+      ]
+    },
+    {
+      "id": "faq_temporary_hit_points_when_determining_my_current_hit_point_t",
+      "title": "Temporary Hit Points: When determining my current hit point total for effects likepower word kill, do I include my temporary hit points?",
+      "anchor_heading": "## Temporary Hit Points: When determining my current hit point total for effects likepower word kill, do I include my temporary hit points?",
+      "description": "Yes, add your temporary hit points together with your remaining normal hit points to determine your hit point total for the purpose of effects that...",
+      "keywords": [
+        "temporary",
+        "hit",
+        "points",
+        "determining",
+        "current",
+        "hit",
+        "point",
+        "total",
+        "effects",
+        "likepower"
+      ]
+    },
+    {
+      "id": "faq_tiny_and_smaller_creatures_in_the_section_on_tiny_and_smalle",
+      "title": "Tiny and smaller creatures: In the section on Tiny and smaller creatures, it says that entering a creature\u2019s space provokes an attack of opportunity, but typically 5-foot steps don\u2019t provoke an attack of opportunity.  If a Tiny or smaller creature took a 5-foot step into a creature\u2019s space, would it provoke an attack of opportunity?",
+      "anchor_heading": "## Tiny and smaller creatures: In the section on Tiny and smaller creatures, it says that entering a creature\u2019s space provokes an attack of opportunity, but typically 5-foot steps don\u2019t provoke an attack of opportunity.  If a Tiny or smaller creature took a 5-foot step into a creature\u2019s space, would it provoke an attack of opportunity?",
+      "description": "Yes. Even with a 5-foot step, a Tiny or smaller creature entering a creature\u2019s space provokes an attack of opportunity (unless it is using a more s...",
+      "keywords": [
+        "tiny",
+        "smaller",
+        "creatures",
+        "section",
+        "tiny",
+        "smaller",
+        "creatures",
+        "says",
+        "entering",
+        "creature"
+      ]
+    },
+    {
+      "id": "faq_trip_when_a_prone_character_stands_up_and_provokes_an_attack",
+      "title": "Trip: When a prone character stands up and provokes an attack of opportunity, can I use that attack to trip the character again?",
+      "anchor_heading": "## Trip: When a prone character stands up and provokes an attack of opportunity, can I use that attack to trip the character again?",
+      "description": "No. The attack of opportunity is triggered before the action that triggered it is resolved. In this case, the target is still prone when the attack...",
+      "keywords": [
+        "trip",
+        "prone",
+        "character",
+        "stands",
+        "provokes",
+        "attack",
+        "opportunity",
+        "use",
+        "attack",
+        "trip"
+      ]
+    },
+    {
+      "id": "faq_twohanded_weapons_what_kind_of_action_is_it_to_remove_your_h",
+      "title": "Two-Handed Weapons: What kind of action is it to remove your hand from a two-handed weapon or re-grab it with both hands?",
+      "anchor_heading": "## Two-Handed Weapons: What kind of action is it to remove your hand from a two-handed weapon or re-grab it with both hands?",
+      "description": "Both are free actions. For example, a wizard wielding a quarterstaff can let go of the weapon with one hand as a free action, cast a spell as a sta...",
+      "keywords": [
+        "two",
+        "handed",
+        "weapons",
+        "kind",
+        "action",
+        "remove",
+        "hand",
+        "two",
+        "handed",
+        "weapon"
+      ]
+    },
+    {
+      "id": "faq_twoweapon_fighting_if_you_use_this_on_your_turn_to_attack_wi",
+      "title": "Two-Weapon Fighting: If you use this on your turn to attack with two weapons, do you also take that penalty on attacks of opportunity made before the start of your next turn?",
+      "anchor_heading": "## Two-Weapon Fighting: If you use this on your turn to attack with two weapons, do you also take that penalty on attacks of opportunity made before the start of your next turn?",
+      "description": "No. The penalties end as soon as you have completed the full-attack action that allowed you to attack with both weapons. Any attacks of opportunity...",
+      "keywords": [
+        "two",
+        "weapon",
+        "fighting",
+        "use",
+        "turn",
+        "attack",
+        "two",
+        "weapons",
+        "also",
+        "take"
+      ]
+    },
+    {
+      "id": "faq_unarmed_strike_can_i_use_twoweapon_fighting_to_make_two_unar",
+      "title": "Unarmed Strike: Can I use two-weapon fighting to make two unarmed strikes in one round?",
+      "anchor_heading": "## Unarmed Strike: Can I use two-weapon fighting to make two unarmed strikes in one round?",
+      "description": "Yes.",
+      "keywords": [
+        "unarmed",
+        "strike",
+        "use",
+        "two",
+        "weapon",
+        "fighting",
+        "make",
+        "two",
+        "unarmed",
+        "strikes"
+      ]
+    },
+    {
+      "id": "faq_weapon_attacks_and_special_abilities_many_places_in_the_rule",
+      "title": "Weapon Attacks and Special Abilities: Many places in the rules use the term \u201cranged weapon attacks\u201d and similar terms, but how does this apply to spells, spell-like abilities, supernatural abilities, and extraordinary abilities (heretoafter called special abilities) that require ranged attacks but might not necessarily seem like weapons?",
+      "anchor_heading": "## Weapon Attacks and Special Abilities: Many places in the rules use the term \u201cranged weapon attacks\u201d and similar terms, but how does this apply to spells, spell-like abilities, supernatural abilities, and extraordinary abilities (heretoafter called special abilities) that require ranged attacks but might not necessarily seem like weapons?",
+      "description": "In general, special abilities that require attack rolls benefit and suffer from all modifiers affecting attack rolls even if those modifiers mentio...",
+      "keywords": [
+        "weapon",
+        "attacks",
+        "special",
+        "abilities",
+        "many",
+        "places",
+        "rules",
+        "use",
+        "term",
+        "ranged"
+      ]
+    },
+    {
+      "id": "faq_abilities_that_work_as_a_spell_how_do_i_calculate_the_dc_of_",
+      "title": "Abilities that work \u201cas a spell\u201d: How do I calculate the DC of an ability that says it works as or like a particular spell?",
+      "anchor_heading": "## Abilities that work \u201cas a spell\u201d: How do I calculate the DC of an ability that says it works as or like a particular spell?",
+      "description": "Some abilities that work as a spell tell you what their DC is, like the bard\u2019s fascinate performance. An ability that doesn\u2019t tell you anything abo...",
+      "keywords": [
+        "abilities",
+        "work",
+        "spell",
+        "calculate",
+        "ability",
+        "says",
+        "works",
+        "like",
+        "particular",
+        "spell"
+      ]
+    },
+    {
+      "id": "faq_arcane_bond_can_you_identify_an_item_that_is_the_subject_of_",
+      "title": "Arcane Bond: Can you identify an item that is the subject of an arcane bond from a wizard withdetect magicor a similar affect, even if the item contains no other enchantments?",
+      "anchor_heading": "## Arcane Bond: Can you identify an item that is the subject of an arcane bond from a wizard withdetect magicor a similar affect, even if the item contains no other enchantments?",
+      "description": "Since the arcane bond class feature, when tied to an item, grants a wizard the ability to cast any one spell, it is safe to assume that it does rad...",
+      "keywords": [
+        "arcane",
+        "bond",
+        "identify",
+        "item",
+        "subject",
+        "arcane",
+        "bond",
+        "wizard",
+        "withdetect",
+        "magicor"
+      ]
+    },
+    {
+      "id": "faq_arcane_trickster_how_does_the_surprise_spells_class_feature_",
+      "title": "Arcane Trickster: How does the Surprise Spells class feature work with spells likemagic missileandfireball?",
+      "anchor_heading": "## Arcane Trickster: How does the Surprise Spells class feature work with spells likemagic missileandfireball?",
+      "description": "The Surprise Spells class feature allows the Arcane Trickster to add his sneak attack dice to spells that deal damage that target flat-footed foes....",
+      "keywords": [
+        "arcane",
+        "trickster",
+        "surprise",
+        "spells",
+        "class",
+        "feature",
+        "work",
+        "spells",
+        "likemagic",
+        "missileandfireball"
+      ]
+    },
+    {
+      "id": "faq_amulet_of_mighty_fists_if_a_creature_with_multiple_natural_a",
+      "title": "Amulet of Mighty Fists: If a creature with multiple natural attacks (such as bite/claw/claw) wears an amulet with thespeedproperty, does it get one extra attack with each of its natural weapons?",
+      "anchor_heading": "## Amulet of Mighty Fists: If a creature with multiple natural attacks (such as bite/claw/claw) wears an amulet with thespeedproperty, does it get one extra attack with each of its natural weapons?",
+      "description": "No... mainly because that combination isway too goodfor monsters with multiple attacks, and gets better the more natural attacks a monster has. Dou...",
+      "keywords": [
+        "amulet",
+        "mighty",
+        "fists",
+        "creature",
+        "multiple",
+        "natural",
+        "attacks",
+        "such",
+        "bite",
+        "claw"
+      ]
+    },
+    {
+      "id": "faq_awaken_does_changing_the_creatures_type_to_magical_beast_aff",
+      "title": "Awaken: Does changing the creature's type to \"magical beast\" affect its HD type, BAB, or other features? What about its 2 additional HD? How does training to wear barding relate to armor proficiency?",
+      "anchor_heading": "## Awaken: Does changing the creature's type to \"magical beast\" affect its HD type, BAB, or other features? What about its 2 additional HD? How does training to wear barding relate to armor proficiency?",
+      "description": "Only the animal's type changes to \"magical beast\"--it doesn't gain all the mathematical benefits for this type change (think of it as a \"quick rule...",
+      "keywords": [
+        "awaken",
+        "changing",
+        "creature",
+        "type",
+        "magical",
+        "beast",
+        "affect",
+        "type",
+        "bab",
+        "other"
+      ]
+    },
+    {
+      "id": "faq_big_creatures_and_centered_effects_if_a_large_or_larger_crea",
+      "title": "Big creatures and centered effects: If a Large or larger creature has up an effect \u201ccentered on you,\u201d does that mean that sometimes the emanation doesn\u2019t even affect the creature\u2019s entire space, let alone anything else?",
+      "anchor_heading": "## Big creatures and centered effects: If a Large or larger creature has up an effect \u201ccentered on you,\u201d does that mean that sometimes the emanation doesn\u2019t even affect the creature\u2019s entire space, let alone anything else?",
+      "description": "No, when such a creature uses an emanation or burst with the text \u201ccentered on you,\u201d treat the creature\u2019s entire space as the spell\u2019s point of orig...",
+      "keywords": [
+        "big",
+        "creatures",
+        "centered",
+        "effects",
+        "large",
+        "larger",
+        "creature",
+        "effect",
+        "centered",
+        "mean"
+      ]
+    },
+    {
+      "id": "faq_charm_person_how_does_the_try_to_issue_orders_aspect_of_this",
+      "title": "Charm Person: How does the \"try to issue orders\" aspect of this spell work?",
+      "anchor_heading": "## Charm Person: How does the \"try to issue orders\" aspect of this spell work?",
+      "description": "The spell makes the target your friend. It will treat you kindly (although maybe not your allies) and will generally help you as long as your inter...",
+      "keywords": [
+        "charm",
+        "person",
+        "try",
+        "issue",
+        "orders",
+        "aspect",
+        "spell",
+        "work"
+      ]
+    },
+    {
+      "id": "faq_contact_other_plane_can_you_take_10_on_the_intelligence_chec",
+      "title": "Contact Other Plane: Can you Take 10 on the Intelligence check for this spell?",
+      "anchor_heading": "## Contact Other Plane: Can you Take 10 on the Intelligence check for this spell?",
+      "description": "Having your Int and Cha blasted down to 8 by an extraplanar entity is a significant and distracting threat, therefore you can't Take 10 on that check.",
+      "keywords": [
+        "contact",
+        "other",
+        "plane",
+        "take",
+        "intelligence",
+        "check",
+        "spell"
+      ]
+    },
+    {
+      "id": "faq_darkness_can_adding_additional_sunrods_to_the_area_of_the_sp",
+      "title": "Darkness: Can adding additional sunrods to the area of the spell increase the light level?",
+      "anchor_heading": "## Darkness: Can adding additional sunrods to the area of the spell increase the light level?",
+      "description": "No, sunrods can never increase the light level of an area ofdarknessbecause they are not magical sources of light. In such an area, it automaticall...",
+      "keywords": [
+        "darkness",
+        "adding",
+        "additional",
+        "sunrods",
+        "area",
+        "spell",
+        "increase",
+        "light",
+        "level"
+      ]
+    },
+    {
+      "id": "faq_darkness_can_a_nonmagical_light_source_increase_the_light_le",
+      "title": "Darkness: Can a nonmagical light source increase the light level within the area ofdarknessif the light source is outside the spell's area?",
+      "anchor_heading": "## Darkness: Can a nonmagical light source increase the light level within the area ofdarknessif the light source is outside the spell's area?",
+      "description": "No. Nonmagical light sources do not increase the light level within the spell's area, regardless of whether the light source is in the area or outs...",
+      "keywords": [
+        "darkness",
+        "nonmagical",
+        "light",
+        "source",
+        "increase",
+        "light",
+        "level",
+        "within",
+        "area",
+        "ofdarknessif"
+      ]
+    },
+    {
+      "id": "faq_darkness_can_i_see_light_sources_through_an_area_of_darkness",
+      "title": "Darkness: Can I see light sources through an area of darkness?",
+      "anchor_heading": "## Darkness: Can I see light sources through an area of darkness?",
+      "description": "No. If adarknessspell reduces the light in the area to actual darkness (or supernatural darkness, if using a more powerful spell), you can't see th...",
+      "keywords": [
+        "darkness",
+        "see",
+        "light",
+        "sources",
+        "through",
+        "area",
+        "darkness"
+      ]
+    },
+    {
+      "id": "faq_defendingweapon_property_do_i_have_to_make_attack_rolls_with",
+      "title": "DefendingWeapon Property: Do I have to make attack rolls with the weapon to gain its AC bonus?",
+      "anchor_heading": "## DefendingWeapon Property: Do I have to make attack rolls with the weapon to gain its AC bonus?",
+      "description": "Yes. Merely holding adefendingweapon is not sufficient. Unless otherwise specified, you have to use a magic item in the manner it is designed (use...",
+      "keywords": [
+        "defendingweapon",
+        "property",
+        "make",
+        "attack",
+        "rolls",
+        "weapon",
+        "gain",
+        "bonus"
+      ]
+    },
+    {
+      "id": "faq_dimension_door_if_the_caster_brings_other_creatures_with_him",
+      "title": "Dimension Door: If the caster brings other creatures with him when he casts the spell, are the passengers unable to take any other actions until their next turn, or is that just for the caster?",
+      "anchor_heading": "## Dimension Door: If the caster brings other creatures with him when he casts the spell, are the passengers unable to take any other actions until their next turn, or is that just for the caster?",
+      "description": "That restriction only applies to the caster.",
+      "keywords": [
+        "dimension",
+        "door",
+        "caster",
+        "brings",
+        "other",
+        "creatures",
+        "him",
+        "casts",
+        "spell",
+        "passengers"
+      ]
+    },
+    {
+      "id": "faq_dispelling_if_i_use_a_diametrically_opposed_spell_to_counter",
+      "title": "Dispelling: If I use a \"diametrically opposed\" spell to counter or dispel another spell (blessvs.bane,hastevs.slow, and so on), does my spell have any effect other than dispelling?",
+      "anchor_heading": "## Dispelling: If I use a \"diametrically opposed\" spell to counter or dispel another spell (blessvs.bane,hastevs.slow, and so on), does my spell have any effect other than dispelling?",
+      "description": "It depends on whether you are using the spell as a counterspell or as a dispel.\n\nIf used as a counterspell, your spell has no effect other than to...",
+      "keywords": [
+        "dispelling",
+        "use",
+        "diametrically",
+        "opposed",
+        "spell",
+        "counter",
+        "dispel",
+        "another",
+        "spell",
+        "blessvs"
+      ]
+    },
+    {
+      "id": "faq_fabricate_can_i_use_this_to_make_a_masterwork_item_or_an_ite",
+      "title": "Fabricate: Can I use this to make a masterwork item or an item with a special material?",
+      "anchor_heading": "## Fabricate: Can I use this to make a masterwork item or an item with a special material?",
+      "description": "Yes and yes. In effect, the spell is only saving you time compared to crafting the item nonmagically; you still must provide the raw materials (whi...",
+      "keywords": [
+        "fabricate",
+        "use",
+        "make",
+        "masterwork",
+        "item",
+        "item",
+        "special",
+        "material"
+      ]
+    },
+    {
+      "id": "faq_ghost_sound_can_this_create_intelligible_speech",
+      "title": "Ghost Sound: Can this create intelligible speech?",
+      "anchor_heading": "## Ghost Sound: Can this create intelligible speech?",
+      "description": "Making something that sounds like speech, and actually making intelligible speech are two different things.Ghost soundcan sound like people talking...",
+      "keywords": [
+        "ghost",
+        "sound",
+        "create",
+        "intelligible",
+        "speech"
+      ]
+    },
+    {
+      "id": "faq_grease_if_an_opponent_casts_this_spell_on_my_item_and_i_succ",
+      "title": "Grease: If an opponent casts this spell on my item, and I succed at my initial save, what happens?",
+      "anchor_heading": "## Grease: If an opponent casts this spell on my item, and I succed at my initial save, what happens?",
+      "description": "The spell description says \"an object wielded or employed by a creature requires its bearer to make a Reflex saving throw to avoid the effect,\" so...",
+      "keywords": [
+        "grease",
+        "opponent",
+        "casts",
+        "spell",
+        "item",
+        "succed",
+        "initial",
+        "save",
+        "happens"
+      ]
+    },
+    {
+      "id": "faq_hastehastesays_a_hasted_creature_can_make_an_additional_atta",
+      "title": "Haste:Hastesays a hasted creature can make an additional attack during a full attack with a natural or manufactured weapon, but what about other sorts of attacks like unarmed strikes?",
+      "anchor_heading": "## Haste:Hastesays a hasted creature can make an additional attack during a full attack with a natural or manufactured weapon, but what about other sorts of attacks like unarmed strikes?",
+      "description": "Unarmed strikes and other attacks that work via full attacks (such as mystic bolts, kinetic blade, andflame blade) all allow an extra attack withha...",
+      "keywords": [
+        "haste",
+        "hastesays",
+        "hasted",
+        "creature",
+        "make",
+        "additional",
+        "attack",
+        "during",
+        "full",
+        "attack"
+      ]
+    },
+    {
+      "id": "faq_invisibility_can_you_see_yourself_when_youre_invisible",
+      "title": "Invisibility: Can you see yourself when you're invisible?",
+      "anchor_heading": "## Invisibility: Can you see yourself when you're invisible?",
+      "description": "The spell doesn't say one way or the other.\n\nBecause being invisible doesn't give you penalties on actions that require you to be able to see exact...",
+      "keywords": [
+        "invisibility",
+        "see",
+        "yourself",
+        "invisible"
+      ]
+    },
+    {
+      "id": "faq_invisibility_purge_does_this_work_on_creatures_that_are_natu",
+      "title": "Invisibility Purge: Does this work on creatures that are naturally invisible?",
+      "anchor_heading": "## Invisibility Purge: Does this work on creatures that are naturally invisible?",
+      "description": "In general, yes--nothing in the spell description says it only works on spells or other magical sources of invisibility.However, note that the invi...",
+      "keywords": [
+        "invisibility",
+        "purge",
+        "work",
+        "creatures",
+        "naturally",
+        "invisible"
+      ]
+    },
+    {
+      "id": "faq_items_as_spells_does_using_a_potion_scroll_staff_or_wand_cou",
+      "title": "Items as Spells: Does using a potion, scroll, staff, or wand count as \"casting a spell\" for purposes of feats and special abilities like Augment Summoning, Spell Focus, an evoker's ability to do extra damage with evocation spells, bloodline abilities, and so on?",
+      "anchor_heading": "## Items as Spells: Does using a potion, scroll, staff, or wand count as \"casting a spell\" for purposes of feats and special abilities like Augment Summoning, Spell Focus, an evoker's ability to do extra damage with evocation spells, bloodline abilities, and so on?",
+      "description": "No. Unless they specifically state otherwise, feats and abilities that modify spells you cast only affect actual spellcasting, not using magic item...",
+      "keywords": [
+        "items",
+        "spells",
+        "using",
+        "potion",
+        "scroll",
+        "staff",
+        "wand",
+        "count",
+        "casting",
+        "spell"
+      ]
+    },
+    {
+      "id": "faq_light_and_darkness_i_am_confused_by_light_and_darkness_someo",
+      "title": "Light and Darkness: I am confused by light and darkness. Someone please help!",
+      "anchor_heading": "## Light and Darkness: I am confused by light and darkness. Someone please help!",
+      "description": "Check out the extended FAQ about Light and Darknesshere.",
+      "keywords": [
+        "light",
+        "darkness",
+        "confused",
+        "light",
+        "darkness",
+        "someone",
+        "please",
+        "help"
+      ]
+    },
+    {
+      "id": "faq_mirror_image_can_i_usemagic_missileto_destroy_one_or_more_im",
+      "title": "Mirror Image: Can I usemagic missileto destroy one or more images from amirror imagespell?",
+      "anchor_heading": "## Mirror Image: Can I usemagic missileto destroy one or more images from amirror imagespell?",
+      "description": "No.Magic missiletargets a creature and does not require an attack roll, so it bypasses all the images and always hits the real creature.",
+      "keywords": [
+        "mirror",
+        "image",
+        "usemagic",
+        "missileto",
+        "destroy",
+        "one",
+        "more",
+        "images",
+        "amirror",
+        "imagespell"
+      ]
+    },
+    {
+      "id": "faq_mirror_imageand_miss_chance_if_i_have_a_miss_chance_and_a_mi",
+      "title": "Mirror Imageand Miss Chance: If I have a miss chance and a mirror image, how do I combine them?",
+      "anchor_heading": "## Mirror Imageand Miss Chance: If I have a miss chance and a mirror image, how do I combine them?",
+      "description": "Miss chances generally only apply when an attack hits. For most miss chances, such asblur, there\u2019s no need to roll them if an attack would hit a mi...",
+      "keywords": [
+        "mirror",
+        "imageand",
+        "miss",
+        "chance",
+        "miss",
+        "chance",
+        "mirror",
+        "image",
+        "combine",
+        "them"
+      ]
+    },
+    {
+      "id": "faq_new_spells_known_if_i_gain_the_ability_to_add_a_spell_that_i",
+      "title": "New Spells Known: If I gain the ability to add a spell that is not on my spell list to my list of spells known, without adding it to my spell list, can I cast it?",
+      "anchor_heading": "## New Spells Known: If I gain the ability to add a spell that is not on my spell list to my list of spells known, without adding it to my spell list, can I cast it?",
+      "description": "No. Adding a spell to your list of spells known does not add it to the spell list of that class unless they are added by a class feature of that sa...",
+      "keywords": [
+        "new",
+        "spells",
+        "known",
+        "gain",
+        "ability",
+        "add",
+        "spell",
+        "not",
+        "spell",
+        "list"
+      ]
+    },
+    {
+      "id": "faq_positive_and_negative_energy_these_two_terms_show_up_in_a_va",
+      "title": "Positive and Negative Energy: These two terms show up in a variety of abilities, but they have no definition outside those abilities, and the abilities aren\u2019t always consistent. How do positive and negative energy work?",
+      "anchor_heading": "## Positive and Negative Energy: These two terms show up in a variety of abilities, but they have no definition outside those abilities, and the abilities aren\u2019t always consistent. How do positive and negative energy work?",
+      "description": "Positive and negative energy are two damage types, though despite their name, they are usually not included on the list of energy types you can cho...",
+      "keywords": [
+        "positive",
+        "negative",
+        "energy",
+        "these",
+        "two",
+        "terms",
+        "show",
+        "variety",
+        "abilities",
+        "but"
+      ]
+    },
+    {
+      "id": "faq_preparing_spells_in_open_slots_the_magic_chapter_says_a_wiza",
+      "title": "Preparing Spells in Open Slots: The Magic chapter says a wizard can leave spell slots open and prepare spells in them later. Can any other class do this?",
+      "anchor_heading": "## Preparing Spells in Open Slots: The Magic chapter says a wizard can leave spell slots open and prepare spells in them later. Can any other class do this?",
+      "description": "That text was written when wizard was the only class that prepares arcane spells. This option is also available to magus and witch characters (both...",
+      "keywords": [
+        "preparing",
+        "spells",
+        "open",
+        "slots",
+        "magic",
+        "chapter",
+        "says",
+        "wizard",
+        "leave",
+        "spell"
+      ]
+    },
+    {
+      "id": "faq_prestige_classes_and_spellcasters_does_a_wizard_or_other_cha",
+      "title": "Prestige Classes and Spellcasters: Does a wizard (or other character that uses a spellbook), receive bonus spells to add to his spellbook when he gains a level in a prestige class that grants an increase to spellcasting?",
+      "anchor_heading": "## Prestige Classes and Spellcasters: Does a wizard (or other character that uses a spellbook), receive bonus spells to add to his spellbook when he gains a level in a prestige class that grants an increase to spellcasting?",
+      "description": "No. The increase to his spellcasting level does not grant any other benefits, except for spells per day, spells known (for spontaneous casters), an...",
+      "keywords": [
+        "prestige",
+        "classes",
+        "spellcasters",
+        "wizard",
+        "other",
+        "character",
+        "uses",
+        "spellbook",
+        "receive",
+        "bonus"
+      ]
+    },
+    {
+      "id": "faq_protection_from_evil_does_the_protection_against_possession_",
+      "title": "Protection From Evil: Does the \"protection against possession and mental control\" aspect work against non-evil controlling spells and effects?",
+      "anchor_heading": "## Protection From Evil: Does the \"protection against possession and mental control\" aspect work against non-evil controlling spells and effects?",
+      "description": "No.  The spell says \"This second effect only functions against spells and effects created by evil creatures or objects.\" So if a chaotic neutral en...",
+      "keywords": [
+        "protection",
+        "evil",
+        "protection",
+        "against",
+        "possession",
+        "mental",
+        "control",
+        "aspect",
+        "work",
+        "against"
+      ]
+    },
+    {
+      "id": "faq_protection_from_evil_does_this_work_against_all_charm_and_co",
+      "title": "Protection From Evil: Does this work against all charm and compulsion effects? Or just against charm and compulsion effects where the caster is able to exercise control over the target, such ascharm person,command, anddominate person(and thus not effects likesleeporconfusion, as the caster does not have ongoing influence or puppet-like control of the target)?",
+      "anchor_heading": "## Protection From Evil: Does this work against all charm and compulsion effects? Or just against charm and compulsion effects where the caster is able to exercise control over the target, such ascharm person,command, anddominate person(and thus not effects likesleeporconfusion, as the caster does not have ongoing influence or puppet-like control of the target)?",
+      "description": "The latter interpretation is correct:protection from evilonly works on charm and compulsion effects where the caster is able to exercise control ov...",
+      "keywords": [
+        "protection",
+        "evil",
+        "work",
+        "against",
+        "all",
+        "charm",
+        "compulsion",
+        "effects",
+        "just",
+        "against"
+      ]
+    },
+    {
+      "id": "faq_ray_do_rays_count_as_weapons_for_the_purpose_of_spells_and_e",
+      "title": "Ray: Do rays count as weapons for the purpose of spells and effects that affect weapons?",
+      "anchor_heading": "## Ray: Do rays count as weapons for the purpose of spells and effects that affect weapons?",
+      "description": "Yes. (See alsothis FAQ itemfor a similar question about rays and weapon feats.)\n\nFor example, a bard's inspire courage says it affects \"weapon dama...",
+      "keywords": [
+        "ray",
+        "rays",
+        "count",
+        "weapons",
+        "purpose",
+        "spells",
+        "effects",
+        "affect",
+        "weapons"
+      ]
+    },
+    {
+      "id": "faq_scrolls_if_i_fail_my_caster_level_check_to_activate_a_scroll",
+      "title": "Scrolls: If I fail my caster level check to activate a scroll, but don't have a mishap, is the scroll used up?",
+      "anchor_heading": "## Scrolls: If I fail my caster level check to activate a scroll, but don't have a mishap, is the scroll used up?",
+      "description": "No.\n\nUpdate: Page 490\u2014In the Activation section, in the first paragraph after the bullet points, add the following sentence: \u201cIf the caster level c...",
+      "keywords": [
+        "scrolls",
+        "fail",
+        "caster",
+        "level",
+        "check",
+        "activate",
+        "scroll",
+        "but",
+        "don",
+        "mishap"
+      ]
+    },
+    {
+      "id": "faq_shocking_grasp_do_i_get_the_3_on_the_attack_roll_if_im_deliv",
+      "title": "Shocking Grasp: Do I get the +3 on the attack roll if I'm delivering the spell with something other than a touch attack, such as a natural weapon?",
+      "anchor_heading": "## Shocking Grasp: Do I get the +3 on the attack roll if I'm delivering the spell with something other than a touch attack, such as a natural weapon?",
+      "description": "Yes. The +3 bonus is not dependent on using a melee touch attack to deliver the jolt. For example, a magus using spellstrike to delivershocking gra...",
+      "keywords": [
+        "shocking",
+        "grasp",
+        "get",
+        "attack",
+        "roll",
+        "delivering",
+        "spell",
+        "something",
+        "other",
+        "than"
+      ]
+    },
+    {
+      "id": "faq_spelllike_abilities_and_item_crafting_can_i_use_a_spelllike_",
+      "title": "Spell-Like Abilities and Item Crafting: Can I use a spell-like ability for an item's spell requirement?",
+      "anchor_heading": "## Spell-Like Abilities and Item Crafting: Can I use a spell-like ability for an item's spell requirement?",
+      "description": "Yes.Core Rulebookpage 461, Requirements section, paragraph 2 says, \"A spell prerequisite may be provided by a character who has prepared the spell...",
+      "keywords": [
+        "spell",
+        "like",
+        "abilities",
+        "item",
+        "crafting",
+        "use",
+        "spell",
+        "like",
+        "ability",
+        "item"
+      ]
+    },
+    {
+      "id": "faq_spelllike_abilities_as_spells_does_a_creature_with_a_spellli",
+      "title": "Spell-Like Abilities as Spells: Does a creature with a spell-like ability count as having that spell on its spell list for the purpose of activating spell completion or spell trigger items?",
+      "anchor_heading": "## Spell-Like Abilities as Spells: Does a creature with a spell-like ability count as having that spell on its spell list for the purpose of activating spell completion or spell trigger items?",
+      "description": "No. A spell-like ability is not a spell, having a spell-like ability is not part of a class's spell list, and therefore doesn't give the creature t...",
+      "keywords": [
+        "spell",
+        "like",
+        "abilities",
+        "spells",
+        "creature",
+        "spell",
+        "like",
+        "ability",
+        "count",
+        "having"
+      ]
+    },
+    {
+      "id": "faq_spelllike_abilities_casting_and_prerequisites_does_a_creatur",
+      "title": "Spell-Like Abilities, Casting, and Prerequisites: Does a creature with a spell-like ability count as being able to cast that spell for the purpose of prerequisites or requirements?",
+      "anchor_heading": "## Spell-Like Abilities, Casting, and Prerequisites: Does a creature with a spell-like ability count as being able to cast that spell for the purpose of prerequisites or requirements?",
+      "description": "Only if the pre-requisite calls out the name of a spell explicitly. For instance, the Dimensional Agility feat (Ultimate Combat) has \"ability to us...",
+      "keywords": [
+        "spell",
+        "like",
+        "abilities",
+        "casting",
+        "prerequisites",
+        "creature",
+        "spell",
+        "like",
+        "ability",
+        "count"
+      ]
+    },
+    {
+      "id": "faq_spelllike_abilities_how_do_i_know_whether_a_spelllike_abilit",
+      "title": "Spell-Like Abilities: How do I know whether a spell-like ability is arcane or divine?",
+      "anchor_heading": "## Spell-Like Abilities: How do I know whether a spell-like ability is arcane or divine?",
+      "description": "The universal monster rules for spell-like abilities states:\"Some spell-like abilities duplicate spells that work differently when cast by characte...",
+      "keywords": [
+        "spell",
+        "like",
+        "abilities",
+        "know",
+        "whether",
+        "spell",
+        "like",
+        "ability",
+        "arcane",
+        "divine"
+      ]
+    },
+    {
+      "id": "faq_spontaneous_casting_and_multiple_classes_can_i_spontaneously",
+      "title": "Spontaneous Casting and Multiple Classes: Can I spontaneously cast spells from one of my classes using a different class\u2019s spell slots?",
+      "anchor_heading": "## Spontaneous Casting and Multiple Classes: Can I spontaneously cast spells from one of my classes using a different class\u2019s spell slots?",
+      "description": "No. This is only possible if you have a class feature that explicitly allows it, such as Combined Spells. This applies even if the two classes shar...",
+      "keywords": [
+        "spontaneous",
+        "casting",
+        "multiple",
+        "classes",
+        "spontaneously",
+        "cast",
+        "spells",
+        "one",
+        "classes",
+        "using"
+      ]
+    },
+    {
+      "id": "faq_touch_spells_does_wearing_a_gauntlet_cestus_or_similar_glove",
+      "title": "Touch Spells: Does wearing a gauntlet, cestus, or similar glove-like weapon count as \"touching anything\" for the purpose of accidentally discharging a held touch spell?",
+      "anchor_heading": "## Touch Spells: Does wearing a gauntlet, cestus, or similar glove-like weapon count as \"touching anything\" for the purpose of accidentally discharging a held touch spell?",
+      "description": "No.",
+      "keywords": [
+        "touch",
+        "spells",
+        "wearing",
+        "gauntlet",
+        "cestus",
+        "similar",
+        "glove",
+        "like",
+        "weapon",
+        "count"
+      ]
+    },
+    {
+      "id": "faq_touch_spells_if_a_spell_allows_multiple_touches_are_you_cons",
+      "title": "Touch Spells: If a spell allows multiple touches, are you considered to be holding the charge until all charges are expended?",
+      "anchor_heading": "## Touch Spells: If a spell allows multiple touches, are you considered to be holding the charge until all charges are expended?",
+      "description": "Yes.",
+      "keywords": [
+        "touch",
+        "spells",
+        "spell",
+        "allows",
+        "multiple",
+        "touches",
+        "considered",
+        "holding",
+        "charge",
+        "until"
+      ]
+    },
+    {
+      "id": "faq_touch_spells_in_the_magic_and_combat_chapters_it_says_that_i",
+      "title": "Touch Spells: In the Magic and Combat chapters, it says that I can touch a single ally as a standard action or up to six allies as a full-round action and that I can combine delivering a touch spell with a natural attack or unarmed strike. But what if I just want to deliver the touch spell to an enemy? It just says I can do it \u201cround after round.\u201d",
+      "anchor_heading": "## Touch Spells: In the Magic and Combat chapters, it says that I can touch a single ally as a standard action or up to six allies as a full-round action and that I can combine delivering a touch spell with a natural attack or unarmed strike. But what if I just want to deliver the touch spell to an enemy? It just says I can do it \u201cround after round.\u201d",
+      "description": "Making a touch attack against an enemy by touching it, beyond the free action to do so as part of casting the spell, is a standard action. It can\u2019t...",
+      "keywords": [
+        "touch",
+        "spells",
+        "magic",
+        "combat",
+        "chapters",
+        "says",
+        "touch",
+        "single",
+        "ally",
+        "standard"
+      ]
+    },
+    {
+      "id": "faq_true_seeing_does_this_spell_protect_you_fromphantasmal_kille",
+      "title": "True Seeing: Does this spell protect you fromphantasmal killer?",
+      "anchor_heading": "## True Seeing: Does this spell protect you fromphantasmal killer?",
+      "description": "Yes.True seeinglets you \"see all things as they actually are.\" Becausephantasmal killeris an illusion (phantasm) spell and creates an image directl...",
+      "keywords": [
+        "true",
+        "seeing",
+        "spell",
+        "protect",
+        "fromphantasmal",
+        "killer"
+      ]
+    },
+    {
+      "id": "faq_what_exactly_do_i_identify_when_im_using_spellcraft_to_ident",
+      "title": "What exactly do I identify when I\u2019m using Spellcraft to identify a spell? Is it the components, since spell-like abilities, for instance, don\u2019t have any? If I can only identify components, would that mean that I can\u2019t take an attack of opportunity against someone using a spell-like ability (or spell with no verbal, somatic, or material components) or ready an action to shoot an arrow to disrupt a spell-like ability? If there\u2019s something else, how do I know what it is?",
+      "anchor_heading": "## What exactly do I identify when I\u2019m using Spellcraft to identify a spell? Is it the components, since spell-like abilities, for instance, don\u2019t have any? If I can only identify components, would that mean that I can\u2019t take an attack of opportunity against someone using a spell-like ability (or spell with no verbal, somatic, or material components) or ready an action to shoot an arrow to disrupt a spell-like ability? If there\u2019s something else, how do I know what it is?",
+      "description": "Although this isn\u2019t directly stated in the Core Rulebook, many elements of the game system work assuming that all spells have their own manifestati...",
+      "keywords": [
+        "exactly",
+        "identify",
+        "using",
+        "spellcraft",
+        "identify",
+        "spell",
+        "components",
+        "since",
+        "spell",
+        "like"
+      ]
+    },
+    {
+      "id": "faq_ally_do_you_count_as_your_own_ally",
+      "title": "Ally: Do you count as your own ally?",
+      "anchor_heading": "## Ally: Do you count as your own ally?",
+      "description": "You count as your own ally unless otherwise stated or if doing so would make no sense or be impossible. Thus, \"your allies\" almost always means the...",
+      "keywords": [
+        "ally",
+        "count",
+        "own",
+        "ally"
+      ]
+    },
+    {
+      "id": "faq_energy_drain_does_this_count_as_a_death_effect",
+      "title": "Energy drain: Does this count as a death effect?",
+      "anchor_heading": "## Energy drain: Does this count as a death effect?",
+      "description": "Energy drain is not a death effect.\n\nThe undead type calls out immunities to \"death effects\" and \"energy drain\" as separate things.\n\nDeath Attacks...",
+      "keywords": [
+        "energy",
+        "drain",
+        "count",
+        "death",
+        "effect"
+      ]
+    },
+    {
+      "id": "faq_fire_immunity_does_a_creature_with_this_ability_automaticall",
+      "title": "Fire Immunity: Does a creature with this ability automatically have vulnerability to cold?",
+      "anchor_heading": "## Fire Immunity: Does a creature with this ability automatically have vulnerability to cold?",
+      "description": "No. A fire-immune creature (such as a balor) shouldn't automatically be vulnerable to cold. Likewise, a cold-immune creature shouldn't automaticall...",
+      "keywords": [
+        "fire",
+        "immunity",
+        "creature",
+        "ability",
+        "automatically",
+        "vulnerability",
+        "cold"
+      ]
+    },
+    {
+      "id": "faq_negative_levels_on_page_562_it_says_that_you_get_a_save_to_r",
+      "title": "Negative Levels: On page 562, it says that you get a save to remove temporary negative levels each day, but the universal monster rule for energy drain, as well as nearly every mention of temporary negative levels I can find, say that after 24 hours, the temporary negative levels become permanent if I fail my save. Which one is right?",
+      "anchor_heading": "## Negative Levels: On page 562, it says that you get a save to remove temporary negative levels each day, but the universal monster rule for energy drain, as well as nearly every mention of temporary negative levels I can find, say that after 24 hours, the temporary negative levels become permanent if I fail my save. Which one is right?",
+      "description": "The rule on page 562 is the general rule, but almost every specific rule in the game functions differently, and specific overrides general. Inciden...",
+      "keywords": [
+        "negative",
+        "levels",
+        "page",
+        "562",
+        "says",
+        "get",
+        "save",
+        "remove",
+        "temporary",
+        "negative"
+      ]
+    },
+    {
+      "id": "faq_poison_how_exactly_does_poison_stack_with_itself_how_and_whe",
+      "title": "Poison: How exactly does poison stack with itself? How and when are the saves made? How do you determine the DC for the save when the target is exposed to more than one dose of the poison?",
+      "anchor_heading": "## Poison: How exactly does poison stack with itself? How and when are the saves made? How do you determine the DC for the save when the target is exposed to more than one dose of the poison?",
+      "description": "A character receives a saving throw against poison whenever he is exposed to the poison (such as when he is hit by an attack that uses poison). The...",
+      "keywords": [
+        "poison",
+        "exactly",
+        "poison",
+        "stack",
+        "itself",
+        "saves",
+        "made",
+        "determine",
+        "save",
+        "target"
+      ]
+    },
+    {
+      "id": "faq_temporary_hit_points_do_temporary_hit_point_from_the_same_so",
+      "title": "Temporary Hit Points: Do temporary hit point from the same source stack?",
+      "anchor_heading": "## Temporary Hit Points: Do temporary hit point from the same source stack?",
+      "description": "No. Generally, effects do not stack if they are from the same source (Core Rulebookpage 208, Combining Magical Effects). Although temporary hit poi...",
+      "keywords": [
+        "temporary",
+        "hit",
+        "points",
+        "temporary",
+        "hit",
+        "point",
+        "same",
+        "source",
+        "stack"
+      ]
+    },
+    {
+      "id": "faq_what_makes_something_a_fear_effect_what_about_a_morale_effec",
+      "title": "What makes something a fear effect? What about a morale effect?",
+      "anchor_heading": "## What makes something a fear effect? What about a morale effect?",
+      "description": "Fear effects include spells with the fear descriptor, anything explicitly called out as a fear effect, anything that causes the shaken, frightened,...",
+      "keywords": [
+        "makes",
+        "something",
+        "fear",
+        "effect",
+        "about",
+        "morale",
+        "effect"
+      ]
+    }
+  ],
+  "category": "FAQ"
+}

@@ -2,71 +2,164 @@
   "file": "witch.md",
   "source_path": "https://www.d20pfsrd.com/classes/base-classes/witch/",
   "source_name": "Class: Witch",
+  "category": "Classes",
+  "toc_content": "Contents\n+ [Class Skills](#class_skills)\n+ [Class Features](#class_features)\n  - [Weapon and Armor Proficiency](#weapon_and_armor_proficiency)\n  - [Spells](#spells)\n  - [Hex](#hex)\n  - [Patron Spells](#patron_spells)\n  - [Witch\u2019s Familiar (Ex)](#witch8217s_familiar_ex)\n  - [Major Hex](#major_hex)\n  - [Major Hexes](#major_hexes)\n  - [Grand Hex](#grand_hex)\n  - [Grand Hexes](#grand_hexes)\n* [Favored Class Bonuses](#favored_class_bonuses)\n* [Archetypes & Alternate Class Features](#archetypes_alternate_class_features)",
   "sections": [
     {
-      "id": "witch",
-      "title": "Witch",
+      "id": "witch_overview",
+      "title": "Witch (Class Overview)",
       "anchor_heading": "# Witch",
-      "includes_subheadings": [
-        "### Class Skills",
-        "#### Weapon and Armor Proficiency",
-        "#### Spells",
-        "#### Hex",
-        "#### Patron Spells",
-        "#### Witch's Familiar (Ex)",
-        "#### Major Hex",
-        "#### Major Hexes",
-        "#### Grand Hex",
-        "#### Grand Hexes",
-        "## Favored Class Bonuses",
-        "## Archetypes & Alternate Class Features",
-        "#### Archetypes & Other Class Options"
-      ],
-      "description": "Comprehensive rules for the witch class, including spells, hexes, familiars, patrons, archetypes, and favored class bonuses.",
+      "end_at_heading": "### Class Skills {#class_skills}",
+      "description": "Overview of the Witch class including role, alignment, hit die, and starting wealth.",
       "keywords": [
         "witch",
+        "class",
+        "hit die",
+        "role",
+        "alignment"
+      ]
+    },
+    {
+      "id": "witch_weapon_and_armor_proficiency",
+      "title": "Weapon and Armor Proficiency (Witch)",
+      "anchor_heading": "#### Weapon and Armor Proficiency {#weapon_and_armor_proficiency}",
+      "description": "Witches are proficient with all simple weapons but not with armor or shields, as armor interferes with spellcasting by causing spells with somatic components to fail.",
+      "keywords": [
+        "simple weapons proficiency",
+        "no armor proficiency",
+        "somatic components",
+        "arcane spell failure",
+        "armor interferes spells",
+        "spell failure chance"
+      ]
+    },
+    {
+      "id": "witch_spells",
+      "title": "Spells (Witch)",
+      "anchor_heading": "#### Spells {#spells}",
+      "description": "Witches cast arcane spells from the witch spell list using Intelligence as their casting ability, requiring spell preparation through communion with their familiar for 1 hour after 8 hours of sleep.",
+      "keywords": [
+        "witch spell list",
+        "arcane spells",
+        "Intelligence-based casting",
+        "spell preparation",
+        "prepare spells",
+        "commune with familiar",
+        "spell DC",
+        "cantrips",
+        "0-level spells",
+        "bonus spells per day",
+        "spells per day"
+      ]
+    },
+    {
+      "id": "witch_hex",
+      "title": "Hex (Witch)",
+      "anchor_heading": "#### Hex {#hex}",
+      "description": "Witches learn magical tricks called hexes that grant powers or weaken foes, using them as standard actions with save DCs based on witch level and Intelligence modifier.",
+      "keywords": [
         "hex",
-        "hexes",
-        "witch spells",
-        "witch familiar",
+        "standard action",
+        "hex save DC",
+        "Intelligence modifier",
+        "once per 24 hours",
+        "hex progression",
+        "supernatural ability",
+        "witch powers"
+      ]
+    },
+    {
+      "id": "witch_patron_spells",
+      "title": "Patron Spells (Witch)",
+      "anchor_heading": "#### Patron Spells {#patron_spells}",
+      "description": "A witch must select a patron at 1st level that automatically grants additional spells known every two levels, with these spells also being stored in the familiar.",
+      "keywords": [
         "patron",
         "patron spells",
+        "bonus spells known",
+        "familiar spells",
+        "witch patron themes",
+        "automatic spells",
+        "spells known progression"
+      ]
+    },
+    {
+      "id": "witch_witch8217s_familiar_ex",
+      "title": "Witch\u2019s Familiar ([Ex](https://www.d20pfsrd.com/magic#TOC-Extraordinary-Abilities-Ex-)) (Witch)",
+      "anchor_heading": "#### Witch\u2019s Familiar ([Ex](https://www.d20pfsrd.com/magic#TOC-Extraordinary-Abilities-Ex-)) {#witch8217s_familiar_ex}",
+      "description": "A witch bonds with a familiar that stores all her known spells and is required for daily spell preparation, functioning similarly to a wizard's arcane bond but with spell storage capabilities.",
+      "keywords": [
+        "witch familiar",
+        "spell storage",
+        "arcane bond",
+        "commune for spells",
+        "familiar stores spells",
+        "cannot prepare without familiar",
+        "ritual to add spells",
+        "familiar spell capacity"
+      ]
+    },
+    {
+      "id": "witch_major_hex",
+      "title": "Major Hex (Witch)",
+      "anchor_heading": "#### Major Hex {#major_hex}",
+      "description": "Starting at 10th level and every two levels thereafter, a witch can select major hexes instead of regular hexes when gaining new hex abilities.",
+      "keywords": [
         "major hex",
+        "10th level",
+        "hex progression",
+        "advanced hexes",
+        "witch level 10"
+      ]
+    },
+    {
+      "id": "witch_major_hexes",
+      "title": "Major Hexes (Witch)",
+      "anchor_heading": "#### Major Hexes {#major_hexes}",
+      "description": "A collection of powerful hexes available to witches starting at 10th level, offering more potent magical abilities than regular hexes.",
+      "keywords": [
+        "major hexes list",
+        "agony hex",
+        "animal skin hex",
+        "beast eye hex",
+        "cook people hex",
+        "hag's eye hex",
+        "ice tomb hex",
+        "major healing hex",
+        "nightmares hex",
+        "weather control hex",
+        "waxen image hex"
+      ]
+    },
+    {
+      "id": "witch_grand_hex",
+      "title": "Grand Hex (Witch)",
+      "anchor_heading": "#### Grand Hex {#grand_hex}",
+      "description": "Starting at 18th level and every two levels thereafter, a witch can select grand hexes instead of regular hexes when gaining new hex abilities.",
+      "keywords": [
         "grand hex",
-        "cackle",
-        "slumber",
-        "evil eye",
-        "misfortune",
-        "fortune",
-        "healing hex",
-        "cantrips",
-        "witch archetype",
-        "gravewalker",
-        "sea witch",
-        "hedge witch",
-        "white-haired witch",
-        "winter witch",
-        "beast-bonded",
-        "scarred witch doctor",
-        "changeling",
-        "familiar",
-        "coven",
-        "ward",
-        "charm",
-        "flight",
-        "tongues",
-        "prehensile hair",
-        "cauldron",
-        "agony",
-        "retribution",
-        "weather control",
-        "death curse",
-        "eternal slumber",
-        "life giver",
-        "witch's hut",
-        "Intelligence modifier"
+        "18th level",
+        "ultimate hexes",
+        "highest tier hexes",
+        "witch level 18"
+      ]
+    },
+    {
+      "id": "witch_grand_hexes",
+      "title": "Grand Hexes (Witch)",
+      "anchor_heading": "#### Grand Hexes {#grand_hexes}",
+      "description": "The most powerful hexes available to witches starting at 18th level, representing the pinnacle of witch magical abilities.",
+      "keywords": [
+        "grand hexes list",
+        "death curse hex",
+        "eternal slumber hex",
+        "forced reincarnation hex",
+        "life giver hex",
+        "natural disaster hex",
+        "summon spirit hex",
+        "witch's hut hex",
+        "dire prophecy hex"
       ]
     }
-  ],
-  "category": "Classes"
+  ]
 }

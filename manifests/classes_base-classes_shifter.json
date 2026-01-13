@@ -2,123 +2,713 @@
   "file": "shifter.md",
   "source_path": "https://www.d20pfsrd.com/classes/base-classes/shifter/",
   "source_name": "Class: Shifter",
+  "category": "Classes",
+  "toc_content": "Contents\n+ [Class Skills](#class_skills)\n+ [Class Features](#class_features)\n  - [Weapon and Armor Proficiency](#weapon_and_armor_proficiency)\n  - [Bonus Languages](#bonus_languages)\n  - [Shifter Aspect (Su)](#shifter_aspect_su)\n  - [Shifter Claws (Su)](#shifter_claws_su)\n  - [Wild Empathy (Ex)](#wild_empathy_ex)\n  - [Defensive Instinct (Ex)](#defensive_instinct_ex)\n  - [Track (Ex)](#track_ex)\n  - [Woodland Stride (Ex)](#woodland_stride_ex)\n  - [Wild Shape (Su)](#wild_shape_su)\n  - [Trackless Step (Ex)](#trackless_step_ex)\n  - [Shifter\u2019s Fury (Ex)](#shifters_fury_ex)\n  - [Chimeric Aspect (Su)](#chimeric_aspect_su)\n  - [Greater Chimeric Aspect (Su)](#greater_chimeric_aspect_su)\n  - [A Thousand Faces (Ex)](#a_thousand_faces_ex)\n  - [Timeless Body (Ex)](#timeless_body_ex)\n  - [Final Aspect (Su)](#final_aspect_su)\n+ [Alternative Capstone Ability](#alternative_capstone_ability)\n  - [Flexible Form (Su)](#flexible_form_su)\n+ [Aspects](#aspects)\n  - [Bat](#bat)\n  - [Bear](#bear)\n  - [Boar](#boar)\n  - [Bull](#bull)\n  - [Crocodile](#crocodile)\n  - [Deinonychus](#deinonychus)\n  - [Dolphin](#dolphin)\n  - [Dragonfly](#dragonfly)\n  - [Electric Eel](#electric_eel)\n  - [Elephant](#elephant)\n  - [Falcon](#falcon)\n  - [Frog](#frog)\n  - [Giant Wasp](#giant_wasp)\n  - [Horse](#horse)\n  - [Lion](#lion)\n  - [Lizard](#lizard)\n  - [Mantis](#mantis)\n  - [Monkey](#monkey)\n  - [Mouse](#mouse)\n  - [Octopus](#octopus)\n  - [Owl](#owl)\n  - [Peafowl](#peafowl)\n  - [Scorpion](#scorpion)\n  - [Snake](#snake)\n  - [Snapping Turtle](#snapping_turtle)\n  - [Spider](#spider)\n  - [Stag](#stag)\n  - [Tiger](#tiger)\n  - [Wolf](#wolf)\n  - [Wolverine](#wolverine)\n* [Ex-Shifters](#ex-shifters)\n* [Favored Class Options](#favored_class_options)",
   "sections": [
     {
-      "id": "shifter",
-      "title": "Shifter",
+      "id": "shifter_overview",
+      "title": "Shifter (Class Overview)",
       "anchor_heading": "# Shifter",
-      "includes_subheadings": [
-        "### Class Skills",
-        "#### Weapon and Armor Proficiency",
-        "#### Bonus Languages",
-        "#### Shifter Aspect (Su)",
-        "#### Shifter Claws (Su)",
-        "##### Alternate Natural Attacks",
-        "#### Wild Empathy (Ex)",
-        "#### Defensive Instinct (Ex)",
-        "#### Track (Ex)",
-        "#### Woodland Stride (Ex)",
-        "#### Wild Shape (Su)",
-        "#### Trackless Step (Ex)",
-        "#### Shifter's Fury (Ex)",
-        "#### Chimeric Aspect (Su)",
-        "#### Greater Chimeric Aspect (Su)",
-        "#### A Thousand Faces (Ex)",
-        "#### Timeless Body (Ex)",
-        "#### Final Aspect (Su)",
-        "### Alternative Capstone Ability",
-        "#### Flexible Form (Su)",
-        "### Aspects",
-        "#### Bat",
-        "#### Bear",
-        "#### Boar",
-        "#### Bull",
-        "#### Crocodile",
-        "#### Deinonychus",
-        "#### Dolphin",
-        "#### Dragonfly",
-        "#### Electric Eel",
-        "#### Elephant",
-        "#### Falcon",
-        "#### Frog",
-        "##### Tongue (Ex)",
-        "#### Giant Wasp",
-        "##### Wasp Venom (Ex)",
-        "#### Horse",
-        "#### Lion",
-        "#### Lizard",
-        "#### Mantis",
-        "#### Monkey",
-        "#### Mouse",
-        "#### Octopus",
-        "##### Ink Cloud (Ex)",
-        "#### Owl",
-        "#### Peafowl",
-        "#### Scorpion",
-        "##### Poison (Ex)",
-        "#### Snake",
-        "#### Snapping Turtle",
-        "#### Spider",
-        "#### Stag",
-        "#### Tiger",
-        "#### Wolf",
-        "#### Wolverine",
-        "## Ex-Shifters",
-        "## Favored Class Options"
-      ],
-      "description": "Complete rules for the Shifter base class, including all class features, aspects, major/minor forms, wild shape abilities, and shifter claws mechanics.",
+      "end_at_heading": "### Class Skills {#class_skills}",
+      "description": "Overview of the Shifter class including role, alignment, hit die, and starting wealth.",
       "keywords": [
         "shifter",
+        "class",
+        "hit die",
+        "role",
+        "alignment"
+      ]
+    },
+    {
+      "id": "shifter_weapon_and_armor_proficiency",
+      "title": "Weapon and Armor Proficiency (Shifter)",
+      "anchor_heading": "#### Weapon and Armor Proficiency {#weapon_and_armor_proficiency}",
+      "description": "Shifters are proficient with specific weapons, light/medium nonmetal armor, and natural attacks from their forms, but lose abilities when wearing prohibited armor.",
+      "keywords": [
+        "weapon proficiency",
+        "armor proficiency",
+        "metal armor prohibition",
+        "shifter claws proficiency",
+        "wild shape proficiency",
+        "ironwood armor",
+        "wooden armor",
+        "natural attacks proficiency"
+      ]
+    },
+    {
+      "id": "shifter_bonus_languages",
+      "title": "Bonus Languages (Shifter)",
+      "anchor_heading": "#### Bonus Languages {#bonus_languages}",
+      "description": "Shifters gain Sylvan and Aklo as bonus language options and automatically know Druidic, which they cannot teach to non-druids or non-shifters.",
+      "keywords": [
+        "Druidic language",
+        "Sylvan language",
+        "Aklo language",
+        "bonus languages",
+        "secret language",
+        "forbidden to teach"
+      ]
+    },
+    {
+      "id": "shifter_shifter_aspect_su",
+      "title": "Shifter Aspect (Su) (Shifter)",
+      "anchor_heading": "#### Shifter Aspect (Su) {#shifter_aspect_su}",
+      "description": "Shifters can assume minor forms of animal aspects for minutes per day as a swift action, gaining additional aspects as they level.",
+      "keywords": [
         "shifter aspect",
-        "shifter claws",
-        "wild shape",
-        "aspects",
         "minor form",
-        "major form",
-        "beast shape",
+        "swift action activation",
+        "aspect duration",
         "chimeric aspect",
-        "defensive instinct",
+        "polymorph interaction",
+        "animal aspects"
+      ]
+    },
+    {
+      "id": "shifter_shifter_claws_su",
+      "title": "Shifter Claws (Su) (Shifter)",
+      "anchor_heading": "#### Shifter Claws (Su) {#shifter_claws_su}",
+      "description": "Shifters can extend magical claws as natural attacks that scale with level, bypassing various damage reduction types and enhancing wild shape natural attacks.",
+      "keywords": [
+        "shifter claws",
+        "natural attacks",
+        "magic weapons",
+        "damage reduction bypass",
+        "primary natural attack",
+        "secondary natural attack",
+        "claw damage scaling",
+        "wild shape enhancement",
+        "alternate natural attacks"
+      ]
+    },
+    {
+      "id": "shifter_wild_empathy_ex",
+      "title": "Wild Empathy (Ex) (Shifter)",
+      "anchor_heading": "#### Wild Empathy (Ex) {#wild_empathy_ex}",
+      "description": "Improves animal attitudes using shifter level and Charisma modifier, functioning like Diplomacy but for animals and low-intelligence magical beasts.",
+      "keywords": [
         "wild empathy",
-        "trackless step",
+        "animal attitude",
+        "Diplomacy check",
+        "magical beast influence",
+        "Charisma modifier",
+        "animal starting attitudes"
+      ]
+    },
+    {
+      "id": "shifter_defensive_instinct_ex",
+      "title": "Defensive Instinct (Ex) (Shifter)",
+      "anchor_heading": "#### Defensive Instinct (Ex) {#defensive_instinct_ex}",
+      "description": "Adds Wisdom bonus to AC and CMD when unarmored or lightly armored, with scaling enhancement bonuses that apply against touch attacks.",
+      "keywords": [
+        "defensive instinct",
+        "Wisdom to AC",
+        "unarmored AC bonus",
+        "touch attack defense",
+        "flat-footed defense",
+        "nonmetal armor",
+        "monk AC interaction"
+      ]
+    },
+    {
+      "id": "shifter_track_ex",
+      "title": "Track (Ex) (Shifter)",
+      "anchor_heading": "#### Track (Ex) {#track_ex}",
+      "description": "Adds half shifter level as a bonus to Survival checks made to follow tracks.",
+      "keywords": [
+        "track",
+        "Survival bonus",
+        "follow tracks",
+        "tracking bonus"
+      ]
+    },
+    {
+      "id": "shifter_woodland_stride_ex",
+      "title": "Woodland Stride (Ex) (Shifter)",
+      "anchor_heading": "#### Woodland Stride (Ex) {#woodland_stride_ex}",
+      "description": "Allows movement through natural undergrowth at normal speed without damage, but magical terrain still affects the shifter.",
+      "keywords": [
         "woodland stride",
-        "shifters fury",
-        "final aspect",
+        "undergrowth movement",
+        "briars",
+        "thorns",
+        "overgrown areas",
+        "magical terrain",
+        "movement speed"
+      ]
+    },
+    {
+      "id": "shifter_wild_shape_su",
+      "title": "Wild Shape (Su) (Shifter)",
+      "anchor_heading": "#### Wild Shape (Su) {#wild_shape_su}",
+      "description": "Transform into major forms of aspects using beast shape II mechanics, with hours per day equal to shifter level plus Wisdom modifier.",
+      "keywords": [
+        "wild shape",
+        "major form",
+        "beast shape II",
+        "standard action",
+        "animal communication",
+        "druid level equivalence",
+        "wild shape duration",
+        "speak with animals"
+      ]
+    },
+    {
+      "id": "shifter_trackless_step_ex",
+      "title": "Trackless Step (Ex) (Shifter)",
+      "anchor_heading": "#### Trackless Step (Ex) {#trackless_step_ex}",
+      "description": "Leaves no trail in natural surroundings and cannot be tracked unless the shifter chooses to leave a trail.",
+      "keywords": [
+        "trackless step",
+        "no trail",
+        "cannot be tracked",
+        "natural surroundings",
+        "choose to leave trail"
+      ]
+    },
+    {
+      "id": "shifter_shifters_fury_ex",
+      "title": "Shifter\u2019s Fury (Ex) (Shifter)",
+      "anchor_heading": "#### Shifter\u2019s Fury (Ex) {#shifters_fury_ex}",
+      "description": "Allows iterative attacks with a single natural weapon while treating other natural attacks as secondary attacks.",
+      "keywords": [
+        "shifter's fury",
+        "iterative attacks",
+        "natural weapon",
+        "full attack",
+        "secondary attacks",
+        "manufactured weapon progression"
+      ]
+    },
+    {
+      "id": "shifter_chimeric_aspect_su",
+      "title": "Chimeric Aspect (Su) (Shifter)",
+      "anchor_heading": "#### Chimeric Aspect (Su) {#chimeric_aspect_su}",
+      "description": "Allows assuming minor forms of two aspects simultaneously when using shifter aspect ability.",
+      "keywords": [
+        "chimeric aspect",
+        "two aspects",
+        "minor form",
+        "multiple aspects",
+        "aspect combination"
+      ]
+    },
+    {
+      "id": "shifter_greater_chimeric_aspect_su",
+      "title": "Greater Chimeric Aspect (Su) (Shifter)",
+      "anchor_heading": "#### Greater Chimeric Aspect (Su) {#greater_chimeric_aspect_su}",
+      "description": "Allows assuming minor forms of up to three aspects simultaneously when using shifter aspect ability.",
+      "keywords": [
+        "greater chimeric aspect",
+        "three aspects",
+        "minor form",
+        "multiple aspects",
+        "aspect combination"
+      ]
+    },
+    {
+      "id": "shifter_a_thousand_faces_ex",
+      "title": "A Thousand Faces (Ex) (Shifter)",
+      "anchor_heading": "#### A Thousand Faces (Ex) {#a_thousand_faces_ex}",
+      "description": "Can change appearance at will using alter self spell effects, but only while in normal form.",
+      "keywords": [
         "thousand faces",
+        "alter self",
+        "change appearance",
+        "normal form only",
+        "at will ability"
+      ]
+    },
+    {
+      "id": "shifter_timeless_body_ex",
+      "title": "Timeless Body (Ex) (Shifter)",
+      "anchor_heading": "#### Timeless Body (Ex) {#timeless_body_ex}",
+      "description": "No longer takes ability score penalties for aging and cannot be magically aged, but still dies of old age.",
+      "keywords": [
         "timeless body",
+        "aging penalties",
+        "magical aging immunity",
+        "ability score penalties",
+        "old age death"
+      ]
+    },
+    {
+      "id": "shifter_final_aspect_su",
+      "title": "Final Aspect (Su) (Shifter)",
+      "anchor_heading": "#### Final Aspect (Su) {#final_aspect_su}",
+      "description": "Gains a fifth aspect, can assume all minor forms simultaneously, and can use major and minor forms at will.",
+      "keywords": [
+        "final aspect",
+        "fifth aspect",
+        "all minor forms",
+        "at will",
+        "capstone ability"
+      ]
+    },
+    {
+      "id": "shifter_flexible_form_su",
+      "title": "Flexible Form (Su) (Shifter)",
+      "anchor_heading": "#### Flexible Form (Su) {#flexible_form_su}",
+      "description": "Gains +6 total bonus to physical ability scores when using wild shape, distributable as desired each time shifted.",
+      "keywords": [
+        "flexible form",
+        "physical ability scores",
+        "wild shape bonus",
+        "distributable bonus",
+        "ability score customization"
+      ]
+    },
+    {
+      "id": "shifter_bat",
+      "title": "Bat (Shifter)",
+      "anchor_heading": "#### Bat {#bat}",
+      "description": "Bat aspect grants darkvision and blindsense in minor form, dire bat shape with flight and Flyby Attack in major form.",
+      "keywords": [
         "bat aspect",
+        "darkvision",
+        "blindsense",
+        "dire bat",
+        "fly speed",
+        "Flyby Attack",
+        "Hover feat"
+      ]
+    },
+    {
+      "id": "shifter_bear",
+      "title": "Bear (Shifter)",
+      "anchor_heading": "#### Bear {#bear}",
+      "description": "Bear aspect provides Constitution enhancement in minor form, dire bear shape with grab claws and Awesome Blow in major form.",
+      "keywords": [
         "bear aspect",
+        "Constitution bonus",
+        "dire bear",
+        "grab ability",
+        "Awesome Blow",
+        "Improved Natural Attack",
+        "scent ability"
+      ]
+    },
+    {
+      "id": "shifter_boar",
+      "title": "Boar (Shifter)",
+      "anchor_heading": "#### Boar {#boar}",
+      "description": "Boar aspect grants Diehard feat and death threshold improvement in minor form, dire boar with powerful charge in major form.",
+      "keywords": [
         "boar aspect",
+        "Diehard feat",
+        "death threshold",
+        "dire boar",
+        "powerful charge",
+        "gore attack",
+        "hit points per Hit Die"
+      ]
+    },
+    {
+      "id": "shifter_bull",
+      "title": "Bull (Shifter)",
+      "anchor_heading": "#### Bull {#bull}",
+      "description": "Bull aspect provides Strength enhancement in minor form, large bull shape with powerful charge and trample in major form.",
+      "keywords": [
         "bull aspect",
+        "Strength bonus",
+        "bull form",
+        "powerful charge",
+        "trample",
+        "gore attack",
+        "Awesome Blow"
+      ]
+    },
+    {
+      "id": "shifter_crocodile",
+      "title": "Crocodile (Shifter)",
+      "anchor_heading": "#### Crocodile {#crocodile}",
+      "description": "Crocodile aspect grants Swim and grapple bonuses in minor form, crocodile shape with grab bite and prone grappling in major form.",
+      "keywords": [
         "crocodile aspect",
+        "Swim bonus",
+        "grapple bonus",
+        "grab bite",
+        "tail slap",
+        "knock prone",
+        "speed burst"
+      ]
+    },
+    {
+      "id": "shifter_deinonychus",
+      "title": "Deinonychus (Shifter)",
+      "anchor_heading": "#### Deinonychus {#deinonychus}",
+      "description": "Deinonychus aspect provides Initiative bonuses in minor form, deinonychus shape with pounce and Spring Attack in major form.",
+      "keywords": [
         "deinonychus aspect",
+        "Initiative bonus",
+        "deinonychus form",
+        "pounce",
+        "talon attacks",
+        "Spring Attack",
+        "foreclaw attacks"
+      ]
+    },
+    {
+      "id": "shifter_dolphin",
+      "title": "Dolphin (Shifter)",
+      "anchor_heading": "#### Dolphin {#dolphin}",
+      "description": "Dolphin aspect grants Knowledge check bonuses in minor form, large dolphin shape with blindsense and breath holding in major form.",
+      "keywords": [
         "dolphin aspect",
+        "Knowledge bonus",
+        "creature identification",
+        "dolphin form",
+        "blindsense",
+        "breath holding",
+        "swim speed"
+      ]
+    },
+    {
+      "id": "shifter_dragonfly",
+      "title": "Dragonfly (Shifter)",
+      "anchor_heading": "#### Dragonfly {#dragonfly}",
+      "description": "Dragonfly aspect provides charging speed bonus in minor form, giant dragonfly shape with flight and Flyby Attack in major form.",
+      "keywords": [
         "dragonfly aspect",
+        "charging speed",
+        "giant dragonfly",
+        "fly speed",
+        "Flyby Attack",
+        "grab bite",
+        "grapple bonus"
+      ]
+    },
+    {
+      "id": "shifter_electric_eel",
+      "title": "Electric Eel (Shifter)",
+      "anchor_heading": "#### Electric Eel {#electric_eel}",
+      "description": "Electric eel aspect adds electricity damage to attacks in minor form, electric eel shape with electrical attacks and stunning in major form.",
+      "keywords": [
         "electric eel aspect",
+        "electricity damage",
+        "electric eel form",
+        "electricity resistance",
+        "tail touch attack",
+        "stunning critical",
+        "Escape Artist bonus"
+      ]
+    },
+    {
+      "id": "shifter_elephant",
+      "title": "Elephant (Shifter)",
+      "anchor_heading": "#### Elephant {#elephant}",
+      "description": "Elephant aspect grants bull rush and overrun bonuses in minor form, elephant shape with trample and mount capability in major form.",
+      "keywords": [
         "elephant aspect",
+        "bull rush bonus",
+        "overrun bonus",
+        "elephant form",
+        "trample",
+        "mount capability",
+        "Improved Bull Rush"
+      ]
+    },
+    {
+      "id": "shifter_falcon",
+      "title": "Falcon (Shifter)",
+      "anchor_heading": "#### Falcon {#falcon}",
+      "description": "Falcon aspect provides Perception bonuses in minor form, small falcon shape with flight and enhanced senses in major form.",
+      "keywords": [
         "falcon aspect",
+        "Perception bonus",
+        "falcon form",
+        "fly speed",
+        "vision-based Perception",
+        "darkvision",
+        "blindsense"
+      ]
+    },
+    {
+      "id": "shifter_frog",
+      "title": "Frog (Shifter)",
+      "anchor_heading": "#### Frog {#frog}",
+      "description": "Frog aspect grants Acrobatics and Swim bonuses in minor form, large frog shape with tongue attack and enhanced jumping in major form.",
+      "keywords": [
         "frog aspect",
+        "Acrobatics bonus",
+        "Swim bonus",
+        "frog form",
+        "tongue attack",
+        "grab tongue",
+        "running start jumps"
+      ]
+    },
+    {
+      "id": "shifter_giant_wasp",
+      "title": "Giant Wasp (Shifter)",
+      "anchor_heading": "#### Giant Wasp {#giant_wasp}",
+      "description": "Giant wasp aspect provides Will save bonuses in minor form, giant wasp shape with poison sting and swarm control in major form.",
+      "keywords": [
         "giant wasp aspect",
+        "Will save bonus",
+        "mind-affecting resistance",
+        "giant wasp form",
+        "poison sting",
+        "swarm control",
+        "vermin immunity"
+      ]
+    },
+    {
+      "id": "shifter_horse",
+      "title": "Horse (Shifter)",
+      "anchor_heading": "#### Horse {#horse}",
+      "description": "Horse aspect grants Endurance, Run, and speed bonuses in minor form, horse shape with Ride-By Attack and trample in major form.",
+      "keywords": [
         "horse aspect",
+        "Endurance feat",
+        "Run feat",
+        "speed bonus",
+        "horse form",
+        "Ride-By Attack",
+        "trample",
+        "Improved Overrun"
+      ]
+    },
+    {
+      "id": "shifter_lion",
+      "title": "Lion (Shifter)",
+      "anchor_heading": "#### Lion {#lion}",
+      "description": "Lion aspect provides Intimidate bonuses in minor form, dire lion shape with roar ability and teamwork feats in major form.",
+      "keywords": [
         "lion aspect",
+        "Intimidate bonus",
+        "dire lion form",
+        "roar ability",
+        "teamwork feats",
+        "flanking bonus",
+        "Swap Places"
+      ]
+    },
+    {
+      "id": "shifter_lizard",
+      "title": "Lizard (Shifter)",
+      "anchor_heading": "#### Lizard {#lizard}",
+      "description": "Lizard aspect grants Acrobatics bonuses in minor form, giant lizard shape with grab bite and trip tail in major form.",
+      "keywords": [
         "lizard aspect",
+        "Acrobatics bonus",
+        "giant lizard form",
+        "grab bite",
+        "trip tail",
+        "climb speed",
+        "tail reach"
+      ]
+    },
+    {
+      "id": "shifter_mantis",
+      "title": "Mantis (Shifter)",
+      "anchor_heading": "#### Mantis {#mantis}",
+      "description": "Mantis aspect provides Lunge feat and reach in minor form, giant mantis shape with grab claws and initiative mastery in major form.",
+      "keywords": [
         "mantis aspect",
+        "Lunge feat",
+        "reach increase",
+        "giant mantis form",
+        "grab claws",
+        "surprise round",
+        "initiative reroll"
+      ]
+    },
+    {
+      "id": "shifter_monkey",
+      "title": "Monkey (Shifter)",
+      "anchor_heading": "#### Monkey {#monkey}",
+      "description": "Monkey aspect grants Climb bonuses in minor form, large monkey shape with climb speed and rend attack in major form.",
+      "keywords": [
         "monkey aspect",
+        "Climb bonus",
+        "monkey form",
+        "climb speed",
+        "manipulate objects",
+        "tail manipulation",
+        "rend attack"
+      ]
+    },
+    {
+      "id": "shifter_mouse",
+      "title": "Mouse (Shifter)",
+      "anchor_heading": "#### Mouse {#mouse}",
+      "description": "Mouse aspect provides evasion in minor form, tiny mouse shape with enhanced mobility and no opportunity attacks in major form.",
+      "keywords": [
         "mouse aspect",
+        "evasion",
+        "improved evasion",
+        "mouse form",
+        "Dexterity to Climb",
+        "no opportunity attacks",
+        "threatened squares"
+      ]
+    },
+    {
+      "id": "shifter_octopus",
+      "title": "Octopus (Shifter)",
+      "anchor_heading": "#### Octopus {#octopus}",
+      "description": "Octopus aspect grants Escape Artist bonuses in minor form, octopus shape with tentacle grab and ink cloud in major form.",
+      "keywords": [
         "octopus aspect",
+        "Escape Artist bonus",
+        "octopus form",
+        "tentacle grab",
+        "Multiattack",
+        "jet ability",
+        "ink cloud"
+      ]
+    },
+    {
+      "id": "shifter_owl",
+      "title": "Owl (Shifter)",
+      "anchor_heading": "#### Owl {#owl}",
+      "description": "Owl aspect provides Stealth bonuses in minor form, medium owl shape with flight and Snatch ability in major form.",
+      "keywords": [
         "owl aspect",
+        "Stealth bonus",
+        "owl form",
+        "fly speed",
+        "Flyby Attack",
+        "Snatch feat",
+        "grab smaller creatures"
+      ]
+    },
+    {
+      "id": "shifter_peafowl",
+      "title": "Peafowl (Shifter)",
+      "anchor_heading": "#### Peafowl {#peafowl}",
+      "description": "Peafowl aspect grants Charisma enhancement in minor form, small peafowl shape with captivating dance and stunning in major form.",
+      "keywords": [
         "peafowl aspect",
+        "Charisma bonus",
+        "peafowl form",
+        "captivating dance",
+        "stunning effect",
+        "fly speed limitations",
+        "landing requirement"
+      ]
+    },
+    {
+      "id": "shifter_scorpion",
+      "title": "Scorpion (Shifter)",
+      "anchor_heading": "#### Scorpion {#scorpion}",
+      "description": "Scorpion aspect provides Stealth and grapple bonuses in minor form, giant scorpion shape with tremorsense and poison sting in major form.",
+      "keywords": [
         "scorpion aspect",
+        "Stealth bonus",
+        "grapple bonus",
+        "giant scorpion form",
+        "tremorsense",
+        "poison sting",
+        "grab claws"
+      ]
+    },
+    {
+      "id": "shifter_snake",
+      "title": "Snake (Shifter)",
+      "anchor_heading": "#### Snake {#snake}",
+      "description": "Snake aspect grants attack of opportunity bonuses in minor form, emperor cobra shape with Combat Reflexes and poison bite in major form.",
+      "keywords": [
         "snake aspect",
+        "attacks of opportunity",
+        "dodge bonus",
+        "emperor cobra form",
+        "Combat Reflexes",
+        "poison bite",
+        "additional opportunity attacks"
+      ]
+    },
+    {
+      "id": "shifter_snapping_turtle",
+      "title": "Snapping Turtle (Shifter)",
+      "anchor_heading": "#### Snapping Turtle {#snapping_turtle}",
+      "description": "Snapping turtle aspect provides Wisdom enhancement in minor form, giant snapping turtle shape with CMD bonuses and damage reduction in major form.",
+      "keywords": [
         "snapping turtle aspect",
+        "Wisdom bonus",
+        "snapping turtle form",
+        "CMD bonus",
+        "maneuver resistance",
+        "damage reduction",
+        "insight bonus"
+      ]
+    },
+    {
+      "id": "shifter_spider",
+      "title": "Spider (Shifter)",
+      "anchor_heading": "#### Spider {#spider}",
+      "description": "Spider aspect grants Climb and web resistance bonuses in minor form, giant spider shape with web attack and tremorsense in major form.",
+      "keywords": [
         "spider aspect",
+        "Climb bonus",
+        "web resistance",
+        "giant spider form",
+        "web attack",
+        "tremorsense",
+        "Improved Natural Attack"
+      ]
+    },
+    {
+      "id": "shifter_stag",
+      "title": "Stag (Shifter)",
+      "anchor_heading": "#### Stag {#stag}",
+      "description": "Stag aspect provides speed bonuses in minor form, large stag shape with gore attack and Awesome Blow in major form.",
+      "keywords": [
         "stag aspect",
+        "speed bonus",
+        "stag form",
+        "gore attack",
+        "hoof attacks",
+        "Awesome Blow",
+        "Acrobatics jumping"
+      ]
+    },
+    {
+      "id": "shifter_tiger",
+      "title": "Tiger (Shifter)",
+      "anchor_heading": "#### Tiger {#tiger}",
+      "description": "Tiger aspect grants Dexterity enhancement in minor form, dire tiger shape with pounce and rake attacks in major form.",
+      "keywords": [
         "tiger aspect",
+        "Dexterity bonus",
+        "dire tiger form",
+        "pounce",
+        "grab attacks",
+        "rake attack",
+        "Stealth bonus"
+      ]
+    },
+    {
+      "id": "shifter_wolf",
+      "title": "Wolf (Shifter)",
+      "anchor_heading": "#### Wolf {#wolf}",
+      "description": "Wolf aspect provides scent ability in minor form, dire wolf shape with trip bite and enhanced tracking in major form.",
+      "keywords": [
         "wolf aspect",
+        "scent ability",
+        "dire wolf form",
+        "trip bite",
+        "tracking bonus",
+        "Improved Natural Attack",
+        "scent range"
+      ]
+    },
+    {
+      "id": "shifter_wolverine",
+      "title": "Wolverine (Shifter)",
+      "anchor_heading": "#### Wolverine {#wolverine}",
+      "description": "Wolverine aspect grants additional hit points and death threshold in minor form, dire wolverine shape with rage ability in major form.",
+      "keywords": [
         "wolverine aspect",
-        "alternate natural attacks",
-        "ex-shifters"
+        "additional hit points",
+        "death threshold",
+        "Diehard feat",
+        "dire wolverine form",
+        "barbarian rage",
+        "rage powers",
+        "fatigue immunity"
       ]
     }
-  ],
-  "category": "Classes"
+  ]
 }

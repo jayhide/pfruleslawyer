@@ -2,64 +2,254 @@
   "file": "investigator.md",
   "source_path": "https://www.d20pfsrd.com/classes/hybrid-classes/investigator/",
   "source_name": "Class: Investigator",
+  "category": "Classes",
+  "toc_content": "Contents\n+ [Class Skills](#class_skills)\n+ [Class Features](#class_features)\n  - [Weapon and Armor Proficiency](#weapon_and_armor_proficiency)\n  - [Alchemy (Su)](#alchemy_su)\n  - [Inspiration (Ex)](#inspiration_ex)\n  - [Trapfinding](#trapfinding)\n  - [Poison Lore (Ex)](#poison_lore_ex)\n  - [Poison Resistance (Ex)](#poison_resistance_ex)\n  - [Investigator Talent (Ex) or (Su)](#investigator_talent_ex_or_su)\n  - [Keen Recollection](#keen_recollection)\n  - [Trap Sense (Ex)](#trap_sense_ex)\n  - [Studied Combat (Ex)](#studied_combat_ex)\n  - [Studied Strike (Ex)](#studied_strike_ex)\n  - [Swift Alchemy (Ex)](#swift_alchemy_ex)\n  - [True Inspiration (Ex)](#true_inspiration_ex)\n+ [Alternative Capstone Ability](#alternative_capstone_ability)\n  - [Deadly Study (Ex)](#deadly_study_ex)\n* [Favored Class Bonuses](#favored_class_bonuses)\n* [Archetypes & Alternate Class Features](#archetypes_alternate_class_features)\n  + [Subpages](#subpages)",
   "sections": [
     {
-      "id": "investigator",
-      "title": "Investigator",
+      "id": "investigator_overview",
+      "title": "Investigator (Class Overview)",
       "anchor_heading": "# Investigator",
-      "includes_subheadings": [
-        "### Class Skills",
-        "### Class Features",
-        "#### Weapon and Armor Proficiency",
-        "#### Alchemy (Su)",
-        "#### Inspiration (Ex)",
-        "#### Trapfinding",
-        "#### Poison Lore (Ex)",
-        "#### Poison Resistance (Ex)",
-        "#### Investigator Talent (Ex) or (Su)",
-        "#### Keen Recollection",
-        "#### Trap Sense (Ex)",
-        "#### Studied Combat (Ex)",
-        "#### Studied Strike (Ex)",
-        "#### Swift Alchemy (Ex)",
-        "#### True Inspiration (Ex)",
-        "### Alternative Capstone Ability",
-        "#### Deadly Study (Ex)",
-        "### Subpages"
-      ],
-      "description": "Rules for the Investigator hybrid class, covering class features like alchemy, inspiration, studied combat, trapfinding, and poison resistance, plus investigator talents and archetypes.",
+      "end_at_heading": "### Class Skills {#class_skills}",
+      "description": "Overview of the Investigator class including role, alignment, hit die, and starting wealth.",
       "keywords": [
         "investigator",
-        "investigator class",
+        "class",
+        "hit die",
+        "role",
+        "alignment"
+      ]
+    },
+    {
+      "id": "investigator_weapon_and_armor_proficiency",
+      "title": "Weapon and Armor Proficiency (Investigator)",
+      "anchor_heading": "#### Weapon and Armor Proficiency {#weapon_and_armor_proficiency}",
+      "description": "Investigators are proficient with simple weapons plus hand crossbow, rapier, sap, shortbow, short sword, and sword cane, as well as light armor but not shields.",
+      "keywords": [
+        "weapon proficiency",
+        "armor proficiency",
+        "simple weapons",
+        "hand crossbow",
+        "rapier",
+        "sap",
+        "shortbow",
+        "short sword",
+        "sword cane",
+        "light armor",
+        "no shields"
+      ]
+    },
+    {
+      "id": "investigator_alchemy_su",
+      "title": "Alchemy (Su) (Investigator)",
+      "anchor_heading": "#### Alchemy (Su) {#alchemy_su}",
+      "description": "Investigators create magical extracts like alchemists, gain bonuses to Craft (alchemy) checks, and can identify potions using Craft (alchemy).",
+      "keywords": [
         "alchemy",
-        "inspiration",
-        "studied combat",
-        "studied strike",
-        "trapfinding",
-        "poison lore",
-        "poison resistance",
-        "investigator talent",
-        "keen recollection",
-        "trap sense",
-        "swift alchemy",
-        "true inspiration",
-        "formula book",
         "extracts",
-        "empiricist",
-        "sleuth",
-        "psychic detective",
-        "mastermind",
-        "spiritualist",
-        "steel hound",
-        "dread investigator",
-        "infiltrator",
-        "lamplighter",
-        "relentless inspector",
-        "ruthless agent",
-        "monster chronicler",
-        "war genius"
+        "formula book",
+        "Craft alchemy",
+        "potion identification",
+        "alchemist formulae list",
+        "Intelligence modifier",
+        "extract preparation",
+        "1 minute mixing",
+        "supernatural"
+      ]
+    },
+    {
+      "id": "investigator_inspiration_ex",
+      "title": "Inspiration (Ex) (Investigator)",
+      "anchor_heading": "#### Inspiration (Ex) {#inspiration_ex}",
+      "description": "Investigators can spend inspiration points to add 1d6 to skill checks, ability checks, attack rolls (2 uses), and saving throws (2 uses), with free use on trained Knowledge, Linguistics, and Spellcraft.",
+      "keywords": [
+        "inspiration",
+        "inspiration pool",
+        "1d6 bonus",
+        "free action",
+        "immediate action",
+        "Knowledge skills",
+        "Linguistics",
+        "Spellcraft",
+        "attack rolls",
+        "saving throws",
+        "two uses",
+        "Intelligence modifier"
+      ]
+    },
+    {
+      "id": "investigator_trapfinding",
+      "title": "Trapfinding (Investigator)",
+      "anchor_heading": "#### Trapfinding {#trapfinding}",
+      "description": "Investigators add half their level to Perception checks for locating traps and Disable Device checks, and can disarm magical traps.",
+      "keywords": [
+        "trapfinding",
+        "Perception",
+        "Disable Device",
+        "magical traps",
+        "half level bonus",
+        "locate traps",
+        "disarm traps"
+      ]
+    },
+    {
+      "id": "investigator_poison_lore_ex",
+      "title": "Poison Lore (Ex) (Investigator)",
+      "anchor_heading": "#### Poison Lore (Ex) {#poison_lore_ex}",
+      "description": "Investigators cannot accidentally poison themselves when applying poison, can identify poisons with Knowledge checks, and can neutralize poisons with Craft (alchemy).",
+      "keywords": [
+        "poison lore",
+        "poison application",
+        "poison identification",
+        "poison neutralization",
+        "Knowledge nature",
+        "Knowledge arcana",
+        "Craft alchemy",
+        "1 minute examination",
+        "accidental poisoning immunity"
+      ]
+    },
+    {
+      "id": "investigator_poison_resistance_ex",
+      "title": "Poison Resistance (Ex) (Investigator)",
+      "anchor_heading": "#### Poison Resistance (Ex) {#poison_resistance_ex}",
+      "description": "Investigators gain increasing bonuses on poison saves (+2 at 2nd, +4 at 5th, +6 at 8th) and complete poison immunity at 11th level.",
+      "keywords": [
+        "poison resistance",
+        "poison immunity",
+        "saving throw bonus",
+        "poison saves",
+        "+2 bonus",
+        "+4 bonus",
+        "+6 bonus",
+        "11th level immunity"
+      ]
+    },
+    {
+      "id": "investigator_investigator_talent_ex_or_su",
+      "title": "Investigator Talent (Ex) or (Su) (Investigator)",
+      "anchor_heading": "#### Investigator Talent (Ex) or (Su) {#investigator_talent_ex_or_su}",
+      "description": "Investigators gain special talents every 2 levels starting at 3rd level, with some talents marked with asterisks affecting studied combat or studied strike.",
+      "keywords": [
+        "investigator talent",
+        "talents",
+        "studied combat talents",
+        "studied strike talents",
+        "asterisk talents",
+        "every 2 levels",
+        "3rd level"
+      ]
+    },
+    {
+      "id": "investigator_keen_recollection",
+      "title": "Keen Recollection (Investigator)",
+      "anchor_heading": "#### Keen Recollection {#keen_recollection}",
+      "description": "Investigators can attempt all Knowledge skill checks untrained, representing their broad understanding and quick recall.",
+      "keywords": [
+        "keen recollection",
+        "Knowledge untrained",
+        "untrained Knowledge checks",
+        "all Knowledge skills",
+        "3rd level"
+      ]
+    },
+    {
+      "id": "investigator_trap_sense_ex",
+      "title": "Trap Sense (Ex) (Investigator)",
+      "anchor_heading": "#### Trap Sense (Ex) {#trap_sense_ex}",
+      "description": "Investigators gain increasing bonuses to Reflex saves against traps and dodge bonuses to AC against trap attacks, starting at +1 and increasing every 3 levels.",
+      "keywords": [
+        "trap sense",
+        "Reflex saves",
+        "dodge bonus",
+        "AC against traps",
+        "+1 bonus",
+        "every 3 levels",
+        "maximum +6",
+        "trap attacks"
+      ]
+    },
+    {
+      "id": "investigator_studied_combat_ex",
+      "title": "Studied Combat (Ex) (Investigator)",
+      "anchor_heading": "#### Studied Combat (Ex) {#studied_combat_ex}",
+      "description": "Investigators can use a move action to study an enemy, gaining insight bonuses to attack and damage rolls against that target for rounds equal to Intelligence modifier.",
+      "keywords": [
+        "studied combat",
+        "move action",
+        "study enemy",
+        "insight bonus",
+        "attack rolls",
+        "damage rolls",
+        "Intelligence modifier rounds",
+        "precision damage",
+        "24 hour cooldown",
+        "inspiration to reuse"
+      ]
+    },
+    {
+      "id": "investigator_studied_strike_ex",
+      "title": "Studied Strike (Ex) (Investigator)",
+      "anchor_heading": "#### Studied Strike (Ex) {#studied_strike_ex}",
+      "description": "Investigators can make a studied strike as a free action against their studied target, dealing additional precision damage that scales with level (1d6 to 9d6).",
+      "keywords": [
+        "studied strike",
+        "free action",
+        "precision damage",
+        "1d6 damage",
+        "9d6 maximum",
+        "studied target",
+        "nonlethal damage",
+        "sneak attack immunity",
+        "concealment prevents",
+        "critical hit not multiplied"
+      ]
+    },
+    {
+      "id": "investigator_swift_alchemy_ex",
+      "title": "Swift Alchemy (Ex) (Investigator)",
+      "anchor_heading": "#### Swift Alchemy (Ex) {#swift_alchemy_ex}",
+      "description": "Investigators create alchemical items in half the normal time and can apply poison to weapons as a move action instead of a standard action.",
+      "keywords": [
+        "swift alchemy",
+        "half time creation",
+        "alchemical items",
+        "poison application",
+        "move action",
+        "standard action",
+        "4th level"
+      ]
+    },
+    {
+      "id": "investigator_true_inspiration_ex",
+      "title": "True Inspiration (Ex) (Investigator)",
+      "anchor_heading": "#### True Inspiration (Ex) {#true_inspiration_ex}",
+      "description": "Investigators can use inspiration on all checks without spending uses and roll 2d6 instead of 1d6 when expending inspiration.",
+      "keywords": [
+        "true inspiration",
+        "20th level",
+        "all skill checks",
+        "untrained skills",
+        "2d6 inspiration",
+        "free inspiration",
+        "amazing inspiration",
+        "empathy",
+        "tenacious inspiration"
+      ]
+    },
+    {
+      "id": "investigator_deadly_study_ex",
+      "title": "Deadly Study (Ex) (Investigator)",
+      "anchor_heading": "#### Deadly Study (Ex) {#deadly_study_ex}",
+      "description": "The investigator's studied combat bonus increases by 4 and studied strike damage increases by 3d6, representing mastery of combat analysis.",
+      "keywords": [
+        "deadly study",
+        "20th level",
+        "+4 studied combat",
+        "3d6 studied strike",
+        "capstone ability",
+        "bonus increase",
+        "damage increase"
       ]
     }
-  ],
-  "category": "Classes"
+  ]
 }

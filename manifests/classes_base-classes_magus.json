@@ -2,53 +2,292 @@
   "file": "magus.md",
   "source_path": "https://www.d20pfsrd.com/classes/base-classes/magus/",
   "source_name": "Class: Magus",
+  "category": "Classes",
+  "toc_content": "Contents\n+ [Class skills](#class_skills)\n+ [Class Features](#class_features)\n  - [Weapon and Armor Proficiency](#weapon_and_armor_proficiency)\n  - [Spells](#spells)\n  - [Arcane Pool (Su)](#arcane_pool_su)\n  - [Spell Combat (Ex)](#spell_combat_ex)\n  - [Spellstrike (Su)](#spellstrike_su)\n  - [Magus Arcana](#magus_arcana)\n  - [Spell Recall (Su)](#spell_recall_su)\n  - [Bonus Feats](#bonus_feats)\n  - [Knowledge Pool (Su)](#knowledge_pool_su)\n  - [Medium Armor (Ex)](#medium_armor_ex)\n  - [Improved Spell Combat (Ex)](#improved_spell_combat_ex)\n  - [Fighter Training (Ex)](#fighter_training_ex)\n  - [Improved Spell Recall (Su)](#improved_spell_recall_su)\n  - [Heavy Armor (Ex)](#heavy_armor_ex)\n  - [Greater Spell Combat (Ex)](#greater_spell_combat_ex)\n  - [Counterstrike (Ex)](#counterstrike_ex)\n  - [Greater Spell Access (Su)](#greater_spell_access_su)\n  - [True Magus (Su)](#true_magus_su)\n+ [Alternative Capstone Ability](#alternative_capstone_ability)\n  - [Legendary Blade (Su)](#legendary_blade_su)\n* [Favored Class Bonuses](#favored_class_bonuses)\n* [Archetypes & Alternate Class Features](#archetypes_alternate_class_features)",
   "sections": [
     {
-      "id": "magus",
-      "title": "Magus",
+      "id": "magus_overview",
+      "title": "Magus (Class Overview)",
       "anchor_heading": "# Magus",
-      "includes_subheadings": [
-        "### Class skills",
-        "### Class Features",
-        "#### Weapon and Armor Proficiency",
-        "#### Spells",
-        "#### Arcane Pool (Su)",
-        "#### Spell Combat (Ex)",
-        "#### Spellstrike (Su)",
-        "#### Magus Arcana",
-        "#### Spell Recall (Su)",
-        "#### **Bonus Feats**",
-        "#### Knowledge Pool (Su)",
-        "#### Medium Armor (Ex)",
-        "#### Improved Spell Combat (Ex)",
-        "#### Fighter Training (Ex)",
-        "#### Improved Spell Recall (Su)",
-        "#### Heavy Armor (Ex)",
-        "#### Greater Spell Combat (Ex)",
-        "#### Counterstrike (Ex)",
-        "#### Greater Spell Access (Su)",
-        "#### True Magus (Su)",
-        "### Alternative Capstone Ability",
-        "#### Legendary Blade (Su)"
-      ],
-      "description": "Comprehensive rules for the Magus class, a hybrid warrior-spellcaster that combines martial prowess with arcane magic through spell combat and spellstrike abilities.",
+      "end_at_heading": "### Class skills {#class_skills}",
+      "description": "Overview of the Magus class including role, alignment, hit die, and starting wealth.",
       "keywords": [
-        "Magus",
-        "spell combat",
-        "spellstrike",
+        "magus",
+        "class",
+        "hit die",
+        "role",
+        "alignment"
+      ]
+    },
+    {
+      "id": "magus_weapon_and_armor_proficiency",
+      "title": "Weapon and Armor Proficiency (Magus)",
+      "anchor_heading": "#### Weapon and Armor Proficiency {#weapon_and_armor_proficiency}",
+      "description": "Grants proficiency with simple and martial weapons and light armor, allowing spellcasting in light armor without arcane spell failure chance.",
+      "keywords": [
+        "weapon proficiency",
+        "armor proficiency",
+        "arcane spell failure",
+        "light armor",
+        "simple weapons",
+        "martial weapons",
+        "somatic component"
+      ]
+    },
+    {
+      "id": "magus_spells",
+      "title": "Spells (Magus)",
+      "anchor_heading": "#### Spells {#spells}",
+      "description": "Provides arcane spellcasting using Intelligence with prepared spells from the magus spell list, including cantrips and spellbook mechanics.",
+      "keywords": [
+        "magus spells",
+        "arcane spells",
+        "spellbook",
+        "cantrips",
+        "spell preparation",
+        "Intelligence modifier",
+        "magus spell list",
+        "bonus spells",
+        "read magic"
+      ]
+    },
+    {
+      "id": "magus_arcane_pool_su",
+      "title": "Arcane Pool (Su) (Magus)",
+      "anchor_heading": "#### Arcane Pool (Su) {#arcane_pool_su}",
+      "description": "Creates a pool of points equal to 1/2 magus level + Intelligence modifier that can enhance weapons with bonuses and special properties as a swift action.",
+      "keywords": [
         "arcane pool",
+        "weapon enhancement",
+        "swift action",
+        "enhancement bonus",
+        "weapon properties",
+        "flaming",
+        "frost",
+        "keen",
+        "shock",
+        "dancing",
+        "vorpal",
+        "speed"
+      ]
+    },
+    {
+      "id": "magus_spell_combat_ex",
+      "title": "Spell Combat (Ex) (Magus)",
+      "anchor_heading": "#### Spell Combat (Ex) {#spell_combat_ex}",
+      "description": "Allows casting spells and making weapon attacks in the same full-round action, functioning like two-weapon fighting with penalties and concentration bonuses.",
+      "keywords": [
+        "spell combat",
+        "two-weapon fighting",
+        "full-round action",
+        "casting defensively",
+        "concentration check",
+        "circumstance bonus",
+        "attack penalty",
+        "one hand free"
+      ]
+    },
+    {
+      "id": "magus_spellstrike_su",
+      "title": "Spellstrike (Su) (Magus)",
+      "anchor_heading": "#### Spellstrike (Su) {#spellstrike_su}",
+      "description": "Enables delivery of touch spells through weapon attacks, combining weapon damage with spell effects and using weapon critical range.",
+      "keywords": [
+        "spellstrike",
+        "touch spells",
+        "melee attack",
+        "weapon critical",
+        "critical hit",
+        "touch attack",
+        "base attack bonus",
+        "spell effects"
+      ]
+    },
+    {
+      "id": "magus_magus_arcana",
+      "title": "Magus Arcana (Magus)",
+      "anchor_heading": "#### Magus Arcana {#magus_arcana}",
+      "description": "Grants special arcane secrets starting at 3rd level and every three levels thereafter, providing unique magical abilities.",
+      "keywords": [
         "magus arcana",
+        "arcane secrets",
+        "magical abilities",
+        "arcana selection"
+      ]
+    },
+    {
+      "id": "magus_spell_recall_su",
+      "title": "Spell Recall (Su) (Magus)",
+      "anchor_heading": "#### Spell Recall (Su) {#spell_recall_su}",
+      "description": "Allows spending arcane pool points as a swift action to re-prepare previously cast spells, costing points equal to spell level.",
+      "keywords": [
         "spell recall",
+        "arcane pool",
+        "swift action",
+        "re-prepare spells",
+        "spell level cost",
+        "prepared spells"
+      ]
+    },
+    {
+      "id": "magus_bonus_feats",
+      "title": "**Bonus Feats** (Magus)",
+      "anchor_heading": "#### **Bonus Feats** {#bonus_feats}",
+      "description": "Grants bonus feats at 5th level and every six levels thereafter, limited to combat, item creation, or metamagic feats.",
+      "keywords": [
+        "bonus feats",
+        "combat feats",
+        "item creation feats",
+        "metamagic feats",
+        "feat prerequisites"
+      ]
+    },
+    {
+      "id": "magus_knowledge_pool_su",
+      "title": "Knowledge Pool (Su) (Magus)",
+      "anchor_heading": "#### Knowledge Pool (Su) {#knowledge_pool_su}",
+      "description": "Allows spending arcane pool points during spell preparation to temporarily add any magus spell to spellbook for that day.",
+      "keywords": [
         "knowledge pool",
-        "true magus",
-        "counterstrike",
-        "greater spell combat",
+        "arcane pool",
+        "spell preparation",
+        "temporary spells",
+        "Intelligence bonus",
+        "magus spell list"
+      ]
+    },
+    {
+      "id": "magus_medium_armor_ex",
+      "title": "Medium Armor (Ex) (Magus)",
+      "anchor_heading": "#### Medium Armor (Ex) {#medium_armor_ex}",
+      "description": "Grants medium armor proficiency and allows casting magus spells in medium armor without arcane spell failure chance.",
+      "keywords": [
+        "medium armor",
+        "armor proficiency",
+        "arcane spell failure",
+        "medium armor casting"
+      ]
+    },
+    {
+      "id": "magus_improved_spell_combat_ex",
+      "title": "Improved Spell Combat (Ex) (Magus)",
+      "anchor_heading": "#### Improved Spell Combat (Ex) {#improved_spell_combat_ex}",
+      "description": "Provides a +2 circumstance bonus on concentration checks when using spell combat ability.",
+      "keywords": [
         "improved spell combat",
-        "greater spell access",
+        "concentration check",
+        "circumstance bonus",
+        "spell combat bonus"
+      ]
+    },
+    {
+      "id": "magus_fighter_training_ex",
+      "title": "Fighter Training (Ex) (Magus)",
+      "anchor_heading": "#### Fighter Training (Ex) {#fighter_training_ex}",
+      "description": "Counts half magus level as fighter level for feat prerequisites, stacking with actual fighter levels if present.",
+      "keywords": [
         "fighter training",
-        "legendary blade"
+        "feat prerequisites",
+        "fighter level",
+        "level stacking",
+        "combat feats"
+      ]
+    },
+    {
+      "id": "magus_improved_spell_recall_su",
+      "title": "Improved Spell Recall (Su) (Magus)",
+      "anchor_heading": "#### Improved Spell Recall (Su) {#improved_spell_recall_su}",
+      "description": "Reduces spell recall cost to half spell level and allows preparing different spells of same level as a swift action.",
+      "keywords": [
+        "improved spell recall",
+        "reduced cost",
+        "swift action",
+        "spell preparation",
+        "metamagic restriction",
+        "spellbook reference"
+      ]
+    },
+    {
+      "id": "magus_heavy_armor_ex",
+      "title": "Heavy Armor (Ex) (Magus)",
+      "anchor_heading": "#### Heavy Armor (Ex) {#heavy_armor_ex}",
+      "description": "Grants heavy armor proficiency and allows casting magus spells in heavy armor without arcane spell failure chance.",
+      "keywords": [
+        "heavy armor",
+        "armor proficiency",
+        "arcane spell failure",
+        "heavy armor casting",
+        "shield restriction"
+      ]
+    },
+    {
+      "id": "magus_greater_spell_combat_ex",
+      "title": "Greater Spell Combat (Ex) (Magus)",
+      "anchor_heading": "#### Greater Spell Combat (Ex) {#greater_spell_combat_ex}",
+      "description": "Doubles the concentration check bonus from spell combat, making the bonus equal to twice the attack penalty taken.",
+      "keywords": [
+        "greater spell combat",
+        "concentration check",
+        "double bonus",
+        "attack penalty",
+        "seamless casting"
+      ]
+    },
+    {
+      "id": "magus_counterstrike_ex",
+      "title": "Counterstrike (Ex) (Magus)",
+      "anchor_heading": "#### Counterstrike (Ex) {#counterstrike_ex}",
+      "description": "Grants an attack of opportunity against enemies who successfully cast spells defensively within reach.",
+      "keywords": [
+        "counterstrike",
+        "attack of opportunity",
+        "casting defensively",
+        "spell completion",
+        "reach",
+        "spell disruption"
+      ]
+    },
+    {
+      "id": "magus_greater_spell_access_su",
+      "title": "Greater Spell Access (Su) (Magus)",
+      "anchor_heading": "#### Greater Spell Access (Su) {#greater_spell_access_su}",
+      "description": "Adds 14 wizard spells to spellbook as magus spells and allows casting them without somatic components or spell failure.",
+      "keywords": [
+        "greater spell access",
+        "wizard spells",
+        "expanded spell list",
+        "somatic component",
+        "spell failure immunity",
+        "spellbook addition"
+      ]
+    },
+    {
+      "id": "magus_true_magus_su",
+      "title": "True Magus (Su) (Magus)",
+      "anchor_heading": "#### True Magus (Su) {#true_magus_su}",
+      "description": "Eliminates concentration checks for defensive casting with spell combat and provides bonuses when targeting the same creature with spells and attacks.",
+      "keywords": [
+        "true magus",
+        "concentration check",
+        "defensive casting",
+        "spell DC",
+        "spell resistance",
+        "attack bonus",
+        "same target"
+      ]
+    },
+    {
+      "id": "magus_legendary_blade_su",
+      "title": "Legendary Blade (Su) (Magus)",
+      "anchor_heading": "#### Legendary Blade (Su) {#legendary_blade_su}",
+      "description": "Grants an additional +2 enhancement bonus when using arcane pool to enhance weapons, for a total maximum of +7.",
+      "keywords": [
+        "legendary blade",
+        "arcane pool",
+        "enhancement bonus",
+        "weapon enhancement",
+        "additional bonus"
       ]
     }
-  ],
-  "category": "Classes"
+  ]
 }

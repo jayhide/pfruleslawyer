@@ -2,60 +2,323 @@
   "file": "paladin.md",
   "source_path": "https://www.d20pfsrd.com/classes/core-classes/paladin/",
   "source_name": "Class: Paladin",
+  "category": "Classes",
+  "toc_content": "Contents\n+ [Class Skills](#class_skills)\n+ [Class Features](#class_features)\n  - [Weapon and Armor Proficiency](#weapon_and_armor_proficiency)\n  - [Aura of Good (Ex)](#aura_of_good_ex)\n  - [Detect Evil (Sp)](#detect_evil_sp)\n  - [Smite Evil (Su)](#smite_evil_su)\n  - [Divine Grace (Su)](#divine_grace_su)\n  - [Lay On Hands (Su)](#lay_on_hands_su)\n  - [Aura of Courage (Su)](#aura_of_courage_su)\n  - [Divine Health (Ex)](#divine_health_ex)\n  - [Mercy (Su)](#mercy_su)\n  - [Channel Positive Energy (Su)](#channel_positive_energy_su)\n  - [Spells](#spells)\n  - [Divine Bond (Sp)](#divine_bond_sp)\n+ [Animal Companion Feats and Archetypes](#animal_companion_feats_and_archetypes)\n+ [Divine Bond Variants (Optional)](#divine_bond_variants_optional)\n  - [Aura of Resolve (Su)](#aura_of_resolve_su)\n  - [Aura of Justice (Su)](#aura_of_justice_su)\n  - [Aura of Faith (Su)](#aura_of_faith_su)\n  - [Aura of Righteousness (Su)](#aura_of_righteousness_su)\n  - [Holy Champion (Su)](#holy_champion_su)\n+ [Alternative Capstone Ability](#alternative_capstone_ability)\n  - [Crusader Champion (Su)](#crusader_champion_su)\n* [Code of Conduct](#code_of_conduct)\n* [Ex-Paladins](#ex-paladins)\n* [Favored Class Bonuses](#favored_class_bonuses)\n* [Archetypes & Alternate Class Features](#archetypes_alternate_class_features)",
   "sections": [
     {
-      "id": "paladin",
-      "title": "Paladin",
+      "id": "paladin_overview",
+      "title": "Paladin (Class Overview)",
       "anchor_heading": "# Paladin",
-      "includes_subheadings": [
-        "### Class Skills",
-        "#### Weapon and Armor Proficiency",
-        "#### Aura of Good (Ex)",
-        "#### Detect Evil (Sp)",
-        "#### Smite Evil (Su)",
-        "#### Divine Grace (Su)",
-        "#### Lay On Hands (Su)",
-        "#### Aura of Courage (Su)",
-        "#### Divine Health (Ex)",
-        "#### Mercy (Su)",
-        "#### Channel Positive Energy (Su)",
-        "#### Spells",
-        "#### Divine Bond (Sp)",
-        "### Animal Companion Feats and Archetypes",
-        "### Divine Bond Variants (Optional)",
-        "#### Aura of Resolve (Su)",
-        "#### Aura of Justice (Su)",
-        "#### Aura of Faith (Su)",
-        "#### Aura of Righteousness (Su)",
-        "#### Holy Champion (Su)",
-        "### Alternative Capstone Ability",
-        "#### Crusader Champion (Su)"
-      ],
-      "description": "Rules for the Paladin class, including class features like smite evil, lay on hands, divine bond, aura abilities, code of conduct, and favored class bonuses.",
+      "end_at_heading": "### Class Skills {#class_skills}",
+      "description": "Overview of the Paladin class including role, alignment, hit die, and starting wealth.",
       "keywords": [
         "paladin",
-        "smite evil",
-        "lay on hands",
-        "divine grace",
+        "class",
+        "hit die",
+        "role",
+        "alignment"
+      ]
+    },
+    {
+      "id": "paladin_weapon_and_armor_proficiency",
+      "title": "Weapon and Armor Proficiency (Paladin)",
+      "anchor_heading": "#### Weapon and Armor Proficiency {#weapon_and_armor_proficiency}",
+      "description": "Paladins are proficient with all simple and martial weapons, all armor types (heavy, medium, light), and shields except tower shields.",
+      "keywords": [
+        "weapon proficiency",
+        "armor proficiency",
+        "simple weapons",
+        "martial weapons",
+        "heavy armor",
+        "medium armor",
+        "light armor",
+        "shields",
+        "tower shields"
+      ]
+    },
+    {
+      "id": "paladin_aura_of_good_ex",
+      "title": "Aura of Good ([Ex](https://www.d20pfsrd.com/magic#TOC-Extraordinary-Abilities-Ex-)) (Paladin)",
+      "anchor_heading": "#### Aura of Good ([Ex](https://www.d20pfsrd.com/magic#TOC-Extraordinary-Abilities-Ex-)) {#aura_of_good_ex}",
+      "description": "The paladin radiates a good aura with power equal to her paladin level, detectable by detect good spells.",
+      "keywords": [
         "aura of good",
-        "aura of courage",
-        "aura of resolve",
-        "aura of justice",
-        "aura of faith",
-        "aura of righteousness",
+        "detect good",
+        "aura power",
+        "paladin level",
+        "good alignment",
+        "alignment aura"
+      ]
+    },
+    {
+      "id": "paladin_detect_evil_sp",
+      "title": "Detect Evil [(Sp)](https://www.d20pfsrd.com/magic#TOC-Spell-Like-Abilities-Sp-) (Paladin)",
+      "anchor_heading": "#### Detect Evil [(Sp)](https://www.d20pfsrd.com/magic#TOC-Spell-Like-Abilities-Sp-) {#detect_evil_sp}",
+      "description": "The paladin can use detect evil at will as a spell-like ability, or concentrate as a move action to study a single target within 60 feet.",
+      "keywords": [
         "detect evil",
+        "at will",
+        "spell-like ability",
+        "move action",
+        "concentrate",
+        "60 feet",
+        "aura strength"
+      ]
+    },
+    {
+      "id": "paladin_smite_evil_su",
+      "title": "Smite Evil ([Su](https://www.d20pfsrd.com/magic#TOC-Supernatural-Abilities-Su-)) (Paladin)",
+      "anchor_heading": "#### Smite Evil ([Su](https://www.d20pfsrd.com/magic#TOC-Supernatural-Abilities-Su-)) {#smite_evil_su}",
+      "description": "As a swift action, the paladin can smite an evil target, adding Charisma bonus to attack rolls and paladin level to damage rolls, with extra damage against certain evil creatures and automatic DR bypass.",
+      "keywords": [
+        "smite evil",
+        "swift action",
+        "charisma bonus",
+        "attack rolls",
+        "damage rolls",
+        "evil outsider",
+        "evil dragon",
+        "undead",
+        "damage reduction",
+        "DR bypass",
+        "deflection bonus",
+        "AC bonus"
+      ]
+    },
+    {
+      "id": "paladin_divine_grace_su",
+      "title": "Divine Grace ([Su](https://www.d20pfsrd.com/magic#TOC-Supernatural-Abilities-Su-)) (Paladin)",
+      "anchor_heading": "#### Divine Grace ([Su](https://www.d20pfsrd.com/magic#TOC-Supernatural-Abilities-Su-)) {#divine_grace_su}",
+      "description": "The paladin adds her Charisma bonus to all saving throws.",
+      "keywords": [
+        "divine grace",
+        "charisma bonus",
+        "saving throws",
+        "saves",
+        "fortitude",
+        "reflex",
+        "will"
+      ]
+    },
+    {
+      "id": "paladin_lay_on_hands_su",
+      "title": "Lay On Hands ([Su](https://www.d20pfsrd.com/magic#TOC-Supernatural-Abilities-Su-)) (Paladin)",
+      "anchor_heading": "#### Lay On Hands ([Su](https://www.d20pfsrd.com/magic#TOC-Supernatural-Abilities-Su-)) {#lay_on_hands_su}",
+      "description": "The paladin can heal wounds by touch a limited number of times per day, healing 1d6 per two paladin levels, or deal damage to undead creatures.",
+      "keywords": [
+        "lay on hands",
+        "heal wounds",
+        "touch",
+        "1d6 healing",
+        "standard action",
+        "swift action",
+        "self-target",
+        "undead damage",
+        "melee touch attack",
+        "positive energy"
+      ]
+    },
+    {
+      "id": "paladin_aura_of_courage_su",
+      "title": "Aura of Courage ([Su](https://www.d20pfsrd.com/magic#TOC-Supernatural-Abilities-Su-)) (Paladin)",
+      "anchor_heading": "#### Aura of Courage ([Su](https://www.d20pfsrd.com/magic#TOC-Supernatural-Abilities-Su-)) {#aura_of_courage_su}",
+      "description": "The paladin becomes immune to fear and grants allies within 10 feet a +4 morale bonus on saves against fear effects.",
+      "keywords": [
+        "aura of courage",
+        "fear immunity",
+        "immune to fear",
+        "10 feet",
+        "+4 morale bonus",
+        "fear effects",
+        "allies",
+        "conscious only"
+      ]
+    },
+    {
+      "id": "paladin_divine_health_ex",
+      "title": "Divine Health ([Ex](https://www.d20pfsrd.com/magic#TOC-Extraordinary-Abilities-Ex-)) (Paladin)",
+      "anchor_heading": "#### Divine Health ([Ex](https://www.d20pfsrd.com/magic#TOC-Extraordinary-Abilities-Ex-)) {#divine_health_ex}",
+      "description": "The paladin becomes immune to all diseases, including supernatural and magical diseases like mummy rot.",
+      "keywords": [
         "divine health",
+        "disease immunity",
+        "immune to disease",
+        "supernatural disease",
+        "magical disease",
+        "mummy rot"
+      ]
+    },
+    {
+      "id": "paladin_mercy_su",
+      "title": "Mercy ([Su](https://www.d20pfsrd.com/magic#TOC-Supernatural-Abilities-Su-)) (Paladin)",
+      "anchor_heading": "#### Mercy ([Su](https://www.d20pfsrd.com/magic#TOC-Supernatural-Abilities-Su-)) {#mercy_su}",
+      "description": "The paladin can select mercies that add condition-removing effects to her lay on hands ability, with different mercies available at different levels.",
+      "keywords": [
         "mercy",
+        "lay on hands",
+        "remove condition",
+        "fatigued",
+        "shaken",
+        "sickened",
+        "dazed",
+        "diseased",
+        "staggered",
+        "cursed",
+        "exhausted",
+        "frightened",
+        "nauseated",
+        "poisoned",
+        "blinded",
+        "deafened",
+        "paralyzed",
+        "stunned",
+        "confused"
+      ]
+    },
+    {
+      "id": "paladin_channel_positive_energy_su",
+      "title": "Channel Positive Energy ([Su](https://www.d20pfsrd.com/magic#TOC-Supernatural-Abilities-Su-)) (Paladin)",
+      "anchor_heading": "#### Channel Positive Energy ([Su](https://www.d20pfsrd.com/magic#TOC-Supernatural-Abilities-Su-)) {#channel_positive_energy_su}",
+      "description": "The paladin can channel positive energy like a cleric, consuming two uses of lay on hands and using her paladin level as effective cleric level.",
+      "keywords": [
         "channel positive energy",
+        "channel energy",
+        "cleric level",
+        "lay on hands uses",
+        "charisma-based",
+        "effective cleric level"
+      ]
+    },
+    {
+      "id": "paladin_spells",
+      "title": "Spells (Paladin)",
+      "anchor_heading": "#### Spells {#spells}",
+      "description": "The paladin gains divine spellcasting from the paladin spell list, preparing spells in advance and using Charisma as the casting ability score.",
+      "keywords": [
+        "paladin spells",
+        "divine spells",
+        "paladin spell list",
+        "prepare spells",
+        "charisma-based",
+        "caster level",
+        "spell DC",
+        "daily meditation",
+        "bonus spells"
+      ]
+    },
+    {
+      "id": "paladin_divine_bond_sp",
+      "title": "Divine Bond [(Sp)](https://www.d20pfsrd.com/magic#TOC-Spell-Like-Abilities-Sp-) (Paladin)",
+      "anchor_heading": "#### Divine Bond [(Sp)](https://www.d20pfsrd.com/magic#TOC-Spell-Like-Abilities-Sp-) {#divine_bond_sp}",
+      "description": "The paladin forms a bond with either a weapon (gaining enhancement bonuses and special properties) or a mount (gaining an animal companion with special abilities).",
+      "keywords": [
         "divine bond",
+        "weapon bond",
+        "mount bond",
+        "enhancement bonus",
+        "weapon properties",
+        "celestial spirit",
+        "animal companion",
+        "paladin mount",
+        "call mount",
+        "celestial template",
+        "spell resistance"
+      ]
+    },
+    {
+      "id": "paladin_aura_of_resolve_su",
+      "title": "Aura of Resolve ([Su](https://www.d20pfsrd.com/magic#TOC-Supernatural-Abilities-Su-)) (Paladin)",
+      "anchor_heading": "#### Aura of Resolve ([Su](https://www.d20pfsrd.com/magic#TOC-Supernatural-Abilities-Su-)) {#aura_of_resolve_su}",
+      "description": "The paladin becomes immune to charm effects and grants allies within 10 feet a +4 morale bonus on saves against charm effects.",
+      "keywords": [
+        "aura of resolve",
+        "charm immunity",
+        "immune to charm",
+        "charm spells",
+        "spell-like abilities",
+        "10 feet",
+        "+4 morale bonus",
+        "allies",
+        "conscious only"
+      ]
+    },
+    {
+      "id": "paladin_aura_of_justice_su",
+      "title": "Aura of Justice ([Su](https://www.d20pfsrd.com/magic#TOC-Supernatural-Abilities-Su-)) (Paladin)",
+      "anchor_heading": "#### Aura of Justice ([Su](https://www.d20pfsrd.com/magic#TOC-Supernatural-Abilities-Su-)) {#aura_of_justice_su}",
+      "description": "The paladin can expend two smite evil uses to grant smite evil to all allies within 10 feet for 1 minute.",
+      "keywords": [
+        "aura of justice",
+        "grant smite evil",
+        "allies",
+        "10 feet",
+        "two uses",
+        "smite evil",
+        "free action",
+        "1 minute",
+        "next turn"
+      ]
+    },
+    {
+      "id": "paladin_aura_of_faith_su",
+      "title": "Aura of Faith ([Su](https://www.d20pfsrd.com/magic#TOC-Supernatural-Abilities-Su-)) (Paladin)",
+      "anchor_heading": "#### Aura of Faith ([Su](https://www.d20pfsrd.com/magic#TOC-Supernatural-Abilities-Su-)) {#aura_of_faith_su}",
+      "description": "The paladin's weapons and attacks made within 10 feet of her are treated as good-aligned for overcoming damage reduction.",
+      "keywords": [
+        "aura of faith",
+        "good-aligned weapons",
+        "damage reduction",
+        "DR",
+        "10 feet",
+        "good alignment",
+        "conscious only"
+      ]
+    },
+    {
+      "id": "paladin_aura_of_righteousness_su",
+      "title": "Aura of Righteousness ([Su](https://www.d20pfsrd.com/magic#TOC-Supernatural-Abilities-Su-)) (Paladin)",
+      "anchor_heading": "#### Aura of Righteousness ([Su](https://www.d20pfsrd.com/magic#TOC-Supernatural-Abilities-Su-)) {#aura_of_righteousness_su}",
+      "description": "The paladin gains DR 5/evil and immunity to compulsion effects, while granting allies within 10 feet a +4 morale bonus against compulsion.",
+      "keywords": [
+        "aura of righteousness",
+        "DR 5/evil",
+        "damage reduction",
+        "compulsion immunity",
+        "immune to compulsion",
+        "+4 morale bonus",
+        "allies",
+        "10 feet",
+        "conscious only"
+      ]
+    },
+    {
+      "id": "paladin_holy_champion_su",
+      "title": "Holy Champion ([Su](https://www.d20pfsrd.com/magic#TOC-Supernatural-Abilities-Su-)) (Paladin)",
+      "anchor_heading": "#### Holy Champion ([Su](https://www.d20pfsrd.com/magic#TOC-Supernatural-Abilities-Su-)) {#holy_champion_su}",
+      "description": "The paladin's DR increases to 10/evil, smite evil can banish evil outsiders, and healing abilities always heal maximum amounts.",
+      "keywords": [
         "holy champion",
-        "code of conduct",
-        "ex-paladin",
-        "lawful good",
-        "celestial mount",
-        "weapon bond"
+        "DR 10/evil",
+        "damage reduction",
+        "banishment",
+        "evil outsider",
+        "maximum healing",
+        "channel positive energy",
+        "lay on hands"
+      ]
+    },
+    {
+      "id": "paladin_crusader_champion_su",
+      "title": "Crusader Champion (Su) (Paladin)",
+      "anchor_heading": "#### Crusader Champion (Su) {#crusader_champion_su}",
+      "description": "All of the paladin's aura ranges increase by 30 feet.",
+      "keywords": [
+        "crusader champion",
+        "aura range",
+        "30 feet increase",
+        "all auras",
+        "extended range"
       ]
     }
-  ],
-  "category": "Classes"
+  ]
 }

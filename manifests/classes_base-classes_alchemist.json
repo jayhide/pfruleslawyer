@@ -2,58 +2,250 @@
   "file": "alchemist.md",
   "source_path": "https://www.d20pfsrd.com/classes/base-classes/alchemist/",
   "source_name": "Class: Alchemist",
+  "category": "Classes",
+  "toc_content": "Contents\n+ [Class Skills](#class_skills)\n+ [Class Features](#class_features)\n  - [Weapon and Armor Proficiency](#weapon_and_armor_proficiency)\n  - [Alchemy (Su)](#alchemy_su)\n  - [Bomb (Su)](#bomb_su)\n  - [Brew Potion (Ex)](#brew_potion_ex)\n  - [Mutagen (Su)](#mutagen_su)\n  - [Throw Anything (Ex)](#throw_anything_ex)\n  - [Discovery (Su)](#discovery_su)\n  - [Poison Resistance (Ex)](#poison_resistance_ex)\n  - [Poison Use (Ex)](#poison_use_ex)\n  - [Swift Alchemy (Ex)](#swift_alchemy_ex)\n  - [Swift Poisoning (Ex)](#swift_poisoning_ex)\n  - [Persistent Mutagen (Su)](#persistent_mutagen_su)\n  - [Instant Alchemy (Ex)](#instant_alchemy_ex)\n  - [Grand Discovery (Su)](#grand_discovery_su)\n+ [Spontaneous Alchemy Optional Rules](#spontaneous_alchemy_optional_rules)\n* [Favored Class Bonuses](#favored_class_bonuses)\n* [Archetypes & Alternate Class Features](#archetypes_alternate_class_features)",
   "sections": [
     {
-      "id": "alchemist",
-      "title": "Alchemist",
+      "id": "alchemist_overview",
+      "title": "Alchemist (Class Overview)",
       "anchor_heading": "# Alchemist",
-      "includes_subheadings": [
-        "### Class Skills",
-        "#### Weapon and Armor Proficiency",
-        "#### Alchemy (Su)",
-        "#### Bomb (Su)",
-        "#### Brew Potion (Ex)",
-        "#### Mutagen (Su)",
-        "#### Throw Anything (Ex)",
-        "#### Discovery (Su)",
-        "#### Poison Resistance (Ex)",
-        "#### Poison Use (Ex)",
-        "#### Swift Alchemy (Ex)",
-        "#### Swift Poisoning (Ex)",
-        "#### Persistent Mutagen (Su)",
-        "#### Instant Alchemy (Ex)",
-        "#### Grand Discovery (Su)",
-        "### Spontaneous Alchemy Optional Rules"
-      ],
-      "description": "Complete rules for the Alchemist base class, covering all class features, abilities, extracts, bombs, mutagens, discoveries, archetypes, and character progression options.",
+      "end_at_heading": "### Class Skills {#class_skills}",
+      "description": "Overview of the Alchemist class including role, alignment, hit die, and starting wealth.",
       "keywords": [
         "alchemist",
-        "bomb",
-        "mutagen",
-        "extract",
-        "discovery",
-        "grand discovery",
+        "class",
+        "hit die",
+        "role",
+        "alignment"
+      ]
+    },
+    {
+      "id": "alchemist_weapon_and_armor_proficiency",
+      "title": "Weapon and Armor Proficiency (Alchemist)",
+      "anchor_heading": "#### Weapon and Armor Proficiency {#weapon_and_armor_proficiency}",
+      "description": "Alchemists are proficient with all simple weapons, bombs, and light armor, but not shields.",
+      "keywords": [
+        "weapon proficiency",
+        "armor proficiency",
+        "simple weapons",
+        "bombs proficiency",
+        "light armor",
+        "no shields",
+        "alchemist proficiencies"
+      ]
+    },
+    {
+      "id": "alchemist_alchemy_su",
+      "title": "Alchemy (Su) (Alchemist)",
+      "anchor_heading": "#### Alchemy (Su) {#alchemy_su}",
+      "description": "Alchemists create magical extracts (potion-like spells), gain bonuses to Craft (alchemy) checks, and can identify potions using alchemical knowledge.",
+      "keywords": [
         "alchemy",
-        "brew potion",
-        "throw anything",
-        "poison resistance",
-        "poison use",
-        "swift alchemy",
-        "swift poisoning",
-        "persistent mutagen",
-        "instant alchemy",
-        "formulae",
+        "extracts",
         "formula book",
-        "cognatogen",
-        "infusion",
-        "vivisectionist",
-        "chirurgeon",
-        "grenadier",
-        "mindchemist",
-        "preservationist",
-        "beastmorph"
+        "formulae list",
+        "potion-like",
+        "Craft alchemy",
+        "competence bonus",
+        "detect magic",
+        "caster level",
+        "Intelligence modifier",
+        "extract preparation",
+        "spell-trigger items",
+        "standard action",
+        "material components"
+      ]
+    },
+    {
+      "id": "alchemist_bomb_su",
+      "title": "Bomb (Su) (Alchemist)",
+      "anchor_heading": "#### Bomb (Su) {#bomb_su}",
+      "description": "Alchemists can create and throw explosive bombs that deal fire damage plus Intelligence modifier, with splash damage on a miss.",
+      "keywords": [
+        "bomb",
+        "explosive",
+        "fire damage",
+        "Intelligence modifier",
+        "splash weapon",
+        "Throw Splash Weapon",
+        "standard action",
+        "attack of opportunity",
+        "1d6 damage",
+        "Reflex save",
+        "splash damage",
+        "range 20 feet",
+        "Point-Blank Shot",
+        "Weapon Focus"
+      ]
+    },
+    {
+      "id": "alchemist_brew_potion_ex",
+      "title": "Brew Potion (Ex) (Alchemist)",
+      "anchor_heading": "#### Brew Potion (Ex) {#brew_potion_ex}",
+      "description": "Alchemists receive Brew Potion as a bonus feat and can create potions from any formula they know up to 3rd level.",
+      "keywords": [
+        "Brew Potion",
+        "bonus feat",
+        "item creation",
+        "potion creation",
+        "formulae",
+        "3rd level limit",
+        "caster level",
+        "prerequisites waived"
+      ]
+    },
+    {
+      "id": "alchemist_mutagen_su",
+      "title": "Mutagen (Su) (Alchemist)",
+      "anchor_heading": "#### Mutagen (Su) {#mutagen_su}",
+      "description": "Alchemists can brew mutagens that enhance one physical ability score by +4 and grant +2 natural armor, but penalize a mental ability score.",
+      "keywords": [
+        "mutagen",
+        "physical ability score",
+        "Strength",
+        "Dexterity",
+        "Constitution",
+        "alchemical bonus",
+        "natural armor bonus",
+        "mental penalty",
+        "Intelligence",
+        "Wisdom",
+        "Charisma",
+        "standard action",
+        "1 hour brew time",
+        "Fortitude save",
+        "nauseated"
+      ]
+    },
+    {
+      "id": "alchemist_throw_anything_ex",
+      "title": "Throw Anything (Ex) (Alchemist)",
+      "anchor_heading": "#### Throw Anything (Ex) {#throw_anything_ex}",
+      "description": "Alchemists gain Throw Anything as a bonus feat and add Intelligence modifier to splash weapon damage.",
+      "keywords": [
+        "Throw Anything",
+        "bonus feat",
+        "Intelligence modifier",
+        "splash weapons",
+        "splash damage",
+        "thrown weapons"
+      ]
+    },
+    {
+      "id": "alchemist_discovery_su",
+      "title": "Discovery (Su) (Alchemist)",
+      "anchor_heading": "#### Discovery (Su) {#discovery_su}",
+      "description": "Alchemists gain discoveries every 2 levels starting at 2nd level, allowing them to learn special alchemical abilities and bomb modifications.",
+      "keywords": [
+        "discovery",
+        "alchemical discovery",
+        "every 2 levels",
+        "bomb modifications",
+        "asterisk discoveries",
+        "saving throw DC",
+        "prerequisites",
+        "individual discovery limit"
+      ]
+    },
+    {
+      "id": "alchemist_poison_resistance_ex",
+      "title": "Poison Resistance (Ex) (Alchemist)",
+      "anchor_heading": "#### Poison Resistance (Ex) {#poison_resistance_ex}",
+      "description": "Alchemists gain increasing bonuses on saves against poison (+2 at 2nd, +4 at 5th, +6 at 8th) and become immune at 10th level.",
+      "keywords": [
+        "poison resistance",
+        "poison immunity",
+        "saving throw bonus",
+        "poison saves",
+        "+2 bonus",
+        "+4 bonus",
+        "+6 bonus",
+        "complete immunity"
+      ]
+    },
+    {
+      "id": "alchemist_poison_use_ex",
+      "title": "Poison Use (Ex) (Alchemist)",
+      "anchor_heading": "#### Poison Use (Ex) {#poison_use_ex}",
+      "description": "Alchemists cannot accidentally poison themselves when applying poison to weapons starting at 2nd level.",
+      "keywords": [
+        "poison use",
+        "poison application",
+        "accidental poisoning",
+        "weapon poisoning",
+        "poison training"
+      ]
+    },
+    {
+      "id": "alchemist_swift_alchemy_ex",
+      "title": "Swift Alchemy (Ex) (Alchemist)",
+      "anchor_heading": "#### Swift Alchemy (Ex) {#swift_alchemy_ex}",
+      "description": "Alchemists create alchemical items in half the normal time and can apply poison to weapons as a move action.",
+      "keywords": [
+        "swift alchemy",
+        "alchemical items",
+        "half time",
+        "creation time",
+        "poison application",
+        "move action",
+        "crafting speed"
+      ]
+    },
+    {
+      "id": "alchemist_swift_poisoning_ex",
+      "title": "Swift Poisoning (Ex) (Alchemist)",
+      "anchor_heading": "#### Swift Poisoning (Ex) {#swift_poisoning_ex}",
+      "description": "Alchemists can apply poison to weapons as a swift action instead of a move action.",
+      "keywords": [
+        "swift poisoning",
+        "poison application",
+        "swift action",
+        "weapon poisoning",
+        "action economy"
+      ]
+    },
+    {
+      "id": "alchemist_persistent_mutagen_su",
+      "title": "Persistent Mutagen (Su) (Alchemist)",
+      "anchor_heading": "#### Persistent Mutagen (Su) {#persistent_mutagen_su}",
+      "description": "Mutagen effects last for 1 hour per alchemist level instead of 10 minutes per level.",
+      "keywords": [
+        "persistent mutagen",
+        "mutagen duration",
+        "1 hour per level",
+        "extended duration",
+        "mutagen effects"
+      ]
+    },
+    {
+      "id": "alchemist_instant_alchemy_ex",
+      "title": "Instant Alchemy (Ex) (Alchemist)",
+      "anchor_heading": "#### Instant Alchemy (Ex) {#instant_alchemy_ex}",
+      "description": "Alchemists can create any alchemical item as a full-round action with a successful Craft check and apply poison as an immediate action.",
+      "keywords": [
+        "instant alchemy",
+        "alchemical items",
+        "full-round action",
+        "Craft alchemy check",
+        "immediate action",
+        "poison application",
+        "supernatural speed"
+      ]
+    },
+    {
+      "id": "alchemist_grand_discovery_su",
+      "title": "Grand Discovery (Su) (Alchemist)",
+      "anchor_heading": "#### Grand Discovery (Su) {#grand_discovery_su}",
+      "description": "At 20th level, alchemists learn two normal discoveries plus one grand discovery representing a major alchemical breakthrough.",
+      "keywords": [
+        "grand discovery",
+        "20th level",
+        "capstone ability",
+        "normal discoveries",
+        "alchemical breakthrough",
+        "two discoveries",
+        "astounding discovery"
       ]
     }
-  ],
-  "category": "Classes"
+  ]
 }

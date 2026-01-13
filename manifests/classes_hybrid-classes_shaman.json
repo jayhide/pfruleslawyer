@@ -2,50 +2,252 @@
   "file": "shaman.md",
   "source_path": "https://www.d20pfsrd.com/classes/hybrid-classes/shaman/",
   "source_name": "Class: Shaman",
+  "category": "Classes",
+  "toc_content": "Contents\n+ [Class Skills](#class_skills)\n+ [Class Features](#class_features)\n  - [Weapon and Armor Proficiency](#weapon_and_armor_proficiency)\n  - [Spell Casting](#spell_casting)\n  - [Orisons](#orisons)\n  - [Spirit (Su)](#spirit_su)\n  - [Spirit Animal (Ex)](#spirit_animal_ex)\n  - [Spirit Animal](#spirit_animal)\n  - [Spirit Magic](#spirit_magic)\n  - [Hex](#hex)\n  - [Wandering Spirit (Su)](#wandering_spirit_su)\n  - [Wandering Hex](#wandering_hex)\n  - [Manifestation (Su)](#manifestation_su)\n+ [Alternative Capstone Ability](#alternative_capstone_ability)\n  - [Hex Mastery (Su)](#hex_mastery_su)\n+ [Spirits](#spirits)\n  - [Paizo \u2013 Shaman Spirits](#paizo_8211_shaman_spirits)\n  - [3rd Party \u2013 Shaman Spirits](#3rd_party_8211_shaman_spirits)\n+ [Shaman Spells](#shaman_spells)\n+ [Spirit Specialization Variant (Optional)](#spirit_specialization_variant_optional)\n  - [Shell of Succor (Su)](#shell_of_succor_su)\n  - [Spirit Boost (Su)](#spirit_boost_su)\n  - [Spirit of Life (Su)](#spirit_of_life_su)\n* [Favored Class Bonuses](#favored_class_bonuses)\n* [Archetypes & Alternate Class Features](#archetypes_alternate_class_features)",
   "sections": [
     {
-      "id": "shaman",
-      "title": "Shaman",
+      "id": "shaman_overview",
+      "title": "Shaman (Class Overview)",
       "anchor_heading": "# Shaman",
-      "includes_subheadings": [
-        "### Class Skills",
-        "#### Weapon and Armor Proficiency",
-        "#### Spell Casting",
-        "#### Orisons",
-        "#### Spirit (Su)",
-        "#### Spirit Animal (Ex)",
-        "#### Spirit Animal",
-        "#### Spirit Magic",
-        "#### Hex",
-        "#### Wandering Spirit (Su)",
-        "#### Wandering Hex",
-        "#### Manifestation (Su)",
-        "#### Hex Mastery (Su)",
-        "### Spirits",
-        "### Shaman Spells",
-        "### Spirit Specialization Variant (Optional)",
-        "#### Shell of Succor (Su)",
-        "#### Spirit Boost (Su)",
-        "#### Spirit of Life (Su)"
-      ],
-      "description": "Complete Shaman hybrid class rules covering spirit animal companions, hex abilities, wandering spirits, manifestations, and the full progression of this divine spellcaster that communes with spirits.",
+      "end_at_heading": "### Class Skills {#class_skills}",
+      "description": "Overview of the Shaman class including role, alignment, hit die, and starting wealth.",
       "keywords": [
         "shaman",
-        "spirit animal",
-        "hex",
-        "wandering spirit",
-        "wandering hex",
-        "manifestation",
-        "spirit magic",
+        "class",
+        "hit die",
+        "role",
+        "alignment"
+      ]
+    },
+    {
+      "id": "shaman_weapon_and_armor_proficiency",
+      "title": "Weapon and Armor Proficiency (Shaman)",
+      "anchor_heading": "#### Weapon and Armor Proficiency {#weapon_and_armor_proficiency}",
+      "description": "Shamans are proficient with all simple weapons, light armor, and medium armor.",
+      "keywords": [
+        "weapon proficiency",
+        "armor proficiency",
+        "simple weapons",
+        "light armor",
+        "medium armor",
+        "proficient"
+      ]
+    },
+    {
+      "id": "shaman_spell_casting",
+      "title": "Spell Casting (Shaman)",
+      "anchor_heading": "#### Spell Casting {#spell_casting}",
+      "description": "Shamans cast divine spells from the shaman spell list, requiring preparation and Wisdom scores of 10 + spell level. They commune with spirit animals for 1 hour daily to prepare spells.",
+      "keywords": [
+        "spellcasting",
+        "divine spells",
+        "shaman spell list",
+        "spell preparation",
+        "wisdom modifier",
+        "saving throw DC",
+        "spirit animal communion",
+        "daily spell allotment",
+        "prepared spells"
+      ]
+    },
+    {
+      "id": "shaman_orisons",
+      "title": "Orisons (Shaman)",
+      "anchor_heading": "#### Orisons {#orisons}",
+      "description": "Shamans can prepare 0-level spells called orisons that are cast like normal spells but are not expended when used.",
+      "keywords": [
         "orisons",
-        "shaman spells",
-        "shaman spirits",
+        "0-level spells",
+        "cantrips",
+        "not expended",
+        "unlimited use",
+        "at will"
+      ]
+    },
+    {
+      "id": "shaman_spirit_su",
+      "title": "Spirit (Su) (Shaman)",
+      "anchor_heading": "#### Spirit (Su) {#spirit_su}",
+      "description": "A shaman forms a mystical bond with a single spirit that grants abilities, spells for spirit magic, and hexes. Greater abilities are gained at 8th level and true abilities at 16th level.",
+      "keywords": [
+        "spirit",
+        "mystical bond",
+        "spirit ability",
+        "spirit magic spells",
+        "spirit hexes",
+        "greater spirit",
+        "true spirit",
+        "8th level",
+        "16th level"
+      ]
+    },
+    {
+      "id": "shaman_spirit_animal_ex",
+      "title": "Spirit Animal (Ex) (Shaman)",
+      "anchor_heading": "#### Spirit Animal (Ex) {#spirit_animal_ex}",
+      "description": "A shaman bonds with a spirit animal that serves as her conduit to divine power and is required for spell preparation and spirit magic use.",
+      "keywords": [
+        "spirit animal",
+        "conduit",
+        "divine power",
+        "spell preparation",
+        "spirit magic",
+        "slain spirit animal",
+        "cannot prepare spells"
+      ]
+    },
+    {
+      "id": "shaman_spirit_animal",
+      "title": "Spirit Animal (Shaman)",
+      "anchor_heading": "#### Spirit Animal {#spirit_animal}",
+      "description": "The spirit animal functions like a wizard's familiar but is treated as a native outsider and can deliver touch spells/hexes at 3rd level.",
+      "keywords": [
+        "spirit animal",
+        "familiar",
+        "wizard level",
+        "native outsider",
+        "deliver touch spells",
+        "deliver hexes",
+        "3rd level",
+        "replacement ritual",
+        "500 gp per level"
+      ]
+    },
+    {
+      "id": "shaman_spirit_magic",
+      "title": "Spirit Magic (Shaman)",
+      "anchor_heading": "#### Spirit Magic {#spirit_magic}",
+      "description": "A shaman can spontaneously cast one spell per day of each spell level from her spirit's spell list, enhanced with metamagic feats.",
+      "keywords": [
+        "spirit magic",
+        "spontaneous casting",
+        "one spell slot per level",
+        "spirit spell list",
+        "metamagic feats",
+        "higher-level slot"
+      ]
+    },
+    {
+      "id": "shaman_hex",
+      "title": "Hex (Shaman)",
+      "anchor_heading": "#### Hex {#hex}",
+      "description": "Shamans learn magical tricks called hexes as standard actions that don't provoke attacks of opportunity, with save DCs based on Wisdom modifier.",
+      "keywords": [
+        "hex",
+        "standard action",
+        "no attack of opportunity",
+        "wisdom modifier",
+        "save DC",
+        "chant",
+        "charm",
+        "evil eye",
+        "fortune",
+        "misfortune",
+        "healing",
+        "ward",
+        "witch hex"
+      ]
+    },
+    {
+      "id": "shaman_wandering_spirit_su",
+      "title": "Wandering Spirit (Su) (Shaman)",
+      "anchor_heading": "#### Wandering Spirit (Su) {#wandering_spirit_su}",
+      "description": "Starting at 4th level, a shaman can bond with a different spirit daily, gaining its spirit ability and spells for spirit magic.",
+      "keywords": [
+        "wandering spirit",
+        "4th level",
+        "daily selection",
+        "spirit ability",
+        "spirit magic spells",
+        "greater at 12th",
+        "true at 20th",
+        "temporary bond"
+      ]
+    },
+    {
+      "id": "shaman_wandering_hex",
+      "title": "Wandering Hex (Shaman)",
+      "anchor_heading": "#### Wandering Hex {#wandering_hex}",
+      "description": "At 6th level, a shaman can daily select one hex from either her spirit or wandering spirit, gaining two wandering hexes at 14th level.",
+      "keywords": [
+        "wandering hex",
+        "6th level",
+        "daily selection",
+        "spirit hex",
+        "wandering spirit hex",
+        "14th level",
+        "two hexes"
+      ]
+    },
+    {
+      "id": "shaman_manifestation_su",
+      "title": "Manifestation (Su) (Shaman)",
+      "anchor_heading": "#### Manifestation (Su) {#manifestation_su}",
+      "description": "At 20th level, the shaman undergoes a transformation to manifest as a pinnacle of her main spirit.",
+      "keywords": [
+        "manifestation",
+        "20th level",
+        "transformation",
+        "pinnacle",
+        "main spirit",
+        "capstone ability"
+      ]
+    },
+    {
+      "id": "shaman_hex_mastery_su",
+      "title": "Hex Mastery (Su) (Shaman)",
+      "anchor_heading": "#### Hex Mastery (Su) {#hex_mastery_su}",
+      "description": "At 20th level, the shaman can select one grand hex from the witch's grand hex list.",
+      "keywords": [
+        "hex mastery",
+        "20th level",
+        "grand hex",
+        "witch grand hex",
+        "capstone ability"
+      ]
+    },
+    {
+      "id": "shaman_shell_of_succor_su",
+      "title": "Shell of Succor (Su) (Shaman)",
+      "anchor_heading": "#### Shell of Succor (Su) {#shell_of_succor_su}",
+      "description": "Grants temporary hit points equal to Wisdom bonus plus 1d6 per 2 levels, with special rules for damage interaction and daily uses based on Charisma.",
+      "keywords": [
         "shell of succor",
+        "temporary hit points",
+        "wisdom bonus",
+        "1d6 per 2 levels",
+        "charisma modifier uses",
+        "counts as miss"
+      ]
+    },
+    {
+      "id": "shaman_spirit_boost_su",
+      "title": "Spirit Boost (Su) (Shaman)",
+      "anchor_heading": "#### Spirit Boost (Su) {#spirit_boost_su}",
+      "description": "When healing spells restore a target to maximum hit points, excess healing becomes temporary hit points for 1 round per shaman level.",
+      "keywords": [
         "spirit boost",
+        "healing spell",
+        "maximum hit points",
+        "excess healing",
+        "temporary hit points",
+        "1 round per level"
+      ]
+    },
+    {
+      "id": "shaman_spirit_of_life_su",
+      "title": "Spirit of Life (Su) (Shaman)",
+      "anchor_heading": "#### Spirit of Life (Su) {#spirit_of_life_su}",
+      "description": "The spirit animal can cast stabilize at will and store cure spells transferred from the shaman as a swift action within 30 feet.",
+      "keywords": [
         "spirit of life",
-        "hex mastery"
+        "stabilize at will",
+        "cure spell transfer",
+        "swift action",
+        "30 feet",
+        "imbue with spell ability",
+        "one spell at a time"
       ]
     }
-  ],
-  "category": "Classes"
+  ]
 }

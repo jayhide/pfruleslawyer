@@ -2,51 +2,266 @@
   "file": "brawler.md",
   "source_path": "https://www.d20pfsrd.com/classes/hybrid-classes/brawler/",
   "source_name": "Class: Brawler",
+  "category": "Classes",
+  "toc_content": "Contents\n+ [Class Skills](#class_skills)\n+ [Class Features](#class_features)\n  - [Weapon and Armor Proficiency](#weapon_and_armor_proficiency)\n  - [Brawler\u2019s Cunning (Ex)](#brawler8217s_cunning_ex)\n  - [Martial Flexibility (Ex)](#martial_flexibility_ex)\n  - [Martial Training (Ex)](#martial_training_ex)\n  - [Unarmed Strike](#unarmed_strike)\n  - [Bonus Combat Feats](#bonus_combat_feats)\n  - [Brawler\u2019s Flurry (Ex)](#brawler8217s_flurry_ex)\n  - [Maneuver Training (Ex)](#maneuver_training_ex)\n  - [AC Bonus (Ex)](#ac_bonus_ex)\n  - [Knockout (Ex)](#knockout_ex)\n  - [Brawler\u2019s Strike (Ex)](#brawler8217s_strike_ex)\n  - [Close Weapon Mastery (Ex)](#close_weapon_mastery_ex)\n  - [Awesome Blow (Ex)](#awesome_blow_ex)\n  - [Improved Awesome Blow (Ex)](#improved_awesome_blow_ex)\n+ [Alternative Capstone Ability](#alternative_capstone_ability)\n  - [Perfect Warrior (Ex)](#perfect_warrior_ex)\n* [Favored Class Bonuses](#favored_class_bonuses)\n* [Archetypes & Alternate Class Features](#archetypes_alternate_class_features)\n  + [All Archetypes](#all_archetypes)",
   "sections": [
     {
-      "id": "brawler",
-      "title": "Brawler",
+      "id": "brawler_overview",
+      "title": "Brawler (Class Overview)",
       "anchor_heading": "# Brawler",
-      "includes_subheadings": [
-        "### Class Skills",
-        "### Class Features",
-        "#### Weapon and Armor Proficiency",
-        "#### Brawler's Cunning (Ex)",
-        "#### Martial Flexibility (Ex)",
-        "#### Martial Training (Ex)",
-        "#### Unarmed Strike",
-        "#### Bonus Combat Feats",
-        "#### Brawler's Flurry (Ex)",
-        "#### Maneuver Training (Ex)",
-        "#### AC Bonus (Ex)",
-        "#### Knockout (Ex)",
-        "#### Brawler's Strike (Ex)",
-        "#### Close Weapon Mastery (Ex)",
-        "#### Awesome Blow (Ex)",
-        "#### Improved Awesome Blow (Ex)",
-        "### Alternative Capstone Ability",
-        "#### Perfect Warrior (Ex)",
-        "### All Archetypes"
-      ],
-      "description": "Complete rules for the Brawler hybrid class, covering unarmed combat specialists who combine martial flexibility with devastating strikes and combat maneuvers.",
+      "end_at_heading": "### Class Skills {#class_skills}",
+      "description": "Overview of the Brawler class including role, alignment, hit die, and starting wealth.",
       "keywords": [
         "brawler",
-        "brawler class",
-        "martial flexibility",
-        "unarmed strike",
-        "brawler's flurry",
-        "maneuver training",
+        "class",
+        "hit die",
+        "role",
+        "alignment"
+      ]
+    },
+    {
+      "id": "brawler_weapon_and_armor_proficiency",
+      "title": "Weapon and Armor Proficiency (Brawler)",
+      "anchor_heading": "#### Weapon and Armor Proficiency {#weapon_and_armor_proficiency}",
+      "description": "Grants proficiency with simple weapons, handaxe, short sword, close fighter weapon group, light armor, and shields except tower shields.",
+      "keywords": [
+        "weapon proficiency",
+        "armor proficiency",
+        "simple weapons",
+        "handaxe",
+        "short sword",
+        "close weapon group",
+        "light armor",
+        "shields",
+        "tower shields"
+      ]
+    },
+    {
+      "id": "brawler_brawler8217s_cunning_ex",
+      "title": "Brawler\u2019s Cunning (Ex) (Brawler)",
+      "anchor_heading": "#### Brawler\u2019s Cunning (Ex) {#brawler8217s_cunning_ex}",
+      "description": "Treats Intelligence as 13 for combat feat prerequisites if actual Intelligence is lower than 13.",
+      "keywords": [
         "brawler's cunning",
+        "intelligence",
+        "combat feat prerequisites",
+        "feat requirements",
+        "ability score substitution"
+      ]
+    },
+    {
+      "id": "brawler_martial_flexibility_ex",
+      "title": "Martial Flexibility (Ex) (Brawler)",
+      "anchor_heading": "#### Martial Flexibility (Ex) {#martial_flexibility_ex}",
+      "description": "Allows temporary gaining of combat feats as a move action for 1 minute, scaling to multiple feats and faster action types at higher levels.",
+      "keywords": [
+        "martial flexibility",
+        "temporary feats",
+        "combat feats",
+        "move action",
+        "swift action",
+        "immediate action",
+        "free action",
+        "daily uses",
+        "feat prerequisites"
+      ]
+    },
+    {
+      "id": "brawler_martial_training_ex",
+      "title": "Martial Training (Ex) (Brawler)",
+      "anchor_heading": "#### Martial Training (Ex) {#martial_training_ex}",
+      "description": "Counts brawler levels as fighter and monk levels for feat prerequisites and magic item effects, but doesn't grant class features automatically.",
+      "keywords": [
         "martial training",
-        "close weapon mastery",
-        "brawler's strike",
+        "fighter levels",
+        "monk levels",
+        "feat prerequisites",
+        "stunning fist",
+        "monk's robe",
+        "class level requirements"
+      ]
+    },
+    {
+      "id": "brawler_unarmed_strike",
+      "title": "Unarmed Strike (Brawler)",
+      "anchor_heading": "#### Unarmed Strike {#unarmed_strike}",
+      "description": "Grants Improved Unarmed Strike, full Strength on damage, choice of lethal/nonlethal damage, and scaling unarmed damage dice.",
+      "keywords": [
+        "unarmed strike",
+        "improved unarmed strike",
+        "strength modifier",
+        "lethal damage",
+        "nonlethal damage",
+        "manufactured weapon",
+        "natural weapon",
+        "unarmed damage",
+        "size categories"
+      ]
+    },
+    {
+      "id": "brawler_bonus_combat_feats",
+      "title": "Bonus Combat Feats (Brawler)",
+      "anchor_heading": "#### Bonus Combat Feats {#bonus_combat_feats}",
+      "description": "Grants bonus combat feats at 2nd level and every 3 levels thereafter, with ability to retrain feats starting at 5th level.",
+      "keywords": [
+        "bonus combat feats",
+        "feat retraining",
+        "melee attacks",
+        "defenses",
+        "feat prerequisites",
+        "feat swapping"
+      ]
+    },
+    {
+      "id": "brawler_brawler8217s_flurry_ex",
+      "title": "Brawler\u2019s Flurry (Ex) (Brawler)",
+      "anchor_heading": "#### Brawler\u2019s Flurry (Ex) {#brawler8217s_flurry_ex}",
+      "description": "Grants Two-Weapon Fighting benefits when full attacking with unarmed strikes, close weapons, or monk weapons, with full Strength on all attacks.",
+      "keywords": [
+        "brawler's flurry",
+        "full-attack action",
+        "two-weapon fighting",
+        "close weapon group",
+        "monk weapons",
+        "strength modifier",
+        "combat maneuvers",
+        "disarm",
+        "sunder",
+        "trip",
+        "natural weapons"
+      ]
+    },
+    {
+      "id": "brawler_maneuver_training_ex",
+      "title": "Maneuver Training (Ex) (Brawler)",
+      "anchor_heading": "#### Maneuver Training (Ex) {#maneuver_training_ex}",
+      "description": "Provides scaling bonuses to combat maneuver checks and CMD for selected combat maneuvers, with bonuses increasing over time.",
+      "keywords": [
+        "maneuver training",
+        "combat maneuver checks",
+        "combat maneuver defense",
+        "cmd",
+        "grapple",
+        "sunder",
+        "bull rush",
+        "trip",
+        "disarm",
+        "overrun"
+      ]
+    },
+    {
+      "id": "brawler_ac_bonus_ex",
+      "title": "AC Bonus (Ex) (Brawler)",
+      "anchor_heading": "#### AC Bonus (Ex) {#ac_bonus_ex}",
+      "description": "Grants scaling dodge bonuses to AC and CMD when wearing light or no armor, applying against touch attacks.",
+      "keywords": [
+        "ac bonus",
+        "dodge bonus",
+        "light armor",
+        "no armor",
+        "touch attacks",
+        "immobilized",
+        "helpless",
+        "medium armor",
+        "heavy armor",
+        "encumbrance"
+      ]
+    },
+    {
+      "id": "brawler_knockout_ex",
+      "title": "Knockout (Ex) (Brawler)",
+      "anchor_heading": "#### Knockout (Ex) {#knockout_ex}",
+      "description": "Allows declared attacks to potentially knock targets unconscious on a failed Fortitude save, usable a limited number of times per day.",
+      "keywords": [
         "knockout",
+        "unconscious",
+        "fortitude save",
+        "declared attack",
+        "critical hit immunity",
+        "nonlethal damage immunity",
+        "daily uses"
+      ]
+    },
+    {
+      "id": "brawler_brawler8217s_strike_ex",
+      "title": "Brawler\u2019s Strike (Ex) (Brawler)",
+      "anchor_heading": "#### Brawler\u2019s Strike (Ex) {#brawler8217s_strike_ex}",
+      "description": "Makes unarmed strikes count as magic, cold iron, silver, alignment, and adamantine weapons for overcoming damage reduction at different levels.",
+      "keywords": [
+        "brawler's strike",
+        "magic weapons",
+        "damage reduction",
+        "cold iron",
+        "silver",
+        "alignment",
+        "chaotic",
+        "evil",
+        "good",
+        "lawful",
+        "adamantine",
+        "hardness"
+      ]
+    },
+    {
+      "id": "brawler_close_weapon_mastery_ex",
+      "title": "Close Weapon Mastery (Ex) (Brawler)",
+      "anchor_heading": "#### Close Weapon Mastery (Ex) {#close_weapon_mastery_ex}",
+      "description": "Allows close weapons to use the brawler's unarmed strike damage (4 levels lower) if it's higher than the weapon's base damage.",
+      "keywords": [
+        "close weapon mastery",
+        "close weapons",
+        "unarmed strike damage",
+        "weapon damage",
+        "punching dagger",
+        "base damage",
+        "damage substitution"
+      ]
+    },
+    {
+      "id": "brawler_awesome_blow_ex",
+      "title": "Awesome Blow (Ex) (Brawler)",
+      "anchor_heading": "#### Awesome Blow (Ex) {#awesome_blow_ex}",
+      "description": "Grants awesome blow combat maneuver as a standard action, dealing damage and knocking opponents flying 10 feet prone.",
+      "keywords": [
         "awesome blow",
-        "AC bonus",
-        "hybrid class",
-        "bonus combat feats"
+        "combat maneuver",
+        "standard action",
+        "corporeal",
+        "knocked flying",
+        "prone",
+        "obstacle damage",
+        "size restriction"
+      ]
+    },
+    {
+      "id": "brawler_improved_awesome_blow_ex",
+      "title": "Improved Awesome Blow (Ex) (Brawler)",
+      "anchor_heading": "#### Improved Awesome Blow (Ex) {#improved_awesome_blow_ex}",
+      "description": "Allows awesome blow as an attack instead of standard action, works on any size, and can critical hit on natural 20.",
+      "keywords": [
+        "improved awesome blow",
+        "attack action",
+        "any size",
+        "natural 20",
+        "critical confirmation",
+        "double damage",
+        "combat maneuver check"
+      ]
+    },
+    {
+      "id": "brawler_perfect_warrior_ex",
+      "title": "Perfect Warrior (Ex) (Brawler)",
+      "anchor_heading": "#### Perfect Warrior (Ex) {#perfect_warrior_ex}",
+      "description": "Capstone ability that increases maneuver training bonuses by 2 and dodge bonus to AC by 2, replacing martial flexibility improvement.",
+      "keywords": [
+        "perfect warrior",
+        "capstone",
+        "maneuver training",
+        "dodge bonus",
+        "ac improvement",
+        "20th level",
+        "martial flexibility replacement"
       ]
     }
-  ],
-  "category": "Classes"
+  ]
 }

@@ -2,50 +2,255 @@
   "file": "rogue-unchained.md",
   "source_path": "https://www.d20pfsrd.com/classes/unchained-classes/rogue-unchained/",
   "source_name": "Class: Unchained Rogue",
+  "category": "Classes",
+  "toc_content": "Contents\n+ [Class Skills](#class_skills)\n+ [Class Features](#class_features)\n  - [Weapon and Armor Proficiency](#weapon_and_armor_proficiency)\n  - [Sneak Attack](#sneak_attack)\n  - [Trapfinding](#trapfinding)\n  - [Finesse Training (Ex)](#finesse_training_ex)\n  - [Evasion (Ex)](#evasion_ex)\n  - [Rogue Talents](#rogue_talents)\n  - [Danger Sense (Ex)](#danger_sense_ex)\n  - [Debilitating Injury (Ex)](#debilitating_injury_ex)\n  - [Uncanny Dodge (Ex)](#uncanny_dodge_ex)\n  - [Rogue\u2019s Edge (Ex)](#rogue8217s_edge_ex)\n  - [Improved Uncanny Dodge (Ex)](#improved_uncanny_dodge_ex)\n  - [Advanced Talents](#advanced_talents)\n  - [Master Strike (Ex)](#master_strike_ex)\n+ [Alternative Capstone Ability](#alternative_capstone_ability)\n  - [Masterful Talent (Ex)](#masterful_talent_ex)\n+ [Unmodified Rogue Talents](#unmodified_rogue_talents)\n* [Archetypes & Alternate Class Features](#archetypes_alternate_class_features)",
   "sections": [
     {
-      "id": "rogue_unchained",
-      "title": "Unchained Rogue",
+      "id": "unchained_rogue_overview",
+      "title": "Unchained Rogue (Class Overview)",
       "anchor_heading": "# Unchained Rogue",
-      "includes_subheadings": [
-        "### Class Skills",
-        "#### Weapon and Armor Proficiency",
-        "#### Sneak Attack",
-        "#### Trapfinding",
-        "#### Finesse Training (Ex)",
-        "#### Evasion (Ex)",
-        "#### Rogue Talents",
-        "#### Danger Sense (Ex)",
-        "#### Debilitating Injury (Ex)",
-        "#### Uncanny Dodge (Ex)",
-        "#### Rogue's Edge (Ex)",
-        "#### Improved Uncanny Dodge (Ex)",
-        "#### Advanced Talents",
-        "#### Master Strike (Ex)",
-        "### Alternative Capstone Ability",
-        "#### Masterful Talent (Ex)",
-        "### Unmodified Rogue Talents"
-      ],
-      "description": "Complete class rules for the unchained rogue, featuring enhanced abilities like debilitating injury, skill unlocks through rogue's edge, and finesse training with Dexterity to damage.",
+      "end_at_heading": "### Class Skills {#class_skills}",
+      "description": "Overview of the Unchained Rogue class including role, alignment, hit die, and starting wealth.",
       "keywords": [
         "unchained rogue",
-        "rogue unchained",
-        "debilitating injury",
-        "finesse training",
-        "rogue's edge",
-        "skill unlocks",
+        "class",
+        "hit die",
+        "role",
+        "alignment"
+      ]
+    },
+    {
+      "id": "unchained_rogue_weapon_and_armor_proficiency",
+      "title": "Weapon and Armor Proficiency (Unchained Rogue)",
+      "anchor_heading": "#### Weapon and Armor Proficiency {#weapon_and_armor_proficiency}",
+      "description": "Grants proficiency with all simple weapons plus hand crossbow, rapier, sap, short sword, and shortbow, as well as light armor but not shields.",
+      "keywords": [
+        "weapon proficiency",
+        "armor proficiency",
+        "simple weapons",
+        "hand crossbow",
+        "rapier",
+        "sap",
+        "short sword",
+        "shortbow",
+        "light armor",
+        "no shields",
+        "proficient weapons"
+      ]
+    },
+    {
+      "id": "unchained_rogue_sneak_attack",
+      "title": "Sneak Attack (Unchained Rogue)",
+      "anchor_heading": "#### Sneak Attack {#sneak_attack}",
+      "description": "Deals extra precision damage (starting at 1d6, increasing by 1d6 every 2 levels) when the target is denied Dex bonus to AC or when flanking, with a 30-foot range limit for ranged attacks.",
+      "keywords": [
         "sneak attack",
+        "precision damage",
+        "flanking",
+        "denied dexterity bonus",
+        "flat-footed",
+        "30 feet",
+        "1d6 damage",
+        "critical hit immunity",
+        "incorporeal immunity",
+        "elemental immunity",
+        "ooze immunity",
+        "nonlethal damage",
+        "concealment"
+      ]
+    },
+    {
+      "id": "unchained_rogue_trapfinding",
+      "title": "Trapfinding (Unchained Rogue)",
+      "anchor_heading": "#### Trapfinding {#trapfinding}",
+      "description": "Adds half rogue level (minimum +1) to Perception checks to locate traps and Disable Device checks, and allows disarming magic traps.",
+      "keywords": [
         "trapfinding",
-        "rogue talents",
-        "advanced talents",
-        "master strike",
-        "danger sense",
-        "uncanny dodge",
-        "improved uncanny dodge",
+        "perception traps",
+        "disable device",
+        "magic traps",
+        "disarm magic traps",
+        "locate traps",
+        "trap detection"
+      ]
+    },
+    {
+      "id": "unchained_rogue_finesse_training_ex",
+      "title": "Finesse Training (Ex) (Unchained Rogue)",
+      "anchor_heading": "#### Finesse Training (Ex) {#finesse_training_ex}",
+      "description": "Grants Weapon Finesse as a bonus feat at 1st level, and allows adding Dex modifier to damage rolls with selected finesse weapons starting at 3rd level.",
+      "keywords": [
+        "finesse training",
+        "weapon finesse",
+        "dexterity to damage",
+        "dex to damage",
+        "finesse weapons",
+        "strength to damage replacement",
+        "3rd level",
+        "11th level",
+        "19th level"
+      ]
+    },
+    {
+      "id": "unchained_rogue_evasion_ex",
+      "title": "Evasion (Ex) (Unchained Rogue)",
+      "anchor_heading": "#### Evasion (Ex) {#evasion_ex}",
+      "description": "Takes no damage on successful Reflex saves against attacks that normally deal half damage, but only works in light armor or no armor and not while helpless.",
+      "keywords": [
         "evasion",
-        "masterful talent"
+        "reflex save",
+        "no damage",
+        "half damage",
+        "light armor",
+        "no armor",
+        "helpless",
+        "magical attacks",
+        "area effects"
+      ]
+    },
+    {
+      "id": "unchained_rogue_rogue_talents",
+      "title": "Rogue Talents (Unchained Rogue)",
+      "anchor_heading": "#### Rogue Talents {#rogue_talents}",
+      "description": "Gains special abilities called rogue talents starting at 2nd level and every 2 levels thereafter, with some talents adding effects to sneak attacks.",
+      "keywords": [
+        "rogue talents",
+        "2nd level",
+        "every 2 levels",
+        "sneak attack talents",
+        "asterisk talents",
+        "ninja tricks",
+        "individual talent",
+        "attack roll"
+      ]
+    },
+    {
+      "id": "unchained_rogue_danger_sense_ex",
+      "title": "Danger Sense (Ex) (Unchained Rogue)",
+      "anchor_heading": "#### Danger Sense (Ex) {#danger_sense_ex}",
+      "description": "Provides scaling bonuses to Reflex saves against traps, dodge bonus to AC against trap attacks, and Perception checks to avoid surprise, starting at +1 and increasing every 3 levels.",
+      "keywords": [
+        "danger sense",
+        "trap sense",
+        "reflex saves",
+        "dodge bonus",
+        "trap attacks",
+        "perception",
+        "avoid surprise",
+        "every 3 levels",
+        "+6 maximum",
+        "18th level"
+      ]
+    },
+    {
+      "id": "unchained_rogue_debilitating_injury_ex",
+      "title": "Debilitating Injury (Ex) (Unchained Rogue)",
+      "anchor_heading": "#### Debilitating Injury (Ex) {#debilitating_injury_ex}",
+      "description": "Applies additional penalties (bewildered, disoriented, or hampered) for 1 round when dealing sneak attack damage, with penalties increasing at 10th and 16th level.",
+      "keywords": [
+        "debilitating injury",
+        "sneak attack damage",
+        "bewildered",
+        "disoriented",
+        "hampered",
+        "AC penalty",
+        "attack roll penalty",
+        "speed reduction",
+        "10th level",
+        "16th level",
+        "healing removes"
+      ]
+    },
+    {
+      "id": "unchained_rogue_uncanny_dodge_ex",
+      "title": "Uncanny Dodge (Ex) (Unchained Rogue)",
+      "anchor_heading": "#### Uncanny Dodge (Ex) {#uncanny_dodge_ex}",
+      "description": "Prevents being caught flat-footed and retains Dex bonus to AC against invisible attackers, but can still be feinted and loses Dex bonus when immobilized.",
+      "keywords": [
+        "uncanny dodge",
+        "flat-footed",
+        "dexterity bonus",
+        "invisible attackers",
+        "feint",
+        "immobilized",
+        "improved uncanny dodge"
+      ]
+    },
+    {
+      "id": "unchained_rogue_rogue8217s_edge_ex",
+      "title": "Rogue\u2019s Edge (Ex) (Unchained Rogue)",
+      "anchor_heading": "#### Rogue\u2019s Edge (Ex) {#rogue8217s_edge_ex}",
+      "description": "Gains skill unlock powers for one skill at 5th level and additional skills at 10th, 15th, and 20th levels, providing abilities beyond normal skill boundaries.",
+      "keywords": [
+        "rogue's edge",
+        "skill unlock",
+        "skill unlock powers",
+        "5th level",
+        "10th level",
+        "15th level",
+        "20th level",
+        "skill ranks",
+        "signature skill"
+      ]
+    },
+    {
+      "id": "unchained_rogue_improved_uncanny_dodge_ex",
+      "title": "Improved Uncanny Dodge (Ex) (Unchained Rogue)",
+      "anchor_heading": "#### Improved Uncanny Dodge (Ex) {#improved_uncanny_dodge_ex}",
+      "description": "Cannot be flanked, preventing sneak attacks from flanking unless the attacker has 4+ more rogue levels than the target.",
+      "keywords": [
+        "improved uncanny dodge",
+        "cannot be flanked",
+        "flanking immunity",
+        "sneak attack",
+        "4 more rogue levels",
+        "class levels stack"
+      ]
+    },
+    {
+      "id": "unchained_rogue_advanced_talents",
+      "title": "Advanced Talents (Unchained Rogue)",
+      "anchor_heading": "#### Advanced Talents {#advanced_talents}",
+      "description": "Allows selecting more powerful advanced talents in place of regular rogue talents starting at 10th level and every 2 levels thereafter.",
+      "keywords": [
+        "advanced talents",
+        "10th level",
+        "every 2 levels",
+        "rogue talent",
+        "advanced rogue talents"
+      ]
+    },
+    {
+      "id": "unchained_rogue_master_strike_ex",
+      "title": "Master Strike (Ex) (Unchained Rogue)",
+      "anchor_heading": "#### Master Strike (Ex) {#master_strike_ex}",
+      "description": "Adds sleep (1d4 hours), paralysis (2d6 rounds), or death effects to sneak attacks with a Fortitude save to negate, usable once per creature per 24 hours.",
+      "keywords": [
+        "master strike",
+        "sneak attack damage",
+        "sleep",
+        "paralyzed",
+        "slain",
+        "fortitude save",
+        "24 hours",
+        "immunity",
+        "20th level",
+        "dexterity modifier"
+      ]
+    },
+    {
+      "id": "unchained_rogue_masterful_talent_ex",
+      "title": "Masterful Talent (Ex) (Unchained Rogue)",
+      "anchor_heading": "#### Masterful Talent (Ex) {#masterful_talent_ex}",
+      "description": "Grants a +4 bonus on all skill checks, representing the rogue's mastery across diverse areas of expertise.",
+      "keywords": [
+        "masterful talent",
+        "+4 bonus",
+        "all skills",
+        "skill checks",
+        "20th level",
+        "skill mastery"
       ]
     }
-  ],
-  "category": "Classes"
+  ]
 }

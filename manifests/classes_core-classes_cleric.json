@@ -2,43 +2,176 @@
   "file": "cleric.md",
   "source_path": "https://www.d20pfsrd.com/classes/core-classes/cleric/",
   "source_name": "Class: Cleric",
+  "category": "Classes",
+  "toc_content": "Contents\n+ [Class Skills](#class_skills)\n+ [Class Features](#class_features)\n  - [Weapon and Armor Proficiency](#weapon_and_armor_proficiency)\n  - [Aura (Ex)](#aura_ex)\n  - [Spellcasting](#spellcasting)\n  - [Orisons](#orisons)\n  - [Channel Energy (Su)](#channel_energy_su)\n  - [Domains](#domains)\n  - [Spontaneous Casting](#spontaneous_casting)\n  - [Bonus Languages](#bonus_languages)\n+ [Alternative Capstone Ability](#alternative_capstone_ability)\n  - [Proxy (Su)](#proxy_su)\n* [Ex-Clerics](#ex-clerics)\n* [Favored Class Bonuses](#favored_class_bonuses)\n* [Archetypes & Alternate Class Features](#archetypes_alternate_class_features)",
   "sections": [
     {
-      "id": "cleric",
-      "title": "Cleric",
+      "id": "cleric_overview",
+      "title": "Cleric (Class Overview)",
       "anchor_heading": "# Cleric",
-      "includes_subheadings": [
-        "### Class Skills",
-        "#### Weapon and Armor Proficiency",
-        "#### Aura (Ex)",
-        "#### Spellcasting",
-        "#### Orisons",
-        "#### Channel Energy (Su)",
-        "#### Domains",
-        "#### Spontaneous Casting",
-        "#### Bonus Languages",
-        "### Alternative Capstone Ability",
-        "#### Proxy (Su)"
-      ],
-      "description": "Comprehensive rules for the Cleric class, including spellcasting, channel energy, domains, class features, archetypes, and divine magic mechanics.",
+      "end_at_heading": "### Class Skills {#class_skills}",
+      "description": "Overview of the Cleric class including role, alignment, hit die, and starting wealth.",
       "keywords": [
         "cleric",
-        "channel energy",
-        "domains",
-        "divine spells",
-        "orisons",
-        "spontaneous casting",
+        "class",
+        "hit die",
+        "role",
+        "alignment"
+      ]
+    },
+    {
+      "id": "cleric_weapon_and_armor_proficiency",
+      "title": "Weapon and Armor Proficiency (Cleric)",
+      "anchor_heading": "#### Weapon and Armor Proficiency {#weapon_and_armor_proficiency}",
+      "description": "Clerics are proficient with all simple weapons, light and medium armor, shields (except tower shields), and their deity's favored weapon.",
+      "keywords": [
+        "weapon proficiency",
+        "armor proficiency",
+        "simple weapons",
+        "light armor",
+        "medium armor",
+        "shields",
+        "tower shields",
+        "favored weapon",
+        "deity weapon"
+      ]
+    },
+    {
+      "id": "cleric_aura_ex",
+      "title": "Aura (Ex) (Cleric)",
+      "anchor_heading": "#### Aura (Ex) {#aura_ex}",
+      "description": "A cleric of an aligned deity radiates a powerful aura matching their deity's alignment, detectable by spells like detect evil.",
+      "keywords": [
         "aura",
-        "cleric spells",
-        "divine magic",
-        "cleric archetypes",
-        "ex-clerics",
-        "cleric domains",
-        "subdomains",
-        "variant channeling",
-        "cleric class features"
+        "alignment aura",
+        "detect evil",
+        "detect good",
+        "detect chaos",
+        "detect law",
+        "chaotic aura",
+        "evil aura",
+        "good aura",
+        "lawful aura"
+      ]
+    },
+    {
+      "id": "cleric_spellcasting",
+      "title": "Spellcasting (Cleric)",
+      "anchor_heading": "#### Spellcasting {#spellcasting}",
+      "description": "Clerics cast divine spells from the cleric spell list, requiring Wisdom to prepare and cast spells, with spell DC based on Wisdom modifier.",
+      "keywords": [
+        "divine spells",
+        "cleric spell list",
+        "Wisdom spellcasting",
+        "spell preparation",
+        "daily meditation",
+        "prayer",
+        "spell DC",
+        "chaotic spells",
+        "evil spells",
+        "good spells",
+        "lawful spells",
+        "aligned spells",
+        "bonus spells"
+      ]
+    },
+    {
+      "id": "cleric_orisons",
+      "title": "Orisons (Cleric)",
+      "anchor_heading": "#### Orisons {#orisons}",
+      "description": "Clerics can prepare 0-level spells called orisons that are not expended when cast and may be used repeatedly.",
+      "keywords": [
+        "orisons",
+        "0-level spells",
+        "cantrips",
+        "unlimited casting",
+        "not expended"
+      ]
+    },
+    {
+      "id": "cleric_channel_energy_su",
+      "title": "Channel Energy (Su) (Cleric)",
+      "anchor_heading": "#### Channel Energy (Su) {#channel_energy_su}",
+      "description": "Clerics can release bursts of positive or negative energy in a 30-foot radius to heal or harm creatures, usable 3 + Charisma modifier times per day.",
+      "keywords": [
+        "channel energy",
+        "positive energy",
+        "negative energy",
+        "30-foot radius",
+        "burst",
+        "standard action",
+        "Will save",
+        "Charisma modifier",
+        "holy symbol",
+        "undead",
+        "living creatures",
+        "channel positive",
+        "channel negative",
+        "healing burst",
+        "damage burst"
+      ]
+    },
+    {
+      "id": "cleric_domains",
+      "title": "Domains (Cleric)",
+      "anchor_heading": "#### Domains {#domains}",
+      "description": "Clerics choose two domains from their deity's list, gaining domain powers and bonus domain spell slots for each spell level they can cast.",
+      "keywords": [
+        "domains",
+        "domain powers",
+        "domain spells",
+        "domain spell slot",
+        "alignment domains",
+        "Chaos domain",
+        "Evil domain",
+        "Good domain",
+        "Law domain",
+        "deity domains",
+        "bonus spells"
+      ]
+    },
+    {
+      "id": "cleric_spontaneous_casting",
+      "title": "Spontaneous Casting (Cleric)",
+      "anchor_heading": "#### Spontaneous Casting {#spontaneous_casting}",
+      "description": "Clerics can convert prepared spells into cure spells (good clerics) or inflict spells (evil clerics) of the same or lower level.",
+      "keywords": [
+        "spontaneous casting",
+        "cure spells",
+        "inflict spells",
+        "convert spells",
+        "lose prepared spell",
+        "spontaneous cure",
+        "spontaneous inflict"
+      ]
+    },
+    {
+      "id": "cleric_bonus_languages",
+      "title": "Bonus Languages (Cleric)",
+      "anchor_heading": "#### Bonus Languages {#bonus_languages}",
+      "description": "Clerics gain access to Celestial, Abyssal, and Infernal as bonus language options in addition to racial bonus languages.",
+      "keywords": [
+        "bonus languages",
+        "Celestial",
+        "Abyssal",
+        "Infernal",
+        "outsider languages"
+      ]
+    },
+    {
+      "id": "cleric_proxy_su",
+      "title": "Proxy (Su) (Cleric)",
+      "anchor_heading": "#### Proxy (Su) {#proxy_su}",
+      "description": "At 20th level, clerics gain direct connection to their deity, knowing instinctively if their deity would approve of actions and can select an additional domain.",
+      "keywords": [
+        "proxy",
+        "20th level",
+        "capstone",
+        "deity connection",
+        "divine approval",
+        "additional domain",
+        "deity communication"
       ]
     }
-  ],
-  "category": "Classes"
+  ]
 }

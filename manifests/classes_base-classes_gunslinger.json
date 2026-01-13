@@ -2,51 +2,256 @@
   "file": "gunslinger.md",
   "source_path": "https://www.d20pfsrd.com/classes/base-classes/gunslinger/",
   "source_name": "Class: Gunslinger",
+  "category": "Classes",
+  "toc_content": "Contents\n+ [Class Skills](#class_skills)\n+ [Class Features](#class_features)\n  - [Weapon and Armor Proficiency](#weapon_and_armor_proficiency)\n  - [Gunsmith](#gunsmith)\n  - [Grit (Ex)](#grit_ex)\n  - [Deeds](#deeds)\n  - [Deeds of Renown](#deeds_of_renown)\n+ [Daring Act & Dares](#daring_act_dares)\n  - [Daring Act](#daring_act)\n  - [Dares](#dares)\n  - [Nimble (Ex)](#nimble_ex)\n  - [Bonus Feats](#bonus_feats)\n  - [Gun Training (Ex)](#gun_training_ex)\n  - [True Grit (Ex)](#true_grit_ex)\n+ [Alternative Capstone Ability](#alternative_capstone_ability)\n  - [Personal Armory (Ex)](#personal_armory_ex)\n* [Favored Class Bonuses](#favored_class_bonuses)\n* [Archetypes & Alternate Class Features](#archetypes_alternate_class_features)",
   "sections": [
     {
-      "id": "gunslinger",
-      "title": "Gunslinger",
+      "id": "gunslinger_overview",
+      "title": "Gunslinger (Class Overview)",
       "anchor_heading": "# Gunslinger",
-      "includes_subheadings": [
-        "### Class Skills",
-        "### Class Features",
-        "#### Weapon and Armor Proficiency",
-        "#### Gunsmith",
-        "#### Grit (Ex)",
-        "#### Deeds",
-        "#### Deeds of Renown",
-        "### Daring Act & Dares",
-        "#### Daring Act",
-        "#### Dares",
-        "#### Nimble (Ex)",
-        "#### Bonus Feats",
-        "#### Gun Training (Ex)",
-        "#### True Grit (Ex)",
-        "### Alternative Capstone Ability",
-        "#### Personal Armory (Ex)",
-        "## Favored Class Bonuses",
-        "## Archetypes & Alternate Class Features"
-      ],
-      "description": "Complete rules for the Gunslinger base class, covering grit, deeds, gun training, and firearm-based combat abilities.",
+      "end_at_heading": "### Class Skills {#class_skills}",
+      "description": "Overview of the Gunslinger class including role, alignment, hit die, and starting wealth.",
       "keywords": [
         "gunslinger",
-        "grit",
-        "deeds",
-        "firearms",
-        "gun training",
+        "class",
+        "hit die",
+        "role",
+        "alignment"
+      ]
+    },
+    {
+      "id": "gunslinger_weapon_and_armor_proficiency",
+      "title": "Weapon and Armor Proficiency (Gunslinger)",
+      "anchor_heading": "#### Weapon and Armor Proficiency {#weapon_and_armor_proficiency}",
+      "description": "Gunslingers gain proficiency with all simple and martial weapons, all firearms, and light armor.",
+      "keywords": [
+        "weapon proficiency",
+        "armor proficiency",
+        "firearm proficiency",
+        "simple weapons",
+        "martial weapons",
+        "light armor",
+        "gunslinger proficiencies"
+      ]
+    },
+    {
+      "id": "gunslinger_gunsmith",
+      "title": "Gunsmith (Gunslinger)",
+      "anchor_heading": "#### Gunsmith {#gunsmith}",
+      "description": "At 1st level, the gunslinger receives a battered starting firearm that only she can use properly and gains Gunsmithing as a bonus feat.",
+      "keywords": [
         "gunsmith",
-        "nimble",
+        "starting weapon",
+        "battered condition",
+        "broken condition",
+        "gunsmithing feat",
+        "bonus feat",
+        "blunderbuss",
+        "musket",
+        "pistol",
+        "scrap value"
+      ]
+    },
+    {
+      "id": "gunslinger_grit_ex",
+      "title": "Grit (Ex) (Gunslinger)",
+      "anchor_heading": "#### Grit (Ex) {#grit_ex}",
+      "description": "Grit is a fluctuating resource equal to Wisdom modifier that powers deeds, regained through critical hits and killing blows with firearms.",
+      "keywords": [
+        "grit points",
+        "wisdom modifier",
+        "critical hit",
+        "killing blow",
+        "firearm attack",
+        "heat of combat",
+        "helpless",
+        "unaware",
+        "hit dice",
+        "panache",
+        "luck",
+        "combined pool"
+      ]
+    },
+    {
+      "id": "gunslinger_deeds",
+      "title": "Deeds (Gunslinger)",
+      "anchor_heading": "#### Deeds {#deeds}",
+      "description": "Gunslingers spend grit points to perform special combat maneuvers and abilities called deeds, with more powerful deeds unlocked at higher levels.",
+      "keywords": [
         "deadeye",
+        "gunslinger's dodge",
         "quick clear",
+        "gunslinger initiative",
         "pistol-whip",
+        "utility shot",
         "dead shot",
+        "startling shot",
         "targeting",
+        "bleeding wound",
+        "expert loading",
         "lightning reload",
-        "true grit",
+        "evasive",
+        "menacing shot",
+        "slinger's luck",
+        "cheat death",
+        "death's shot",
+        "stunning shot",
+        "touch AC",
+        "range increment",
+        "immediate action",
+        "full-round action",
+        "standard action",
+        "swift action",
+        "free action",
+        "broken condition",
+        "misfire",
+        "initiative check",
+        "combat maneuver",
+        "prone",
+        "blast lock",
+        "scoot unattended object",
+        "stop bleeding",
+        "flat-footed",
+        "confused",
+        "bleed damage",
+        "ability bleed",
+        "fortitude save",
+        "fear effect",
+        "skill check reroll",
+        "saving throw reroll"
+      ]
+    },
+    {
+      "id": "gunslinger_deeds_of_renown",
+      "title": "Deeds of Renown (Gunslinger)",
+      "anchor_heading": "#### Deeds of Renown {#deeds_of_renown}",
+      "description": "Optional spectacular deeds that replace standard deeds, including Thundering Shot, Gruesome Parry, and Lethal Patience.",
+      "keywords": [
+        "thundering shot",
+        "gruesome parry",
+        "lethal patience",
+        "deafened",
+        "fortitude save",
+        "readied action",
+        "dodge bonus",
+        "critical threat",
+        "full-round action",
+        "standard action",
+        "renowned deed"
+      ]
+    },
+    {
+      "id": "gunslinger_daring_act",
+      "title": "Daring Act (Gunslinger)",
+      "anchor_heading": "#### Daring Act {#daring_act}",
+      "description": "Gunslingers can regain 1 grit point by performing risky, dramatic acts with low probability of success as determined by the GM.",
+      "keywords": [
         "daring act",
-        "dares"
+        "regain grit",
+        "risky action",
+        "dramatic action",
+        "GM discretion",
+        "low probability",
+        "grit recovery"
+      ]
+    },
+    {
+      "id": "gunslinger_dares",
+      "title": "Dares (Gunslinger)",
+      "anchor_heading": "#### Dares {#dares}",
+      "description": "Special abilities that activate when grit reaches 0, providing benefits and new ways to regain grit points, chosen in place of bonus feats.",
+      "keywords": [
+        "dares",
+        "zero grit",
+        "desperate evasion",
+        "frantically nimble",
+        "out for blood",
+        "run like hell",
+        "evasion",
+        "dodge bonus",
+        "critical threat range",
+        "speed increase",
+        "reflex save",
+        "bonus feat replacement"
+      ]
+    },
+    {
+      "id": "gunslinger_nimble_ex",
+      "title": "Nimble (Ex) (Gunslinger)",
+      "anchor_heading": "#### Nimble (Ex) {#nimble_ex}",
+      "description": "Starting at 2nd level, gunslingers gain an increasing dodge bonus to AC while wearing light or no armor, scaling with level.",
+      "keywords": [
+        "nimble",
+        "dodge bonus",
+        "light armor",
+        "no armor",
+        "dexterity bonus",
+        "AC bonus",
+        "level scaling"
+      ]
+    },
+    {
+      "id": "gunslinger_bonus_feats",
+      "title": "Bonus Feats (Gunslinger)",
+      "anchor_heading": "#### Bonus Feats {#bonus_feats}",
+      "description": "At 4th level and every four levels thereafter, gunslingers gain bonus combat or grit feats.",
+      "keywords": [
+        "bonus feats",
+        "combat feats",
+        "grit feats",
+        "4th level",
+        "every four levels"
+      ]
+    },
+    {
+      "id": "gunslinger_gun_training_ex",
+      "title": "Gun Training (Ex) (Gunslinger)",
+      "anchor_heading": "#### Gun Training (Ex) {#gun_training_ex}",
+      "description": "Starting at 5th level, gunslingers select specific firearm types to gain Dexterity modifier damage bonus and reduced misfire penalties.",
+      "keywords": [
+        "gun training",
+        "firearm type",
+        "dexterity modifier",
+        "damage bonus",
+        "misfire value",
+        "axe musket",
+        "blunderbuss",
+        "musket",
+        "pistol",
+        "5th level",
+        "9th level",
+        "13th level",
+        "17th level"
+      ]
+    },
+    {
+      "id": "gunslinger_true_grit_ex",
+      "title": "True Grit (Ex) (Gunslinger)",
+      "anchor_heading": "#### True Grit (Ex) {#true_grit_ex}",
+      "description": "At 20th level, the gunslinger can perform two chosen deeds for 1 fewer grit point (minimum 0).",
+      "keywords": [
+        "true grit",
+        "20th level",
+        "deed cost reduction",
+        "grit point reduction",
+        "minimum cost",
+        "capstone ability"
+      ]
+    },
+    {
+      "id": "gunslinger_personal_armory_ex",
+      "title": "Personal Armory (Ex) (Gunslinger)",
+      "anchor_heading": "#### Personal Armory (Ex) {#personal_armory_ex}",
+      "description": "At 20th level, gun training applies to all firearms and the damage bonus increases to 1-1/2 times Dexterity modifier.",
+      "keywords": [
+        "personal armory",
+        "all firearms",
+        "gun training",
+        "damage bonus increase",
+        "dexterity modifier",
+        "20th level",
+        "capstone ability"
       ]
     }
-  ],
-  "category": "Classes"
+  ]
 }

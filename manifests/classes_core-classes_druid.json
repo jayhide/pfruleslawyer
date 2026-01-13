@@ -2,56 +2,298 @@
   "file": "druid.md",
   "source_path": "https://www.d20pfsrd.com/classes/core-classes/druid/",
   "source_name": "Class: Druid",
+  "category": "Classes",
+  "toc_content": "Contents\n+ [Class Skills](#class_skills)\n+ [Class Features](#class_features)\n  - [Weapon and Armor Proficiency](#weapon_and_armor_proficiency)\n  - [Spells](#spells)\n  - [Spontaneous Casting](#spontaneous_casting)\n  - [Chaotic, Evil, Good, and Lawful Spells](#chaotic_evil_good_and_lawful_spells)\n  - [Orisons (Sp)](#orisons_sp)\n  - [Bonus Languages](#bonus_languages)\n  - [Nature Bond (Ex)](#nature_bond_ex)\n  - [Nature Sense (Ex)](#nature_sense_ex)\n  - [Wild Empathy (Ex)](#wild_empathy_ex)\n  - [Woodland Stride (Ex)](#woodland_stride_ex)\n  - [Trackless Step (Ex)](#trackless_step_ex)\n  - [Resist Nature\u2019s Lure (Ex)](#resist_nature8217s_lure_ex)\n  - [Wild Shape (Su)](#wild_shape_su)\n  - [Venom Immunity (Ex)](#venom_immunity_ex)\n  - [A Thousand Faces (Su)](#a_thousand_faces_su)\n  - [Timeless Body (Ex)](#timeless_body_ex)\n+ [Alternative Capstone Ability](#alternative_capstone_ability)\n  - [Home Ground (Su)](#home_ground_su)\n* [Ex-Druids](#ex-druids)\n* [Favored Class Bonuses](#favored_class_bonuses)\n* [Archetypes & Alternate Class Features](#archetypes_alternate_class_features)",
   "sections": [
     {
-      "id": "druid",
-      "title": "Druid",
+      "id": "druid_overview",
+      "title": "Druid (Class Overview)",
       "anchor_heading": "# Druid",
-      "includes_subheadings": [
-        "### Class Skills",
-        "#### Weapon and Armor Proficiency",
-        "#### Spells",
-        "#### Spontaneous Casting",
-        "#### Chaotic, Evil, Good, and Lawful Spells",
-        "#### Orisons (Sp)",
-        "#### Bonus Languages",
-        "#### Nature Bond (Ex)",
-        "##### Druidic Herbalism Nature Bond Variant (Optional)",
-        "#### Nature Sense (Ex)",
-        "#### Wild Empathy (Ex)",
-        "#### Woodland Stride (Ex)",
-        "#### Trackless Step (Ex)",
-        "#### Resist Nature's Lure (Ex)",
-        "#### Wild Shape (Su)",
-        "#### Venom Immunity (Ex)",
-        "#### A Thousand Faces (Su)",
-        "#### Timeless Body (Ex)",
-        "### Alternative Capstone Ability",
-        "#### Home Ground (Su)"
-      ],
-      "description": "Complete rules for the Druid class, including class features like wild shape and nature bond, spells, animal companions, archetypes, and favored class bonuses.",
+      "end_at_heading": "### Class Skills {#class_skills}",
+      "description": "Overview of the Druid class including role, alignment, hit die, and starting wealth.",
       "keywords": [
         "druid",
-        "wild shape",
+        "class",
+        "hit die",
+        "role",
+        "alignment"
+      ]
+    },
+    {
+      "id": "druid_weapon_and_armor_proficiency",
+      "title": "Weapon and Armor Proficiency (Druid)",
+      "anchor_heading": "#### Weapon and Armor Proficiency {#weapon_and_armor_proficiency}",
+      "description": "Druids are proficient with simple weapons like clubs and scimitars, light and medium non-metal armor, and wooden shields, but lose all class abilities for 24 hours if they wear prohibited metal armor or shields.",
+      "keywords": [
+        "weapon proficiency",
+        "armor proficiency",
+        "metal armor prohibition",
+        "wooden shields",
+        "scimitar",
+        "quarterstaff",
+        "natural attacks",
+        "wild shape proficiency",
+        "ironwood armor",
+        "prohibited armor penalty",
+        "druid spellcasting restriction"
+      ]
+    },
+    {
+      "id": "druid_spells",
+      "title": "Spells (Druid)",
+      "anchor_heading": "#### Spells {#spells}",
+      "description": "Druids cast divine spells from the druid spell list, preparing them during daily meditation and using Wisdom as their spellcasting ability score.",
+      "keywords": [
+        "divine spells",
+        "druid spell list",
+        "spell preparation",
+        "daily meditation",
+        "wisdom spellcasting",
+        "spell save DC",
+        "bonus spells",
+        "alignment spell restrictions",
+        "spells per day",
+        "spell level requirements"
+      ]
+    },
+    {
+      "id": "druid_spontaneous_casting",
+      "title": "Spontaneous Casting (Druid)",
+      "anchor_heading": "#### Spontaneous Casting {#spontaneous_casting}",
+      "description": "Druids can spontaneously convert prepared spells into summon nature's ally spells of the same or lower level.",
+      "keywords": [
+        "spontaneous casting",
+        "summon nature's ally",
+        "convert prepared spells",
+        "lose prepared spell",
+        "spontaneous summoning",
+        "summon conversion"
+      ]
+    },
+    {
+      "id": "druid_chaotic_evil_good_and_lawful_spells",
+      "title": "Chaotic, Evil, Good, and Lawful Spells (Druid)",
+      "anchor_heading": "#### Chaotic, Evil, Good, and Lawful Spells {#chaotic_evil_good_and_lawful_spells}",
+      "description": "Druids cannot cast spells with alignment descriptors that oppose their own alignment or their deity's alignment.",
+      "keywords": [
+        "alignment spell restrictions",
+        "chaos descriptor",
+        "evil descriptor",
+        "good descriptor",
+        "law descriptor",
+        "opposed alignment",
+        "deity alignment",
+        "spell descriptors"
+      ]
+    },
+    {
+      "id": "druid_orisons_sp",
+      "title": "Orisons (Sp) (Druid)",
+      "anchor_heading": "#### Orisons (Sp) {#orisons_sp}",
+      "description": "Druids can prepare and cast 0-level spells (orisons) that are not expended when cast and can be used repeatedly throughout the day.",
+      "keywords": [
+        "orisons",
+        "0-level spells",
+        "cantrips",
+        "unlimited casting",
+        "not expended",
+        "spell-like ability",
+        "daily orisons"
+      ]
+    },
+    {
+      "id": "druid_bonus_languages",
+      "title": "Bonus Languages (Druid)",
+      "anchor_heading": "#### Bonus Languages {#bonus_languages}",
+      "description": "Druids automatically know Druidic (a secret language) and can choose Sylvan as a bonus language option.",
+      "keywords": [
+        "bonus languages",
+        "Druidic language",
+        "secret language",
+        "Sylvan language",
+        "woodland creatures",
+        "druidic alphabet",
+        "forbidden to teach",
+        "free language"
+      ]
+    },
+    {
+      "id": "druid_nature_bond_ex",
+      "title": "Nature Bond (Ex) (Druid)",
+      "anchor_heading": "#### Nature Bond (Ex) {#nature_bond_ex}",
+      "description": "At 1st level, druids choose between gaining a cleric domain (Air, Animal, Earth, Fire, Plant, Water, Weather) or an animal companion that advances with their level.",
+      "keywords": [
         "nature bond",
         "animal companion",
-        "orisons",
-        "spontaneous casting",
-        "wild empathy",
-        "woodland stride",
-        "trackless step",
-        "resist nature's lure",
-        "venom immunity",
-        "thousand faces",
-        "timeless body",
-        "druidic",
-        "nature sense",
-        "ex-druids",
-        "druid archetypes",
+        "cleric domains",
+        "domain spells",
+        "effective cleric level",
+        "animal choices",
+        "companion advancement",
+        "domain spell slots",
         "druidic herbalism",
-        "home ground"
+        "brew potion equivalent"
+      ]
+    },
+    {
+      "id": "druid_nature_sense_ex",
+      "title": "Nature Sense (Ex) (Druid)",
+      "anchor_heading": "#### Nature Sense (Ex) {#nature_sense_ex}",
+      "description": "Druids gain a +2 bonus on Knowledge (nature) and Survival checks due to their connection with the natural world.",
+      "keywords": [
+        "nature sense",
+        "Knowledge nature bonus",
+        "Survival bonus",
+        "+2 bonus",
+        "natural world connection"
+      ]
+    },
+    {
+      "id": "druid_wild_empathy_ex",
+      "title": "Wild Empathy (Ex) (Druid)",
+      "anchor_heading": "#### Wild Empathy (Ex) {#wild_empathy_ex}",
+      "description": "Druids can improve animal attitudes using a Diplomacy-like check with their druid level and Charisma modifier, affecting animals and low-Intelligence magical beasts.",
+      "keywords": [
+        "wild empathy",
+        "improve animal attitude",
+        "diplomacy check",
+        "charisma modifier",
+        "druid level",
+        "animal influence",
+        "magical beast",
+        "30 feet range",
+        "1 minute duration",
+        "unfriendly animals"
+      ]
+    },
+    {
+      "id": "druid_woodland_stride_ex",
+      "title": "Woodland Stride (Ex) (Druid)",
+      "anchor_heading": "#### Woodland Stride (Ex) {#woodland_stride_ex}",
+      "description": "Starting at 2nd level, druids move through natural undergrowth at normal speed without taking damage, though magically manipulated terrain still affects them.",
+      "keywords": [
+        "woodland stride",
+        "undergrowth movement",
+        "normal speed",
+        "natural thorns",
+        "briars",
+        "overgrown areas",
+        "no damage",
+        "magical manipulation exception"
+      ]
+    },
+    {
+      "id": "druid_trackless_step_ex",
+      "title": "Trackless Step (Ex) (Druid)",
+      "anchor_heading": "#### Trackless Step (Ex) {#trackless_step_ex}",
+      "description": "At 3rd level, druids leave no trail in natural surroundings and cannot be tracked, though they can choose to leave a trail.",
+      "keywords": [
+        "trackless step",
+        "no trail",
+        "cannot be tracked",
+        "natural surroundings",
+        "choose to leave trail",
+        "tracking immunity"
+      ]
+    },
+    {
+      "id": "druid_resist_nature8217s_lure_ex",
+      "title": "Resist Nature\u2019s Lure (Ex) (Druid)",
+      "anchor_heading": "#### Resist Nature\u2019s Lure (Ex) {#resist_nature8217s_lure_ex}",
+      "description": "At 4th level, druids gain a +4 bonus on saving throws against fey abilities and spells that target plants like blight and entangle.",
+      "keywords": [
+        "resist nature's lure",
+        "fey abilities",
+        "+4 saving throw",
+        "spell-like abilities",
+        "supernatural abilities",
+        "plant targeting spells",
+        "blight",
+        "entangle",
+        "spike growth",
+        "warp wood"
+      ]
+    },
+    {
+      "id": "druid_wild_shape_su",
+      "title": "Wild Shape (Su) (Druid)",
+      "anchor_heading": "#### Wild Shape (Su) {#wild_shape_su}",
+      "description": "Starting at 4th level, druids can transform into animals, elementals, and plants for 1 hour per level, with forms and sizes improving at higher levels and eventually allowing at-will use at 20th level.",
+      "keywords": [
+        "wild shape",
+        "animal form",
+        "beast shape",
+        "elemental body",
+        "plant shape",
+        "standard action",
+        "1 hour per level",
+        "daily uses",
+        "familiar animals",
+        "size categories",
+        "at will",
+        "lose speech",
+        "animal communication"
+      ]
+    },
+    {
+      "id": "druid_venom_immunity_ex",
+      "title": "Venom Immunity (Ex) (Druid)",
+      "anchor_heading": "#### Venom Immunity (Ex) {#venom_immunity_ex}",
+      "description": "At 9th level, druids become completely immune to all poisons regardless of source or delivery method.",
+      "keywords": [
+        "venom immunity",
+        "poison immunity",
+        "immunity to all poisons",
+        "9th level ability"
+      ]
+    },
+    {
+      "id": "druid_a_thousand_faces_su",
+      "title": "A Thousand Faces (Su) (Druid)",
+      "anchor_heading": "#### A Thousand Faces (Su) {#a_thousand_faces_su}",
+      "description": "At 13th level, druids can change their appearance at will as the alter self spell, but only while in their normal humanoid form.",
+      "keywords": [
+        "thousand faces",
+        "alter self",
+        "change appearance",
+        "at will",
+        "normal form only",
+        "appearance alteration",
+        "humanoid form"
+      ]
+    },
+    {
+      "id": "druid_timeless_body_ex",
+      "title": "Timeless Body (Ex) (Druid)",
+      "anchor_heading": "#### Timeless Body (Ex) {#timeless_body_ex}",
+      "description": "At 15th level, druids stop taking aging penalties and cannot be magically aged, though they still receive aging bonuses and die naturally.",
+      "keywords": [
+        "timeless body",
+        "aging penalties",
+        "magical aging immunity",
+        "aging bonuses",
+        "natural death",
+        "ability score penalties",
+        "15th level"
+      ]
+    },
+    {
+      "id": "druid_home_ground_su",
+      "title": "Home Ground (Su) (Druid)",
+      "anchor_heading": "#### Home Ground (Su) {#home_ground_su}",
+      "description": "At 20th level, druids select a specific area where they are constantly under commune with nature effects and gain a +4 caster level bonus.",
+      "keywords": [
+        "home ground",
+        "commune with nature",
+        "specific area",
+        "caster level bonus",
+        "+4 caster level",
+        "campaign area",
+        "forest",
+        "mountain",
+        "sea",
+        "daily preparation"
       ]
     }
-  ],
-  "category": "Classes"
+  ]
 }

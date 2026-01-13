@@ -2,57 +2,282 @@
   "file": "cavalier.md",
   "source_path": "https://www.d20pfsrd.com/classes/base-classes/cavalier/",
   "source_name": "Class: Cavalier",
+  "category": "Classes",
+  "toc_content": "Contents\n+ [Class Skills](#class_skills)\n+ [Class Features](#class_features)\n  - [Weapon and Armor Proficiency](#weapon_and_armor_proficiency)\n  - [Challenge (Ex)](#challenge_ex)\n  - [Mount (Ex)](#mount_ex)\n+ [Animal Companion Feats](#animal_companion_feats)\n+ [Animal Companion Archetypes](#animal_companion_archetypes)\n  - [Order (Ex)](#order_ex)\n  - [Tactician (Ex)](#tactician_ex)\n  - [Cavalier\u2019s Charge (Ex)](#cavalier8217s_charge_ex)\n  - [Expert Trainer (Ex)](#expert_trainer_ex)\n  - [Banner (Ex)](#banner_ex)\n  - [Bonus Feat](#bonus_feat)\n  - [Greater Tactician (Ex)](#greater_tactician_ex)\n  - [Mighty Charge (Ex)](#mighty_charge_ex)\n  - [Demanding Challenge (Ex)](#demanding_challenge_ex)\n  - [Greater Banner (Ex)](#greater_banner_ex)\n  - [Master Tactician (Ex)](#master_tactician_ex)\n  - [Supreme Charge (Ex)](#supreme_charge_ex)\n+ [Alternative Capstone Ability](#alternative_capstone_ability)\n  - [Tactical Genius (Ex)](#tactical_genius_ex)\n* [Favored Class Bonuses](#favored_class_bonuses)\n* [Archetypes & Alternate Class Features](#archetypes_alternate_class_features)\n  + [Archetypes & Other Class Options](#archetypes_other_class_options)",
   "sections": [
     {
-      "id": "cavalier",
-      "title": "Cavalier",
+      "id": "cavalier_overview",
+      "title": "Cavalier (Class Overview)",
       "anchor_heading": "# Cavalier",
-      "includes_subheadings": [
-        "### Class Skills",
-        "#### Weapon and Armor Proficiency",
-        "#### Challenge (Ex)",
-        "#### Mount (Ex)",
-        "#### Order (Ex)",
-        "#### Tactician (Ex)",
-        "#### Cavalier's Charge (Ex)",
-        "#### Expert Trainer (Ex)",
-        "#### Banner (Ex)",
-        "##### Alternate Banner Options",
-        "#### Bonus Feat",
-        "#### Greater Tactician (Ex)",
-        "#### Mighty Charge (Ex)",
-        "#### Demanding Challenge (Ex)",
-        "#### Greater Banner (Ex)",
-        "#### Master Tactician (Ex)",
-        "#### Supreme Charge (Ex)",
-        "#### Tactical Genius (Ex)",
-        "### Animal Companion Feats",
-        "### Animal Companion Archetypes",
-        "### Alternative Capstone Ability",
-        "### Archetypes & Other Class Options"
-      ],
-      "description": "Complete class rules for the Cavalier, a mounted warrior class focused on challenges, mounts, teamwork, and charge attacks with their distinctive orders and banners.",
+      "end_at_heading": "### Class Skills {#class_skills}",
+      "description": "Overview of the Cavalier class including role, alignment, hit die, and starting wealth.",
       "keywords": [
         "cavalier",
+        "class",
+        "hit die",
+        "role",
+        "alignment"
+      ]
+    },
+    {
+      "id": "cavalier_weapon_and_armor_proficiency",
+      "title": "Weapon and Armor Proficiency (Cavalier)",
+      "anchor_heading": "#### Weapon and Armor Proficiency {#weapon_and_armor_proficiency}",
+      "description": "Cavaliers are proficient with all simple and martial weapons, all types of armor (heavy, light, and medium), and shields except tower shields.",
+      "keywords": [
+        "weapon proficiency",
+        "armor proficiency",
+        "simple weapons",
+        "martial weapons",
+        "heavy armor",
+        "medium armor",
+        "light armor",
+        "shields",
+        "tower shields"
+      ]
+    },
+    {
+      "id": "cavalier_challenge_ex",
+      "title": "Challenge ([Ex](https://www.d20pfsrd.com/magic#TOC-Extraordinary-Abilities-Ex-)) (Cavalier)",
+      "anchor_heading": "#### Challenge ([Ex](https://www.d20pfsrd.com/magic#TOC-Extraordinary-Abilities-Ex-)) {#challenge_ex}",
+      "description": "As a swift action, the cavalier can challenge a foe to gain bonus damage equal to cavalier level on melee attacks against that target, but takes -2 AC penalty except against the challenged target.",
+      "keywords": [
         "challenge",
+        "swift action",
+        "bonus damage",
+        "melee attacks",
+        "AC penalty",
+        "concentration",
+        "target",
+        "within sight",
+        "order ability"
+      ]
+    },
+    {
+      "id": "cavalier_mount_ex",
+      "title": "Mount ([Ex](https://www.d20pfsrd.com/magic#TOC-Extraordinary-Abilities-Ex-)) (Cavalier)",
+      "anchor_heading": "#### Mount ([Ex](https://www.d20pfsrd.com/magic#TOC-Extraordinary-Abilities-Ex-)) {#mount_ex}",
+      "description": "The cavalier gains a loyal mount that functions as a druid's animal companion using cavalier level as effective druid level, with special training and armor proficiency bonuses.",
+      "keywords": [
         "mount",
-        "tactician",
-        "banner",
-        "cavalier's charge",
+        "animal companion",
+        "druid level",
+        "effective druid level",
+        "combat trained",
+        "Light Armor Proficiency",
+        "Ride checks",
+        "armor check penalty",
+        "bond",
+        "link",
+        "evasion",
+        "devotion",
+        "improved evasion"
+      ]
+    },
+    {
+      "id": "cavalier_order_ex",
+      "title": "Order ([Ex](https://www.d20pfsrd.com/magic#TOC-Extraordinary-Abilities-Ex-)) (Cavalier)",
+      "anchor_heading": "#### Order ([Ex](https://www.d20pfsrd.com/magic#TOC-Extraordinary-Abilities-Ex-)) {#order_ex}",
+      "description": "The cavalier must pledge to a specific order at 1st level, gaining bonuses, class skills, and special abilities, but must follow the order's edicts or lose challenge benefits for 24 hours.",
+      "keywords": [
         "order",
-        "expert trainer",
-        "greater tactician",
-        "mighty charge",
-        "demanding challenge",
-        "greater banner",
-        "master tactician",
-        "supreme charge",
+        "pledge",
+        "edicts",
+        "class skills",
+        "challenge ability",
+        "bonuses",
+        "violation",
+        "change order",
+        "dedicate",
+        "new cause"
+      ]
+    },
+    {
+      "id": "cavalier_tactician_ex",
+      "title": "Tactician ([Ex](https://www.d20pfsrd.com/magic#TOC-Extraordinary-Abilities-Ex-)) (Cavalier)",
+      "anchor_heading": "#### Tactician ([Ex](https://www.d20pfsrd.com/magic#TOC-Extraordinary-Abilities-Ex-)) {#tactician_ex}",
+      "description": "The cavalier gains a bonus teamwork feat and can grant it to allies within 30 feet as a standard action for 3 rounds plus 1 round per 2 levels.",
+      "keywords": [
+        "tactician",
         "teamwork feat",
-        "mounted combat",
+        "bonus feat",
+        "standard action",
+        "allies",
+        "30 feet",
+        "see and hear",
+        "prerequisites",
+        "grant feat"
+      ]
+    },
+    {
+      "id": "cavalier_cavalier8217s_charge_ex",
+      "title": "Cavalier\u2019s Charge ([Ex](https://www.d20pfsrd.com/magic#TOC-Extraordinary-Abilities-Ex-)) (Cavalier)",
+      "anchor_heading": "#### Cavalier\u2019s Charge ([Ex](https://www.d20pfsrd.com/magic#TOC-Extraordinary-Abilities-Ex-)) {#cavalier8217s_charge_ex}",
+      "description": "While mounted, the cavalier gains +4 bonus on charge attack rolls instead of +2 and suffers no AC penalty after charging.",
+      "keywords": [
+        "cavalier's charge",
+        "mounted",
         "charge attack",
-        "animal companion"
+        "+4 bonus",
+        "attack rolls",
+        "AC penalty",
+        "mounted charge"
+      ]
+    },
+    {
+      "id": "cavalier_expert_trainer_ex",
+      "title": "Expert Trainer ([Ex](https://www.d20pfsrd.com/magic#TOC-Extraordinary-Abilities-Ex-)) (Cavalier)",
+      "anchor_heading": "#### Expert Trainer ([Ex](https://www.d20pfsrd.com/magic#TOC-Extraordinary-Abilities-Ex-)) {#expert_trainer_ex}",
+      "description": "The cavalier gains a bonus equal to half his level on Handle Animal checks for mounts and can reduce training time by increasing DC.",
+      "keywords": [
+        "expert trainer",
+        "Handle Animal",
+        "mount training",
+        "bonus",
+        "reduce time",
+        "DC increase",
+        "multiple mounts",
+        "train mount"
+      ]
+    },
+    {
+      "id": "cavalier_banner_ex",
+      "title": "Banner ([Ex](https://www.d20pfsrd.com/magic#TOC-Extraordinary-Abilities-Ex-)) (Cavalier)",
+      "anchor_heading": "#### Banner ([Ex](https://www.d20pfsrd.com/magic#TOC-Extraordinary-Abilities-Ex-)) {#banner_ex}",
+      "description": "The cavalier's visible banner grants allies within 60 feet a +2 morale bonus on saves against fear and +1 morale bonus on charge attack rolls, with bonuses increasing every 5 levels.",
+      "keywords": [
+        "banner",
+        "clearly visible",
+        "60 feet",
+        "morale bonus",
+        "saving throws",
+        "fear",
+        "charge attack rolls",
+        "Small or larger",
+        "carried",
+        "displayed"
+      ]
+    },
+    {
+      "id": "cavalier_bonus_feat",
+      "title": "Bonus Feat (Cavalier)",
+      "anchor_heading": "#### Bonus Feat {#bonus_feat}",
+      "description": "The cavalier gains a bonus combat feat at 6th level and every six levels thereafter.",
+      "keywords": [
+        "bonus feat",
+        "combat feats",
+        "6th level",
+        "every six levels",
+        "prerequisites"
+      ]
+    },
+    {
+      "id": "cavalier_greater_tactician_ex",
+      "title": "Greater Tactician ([Ex](https://www.d20pfsrd.com/magic#TOC-Extraordinary-Abilities-Ex-)) (Cavalier)",
+      "anchor_heading": "#### Greater Tactician ([Ex](https://www.d20pfsrd.com/magic#TOC-Extraordinary-Abilities-Ex-)) {#greater_tactician_ex}",
+      "description": "The cavalier gains an additional teamwork feat and can use the tactician ability as a swift action instead of standard action.",
+      "keywords": [
+        "greater tactician",
+        "additional teamwork feat",
+        "tactician ability",
+        "swift action",
+        "bonus feat"
+      ]
+    },
+    {
+      "id": "cavalier_mighty_charge_ex",
+      "title": "Mighty Charge ([Ex](https://www.d20pfsrd.com/magic#TOC-Extraordinary-Abilities-Ex-)) (Cavalier)",
+      "anchor_heading": "#### Mighty Charge ([Ex](https://www.d20pfsrd.com/magic#TOC-Extraordinary-Abilities-Ex-)) {#mighty_charge_ex}",
+      "description": "While mounted and charging, the cavalier doubles weapon threat range and can make a free combat maneuver if the charge attack succeeds.",
+      "keywords": [
+        "mighty charge",
+        "mounted",
+        "charge attack",
+        "double threat range",
+        "free combat maneuver",
+        "bull rush",
+        "disarm",
+        "sunder",
+        "trip",
+        "no attack of opportunity"
+      ]
+    },
+    {
+      "id": "cavalier_demanding_challenge_ex",
+      "title": "Demanding Challenge ([Ex](https://www.d20pfsrd.com/magic#TOC-Extraordinary-Abilities-Ex-)) (Cavalier)",
+      "anchor_heading": "#### Demanding Challenge ([Ex](https://www.d20pfsrd.com/magic#TOC-Extraordinary-Abilities-Ex-)) {#demanding_challenge_ex}",
+      "description": "The cavalier's challenge target takes a -2 AC penalty against attacks from anyone other than the cavalier while within the cavalier's threatened area.",
+      "keywords": [
+        "demanding challenge",
+        "target",
+        "threatened area",
+        "-2 AC penalty",
+        "attacks from others",
+        "challenge target"
+      ]
+    },
+    {
+      "id": "cavalier_greater_banner_ex",
+      "title": "Greater Banner ([Ex](https://www.d20pfsrd.com/magic#TOC-Extraordinary-Abilities-Ex-)) (Cavalier)",
+      "anchor_heading": "#### Greater Banner ([Ex](https://www.d20pfsrd.com/magic#TOC-Extraordinary-Abilities-Ex-)) {#greater_banner_ex}",
+      "description": "The banner grants +2 morale bonus on saves against charm and compulsion effects, and the cavalier can wave it to grant allies additional saves against ongoing effects.",
+      "keywords": [
+        "greater banner",
+        "charm and compulsion",
+        "morale bonus",
+        "saving throws",
+        "wave banner",
+        "additional saving throw",
+        "standard action",
+        "original DC",
+        "once per day"
+      ]
+    },
+    {
+      "id": "cavalier_master_tactician_ex",
+      "title": "Master Tactician ([Ex](https://www.d20pfsrd.com/magic#TOC-Extraordinary-Abilities-Ex-)) (Cavalier)",
+      "anchor_heading": "#### Master Tactician ([Ex](https://www.d20pfsrd.com/magic#TOC-Extraordinary-Abilities-Ex-)) {#master_tactician_ex}",
+      "description": "The cavalier gains another teamwork feat and can grant any two of his known teamwork feats when using the tactician ability.",
+      "keywords": [
+        "master tactician",
+        "additional teamwork feat",
+        "grant two feats",
+        "tactician ability",
+        "any teamwork feats",
+        "known feats"
+      ]
+    },
+    {
+      "id": "cavalier_supreme_charge_ex",
+      "title": "Supreme Charge ([Ex](https://www.d20pfsrd.com/magic#TOC-Extraordinary-Abilities-Ex-)) (Cavalier)",
+      "anchor_heading": "#### Supreme Charge ([Ex](https://www.d20pfsrd.com/magic#TOC-Extraordinary-Abilities-Ex-)) {#supreme_charge_ex}",
+      "description": "Mounted charge attacks deal double damage (triple with lance), and critical hits on charges can stun the target for 1d4 rounds.",
+      "keywords": [
+        "supreme charge",
+        "mounted",
+        "double damage",
+        "triple damage",
+        "lance",
+        "critical hit",
+        "stunned",
+        "staggered",
+        "Will save",
+        "1d4 rounds"
+      ]
+    },
+    {
+      "id": "cavalier_tactical_genius_ex",
+      "title": "Tactical Genius (Ex) (Cavalier)",
+      "anchor_heading": "#### Tactical Genius (Ex) {#tactical_genius_ex}",
+      "description": "The cavalier gains another teamwork feat, can grant up to three feats with tactician, and increases tactician range by 90 feet.",
+      "keywords": [
+        "tactical genius",
+        "bonus teamwork feat",
+        "three bonus feats",
+        "tactician range",
+        "90 feet",
+        "battlefield command"
       ]
     }
-  ],
-  "category": "Classes"
+  ]
 }

@@ -58,15 +58,21 @@ def get_heading_level(line: str) -> int | None:
     return None
 
 
-def extract_section_content(markdown: str, anchor_heading: str) -> str | None:
+def extract_section_content(
+    markdown: str,
+    anchor_heading: str,
+    end_at_heading: str | None = None
+) -> str | None:
     """Extract content for a section starting at the anchor heading.
 
     Extracts all content from the anchor heading until the next heading
-    at the same or higher level (fewer # symbols).
+    at the same or higher level (fewer # symbols), or until end_at_heading
+    if specified.
 
     Args:
         markdown: The full markdown content
         anchor_heading: The exact heading text to find (e.g., "### Initiative")
+        end_at_heading: Optional heading text to stop at (for bounded sections)
 
     Returns:
         The section content including the heading, or None if not found
@@ -78,8 +84,17 @@ def extract_section_content(markdown: str, anchor_heading: str) -> str | None:
     if anchor_level is None:
         return None
 
-    # Normalize the anchor heading for comparison
+    # Normalize the anchor heading for comparison (strip {#id} suffix)
     anchor_text = anchor_heading.lstrip('#').strip()
+    anchor_text, _ = strip_anchor_id(anchor_text)
+
+    # Parse end_at_heading if provided
+    end_at_text = None
+    end_at_level = None
+    if end_at_heading:
+        end_at_level = get_heading_level(end_at_heading)
+        end_at_text = end_at_heading.lstrip('#').strip()
+        end_at_text, _ = strip_anchor_id(end_at_text)
 
     # Find the start of the section
     start_idx = None
@@ -96,13 +111,24 @@ def extract_section_content(markdown: str, anchor_heading: str) -> str | None:
     if start_idx is None:
         return None
 
-    # Find the end of the section (next heading at same or higher level)
+    # Find the end of the section
     end_idx = len(lines)
     for i in range(start_idx + 1, len(lines)):
         line_level = get_heading_level(lines[i])
-        if line_level is not None and line_level <= anchor_level:
-            end_idx = i
-            break
+        if line_level is not None:
+            line_text = lines[i].lstrip('#').strip()
+            line_text_clean, _ = strip_anchor_id(line_text)
+
+            # Check for end_at_heading match
+            if end_at_text and line_text_clean == end_at_text:
+                if end_at_level is None or line_level == end_at_level:
+                    end_idx = i
+                    break
+
+            # Check for same or higher level heading
+            if line_level <= anchor_level:
+                end_idx = i
+                break
 
     # Extract and return the content
     section_lines = lines[start_idx:end_idx]
@@ -185,13 +211,32 @@ class SectionExtractor:
             category = manifest.get("category", "Uncategorized")
             markdown = self._load_markdown(source_path)
 
+            # Check for TOC content (used for class documents)
+            toc_content = manifest.get("toc_content", "")
+
+            # Extract class name from source_name for TOC header (e.g., "Class: Magus" -> "Magus")
+            class_name = None
+            if toc_content and source_name and source_name.startswith("Class: "):
+                class_name = source_name[7:]  # Strip "Class: " prefix
+
             for section_def in manifest["sections"]:
-                content = extract_section_content(markdown, section_def["anchor_heading"])
+                # Extract content with optional end_at_heading
+                end_at = section_def.get("end_at_heading")
+                content = extract_section_content(
+                    markdown,
+                    section_def["anchor_heading"],
+                    end_at_heading=end_at
+                )
 
                 if content is None:
                     print(f"Warning: Could not find section '{section_def['id']}' "
                           f"with anchor '{section_def['anchor_heading']}' in {source_path}")
                     continue
+
+                # Prepend TOC for class documents
+                if toc_content and class_name:
+                    toc_header = f"## {class_name} Table of Contents\n\n{toc_content}\n\n---\n\n"
+                    content = toc_header + content
 
                 section = Section(
                     id=section_def["id"],

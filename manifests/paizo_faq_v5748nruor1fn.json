@@ -1,0 +1,1277 @@
+{
+  "file": "v5748nruor1fn.md",
+  "source_path": "https://paizo.com/paizo/faq/v5748nruor1fn",
+  "source_name": "Paizo FAQ",
+  "sections": [
+    {
+      "id": "faq_alchemist_choices_when_casting_if_i_makes_an_extract_of_a_mu",
+      "title": "Alchemist, Choices When \"Casting\": If I makes an extract of a multiple-choice spell (such asprotection from energy), do I make that choice when I create the extract, or when I drink it?",
+      "anchor_heading": "## Alchemist, Choices When \"Casting\": If I makes an extract of a multiple-choice spell (such asprotection from energy), do I make that choice when I create the extract, or when I drink it?",
+      "description": "You make the choice when you drink it.",
+      "keywords": [
+        "alchemist",
+        "choices",
+        "casting",
+        "makes",
+        "extract",
+        "multiple",
+        "choice",
+        "spell",
+        "such",
+        "asprotection"
+      ]
+    },
+    {
+      "id": "faq_alchemist_and_infusions_can_i_use_the_infusion_discovery_to_",
+      "title": "Alchemist and infusions: Can I use the infusion discovery to create an infused extract of a personal-range formula (such astrue strike), which someone else can drink?",
+      "anchor_heading": "## Alchemist and infusions: Can I use the infusion discovery to create an infused extract of a personal-range formula (such astrue strike), which someone else can drink?",
+      "description": "Yes, you can. The design team may decide to close this loophole in the next printing of theAdvanced Player's Guide.",
+      "keywords": [
+        "alchemist",
+        "infusions",
+        "use",
+        "infusion",
+        "discovery",
+        "create",
+        "infused",
+        "extract",
+        "personal",
+        "range"
+      ]
+    },
+    {
+      "id": "faq_alchemist_if_an_alchemist_has_the_fast_bombs_discovery_can_h",
+      "title": "Alchemist: If an alchemist has the Fast bombs discovery, can he use Rapid Shot, Two-Weapon Fighting, Improved Two-Weapon Fighting,haste, and similar abilities and effects to add more attacks?",
+      "anchor_heading": "## Alchemist: If an alchemist has the Fast bombs discovery, can he use Rapid Shot, Two-Weapon Fighting, Improved Two-Weapon Fighting,haste, and similar abilities and effects to add more attacks?",
+      "description": "As written, yes, all of these apply because fast bombs \"functions just like a full-attack with a ranged weapon.\"",
+      "keywords": [
+        "alchemist",
+        "alchemist",
+        "fast",
+        "bombs",
+        "discovery",
+        "use",
+        "rapid",
+        "shot",
+        "two",
+        "weapon"
+      ]
+    },
+    {
+      "id": "faq_alchemist_does_the_accelerated_drinker_feat_fromcheliax_empi",
+      "title": "Alchemist: Does the Accelerated Drinker feat fromCheliax, Empire of Devilsallow a character to drink an alchemist extract as a move action?",
+      "anchor_heading": "## Alchemist: Does the Accelerated Drinker feat fromCheliax, Empire of Devilsallow a character to drink an alchemist extract as a move action?",
+      "description": "No.",
+      "keywords": [
+        "alchemist",
+        "accelerated",
+        "drinker",
+        "feat",
+        "fromcheliax",
+        "empire",
+        "devilsallow",
+        "character",
+        "drink",
+        "alchemist"
+      ]
+    },
+    {
+      "id": "faq_alchemist_does_the_damage_bonus_from_the_point_blank_shot_fe",
+      "title": "Alchemist: Does the damage bonus from the Point Blank Shot feat apply to bombs?",
+      "anchor_heading": "## Alchemist: Does the damage bonus from the Point Blank Shot feat apply to bombs?",
+      "description": "Yes.",
+      "keywords": [
+        "alchemist",
+        "damage",
+        "bonus",
+        "point",
+        "blank",
+        "shot",
+        "feat",
+        "apply",
+        "bombs"
+      ]
+    },
+    {
+      "id": "faq_alchemist_does_an_inferno_bomb_poison_bomb_smoke_bomb_or_sti",
+      "title": "Alchemist: Does an inferno bomb, poison bomb, smoke bomb, or stink bomb cause bomb damage in addition to the special effect listed for those discoveries?",
+      "anchor_heading": "## Alchemist: Does an inferno bomb, poison bomb, smoke bomb, or stink bomb cause bomb damage in addition to the special effect listed for those discoveries?",
+      "description": "Yes. For example, a smoke bomb deals bomb damage and creates an area of smoke.",
+      "keywords": [
+        "alchemist",
+        "inferno",
+        "bomb",
+        "poison",
+        "bomb",
+        "smoke",
+        "bomb",
+        "stink",
+        "bomb",
+        "cause"
+      ]
+    },
+    {
+      "id": "faq_alchemist_for_the_purposes_of_an_alchemists_class_abilities_",
+      "title": "Alchemist: For the purposes of an alchemist's class abilities, are poisons considered alchemical items?",
+      "anchor_heading": "## Alchemist: For the purposes of an alchemist's class abilities, are poisons considered alchemical items?",
+      "description": "Yes.",
+      "keywords": [
+        "alchemist",
+        "purposes",
+        "alchemist",
+        "class",
+        "abilities",
+        "poisons",
+        "considered",
+        "alchemical",
+        "items"
+      ]
+    },
+    {
+      "id": "faq_alchemist_is_an_alchemist_a_spellcaster_for_the_purpose_of_c",
+      "title": "Alchemist: Is an alchemist a spellcaster for the purpose of crafting magic items other than potions?",
+      "anchor_heading": "## Alchemist: Is an alchemist a spellcaster for the purpose of crafting magic items other than potions?",
+      "description": "As written, no, alchemists are not spellcasters, and therefore can't select feats such as Craft Wondrous Item.The design team is aware that this cr...",
+      "keywords": [
+        "alchemist",
+        "alchemist",
+        "spellcaster",
+        "purpose",
+        "crafting",
+        "magic",
+        "items",
+        "other",
+        "than",
+        "potions"
+      ]
+    },
+    {
+      "id": "faq_alchemist_what_kind_of_action_is_it_to_use_an_extract_mutage",
+      "title": "Alchemist: What kind of action is it to use an extract, mutagen, or throw a bomb?",
+      "anchor_heading": "## Alchemist: What kind of action is it to use an extract, mutagen, or throw a bomb?",
+      "description": "It is a standard action to use an extract, mutagen, or throw a bomb. This action includes retrieving the necessary materials from the alchemist's s...",
+      "keywords": [
+        "alchemist",
+        "kind",
+        "action",
+        "use",
+        "extract",
+        "mutagen",
+        "throw",
+        "bomb"
+      ]
+    },
+    {
+      "id": "faq_archetype_stacking_and_altering_what_exactly_counts_as_alter",
+      "title": "Archetype Stacking and Altering: What exactly counts as altering a class feature for the purpose of stacking archetypes?",
+      "anchor_heading": "## Archetype Stacking and Altering: What exactly counts as altering a class feature for the purpose of stacking archetypes?",
+      "description": "In general, if a class feature grants multiple subfeatures, it\u2019s OK to take two archetypes that only change two separate subfeatures. This includes...",
+      "keywords": [
+        "archetype",
+        "stacking",
+        "altering",
+        "exactly",
+        "counts",
+        "altering",
+        "class",
+        "feature",
+        "purpose",
+        "stacking"
+      ]
+    },
+    {
+      "id": "faq_barbarian_increased_damage_reduction_the_increased_damage_re",
+      "title": "Barbarian Increased Damage Reduction: The increased damage reduction rage power says it increases the \u201cbarbarian\u2019s damage reduction\u201d, but does that refer to the barbarian class feature \u201cdamage reduction\u201d or to any damage reduction the barbarian might possess. In particular, the invulnerable rager archetype trades away the barbarian\u2019s damage reduction class feature for a new ability called invulnerability that gives a slightly different form of damage reduction, so would the rage power work with that?",
+      "anchor_heading": "## Barbarian Increased Damage Reduction: The increased damage reduction rage power says it increases the \u201cbarbarian\u2019s damage reduction\u201d, but does that refer to the barbarian class feature \u201cdamage reduction\u201d or to any damage reduction the barbarian might possess. In particular, the invulnerable rager archetype trades away the barbarian\u2019s damage reduction class feature for a new ability called invulnerability that gives a slightly different form of damage reduction, so would the rage power work with that?",
+      "description": "The rage power refers to the class feature damage reduction, meaning that it doesn\u2019t help invulnerable ragers\u2019 invulnerability class feature. The s...",
+      "keywords": [
+        "barbarian",
+        "increased",
+        "damage",
+        "reduction",
+        "increased",
+        "damage",
+        "reduction",
+        "rage",
+        "power",
+        "says"
+      ]
+    },
+    {
+      "id": "faq_barbarian_lesser_spirit_totem_who_decides_who_the_spirits_at",
+      "title": "Barbarian, Lesser Spirit Totem: Who decides who the spirits attack, and what effects affect the spirits?",
+      "anchor_heading": "## Barbarian, Lesser Spirit Totem: Who decides who the spirits attack, and what effects affect the spirits?",
+      "description": "The barbarian decides who the spirits attack each round. The spirits are not affected by effects that aid their attacks or damage (such as bardic p...",
+      "keywords": [
+        "barbarian",
+        "lesser",
+        "spirit",
+        "totem",
+        "decides",
+        "spirits",
+        "attack",
+        "effects",
+        "affect",
+        "spirits"
+      ]
+    },
+    {
+      "id": "faq_barbariantotem_warrior_does_this_archetype_allow_you_to_take",
+      "title": "Barbarian--Totem Warrior: Does this archetype allow you to take more than one type of totem rage powers?",
+      "anchor_heading": "## Barbarian--Totem Warrior: Does this archetype allow you to take more than one type of totem rage powers?",
+      "description": "No, the line inUltimate Combatis in error; a barbarian cannot select from more than one group of totem rage powers.This error will be corrected in...",
+      "keywords": [
+        "barbarian",
+        "totem",
+        "warrior",
+        "archetype",
+        "allow",
+        "take",
+        "more",
+        "than",
+        "one",
+        "type"
+      ]
+    },
+    {
+      "id": "faq_cavalier_do_animal_companion_levels_from_the_druid_class_sta",
+      "title": "Cavalier: Do animal companion levels from the druid class stack with cavalier mount levels?",
+      "anchor_heading": "## Cavalier: Do animal companion levels from the druid class stack with cavalier mount levels?",
+      "description": "If the animal is on the cavalier mount list and on the list of animal companions for your other class, your cavalier and druid levels stack to dete...",
+      "keywords": [
+        "cavalier",
+        "animal",
+        "companion",
+        "levels",
+        "druid",
+        "class",
+        "stack",
+        "cavalier",
+        "mount",
+        "levels"
+      ]
+    },
+    {
+      "id": "faq_cleric_outsider_subdomains_how_am_i_supposed_to_use_theplana",
+      "title": "Cleric, Outsider Subdomains: How am I supposed to use theplanar bindingdomain spell granted by these subdomains?",
+      "anchor_heading": "## Cleric, Outsider Subdomains: How am I supposed to use theplanar bindingdomain spell granted by these subdomains?",
+      "description": "This is an error, in that there is an alignment incompatibility between the outsider subdomains and themagic circlespells needed to bind the respec...",
+      "keywords": [
+        "cleric",
+        "outsider",
+        "subdomains",
+        "supposed",
+        "use",
+        "theplanar",
+        "bindingdomain",
+        "spell",
+        "granted",
+        "these"
+      ]
+    },
+    {
+      "id": "faq_druid_animal_shamans_at_what_class_level_do_these_archetypes",
+      "title": "Druid, Animal Shamans: At what class level do these archetypes gain wild shape?",
+      "anchor_heading": "## Druid, Animal Shamans: At what class level do these archetypes gain wild shape?",
+      "description": "The animal shaman archetypes for the druid class do not gain wild shape until class level 6.\n\n(The other druid archetypes in this book use clearer...",
+      "keywords": [
+        "druid",
+        "animal",
+        "shamans",
+        "class",
+        "level",
+        "these",
+        "archetypes",
+        "gain",
+        "wild",
+        "shape"
+      ]
+    },
+    {
+      "id": "faq_druid_eagle_shaman_how_can_i_take_the_form_of_a_roc_if_a_roc",
+      "title": "Druid, Eagle Shaman: How can I take the form of a roc if a roc is Gargantuan and the maximum size I can reach with wild shape is Huge?",
+      "anchor_heading": "## Druid, Eagle Shaman: How can I take the form of a roc if a roc is Gargantuan and the maximum size I can reach with wild shape is Huge?",
+      "description": "The lack of suitable giant bird stat blocks in official Paizo products hinders the rules options for this archetype.\n\nTo remedy this problem, an ea...",
+      "keywords": [
+        "druid",
+        "eagle",
+        "shaman",
+        "take",
+        "form",
+        "roc",
+        "roc",
+        "gargantuan",
+        "maximum",
+        "size"
+      ]
+    },
+    {
+      "id": "faq_halfelf_or_halforc_can_a_character_of_either_of_these_races_",
+      "title": "Half-Elf or Half-Orc: Can a character of either of these races select human racial favored class options?",
+      "anchor_heading": "## Half-Elf or Half-Orc: Can a character of either of these races select human racial favored class options?",
+      "description": "Yes. Half-elves and half-orcs may select racial favored class options, archetypes, traits, and so on, as if they were a full member of both races (...",
+      "keywords": [
+        "half",
+        "elf",
+        "half",
+        "orc",
+        "character",
+        "either",
+        "these",
+        "races",
+        "select",
+        "human"
+      ]
+    },
+    {
+      "id": "faq_halforctoothy_does_this_alternate_racial_trait_stack_with_th",
+      "title": "Half-Orc--Toothy: Does this alternate racial trait stack with the Razortusk feat (page 168) granting you two bite attacks?",
+      "anchor_heading": "## Half-Orc--Toothy: Does this alternate racial trait stack with the Razortusk feat (page 168) granting you two bite attacks?",
+      "description": "This is one of those areas where we tried to get at the same idea multiple ways. In this case, the answer is no, unless you somehow manage to get a...",
+      "keywords": [
+        "half",
+        "orc",
+        "toothy",
+        "alternate",
+        "racial",
+        "trait",
+        "stack",
+        "razortusk",
+        "feat",
+        "page"
+      ]
+    },
+    {
+      "id": "faq_holy_vindicator_thise_class_has_an_ability_that_gives_him_a_",
+      "title": "Holy Vindicator: Thise class has an ability that gives him a sacred bonus to AC until \"struck in combat.\" Does a touch attack count as being \"struck\"? What about a spell likemagic missileorfireball?",
+      "anchor_heading": "## Holy Vindicator: Thise class has an ability that gives him a sacred bonus to AC until \"struck in combat.\" Does a touch attack count as being \"struck\"? What about a spell likemagic missileorfireball?",
+      "description": "The ability lasts until an opponent makes a successful attack roll against the vindicator's Armor Class.",
+      "keywords": [
+        "holy",
+        "vindicator",
+        "thise",
+        "class",
+        "ability",
+        "gives",
+        "him",
+        "sacred",
+        "bonus",
+        "until"
+      ]
+    },
+    {
+      "id": "faq_horizon_walker_how_long_does_the_terrain_mastery_ability_pag",
+      "title": "Horizon Walker: How long does the terrain mastery ability (page 265) last when the character grants the bonus to his allies?",
+      "anchor_heading": "## Horizon Walker: How long does the terrain mastery ability (page 265) last when the character grants the bonus to his allies?",
+      "description": "This ability basically works like hunter's bond (companions), except the character is lending his terrain bonus instead of his enemy bonus. Like hu...",
+      "keywords": [
+        "horizon",
+        "walker",
+        "long",
+        "terrain",
+        "mastery",
+        "ability",
+        "page",
+        "265",
+        "last",
+        "character"
+      ]
+    },
+    {
+      "id": "faq_inquisitor_does_an_inquisitorsbaneability_page_40_affect_bot",
+      "title": "Inquisitor: Does an inquisitor'sbaneability (page 40) affect both ends of a double weapon?",
+      "anchor_heading": "## Inquisitor: Does an inquisitor'sbaneability (page 40) affect both ends of a double weapon?",
+      "description": "No. In general, the game treats double weapons as if they were two different weapons, and an ability, spell, or effect that changes or augments \"a...",
+      "keywords": [
+        "inquisitor",
+        "inquisitor",
+        "sbaneability",
+        "page",
+        "affect",
+        "both",
+        "ends",
+        "double",
+        "weapon"
+      ]
+    },
+    {
+      "id": "faq_inquisitor_if_an_inquisitor_uses_solo_tactics_advanced_playe",
+      "title": "Inquisitor: If an inquisitor uses Solo Tactics (Advanced Player's Guide, page 40) with the Outflank feat (APG, page 165), does the enemy provoke attacks of opportunity when hit with a critical hit?",
+      "anchor_heading": "## Inquisitor: If an inquisitor uses Solo Tactics (Advanced Player's Guide, page 40) with the Outflank feat (APG, page 165), does the enemy provoke attacks of opportunity when hit with a critical hit?",
+      "description": "Yes, but only when the inquisitors allies score a critical hit against a foe that they both flank. In this case, the enemy provokes an attack of op...",
+      "keywords": [
+        "inquisitor",
+        "inquisitor",
+        "uses",
+        "solo",
+        "tactics",
+        "advanced",
+        "player",
+        "guide",
+        "page",
+        "outflank"
+      ]
+    },
+    {
+      "id": "faq_inquisitor_some_of_the_inquisitor_abilities_still_refer_to_t",
+      "title": "Inquisitor: Some of the inquisitor abilities still refer to the scaling bonuses from the playtest version of the class. What is the rule for these abilities?",
+      "anchor_heading": "## Inquisitor: Some of the inquisitor abilities still refer to the scaling bonuses from the playtest version of the class. What is the rule for these abilities?",
+      "description": "(This information will appear in the APG errata document; this FAQ entry is here to address these recurring inquisitor questions until the errata i...",
+      "keywords": [
+        "inquisitor",
+        "some",
+        "inquisitor",
+        "abilities",
+        "still",
+        "refer",
+        "scaling",
+        "bonuses",
+        "playtest",
+        "version"
+      ]
+    },
+    {
+      "id": "faq_master_chymist_for_the_dual_mind_advanced_mutagen_page_269_i",
+      "title": "Master Chymist: For the dual mind advanced mutagen (page 269), if you makes your second save and change forms, does that cost one of your uses of the mutate ability?",
+      "anchor_heading": "## Master Chymist: For the dual mind advanced mutagen (page 269), if you makes your second save and change forms, does that cost one of your uses of the mutate ability?",
+      "description": "Yes. In effect, the chymist is spending a use of the mutate ability to override a failed saving throw. If she doesn't have any daily uses left of t...",
+      "keywords": [
+        "master",
+        "chymist",
+        "dual",
+        "mind",
+        "advanced",
+        "mutagen",
+        "page",
+        "269",
+        "makes",
+        "second"
+      ]
+    },
+    {
+      "id": "faq_master_chymist_for_the_mutate_ability_page_268_if_the_charac",
+      "title": "Master Chymist: For the mutate ability (page 268), if the character is unable to take a standard action on her next turn, is she still forced to mutate against her will, and if so, what sort of action does she take to do so?",
+      "anchor_heading": "## Master Chymist: For the mutate ability (page 268), if the character is unable to take a standard action on her next turn, is she still forced to mutate against her will, and if so, what sort of action does she take to do so?",
+      "description": "Being forced to change form is a penalty the master chymist risks. She shouldn't be able to ignore that penalty just because she can't take a stand...",
+      "keywords": [
+        "master",
+        "chymist",
+        "mutate",
+        "ability",
+        "page",
+        "268",
+        "character",
+        "unable",
+        "take",
+        "standard"
+      ]
+    },
+    {
+      "id": "faq_monk_ki_mystic_archetype_the_ki_mystic_ability_seems_like_it",
+      "title": "Monk ki mystic archetype: The ki mystic ability seems like it alters the monk\u2019s ki pool ability, but it doesn\u2019t say \u201cThis ability alters ki pool.\u201d Is this because the ki mystic\u2019s ki pool is a separate second pool that can only be used for the powers described in the ki mystic archetype, and the monk then also receives the regular ki pool that works as normal?",
+      "anchor_heading": "## Monk ki mystic archetype: The ki mystic ability seems like it alters the monk\u2019s ki pool ability, but it doesn\u2019t say \u201cThis ability alters ki pool.\u201d Is this because the ki mystic\u2019s ki pool is a separate second pool that can only be used for the powers described in the ki mystic archetype, and the monk then also receives the regular ki pool that works as normal?",
+      "description": "No. When Advanced Player\u2019s Guide was written, archetypes were new and the \u201cthis alters\u201d language didn\u2019t exist yet, meaning archetypes in this book,...",
+      "keywords": [
+        "monk",
+        "mystic",
+        "archetype",
+        "mystic",
+        "ability",
+        "seems",
+        "like",
+        "alters",
+        "monk",
+        "pool"
+      ]
+    },
+    {
+      "id": "faq_oracle_can_an_oracle_select_a_revelation_more_than_once",
+      "title": "Oracle: Can an oracle select a revelation more than once?",
+      "anchor_heading": "## Oracle: Can an oracle select a revelation more than once?",
+      "description": "No, unless the revelation specifically states you can.",
+      "keywords": [
+        "oracle",
+        "oracle",
+        "select",
+        "revelation",
+        "more",
+        "than",
+        "once"
+      ]
+    },
+    {
+      "id": "faq_oracle_can_i_use_my_charisma_modifier_for_cleric_spells_and_",
+      "title": "Oracle: Can I use my Charisma modifier for cleric spells and effects that use Wisdom, such asspiritual weapon?",
+      "anchor_heading": "## Oracle: Can I use my Charisma modifier for cleric spells and effects that use Wisdom, such asspiritual weapon?",
+      "description": "As written, those effects say \"Wisdom\" (because they were written before the idea of the oracle class as a Charisma-based caster), so an oracle has...",
+      "keywords": [
+        "oracle",
+        "use",
+        "charisma",
+        "modifier",
+        "cleric",
+        "spells",
+        "effects",
+        "use",
+        "wisdom",
+        "such"
+      ]
+    },
+    {
+      "id": "faq_oracle_does_an_oracle_of_lore_with_the_sidestep_secret_page_",
+      "title": "Oracle: Does an oracle of lore with the sidestep secret (page 50) revelation use her Charisma to calculate her CMD instead of her Dexterity? If she is flat-footed, does she lose her Charisma bonus to AC?",
+      "anchor_heading": "## Oracle: Does an oracle of lore with the sidestep secret (page 50) revelation use her Charisma to calculate her CMD instead of her Dexterity? If she is flat-footed, does she lose her Charisma bonus to AC?",
+      "description": "An oracle of lore with the sidestep secret revelation uses her Dexterity to calculate her CMD since no provision is made in the text to use her Cha...",
+      "keywords": [
+        "oracle",
+        "oracle",
+        "lore",
+        "sidestep",
+        "secret",
+        "page",
+        "revelation",
+        "use",
+        "charisma",
+        "calculate"
+      ]
+    },
+    {
+      "id": "faq_oracle_does_the_haunted_curse_page_44_affect_the_items_in_an",
+      "title": "Oracle: Does the haunted curse (page 44) affect the items in an oracle's spell component pouch?",
+      "anchor_heading": "## Oracle: Does the haunted curse (page 44) affect the items in an oracle's spell component pouch?",
+      "description": "The question here is whether or not the haunted curse makes is so that to cast any spell using a material component, the oracle has to first spend...",
+      "keywords": [
+        "oracle",
+        "haunted",
+        "curse",
+        "page",
+        "affect",
+        "items",
+        "oracle",
+        "spell",
+        "component",
+        "pouch"
+      ]
+    },
+    {
+      "id": "faq_oracle_does_the_haunted_curse_affect_how_long_it_takes_to_dr",
+      "title": "Oracle: Does the haunted curse affect how long it takes to draw a weapon?",
+      "anchor_heading": "## Oracle: Does the haunted curse affect how long it takes to draw a weapon?",
+      "description": "No. The curse affects the \"retrieve a stored item\" action. If you are using the \"draw a weapon\" action (such as to draw a dagger from a belt sheath...",
+      "keywords": [
+        "oracle",
+        "haunted",
+        "curse",
+        "affect",
+        "long",
+        "takes",
+        "draw",
+        "weapon"
+      ]
+    },
+    {
+      "id": "faq_oracle_how_can_the_revelation_mantle_of_moonlight_page_48_fo",
+      "title": "Oracle: How can the revelation \"Mantle of Moonlight\" (page 48) force a target into aragewhen that spell only affects willing targets?",
+      "anchor_heading": "## Oracle: How can the revelation \"Mantle of Moonlight\" (page 48) force a target into aragewhen that spell only affects willing targets?",
+      "description": "The mantle of moonlight's touch attack forces a creature into a state with the same game effects as aragespell, even though that spell normally onl...",
+      "keywords": [
+        "oracle",
+        "revelation",
+        "mantle",
+        "moonlight",
+        "page",
+        "force",
+        "target",
+        "into",
+        "aragewhen",
+        "spell"
+      ]
+    },
+    {
+      "id": "faq_oracle_what_kind_of_dr_does_an_oracle_get_from_therighteous_",
+      "title": "Oracle: What kind of DR does an oracle get from therighteous mightspell?",
+      "anchor_heading": "## Oracle: What kind of DR does an oracle get from therighteous mightspell?",
+      "description": "If the oracle chose the \"all cure spells\" option for her spells known, treat that as \"channels positive energy\" for the purpose ofrighteous might....",
+      "keywords": [
+        "oracle",
+        "kind",
+        "oracle",
+        "get",
+        "therighteous",
+        "mightspell"
+      ]
+    },
+    {
+      "id": "faq_oracle_bones_mystery_what_exactly_does_the_raise_the_dead_re",
+      "title": "Oracle Bones Mystery: What exactly does the raise the dead revelation mean when it says you can summon a skeleton or zombie to serve you? Do I need a corpse? If not, can I just summon whatever I want, like a tarrasque fast zombie?",
+      "anchor_heading": "## Oracle Bones Mystery: What exactly does the raise the dead revelation mean when it says you can summon a skeleton or zombie to serve you? Do I need a corpse? If not, can I just summon whatever I want, like a tarrasque fast zombie?",
+      "description": "The raise the dead doesn\u2019t require a corpse; you summon the creature (rising up out of the earth is a potential visual for this effect). You summon...",
+      "keywords": [
+        "oracle",
+        "bones",
+        "mystery",
+        "exactly",
+        "raise",
+        "dead",
+        "revelation",
+        "mean",
+        "says",
+        "summon"
+      ]
+    },
+    {
+      "id": "faq_oracle_of_life_energy_body_how_many_times_per_round_can_i_us",
+      "title": "Oracle of Life, Energy Body: How many times per round can I use this ability to heal someone?",
+      "anchor_heading": "## Oracle of Life, Energy Body: How many times per round can I use this ability to heal someone?",
+      "description": "The text says \"once per round.\" Regardless of whether you are passing through an ally's square or an ally is passing through your square, the heali...",
+      "keywords": [
+        "oracle",
+        "life",
+        "energy",
+        "body",
+        "many",
+        "times",
+        "per",
+        "round",
+        "use",
+        "ability"
+      ]
+    },
+    {
+      "id": "faq_paladin_the_sacred_servant_archetype_page_117_gets_a_domain_",
+      "title": "Paladin: The sacred servant archetype (page 117) gets a domain. Does the sacred servant get all of the benefits of that domain, such as granted powers?",
+      "anchor_heading": "## Paladin: The sacred servant archetype (page 117) gets a domain. Does the sacred servant get all of the benefits of that domain, such as granted powers?",
+      "description": "Yes.\n\nUnless the text specifically says otherwise, when a character gains a cleric domain, they gain all benefits associated with that domain: gran...",
+      "keywords": [
+        "paladin",
+        "sacred",
+        "servant",
+        "archetype",
+        "page",
+        "117",
+        "gets",
+        "domain",
+        "sacred",
+        "servant"
+      ]
+    },
+    {
+      "id": "faq_paladin_for_the_nimbus_of_light_ability_of_the_warrior_of_th",
+      "title": "Paladin: For the \"nimbus of light\" ability of the Warrior of the Holy Light archetype (page 118), what kind of light does it count as for the purpose of overcomingdarknesseffects? Is there a limit to how often a paladin can activate this ability?  Does the 12th-level ability affect the paladin, or just her allies?",
+      "anchor_heading": "## Paladin: For the \"nimbus of light\" ability of the Warrior of the Holy Light archetype (page 118), what kind of light does it count as for the purpose of overcomingdarknesseffects? Is there a limit to how often a paladin can activate this ability?  Does the 12th-level ability affect the paladin, or just her allies?",
+      "description": "The ability counts aslightup until 8th-level, at which point it counts asdaylight. Activating the \"nimbus of light\" expends one use of her lay on h...",
+      "keywords": [
+        "paladin",
+        "nimbus",
+        "light",
+        "ability",
+        "warrior",
+        "holy",
+        "light",
+        "archetype",
+        "page",
+        "118"
+      ]
+    },
+    {
+      "id": "faq_rage_prophet_does_a_rage_prophets_savage_seer_ability_allow_",
+      "title": "Rage Prophet: Does a rage prophet's savage seer ability allow him to stack his barbarian or oracle levels with his rage prophet levels to qualify for rage powers and mysteries?",
+      "anchor_heading": "## Rage Prophet: Does a rage prophet's savage seer ability allow him to stack his barbarian or oracle levels with his rage prophet levels to qualify for rage powers and mysteries?",
+      "description": "No.",
+      "keywords": [
+        "rage",
+        "prophet",
+        "rage",
+        "prophet",
+        "savage",
+        "seer",
+        "ability",
+        "allow",
+        "him",
+        "stack"
+      ]
+    },
+    {
+      "id": "faq_rogue_does_the_dodge_bonus_from_the_offensive_defensive_rogu",
+      "title": "Rogue: Does the dodge bonus from the \u201coffensive defensive\u201d rogue talent (page 131) stack with itself? Does it apply to everyone, or just to the target I\u2019m attacking?",
+      "anchor_heading": "## Rogue: Does the dodge bonus from the \u201coffensive defensive\u201d rogue talent (page 131) stack with itself? Does it apply to everyone, or just to the target I\u2019m attacking?",
+      "description": "There are two issues relating to this rogue talent.\n\nOne, in the first printing it provided a +1 circumstance bonus against the attacked target, wh...",
+      "keywords": [
+        "rogue",
+        "dodge",
+        "bonus",
+        "offensive",
+        "defensive",
+        "rogue",
+        "talent",
+        "page",
+        "131",
+        "stack"
+      ]
+    },
+    {
+      "id": "faq_ranger_how_does_a_ranger_with_the_infiltrator_archetype_page",
+      "title": "Ranger: How does a ranger with the infiltrator archetype (page 126), which causes him to lose his favored terrain class feature, use his camouflage and hide in plain sight class features?",
+      "anchor_heading": "## Ranger: How does a ranger with the infiltrator archetype (page 126), which causes him to lose his favored terrain class feature, use his camouflage and hide in plain sight class features?",
+      "description": "A ranger with the Infiltrator archetype can use the camouflage and hide in plain sight class features whenever he is using his adaptation class fea...",
+      "keywords": [
+        "ranger",
+        "ranger",
+        "infiltrator",
+        "archetype",
+        "page",
+        "126",
+        "causes",
+        "him",
+        "lose",
+        "favored"
+      ]
+    },
+    {
+      "id": "faq_sorcerer_is_the_aquatic_sorcerer_bloodline_page_136_supposed",
+      "title": "Sorcerer: Is the aquatic sorcerer bloodline (page 136) supposed to getgeyseras a bonus spell at sorcerer level 9, even though that\u2019s normally a 5th-level sorcerer/wizard spell and unavailable to sorcerers before caster level 10?",
+      "anchor_heading": "## Sorcerer: Is the aquatic sorcerer bloodline (page 136) supposed to getgeyseras a bonus spell at sorcerer level 9, even though that\u2019s normally a 5th-level sorcerer/wizard spell and unavailable to sorcerers before caster level 10?",
+      "description": "Yes, and the sorcerer learns it as a 4th-level spell. Note thatgeyseris also a 4th-level druid spell (available at character level 7), so the aquat...",
+      "keywords": [
+        "sorcerer",
+        "aquatic",
+        "sorcerer",
+        "bloodline",
+        "page",
+        "136",
+        "supposed",
+        "getgeyseras",
+        "bonus",
+        "spell"
+      ]
+    },
+    {
+      "id": "faq_subdomains_can_druids_inquisitors_and_other_classes_with_acc",
+      "title": "Subdomains: Can druids, inquisitors, and other classes with access to domains take the subdomains listed in the cleric section of the APG?",
+      "anchor_heading": "## Subdomains: Can druids, inquisitors, and other classes with access to domains take the subdomains listed in the cleric section of the APG?",
+      "description": "Yes, as long as they follow the rules for subdomains on page 86. A character who does not worship a deity (such as some druids and paladins) may se...",
+      "keywords": [
+        "subdomains",
+        "druids",
+        "inquisitors",
+        "other",
+        "classes",
+        "access",
+        "domains",
+        "take",
+        "subdomains",
+        "listed"
+      ]
+    },
+    {
+      "id": "faq_summoner_can_i_use_life_link_when_its_not_my_turn_im_paralyz",
+      "title": "Summoner: Can I use life link when it's not my turn, I'm paralyzed, or I otherwise can't take actions?",
+      "anchor_heading": "## Summoner: Can I use life link when it's not my turn, I'm paralyzed, or I otherwise can't take actions?",
+      "description": "Although the ability is listed as a free action, it's something a summoner should be able to do at any time the eidolon would take enough damage to...",
+      "keywords": [
+        "summoner",
+        "use",
+        "life",
+        "link",
+        "not",
+        "turn",
+        "paralyzed",
+        "otherwise",
+        "take",
+        "actions"
+      ]
+    },
+    {
+      "id": "faq_summoner_how_does_a_summoners_life_bond_page_57_work_the_eid",
+      "title": "Summoner: How does a summoner's life bond (page 57) work? The eidolon goes away when the summoner is unconscious, so it's very unlikely that this ability would trigger.",
+      "anchor_heading": "## Summoner: How does a summoner's life bond (page 57) work? The eidolon goes away when the summoner is unconscious, so it's very unlikely that this ability would trigger.",
+      "description": "The ability should trigger when damage to the summoner would reduce him to less than 0 hit points, not just when it would kill him. (The 2nd printi...",
+      "keywords": [
+        "summoner",
+        "summoner",
+        "life",
+        "bond",
+        "page",
+        "work",
+        "eidolon",
+        "goes",
+        "away",
+        "summoner"
+      ]
+    },
+    {
+      "id": "faq_summoner_if_i_choose_the_reach_evolution_for_my_eidolon_how_",
+      "title": "Summoner: If I choose the reach evolution for my eidolon, how many of its attacks gains increased reach?",
+      "anchor_heading": "## Summoner: If I choose the reach evolution for my eidolon, how many of its attacks gains increased reach?",
+      "description": "The ability description says \"pick one attack,\" not \"pick one attack type.\" So if your eidolon has two claws and you pick \"claw\" for the reach evol...",
+      "keywords": [
+        "summoner",
+        "choose",
+        "reach",
+        "evolution",
+        "eidolon",
+        "many",
+        "attacks",
+        "gains",
+        "increased",
+        "reach"
+      ]
+    },
+    {
+      "id": "faq_summoner_whats_the_minimum_level_to_take_the_improved_natura",
+      "title": "Summoner: What's the minimum level to take the improved natural armor evolution (page 60) for an eidolon?",
+      "anchor_heading": "## Summoner: What's the minimum level to take the improved natural armor evolution (page 60) for an eidolon?",
+      "description": "The description of the evolution says, \"This evolution can be taken once for every five levels the summoner possesses.\" Unfortunately, that text is...",
+      "keywords": [
+        "summoner",
+        "minimum",
+        "level",
+        "take",
+        "improved",
+        "natural",
+        "armor",
+        "evolution",
+        "page",
+        "eidolon"
+      ]
+    },
+    {
+      "id": "faq_summoner_when_i_summon_my_eidolon_that_was_banished_or_dismi",
+      "title": "Summoner: When I summon my eidolon that was banished or dismissed, how many hit points does it have when it appears?",
+      "anchor_heading": "## Summoner: When I summon my eidolon that was banished or dismissed, how many hit points does it have when it appears?",
+      "description": "Whatever hit points the eidolon had when it was dismissed or banished (rather than killed), that is how many hit points it has when it is summoned...",
+      "keywords": [
+        "summoner",
+        "summon",
+        "eidolon",
+        "banished",
+        "dismissed",
+        "many",
+        "hit",
+        "points",
+        "appears"
+      ]
+    },
+    {
+      "id": "faq_witch_cackle_hex_can_i_use_my_standard_action_and_move_actio",
+      "title": "Witch, Cackle Hex: Can I use my standard action and move action to cackle twice in one round, extending another hex by two rounds?",
+      "anchor_heading": "## Witch, Cackle Hex: Can I use my standard action and move action to cackle twice in one round, extending another hex by two rounds?",
+      "description": "No, you can only use cackle once per round.This is being considered for clarification in a future printing of theAdvanced Player's Guide.",
+      "keywords": [
+        "witch",
+        "cackle",
+        "hex",
+        "use",
+        "standard",
+        "action",
+        "move",
+        "action",
+        "cackle",
+        "twice"
+      ]
+    },
+    {
+      "id": "faq_witch_cackle_hex_does_my_character_literally_have_to_cackle_",
+      "title": "Witch, Cackle Hex: Does my character literally have to cackle madly when I use this hex, or is that just flavor text?",
+      "anchor_heading": "## Witch, Cackle Hex: Does my character literally have to cackle madly when I use this hex, or is that just flavor text?",
+      "description": "Your character actually has to cackle\u2014probably in a strong voice, akin to the volume and clarity necessary for verbal spell components.\n\nEdit 7/19/...",
+      "keywords": [
+        "witch",
+        "cackle",
+        "hex",
+        "character",
+        "literally",
+        "cackle",
+        "madly",
+        "use",
+        "hex",
+        "just"
+      ]
+    },
+    {
+      "id": "faq_witch_cauldron_hex_is_a_witch_who_selects_this_hex_at_1st_le",
+      "title": "Witch, Cauldron Hex: Is a witch who selects this hex at 1st level able to use the Brew Potion feat, even though Brew Potion has a \"caster level 3rd\" prerequisite?",
+      "anchor_heading": "## Witch, Cauldron Hex: Is a witch who selects this hex at 1st level able to use the Brew Potion feat, even though Brew Potion has a \"caster level 3rd\" prerequisite?",
+      "description": "Yes.",
+      "keywords": [
+        "witch",
+        "cauldron",
+        "hex",
+        "witch",
+        "selects",
+        "hex",
+        "1st",
+        "level",
+        "able",
+        "use"
+      ]
+    },
+    {
+      "id": "faq_witch_disguise_hex_whats_the_time_limitation_for_this_hex",
+      "title": "Witch, Disguise Hex: What's the time limitation for this hex?",
+      "anchor_heading": "## Witch, Disguise Hex: What's the time limitation for this hex?",
+      "description": "The hex's description should say that the witch can use the ability for a number of hoursper dayequal to the witch's class level. (This was added i...",
+      "keywords": [
+        "witch",
+        "disguise",
+        "hex",
+        "time",
+        "limitation",
+        "hex"
+      ]
+    },
+    {
+      "id": "faq_witch_evil_eye_hex_can_i_use_this_hex_more_than_once_on_a_ta",
+      "title": "Witch, Evil Eye Hex: Can I use this hex more than once on a target?",
+      "anchor_heading": "## Witch, Evil Eye Hex: Can I use this hex more than once on a target?",
+      "description": "Yes. As long as you apply a different penalty with each use of the hex (AC, ability checks, attack rolls, saving throws, or skill checks), you can...",
+      "keywords": [
+        "witch",
+        "evil",
+        "eye",
+        "hex",
+        "use",
+        "hex",
+        "more",
+        "than",
+        "once",
+        "target"
+      ]
+    },
+    {
+      "id": "faq_witch_flight_hex_can_my_witch_use_herfeather_fallandlevitate",
+      "title": "Witch, Flight Hex: Can my witch use herfeather fallandlevitateabilities on other creatures?",
+      "anchor_heading": "## Witch, Flight Hex: Can my witch use herfeather fallandlevitateabilities on other creatures?",
+      "description": "No. All aspects of the flight hex affect only the witch (though she can carry objects or creatures as part of her weight allowance as described in...",
+      "keywords": [
+        "witch",
+        "flight",
+        "hex",
+        "witch",
+        "use",
+        "herfeather",
+        "fallandlevitateabilities",
+        "other",
+        "creatures"
+      ]
+    },
+    {
+      "id": "faq_witch_fortune_hex_how_often_can_a_creature_benefit_from_this",
+      "title": "Witch, Fortune Hex: How often can a creature \"benefit\" from this hex? If it lasts more than one round, does it end after the first time it is used?",
+      "anchor_heading": "## Witch, Fortune Hex: How often can a creature \"benefit\" from this hex? If it lasts more than one round, does it end after the first time it is used?",
+      "description": "When a creature becomes the target of the fortune hex, it gains the benefit of that hex once per round, until the hex runs out, as determined by th...",
+      "keywords": [
+        "witch",
+        "fortune",
+        "hex",
+        "often",
+        "creature",
+        "benefit",
+        "hex",
+        "lasts",
+        "more",
+        "than"
+      ]
+    },
+    {
+      "id": "faq_witch_healing_hex_can_i_use_this_hex_to_damage_undead_if_so_",
+      "title": "Witch, Healing Hex: Can I use this hex to damage undead? If so, how often can I affect a particular undead?",
+      "anchor_heading": "## Witch, Healing Hex: Can I use this hex to damage undead? If so, how often can I affect a particular undead?",
+      "description": "The hex acts like the appropriatecure woundsspell, so it damages undead.When used this to damage undead, it should have the same once-per-24-hours...",
+      "keywords": [
+        "witch",
+        "healing",
+        "hex",
+        "use",
+        "hex",
+        "damage",
+        "undead",
+        "often",
+        "affect",
+        "particular"
+      ]
+    },
+    {
+      "id": "faq_witch_if_a_hex_says_it_can_only_affect_a_creature_once_every",
+      "title": "Witch: If a hex says it can only affect a creature once every 24 hours, does that mean no other witch can use it on that target?",
+      "anchor_heading": "## Witch: If a hex says it can only affect a creature once every 24 hours, does that mean no other witch can use it on that target?",
+      "description": "No, the restriction only applies to that particular witch using that hex, and doesn't prevent other witches from using their own hex with that name...",
+      "keywords": [
+        "witch",
+        "hex",
+        "says",
+        "only",
+        "affect",
+        "creature",
+        "once",
+        "every",
+        "hours",
+        "mean"
+      ]
+    },
+    {
+      "id": "faq_witch_if_i_take_levels_in_a_prestige_class_that_advances_my_",
+      "title": "Witch: If I take levels in a prestige class that advances my spellcasting, do I continue to gain bonus spells from my patron as I gain levels?",
+      "anchor_heading": "## Witch: If I take levels in a prestige class that advances my spellcasting, do I continue to gain bonus spells from my patron as I gain levels?",
+      "description": "No. That is a class feature of the witch class, and the standard \"+1 level of spellcasting\" prestige class ability only advances spells known, spel...",
+      "keywords": [
+        "witch",
+        "take",
+        "levels",
+        "prestige",
+        "class",
+        "advances",
+        "spellcasting",
+        "continue",
+        "gain",
+        "bonus"
+      ]
+    },
+    {
+      "id": "faq_arcane_blast_is_using_this_feat_page_150_a_spelllike_or_supe",
+      "title": "Arcane Blast: Is using this feat (page 150) a spell-like or supernatural ability?",
+      "anchor_heading": "## Arcane Blast: Is using this feat (page 150) a spell-like or supernatural ability?",
+      "description": "It is a supernatural ability.\n\nUpdate: Page 150, add this sentence to the end of the Arcane Blast feat description: \"This is a supernatural ability.\"",
+      "keywords": [
+        "arcane",
+        "blast",
+        "using",
+        "feat",
+        "page",
+        "150",
+        "spell",
+        "like",
+        "supernatural",
+        "ability"
+      ]
+    },
+    {
+      "id": "faq_bodyguard_the_bodyguard_feat_says_that_i_can_spend_one_of_my",
+      "title": "Bodyguard: The Bodyguard feat says that I can spend one of my attacks of opportunity to aid another the AC of an adjacent ally, but it doesn\u2019t say one way or the other whether this removes other restrictions on aid another? Particularly, do I need to threaten the attacking enemy? Also, has that enemy provoked an attack of opportunity from me?",
+      "anchor_heading": "## Bodyguard: The Bodyguard feat says that I can spend one of my attacks of opportunity to aid another the AC of an adjacent ally, but it doesn\u2019t say one way or the other whether this removes other restrictions on aid another? Particularly, do I need to threaten the attacking enemy? Also, has that enemy provoked an attack of opportunity from me?",
+      "description": "You still need to fulfill all requirements of aid another, including threatening the attacking enemy. Bodyguard uses up one of your attacks of oppo...",
+      "keywords": [
+        "bodyguard",
+        "bodyguard",
+        "feat",
+        "says",
+        "spend",
+        "one",
+        "attacks",
+        "opportunity",
+        "aid",
+        "another"
+      ]
+    },
+    {
+      "id": "faq_cloud_step_how_does_this_feat_and_spider_step_interact_with_",
+      "title": "Cloud Step: How does this feat (and Spider Step) interact with a level 20 monk who can fall an unlimited distance?",
+      "anchor_heading": "## Cloud Step: How does this feat (and Spider Step) interact with a level 20 monk who can fall an unlimited distance?",
+      "description": "Both of those feats should allow the monk to travel up to 50 feet (if it weren't for the level 20 change to \"unlimited,\" the mathematical progressi...",
+      "keywords": [
+        "cloud",
+        "step",
+        "feat",
+        "spider",
+        "step",
+        "interact",
+        "level",
+        "monk",
+        "fall",
+        "unlimited"
+      ]
+    },
+    {
+      "id": "faq_gang_up_does_this_feat_page_161_allow_you_to_flank_a_foe_wit",
+      "title": "Gang Up: Does this feat (page 161) allow you to flank a foe with ranged weapons?",
+      "anchor_heading": "## Gang Up: Does this feat (page 161) allow you to flank a foe with ranged weapons?",
+      "description": "The Gang Up feat allows you to count as flanking so long as two of your allies are threatening your opponent. The feat makes no mention of ranged a...",
+      "keywords": [
+        "gang",
+        "feat",
+        "page",
+        "161",
+        "allow",
+        "flank",
+        "foe",
+        "ranged",
+        "weapons"
+      ]
+    },
+    {
+      "id": "faq_magical_lineage_trait_can_i_use_this_trait_to_adjust_a_spell",
+      "title": "Magical Lineage (trait): Can I use this trait to adjust a spell's effective level below the unmodified spell's original level?",
+      "anchor_heading": "## Magical Lineage (trait): Can I use this trait to adjust a spell's effective level below the unmodified spell's original level?",
+      "description": "No. For example, it won't allow you to alter a wizard'sfireballinto 2nd-level spell.",
+      "keywords": [
+        "magical",
+        "lineage",
+        "trait",
+        "use",
+        "trait",
+        "adjust",
+        "spell",
+        "effective",
+        "level",
+        "below"
+      ]
+    },
+    {
+      "id": "faq_perfect_strike_can_i_use_this_feat_with_unarmed_strikes",
+      "title": "Perfect Strike: Can I use this feat with unarmed strikes?",
+      "anchor_heading": "## Perfect Strike: Can I use this feat with unarmed strikes?",
+      "description": "As written, you can only use the feat with the specific weapons mentioned in the feat description.\n\nSo why does the feat have Improved Unarmed Stri...",
+      "keywords": [
+        "perfect",
+        "strike",
+        "use",
+        "feat",
+        "unarmed",
+        "strikes"
+      ]
+    },
+    {
+      "id": "faq_racial_heritage_can_a_human_with_this_feat_take_levels_in_an",
+      "title": "Racial Heritage: Can a human with this feat take levels in an archetype that requires you to be of a specific race?",
+      "anchor_heading": "## Racial Heritage: Can a human with this feat take levels in an archetype that requires you to be of a specific race?",
+      "description": "Yes, the Racial Heritage feat allows you to qualify for archetypes that have the chosen race as a requirement, assuming you still meet all of the o...",
+      "keywords": [
+        "racial",
+        "heritage",
+        "human",
+        "feat",
+        "take",
+        "levels",
+        "archetype",
+        "requires",
+        "specific",
+        "race"
+      ]
+    },
+    {
+      "id": "faq_selective_spell_as_written_this_allows_you_to_selectively_ig",
+      "title": "Selective Spell: As written, this allows you to selectively ignore spells likeblack tentaclesandantimagic field. Is that the intent of the feat?",
+      "anchor_heading": "## Selective Spell: As written, this allows you to selectively ignore spells likeblack tentaclesandantimagic field. Is that the intent of the feat?",
+      "description": "No, it only affects instantaneous-duration spells. The APG errata will clarify this. (SKR 10/08/10)",
+      "keywords": [
+        "selective",
+        "spell",
+        "written",
+        "allows",
+        "selectively",
+        "ignore",
+        "spells",
+        "likeblack",
+        "tentaclesandantimagic",
+        "field"
+      ]
+    },
+    {
+      "id": "faq_creating_items_and_caster_level_the_apg_magic_items_chapter_",
+      "title": "Creating Items and Caster Level: The APG magic items chapter says (on page 282), \"The creator's caster level must be as high as the item's caster level.\" This contradicts theCore Rulebook. Which is correct?",
+      "anchor_heading": "## Creating Items and Caster Level: The APG magic items chapter says (on page 282), \"The creator's caster level must be as high as the item's caster level.\" This contradicts theCore Rulebook. Which is correct?",
+      "description": "That line in the APG is an error. An item's caster level is not a prerequisite for item creation unless it is specifically mentioned in an item's R...",
+      "keywords": [
+        "creating",
+        "items",
+        "caster",
+        "level",
+        "apg",
+        "magic",
+        "items",
+        "chapter",
+        "says",
+        "page"
+      ]
+    },
+    {
+      "id": "faq_effective_level_increases_from_magic_items_several_items_in_",
+      "title": "Effective Level Increases From Magic Items: Several items in the APG increase a character's effective level for class abilities, such as thenecklace of ki serenityfor monks,robes of arcane heritagefor sorcerers, andsilver smite braceletfor paladins. What exactly does that entail?",
+      "anchor_heading": "## Effective Level Increases From Magic Items: Several items in the APG increase a character's effective level for class abilities, such as thenecklace of ki serenityfor monks,robes of arcane heritagefor sorcerers, andsilver smite braceletfor paladins. What exactly does that entail?",
+      "description": "The necklace says it affects \"the size of his ki pool and the level-based effects of his ki pool ability (such as bypassing damage reduction).\" Thu...",
+      "keywords": [
+        "effective",
+        "level",
+        "increases",
+        "magic",
+        "items",
+        "several",
+        "items",
+        "apg",
+        "increase",
+        "character"
+      ]
+    },
+    {
+      "id": "faq_huntsman_how_much_of_a_bonus_does_a_weapon_with_thehuntsmanp",
+      "title": "Huntsman: How much of a bonus does a weapon with thehuntsmanproperty add to your Survival checks?",
+      "anchor_heading": "## Huntsman: How much of a bonus does a weapon with thehuntsmanproperty add to your Survival checks?",
+      "description": "The bonus is equal to the enhancement bonus of the weapon.This information will be included in the next printing of the APG.",
+      "keywords": [
+        "huntsman",
+        "much",
+        "bonus",
+        "weapon",
+        "thehuntsmanproperty",
+        "add",
+        "survival",
+        "checks"
+      ]
+    },
+    {
+      "id": "faq_staves_the_staves_in_the_magic_item_section_of_theadvanced_p",
+      "title": "Staves: The staves in the magic item section of theAdvanced Player's Guideappear to be at half the normal price. Is this correct?",
+      "anchor_heading": "## Staves: The staves in the magic item section of theAdvanced Player's Guideappear to be at half the normal price. Is this correct?",
+      "description": "No, the staves in theAdvanced Player's Guideare incorrectly priced and should be double the listed price. These staves have been reprinted inUltima...",
+      "keywords": [
+        "staves",
+        "staves",
+        "magic",
+        "item",
+        "section",
+        "theadvanced",
+        "player",
+        "guideappear",
+        "half",
+        "normal"
+      ]
+    },
+    {
+      "id": "faq_weapon_cord_what_kind_of_action_is_it_to_recover_a_weapon_at",
+      "title": "Weapon Cord: What kind of action is it to recover a weapon attached to your wrist with a weapon cord?",
+      "anchor_heading": "## Weapon Cord: What kind of action is it to recover a weapon attached to your wrist with a weapon cord?",
+      "description": "As originally published, this was a swift action. The design team has changed this to a move action. This will be updated in the next printing of t...",
+      "keywords": [
+        "weapon",
+        "cord",
+        "kind",
+        "action",
+        "recover",
+        "weapon",
+        "attached",
+        "wrist",
+        "weapon",
+        "cord"
+      ]
+    },
+    {
+      "id": "faq_does_not_stack_with_and_spells_with_effects_other_than_bonus",
+      "title": "\"Does not stack with\" and spells with effects other than bonuses: What does it mean if a spell tells me it doesn\u2019t stack with another spell or \"similar effects\" if some of the effects aren't bonuses?",
+      "anchor_heading": "## \"Does not stack with\" and spells with effects other than bonuses: What does it mean if a spell tells me it doesn\u2019t stack with another spell or \"similar effects\" if some of the effects aren't bonuses?",
+      "description": "If you have two spells with effects other than bonuses and those spells or effects are called out not to stack, that means that the effects that ap...",
+      "keywords": [
+        "not",
+        "stack",
+        "spells",
+        "effects",
+        "other",
+        "than",
+        "bonuses",
+        "mean",
+        "spell",
+        "tells"
+      ]
+    }
+  ],
+  "category": "FAQ"
+}

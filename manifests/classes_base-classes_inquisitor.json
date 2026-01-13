@@ -2,65 +2,350 @@
   "file": "inquisitor.md",
   "source_path": "https://www.d20pfsrd.com/classes/base-classes/inquisitor/",
   "source_name": "Class: Inquisitor",
+  "category": "Classes",
+  "toc_content": "Contents\n+ [Class Skills](#class_skills)\n+ [Class Features](#class_features)\n  - [Weapon and Armor Proficiency](#weapon_and_armor_proficiency)\n  - [Spells](#spells)\n  - [Domain (or Inquisition)](#domain_or_inquisition)\n  - [Judgment (Su)](#judgment_su)\n  - [Monster Lore (Ex)](#monster_lore_ex)\n  - [Orisons](#orisons)\n  - [Stern Gaze (Ex)](#stern_gaze_ex)\n  - [Cunning Initiative (Ex)](#cunning_initiative_ex)\n  - [Detect Alignment (Sp)](#detect_alignment_sp)\n  - [Track (Ex)](#track_ex)\n  - [Solo Tactics (Ex)](#solo_tactics_ex)\n  - [Teamwork Feat](#teamwork_feat)\n  - [Bane (Su)](#bane_su)\n  - [Discern Lies (Sp)](#discern_lies_sp)\n  - [Second Judgment (Ex)](#second_judgment_ex)\n  - [Stalwart (Ex)](#stalwart_ex)\n  - [Greater Bane (Su)](#greater_bane_su)\n  - [Exploit Weakness (Ex)](#exploit_weakness_ex)\n  - [Third Judgment (Ex)](#third_judgment_ex)\n  - [Slayer (Ex)](#slayer_ex)\n  - [True Judgment (Su)](#true_judgment_su)\n+ [Alternative Capstone Ability](#alternative_capstone_ability)\n  - [Team Leader (Ex)](#team_leader_ex)\n* [Chaotic, Evil, Good, and Lawful Spells](#chaotic_evil_good_and_lawful_spells)\n* [Ex-Inquisitors](#ex-inquisitors)\n* [Favored Class Bonuses](#favored_class_bonuses)\n* [Archetypes & Alternate Class Features](#archetypes_alternate_class_features)",
   "sections": [
     {
-      "id": "inquisitor",
-      "title": "Inquisitor",
+      "id": "inquisitor_overview",
+      "title": "Inquisitor (Class Overview)",
       "anchor_heading": "# Inquisitor",
-      "includes_subheadings": [
-        "### Class Skills",
-        "### Class Features",
-        "#### Weapon and Armor Proficiency",
-        "#### Spells",
-        "#### Domain (or Inquisition)",
-        "#### Judgment (Su)",
-        "#### Monster Lore (Ex)",
-        "#### Orisons",
-        "#### Stern Gaze (Ex)",
-        "#### Cunning Initiative (Ex)",
-        "#### Detect Alignment (Sp)",
-        "#### Track (Ex)",
-        "#### Solo Tactics (Ex)",
-        "#### Teamwork Feat",
-        "#### Bane (Su)",
-        "#### Discern Lies (Sp)",
-        "#### Second Judgment (Ex)",
-        "#### Stalwart (Ex)",
-        "#### Greater Bane (Su)",
-        "#### Exploit Weakness (Ex)",
-        "#### Third Judgment (Ex)",
-        "#### Slayer (Ex)",
-        "#### True Judgment (Su)",
-        "### Alternative Capstone Ability",
-        "#### Team Leader (Ex)"
-      ],
-      "description": "Complete rules for the Inquisitor class in Pathfinder 1e, covering class features like judgments, bane abilities, solo tactics, teamwork feats, spellcasting, and all progression from levels 1-20.",
+      "end_at_heading": "### Class Skills {#class_skills}",
+      "description": "Overview of the Inquisitor class including role, alignment, hit die, and starting wealth.",
       "keywords": [
         "inquisitor",
-        "judgment",
-        "bane",
-        "greater bane",
-        "solo tactics",
-        "teamwork feat",
-        "stern gaze",
-        "cunning initiative",
-        "detect alignment",
-        "track",
-        "discern lies",
-        "second judgment",
-        "stalwart",
-        "exploit weakness",
-        "third judgment",
-        "slayer",
-        "true judgment",
-        "monster lore",
-        "orisons",
+        "class",
+        "hit die",
+        "role",
+        "alignment"
+      ]
+    },
+    {
+      "id": "inquisitor_weapon_and_armor_proficiency",
+      "title": "Weapon and Armor Proficiency (Inquisitor)",
+      "anchor_heading": "#### Weapon and Armor Proficiency {#weapon_and_armor_proficiency}",
+      "description": "Inquisitors are proficient with simple weapons, hand crossbow, longbow, repeating crossbow, shortbow, their deity's favored weapon, light and medium armor, and shields (except tower shields).",
+      "keywords": [
+        "weapon proficiency",
+        "armor proficiency",
+        "simple weapons",
+        "hand crossbow",
+        "longbow",
+        "repeating crossbow",
+        "shortbow",
+        "favored weapon",
+        "deity favored weapon",
+        "light armor",
+        "medium armor",
+        "shields",
+        "tower shields"
+      ]
+    },
+    {
+      "id": "inquisitor_spells",
+      "title": "Spells (Inquisitor)",
+      "anchor_heading": "#### Spells {#spells}",
+      "description": "Inquisitors cast divine spells spontaneously from the inquisitor spell list using Wisdom as their casting ability score.",
+      "keywords": [
+        "spells",
+        "divine spells",
+        "spontaneous casting",
+        "inquisitor spell list",
+        "wisdom",
+        "spell DC",
+        "spells per day",
+        "spells known",
+        "spell swapping"
+      ]
+    },
+    {
+      "id": "inquisitor_domain_or_inquisition",
+      "title": "Domain (or Inquisition) (Inquisitor)",
+      "anchor_heading": "#### Domain (or Inquisition) {#domain_or_inquisition}",
+      "description": "Inquisitors select one domain from their deity or an inquisition, gaining domain powers but not bonus spells or spell slots.",
+      "keywords": [
         "domain",
         "inquisition",
-        "ex-inquisitor",
-        "team leader"
+        "domain powers",
+        "deity domain",
+        "alignment domain",
+        "cleric levels",
+        "effective cleric level"
+      ]
+    },
+    {
+      "id": "inquisitor_judgment_su",
+      "title": "Judgment (Su) (Inquisitor)",
+      "anchor_heading": "#### Judgment (Su) {#judgment_su}",
+      "description": "As a swift action, inquisitors can pronounce judgment to gain combat bonuses that last until combat ends, with various judgment types providing different benefits.",
+      "keywords": [
+        "judgment",
+        "swift action",
+        "destruction",
+        "healing",
+        "justice",
+        "piercing",
+        "protection",
+        "purity",
+        "resiliency",
+        "resistance",
+        "smiting",
+        "sacred bonus",
+        "profane bonus",
+        "fast healing",
+        "damage reduction",
+        "energy resistance"
+      ]
+    },
+    {
+      "id": "inquisitor_monster_lore_ex",
+      "title": "Monster Lore (Ex) (Inquisitor)",
+      "anchor_heading": "#### Monster Lore (Ex) {#monster_lore_ex}",
+      "description": "Inquisitors add their Wisdom modifier to Knowledge checks made to identify creature abilities and weaknesses, in addition to Intelligence.",
+      "keywords": [
+        "monster lore",
+        "knowledge checks",
+        "wisdom modifier",
+        "identify creatures",
+        "creature abilities",
+        "creature weaknesses"
+      ]
+    },
+    {
+      "id": "inquisitor_orisons",
+      "title": "Orisons (Inquisitor)",
+      "anchor_heading": "#### Orisons {#orisons}",
+      "description": "Inquisitors can cast 0-level spells (orisons) at will without expending them, though metamagic versions are expended normally.",
+      "keywords": [
+        "orisons",
+        "0-level spells",
+        "at will",
+        "cantrips",
+        "metamagic",
+        "spell slots"
+      ]
+    },
+    {
+      "id": "inquisitor_stern_gaze_ex",
+      "title": "Stern Gaze (Ex) (Inquisitor)",
+      "anchor_heading": "#### Stern Gaze (Ex) {#stern_gaze_ex}",
+      "description": "Inquisitors gain a morale bonus equal to half their level (minimum +1) on Intimidate and Sense Motive checks.",
+      "keywords": [
+        "stern gaze",
+        "morale bonus",
+        "intimidate",
+        "sense motive",
+        "half level"
+      ]
+    },
+    {
+      "id": "inquisitor_cunning_initiative_ex",
+      "title": "Cunning Initiative (Ex) (Inquisitor)",
+      "anchor_heading": "#### Cunning Initiative (Ex) {#cunning_initiative_ex}",
+      "description": "Inquisitors add their Wisdom modifier to initiative checks in addition to their Dexterity modifier.",
+      "keywords": [
+        "cunning initiative",
+        "initiative",
+        "wisdom modifier",
+        "dexterity modifier"
+      ]
+    },
+    {
+      "id": "inquisitor_detect_alignment_sp",
+      "title": "Detect Alignment (Sp) (Inquisitor)",
+      "anchor_heading": "#### Detect Alignment (Sp) {#detect_alignment_sp}",
+      "description": "Inquisitors can use detect chaos, detect evil, detect good, or detect law at will, but only one at a time.",
+      "keywords": [
+        "detect alignment",
+        "detect chaos",
+        "detect evil",
+        "detect good",
+        "detect law",
+        "at will",
+        "spell-like ability"
+      ]
+    },
+    {
+      "id": "inquisitor_track_ex",
+      "title": "Track (Ex) (Inquisitor)",
+      "anchor_heading": "#### Track (Ex) {#track_ex}",
+      "description": "Inquisitors add half their level as a bonus to Survival checks made to follow or identify tracks.",
+      "keywords": [
+        "track",
+        "survival",
+        "tracking",
+        "follow tracks",
+        "identify tracks",
+        "half level"
+      ]
+    },
+    {
+      "id": "inquisitor_solo_tactics_ex",
+      "title": "Solo Tactics (Ex) (Inquisitor)",
+      "anchor_heading": "#### Solo Tactics (Ex) {#solo_tactics_ex}",
+      "description": "Inquisitors treat all allies as having the same teamwork feats for determining if the inquisitor gains bonuses from her teamwork feats.",
+      "keywords": [
+        "solo tactics",
+        "teamwork feats",
+        "allies",
+        "feat prerequisites",
+        "positioning"
+      ]
+    },
+    {
+      "id": "inquisitor_teamwork_feat",
+      "title": "Teamwork Feat (Inquisitor)",
+      "anchor_heading": "#### Teamwork Feat {#teamwork_feat}",
+      "description": "Inquisitors gain bonus teamwork feats every three levels and can change their most recent teamwork feat as a standard action a number of times per day equal to their Wisdom modifier.",
+      "keywords": [
+        "teamwork feat",
+        "bonus feat",
+        "standard action",
+        "change feat",
+        "wisdom modifier",
+        "feat swapping"
+      ]
+    },
+    {
+      "id": "inquisitor_bane_su",
+      "title": "Bane (Su) (Inquisitor)",
+      "anchor_heading": "#### Bane (Su) {#bane_su}",
+      "description": "Inquisitors can imbue a weapon with the bane special ability as a swift action, selecting a creature type that can be changed as a swift action.",
+      "keywords": [
+        "bane",
+        "weapon special ability",
+        "swift action",
+        "creature type",
+        "humanoid",
+        "outsider",
+        "subtype",
+        "rounds per day",
+        "double weapon"
+      ]
+    },
+    {
+      "id": "inquisitor_discern_lies_sp",
+      "title": "Discern Lies (Sp) (Inquisitor)",
+      "anchor_heading": "#### Discern Lies (Sp) {#discern_lies_sp}",
+      "description": "Inquisitors can use discern lies as an immediate action for a number of rounds per day equal to their level.",
+      "keywords": [
+        "discern lies",
+        "immediate action",
+        "rounds per day",
+        "truth",
+        "deception"
+      ]
+    },
+    {
+      "id": "inquisitor_second_judgment_ex",
+      "title": "Second Judgment (Ex) (Inquisitor)",
+      "anchor_heading": "#### Second Judgment (Ex) {#second_judgment_ex}",
+      "description": "Inquisitors can select two different judgments when using their judgment ability, using only one daily use, and can change one judgment as a swift action.",
+      "keywords": [
+        "second judgment",
+        "multiple judgments",
+        "swift action",
+        "change judgment"
+      ]
+    },
+    {
+      "id": "inquisitor_stalwart_ex",
+      "title": "Stalwart (Ex) (Inquisitor)",
+      "anchor_heading": "#### Stalwart (Ex) {#stalwart_ex}",
+      "description": "When wearing light/medium armor or no armor, inquisitors completely avoid effects on successful Fortitude or Will saves that normally have reduced effects.",
+      "keywords": [
+        "stalwart",
+        "fortitude save",
+        "will save",
+        "reduced effect",
+        "light armor",
+        "medium armor",
+        "helpless"
+      ]
+    },
+    {
+      "id": "inquisitor_greater_bane_su",
+      "title": "Greater Bane (Su) (Inquisitor)",
+      "anchor_heading": "#### Greater Bane (Su) {#greater_bane_su}",
+      "description": "The inquisitor's bane ability deals 4d6 bonus damage instead of the normal 2d6+2.",
+      "keywords": [
+        "greater bane",
+        "4d6 damage",
+        "enhanced bane",
+        "bonus damage"
+      ]
+    },
+    {
+      "id": "inquisitor_exploit_weakness_ex",
+      "title": "Exploit Weakness (Ex) (Inquisitor)",
+      "anchor_heading": "#### Exploit Weakness (Ex) {#exploit_weakness_ex}",
+      "description": "On critical hits, inquisitors ignore damage reduction, suppress regeneration for one round, and deal extra energy damage to vulnerable creatures.",
+      "keywords": [
+        "exploit weakness",
+        "critical hit",
+        "damage reduction",
+        "regeneration",
+        "vulnerability",
+        "energy damage",
+        "extra damage per die"
+      ]
+    },
+    {
+      "id": "inquisitor_third_judgment_ex",
+      "title": "Third Judgment (Ex) (Inquisitor)",
+      "anchor_heading": "#### Third Judgment (Ex) {#third_judgment_ex}",
+      "description": "Inquisitors can select three different judgments when using their judgment ability, using only one daily use, and can change one judgment as a swift action.",
+      "keywords": [
+        "third judgment",
+        "multiple judgments",
+        "three judgments",
+        "swift action",
+        "change judgment"
+      ]
+    },
+    {
+      "id": "inquisitor_slayer_ex",
+      "title": "Slayer (Ex) (Inquisitor)",
+      "anchor_heading": "#### Slayer (Ex) {#slayer_ex}",
+      "description": "When using judgment, inquisitors select one judgment type to enhance, treating their level as 5 higher for that judgment's effects, and this enhanced judgment cannot be changed.",
+      "keywords": [
+        "slayer",
+        "enhanced judgment",
+        "5 levels higher",
+        "focus judgment",
+        "cannot change"
+      ]
+    },
+    {
+      "id": "inquisitor_true_judgment_su",
+      "title": "True Judgment (Su) (Inquisitor)",
+      "anchor_heading": "#### True Judgment (Su) {#true_judgment_su}",
+      "description": "As a swift action during judgment, inquisitors can make an attack that forces the target to make a Fortitude save or die, usable once every 1d4 rounds.",
+      "keywords": [
+        "true judgment",
+        "swift action",
+        "fortitude save",
+        "save or die",
+        "melee attack",
+        "ranged attack",
+        "30 feet",
+        "1d4 rounds",
+        "24 hour immunity"
+      ]
+    },
+    {
+      "id": "inquisitor_team_leader_ex",
+      "title": "Team Leader (Ex) (Inquisitor)",
+      "anchor_heading": "#### Team Leader (Ex) {#team_leader_ex}",
+      "description": "Inquisitors can spend 1 hour daily to grant three of their teamwork feats to a number of allies equal to their Wisdom modifier for 24 hours.",
+      "keywords": [
+        "team leader",
+        "teamwork feats",
+        "1 hour training",
+        "wisdom modifier",
+        "24 hours",
+        "bonus feats",
+        "allies"
       ]
     }
-  ],
-  "category": "Classes"
+  ]
 }

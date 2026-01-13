@@ -2,71 +2,371 @@
   "file": "monk-unchained.md",
   "source_path": "https://www.d20pfsrd.com/classes/unchained-classes/monk-unchained/",
   "source_name": "Class: Unchained Monk",
+  "category": "Classes",
+  "toc_content": "Contents\n+ [Class Skills](#class_skills)\n+ [Class Features](#class_features)\n  - [Weapon and Armor Proficiency](#weapon_and_armor_proficiency)\n  - [AC Bonus](#ac_bonus)\n  - [Bonus Feat](#bonus_feat)\n  - [Flurry of Blows](#flurry_of_blows)\n  - [Stunning Fist](#stunning_fist)\n  - [Unarmed Strike](#unarmed_strike)\n  - [Evasion](#evasion)\n  - [Fast Movement](#fast_movement)\n  - [Ki Pool (Su)](#ki_pool_su)\n  - [Ki Power (Su)](#ki_power_su)\n  - [Still Mind (Ex)](#still_mind_ex)\n  - [Purity of Body (Ex)](#purity_of_body_ex)\n  - [Style Strike (Ex)](#style_strike_ex)\n  - [Improved Evasion (Ex)](#improved_evasion_ex)\n  - [Tongue of the Sun and Moon (Ex)](#tongue_of_the_sun_and_moon_ex)\n  - [Timeless Body (Ex)](#timeless_body_ex)\n  - [Flawless Mind](#flawless_mind)\n  - [Perfect Self](#perfect_self)\n+ [Alternative Capstone Ability](#alternative_capstone_ability)\n  - [Old Master (Ex)](#old_master_ex)\n* [Ex-Monks](#ex-monks)\n* [Archetypes & Alternate Class Features](#archetypes_alternate_class_features)",
   "sections": [
     {
-      "id": "monk_unchained",
-      "title": "Unchained Monk",
+      "id": "unchained_monk_overview",
+      "title": "Unchained Monk (Class Overview)",
       "anchor_heading": "# Unchained Monk",
-      "includes_subheadings": [
-        "### Class Skills",
-        "### Class Features",
-        "#### Weapon and Armor Proficiency",
-        "#### AC Bonus",
-        "#### Bonus Feat",
-        "#### Flurry of Blows",
-        "#### Stunning Fist",
-        "#### Unarmed Strike",
-        "#### Evasion",
-        "#### Fast Movement",
-        "#### *Ki* Pool (Su)",
-        "#### *Ki* Power (Su)",
-        "#### Still Mind (Ex)",
-        "#### Purity of Body (Ex)",
-        "#### Style Strike (Ex)",
-        "#### Improved Evasion (Ex)",
-        "#### Tongue of the Sun and Moon (Ex)",
-        "#### Timeless Body (Ex)",
-        "#### Flawless Mind",
-        "#### Perfect Self",
-        "### Alternative Capstone Ability",
-        "#### Old Master (Ex)"
-      ],
-      "description": "Complete rules for the Unchained Monk class, covering all class features, ki powers, style strikes, and alternative class mechanics for this martial artist character class.",
+      "end_at_heading": "### Class Skills {#class_skills}",
+      "description": "Overview of the Unchained Monk class including role, alignment, hit die, and starting wealth.",
       "keywords": [
         "unchained monk",
-        "monk unchained",
-        "ki pool",
-        "ki power",
-        "ki powers",
-        "flurry of blows",
-        "style strike",
-        "style strikes",
-        "stunning fist",
-        "unarmed strike",
-        "perfect self",
-        "diamond soul",
-        "abundant step",
-        "quivering palm",
-        "empty body",
-        "wholeness of body",
-        "timeless body",
-        "purity of body",
-        "still mind",
-        "improved evasion",
-        "tongue of the sun and moon",
-        "flawless mind",
-        "ki strike",
-        "fast movement",
+        "class",
+        "hit die",
+        "role",
+        "alignment"
+      ]
+    },
+    {
+      "id": "unchained_monk_weapon_and_armor_proficiency",
+      "title": "Weapon and Armor Proficiency (Unchained Monk)",
+      "anchor_heading": "#### Weapon and Armor Proficiency {#weapon_and_armor_proficiency}",
+      "description": "Monks are proficient with specific weapons and cannot wear armor or shields without losing class abilities. Wearing armor, using shields, or carrying medium/heavy loads disables AC bonus, fast movement, and flurry of blows.",
+      "keywords": [
+        "weapon proficiency",
+        "armor proficiency",
+        "monk weapons",
+        "special weapon quality",
+        "AC bonus loss",
+        "fast movement loss",
+        "flurry of blows loss",
+        "unarmored",
+        "unencumbered",
+        "medium load",
+        "heavy load"
+      ]
+    },
+    {
+      "id": "unchained_monk_ac_bonus",
+      "title": "AC Bonus (Unchained Monk)",
+      "anchor_heading": "#### AC Bonus {#ac_bonus}",
+      "description": "When unarmored and unencumbered, monk adds Wisdom bonus to AC and CMD, plus a scaling bonus that increases every 4 levels. These bonuses apply against touch attacks and when flat-footed but are lost when immobilized or helpless.",
+      "keywords": [
         "AC bonus",
-        "ki metabolism",
-        "high jump",
-        "sudden speed",
-        "feather balance",
-        "elemental fury",
-        "diamond body",
-        "diamond resilience"
+        "unarmored",
+        "Wisdom to AC",
+        "CMD bonus",
+        "touch attacks",
+        "flat-footed AC",
+        "immobilized",
+        "helpless",
+        "armor class",
+        "combat maneuver defense"
+      ]
+    },
+    {
+      "id": "unchained_monk_bonus_feat",
+      "title": "Bonus Feat (Unchained Monk)",
+      "anchor_heading": "#### Bonus Feat {#bonus_feat}",
+      "description": "Monks gain bonus feats from a specific list at 1st, 2nd level, and every 4 levels thereafter, with additional feats becoming available at 6th and 10th level. Prerequisites are waived for these feats.",
+      "keywords": [
+        "bonus feat",
+        "monk bonus feats",
+        "combat feats",
+        "no prerequisites",
+        "Catch Off-Guard",
+        "Combat Reflexes",
+        "Deflect Arrows",
+        "Dodge",
+        "Improved Grapple",
+        "Scorpion Style",
+        "Throw Anything",
+        "Gorgon's Fist",
+        "Improved Bull Rush",
+        "Improved Disarm",
+        "Improved Feint",
+        "Improved Trip",
+        "Mobility",
+        "Improved Critical",
+        "Medusa's Wrath",
+        "Snatch Arrows",
+        "Spring Attack"
+      ]
+    },
+    {
+      "id": "unchained_monk_flurry_of_blows",
+      "title": "Flurry of Blows (Unchained Monk)",
+      "anchor_heading": "#### Flurry of Blows {#flurry_of_blows}",
+      "description": "As a full-attack action, monks gain additional attacks at their highest base attack bonus, stacking with haste and similar effects. At 11th level, they gain one more additional attack during flurry.",
+      "keywords": [
+        "flurry of blows",
+        "full-attack action",
+        "additional attack",
+        "highest base attack bonus",
+        "monk weapons",
+        "unarmed strikes",
+        "haste stacking",
+        "multiple weapons",
+        "base attack bonus",
+        "11th level improvement"
+      ]
+    },
+    {
+      "id": "unchained_monk_stunning_fist",
+      "title": "Stunning Fist (Unchained Monk)",
+      "anchor_heading": "#### Stunning Fist {#stunning_fist}",
+      "description": "Monks gain Stunning Fist as a bonus feat and can apply different conditions (fatigued, sickened, staggered, blind/deaf, paralyzed) instead of stunning at higher levels. The monk chooses the effect before attacking.",
+      "keywords": [
+        "Stunning Fist",
+        "bonus feat",
+        "fatigued",
+        "sickened",
+        "staggered",
+        "blind",
+        "deaf",
+        "paralyzed",
+        "Fortitude save",
+        "conditions",
+        "choose before attack",
+        "saving throw negates"
+      ]
+    },
+    {
+      "id": "unchained_monk_unarmed_strike",
+      "title": "Unarmed Strike (Unchained Monk)",
+      "anchor_heading": "#### Unarmed Strike {#unarmed_strike}",
+      "description": "Monks gain Improved Unarmed Strike and deal scaling lethal damage with unarmed attacks using full Strength bonus. Unarmed strikes count as both manufactured and natural weapons for spell effects.",
+      "keywords": [
+        "Improved Unarmed Strike",
+        "unarmed damage",
+        "lethal damage",
+        "nonlethal damage",
+        "full Strength bonus",
+        "manufactured weapon",
+        "natural weapon",
+        "hands full",
+        "no off-hand",
+        "grappling",
+        "damage scaling",
+        "size categories"
+      ]
+    },
+    {
+      "id": "unchained_monk_evasion",
+      "title": "Evasion (Unchained Monk)",
+      "anchor_heading": "#### Evasion {#evasion}",
+      "description": "On successful Reflex saves against attacks that normally deal half damage, the monk takes no damage instead. Only works in light armor or no armor and not when helpless.",
+      "keywords": [
+        "evasion",
+        "Reflex save",
+        "no damage",
+        "half damage",
+        "area-effect attacks",
+        "light armor",
+        "helpless",
+        "saving throw"
+      ]
+    },
+    {
+      "id": "unchained_monk_fast_movement",
+      "title": "Fast Movement (Unchained Monk)",
+      "anchor_heading": "#### Fast Movement {#fast_movement}",
+      "description": "Monks gain an enhancement bonus to land speed that increases with level. This bonus is lost when wearing armor or carrying medium/heavy loads.",
+      "keywords": [
+        "fast movement",
+        "enhancement bonus",
+        "land speed",
+        "speed bonus",
+        "armor penalty",
+        "medium load",
+        "heavy load",
+        "movement speed"
+      ]
+    },
+    {
+      "id": "unchained_monk_ki_pool_su",
+      "title": "*Ki* Pool (Su) (Unchained Monk)",
+      "anchor_heading": "#### *Ki* Pool (Su) {#ki_pool_su}",
+      "description": "Monks gain a ki pool for supernatural abilities and ki strike that treats unarmed attacks as different weapon materials for overcoming damage reduction. Spending ki allows extra attacks during flurry of blows.",
+      "keywords": [
+        "ki pool",
+        "ki points",
+        "ki strike",
+        "magic weapons",
+        "damage reduction",
+        "cold iron",
+        "silver",
+        "lawful weapons",
+        "adamantine",
+        "swift action",
+        "extra attack",
+        "flurry of blows",
+        "hardness",
+        "8 hours rest",
+        "meditation"
+      ]
+    },
+    {
+      "id": "unchained_monk_ki_power_su",
+      "title": "*Ki* Power (Su) (Unchained Monk)",
+      "anchor_heading": "#### *Ki* Power (Su) {#ki_power_su}",
+      "description": "Monks select ki powers every 2 levels starting at 4th level that grant mystical abilities by spending ki points. Powers have level requirements and cannot be changed once selected.",
+      "keywords": [
+        "ki power",
+        "ki points",
+        "mystical abilities",
+        "level requirements",
+        "cannot change",
+        "Empty Body",
+        "etherealness",
+        "Feather Balance",
+        "High Jump",
+        "Ki Metabolism",
+        "suspended animation",
+        "Abundant Step",
+        "dimension door",
+        "Diamond Body",
+        "neutralize poison",
+        "Wholeness of Body",
+        "healing",
+        "Quivering Palm",
+        "death effect",
+        "Diamond Soul",
+        "spell resistance"
+      ]
+    },
+    {
+      "id": "unchained_monk_still_mind_ex",
+      "title": "Still Mind (Ex) (Unchained Monk)",
+      "anchor_heading": "#### Still Mind (Ex) {#still_mind_ex}",
+      "description": "Monks gain a +2 bonus on saving throws against enchantment spells and effects.",
+      "keywords": [
+        "still mind",
+        "enchantment",
+        "saving throw bonus",
+        "mental effects",
+        "+2 bonus"
+      ]
+    },
+    {
+      "id": "unchained_monk_purity_of_body_ex",
+      "title": "Purity of Body (Ex) (Unchained Monk)",
+      "anchor_heading": "#### Purity of Body (Ex) {#purity_of_body_ex}",
+      "description": "Monks become completely immune to all diseases, including supernatural and magical diseases.",
+      "keywords": [
+        "purity of body",
+        "disease immunity",
+        "supernatural diseases",
+        "magical diseases",
+        "immunity"
+      ]
+    },
+    {
+      "id": "unchained_monk_style_strike_ex",
+      "title": "Style Strike (Ex) (Unchained Monk)",
+      "anchor_heading": "#### Style Strike (Ex) {#style_strike_ex}",
+      "description": "During flurry of blows, monks can designate unarmed strikes as style strikes with additional effects like tripping, stunning, or dealing extra damage. Multiple style strikes become available at higher levels.",
+      "keywords": [
+        "style strike",
+        "flurry of blows",
+        "additional effects",
+        "Break",
+        "Defensive Spin",
+        "Elbow Smash",
+        "Flying Kick",
+        "Foot Stomp",
+        "Hammerblow",
+        "Head-Butt",
+        "Knockback Kick",
+        "Leg Sweep",
+        "Rabbit Punch",
+        "Shattering Punch",
+        "Spin Kick",
+        "Throat Crush",
+        "combat maneuver",
+        "flat-footed",
+        "damage reduction bypass",
+        "trip",
+        "staggered"
+      ]
+    },
+    {
+      "id": "unchained_monk_improved_evasion_ex",
+      "title": "Improved Evasion (Ex) (Unchained Monk)",
+      "anchor_heading": "#### Improved Evasion (Ex) {#improved_evasion_ex}",
+      "description": "The monk's evasion improves so that failed Reflex saves result in half damage instead of full damage, while successful saves still negate damage completely.",
+      "keywords": [
+        "improved evasion",
+        "half damage",
+        "failed Reflex save",
+        "no damage on success",
+        "helpless"
+      ]
+    },
+    {
+      "id": "unchained_monk_tongue_of_the_sun_and_moon_ex",
+      "title": "Tongue of the Sun and Moon (Ex) (Unchained Monk)",
+      "anchor_heading": "#### Tongue of the Sun and Moon (Ex) {#tongue_of_the_sun_and_moon_ex}",
+      "description": "Monks can understand and speak with any living creature as if under a permanent tongues effect.",
+      "keywords": [
+        "tongue of the sun and moon",
+        "speak with creatures",
+        "understand languages",
+        "tongues",
+        "permanent effect",
+        "living creatures"
+      ]
+    },
+    {
+      "id": "unchained_monk_timeless_body_ex",
+      "title": "Timeless Body (Ex) (Unchained Monk)",
+      "anchor_heading": "#### Timeless Body (Ex) {#timeless_body_ex}",
+      "description": "Monks no longer take ability score penalties for aging and cannot be magically aged, though existing penalties remain and they still die of old age.",
+      "keywords": [
+        "timeless body",
+        "aging penalties",
+        "magical aging",
+        "ability scores",
+        "age bonuses",
+        "old age death"
+      ]
+    },
+    {
+      "id": "unchained_monk_flawless_mind",
+      "title": "Flawless Mind (Unchained Monk)",
+      "anchor_heading": "#### Flawless Mind {#flawless_mind}",
+      "description": "Monks roll twice on Will saves and take the better result, and can attempt new saves each hour against long-duration Will save effects.",
+      "keywords": [
+        "flawless mind",
+        "Will save",
+        "roll twice",
+        "better result",
+        "hourly saves",
+        "long duration effects"
+      ]
+    },
+    {
+      "id": "unchained_monk_perfect_self",
+      "title": "Perfect Self (Unchained Monk)",
+      "anchor_heading": "#### Perfect Self {#perfect_self}",
+      "description": "Monks become outsiders for spell purposes, gain DR 10/chaotic, and can enter perfect calm to regain ki at 1 point per 10 minutes.",
+      "keywords": [
+        "perfect self",
+        "outsider type",
+        "damage reduction",
+        "DR 10/chaotic",
+        "perfect calm",
+        "ki regeneration",
+        "creature type change",
+        "nonchaotic weapons"
+      ]
+    },
+    {
+      "id": "unchained_monk_old_master_ex",
+      "title": "Old Master (Ex) (Unchained Monk)",
+      "anchor_heading": "#### Old Master (Ex) {#old_master_ex}",
+      "description": "Monks gain one additional attack at highest base attack bonus during flurry of blows and increase their dodge bonus to AC by 2.",
+      "keywords": [
+        "old master",
+        "additional attack",
+        "highest base attack bonus",
+        "flurry of blows",
+        "dodge bonus",
+        "AC increase",
+        "+2 dodge bonus"
       ]
     }
-  ],
-  "category": "Classes"
+  ]
 }

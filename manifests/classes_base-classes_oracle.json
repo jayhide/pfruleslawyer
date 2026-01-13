@@ -2,43 +2,149 @@
   "file": "oracle.md",
   "source_path": "https://www.d20pfsrd.com/classes/base-classes/oracle/",
   "source_name": "Class: Oracle",
+  "category": "Classes",
+  "toc_content": "Contents\n+ [Class Skills](#class_skills)\n+ [Class Features](#class_features)\n  - [Weapon and Armor Proficiency](#weapon_and_armor_proficiency)\n  - [Spellcasting](#spellcasting)\n  - [Mystery](#mystery)\n  - [Paizo Oracle Mysteries](#paizo_oracle_mysteries)\n  - [All Oracle Mysteries](#all_oracle_mysteries)\n  - [Oracle\u2019s Curse (Ex)](#oracles_curse_ex)\n  - [Orisons](#orisons)\n  - [Revelation](#revelation)\n  - [Final Revelation](#final_revelation)\n+ [Alternative Capstone Ability](#alternative_capstone_ability)\n  - [Diverse Mysteries (Su)](#diverse_mysteries_su)\n* [Favored Class Bonuses](#favored_class_bonuses)\n* [Archetypes & Alternate Class Features](#archetypes_alternate_class_features)",
   "sections": [
     {
-      "id": "oracle",
-      "title": "Oracle",
+      "id": "oracle_overview",
+      "title": "Oracle (Class Overview)",
       "anchor_heading": "# Oracle",
-      "includes_subheadings": [
-        "### Class Skills",
-        "#### Weapon and Armor Proficiency",
-        "#### Spellcasting",
-        "#### Mystery",
-        "#### Paizo Oracle Mysteries",
-        "#### All Oracle Mysteries",
-        "#### Oracle's Curse (Ex)",
-        "#### Orisons",
-        "#### Revelation",
-        "#### Final Revelation",
-        "#### Diverse Mysteries (Su)",
-        "## Favored Class Bonuses",
-        "## Archetypes & Alternate Class Features"
-      ],
-      "description": "Contains complete rules for the Oracle class, a divine spellcaster who gains power through mysterious forces and is affected by both a curse and revelations from their chosen mystery.",
+      "end_at_heading": "### Class Skills {#class_skills}",
+      "description": "Overview of the Oracle class including role, alignment, hit die, and starting wealth.",
       "keywords": [
         "oracle",
-        "mystery",
-        "revelation",
-        "oracle's curse",
+        "class",
+        "hit die",
+        "role",
+        "alignment"
+      ]
+    },
+    {
+      "id": "oracle_weapon_and_armor_proficiency",
+      "title": "Weapon and Armor Proficiency (Oracle)",
+      "anchor_heading": "#### Weapon and Armor Proficiency {#weapon_and_armor_proficiency}",
+      "description": "Oracles are proficient with all simple weapons, light armor, medium armor, and shields (except tower shields), with some oracle revelations granting additional proficiencies.",
+      "keywords": [
+        "weapon proficiency",
+        "armor proficiency",
+        "simple weapons",
+        "light armor",
+        "medium armor",
+        "shields",
+        "tower shields",
+        "oracle revelations",
+        "proficiencies"
+      ]
+    },
+    {
+      "id": "oracle_spellcasting",
+      "title": "Spellcasting (Oracle)",
+      "anchor_heading": "#### Spellcasting {#spellcasting}",
+      "description": "Oracles cast divine spells from the cleric spell list using Charisma as their spellcasting ability, learning a limited number of known spells but casting spontaneously without preparation.",
+      "keywords": [
+        "oracle spellcasting",
+        "divine spells",
+        "cleric spell list",
+        "charisma",
+        "spontaneous casting",
+        "spells known",
+        "spells per day",
+        "spell DC",
+        "cure spells",
+        "inflict spells",
+        "spell swapping",
+        "divine focus",
+        "charisma modifier"
+      ]
+    },
+    {
+      "id": "oracle_mystery",
+      "title": "Mystery (Oracle)",
+      "anchor_heading": "#### Mystery {#mystery}",
+      "description": "Each oracle chooses a divine mystery at 1st level that determines their spell list, class skills, and special abilities, gaining additional mystery spells every two levels.",
+      "keywords": [
+        "oracle mystery",
+        "mystery spells",
+        "class skills",
+        "mystery selection",
+        "bonus spells",
+        "mystery abilities",
+        "unchangeable choice",
+        "divine mystery"
+      ]
+    },
+    {
+      "id": "oracle_oracles_curse_ex",
+      "title": "Oracle\u2019s Curse (Ex) (Oracle)",
+      "anchor_heading": "#### Oracle\u2019s Curse (Ex) {#oracles_curse_ex}",
+      "description": "Every oracle has a permanent curse chosen at 1st level that provides both benefits and hindrances, with effects scaling based on oracle level.",
+      "keywords": [
+        "oracle curse",
+        "curse selection",
+        "curse benefits",
+        "curse hindrances",
+        "oracle level",
+        "permanent curse",
+        "deity removal",
+        "curse scaling"
+      ]
+    },
+    {
+      "id": "oracle_orisons",
+      "title": "Orisons (Oracle)",
+      "anchor_heading": "#### Orisons {#orisons}",
+      "description": "Oracles learn 0-level spells called orisons that can be cast repeatedly without consuming spell slots.",
+      "keywords": [
         "orisons",
+        "0-level spells",
+        "unlimited use",
+        "cantrips",
+        "no spell slots",
+        "oracle orisons"
+      ]
+    },
+    {
+      "id": "oracle_revelation",
+      "title": "Revelation (Oracle)",
+      "anchor_heading": "#### Revelation {#revelation}",
+      "description": "Oracles gain revelations at 1st, 3rd, 7th, 11th, 15th, and 19th levels that grant special powers and abilities related to their mystery, usually activated as standard actions.",
+      "keywords": [
+        "oracle revelation",
+        "revelation selection",
+        "standard action",
+        "revelation DC",
+        "mystery powers",
+        "revelation abilities",
+        "charisma modifier DC"
+      ]
+    },
+    {
+      "id": "oracle_final_revelation",
+      "title": "Final Revelation (Oracle)",
+      "anchor_heading": "#### Final Revelation {#final_revelation}",
+      "description": "At 20th level, oracles learn their mystery's ultimate revelation, granting powerful capstone abilities specific to their chosen mystery.",
+      "keywords": [
         "final revelation",
-        "divine spellcasting",
-        "charisma-based caster",
-        "oracle spells",
-        "oracle mysteries",
-        "oracle curses",
-        "oracle archetypes",
-        "diverse mysteries"
+        "20th level",
+        "capstone ability",
+        "mystery capstone",
+        "ultimate revelation",
+        "final mystery power"
+      ]
+    },
+    {
+      "id": "oracle_diverse_mysteries_su",
+      "title": "Diverse Mysteries (Su) (Oracle)",
+      "anchor_heading": "#### Diverse Mysteries (Su) {#diverse_mysteries_su}",
+      "description": "At 20th level, oracles can select two revelations from a different mystery, expanding their abilities beyond their original mystery choice.",
+      "keywords": [
+        "diverse mysteries",
+        "cross-mystery revelations",
+        "20th level",
+        "revelation prerequisites",
+        "different mystery",
+        "expanded revelations"
       ]
     }
-  ],
-  "category": "Classes"
+  ]
 }

@@ -1,0 +1,824 @@
+{
+  "file": "v5748nruor1fz.md",
+  "source_path": "https://paizo.com/paizo/faq/v5748nruor1fz",
+  "source_name": "Paizo FAQ",
+  "sections": [
+    {
+      "id": "faq_alchemist_chirurgeonbreath_of_life_how_can_i_use_this_extrac",
+      "title": "Alchemist, Chirurgeon,breath of life: How can I use this extract to bring someone back from the dead?",
+      "anchor_heading": "## Alchemist, Chirurgeon,breath of life: How can I use this extract to bring someone back from the dead?",
+      "description": "The normal action economy hinders the chirurgeon's ability to use its power over death class ability (which addsbreath of lifeto his formula book)....",
+      "keywords": [
+        "alchemist",
+        "chirurgeon",
+        "breath",
+        "life",
+        "use",
+        "extract",
+        "bring",
+        "someone",
+        "back",
+        "dead"
+      ]
+    },
+    {
+      "id": "faq_alchemist_confusion_bomb_should_this_discovery_require_a_sav",
+      "title": "Alchemist, Confusion Bomb: Should this discovery require a saving throw?",
+      "anchor_heading": "## Alchemist, Confusion Bomb: Should this discovery require a saving throw?",
+      "description": "Yes. The target of the bomb may attempt at a save against the confusion effect (Will negates, using the bomb's DC).\n\nThis will be corrected in the...",
+      "keywords": [
+        "alchemist",
+        "confusion",
+        "bomb",
+        "discovery",
+        "require",
+        "saving",
+        "throw"
+      ]
+    },
+    {
+      "id": "faq_alchemist_tentaclevestigial_arm_what_does_extra_attacks_mean",
+      "title": "Alchemist, Tentacle/Vestigial Arm: What does \"extra attacks\" mean for these discoveries?",
+      "anchor_heading": "## Alchemist, Tentacle/Vestigial Arm: What does \"extra attacks\" mean for these discoveries?",
+      "description": "It means \"extra,\" as in \"more than you would be able to make if you didn't have that discovery.\"\n\nFor example, if you're low-level alchemist who us...",
+      "keywords": [
+        "alchemist",
+        "tentacle",
+        "vestigial",
+        "arm",
+        "extra",
+        "attacks",
+        "mean",
+        "these",
+        "discoveries"
+      ]
+    },
+    {
+      "id": "faq_archetypes_and_gaining_powers_if_an_archetype_like_wildblood",
+      "title": "Archetypes and Gaining Powers: If an archetype like wildblooded sorcerer grants new class features like bloodline powers, domain powers, or the like, if I don\u2019t have that archetype, can I use feats like Eldritch Heritage or Believer\u2019s Boon and choose the powers granted by the archetype.",
+      "anchor_heading": "## Archetypes and Gaining Powers: If an archetype like wildblooded sorcerer grants new class features like bloodline powers, domain powers, or the like, if I don\u2019t have that archetype, can I use feats like Eldritch Heritage or Believer\u2019s Boon and choose the powers granted by the archetype.",
+      "description": "No. These powers only exist for the archetypes that grant them. This is particularly important because in some cases, the archetype might trade out...",
+      "keywords": [
+        "archetypes",
+        "gaining",
+        "powers",
+        "archetype",
+        "like",
+        "wildblooded",
+        "sorcerer",
+        "grants",
+        "new",
+        "class"
+      ]
+    },
+    {
+      "id": "faq_bard_the_sound_strikers_weird_words_ability_is_confusing_doe",
+      "title": "Bard: The sound striker\u2019s weird words ability is confusing. Does it work more than once on the same target? And does it require 30 rolls to adjudicate?",
+      "anchor_heading": "## Bard: The sound striker\u2019s weird words ability is confusing. Does it work more than once on the same target? And does it require 30 rolls to adjudicate?",
+      "description": "Change the text of weird words to the following \u201cAt 6th level the bard can start a performance that is always a standard action to speak up to one...",
+      "keywords": [
+        "bard",
+        "sound",
+        "striker",
+        "weird",
+        "words",
+        "ability",
+        "confusing",
+        "work",
+        "more",
+        "than"
+      ]
+    },
+    {
+      "id": "faq_druid_for_the_giant_beetle_companion_page_36_what_should_the",
+      "title": "Druid: For the giant beetle companion (page 36), what should the 4th-level advanced beetle's bite damage be?",
+      "anchor_heading": "## Druid: For the giant beetle companion (page 36), what should the 4th-level advanced beetle's bite damage be?",
+      "description": "The damage should be 1d8.\n\nUpdate: Page 36, Beetle, Giant, change the 4th-level advancement bite damage to \"1d8.\"",
+      "keywords": [
+        "druid",
+        "giant",
+        "beetle",
+        "companion",
+        "page",
+        "4th",
+        "level",
+        "advanced",
+        "beetle",
+        "bite"
+      ]
+    },
+    {
+      "id": "faq_magusblack_blade_can_i_use_craft_magic_arms_and_armor_to_inc",
+      "title": "Magus,Black Blade: Can I use Craft Magic Arms and Armor to increase my blade's enhancement bonus?",
+      "anchor_heading": "## Magus,Black Blade: Can I use Craft Magic Arms and Armor to increase my blade's enhancement bonus?",
+      "description": "No, nor can you use that feat to add other properties (such asflaming) to theblack blade. You can use your arcane pool to temporarily add abilities...",
+      "keywords": [
+        "magus",
+        "black",
+        "blade",
+        "use",
+        "craft",
+        "magic",
+        "arms",
+        "armor",
+        "increase",
+        "blade"
+      ]
+    },
+    {
+      "id": "faq_magus_can_a_magus_use_spell_combat_page_10_with_cantrips",
+      "title": "Magus: Can a magus use spell combat (page 10) with cantrips?",
+      "anchor_heading": "## Magus: Can a magus use spell combat (page 10) with cantrips?",
+      "description": "Yes. It is not limited to spells of level 1 or higher.",
+      "keywords": [
+        "magus",
+        "magus",
+        "use",
+        "spell",
+        "combat",
+        "page",
+        "cantrips"
+      ]
+    },
+    {
+      "id": "faq_magus_can_a_magus_use_spellstrike_page_10_to_cast_a_touch_sp",
+      "title": "Magus: Can a magus use spellstrike (page 10) to cast a touch spell, move, and make a melee attack with a weapon to deliver the touch spell, all in the same round?",
+      "anchor_heading": "## Magus: Can a magus use spellstrike (page 10) to cast a touch spell, move, and make a melee attack with a weapon to deliver the touch spell, all in the same round?",
+      "description": "Yes. Other than deploying the spell with a melee weapon attack instead of a melee touch attack, the magus spellstrike ability doesn\u2019t change the no...",
+      "keywords": [
+        "magus",
+        "magus",
+        "use",
+        "spellstrike",
+        "page",
+        "cast",
+        "touch",
+        "spell",
+        "move",
+        "make"
+      ]
+    },
+    {
+      "id": "faq_magus_when_using_spell_combat_can_the_weapon_in_my_other_han",
+      "title": "Magus: When using spell combat, can the weapon in my other hand be an unarmed strike or a natural weapon?",
+      "anchor_heading": "## Magus: When using spell combat, can the weapon in my other hand be an unarmed strike or a natural weapon?",
+      "description": "Yes, so long as the weapon is a light or one-handed melee weapon and is associated with that hand. For example, unarmed strikes, claws, and slams a...",
+      "keywords": [
+        "magus",
+        "using",
+        "spell",
+        "combat",
+        "weapon",
+        "other",
+        "hand",
+        "unarmed",
+        "strike",
+        "natural"
+      ]
+    },
+    {
+      "id": "faq_magus_spell_combat_when_using_spell_combat_do_i_specifically",
+      "title": "Magus, Spell Combat: When using spell combat, do I specifically have to use the weapon in my other hand, or can I use a mixture of weapons (such as armor spikes and bites) so long as my casting hand remains free?",
+      "anchor_heading": "## Magus, Spell Combat: When using spell combat, do I specifically have to use the weapon in my other hand, or can I use a mixture of weapons (such as armor spikes and bites) so long as my casting hand remains free?",
+      "description": "You specifically have to use the light or one-handed melee weapon in your other hand.",
+      "keywords": [
+        "magus",
+        "spell",
+        "combat",
+        "using",
+        "spell",
+        "combat",
+        "specifically",
+        "use",
+        "weapon",
+        "other"
+      ]
+    },
+    {
+      "id": "faq_magus_spell_combat_does_spell_combat_count_as_making_a_full_",
+      "title": "Magus, Spell Combat: Does spell combat count as making a full attack action for the purpose ofhasteand other effects?",
+      "anchor_heading": "## Magus, Spell Combat: Does spell combat count as making a full attack action for the purpose ofhasteand other effects?",
+      "description": "Yes.\n\nEdit 9/9/13: This is a revised ruling about howhasteinteracts with effects that are essentially a full attack, even though the creature isn't...",
+      "keywords": [
+        "magus",
+        "spell",
+        "combat",
+        "spell",
+        "combat",
+        "count",
+        "making",
+        "full",
+        "attack",
+        "action"
+      ]
+    },
+    {
+      "id": "faq_magus_spell_combat_if_i_use_spell_combat_how_many_weapon_att",
+      "title": "Magus, Spell Combat: If I use spell combat, how many weapon attacks can I make?",
+      "anchor_heading": "## Magus, Spell Combat: If I use spell combat, how many weapon attacks can I make?",
+      "description": "You can make as many weapon attacks as you would normally be able to make if you were making a full attack with that weapon. For example, if you ar...",
+      "keywords": [
+        "magus",
+        "spell",
+        "combat",
+        "use",
+        "spell",
+        "combat",
+        "many",
+        "weapon",
+        "attacks",
+        "make"
+      ]
+    },
+    {
+      "id": "faq_magusblack_blade_can_ablack_bladebe_sundered",
+      "title": "Magus,Black Blade: Can ablack bladebe sundered?",
+      "anchor_heading": "## Magus,Black Blade: Can ablack bladebe sundered?",
+      "description": "Yes.The weapon's immunity the broken condition if it has at least 1 point in its arcane pool only prevents the specific effects of the broken condi...",
+      "keywords": [
+        "magus",
+        "black",
+        "blade",
+        "ablack",
+        "bladebe",
+        "sundered"
+      ]
+    },
+    {
+      "id": "faq_magus_spell_combat_what_spells_can_i_cast_when_using_spell_c",
+      "title": "Magus, Spell Combat: What spells can I cast when using spell combat?",
+      "anchor_heading": "## Magus, Spell Combat: What spells can I cast when using spell combat?",
+      "description": "The relevant text of the ability is:\n\n\"As a full-round action, he can make all of his attacks with his melee weapon at a \u20132 penalty and can also ca...",
+      "keywords": [
+        "magus",
+        "spell",
+        "combat",
+        "spells",
+        "cast",
+        "using",
+        "spell",
+        "combat"
+      ]
+    },
+    {
+      "id": "faq_magus_spellstrike_if_i_cast_a_spell_that_allows_multiple_tou",
+      "title": "Magus, Spellstrike: If I cast a spell that allows multiple touch attacks, can I deliver all of those spell touches through my weapon?",
+      "anchor_heading": "## Magus, Spellstrike: If I cast a spell that allows multiple touch attacks, can I deliver all of those spell touches through my weapon?",
+      "description": "Yes. For example, if you castchill touch(which allows multiple touch attacks), you could use spellstrike to cast and deliver the spell through your...",
+      "keywords": [
+        "magus",
+        "spellstrike",
+        "cast",
+        "spell",
+        "allows",
+        "multiple",
+        "touch",
+        "attacks",
+        "deliver",
+        "all"
+      ]
+    },
+    {
+      "id": "faq_monk_can_a_qinggong_monk_take_a_second_archetype_if_the_char",
+      "title": "Monk: Can a qinggong monk take a second archetype if the character doesn't swap out abilities the second archetype requires?",
+      "anchor_heading": "## Monk: Can a qinggong monk take a second archetype if the character doesn't swap out abilities the second archetype requires?",
+      "description": "Yes. However, the other archetype takes priority over the various abilities granted at each level, and the character can't delay taking an ability...",
+      "keywords": [
+        "monk",
+        "qinggong",
+        "monk",
+        "take",
+        "second",
+        "archetype",
+        "character",
+        "doesn",
+        "swap",
+        "out"
+      ]
+    },
+    {
+      "id": "faq_oracle_for_the_metal_mysterys_iron_weapon_revelation_page_55",
+      "title": "Oracle: For the metal mystery's iron weapon revelation (page 55) and wood mystery's wooden weapon revelation (page 58), how long does the created weapon last?",
+      "anchor_heading": "## Oracle: For the metal mystery's iron weapon revelation (page 55) and wood mystery's wooden weapon revelation (page 58), how long does the created weapon last?",
+      "description": "The weapon lasts 1 minute per oracle level. For both revelations, cut the last sentence referring to non-consecutive minutes and 1-minute increment...",
+      "keywords": [
+        "oracle",
+        "metal",
+        "mystery",
+        "iron",
+        "weapon",
+        "revelation",
+        "page",
+        "wood",
+        "mystery",
+        "wooden"
+      ]
+    },
+    {
+      "id": "faq_sorcerer_crossblooded_and_wildblooded_can_i_take_both_of_the",
+      "title": "Sorcerer, Crossblooded and Wildblooded: Can I take both of these archetypes for the same character?",
+      "anchor_heading": "## Sorcerer, Crossblooded and Wildblooded: Can I take both of these archetypes for the same character?",
+      "description": "No, because the archetype rules say none of the alternate class features can replace or alter the same class feature from the class as another alte...",
+      "keywords": [
+        "sorcerer",
+        "crossblooded",
+        "wildblooded",
+        "take",
+        "both",
+        "these",
+        "archetypes",
+        "same",
+        "character"
+      ]
+    },
+    {
+      "id": "faq_sorcerer_does_a_sorcerer_with_the_sage_bloodline_page_72_use",
+      "title": "Sorcerer: Does a sorcerer with the sage bloodline (page 72) use her Int or Cha to determine uses per day of arcane bolt?",
+      "anchor_heading": "## Sorcerer: Does a sorcerer with the sage bloodline (page 72) use her Int or Cha to determine uses per day of arcane bolt?",
+      "description": "The sage sorcerer uses her Int to determine the number of daily uses of her bloodline powers, including arcane bolt. Therefore, whether arcane bolt...",
+      "keywords": [
+        "sorcerer",
+        "sorcerer",
+        "sage",
+        "bloodline",
+        "page",
+        "use",
+        "int",
+        "cha",
+        "determine",
+        "uses"
+      ]
+    },
+    {
+      "id": "faq_sorcerer_does_a_20thlevel_sorcerer_with_the_shaitan_bloodlin",
+      "title": "Sorcerer: Does a 20th-level sorcerer with the shaitan bloodline (page 69) gain immunity to electricity and the ability toplane shiftto the Plane of Water?",
+      "anchor_heading": "## Sorcerer: Does a 20th-level sorcerer with the shaitan bloodline (page 69) gain immunity to electricity and the ability toplane shiftto the Plane of Water?",
+      "description": "No, that ability should refer to acid and the Plane of Earth.\n\nUpdate: Page 69, change the last ability of the shaitan bloodline from \"immune to el...",
+      "keywords": [
+        "sorcerer",
+        "20th",
+        "level",
+        "sorcerer",
+        "shaitan",
+        "bloodline",
+        "page",
+        "gain",
+        "immunity",
+        "electricity"
+      ]
+    },
+    {
+      "id": "faq_sorcerer_in_the_maestro_bloodline_bonus_feats_where_can_i_fi",
+      "title": "Sorcerer: In the maestro bloodline bonus feats, where can I find the Mystic Motif feat?",
+      "anchor_heading": "## Sorcerer: In the maestro bloodline bonus feats, where can I find the Mystic Motif feat?",
+      "description": "The Mystic Motif feat was cut in development (it altered the appearance of your spells and increased the Spellcraft DC to recognize them, which was...",
+      "keywords": [
+        "sorcerer",
+        "maestro",
+        "bloodline",
+        "bonus",
+        "feats",
+        "find",
+        "mystic",
+        "motif",
+        "feat"
+      ]
+    },
+    {
+      "id": "faq_sorcerer_in_the_rakshasa_bloodline_feats_page_68_where_can_i",
+      "title": "Sorcerer: In the rakshasa bloodline feats (page 68), where can I find Deceptive and Mystic Motif?",
+      "anchor_heading": "## Sorcerer: In the rakshasa bloodline feats (page 68), where can I find Deceptive and Mystic Motif?",
+      "description": "The Deceptive feat should be the Deceitful feat.The Mystic Motif feat was cut in development (it altered the appearance of your spells and increase...",
+      "keywords": [
+        "sorcerer",
+        "rakshasa",
+        "bloodline",
+        "feats",
+        "page",
+        "find",
+        "deceptive",
+        "mystic",
+        "motif"
+      ]
+    },
+    {
+      "id": "faq_summoner_can_a_synthesist_page_80_make_attacks_from_his_own_",
+      "title": "Summoner: Can a synthesist (page 80) make attacks from his own body (such as manufactured weapons, unarmed strikes, or natural attacks) and attacks from the fused eidolon in the same round?",
+      "anchor_heading": "## Summoner: Can a synthesist (page 80) make attacks from his own body (such as manufactured weapons, unarmed strikes, or natural attacks) and attacks from the fused eidolon in the same round?",
+      "description": "Yes, but the fused character's natural attacks are still subject to the Maximum Attacks entry in the table for an eidolon of his level. For example...",
+      "keywords": [
+        "summoner",
+        "synthesist",
+        "page",
+        "make",
+        "attacks",
+        "own",
+        "body",
+        "such",
+        "manufactured",
+        "weapons"
+      ]
+    },
+    {
+      "id": "faq_summoner_can_a_synthesist_page_80_benefit_from_the_skilled_e",
+      "title": "Summoner: Can a synthesist (page 80) benefit from the Skilled evolution even though his eidolon doesn't have skills of its own? What about the Ability Score Increase evolution applied to a mental ability score?",
+      "anchor_heading": "## Summoner: Can a synthesist (page 80) benefit from the Skilled evolution even though his eidolon doesn't have skills of its own? What about the Ability Score Increase evolution applied to a mental ability score?",
+      "description": "If the synthesist's eidolon has the Skilled evolution, the synthesist gains the bonus to that skill.\n\nIf the synthesist applies the Increased Abili...",
+      "keywords": [
+        "summoner",
+        "synthesist",
+        "page",
+        "benefit",
+        "skilled",
+        "evolution",
+        "even",
+        "though",
+        "eidolon",
+        "doesn"
+      ]
+    },
+    {
+      "id": "faq_summoner_can_a_synthesist_page_80_use_spells_on_himself_that",
+      "title": "Summoner: Can a synthesist (page 80) use spells on himself that don't affect outsiders, even though he is treated as his own type or the outsider type, \"whichever is worse\"?",
+      "anchor_heading": "## Summoner: Can a synthesist (page 80) use spells on himself that don't affect outsiders, even though he is treated as his own type or the outsider type, \"whichever is worse\"?",
+      "description": "Yes, because the normal eidolon's share spells ability says \"A summoner may cast spells on his eidolon even if the spells normally do not affect cr...",
+      "keywords": [
+        "summoner",
+        "synthesist",
+        "page",
+        "use",
+        "spells",
+        "himself",
+        "don",
+        "affect",
+        "outsiders",
+        "even"
+      ]
+    },
+    {
+      "id": "faq_summoner_can_a_synthesist_page_80_use_the_aspect_ability_to_",
+      "title": "Summoner: Can a synthesist (page 80) use the aspect ability to apply the improved natural armor evolution to himself? Will this stack with the improved natural armor of the eidolon-suit?",
+      "anchor_heading": "## Summoner: Can a synthesist (page 80) use the aspect ability to apply the improved natural armor evolution to himself? Will this stack with the improved natural armor of the eidolon-suit?",
+      "description": "A synthesist can use aspect to increase his own natural armor. However, when fused, he gains the eidolon's natural armor bonus, so this doesn't sta...",
+      "keywords": [
+        "summoner",
+        "synthesist",
+        "page",
+        "use",
+        "aspect",
+        "ability",
+        "apply",
+        "improved",
+        "natural",
+        "armor"
+      ]
+    },
+    {
+      "id": "faq_summoner_does_a_synthesist_page_80_keep_any_armor_bonuses_or",
+      "title": "Summoner: Does a synthesist (page 80) keep any armor bonuses or other benefits from his armor when he is fused with his eidolon?",
+      "anchor_heading": "## Summoner: Does a synthesist (page 80) keep any armor bonuses or other benefits from his armor when he is fused with his eidolon?",
+      "description": "No. The eidolon is, in effect, the synthesist's armor, and any armor the synthesist wears does not function while the eidolon is present. Fortunate...",
+      "keywords": [
+        "summoner",
+        "synthesist",
+        "page",
+        "keep",
+        "any",
+        "armor",
+        "bonuses",
+        "other",
+        "benefits",
+        "armor"
+      ]
+    },
+    {
+      "id": "faq_summoner_does_a_synthesist_page_80_use_his_own_hit_dice_or_h",
+      "title": "Summoner: Does a synthesist (page 80) use his own Hit Dice or his eidolon's Hit Dice for evolutions based on Hit Dice, such as Breath Weapon and Web? What about his BAB for making attacks?",
+      "anchor_heading": "## Summoner: Does a synthesist (page 80) use his own Hit Dice or his eidolon's Hit Dice for evolutions based on Hit Dice, such as Breath Weapon and Web? What about his BAB for making attacks?",
+      "description": "The synthesist uses the eidolon's Hit Dice for the effects of evolutions, not his summoner Hit Dice or his total Hit Dice.\n\nWhen fused, use the eid...",
+      "keywords": [
+        "summoner",
+        "synthesist",
+        "page",
+        "use",
+        "own",
+        "hit",
+        "dice",
+        "eidolon",
+        "hit",
+        "dice"
+      ]
+    },
+    {
+      "id": "faq_summoner_how_does_a_synthesist_page_80_heal_damage_to_his_ei",
+      "title": "Summoner: How does a synthesist (page 80) heal damage to his eidolon?",
+      "anchor_heading": "## Summoner: How does a synthesist (page 80) heal damage to his eidolon?",
+      "description": "Because the eidolon gives the synthesist temporary hit points rather than having a separate pool of normal hit points, effects that cure hit points...",
+      "keywords": [
+        "summoner",
+        "synthesist",
+        "page",
+        "heal",
+        "damage",
+        "eidolon"
+      ]
+    },
+    {
+      "id": "faq_summoner_if_a_synthesist_page_80_takes_the_swallow_whole_evo",
+      "title": "Summoner: If a synthesist (page 80) takes the swallow whole evolution, does he use his own hp or the eidolon's temporary hp to determine the hp of the \"stomach\"?",
+      "anchor_heading": "## Summoner: If a synthesist (page 80) takes the swallow whole evolution, does he use his own hp or the eidolon's temporary hp to determine the hp of the \"stomach\"?",
+      "description": "Use the summoner's hp to determine this. Obviously the summoner isn't actually swallowing the target, so it's merely contained within the eidolon-s...",
+      "keywords": [
+        "summoner",
+        "synthesist",
+        "page",
+        "takes",
+        "swallow",
+        "whole",
+        "evolution",
+        "use",
+        "own",
+        "eidolon"
+      ]
+    },
+    {
+      "id": "faq_summoner_what_happens_when_a_synthesist_page_80_takes_abilit",
+      "title": "Summoner: What happens when a synthesist (page 80) takes ability damage or drain while the eidolon is present?",
+      "anchor_heading": "## Summoner: What happens when a synthesist (page 80) takes ability damage or drain while the eidolon is present?",
+      "description": "The eidolon takes Str, Dex, and Con damage or drain, the summoner takes Int, Wis, or Cha damage or drain. If this bring's the eidolon's Str or Dex...",
+      "keywords": [
+        "summoner",
+        "happens",
+        "synthesist",
+        "page",
+        "takes",
+        "ability",
+        "damage",
+        "drain",
+        "while",
+        "eidolon"
+      ]
+    },
+    {
+      "id": "faq_summoner_what_happens_when_a_synthesist_page_80_takes_a_pena",
+      "title": "Summoner: What happens when a synthesist (page 80) takes a penalty, suffers an affliction, or has an ongoing effect when the eidolon disappears?",
+      "anchor_heading": "## Summoner: What happens when a synthesist (page 80) takes a penalty, suffers an affliction, or has an ongoing effect when the eidolon disappears?",
+      "description": "These effects persist on the summoner after the eidolon is gone. For example, aray of enfeeblementon the fused character continues to affect the su...",
+      "keywords": [
+        "summoner",
+        "happens",
+        "synthesist",
+        "page",
+        "takes",
+        "penalty",
+        "suffers",
+        "affliction",
+        "ongoing",
+        "effect"
+      ]
+    },
+    {
+      "id": "faq_witch_ice_tomb_hex_what_is_the_range_of_this_hex_can_it_affe",
+      "title": "Witch, Ice Tomb Hex: What is the range of this hex? Can it affect objects? Does the target need to drink? Can it affect a cold-immune creature? If the target succeeds at its save, is it still imprisoned? How long does it last?",
+      "anchor_heading": "## Witch, Ice Tomb Hex: What is the range of this hex? Can it affect objects? Does the target need to drink? Can it affect a cold-immune creature? If the target succeeds at its save, is it still imprisoned? How long does it last?",
+      "description": "Like most major hexes, the range is 60 feet.\n\nIn the second printing ofUltimate Magic, the text says, \"A storm of ice and freezing wind envelops th...",
+      "keywords": [
+        "witch",
+        "ice",
+        "tomb",
+        "hex",
+        "range",
+        "hex",
+        "affect",
+        "objects",
+        "target",
+        "need"
+      ]
+    },
+    {
+      "id": "faq_witch_scar_hex_does_the_scar_hex_page_81_have_any_effect_on_",
+      "title": "Witch, Scar Hex: Does the scar hex (page 81) have any effect on the target's Diplomacy or other social skills, or any other effects?",
+      "anchor_heading": "## Witch, Scar Hex: Does the scar hex (page 81) have any effect on the target's Diplomacy or other social skills, or any other effects?",
+      "description": "The hex needs some clarification and a little bump.\n\nFirst, the sentence \"These scars do not hinder the target's actions or abilities in any way\" i...",
+      "keywords": [
+        "witch",
+        "scar",
+        "hex",
+        "scar",
+        "hex",
+        "page",
+        "any",
+        "effect",
+        "target",
+        "diplomacy"
+      ]
+    },
+    {
+      "id": "faq_witch_what_spell_does_the_light_patron_page_83_grant_at_leve",
+      "title": "Witch: What spell does the light patron (page 83) grant at level 18?",
+      "anchor_heading": "## Witch: What spell does the light patron (page 83) grant at level 18?",
+      "description": "The spell at level 18 should befiery body.\n\nUpdate: Page 83, light witch patron, change the level 18 \"sunburst\" to \"fiery body**.\"",
+      "keywords": [
+        "witch",
+        "spell",
+        "light",
+        "patron",
+        "page",
+        "grant",
+        "level"
+      ]
+    },
+    {
+      "id": "faq_witch_what_spell_does_the_insanity_patron_page_83_grant_at_l",
+      "title": "Witch: What spell does the insanity patron (page 83) grant at level 6?",
+      "anchor_heading": "## Witch: What spell does the insanity patron (page 83) grant at level 6?",
+      "description": "The spell at level 6 should bedistracting cacophony.\n\nUpdate: Page 83, insanity witch patron, change \"madn hallucination*\" to \"distracting cacophon...",
+      "keywords": [
+        "witch",
+        "spell",
+        "insanity",
+        "patron",
+        "page",
+        "grant",
+        "level"
+      ]
+    },
+    {
+      "id": "faq_antagonize_the_dc_to_use_the_antagonize_feat_page_143_is_lis",
+      "title": "Antagonize: The DC to use the Antagonize feat (page 143) is listed as being equal to the target's Hit Dice + the target's Wisdom modifier. Is this correct?",
+      "anchor_heading": "## Antagonize: The DC to use the Antagonize feat (page 143) is listed as being equal to the target's Hit Dice + the target's Wisdom modifier. Is this correct?",
+      "description": "No. The DC to use the Antagonize feat should be 10 + the target's Hit Dice + the target's Wisdom modifier.\n\nUpdate: Page 143, in the Antagonize fea...",
+      "keywords": [
+        "antagonize",
+        "use",
+        "antagonize",
+        "feat",
+        "page",
+        "143",
+        "listed",
+        "equal",
+        "target",
+        "hit"
+      ]
+    },
+    {
+      "id": "faq_blighted_critical_page_143_what_are_the_prerequisites_for_th",
+      "title": "Blighted Critical (page 143): What are the prerequisites for this feat? The table doesn't match the feat entry (page 144).",
+      "anchor_heading": "## Blighted Critical (page 143): What are the prerequisites for this feat? The table doesn't match the feat entry (page 144).",
+      "description": "The text on page 143 is correct. Likewise, the text for Blighted Critical Mastery (page 143) and Greater Blighted Critical (pages 151-152) shouldn'...",
+      "keywords": [
+        "blighted",
+        "critical",
+        "page",
+        "143",
+        "prerequisites",
+        "feat",
+        "table",
+        "doesn",
+        "match",
+        "feat"
+      ]
+    },
+    {
+      "id": "faq_cantripsorisons_where_are_all_the_new_0level_spells_mentione",
+      "title": "Cantrips/Orisons: Where are all the new 0-level spells mentioned in the spellbooks?",
+      "anchor_heading": "## Cantrips/Orisons: Where are all the new 0-level spells mentioned in the spellbooks?",
+      "description": "The 0-level spells were cut in development. Later printings ofUltimate Magicwon't refer to them. These cantrips later appearedon the Paizo blog.\n\nU...",
+      "keywords": [
+        "cantrips",
+        "orisons",
+        "all",
+        "new",
+        "level",
+        "spells",
+        "mentioned",
+        "spellbooks"
+      ]
+    },
+    {
+      "id": "faq_choose_fate_where_is_thechoose_fatespell_which_is_mentioned_",
+      "title": "Choose Fate: Where is thechoose fatespell, which is mentioned in the witch ancestor patron and one of the spellbooks in Chapter 2?",
+      "anchor_heading": "## Choose Fate: Where is thechoose fatespell, which is mentioned in the witch ancestor patron and one of the spellbooks in Chapter 2?",
+      "description": "The spell was cut from the book during development. In the witch ancestor patron (page 83) and theLibrary of the Dancer of Skinsspellbook (page 126...",
+      "keywords": [
+        "choose",
+        "fate",
+        "thechoose",
+        "fatespell",
+        "mentioned",
+        "witch",
+        "ancestor",
+        "patron",
+        "one",
+        "spellbooks"
+      ]
+    },
+    {
+      "id": "faq_cold_ice_strikepage_211_what_are_the_components_for_this_spe",
+      "title": "Cold Ice Strike(page 211): What are the components for this spell? Is its casting time 1 swift action?",
+      "anchor_heading": "## Cold Ice Strike(page 211): What are the components for this spell? Is its casting time 1 swift action?",
+      "description": "The Components should be: V, SThe casting time is 1 swift action.The Range should be 30 ft. and the Area should be a 30-ft. line. All references to...",
+      "keywords": [
+        "cold",
+        "ice",
+        "strike",
+        "page",
+        "211",
+        "components",
+        "spell",
+        "casting",
+        "time",
+        "swift"
+      ]
+    },
+    {
+      "id": "faq_fleshworm_infestationpage_220_what_is_the_significance_of_th",
+      "title": "Fleshworm Infestation(page 220): What is the significance of the \"preparation time\" line?",
+      "anchor_heading": "## Fleshworm Infestation(page 220): What is the significance of the \"preparation time\" line?",
+      "description": "That line is a leftover from a subsystem that was discarded in development. It has no effect in the printed version of the spell, and you may disre...",
+      "keywords": [
+        "fleshworm",
+        "infestation",
+        "page",
+        "220",
+        "significance",
+        "preparation",
+        "time",
+        "line"
+      ]
+    },
+    {
+      "id": "faq_judgement_surge_page_153_what_are_the_prerequisites_for_this",
+      "title": "Judgement Surge (page 153): What are the prerequisites for this feat? The table doesn't match the feat entry (page 145).",
+      "anchor_heading": "## Judgement Surge (page 153): What are the prerequisites for this feat? The table doesn't match the feat entry (page 145).",
+      "description": "The text on page 153 is correct.Update: Page 145, Judgement Surge, remove \"judgement twice per day class feature\" from the Prerequisites.",
+      "keywords": [
+        "judgement",
+        "surge",
+        "page",
+        "153",
+        "prerequisites",
+        "feat",
+        "table",
+        "doesn",
+        "match",
+        "feat"
+      ]
+    },
+    {
+      "id": "faq_terrible_remorse_if_i_make_my_saving_throw_againstterrible_r",
+      "title": "Terrible Remorse: If I make my saving throw againstterrible remorse(page 243), do I become paralyzed for the duration of the spell?",
+      "anchor_heading": "## Terrible Remorse: If I make my saving throw againstterrible remorse(page 243), do I become paralyzed for the duration of the spell?",
+      "description": "No. The spell is a bit unclear here. When you are targeted byterrible remorseyou do not make a saving throw until your turn. On your turn, you must...",
+      "keywords": [
+        "terrible",
+        "remorse",
+        "make",
+        "saving",
+        "throw",
+        "againstterrible",
+        "remorse",
+        "page",
+        "243",
+        "become"
+      ]
+    },
+    {
+      "id": "faq_threnodic_spell_page_157_what_are_the_prerequisites_for_this",
+      "title": "Threnodic Spell (page 157): What are the prerequisites for this feat? The table doesn't match the feat entry (page 147).",
+      "anchor_heading": "## Threnodic Spell (page 157): What are the prerequisites for this feat? The table doesn't match the feat entry (page 147).",
+      "description": "The text on page 157 is correct.Update: Page 147, Threnodic Spell, change \"Spell Focus (enchantment)\" to \"Spell Focus (necromancy).\"",
+      "keywords": [
+        "threnodic",
+        "spell",
+        "page",
+        "157",
+        "prerequisites",
+        "feat",
+        "table",
+        "doesn",
+        "match",
+        "feat"
+      ]
+    },
+    {
+      "id": "faq_construct_armor_page_114_how_do_attacks_target_the_construct",
+      "title": "Construct Armor (page 114): How do attacks target the construct armor? Do I gain its resistances, immunities, and other defenses? What are the \"benefits\" and \"hindrances\" mentioned in this section? Does wearing it affect your speed?",
+      "anchor_heading": "## Construct Armor (page 114): How do attacks target the construct armor? Do I gain its resistances, immunities, and other defenses? What are the \"benefits\" and \"hindrances\" mentioned in this section? Does wearing it affect your speed?",
+      "description": "The construct armor is treated as breastplate for the purpose of AC. If something targets you, it must first hit your AC. If it hits you, the attac...",
+      "keywords": [
+        "construct",
+        "armor",
+        "page",
+        "114",
+        "attacks",
+        "target",
+        "construct",
+        "armor",
+        "gain",
+        "resistances"
+      ]
+    }
+  ],
+  "category": "FAQ"
+}

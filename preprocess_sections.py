@@ -11,7 +11,7 @@ from pathlib import Path
 import anthropic
 from dotenv import load_dotenv
 
-from chunking_prompt import format_prompt, format_summarize_prompt
+from chunking_prompt import format_prompt, format_summarize_prompt, format_class_features_prompt
 
 # Load environment variables from .env file
 load_dotenv()
@@ -371,6 +371,382 @@ def process_markdown_template(
             "keywords": []
         }]
     }
+
+
+def slugify(text: str, max_length: int = 60) -> str:
+    """Convert text to snake_case slug.
+
+    Args:
+        text: Text to convert
+        max_length: Maximum length of resulting slug
+
+    Returns:
+        Snake_case slug suitable for use as an ID
+    """
+    text = text.lower()
+    text = re.sub(r'[^\w\s]', '', text)  # Remove punctuation
+    text = re.sub(r'\s+', '_', text)     # Spaces to underscores
+    text = re.sub(r'_+', '_', text)      # Collapse multiple underscores
+    text = text.strip('_')
+    return text[:max_length]
+
+
+def extract_faq_keywords(question: str) -> list[str]:
+    """Extract likely keywords from FAQ question text.
+
+    Removes common question words and keeps game-relevant terms.
+
+    Args:
+        question: The FAQ question text
+
+    Returns:
+        List of keywords (max 10)
+    """
+    stopwords = {
+        'what', 'how', 'does', 'the', 'a', 'an', 'is', 'are', 'if', 'can',
+        'when', 'which', 'why', 'who', 'where', 'do', 'this', 'that', 'it',
+        'to', 'of', 'in', 'for', 'on', 'with', 'as', 'at', 'by', 'from',
+        'or', 'and', 'be', 'have', 'has', 'was', 'were', 'been', 'being',
+        'would', 'could', 'should', 'will', 'may', 'might', 'must',
+        'my', 'your', 'his', 'her', 'its', 'our', 'their', 'i', 'you', 'he', 'she'
+    }
+    words = re.findall(r'\b\w+\b', question.lower())
+    return [w for w in words if w not in stopwords and len(w) > 2][:10]
+
+
+def process_markdown_faq(
+    markdown: str,
+    source_path: str,
+    source_name: str = "Paizo FAQ"
+) -> dict:
+    """Process FAQ markdown into one section per Q&A pair.
+
+    FAQ markdown format (from extract_faq_markdown):
+        ## Question text here?
+
+        Answer text here.
+
+        ---
+
+        ## Next question?
+        ...
+
+    No LLM call required - pure Python parsing.
+
+    Args:
+        markdown: Markdown content with ## questions and answers
+        source_path: Source URL or file path
+        source_name: Display name for the source
+
+    Returns:
+        Manifest dictionary with one section per Q&A pair
+    """
+    sections = []
+
+    # Split on --- separator or ## headings
+    # This handles both "---" separated and consecutive "## " sections
+    qa_pairs = re.split(r'\n---\n+|\n(?=## )', markdown)
+
+    for qa in qa_pairs:
+        qa = qa.strip()
+        if not qa:
+            continue
+
+        # Extract question (## heading) and answer
+        match = re.match(r'^## (.+?)\n\n(.+)', qa, re.DOTALL)
+        if match:
+            question, answer = match.groups()
+            question = question.strip()
+            answer = answer.strip()
+
+            # Generate slugified ID
+            slug = slugify(question)
+            section_id = f"faq_{slug}"
+
+            # Truncate description if answer is long
+            if len(answer) > 150:
+                description = answer[:147].strip() + "..."
+            else:
+                description = answer
+
+            sections.append({
+                "id": section_id,
+                "title": question,
+                "anchor_heading": f"## {question}",
+                "description": description,
+                "keywords": extract_faq_keywords(question)
+            })
+
+    # Use URL path segment as filename
+    filename = source_path.rstrip("/").split("/")[-1]
+    if not filename.endswith(".md"):
+        filename = f"{filename}.md"
+
+    return {
+        "file": filename,
+        "source_path": source_path,
+        "source_name": source_name,
+        "sections": sections
+    }
+
+
+def extract_toc_from_markdown(markdown: str) -> str:
+    """Extract the Table of Contents block from class markdown.
+
+    The TOC is typically formatted as:
+        Contents
+        + [Class skills](#class_skills)
+        + [Class Features](#class_features)
+          - [Spell Combat (Ex)](#spell_combat_ex)
+          ...
+
+    Args:
+        markdown: Full markdown content
+
+    Returns:
+        The TOC block as a string, or empty string if not found
+    """
+    lines = markdown.split('\n')
+    toc_lines = []
+    in_toc = False
+
+    for line in lines:
+        # Look for TOC start
+        if line.strip().lower() == 'contents':
+            in_toc = True
+            toc_lines.append(line)
+            continue
+
+        if in_toc:
+            # TOC entries start with +, -, or * followed by [
+            if re.match(r'^\s*[-+*]\s+\[', line):
+                toc_lines.append(line)
+            elif line.strip() == '':
+                # Allow blank lines within TOC
+                continue
+            else:
+                # End of TOC
+                break
+
+    return '\n'.join(toc_lines)
+
+
+def extract_class_features(markdown: str, class_name: str) -> list[dict]:
+    """Extract individual class features from markdown.
+
+    Identifies H4 headings (####) as class features and extracts their content.
+
+    Args:
+        markdown: Full markdown content
+        class_name: Name of the class for ID prefixing
+
+    Returns:
+        List of feature dicts with 'id', 'title', 'anchor_heading', 'content'
+    """
+    lines = markdown.split('\n')
+    features = []
+    current_feature = None
+    current_lines = []
+
+    class_prefix = slugify(class_name)
+
+    for i, line in enumerate(lines):
+        # Check for H4 heading (class feature)
+        match = re.match(r'^(####)\s+(.+)$', line)
+        if match:
+            # Save previous feature if exists
+            if current_feature:
+                current_feature['content'] = '\n'.join(current_lines).strip()
+                if current_feature['content']:
+                    features.append(current_feature)
+
+            heading_text = match.group(2).strip()
+            # Strip anchor ID for title
+            title_clean, anchor_id = heading_text, None
+            anchor_match = re.match(r'^(.+?)\s*\{#([^}]+)\}\s*$', heading_text)
+            if anchor_match:
+                title_clean = anchor_match.group(1).strip()
+                anchor_id = anchor_match.group(2)
+
+            # Generate ID from anchor or title
+            if anchor_id:
+                feature_id = f"{class_prefix}_{anchor_id}"
+            else:
+                feature_id = f"{class_prefix}_{slugify(title_clean)}"
+
+            current_feature = {
+                'id': feature_id,
+                'title': title_clean,
+                'anchor_heading': f"#### {heading_text}",
+                'content': ''
+            }
+            current_lines = [line]
+        elif current_feature:
+            # Check for same or higher level heading (end of feature)
+            level = get_heading_level(line)
+            if level is not None and level <= 4:
+                # Save current feature
+                current_feature['content'] = '\n'.join(current_lines).strip()
+                if current_feature['content']:
+                    features.append(current_feature)
+                current_feature = None
+                current_lines = []
+            else:
+                current_lines.append(line)
+
+    # Don't forget the last feature
+    if current_feature:
+        current_feature['content'] = '\n'.join(current_lines).strip()
+        if current_feature['content']:
+            features.append(current_feature)
+
+    return features
+
+
+def get_heading_level(line: str) -> int | None:
+    """Get heading level from a markdown line."""
+    match = re.match(r'^(#{1,6})\s+', line)
+    if match:
+        return len(match.group(1))
+    return None
+
+
+def extract_class_overview(markdown: str, class_name: str) -> dict | None:
+    """Extract the class overview section (intro through before Class Skills).
+
+    Args:
+        markdown: Full markdown content
+        class_name: Name of the class
+
+    Returns:
+        Feature dict with overview content, or None if not found
+    """
+    lines = markdown.split('\n')
+    start_idx = None
+    end_idx = None
+
+    # Find H1 (class title)
+    for i, line in enumerate(lines):
+        if re.match(r'^#\s+' + re.escape(class_name), line, re.IGNORECASE):
+            start_idx = i
+            break
+
+    if start_idx is None:
+        return None
+
+    # Find first H3 (usually "Class skills" or "Class Features")
+    for i in range(start_idx + 1, len(lines)):
+        if re.match(r'^###\s+', lines[i]):
+            end_idx = i
+            break
+
+    if end_idx is None:
+        end_idx = len(lines)
+
+    content = '\n'.join(lines[start_idx:end_idx]).strip()
+    if not content:
+        return None
+
+    class_prefix = slugify(class_name)
+    return {
+        'id': f"{class_prefix}_overview",
+        'title': f"{class_name} (Class Overview)",
+        'anchor_heading': f"# {class_name}",
+        'end_at_heading': lines[end_idx] if end_idx < len(lines) else None,
+        'content': content
+    }
+
+
+def process_markdown_class(
+    client: anthropic.Anthropic,
+    markdown: str,
+    source_path: str,
+    source_name: str | None = None,
+    model: str = "claude-sonnet-4-20250514",
+    timeout: float = 300.0
+) -> dict:
+    """Process class markdown into feature-based sections.
+
+    Uses predictable class document structure to identify sections,
+    then calls Claude to generate descriptions and keywords for each feature.
+
+    Args:
+        client: Anthropic client instance
+        markdown: Markdown content to process
+        source_path: Source identifier (e.g., URL or file path)
+        source_name: Optional display name for the source
+        model: Claude model to use
+        timeout: Request timeout in seconds
+
+    Returns:
+        Manifest dictionary with multiple sections (one per feature)
+    """
+    # Extract class name from markdown
+    title, anchor_heading = extract_title_from_markdown(markdown)
+
+    # Generate filename for manifest
+    filename = source_path.rstrip("/").split("/")[-1]
+    if not filename.endswith(".md"):
+        filename = f"{filename}.md"
+
+    # Extract TOC
+    toc_content = extract_toc_from_markdown(markdown)
+
+    # Extract overview section
+    overview = extract_class_overview(markdown, title)
+
+    # Extract class features (H4 headings)
+    features = extract_class_features(markdown, title)
+
+    # Build sections list starting with overview
+    sections = []
+
+    if overview:
+        sections.append({
+            'id': overview['id'],
+            'title': overview['title'],
+            'anchor_heading': overview['anchor_heading'],
+            'end_at_heading': overview.get('end_at_heading'),
+            'description': f"Overview of the {title} class including role, alignment, hit die, and starting wealth.",
+            'keywords': [title.lower(), 'class', 'hit die', 'role', 'alignment']
+        })
+
+    # Call Claude to generate descriptions and keywords for features
+    if features:
+        prompt = format_class_features_prompt(title, features)
+
+        message = client.messages.create(
+            model=model,
+            max_tokens=8192,
+            timeout=timeout,
+            messages=[{"role": "user", "content": prompt}]
+        )
+
+        response_text = message.content[0].text
+        result = extract_json_from_response(response_text)
+        feature_metadata = result.get('features', {})
+
+        for feature in features:
+            metadata = feature_metadata.get(feature['id'], {})
+            sections.append({
+                'id': feature['id'],
+                'title': f"{feature['title']} ({title})",
+                'anchor_heading': feature['anchor_heading'],
+                'description': metadata.get('description', f"Rules for the {feature['title']} class feature."),
+                'keywords': metadata.get('keywords', [feature['title'].lower()])
+            })
+
+    # Build manifest
+    manifest = {
+        'file': filename,
+        'source_path': source_path,
+        'source_name': source_name or f"Class: {title}",
+        'category': 'Classes',
+        'toc_content': toc_content,
+        'sections': sections
+    }
+
+    return manifest
 
 
 def process_file_simple(

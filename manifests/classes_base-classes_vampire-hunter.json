@@ -2,56 +2,296 @@
   "file": "vampire-hunter.md",
   "source_path": "https://www.d20pfsrd.com/classes/base-classes/vampire-hunter/",
   "source_name": "Class: Vampire Hunter",
+  "category": "Classes",
+  "toc_content": "Contents\n* [Class Skills](#class_skills)\n* [Class Features](#class_features)\n  + [Weapon and Armor Proficiency](#weapon_and_armor_proficiency)\n  + [Detect Undead (Sp)](#detect_undead_sp)\n  + [Technique Feat](#technique_feat)\n  + [Track (Ex)](#track_ex)\n  + [Vampiric Focus (Su)](#vampiric_focus_su)\n  + [Relentless (Ex)](#relentless_ex)\n  + [Stake (Su)](#stake_su)\n  + [Spellcasting](#spellcasting)\n  + [Relentless Band (Ex)](#relentless_band_ex)\n  + [Vampire Tracker (Ex)](#vampire_tracker_ex)\n  + [Swift Tracker (Ex)](#swift_tracker_ex)\n  + [Vampire Bane (Su)](#vampire_bane_su)\n  + [Remove Vampirism (Su)](#remove_vampirism_su)\n  + [Quarry (Ex)](#quarry_ex)\n  + [Critical Reflexes (Su)](#critical_reflexes_su)\n  + [Improved Quarry (Ex)](#improved_quarry_ex)\n  + [Master Vampire Hunter (Ex)](#master_vampire_hunter_ex)\n* [Favored Class Bonuses](#favored_class_bonuses)\n* [Variant Multiclassing](#variant_multiclassing)\n* [Mythic Vampire Hunter](#mythic_vampire_hunter)",
   "sections": [
     {
-      "id": "vampire_hunter",
-      "title": "Vampire Hunter",
+      "id": "vampire_hunter_overview",
+      "title": "Vampire Hunter (Class Overview)",
       "anchor_heading": "# Vampire Hunter",
-      "includes_subheadings": [
-        "### Class Skills",
-        "#### Weapon and Armor Proficiency",
-        "#### Detect Undead (Sp)",
-        "#### Technique Feat",
-        "#### Track (Ex)",
-        "#### Vampiric Focus (Su)",
-        "#### Relentless (Ex)",
-        "#### Stake (Su)",
-        "#### Spellcasting",
-        "#### Relentless Band (Ex)",
-        "#### Vampire Tracker (Ex)",
-        "#### Swift Tracker (Ex)",
-        "#### Vampire Bane (Su)",
-        "#### Remove Vampirism (Su)",
-        "#### Quarry (Ex)",
-        "#### Critical Reflexes (Su)",
-        "#### Improved Quarry (Ex)",
-        "#### Master Vampire Hunter (Ex)",
-        "### Class Features",
-        "### Favored Class Bonuses",
-        "### Variant Multiclassing",
-        "### Mythic Vampire Hunter"
-      ],
-      "description": "Comprehensive rules for the Vampire Hunter class, a divine spellcasting class specialized in hunting vampires and undead creatures with unique vampiric focus abilities and tracking powers.",
+      "end_at_heading": "### Class Skills {#class_skills}",
+      "description": "Overview of the Vampire Hunter class including role, alignment, hit die, and starting wealth.",
       "keywords": [
         "vampire hunter",
-        "vampiric focus",
+        "class",
+        "hit die",
+        "role",
+        "alignment"
+      ]
+    },
+    {
+      "id": "vampire_hunter_weapon_and_armor_proficiency",
+      "title": "Weapon and Armor Proficiency (Vampire Hunter)",
+      "anchor_heading": "#### Weapon and Armor Proficiency {#weapon_and_armor_proficiency}",
+      "description": "Grants proficiency with all simple and martial weapons, light and medium armor, and shields except tower shields.",
+      "keywords": [
+        "weapon proficiency",
+        "armor proficiency",
+        "simple weapons",
+        "martial weapons",
+        "light armor",
+        "medium armor",
+        "shields",
+        "tower shields"
+      ]
+    },
+    {
+      "id": "vampire_hunter_detect_undead_sp",
+      "title": "Detect Undead (Sp) (Vampire Hunter)",
+      "anchor_heading": "#### Detect Undead (Sp) {#detect_undead_sp}",
+      "description": "Allows at-will use of detect undead spell and can identify undead creatures as a move action within 60 feet.",
+      "keywords": [
         "detect undead",
+        "spell-like ability",
+        "move action",
+        "undead detection",
+        "aura strength",
+        "60 feet",
+        "concentrate",
+        "at will"
+      ]
+    },
+    {
+      "id": "vampire_hunter_technique_feat",
+      "title": "Technique Feat (Vampire Hunter)",
+      "anchor_heading": "#### Technique Feat {#technique_feat}",
+      "description": "Grants bonus combat feats or vampire hunting technique feats at 1st level and every 3 levels thereafter, with feat retraining options.",
+      "keywords": [
         "technique feat",
-        "vampire tracker",
-        "vampire bane",
-        "quarry",
-        "stake",
-        "remove vampirism",
-        "critical reflexes",
-        "master vampire hunter",
+        "bonus feat",
+        "combat feat",
+        "vampire hunting",
+        "feat retraining",
+        "feat exchange",
+        "prerequisite"
+      ]
+    },
+    {
+      "id": "vampire_hunter_track_ex",
+      "title": "Track (Ex) (Vampire Hunter)",
+      "anchor_heading": "#### Track (Ex) {#track_ex}",
+      "description": "Adds half vampire hunter level to Survival checks made to follow tracks.",
+      "keywords": [
+        "track",
+        "survival",
+        "follow tracks",
+        "tracking bonus",
+        "survival check",
+        "half level"
+      ]
+    },
+    {
+      "id": "vampire_hunter_vampiric_focus_su",
+      "title": "Vampiric Focus (Su) (Vampire Hunter)",
+      "anchor_heading": "#### Vampiric Focus (Su) {#vampiric_focus_su}",
+      "description": "Allows activation of vampiric powers as a swift action for minutes per day equal to level, with only one focus active at a time.",
+      "keywords": [
+        "vampiric focus",
+        "swift action",
+        "vampiric power",
+        "minutes per day",
+        "free action",
+        "1-minute increments",
+        "temporary hit points",
+        "undead powers"
+      ]
+    },
+    {
+      "id": "vampire_hunter_relentless_ex",
+      "title": "Relentless (Ex) (Vampire Hunter)",
+      "anchor_heading": "#### Relentless (Ex) {#relentless_ex}",
+      "description": "Allows travel for 16 hours per day without forced march penalties, requiring Fortitude saves for extended travel.",
+      "keywords": [
         "relentless",
+        "forced march",
+        "16 hours",
+        "fortitude save",
+        "fatigued",
+        "travel",
+        "mount",
+        "DC 15"
+      ]
+    },
+    {
+      "id": "vampire_hunter_stake_su",
+      "title": "Stake (Su) (Vampire Hunter)",
+      "anchor_heading": "#### Stake (Su) {#stake_su}",
+      "description": "Treats any piercing weapon or sharp tool driven through a vampire's heart as a wooden stake.",
+      "keywords": [
+        "stake",
+        "wooden stake",
+        "piercing weapon",
+        "vampire heart",
+        "improvised stake",
+        "sharp tool",
+        "piton"
+      ]
+    },
+    {
+      "id": "vampire_hunter_spellcasting",
+      "title": "Spellcasting (Vampire Hunter)",
+      "anchor_heading": "#### Spellcasting {#spellcasting}",
+      "description": "Grants divine spellcasting using inquisitor spell list up to 4th level spells, with Wisdom-based casting.",
+      "keywords": [
+        "spellcasting",
+        "divine spells",
+        "inquisitor spell list",
+        "wisdom",
+        "spells per day",
+        "spells known",
+        "spell DC",
+        "bonus spells",
+        "4th level maximum"
+      ]
+    },
+    {
+      "id": "vampire_hunter_relentless_band_ex",
+      "title": "Relentless Band (Ex) (Vampire Hunter)",
+      "anchor_heading": "#### Relentless Band (Ex) {#relentless_band_ex}",
+      "description": "Extends relentless travel benefits to companions equal to half vampire hunter level plus their mounts.",
+      "keywords": [
+        "relentless band",
+        "companions",
+        "half level",
+        "extended travel",
+        "mounts",
+        "group travel",
+        "resolve"
+      ]
+    },
+    {
+      "id": "vampire_hunter_vampire_tracker_ex",
+      "title": "Vampire Tracker (Ex) (Vampire Hunter)",
+      "anchor_heading": "#### Vampire Tracker (Ex) {#vampire_tracker_ex}",
+      "description": "Allows tracking of gaseous creatures like vampires in gaseous form with base DC 20 Survival checks.",
+      "keywords": [
+        "vampire tracker",
+        "gaseous form",
+        "gaseous creatures",
+        "survival check",
+        "DC 20",
+        "track vampires",
+        "gaseous tracking"
+      ]
+    },
+    {
+      "id": "vampire_hunter_swift_tracker_ex",
+      "title": "Swift Tracker (Ex) (Vampire Hunter)",
+      "anchor_heading": "#### Swift Tracker (Ex) {#swift_tracker_ex}",
+      "description": "Removes movement penalties when tracking, allowing normal speed tracking without penalty and reduced penalty at double speed.",
+      "keywords": [
         "swift tracker",
-        "undead hunting",
-        "vampiric foci",
-        "mythic vampire hunter",
-        "vampire hunting"
+        "tracking speed",
+        "normal speed",
+        "double speed",
+        "survival penalty",
+        "movement penalty",
+        "-5 penalty",
+        "-10 penalty"
+      ]
+    },
+    {
+      "id": "vampire_hunter_vampire_bane_su",
+      "title": "Vampire Bane (Su) (Vampire Hunter)",
+      "anchor_heading": "#### Vampire Bane (Su) {#vampire_bane_su}",
+      "description": "Uses holy symbols to repel vampires with Will saves, forcing them to maintain distance and preventing melee attacks.",
+      "keywords": [
+        "vampire bane",
+        "holy symbol",
+        "repel vampire",
+        "will save",
+        "standard action",
+        "charisma modifier",
+        "repulsed",
+        "melee attacks",
+        "deity worship"
+      ]
+    },
+    {
+      "id": "vampire_hunter_remove_vampirism_su",
+      "title": "Remove Vampirism (Su) (Vampire Hunter)",
+      "anchor_heading": "#### Remove Vampirism (Su) {#remove_vampirism_su}",
+      "description": "Prevents creatures killed by vampires from rising as vampire spawn by using holy water in a 10-minute ritual.",
+      "keywords": [
+        "remove vampirism",
+        "vampire spawn",
+        "holy water",
+        "10 minutes",
+        "blood drain",
+        "energy drain",
+        "create spawn",
+        "miracle",
+        "wish"
+      ]
+    },
+    {
+      "id": "vampire_hunter_quarry_ex",
+      "title": "Quarry (Ex) (Vampire Hunter)",
+      "anchor_heading": "#### Quarry (Ex) {#quarry_ex}",
+      "description": "Designates an undead target as quarry, granting tracking bonuses, attack bonuses, and automatic critical confirmation.",
+      "keywords": [
+        "quarry",
+        "undead target",
+        "take 10",
+        "survival",
+        "insight bonus",
+        "attack rolls",
+        "critical threats",
+        "automatic confirmation",
+        "24 hours",
+        "standard action"
+      ]
+    },
+    {
+      "id": "vampire_hunter_critical_reflexes_su",
+      "title": "Critical Reflexes (Su) (Vampire Hunter)",
+      "anchor_heading": "#### Critical Reflexes (Su) {#critical_reflexes_su}",
+      "description": "Upon critical hits against undead, allows immediate use of items through combat maneuver checks, including staking vampires.",
+      "keywords": [
+        "critical reflexes",
+        "critical hit",
+        "combat maneuver",
+        "CMD",
+        "alchemical items",
+        "holy water",
+        "wooden stake",
+        "vampire heart",
+        "helpless",
+        "incorporeal"
+      ]
+    },
+    {
+      "id": "vampire_hunter_improved_quarry_ex",
+      "title": "Improved Quarry (Ex) (Vampire Hunter)",
+      "anchor_heading": "#### Improved Quarry (Ex) {#improved_quarry_ex}",
+      "description": "Enhances quarry selection to free action, allows taking 20 on tracking, increases attack bonus, and reduces quarry selection cooldown.",
+      "keywords": [
+        "improved quarry",
+        "free action",
+        "take 20",
+        "tracking",
+        "+4 insight bonus",
+        "10 minutes",
+        "quarry selection"
+      ]
+    },
+    {
+      "id": "vampire_hunter_master_vampire_hunter_ex",
+      "title": "Master Vampire Hunter (Ex) (Vampire Hunter)",
+      "anchor_heading": "#### Master Vampire Hunter (Ex) {#master_vampire_hunter_ex}",
+      "description": "Makes single attacks against undead quarry with destroy, stake, or paralyze effects, plus permanent vampiric focus activation.",
+      "keywords": [
+        "master vampire hunter",
+        "destroy",
+        "stake",
+        "paralyze",
+        "fortitude save",
+        "gaseous form",
+        "wooden stake",
+        "vampiric focus",
+        "permanent activation",
+        "2d6 rounds"
       ]
     }
-  ],
-  "category": "Classes"
+  ]
 }

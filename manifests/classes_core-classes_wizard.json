@@ -2,55 +2,213 @@
   "file": "wizard.md",
   "source_path": "https://www.d20pfsrd.com/classes/core-classes/wizard/",
   "source_name": "Class: Wizard",
+  "category": "Classes",
+  "toc_content": "Contents\n+ [Class Skills](#class_skills)\n+ [Class Features](#class_features)\n  - [Weapon and Armor Proficiency](#weapon_and_armor_proficiency)\n  - [Spells](#spells)\n  - [Bonus Languages](#bonus_languages)\n  - [Arcane Bond (Ex or Sp)](#arcane_bond_ex_or_sp)\n  - [Arcane School](#arcane_school)\n  - [Elemental Arcane Schools](#elemental_arcane_schools)\n  - [Cantrips](#cantrips)\n  - [Scribe Scroll](#scribe_scroll)\n  - [Bonus Feats](#bonus_feats)\n+ [Alternative Capstone Ability](#alternative_capstone_ability)\n  - [Well-Prepared (Su)](#well-prepared_su)\n+ [Spellbooks](#spellbooks)\n  - [Adding Spells to a Wizard\u2019s Spellbook](#adding_spells_to_a_wizard8217s_spellbook)\n+ [Arcane Spells and Armor](#arcane_spells_and_armor)\n* [Archetypes & Alternate Class Features](#archetypes_alternate_class_features)",
   "sections": [
     {
-      "id": "wizard",
-      "title": "Wizard",
+      "id": "wizard_overview",
+      "title": "Wizard (Class Overview)",
       "anchor_heading": "# Wizard",
-      "includes_subheadings": [
-        "### Class Skills",
-        "### Class Features",
-        "#### Weapon and Armor Proficiency",
-        "#### Spells",
-        "#### Bonus Languages",
-        "#### Arcane Bond (Ex or Sp)",
-        "#### Arcane School",
-        "#### Elemental Arcane Schools",
-        "#### Cantrips",
-        "#### Scribe Scroll",
-        "#### Bonus Feats",
-        "### Alternative Capstone Ability",
-        "#### Well-Prepared (Su)",
-        "### Spellbooks",
-        "#### Adding Spells to a Wizard's Spellbook",
-        "### Arcane Spells and Armor"
-      ],
-      "description": "Defines the complete wizard core class, including class features like arcane schools, familiars, bonded objects, spellcasting mechanics, and spellbook rules.",
+      "end_at_heading": "### Class Skills {#class_skills}",
+      "description": "Overview of the Wizard class including role, alignment, hit die, and starting wealth.",
       "keywords": [
         "wizard",
-        "arcane bond",
-        "bonded object",
-        "familiar",
-        "arcane school",
-        "spellbook",
-        "cantrips",
-        "scribe scroll",
-        "bonus feat",
-        "opposition school",
-        "specialist wizard",
-        "universalist wizard",
-        "elemental arcane school",
-        "metamagic feat",
-        "item creation feat",
-        "spell mastery",
-        "arcane discovery",
-        "spells per day",
-        "prepare spells",
-        "concentration check",
+        "class",
+        "hit die",
+        "role",
+        "alignment"
+      ]
+    },
+    {
+      "id": "wizard_weapon_and_armor_proficiency",
+      "title": "Weapon and Armor Proficiency (Wizard)",
+      "anchor_heading": "#### Weapon and Armor Proficiency {#weapon_and_armor_proficiency}",
+      "description": "Wizards are proficient with only a few simple weapons and no armor or shields, as armor interferes with spellcasting and can cause spells with somatic components to fail.",
+      "keywords": [
+        "weapon proficiency",
+        "armor proficiency",
+        "somatic components",
+        "spell failure",
+        "club",
+        "dagger",
+        "heavy crossbow",
+        "light crossbow",
+        "quarterstaff",
         "arcane spell failure",
-        "somatic component"
+        "armor interference"
+      ]
+    },
+    {
+      "id": "wizard_spells",
+      "title": "Spells (Wizard)",
+      "anchor_heading": "#### Spells {#spells}",
+      "description": "Wizards cast prepared arcane spells from the sorcerer/wizard spell list, requiring Intelligence scores and daily preparation through study of their spellbook.",
+      "keywords": [
+        "arcane spells",
+        "prepared spells",
+        "sorcerer/wizard spell list",
+        "Intelligence",
+        "spell preparation",
+        "spellbook",
+        "8 hours sleep",
+        "1 hour studying",
+        "spell DC",
+        "bonus spells",
+        "starting spells",
+        "spells per day"
+      ]
+    },
+    {
+      "id": "wizard_bonus_languages",
+      "title": "Bonus Languages (Wizard)",
+      "anchor_heading": "#### Bonus Languages {#bonus_languages}",
+      "description": "A wizard may substitute Draconic for one of their racial bonus languages.",
+      "keywords": [
+        "bonus languages",
+        "Draconic",
+        "racial languages",
+        "language substitution"
+      ]
+    },
+    {
+      "id": "wizard_arcane_bond_ex_or_sp",
+      "title": "Arcane Bond (Ex or Sp) (Wizard)",
+      "anchor_heading": "#### Arcane Bond (Ex or Sp) {#arcane_bond_ex_or_sp}",
+      "description": "At 1st level, wizards form a permanent bond with either a familiar or a bonded object that provides magical benefits and can be used to cast additional spells.",
+      "keywords": [
+        "arcane bond",
+        "familiar",
+        "bonded object",
+        "amulet",
+        "ring",
+        "staff",
+        "wand",
+        "weapon",
+        "masterwork",
+        "concentration check",
+        "once per day",
+        "opposition schools",
+        "item creation",
+        "200 gp",
+        "1 week",
+        "8 hour ritual",
+        "detect magic"
+      ]
+    },
+    {
+      "id": "wizard_arcane_school",
+      "title": "Arcane School (Wizard)",
+      "anchor_heading": "#### Arcane School {#arcane_school}",
+      "description": "A wizard can specialize in one school of magic to gain additional spell slots and school powers, but must choose two opposition schools that require double spell slots to prepare.",
+      "keywords": [
+        "arcane school",
+        "specialist",
+        "opposition schools",
+        "school powers",
+        "bonus spell slot",
+        "metamagic feat",
+        "skill check penalty",
+        "crafting magic items",
+        "universalist",
+        "spell specialization",
+        "double spell slots"
+      ]
+    },
+    {
+      "id": "wizard_elemental_arcane_schools",
+      "title": "Elemental Arcane Schools (Wizard)",
+      "anchor_heading": "#### Elemental Arcane Schools {#elemental_arcane_schools}",
+      "description": "Instead of a focused arcane school, wizards can specialize in elemental schools with only one opposed element rather than two opposition schools.",
+      "keywords": [
+        "elemental schools",
+        "elemental specialization",
+        "air opposes earth",
+        "fire opposes water",
+        "opposed element",
+        "elemental spell list",
+        "single opposition school"
+      ]
+    },
+    {
+      "id": "wizard_cantrips",
+      "title": "Cantrips (Wizard)",
+      "anchor_heading": "#### Cantrips {#cantrips}",
+      "description": "Wizards can prepare and cast 0-level spells called cantrips that are not expended when cast and may be used repeatedly.",
+      "keywords": [
+        "cantrips",
+        "0-level spells",
+        "not expended",
+        "unlimited use",
+        "opposition school",
+        "double slots"
+      ]
+    },
+    {
+      "id": "wizard_scribe_scroll",
+      "title": "Scribe Scroll (Wizard)",
+      "anchor_heading": "#### Scribe Scroll {#scribe_scroll}",
+      "description": "At 1st level, wizards automatically gain Scribe Scroll as a bonus feat without needing to meet prerequisites.",
+      "keywords": [
+        "Scribe Scroll",
+        "bonus feat",
+        "1st level",
+        "item creation",
+        "scroll creation"
+      ]
+    },
+    {
+      "id": "wizard_bonus_feats",
+      "title": "Bonus Feats (Wizard)",
+      "anchor_heading": "#### Bonus Feats {#bonus_feats}",
+      "description": "At 5th, 10th, 15th, and 20th level, wizards gain bonus feats from metamagic, item creation, or Spell Mastery categories, or can choose Arcane Discoveries instead.",
+      "keywords": [
+        "bonus feats",
+        "5th level",
+        "10th level",
+        "15th level",
+        "20th level",
+        "metamagic feats",
+        "item creation feats",
+        "Spell Mastery",
+        "Arcane Discovery",
+        "prerequisites",
+        "caster level"
+      ]
+    },
+    {
+      "id": "wizard_well-prepared_su",
+      "title": "Well-Prepared (Su) (Wizard)",
+      "anchor_heading": "#### Well-Prepared (Su) {#well-prepared_su}",
+      "description": "At 20th level, wizards gain numerous additional spell slots per day across all spell levels, representing their mastery and preparedness.",
+      "keywords": [
+        "Well-Prepared",
+        "20th level",
+        "capstone",
+        "additional spell slots",
+        "additional cantrips",
+        "spell slot bonus",
+        "master wizard"
+      ]
+    },
+    {
+      "id": "wizard_adding_spells_to_a_wizard8217s_spellbook",
+      "title": "Adding Spells to a Wizard\u2019s Spellbook (Wizard)",
+      "anchor_heading": "#### Adding Spells to a Wizard\u2019s Spellbook {#adding_spells_to_a_wizard8217s_spellbook}",
+      "description": "Wizards can add new spells to their spellbooks through level advancement or by copying from scrolls and other spellbooks using Spellcraft checks.",
+      "keywords": [
+        "adding spells",
+        "spellbook",
+        "spell research",
+        "copying spells",
+        "magic scroll",
+        "Spellcraft check",
+        "DC 15",
+        "spell level",
+        "specialty bonus",
+        "decipher magical writing",
+        "1 hour study",
+        "spell costs"
       ]
     }
-  ],
-  "category": "Classes"
+  ]
 }

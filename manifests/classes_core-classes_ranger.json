@@ -2,58 +2,309 @@
   "file": "ranger.md",
   "source_path": "https://www.d20pfsrd.com/classes/core-classes/ranger/",
   "source_name": "Class: Ranger",
+  "category": "Classes",
+  "toc_content": "Contents\n+ [Class Skills](#class_skills)\n+ [Class Features](#class_features)\n  - [Weapon and Armor Proficiency](#weapon_and_armor_proficiency)\n  - [Favored Enemy (Ex)](#favored_enemy_ex)\n  - [Track (Ex)](#track_ex)\n  - [Wild Empathy (Ex)](#wild_empathy_ex)\n  - [Combat Style Feat (Ex)](#combat_style_feat_ex)\n  - [Endurance](#endurance)\n  - [Favored Terrain (Ex)](#favored_terrain_ex)\n  - [Hunter\u2019s Bond (Ex)](#hunter8217s_bond_ex)\n  - [Spells](#spells)\n  - [Woodland Stride (Ex)](#woodland_stride_ex)\n  - [Swift Tracker (Ex)](#swift_tracker_ex)\n  - [Evasion (Ex)](#evasion_ex)\n  - [Quarry (Ex)](#quarry_ex)\n  - [Camouflage (Ex)](#camouflage_ex)\n  - [Improved Evasion (Ex)](#improved_evasion_ex)\n  - [Hide in Plain Sight (Ex)](#hide_in_plain_sight_ex)\n  - [Improved Quarry (Ex)](#improved_quarry_ex)\n  - [Master Hunter (Ex)](#master_hunter_ex)\n+ [Alternative Capstone Ability](#alternative_capstone_ability)\n  - [Seen It Before (Ex)](#seen_it_before_ex)\n* [Favored Class Bonuses](#favored_class_bonuses)\n* [Archetypes & Alternate Class Features](#archetypes_alternate_class_features)",
   "sections": [
     {
-      "id": "ranger",
-      "title": "Ranger",
+      "id": "ranger_overview",
+      "title": "Ranger (Class Overview)",
       "anchor_heading": "# Ranger",
-      "includes_subheadings": [
-        "### Class Skills",
-        "#### Weapon and Armor Proficiency",
-        "#### Favored Enemy (Ex)",
-        "#### Track (Ex)",
-        "#### Wild Empathy (Ex)",
-        "#### Combat Style Feat (Ex)",
-        "#### Endurance",
-        "#### Favored Terrain (Ex)",
-        "#### Hunter's Bond (Ex)",
-        "#### Spells",
-        "#### Woodland Stride (Ex)",
-        "#### Swift Tracker (Ex)",
-        "#### Evasion (Ex)",
-        "#### Quarry (Ex)",
-        "#### Camouflage (Ex)",
-        "#### Improved Evasion (Ex)",
-        "#### Hide in Plain Sight (Ex)",
-        "#### Improved Quarry (Ex)",
-        "#### Master Hunter (Ex)",
-        "### Alternative Capstone Ability",
-        "#### Seen It Before (Ex)"
-      ],
-      "description": "Core class rules for the Ranger, covering all class features including favored enemies, favored terrain, combat style feats, animal companions, hunter's bond, spells, and tracking abilities from levels 1-20.",
+      "end_at_heading": "### Class Skills {#class_skills}",
+      "description": "Overview of the Ranger class including role, alignment, hit die, and starting wealth.",
       "keywords": [
         "ranger",
+        "class",
+        "hit die",
+        "role",
+        "alignment"
+      ]
+    },
+    {
+      "id": "ranger_weapon_and_armor_proficiency",
+      "title": "Weapon and Armor Proficiency (Ranger)",
+      "anchor_heading": "#### Weapon and Armor Proficiency {#weapon_and_armor_proficiency}",
+      "description": "Rangers are proficient with all simple and martial weapons, light and medium armor, and shields (except tower shields).",
+      "keywords": [
+        "weapon proficiency",
+        "armor proficiency",
+        "simple weapons",
+        "martial weapons",
+        "light armor",
+        "medium armor",
+        "shield proficiency",
+        "tower shield restriction"
+      ]
+    },
+    {
+      "id": "ranger_favored_enemy_ex",
+      "title": "Favored Enemy ([Ex](https://www.d20pfsrd.com/gamemastering/special-abilities#TOC-Extraordinary-Abilities-Ex-)) (Ranger)",
+      "anchor_heading": "#### Favored Enemy ([Ex](https://www.d20pfsrd.com/gamemastering/special-abilities#TOC-Extraordinary-Abilities-Ex-)) {#favored_enemy_ex}",
+      "description": "Rangers gain bonuses to skills and combat against selected creature types, with additional favored enemies and increased bonuses at higher levels.",
+      "keywords": [
         "favored enemy",
-        "favored terrain",
+        "creature type",
+        "humanoid subtype",
+        "outsider subtype",
+        "Bluff bonus",
+        "Knowledge bonus",
+        "Perception bonus",
+        "Sense Motive bonus",
+        "Survival bonus",
+        "attack bonus",
+        "damage bonus",
+        "untrained Knowledge check"
+      ]
+    },
+    {
+      "id": "ranger_track_ex",
+      "title": "Track ([Ex](https://www.d20pfsrd.com/gamemastering/special-abilities#TOC-Extraordinary-Abilities-Ex-)) (Ranger)",
+      "anchor_heading": "#### Track ([Ex](https://www.d20pfsrd.com/gamemastering/special-abilities#TOC-Extraordinary-Abilities-Ex-)) {#track_ex}",
+      "description": "Rangers add half their level (minimum 1) to Survival skill checks made to follow tracks.",
+      "keywords": [
         "track",
+        "tracking",
+        "Survival skill",
+        "follow tracks",
+        "skill bonus"
+      ]
+    },
+    {
+      "id": "ranger_wild_empathy_ex",
+      "title": "Wild Empathy ([Ex](https://www.d20pfsrd.com/gamemastering/special-abilities#TOC-Extraordinary-Abilities-Ex-)) (Ranger)",
+      "anchor_heading": "#### Wild Empathy ([Ex](https://www.d20pfsrd.com/gamemastering/special-abilities#TOC-Extraordinary-Abilities-Ex-)) {#wild_empathy_ex}",
+      "description": "Rangers can improve the attitude of animals using a Charisma-based check similar to Diplomacy, and can affect low-Intelligence magical beasts at a penalty.",
+      "keywords": [
         "wild empathy",
-        "combat style feat",
+        "animal attitude",
+        "Diplomacy check",
+        "Charisma modifier",
+        "magical beast",
+        "Intelligence 1 or 2",
+        "30 feet range",
+        "1 minute duration"
+      ]
+    },
+    {
+      "id": "ranger_combat_style_feat_ex",
+      "title": "Combat Style Feat ([Ex](https://www.d20pfsrd.com/gamemastering/special-abilities#TOC-Extraordinary-Abilities-Ex-)) (Ranger)",
+      "anchor_heading": "#### Combat Style Feat ([Ex](https://www.d20pfsrd.com/gamemastering/special-abilities#TOC-Extraordinary-Abilities-Ex-)) {#combat_style_feat_ex}",
+      "description": "Rangers select a combat style and gain bonus feats from that style without prerequisites, but lose benefits when wearing heavy armor.",
+      "keywords": [
+        "combat style",
+        "bonus feat",
+        "feat prerequisites",
+        "heavy armor restriction",
+        "light armor",
+        "medium armor",
+        "no armor",
+        "archery",
+        "two-weapon fighting"
+      ]
+    },
+    {
+      "id": "ranger_endurance",
+      "title": "Endurance (Ranger)",
+      "anchor_heading": "#### Endurance {#endurance}",
+      "description": "Rangers automatically gain the Endurance feat as a bonus feat at 3rd level.",
+      "keywords": [
+        "Endurance feat",
+        "bonus feat",
+        "forced march",
+        "environmental effects"
+      ]
+    },
+    {
+      "id": "ranger_favored_terrain_ex",
+      "title": "Favored Terrain ([Ex](https://www.d20pfsrd.com/gamemastering/special-abilities#TOC-Extraordinary-Abilities-Ex-)) (Ranger)",
+      "anchor_heading": "#### Favored Terrain ([Ex](https://www.d20pfsrd.com/gamemastering/special-abilities#TOC-Extraordinary-Abilities-Ex-)) {#favored_terrain_ex}",
+      "description": "Rangers gain bonuses to initiative and specific skills in selected terrain types, and leave no trail unless they choose to.",
+      "keywords": [
+        "favored terrain",
+        "initiative bonus",
+        "Knowledge geography",
+        "Perception bonus",
+        "Stealth bonus",
+        "Survival bonus",
+        "no trail",
+        "cannot be tracked"
+      ]
+    },
+    {
+      "id": "ranger_hunter8217s_bond_ex",
+      "title": "Hunter\u2019s Bond ([Ex](https://www.d20pfsrd.com/gamemastering/special-abilities#TOC-Extraordinary-Abilities-Ex-)) (Ranger)",
+      "anchor_heading": "#### Hunter\u2019s Bond ([Ex](https://www.d20pfsrd.com/gamemastering/special-abilities#TOC-Extraordinary-Abilities-Ex-)) {#hunter8217s_bond_ex}",
+      "description": "Rangers choose between sharing favored enemy bonuses with allies as a move action or gaining an animal companion with shared bonuses.",
+      "keywords": [
         "hunter's bond",
         "animal companion",
+        "favored enemy sharing",
+        "move action",
+        "30 feet",
+        "Wisdom modifier duration",
+        "effective druid level",
+        "companion bonuses"
+      ]
+    },
+    {
+      "id": "ranger_spells",
+      "title": "Spells (Ranger)",
+      "anchor_heading": "#### Spells {#spells}",
+      "description": "Rangers gain divine spellcasting starting at 4th level, preparing spells from the ranger spell list with Wisdom-based DCs.",
+      "keywords": [
+        "divine spells",
+        "ranger spell list",
+        "Wisdom requirement",
+        "spell preparation",
+        "caster level",
+        "bonus spells",
+        "daily meditation",
+        "spell DC"
+      ]
+    },
+    {
+      "id": "ranger_woodland_stride_ex",
+      "title": "Woodland Stride ([Ex](https://www.d20pfsrd.com/gamemastering/special-abilities#TOC-Extraordinary-Abilities-Ex-)) (Ranger)",
+      "anchor_heading": "#### Woodland Stride ([Ex](https://www.d20pfsrd.com/gamemastering/special-abilities#TOC-Extraordinary-Abilities-Ex-)) {#woodland_stride_ex}",
+      "description": "Rangers move through natural undergrowth at normal speed without damage, but magical terrain still affects them.",
+      "keywords": [
         "woodland stride",
+        "undergrowth",
+        "thorns",
+        "briars",
+        "overgrown areas",
+        "normal speed",
+        "no damage",
+        "magical terrain",
+        "enchanted obstacles"
+      ]
+    },
+    {
+      "id": "ranger_swift_tracker_ex",
+      "title": "Swift Tracker ([Ex](https://www.d20pfsrd.com/gamemastering/special-abilities#TOC-Extraordinary-Abilities-Ex-)) (Ranger)",
+      "anchor_heading": "#### Swift Tracker ([Ex](https://www.d20pfsrd.com/gamemastering/special-abilities#TOC-Extraordinary-Abilities-Ex-)) {#swift_tracker_ex}",
+      "description": "Rangers can track at normal speed without penalty and take reduced penalties when tracking at double speed.",
+      "keywords": [
         "swift tracker",
+        "tracking speed",
+        "normal speed tracking",
+        "double speed tracking",
+        "Survival penalty reduction"
+      ]
+    },
+    {
+      "id": "ranger_evasion_ex",
+      "title": "Evasion ([Ex](https://www.d20pfsrd.com/gamemastering/special-abilities#TOC-Extraordinary-Abilities-Ex-)) (Ranger)",
+      "anchor_heading": "#### Evasion ([Ex](https://www.d20pfsrd.com/gamemastering/special-abilities#TOC-Extraordinary-Abilities-Ex-)) {#evasion_ex}",
+      "description": "Rangers take no damage on successful Reflex saves against attacks that normally deal half damage, but only in light/medium armor or no armor.",
+      "keywords": [
         "evasion",
+        "Reflex save",
+        "no damage",
+        "half damage",
+        "light armor",
+        "medium armor",
+        "helpless condition"
+      ]
+    },
+    {
+      "id": "ranger_quarry_ex",
+      "title": "Quarry ([Ex](https://www.d20pfsrd.com/gamemastering/special-abilities#TOC-Extraordinary-Abilities-Ex-)) (Ranger)",
+      "anchor_heading": "#### Quarry ([Ex](https://www.d20pfsrd.com/gamemastering/special-abilities#TOC-Extraordinary-Abilities-Ex-)) {#quarry_ex}",
+      "description": "Rangers designate a favored enemy as quarry, gaining tracking benefits, attack bonuses, and automatic critical confirmation against that target.",
+      "keywords": [
         "quarry",
+        "standard action",
+        "take 10",
+        "Survival tracking",
+        "insight bonus",
+        "critical threat",
+        "automatic confirmation",
+        "24 hour restriction"
+      ]
+    },
+    {
+      "id": "ranger_camouflage_ex",
+      "title": "Camouflage ([Ex](https://www.d20pfsrd.com/gamemastering/special-abilities#TOC-Extraordinary-Abilities-Ex-)) (Ranger)",
+      "anchor_heading": "#### Camouflage ([Ex](https://www.d20pfsrd.com/gamemastering/special-abilities#TOC-Extraordinary-Abilities-Ex-)) {#camouflage_ex}",
+      "description": "Rangers can use Stealth to hide in favored terrains even without cover or concealment.",
+      "keywords": [
         "camouflage",
+        "Stealth skill",
+        "favored terrain",
+        "no cover",
+        "no concealment",
+        "hide"
+      ]
+    },
+    {
+      "id": "ranger_improved_evasion_ex",
+      "title": "Improved Evasion ([Ex](https://www.d20pfsrd.com/gamemastering/special-abilities#TOC-Extraordinary-Abilities-Ex-)) (Ranger)",
+      "anchor_heading": "#### Improved Evasion ([Ex](https://www.d20pfsrd.com/gamemastering/special-abilities#TOC-Extraordinary-Abilities-Ex-)) {#improved_evasion_ex}",
+      "description": "Rangers take no damage on successful Reflex saves and only half damage on failed saves against area effects.",
+      "keywords": [
         "improved evasion",
+        "Reflex save",
+        "no damage",
+        "half damage on failed save",
+        "helpless condition"
+      ]
+    },
+    {
+      "id": "ranger_hide_in_plain_sight_ex",
+      "title": "Hide in Plain Sight ([Ex](https://www.d20pfsrd.com/gamemastering/special-abilities#TOC-Extraordinary-Abilities-Ex-)) (Ranger)",
+      "anchor_heading": "#### Hide in Plain Sight ([Ex](https://www.d20pfsrd.com/gamemastering/special-abilities#TOC-Extraordinary-Abilities-Ex-)) {#hide_in_plain_sight_ex}",
+      "description": "Rangers can use Stealth in favored terrains even while being observed.",
+      "keywords": [
         "hide in plain sight",
+        "Stealth skill",
+        "favored terrain",
+        "being observed",
+        "no concealment needed"
+      ]
+    },
+    {
+      "id": "ranger_improved_quarry_ex",
+      "title": "Improved Quarry ([Ex](https://www.d20pfsrd.com/gamemastering/special-abilities#TOC-Extraordinary-Abilities-Ex-)) (Ranger)",
+      "anchor_heading": "#### Improved Quarry ([Ex](https://www.d20pfsrd.com/gamemastering/special-abilities#TOC-Extraordinary-Abilities-Ex-)) {#improved_quarry_ex}",
+      "description": "Rangers can select quarry as a free action, take 20 on tracking checks, gain increased attack bonuses, and select new quarry faster.",
+      "keywords": [
         "improved quarry",
+        "free action",
+        "take 20",
+        "Survival tracking",
+        "+4 insight bonus",
+        "10 minute wait"
+      ]
+    },
+    {
+      "id": "ranger_master_hunter_ex",
+      "title": "Master Hunter ([Ex](https://www.d20pfsrd.com/gamemastering/special-abilities#TOC-Extraordinary-Abilities-Ex-)) (Ranger)",
+      "anchor_heading": "#### Master Hunter ([Ex](https://www.d20pfsrd.com/gamemastering/special-abilities#TOC-Extraordinary-Abilities-Ex-)) {#master_hunter_ex}",
+      "description": "Rangers track at full speed without penalty and can make instant-death attacks against favored enemies once per day per enemy type.",
+      "keywords": [
         "master hunter",
-        "ranger spells",
-        "ranger archetype",
-        "endurance"
+        "full speed tracking",
+        "instant death",
+        "Fortitude save",
+        "nonlethal damage option",
+        "once per day",
+        "favored enemy type"
+      ]
+    },
+    {
+      "id": "ranger_seen_it_before_ex",
+      "title": "Seen It Before (Ex) (Ranger)",
+      "anchor_heading": "#### Seen It Before (Ex) {#seen_it_before_ex}",
+      "description": "Rangers add their favored enemy bonus as an insight bonus on saves against spells and abilities used by those favored enemies.",
+      "keywords": [
+        "seen it before",
+        "favored enemy bonus",
+        "insight bonus",
+        "saving throws",
+        "spells",
+        "abilities",
+        "favored enemy spells"
       ]
     }
-  ],
-  "category": "Classes"
+  ]
 }

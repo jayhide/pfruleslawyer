@@ -6,6 +6,8 @@ Usage:
     poetry run python convert_to_markdown.py              # Convert all cached HTML
     poetry run python convert_to_markdown.py --get URL    # Get markdown for a URL
     poetry run python convert_to_markdown.py --preview URL # Preview without saving
+    poetry run python convert_to_markdown.py --url URL    # Convert and save specific URL(s)
+    poetry run python convert_to_markdown.py --url URL1 --url URL2  # Multiple URLs
     poetry run python convert_to_markdown.py --stats      # Show conversion stats
 """
 
@@ -185,10 +187,105 @@ def fix_encoding(text: str) -> str:
         return text
 
 
-def extract_clean_markdown(html: str) -> str:
+def extract_faq_markdown(html: str) -> str:
+    """
+    Extract FAQ Q&A pairs from Paizo FAQ HTML.
+
+    Each Q&A is formatted as:
+        <h2 style="margin-top:24px">Question text</h2>
+        <blockquote>
+            <p>Answer text</p>
+            <div class="tiny">...metadata...</div>
+        </blockquote>
+
+    Returns markdown with ## headings for questions and plain text answers.
+    """
+    html = fix_encoding(html)
+    soup = BeautifulSoup(html, "html.parser")
+
+    # Remove script and style elements
+    for element in soup(["script", "style"]):
+        element.decompose()
+
+    sections = []
+    # Find all h2 elements with the FAQ styling
+    for h2 in soup.find_all('h2', style=lambda s: s and 'margin-top:24px' in s if s else False):
+        question = h2.get_text(strip=True)
+        if not question:
+            continue
+
+        blockquote = h2.find_next_sibling('blockquote')
+        if blockquote:
+            # Extract answer text - get paragraphs, skip the metadata div
+            answer_parts = []
+            for child in blockquote.children:
+                if hasattr(child, 'name'):
+                    if child.name == 'p':
+                        answer_parts.append(child.get_text(strip=True))
+                    elif child.name == 'div' and 'tiny' in child.get('class', []):
+                        # Skip metadata div
+                        continue
+                    elif child.name in ['ul', 'ol']:
+                        # Handle lists in answers
+                        for li in child.find_all('li'):
+                            answer_parts.append(f"- {li.get_text(strip=True)}")
+
+            answer = '\n\n'.join(answer_parts) if answer_parts else ''
+            if answer:
+                sections.append(f"## {question}\n\n{answer}")
+
+    return "\n\n---\n\n".join(sections)
+
+
+def remove_class_sections(content_div, section_ids: list[str]) -> None:
+    """
+    Remove sections from class pages that start with specific span IDs.
+
+    Finds h2 tags containing spans with the given IDs and removes everything
+    from that h2 until the next h2 (or end of content).
+
+    Args:
+        content_div: BeautifulSoup element containing the content
+        section_ids: List of span IDs to filter out (e.g., ['favored_class_bonuses'])
+    """
+    for section_id in section_ids:
+        span = content_div.find('span', id=section_id)
+        if not span:
+            continue
+
+        # Find the parent h2
+        h2 = span.find_parent('h2')
+        if not h2:
+            continue
+
+        # Remove all siblings after this h2 until we hit another h2
+        elements_to_remove = []
+        for sibling in h2.find_next_siblings():
+            if sibling.name == 'h2':
+                break
+            elements_to_remove.append(sibling)
+
+        # Remove the collected elements and the h2 itself
+        for elem in elements_to_remove:
+            elem.decompose()
+        h2.decompose()
+
+
+# Section IDs to filter from class pages
+CLASS_SECTION_FILTERS = [
+    'favored_class_bonuses',           # Favored Class Bonuses - race-specific, not core rules
+    'archetypes_alternate_class_features',  # Archetypes - have their own pages
+]
+
+
+def extract_clean_markdown(html: str, url: str = "") -> str:
     """
     Extract content from first h1 to end marker, convert to markdown.
     Returns clean markdown string.
+
+    Args:
+        html: Raw HTML content
+        url: Optional URL for context-specific processing (e.g., class pages)
     """
     # Fix encoding issues from scraping
     html = fix_encoding(html)
@@ -239,6 +336,10 @@ def extract_clean_markdown(html: str) -> str:
     for class_name in ["right-sidebar", "article-edit-link", "sidebar-bottom", "adbox", "widget"]:
         for elem in content_div.find_all(class_=class_name):
             elem.decompose()
+
+    # Remove bloated sections from class pages
+    if '/classes/' in url and '/archetypes/' not in url:
+        remove_class_sections(content_div, CLASS_SECTION_FILTERS)
 
     # Convert the cleaned content div to markdown using custom converter
     # that preserves anchor IDs in headings
@@ -341,7 +442,11 @@ class MarkdownCache:
 def convert_url(url: str, html: str, cache: MarkdownCache) -> tuple[str, bool, int]:
     """Convert a single URL. Returns (url, success, content_length)."""
     try:
-        markdown = extract_clean_markdown(html)
+        # Use FAQ-specific extraction for Paizo FAQ pages
+        if 'paizo.com/paizo/faq' in url:
+            markdown = extract_faq_markdown(html)
+        else:
+            markdown = extract_clean_markdown(html, url=url)
         cache.set_markdown(url, markdown)
         return (url, True, len(markdown))
     except Exception as e:
@@ -405,6 +510,8 @@ def main():
                         help="Get markdown for a specific URL")
     parser.add_argument("--preview", metavar="URL",
                         help="Preview markdown extraction without saving")
+    parser.add_argument("--url", metavar="URL", action="append",
+                        help="Convert and save specific URL(s). Can be repeated.")
     parser.add_argument("--stats", action="store_true",
                         help="Show conversion statistics")
     parser.add_argument("--force", action="store_true",
@@ -435,13 +542,39 @@ def main():
     if args.preview:
         html = cache.get_html(args.preview)
         if html:
-            markdown = extract_clean_markdown(html)
+            # Use FAQ-specific extraction for Paizo FAQ pages
+            if 'paizo.com/paizo/faq' in args.preview:
+                markdown = extract_faq_markdown(html)
+            else:
+                markdown = extract_clean_markdown(html, url=args.preview)
             log(f"=== Preview for {args.preview} ===")
             log(f"Length: {len(markdown):,} chars")
             log(f"{'='*60}\n")
             print(markdown)
         else:
             log(f"No HTML found for: {args.preview}")
+        return
+
+    if args.url:
+        # Convert specific URLs
+        success_count = 0
+        for url in args.url:
+            html = cache.get_html(url)
+            if not html:
+                log(f"No HTML found for: {url}")
+                continue
+
+            # Use FAQ-specific extraction for Paizo FAQ pages
+            if 'paizo.com/paizo/faq' in url:
+                markdown = extract_faq_markdown(html)
+            else:
+                markdown = extract_clean_markdown(html, url=url)
+
+            cache.set_markdown(url, markdown)
+            log(f"Converted: {url} ({len(markdown):,} chars)")
+            success_count += 1
+
+        log(f"\nConverted {success_count}/{len(args.url)} URLs")
         return
 
     # Default: convert all

@@ -2,56 +2,189 @@
   "file": "bard.md",
   "source_path": "https://www.d20pfsrd.com/classes/core-classes/bard/",
   "source_name": "Class: Bard",
+  "category": "Classes",
+  "toc_content": "Contents\n+ [Class Skills](#class_skills)\n+ [Class Features](#class_features)\n  - [Weapon and Armor Proficiency](#weapon_and_armor_proficiency)\n  - [Spells](#spells)\n  - [Bardic Knowledge (Ex)](#bardic_knowledge_ex)\n  - [Bardic Performance](#bardic_performance)\n  - [Cantrips (Sp)](#cantrips_sp)\n  - [Versatile Performance (Ex)](#versatile_performance_ex)\n* [Advanced Versatile Performances](#advanced_versatile_performances)",
   "sections": [
     {
-      "id": "bard",
-      "title": "Bard",
+      "id": "bard_overview",
+      "title": "Bard (Class Overview)",
       "anchor_heading": "# Bard",
-      "includes_subheadings": [
-        "### Class Skills",
-        "### Class Features",
-        "#### Weapon and Armor Proficiency",
-        "#### Spells",
-        "#### Bardic Knowledge (Ex)",
-        "#### Bardic Performance",
-        "#### Cantrips (Sp)",
-        "#### Versatile Performance (Ex)",
-        "## Advanced Versatile Performances",
-        "#### Well-Versed (Ex)",
-        "#### Lore Master (Ex)",
-        "#### Jack of All Trades (Ex)",
-        "### Alternative Capstone Ability",
-        "#### Adoring Fan (Su)",
-        "## Favored Class Bonuses",
-        "## Archetypes & Alternate Class Features"
-      ],
-      "description": "Rules for the Bard core class, including class features like bardic performance, spells, versatile performance, bardic knowledge, and progression from levels 1-20.",
+      "end_at_heading": "### Class Skills {#class_skills}",
+      "description": "Overview of the Bard class including role, alignment, hit die, and starting wealth.",
       "keywords": [
         "bard",
-        "bardic performance",
+        "class",
+        "hit die",
+        "role",
+        "alignment"
+      ]
+    },
+    {
+      "id": "bard_weapon_and_armor_proficiency",
+      "title": "Weapon and Armor Proficiency (Bard)",
+      "anchor_heading": "#### Weapon and Armor Proficiency {#weapon_and_armor_proficiency}",
+      "description": "Grants proficiency with simple weapons plus longsword, rapier, sap, shortsword, shortbow, and whip, as well as light armor and shields, with no arcane spell failure for bard spells when wearing light armor.",
+      "keywords": [
+        "weapon proficiency",
+        "armor proficiency",
+        "arcane spell failure",
+        "light armor",
+        "longsword",
+        "rapier",
+        "sap",
+        "shortsword",
+        "shortbow",
+        "whip",
+        "shield",
+        "somatic component"
+      ]
+    },
+    {
+      "id": "bard_spells",
+      "title": "Spells (Bard)",
+      "anchor_heading": "#### Spells {#spells}",
+      "description": "Bards cast arcane spells spontaneously from the bard spell list, with all spells having verbal components and requiring Charisma to cast.",
+      "keywords": [
+        "arcane spells",
+        "spontaneous casting",
+        "bard spell list",
+        "verbal component",
+        "Charisma",
+        "spells known",
+        "spell swapping",
+        "saving throw DC",
+        "bonus spells"
+      ]
+    },
+    {
+      "id": "bard_bardic_knowledge_ex",
+      "title": "Bardic Knowledge ([Ex](https://www.d20pfsrd.com/gamemastering/special-abilities#extraordinary-abilities-ex)) (Bard)",
+      "anchor_heading": "#### Bardic Knowledge ([Ex](https://www.d20pfsrd.com/gamemastering/special-abilities#extraordinary-abilities-ex)) {#bardic_knowledge_ex}",
+      "description": "Adds half class level to all Knowledge skill checks and allows making all Knowledge checks untrained.",
+      "keywords": [
         "bardic knowledge",
-        "inspire courage",
-        "inspire competence",
-        "fascinate",
-        "suggestion",
+        "Knowledge skill",
+        "untrained",
+        "half class level",
+        "skill bonus"
+      ]
+    },
+    {
+      "id": "bard_bardic_performance",
+      "title": "Bardic Performance (Bard)",
+      "anchor_heading": "#### Bardic Performance {#bardic_performance}",
+      "description": "Uses Perform skill to create magical effects for 4 + Charisma modifier rounds per day, with specific performances available at different levels.",
+      "keywords": [
+        "bardic performance",
+        "Perform skill",
+        "standard action",
+        "move action",
+        "swift action",
+        "free action",
+        "audible components",
+        "visual components",
+        "deaf",
+        "blind",
         "countersong",
         "distraction",
-        "versatile performance",
-        "well-versed",
-        "lore master",
-        "jack of all trades",
-        "cantrips",
+        "fascinate",
+        "inspire courage",
+        "inspire competence",
+        "suggestion",
         "dirge of doom",
         "inspire greatness",
         "soothing performance",
         "frightening tune",
         "inspire heroics",
         "mass suggestion",
-        "deadly performance",
-        "advanced versatile performances",
-        "adoring fan"
+        "deadly performance"
+      ]
+    },
+    {
+      "id": "bard_cantrips_sp",
+      "title": "Cantrips ([Sp](https://www.d20pfsrd.com/basics-ability-scores/glossary#TOC-Spell-Like-Abilities-Sp-)) (Bard)",
+      "anchor_heading": "#### Cantrips ([Sp](https://www.d20pfsrd.com/basics-ability-scores/glossary#TOC-Spell-Like-Abilities-Sp-)) {#cantrips_sp}",
+      "description": "Bards can cast 0-level spells without consuming spell slots and may use them repeatedly.",
+      "keywords": [
+        "cantrips",
+        "0-level spells",
+        "spell slots",
+        "unlimited use"
+      ]
+    },
+    {
+      "id": "bard_versatile_performance_ex",
+      "title": "Versatile Performance ([Ex](https://www.d20pfsrd.com/gamemastering/special-abilities#extraordinary-abilities-ex)) (Bard)",
+      "anchor_heading": "#### Versatile Performance ([Ex](https://www.d20pfsrd.com/gamemastering/special-abilities#extraordinary-abilities-ex)) {#versatile_performance_ex}",
+      "description": "Allows using Perform skill bonus in place of associated skills like Bluff, Diplomacy, or Intimidate.",
+      "keywords": [
+        "versatile performance",
+        "Perform skill",
+        "skill substitution",
+        "Bluff",
+        "Diplomacy",
+        "Intimidate",
+        "Disguise",
+        "Acrobatics",
+        "Fly",
+        "Sense Motive",
+        "Handle Animal"
+      ]
+    },
+    {
+      "id": "bard_well-versed_ex",
+      "title": "Well-Versed ([Ex](https://www.d20pfsrd.com/gamemastering/special-abilities#extraordinary-abilities-ex)) (Bard)",
+      "anchor_heading": "#### Well-Versed ([Ex](https://www.d20pfsrd.com/gamemastering/special-abilities#extraordinary-abilities-ex)) {#well-versed_ex}",
+      "description": "Grants +4 bonus on saving throws against bardic performance, sonic, and language-dependent effects.",
+      "keywords": [
+        "well-versed",
+        "bardic performance resistance",
+        "sonic effects",
+        "language-dependent",
+        "saving throw bonus"
+      ]
+    },
+    {
+      "id": "bard_lore_master_ex",
+      "title": "Lore Master ([Ex](https://www.d20pfsrd.com/gamemastering/special-abilities#extraordinary-abilities-ex)) (Bard)",
+      "anchor_heading": "#### Lore Master ([Ex](https://www.d20pfsrd.com/gamemastering/special-abilities#extraordinary-abilities-ex)) {#lore_master_ex}",
+      "description": "Allows taking 10 on Knowledge checks with ranks and taking 20 on Knowledge checks as a standard action once per day.",
+      "keywords": [
+        "lore master",
+        "take 10",
+        "take 20",
+        "Knowledge skill",
+        "standard action"
+      ]
+    },
+    {
+      "id": "bard_jack_of_all_trades_ex",
+      "title": "Jack of All Trades ([Ex](https://www.d20pfsrd.com/gamemastering/special-abilities#extraordinary-abilities-ex)) (Bard)",
+      "anchor_heading": "#### Jack of All Trades ([Ex](https://www.d20pfsrd.com/gamemastering/special-abilities#extraordinary-abilities-ex)) {#jack_of_all_trades_ex}",
+      "description": "Grants ability to use all skills untrained, treats all skills as class skills at 16th level, and allows taking 10 on any skill at 19th level.",
+      "keywords": [
+        "jack of all trades",
+        "untrained skills",
+        "class skills",
+        "take 10",
+        "skill use"
+      ]
+    },
+    {
+      "id": "bard_adoring_fan_su",
+      "title": "Adoring Fan (Su) (Bard)",
+      "anchor_heading": "#### Adoring Fan (Su) {#adoring_fan_su}",
+      "description": "20th level performance ability that dominates a target during performance and charms them afterward on a failed Will save.",
+      "keywords": [
+        "adoring fan",
+        "dominate monster",
+        "charm monster",
+        "mind-affecting",
+        "compulsion",
+        "Will save",
+        "audible components",
+        "visual components"
       ]
     }
-  ],
-  "category": "Classes"
+  ]
 }

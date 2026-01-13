@@ -2,46 +2,219 @@
   "file": "vigilante.md",
   "source_path": "https://www.d20pfsrd.com/classes/base-classes/vigilante/",
   "source_name": "Class: Vigilante",
+  "category": "Classes",
+  "toc_content": "Contents\n+ [Class Skills](#class_skills)\n+ [Class Features](#class_features)\n  - [Weapon and Armor Proficiency](#weapon_and_armor_proficiency)\n  - [Dual Identity (Ex)](#dual_identity_ex)\n  - [Seamless Guise (Ex)](#seamless_guise_ex)\n  - [Social Talent](#social_talent)\n  - [Vigilante Specialization (Ex)](#vigilante_specialization_ex)\n  - [Vigilante Talent](#vigilante_talent)\n  - [Unshakable (Ex)](#unshakable_ex)\n  - [Startling Appearance (Ex)](#startling_appearance_ex)\n  - [Frightening Appearance (Ex)](#frightening_appearance_ex)\n  - [Stunning Appearance (Ex)](#stunning_appearance_ex)\n  - [Vengeance Strike (Ex)](#vengeance_strike_ex)\n+ [Alternative Capstone Ability](#alternative_capstone_ability)\n  - [Past Your Limits (Ex)](#past_your_limits_ex)\n* [Favored Class Bonuses](#favored_class_bonuses)\n* [Archetypes & Alternate Class Features](#archetypes_alternate_class_features)",
   "sections": [
     {
-      "id": "vigilante",
-      "title": "Vigilante",
+      "id": "vigilante_overview",
+      "title": "Vigilante (Class Overview)",
       "anchor_heading": "# Vigilante",
-      "includes_subheadings": [
-        "### Class Skills",
-        "#### Weapon and Armor Proficiency",
-        "#### Dual Identity (Ex)",
-        "#### Seamless Guise (Ex)",
-        "#### Social Talent",
-        "#### Vigilante Specialization (Ex)",
-        "#### Vigilante Talent",
-        "#### Unshakable (Ex)",
-        "#### Startling Appearance (Ex)",
-        "#### Frightening Appearance (Ex)",
-        "#### Stunning Appearance (Ex)",
-        "#### Vengeance Strike (Ex)",
-        "#### Past Your Limits (Ex)"
-      ],
-      "description": "Complete class features and rules for the vigilante base class, including dual identities, social and vigilante talents, specializations (avenger/stalker), and archetypes.",
+      "end_at_heading": "### Class Skills {#class_skills}",
+      "description": "Overview of the Vigilante class including role, alignment, hit die, and starting wealth.",
       "keywords": [
         "vigilante",
+        "class",
+        "hit die",
+        "role",
+        "alignment"
+      ]
+    },
+    {
+      "id": "vigilante_weapon_and_armor_proficiency",
+      "title": "Weapon and Armor Proficiency (Vigilante)",
+      "anchor_heading": "#### Weapon and Armor Proficiency {#weapon_and_armor_proficiency}",
+      "description": "Vigilantes are proficient with all simple and martial weapons, light armor, medium armor, and shields (except tower shields).",
+      "keywords": [
+        "weapon proficiency",
+        "armor proficiency",
+        "simple weapons",
+        "martial weapons",
+        "light armor",
+        "medium armor",
+        "shields",
+        "tower shields"
+      ]
+    },
+    {
+      "id": "vigilante_dual_identity_ex",
+      "title": "Dual Identity (Ex) (Vigilante)",
+      "anchor_heading": "#### Dual Identity (Ex) {#dual_identity_ex}",
+      "description": "A vigilante maintains two distinct identities (social and vigilante) with separate alignments, changing between them takes 1 minute out of sight, and provides protection from scrying and knowledge checks.",
+      "keywords": [
         "dual identity",
         "social identity",
         "vigilante identity",
+        "alignment",
+        "change identity",
+        "scrying protection",
+        "knowledge checks",
+        "hat of disguise",
+        "identity change time"
+      ]
+    },
+    {
+      "id": "vigilante_seamless_guise_ex",
+      "title": "Seamless Guise (Ex) (Vigilante)",
+      "anchor_heading": "#### Seamless Guise (Ex) {#seamless_guise_ex}",
+      "description": "The vigilante gains a +20 circumstance bonus on Disguise checks to appear as his current identity when suspected of being someone else.",
+      "keywords": [
+        "seamless guise",
+        "disguise check",
+        "circumstance bonus",
+        "current identity",
+        "suspected identity"
+      ]
+    },
+    {
+      "id": "vigilante_social_talent",
+      "title": "Social Talent (Vigilante)",
+      "anchor_heading": "#### Social Talent {#social_talent}",
+      "description": "Vigilantes gain social talents at 1st level and every 2 levels thereafter, providing various abilities usable primarily in social identity.",
+      "keywords": [
         "social talent",
-        "vigilante talent",
+        "social identity",
+        "always prepared",
+        "ancestral enlightenment",
+        "any guise",
+        "celebrity discount",
+        "case the joint",
+        "everyman",
+        "many guises",
+        "renown",
+        "safe house",
+        "social grace",
+        "mockingbird",
+        "quick change"
+      ]
+    },
+    {
+      "id": "vigilante_vigilante_specialization_ex",
+      "title": "Vigilante Specialization (Ex) (Vigilante)",
+      "anchor_heading": "#### Vigilante Specialization (Ex) {#vigilante_specialization_ex}",
+      "description": "At 1st level, vigilantes choose to be either an avenger (gains full BAB) or a stalker (gains hidden strike precision damage).",
+      "keywords": [
+        "vigilante specialization",
         "avenger",
         "stalker",
+        "base attack bonus",
         "hidden strike",
-        "seamless guise",
+        "precision damage",
+        "flat-footed",
+        "flanking",
+        "unaware",
+        "concealment"
+      ]
+    },
+    {
+      "id": "vigilante_vigilante_talent",
+      "title": "Vigilante Talent (Vigilante)",
+      "anchor_heading": "#### Vigilante Talent {#vigilante_talent}",
+      "description": "Vigilantes gain vigilante talents at 2nd level and every 2 levels thereafter, providing combat and utility abilities primarily for vigilante identity.",
+      "keywords": [
+        "vigilante talent",
+        "vigilante identity",
+        "combat skill",
+        "evasive",
+        "hide in plain sight",
+        "lethal grace",
+        "signature weapon",
+        "stalker sense",
+        "uncanny dodge",
+        "asterisk talents",
+        "hidden strike modifiers"
+      ]
+    },
+    {
+      "id": "vigilante_unshakable_ex",
+      "title": "Unshakable (Ex) (Vigilante)",
+      "anchor_heading": "#### Unshakable (Ex) {#unshakable_ex}",
+      "description": "Starting at 3rd level, a vigilante adds his class level to the DC of any Intimidate attempts made against him.",
+      "keywords": [
+        "unshakable",
+        "intimidate",
+        "intimidate DC",
+        "class level",
+        "intimidation resistance"
+      ]
+    },
+    {
+      "id": "vigilante_startling_appearance_ex",
+      "title": "Startling Appearance (Ex) (Vigilante)",
+      "anchor_heading": "#### Startling Appearance (Ex) {#startling_appearance_ex}",
+      "description": "At 5th level, when attacking unaware foes, the vigilante treats them as flat-footed for the turn and imposes a -4 penalty on their attacks until the vigilante's next turn.",
+      "keywords": [
         "startling appearance",
+        "unaware foe",
+        "flat-footed",
+        "stealth",
+        "invisibility",
+        "uncanny dodge",
+        "attack penalty"
+      ]
+    },
+    {
+      "id": "vigilante_frightening_appearance_ex",
+      "title": "Frightening Appearance (Ex) (Vigilante)",
+      "anchor_heading": "#### Frightening Appearance (Ex) {#frightening_appearance_ex}",
+      "description": "At 11th level, when attacking unaware foes, the vigilante can make a free Intimidate check to demoralize nearby enemies, potentially frightening the target.",
+      "keywords": [
         "frightening appearance",
+        "intimidate check",
+        "demoralize",
+        "frightened",
+        "shaken",
+        "will save",
+        "mind-affecting",
+        "fear effect",
+        "unaware foe"
+      ]
+    },
+    {
+      "id": "vigilante_stunning_appearance_ex",
+      "title": "Stunning Appearance (Ex) (Vigilante)",
+      "anchor_heading": "#### Stunning Appearance (Ex) {#stunning_appearance_ex}",
+      "description": "At 17th level, successful attacks against unaware foes can stun the target unless they succeed on a Will save.",
+      "keywords": [
         "stunning appearance",
+        "will save",
+        "stunned",
+        "unaware foe",
+        "mind-affecting",
+        "fear effect",
+        "hit dice",
+        "circumstance bonus"
+      ]
+    },
+    {
+      "id": "vigilante_vengeance_strike_ex",
+      "title": "Vengeance Strike (Ex) (Vigilante)",
+      "anchor_heading": "#### Vengeance Strike (Ex) {#vengeance_strike_ex}",
+      "description": "At 20th level, vigilantes can study a target for up to 5 rounds to gain stacking bonuses on a devastating vengeance strike attack.",
+      "keywords": [
         "vengeance strike",
-        "vigilante specialization",
-        "unshakable"
+        "study target",
+        "consecutive rounds",
+        "circumstance bonus",
+        "precision damage",
+        "attack roll",
+        "critical hit",
+        "special effects"
+      ]
+    },
+    {
+      "id": "vigilante_past_your_limits_ex",
+      "title": "Past Your Limits (Ex) (Vigilante)",
+      "anchor_heading": "#### Past Your Limits (Ex) {#past_your_limits_ex}",
+      "description": "At 20th level, the vigilante gains one additional social talent and one additional vigilante talent, with the vigilante talent ignoring specialization restrictions.",
+      "keywords": [
+        "past your limits",
+        "additional social talent",
+        "additional vigilante talent",
+        "specialization requirements",
+        "avenger talent",
+        "stalker talent",
+        "archetype talent"
       ]
     }
-  ],
-  "category": "Classes"
+  ]
 }

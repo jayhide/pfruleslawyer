@@ -2,60 +2,375 @@
   "file": "hunter.md",
   "source_path": "https://www.d20pfsrd.com/classes/hybrid-classes/hunter/",
   "source_name": "Class: Hunter",
+  "category": "Classes",
+  "toc_content": "Contents\n+ [Class Skills](#class_skills)\n+ [Class Features](#class_features)\n  - [Weapon and Armor Proficiency](#weapon_and_armor_proficiency)\n  - [Spell Casting](#spell_casting)\n  - [Orisons](#orisons)\n  - [Animal Companion (Ex)](#animal_companion_ex)\n  - [Animal Focus (Su)](#animal_focus_su)\n  - [Nature Training (Ex)](#nature_training_ex)\n  - [Wild Empathy (Ex)](#wild_empathy_ex)\n  - [Precise Companion (Ex)](#precise_companion_ex)\n  - [Track (Ex)](#track_ex)\n  - [Hunter Tactics (Ex)](#hunter_tactics_ex)\n  - [Teamwork Feat](#teamwork_feat)\n  - [Improved Empathic Link (Su)](#improved_empathic_link_su)\n  - [Woodland Stride (Ex)](#woodland_stride_ex)\n  - [Bonus Tricks (Ex)](#bonus_tricks_ex)\n  - [Second Animal Focus (Su)](#second_animal_focus_su)\n  - [Swift Tracker (Ex)](#swift_tracker_ex)\n  - [Raise Animal Companion (Sp)](#raise_animal_companion_sp)\n  - [Speak with Master (Ex)](#speak_with_master_ex)\n  - [Greater Empathic Link (Su)](#greater_empathic_link_su)\n  - [One with the Wild (Ex)](#one_with_the_wild_ex)\n  - [Master Hunter (Ex)](#master_hunter_ex)\n+ [Alternative Capstone Ability](#alternative_capstone_ability)\n  - [Huntmaster (Ex)](#huntmaster_ex)\n* [Favored Class Bonuses](#favored_class_bonuses)\n* [Archetypes & Alternate Class Features](#archetypes_alternate_class_features)",
   "sections": [
     {
-      "id": "hunter",
-      "title": "Hunter",
+      "id": "hunter_overview",
+      "title": "Hunter (Class Overview)",
       "anchor_heading": "# Hunter",
-      "includes_subheadings": [
-        "### Class Skills",
-        "#### Weapon and Armor Proficiency",
-        "#### Spell Casting",
-        "#### Orisons",
-        "#### Animal Companion (Ex)",
-        "#### Animal Focus (Su)",
-        "##### Ward Aspects",
-        "#### Nature Training (Ex)",
-        "#### Wild Empathy (Ex)",
-        "#### Precise Companion (Ex)",
-        "#### Track (Ex)",
-        "#### Hunter Tactics (Ex)",
-        "#### Teamwork Feat",
-        "#### Improved Empathic Link (Su)",
-        "#### Woodland Stride (Ex)",
-        "#### Bonus Tricks (Ex)",
-        "#### Second Animal Focus (Su)",
-        "#### Swift Tracker (Ex)",
-        "#### Raise Animal Companion (Sp)",
-        "#### Speak with Master (Ex)",
-        "#### Greater Empathic Link (Su)",
-        "#### One with the Wild (Ex)",
-        "#### Master Hunter (Ex)",
-        "### Alternative Capstone Ability",
-        "#### Huntmaster (Ex)"
-      ],
-      "description": "Rules for the Hunter hybrid class, covering spellcasting, animal companion mechanics, animal focus abilities, teamwork feats, and all class features from 1st to 20th level.",
+      "end_at_heading": "### Class Skills {#class_skills}",
+      "description": "Overview of the Hunter class including role, alignment, hit die, and starting wealth.",
       "keywords": [
         "hunter",
-        "animal companion",
-        "animal focus",
-        "teamwork feat",
-        "hunter tactics",
-        "wild empathy",
-        "nature training",
-        "precise companion",
-        "empathic link",
-        "woodland stride",
-        "swift tracker",
-        "raise animal companion",
-        "speak with master",
-        "master hunter",
+        "class",
+        "hit die",
+        "role",
+        "alignment"
+      ]
+    },
+    {
+      "id": "hunter_weapon_and_armor_proficiency",
+      "title": "Weapon and Armor Proficiency (Hunter)",
+      "anchor_heading": "#### Weapon and Armor Proficiency {#weapon_and_armor_proficiency}",
+      "description": "Hunters are proficient with all simple and martial weapons, light and medium armor, and shields except tower shields.",
+      "keywords": [
+        "weapon proficiency",
+        "armor proficiency",
+        "simple weapons",
+        "martial weapons",
+        "light armor",
+        "medium armor",
+        "shields",
+        "tower shields"
+      ]
+    },
+    {
+      "id": "hunter_spell_casting",
+      "title": "Spell Casting (Hunter)",
+      "anchor_heading": "#### Spell Casting {#spell_casting}",
+      "description": "Hunters cast divine spells from the druid and ranger spell lists (druid spells 6th level and lower), using spontaneous casting like a sorcerer with Wisdom as their casting ability score.",
+      "keywords": [
+        "spell casting",
+        "divine spells",
+        "druid spell list",
+        "ranger spell list",
+        "spontaneous casting",
+        "spells known",
+        "Wisdom modifier",
+        "spell DC",
+        "summon nature's ally",
+        "spell completion",
+        "spell trigger",
+        "Use Magic Device",
+        "spell swap"
+      ]
+    },
+    {
+      "id": "hunter_orisons",
+      "title": "Orisons (Hunter)",
+      "anchor_heading": "#### Orisons {#orisons}",
+      "description": "Hunters learn 0-level spells called orisons that can be cast at will without consuming spell slots and have alignment restrictions on spell casting.",
+      "keywords": [
         "orisons",
-        "druid spells",
-        "ranger spells",
-        "summon nature's ally"
+        "0-level spells",
+        "at will",
+        "cantrips",
+        "alignment restrictions",
+        "chaotic spells",
+        "evil spells",
+        "good spells",
+        "lawful spells"
+      ]
+    },
+    {
+      "id": "hunter_animal_companion_ex",
+      "title": "Animal Companion (Ex) (Hunter)",
+      "anchor_heading": "#### Animal Companion (Ex) {#animal_companion_ex}",
+      "description": "Hunters gain a druid-style animal companion that can learn skirmisher tricks and provides enhanced summoning duration when the companion is dead.",
+      "keywords": [
+        "animal companion",
+        "druid animal companion",
+        "effective druid level",
+        "skirmisher tricks",
+        "ranger tricks",
+        "Hit Dice",
+        "24 hour ceremony",
+        "summon nature's ally duration",
+        "companion death",
+        "companion replacement"
+      ]
+    },
+    {
+      "id": "hunter_animal_focus_su",
+      "title": "Animal Focus (Su) (Hunter)",
+      "anchor_heading": "#### Animal Focus (Su) {#animal_focus_su}",
+      "description": "Hunters can take on animal aspects as a swift action for limited duration and permanently apply different aspects to their animal companion, with various enhancement bonuses and special abilities based on the chosen animal.",
+      "keywords": [
+        "animal focus",
+        "swift action",
+        "animal aspect",
+        "bat aspect",
+        "bear aspect",
+        "bull aspect",
+        "falcon aspect",
+        "frog aspect",
+        "monkey aspect",
+        "mouse aspect",
+        "owl aspect",
+        "snake aspect",
+        "stag aspect",
+        "tiger aspect",
+        "wolf aspect",
+        "darkvision",
+        "enhancement bonus",
+        "competence bonus",
+        "evasion",
+        "scent",
+        "ward aspects",
+        "road aspect",
+        "shrine aspect",
+        "tree aspect",
+        "waymarker aspect",
+        "well aspect"
+      ]
+    },
+    {
+      "id": "hunter_nature_training_ex",
+      "title": "Nature Training (Ex) (Hunter)",
+      "anchor_heading": "#### Nature Training (Ex) {#nature_training_ex}",
+      "description": "Hunters count their full hunter level as both druid and ranger levels for qualifying for feats, traits, and options that affect animal companions.",
+      "keywords": [
+        "nature training",
+        "effective druid level",
+        "effective ranger level",
+        "feat prerequisites",
+        "animal companion feats",
+        "trait prerequisites"
+      ]
+    },
+    {
+      "id": "hunter_wild_empathy_ex",
+      "title": "Wild Empathy (Ex) (Hunter)",
+      "anchor_heading": "#### Wild Empathy (Ex) {#wild_empathy_ex}",
+      "description": "Hunters can improve animal attitudes using a Diplomacy-like check with their hunter level and Charisma modifier, affecting animals and low-Intelligence magical beasts.",
+      "keywords": [
+        "wild empathy",
+        "animal attitude",
+        "Diplomacy check",
+        "Charisma modifier",
+        "magical beast",
+        "Intelligence 1 or 2",
+        "30 feet range",
+        "1 minute duration"
+      ]
+    },
+    {
+      "id": "hunter_precise_companion_ex",
+      "title": "Precise Companion (Ex) (Hunter)",
+      "anchor_heading": "#### Precise Companion (Ex) {#precise_companion_ex}",
+      "description": "At 2nd level, hunters choose either Precise Shot or Outflank as a bonus feat without meeting prerequisites, automatically granting Outflank to their companion if chosen.",
+      "keywords": [
+        "Precise Shot",
+        "Outflank",
+        "bonus feat",
+        "teamwork feat",
+        "no prerequisites",
+        "automatic grant to companion"
+      ]
+    },
+    {
+      "id": "hunter_track_ex",
+      "title": "Track (Ex) (Hunter)",
+      "anchor_heading": "#### Track (Ex) {#track_ex}",
+      "description": "Hunters add half their level to Survival checks made to follow tracks.",
+      "keywords": [
+        "track",
+        "Survival checks",
+        "follow tracks",
+        "half level bonus"
+      ]
+    },
+    {
+      "id": "hunter_hunter_tactics_ex",
+      "title": "Hunter Tactics (Ex) (Hunter)",
+      "anchor_heading": "#### Hunter Tactics (Ex) {#hunter_tactics_ex}",
+      "description": "At 3rd level, hunters automatically grant all their teamwork feats to their animal companion without the companion needing to meet prerequisites.",
+      "keywords": [
+        "hunter tactics",
+        "teamwork feats",
+        "automatic grant",
+        "animal companion",
+        "no prerequisites",
+        "companion teamwork"
+      ]
+    },
+    {
+      "id": "hunter_teamwork_feat",
+      "title": "Teamwork Feat (Hunter)",
+      "anchor_heading": "#### Teamwork Feat {#teamwork_feat}",
+      "description": "Hunters gain bonus teamwork feats every 3 levels and can change their most recent teamwork feat as a standard action a limited number of times per day.",
+      "keywords": [
+        "teamwork feat",
+        "bonus feat",
+        "standard action",
+        "feat swap",
+        "Wisdom modifier uses",
+        "most recent feat",
+        "permanent feats"
+      ]
+    },
+    {
+      "id": "hunter_improved_empathic_link_su",
+      "title": "Improved Empathic Link (Su) (Hunter)",
+      "anchor_heading": "#### Improved Empathic Link (Su) {#improved_empathic_link_su}",
+      "description": "At 4th level, hunters gain an empathic link with their companion and can see through the companion's eyes as a swift action within 1 mile, becoming blinded while doing so.",
+      "keywords": [
+        "empathic link",
+        "see through companion eyes",
+        "swift action",
+        "1 mile range",
+        "blinded condition",
+        "free action to end",
+        "familiar empathic link"
+      ]
+    },
+    {
+      "id": "hunter_woodland_stride_ex",
+      "title": "Woodland Stride (Ex) (Hunter)",
+      "anchor_heading": "#### Woodland Stride (Ex) {#woodland_stride_ex}",
+      "description": "At 5th level, hunters and their companions move through natural undergrowth at normal speed without damage, but are still affected by magical terrain.",
+      "keywords": [
+        "woodland stride",
+        "undergrowth",
+        "normal speed",
+        "no damage",
+        "thorns",
+        "briars",
+        "overgrown areas",
+        "magical terrain",
+        "enchanted terrain"
+      ]
+    },
+    {
+      "id": "hunter_bonus_tricks_ex",
+      "title": "Bonus Tricks (Ex) (Hunter)",
+      "anchor_heading": "#### Bonus Tricks (Ex) {#bonus_tricks_ex}",
+      "description": "At 7th level and every 6 levels thereafter, the hunter's animal companion learns an additional bonus trick beyond those from effective druid level.",
+      "keywords": [
+        "bonus tricks",
+        "animal companion tricks",
+        "every 6 levels",
+        "additional tricks",
+        "effective druid level"
+      ]
+    },
+    {
+      "id": "hunter_second_animal_focus_su",
+      "title": "Second Animal Focus (Su) (Hunter)",
+      "anchor_heading": "#### Second Animal Focus (Su) {#second_animal_focus_su}",
+      "description": "At 8th level, hunters can use two different animal aspects simultaneously on themselves and assign two aspects to their companion.",
+      "keywords": [
+        "second animal focus",
+        "two aspects",
+        "simultaneous aspects",
+        "companion two aspects",
+        "dead companion aspect",
+        "maximum aspects"
+      ]
+    },
+    {
+      "id": "hunter_swift_tracker_ex",
+      "title": "Swift Tracker (Ex) (Hunter)",
+      "anchor_heading": "#### Swift Tracker (Ex) {#swift_tracker_ex}",
+      "description": "At 8th level, hunters can track at normal speed without penalty and take reduced penalties when tracking at double speed.",
+      "keywords": [
+        "swift tracker",
+        "normal speed tracking",
+        "no penalty",
+        "double speed tracking",
+        "-10 penalty",
+        "-20 penalty",
+        "Survival tracking"
+      ]
+    },
+    {
+      "id": "hunter_raise_animal_companion_sp",
+      "title": "Raise Animal Companion (Sp) (Hunter)",
+      "anchor_heading": "#### Raise Animal Companion (Sp) {#raise_animal_companion_sp}",
+      "description": "At 10th level, hunters gain raise animal companion as a spell-like ability that gives them a permanent negative level for 24 hours, upgrading to resurrection at 16th level.",
+      "keywords": [
+        "raise animal companion",
+        "spell-like ability",
+        "permanent negative level",
+        "24 hours",
+        "resurrection",
+        "16th level upgrade",
+        "cannot overcome negative level",
+        "restoration"
+      ]
+    },
+    {
+      "id": "hunter_speak_with_master_ex",
+      "title": "Speak with Master (Ex) (Hunter)",
+      "anchor_heading": "#### Speak with Master (Ex) {#speak_with_master_ex}",
+      "description": "At 11th level, hunters and their animal companion can communicate verbally as if using a common language, incomprehensible to others without magic.",
+      "keywords": [
+        "speak with master",
+        "verbal communication",
+        "common language",
+        "animal companion communication",
+        "magical aid required"
+      ]
+    },
+    {
+      "id": "hunter_greater_empathic_link_su",
+      "title": "Greater Empathic Link (Su) (Hunter)",
+      "anchor_heading": "#### Greater Empathic Link (Su) {#greater_empathic_link_su}",
+      "description": "At 14th level, the empathic link range extends to 10 miles and allows telepathic communication within 1 mile.",
+      "keywords": [
+        "greater empathic link",
+        "10 miles range",
+        "telepathic communication",
+        "1 mile telepathy",
+        "extended range"
+      ]
+    },
+    {
+      "id": "hunter_one_with_the_wild_ex",
+      "title": "One with the Wild (Ex) (Hunter)",
+      "anchor_heading": "#### One with the Wild (Ex) {#one_with_the_wild_ex}",
+      "description": "At 17th level, animals matching the hunter's current animal foci won't attack unless compelled or attacked first, and the hunter can demoralize such animals as a swift action.",
+      "keywords": [
+        "one with the wild",
+        "animal types",
+        "no attacks",
+        "magically compelled",
+        "demoralize animals",
+        "swift action",
+        "Intimidate check",
+        "Charisma modifier",
+        "dire animals"
+      ]
+    },
+    {
+      "id": "hunter_master_hunter_ex",
+      "title": "Master Hunter (Ex) (Hunter)",
+      "anchor_heading": "#### Master Hunter (Ex) {#master_hunter_ex}",
+      "description": "At 20th level, hunters can always track at full speed without penalty and gain one permanent animal focus active all day in addition to their normal uses.",
+      "keywords": [
+        "master hunter",
+        "full speed tracking",
+        "no penalty",
+        "permanent animal focus",
+        "all day duration",
+        "additional focus",
+        "regain spell slots"
+      ]
+    },
+    {
+      "id": "hunter_huntmaster_ex",
+      "title": "Huntmaster (Ex) (Hunter)",
+      "anchor_heading": "#### Huntmaster (Ex) {#huntmaster_ex}",
+      "description": "At 20th level, hunters gain a second animal companion treated as 4 levels lower and can assign different animal aspects to each companion.",
+      "keywords": [
+        "huntmaster",
+        "second animal companion",
+        "4 levels lower",
+        "different animal aspects",
+        "multiple companions",
+        "separate aspects"
       ]
     }
-  ],
-  "category": "Classes"
+  ]
 }

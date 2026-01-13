@@ -2,38 +2,96 @@
   "file": "sorcerer.md",
   "source_path": "https://www.d20pfsrd.com/classes/core-classes/sorcerer/",
   "source_name": "Class: Sorcerer",
+  "category": "Classes",
+  "toc_content": "Contents\n+ [Class Skills](#class_skills)\n+ [Class Features](#class_features)\n  - [Weapon and Armor Proficiency](#weapon_and_armor_proficiency)\n  - [Spells](#spells)\n  - [Bloodline](#bloodline)\n  - [Cantrips](#cantrips)\n  - [Eschew Materials](#eschew_materials)\n* [Alternative Capstone Ability](#alternative_capstone_ability)\n  + [Unique Bloodline (Su)](#unique_bloodline_su)\n* [Favored Class Bonuses](#favored_class_bonuses)\n* [Archetypes & Alternate Class Features](#archetypes_alternate_class_features)",
   "sections": [
     {
-      "id": "sorcerer",
-      "title": "Sorcerer",
+      "id": "sorcerer_overview",
+      "title": "Sorcerer (Class Overview)",
       "anchor_heading": "# Sorcerer",
-      "includes_subheadings": [
-        "### Class Skills",
-        "#### Weapon and Armor Proficiency",
-        "#### Spells",
-        "#### Bloodline",
-        "#### Cantrips",
-        "#### Eschew Materials",
-        "### Unique Bloodline (Su)"
-      ],
-      "description": "Defines the Sorcerer class, including class features like bloodlines, spells, cantrips, and Eschew Materials, plus alternative capstone abilities, favored class bonuses, and archetype options.",
+      "end_at_heading": "### Class Skills {#class_skills}",
+      "description": "Overview of the Sorcerer class including role, alignment, hit die, and starting wealth.",
       "keywords": [
         "sorcerer",
-        "bloodline",
-        "cantrips",
-        "eschew materials",
-        "bloodline power",
-        "bloodline arcana",
-        "bloodline feat",
-        "bloodline spell",
-        "wildblooded",
-        "crossblooded",
+        "class",
+        "hit die",
+        "role",
+        "alignment"
+      ]
+    },
+    {
+      "id": "sorcerer_weapon_and_armor_proficiency",
+      "title": "Weapon and Armor Proficiency (Sorcerer)",
+      "anchor_heading": "#### Weapon and Armor Proficiency {#weapon_and_armor_proficiency}",
+      "description": "Sorcerers are proficient with all simple weapons but no armor or shields, as armor interferes with spells that have somatic components.",
+      "keywords": [
+        "weapon proficiency",
+        "armor proficiency",
+        "simple weapons",
+        "arcane spell failure",
+        "somatic components",
+        "no armor",
+        "spell failure chance"
+      ]
+    },
+    {
+      "id": "sorcerer_spells",
+      "title": "Spells (Sorcerer)",
+      "anchor_heading": "#### Spells {#spells}",
+      "description": "Sorcerers cast arcane spells spontaneously from a limited number of spells known, using Charisma as their spellcasting ability and can exchange known spells at even levels.",
+      "keywords": [
         "spontaneous casting",
+        "spells known",
         "charisma",
-        "arcane spells",
-        "unique bloodline"
+        "spell DC",
+        "spells per day",
+        "sorcerer/wizard spell list",
+        "spell exchange",
+        "even levels",
+        "arcane spells"
+      ]
+    },
+    {
+      "id": "sorcerer_bloodline",
+      "title": "Bloodline (Sorcerer)",
+      "anchor_heading": "#### Bloodline {#bloodline}",
+      "description": "A sorcerer's magical heritage grants additional spells known, bonus feats, class skills, and special abilities based on their chosen bloodline.",
+      "keywords": [
+        "bloodline",
+        "bloodline arcana",
+        "bloodline spells",
+        "bonus feats",
+        "bloodline powers",
+        "heritage",
+        "bloodline mutations",
+        "additional class skill"
+      ]
+    },
+    {
+      "id": "sorcerer_cantrips",
+      "title": "Cantrips (Sorcerer)",
+      "anchor_heading": "#### Cantrips {#cantrips}",
+      "description": "Sorcerers learn 0-level spells that can be cast repeatedly without consuming spell slots.",
+      "keywords": [
+        "cantrips",
+        "0-level spells",
+        "unlimited use",
+        "no spell slots",
+        "at-will spells"
+      ]
+    },
+    {
+      "id": "sorcerer_eschew_materials",
+      "title": "Eschew Materials (Sorcerer)",
+      "anchor_heading": "#### Eschew Materials {#eschew_materials}",
+      "description": "Sorcerers automatically gain Eschew Materials as a bonus feat at 1st level.",
+      "keywords": [
+        "Eschew Materials",
+        "bonus feat",
+        "material components",
+        "no material components",
+        "1st level feat"
       ]
     }
-  ],
-  "category": "Classes"
+  ]
 }

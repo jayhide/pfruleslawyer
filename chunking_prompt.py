@@ -161,3 +161,67 @@ def format_summarize_prompt(markdown_content: str, filename: str) -> str:
         markdown_content=markdown_content,
         filename=filename
     )
+
+
+CLASS_FEATURES_PROMPT = '''You are analyzing a Pathfinder 1e class document to generate metadata for class features in a retrieval-augmented generation (RAG) system.
+
+I have already identified the individual class features from this document. For each feature, generate a description and keywords that will help it be retrieved when relevant.
+
+## Guidelines
+
+1. **Description**: Write a brief (1-2 sentence) summary of what this class feature does. Focus on the mechanical aspects.
+
+2. **Keywords**: List specific game terms that should trigger retrieval of this feature. Include:
+   - The feature name and common abbreviations
+   - Mechanical terms (e.g., "concentration check", "full-round action")
+   - Related rules concepts the feature interacts with
+   - Common questions users might ask about this feature
+
+Do not use generic terms as keywords. Be specific to what makes this feature unique.
+
+## Output Format
+
+Output valid JSON matching this exact structure. Do not include any text before or after the JSON.
+The keys in the "features" object are the feature IDs I've provided:
+
+{{
+  "features": {{
+    "feature_id_1": {{
+      "description": "Brief description of what this feature does",
+      "keywords": ["keyword1", "keyword2", "keyword3"]
+    }},
+    "feature_id_2": {{
+      "description": "Brief description of what this feature does",
+      "keywords": ["keyword1", "keyword2", "keyword3"]
+    }}
+  }}
+}}
+
+## Class Name
+
+{class_name}
+
+## Features to Analyze
+
+{features_list}
+'''
+
+
+def format_class_features_prompt(class_name: str, features: list[dict]) -> str:
+    """Format the class features prompt for generating descriptions and keywords.
+
+    Args:
+        class_name: Name of the class (e.g., "Magus")
+        features: List of feature dicts with 'id', 'title', and 'content' keys
+
+    Returns:
+        The formatted prompt ready to send to the LLM
+    """
+    features_text = []
+    for f in features:
+        features_text.append(f"### Feature ID: {f['id']}\n**Title**: {f['title']}\n\n{f['content']}")
+
+    return CLASS_FEATURES_PROMPT.format(
+        class_name=class_name,
+        features_list="\n\n---\n\n".join(features_text)
+    )

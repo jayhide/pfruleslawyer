@@ -17,6 +17,8 @@ from preprocess_sections import (
     process_markdown_full,
     process_markdown_simple,
     process_markdown_template,
+    process_markdown_faq,
+    process_markdown_class,
     get_source_name,
 )
 
@@ -51,9 +53,17 @@ def url_to_manifest_filename(url: str) -> str:
 
     e.g., https://www.d20pfsrd.com/feats/combat-feats/power-attack-combat/
     -> feats_combat-feats_power-attack-combat.json
+
+    e.g., https://paizo.com/paizo/faq/v5748nruor1gw
+    -> paizo_faq_v5748nruor1gw.json
     """
-    # Remove protocol and domain
-    path = url.replace("https://www.d20pfsrd.com/", "").strip("/")
+    # Remove protocol and domain - handle multiple domains
+    path = url
+    for domain in ["https://www.d20pfsrd.com/", "https://paizo.com/"]:
+        if path.startswith(domain):
+            path = path.replace(domain, "")
+            break
+    path = path.strip("/")
     # Replace slashes with underscores
     filename = path.replace("/", "_")
     # Ensure valid filename
@@ -138,8 +148,7 @@ def process_url(
     output_path = output_dir / manifest_filename
 
     if verbose:
-        mode_str = "full" if mode == "full" else "simple"
-        print(f"Processing ({mode_str}): {url}")
+        print(f"Processing ({mode}): {url}")
 
     if dry_run:
         print(f"  -> Would save to {output_path}")
@@ -157,6 +166,12 @@ def process_url(
         elif mode == "template":
             # No LLM call - pure template-based processing
             manifest = process_markdown_template(markdown, url, category)
+        elif mode == "faq":
+            # No LLM call - pure Python parsing for FAQ Q&A pairs
+            manifest = process_markdown_faq(markdown, url, source_name or "Paizo FAQ")
+        elif mode == "class":
+            # Class documents: split by feature, prepend TOC
+            manifest = process_markdown_class(client, markdown, url, source_name, model, timeout)
         else:
             manifest = process_markdown_simple(client, markdown, url, model, timeout)
 

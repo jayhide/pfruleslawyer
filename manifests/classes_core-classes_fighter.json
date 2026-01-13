@@ -2,43 +2,160 @@
   "file": "fighter.md",
   "source_path": "https://www.d20pfsrd.com/classes/core-classes/fighter/",
   "source_name": "Class: Fighter",
+  "category": "Classes",
+  "toc_content": "Contents\n+ [Class Skills](#class_skills)\n+ [Class Features](#class_features)\n  - [Weapon and Armor Proficiency](#weapon_and_armor_proficiency)\n  - [Bonus Feats](#bonus_feats)\n  - [Bravery (Ex)](#bravery_ex)\n  - [Armor Training (Ex)](#armor_training_ex)\n  - [Weapon Training (Ex)](#weapon_training_ex)\n  - [Armor Mastery (Ex)](#armor_mastery_ex)\n  - [Weapon Mastery (Ex)](#weapon_mastery_ex)\n+ [Advanced Armor Training](#advanced_armor_training)\n+ [Advanced Weapon Training](#advanced_weapon_training)\n+ [Alternative Capstone Ability](#alternative_capstone_ability)\n  - [Veteran of Endless War (Ex)](#veteran_of_endless_war_ex)\n* [Favored Class Bonuses](#favored_class_bonuses)\n* [Archetypes & Alternate Class Features](#archetypes_alternate_class_features)",
   "sections": [
     {
-      "id": "fighter",
-      "title": "Fighter",
+      "id": "fighter_overview",
+      "title": "Fighter (Class Overview)",
       "anchor_heading": "# Fighter",
-      "includes_subheadings": [
-        "### Class Skills",
-        "### Class Features",
-        "#### Weapon and Armor Proficiency",
-        "#### Bonus Feats",
-        "#### Bravery (Ex)",
-        "#### Armor Training (Ex)",
-        "#### Weapon Training (Ex)",
-        "#### Armor Mastery (Ex)",
-        "#### Weapon Mastery (Ex)",
-        "### Advanced Armor Training",
-        "### Advanced Weapon Training",
-        "### Alternative Capstone Ability",
-        "#### Veteran of Endless War (Ex)"
-      ],
-      "description": "Rules for the Fighter core class, covering class features like bonus feats, weapon training, armor training, bravery, and advanced training options, as well as archetypes and alternate class features.",
+      "end_at_heading": "### Class Skills {#class_skills}",
+      "description": "Overview of the Fighter class including role, alignment, hit die, and starting wealth.",
       "keywords": [
         "fighter",
+        "class",
+        "hit die",
+        "role",
+        "alignment"
+      ]
+    },
+    {
+      "id": "fighter_weapon_and_armor_proficiency",
+      "title": "Weapon and Armor Proficiency (Fighter)",
+      "anchor_heading": "#### Weapon and Armor Proficiency {#weapon_and_armor_proficiency}",
+      "description": "Grants proficiency with all simple and martial weapons, all armor types (light, medium, heavy), and all shields including tower shields.",
+      "keywords": [
+        "weapon proficiency",
+        "armor proficiency",
+        "simple weapons",
+        "martial weapons",
+        "heavy armor",
+        "medium armor",
+        "light armor",
+        "shields",
+        "tower shields",
+        "proficient"
+      ]
+    },
+    {
+      "id": "fighter_bonus_feats",
+      "title": "Bonus Feats (Fighter)",
+      "anchor_heading": "#### Bonus Feats {#bonus_feats}",
+      "description": "Grants bonus combat feats at 1st level and every even level thereafter, with the ability to retrain bonus feats every four levels starting at 4th level.",
+      "keywords": [
         "bonus feats",
-        "weapon training",
-        "armor training",
-        "bravery",
-        "weapon mastery",
-        "armor mastery",
-        "advanced weapon training",
-        "advanced armor training",
-        "weapon groups",
         "combat feats",
-        "fighter archetypes",
-        "veteran of endless war"
+        "fighter bonus feats",
+        "feat retraining",
+        "retrain feats",
+        "prerequisite",
+        "swap feats",
+        "every even level"
+      ]
+    },
+    {
+      "id": "fighter_bravery_ex",
+      "title": "Bravery (Ex) (Fighter)",
+      "anchor_heading": "#### Bravery (Ex) {#bravery_ex}",
+      "description": "Provides a scaling bonus on Will saves against fear effects, starting at +1 at 2nd level and increasing by +1 every four levels.",
+      "keywords": [
+        "bravery",
+        "Will saves",
+        "fear",
+        "fear effects",
+        "bonus on saves",
+        "scaling bonus",
+        "every four levels"
+      ]
+    },
+    {
+      "id": "fighter_armor_training_ex",
+      "title": "Armor Training (Ex) (Fighter)",
+      "anchor_heading": "#### Armor Training (Ex) {#armor_training_ex}",
+      "description": "Reduces armor check penalty and increases maximum Dex bonus while wearing armor, plus allows normal movement in medium and heavy armor. Can be replaced with advanced armor training options.",
+      "keywords": [
+        "armor training",
+        "armor check penalty",
+        "maximum dex bonus",
+        "medium armor",
+        "heavy armor",
+        "normal speed",
+        "advanced armor training",
+        "armor mastery"
+      ]
+    },
+    {
+      "id": "fighter_weapon_training_ex",
+      "title": "Weapon Training (Ex) (Fighter)",
+      "anchor_heading": "#### Weapon Training (Ex) {#weapon_training_ex}",
+      "description": "Grants scaling attack and damage bonuses with selected weapon groups, applies to combat maneuvers, and can be replaced with advanced weapon training options.",
+      "keywords": [
+        "weapon training",
+        "weapon groups",
+        "attack bonus",
+        "damage bonus",
+        "combat maneuvers",
+        "CMD",
+        "disarm",
+        "sunder",
+        "advanced weapon training",
+        "weapon mastery",
+        "axes",
+        "blades heavy",
+        "blades light",
+        "bows",
+        "crossbows",
+        "firearms",
+        "flails",
+        "hammers",
+        "monk weapons",
+        "polearms",
+        "spears",
+        "thrown weapons"
+      ]
+    },
+    {
+      "id": "fighter_armor_mastery_ex",
+      "title": "Armor Mastery (Ex) (Fighter)",
+      "anchor_heading": "#### Armor Mastery (Ex) {#armor_mastery_ex}",
+      "description": "Grants damage reduction 5/\u2014 when wearing armor or using a shield at 19th level.",
+      "keywords": [
+        "armor mastery",
+        "damage reduction",
+        "DR 5",
+        "wearing armor",
+        "using shield",
+        "19th level capstone"
+      ]
+    },
+    {
+      "id": "fighter_weapon_mastery_ex",
+      "title": "Weapon Mastery (Ex) (Fighter)",
+      "anchor_heading": "#### Weapon Mastery (Ex) {#weapon_mastery_ex}",
+      "description": "At 20th level, automatically confirms critical threats and increases critical multiplier by 1 for one chosen weapon type, plus prevents disarming with that weapon.",
+      "keywords": [
+        "weapon mastery",
+        "critical threats",
+        "critical multiplier",
+        "auto-confirm",
+        "disarm immunity",
+        "chosen weapon",
+        "20th level capstone"
+      ]
+    },
+    {
+      "id": "fighter_veteran_of_endless_war_ex",
+      "title": "Veteran of Endless War (Ex) (Fighter)",
+      "anchor_heading": "#### Veteran of Endless War (Ex) {#veteran_of_endless_war_ex}",
+      "description": "Alternative 20th level capstone that increases armor training and weapon training bonuses by an additional +2 each.",
+      "keywords": [
+        "veteran of endless war",
+        "alternative capstone",
+        "armor training bonus",
+        "weapon training bonus",
+        "+2 increase",
+        "20th level"
       ]
     }
-  ],
-  "category": "Classes"
+  ]
 }

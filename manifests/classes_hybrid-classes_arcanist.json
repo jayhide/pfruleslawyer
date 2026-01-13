@@ -2,42 +2,173 @@
   "file": "arcanist.md",
   "source_path": "https://www.d20pfsrd.com/classes/hybrid-classes/arcanist/",
   "source_name": "Class: Arcanist",
+  "category": "Classes",
+  "toc_content": "Contents\n+ [Class Skills](#class_skills)\n+ [Class Features](#class_features)\n  - [Weapon and Armor Proficiencies](#weapon_and_armor_proficiencies)\n  - [Spell Casting](#spell_casting)\n  - [Spellbooks](#spellbooks)\n  - [Cantrips](#cantrips)\n  - [Arcane Reservoir (Su)](#arcane_reservoir_su)\n  - [Arcanist Exploits](#arcanist_exploits)\n  - [Consume Spells (Su)](#consume_spells_su)\n  - [Greater Exploits](#greater_exploits)\n  - [Magical Supremacy (Su)](#magical_supremacy_su)\n+ [Alternative Capstone Ability](#alternative_capstone_ability)\n  - [Deep Reservoir (Su)](#deep_reservoir_su)\n* [Arcane Spells and Armor](#arcane_spells_and_armor)\n* [Favored Class Bonuses](#favored_class_bonuses)\n* [Archetypes & Alternate Class Features](#archetypes_alternate_class_features)",
   "sections": [
     {
-      "id": "arcanist",
-      "title": "Arcanist",
+      "id": "arcanist_overview",
+      "title": "Arcanist (Class Overview)",
       "anchor_heading": "# Arcanist",
-      "includes_subheadings": [
-        "### Class Skills",
-        "#### Weapon and Armor Proficiencies",
-        "#### Spell Casting",
-        "#### Spellbooks",
-        "#### Cantrips",
-        "#### Arcane Reservoir (Su)",
-        "#### Arcanist Exploits",
-        "#### Consume Spells (Su)",
-        "#### Greater Exploits",
-        "#### Magical Supremacy (Su)",
-        "#### Deep Reservoir (Su)"
-      ],
-      "description": "Complete rules for the Arcanist hybrid class, including spellcasting mechanics, arcane reservoir, arcanist exploits, and class progression from levels 1-20.",
+      "end_at_heading": "### Class Skills {#class_skills}",
+      "description": "Overview of the Arcanist class including role, alignment, hit die, and starting wealth.",
       "keywords": [
         "arcanist",
-        "arcane reservoir",
-        "arcanist exploits",
-        "greater exploits",
-        "consume spells",
-        "magical supremacy",
-        "spellbooks",
-        "cantrips",
-        "hybrid class",
-        "sorcerer wizard spell list",
-        "metamagic",
-        "spell preparation",
+        "class",
+        "hit die",
+        "role",
+        "alignment"
+      ]
+    },
+    {
+      "id": "arcanist_weapon_and_armor_proficiencies",
+      "title": "Weapon and Armor Proficiencies (Arcanist)",
+      "anchor_heading": "#### Weapon and Armor Proficiencies {#weapon_and_armor_proficiencies}",
+      "description": "Arcanists are proficient with all simple weapons but no armor or shields, as armor interferes with spells that have somatic components.",
+      "keywords": [
+        "weapon proficiency",
+        "armor proficiency",
+        "simple weapons",
+        "somatic components",
         "arcane spells and armor",
-        "deep reservoir"
+        "spell failure",
+        "armor interference"
+      ]
+    },
+    {
+      "id": "arcanist_spell_casting",
+      "title": "Spell Casting (Arcanist)",
+      "anchor_heading": "#### Spell Casting {#spell_casting}",
+      "description": "Arcanists prepare spells from the sorcerer/wizard spell list but don't expend them when cast, instead consuming spell slots per day like a sorcerer. They can apply metamagic feats either during preparation or casting.",
+      "keywords": [
+        "spells prepared",
+        "spell slots per day",
+        "sorcerer wizard spell list",
+        "intelligence modifier",
+        "spell preparation",
+        "metamagic preparation",
+        "spontaneous metamagic",
+        "casting time increase",
+        "metamixing",
+        "spellbook study",
+        "8 hours sleep"
+      ]
+    },
+    {
+      "id": "arcanist_spellbooks",
+      "title": "Spellbooks (Arcanist)",
+      "anchor_heading": "#### Spellbooks {#spellbooks}",
+      "description": "Arcanists must study spellbooks daily to prepare spells, starting with all 0-level spells and gaining additional spells as they level.",
+      "keywords": [
+        "spellbook",
+        "read magic",
+        "spell preparation",
+        "intelligence modifier spells",
+        "learning new spells",
+        "copying spells",
+        "wizard spellbooks",
+        "starting spells"
+      ]
+    },
+    {
+      "id": "arcanist_cantrips",
+      "title": "Cantrips (Arcanist)",
+      "anchor_heading": "#### Cantrips {#cantrips}",
+      "description": "Arcanists can prepare and cast 0-level spells that don't consume spell slots and aren't expended when cast.",
+      "keywords": [
+        "cantrips",
+        "0-level spells",
+        "unlimited casting",
+        "spell slots",
+        "not expended"
+      ]
+    },
+    {
+      "id": "arcanist_arcane_reservoir_su",
+      "title": "Arcane Reservoir (Su) (Arcanist)",
+      "anchor_heading": "#### Arcane Reservoir (Su) {#arcane_reservoir_su}",
+      "description": "A pool of magical energy equal to 3 + arcanist level that refills daily and can be spent to enhance spells with +1 caster level or +1 DC as a free action.",
+      "keywords": [
+        "arcane reservoir",
+        "magical energy",
+        "caster level increase",
+        "spell DC increase",
+        "free action",
+        "maximum reservoir",
+        "daily refill",
+        "consume spells",
+        "reservoir points"
+      ]
+    },
+    {
+      "id": "arcanist_arcanist_exploits",
+      "title": "Arcanist Exploits (Arcanist)",
+      "anchor_heading": "#### Arcanist Exploits {#arcanist_exploits}",
+      "description": "Special magical abilities learned every 2 levels that exploit gaps in magical laws, most requiring arcane reservoir points to function.",
+      "keywords": [
+        "arcanist exploits",
+        "arcane exploits",
+        "reservoir points",
+        "charisma modifier",
+        "exploit DC",
+        "magical laws",
+        "breaking magic rules"
+      ]
+    },
+    {
+      "id": "arcanist_consume_spells_su",
+      "title": "Consume Spells (Su) (Arcanist)",
+      "anchor_heading": "#### Consume Spells (Su) {#consume_spells_su}",
+      "description": "As a move action, expend an available spell slot to gain arcane reservoir points equal to the spell level, usable Charisma modifier times per day.",
+      "keywords": [
+        "consume spells",
+        "move action",
+        "spell slot",
+        "arcane reservoir points",
+        "charisma modifier",
+        "spell level",
+        "cannot consume cantrips"
+      ]
+    },
+    {
+      "id": "arcanist_greater_exploits",
+      "title": "Greater Exploits (Arcanist)",
+      "anchor_heading": "#### Greater Exploits {#greater_exploits}",
+      "description": "More powerful arcanist exploits available starting at 11th level and every 2 levels thereafter in place of regular exploits.",
+      "keywords": [
+        "greater exploits",
+        "11th level",
+        "powerful exploits",
+        "arcanist exploit replacement"
+      ]
+    },
+    {
+      "id": "arcanist_magical_supremacy_su",
+      "title": "Magical Supremacy (Su) (Arcanist)",
+      "anchor_heading": "#### Magical Supremacy (Su) {#magical_supremacy_su}",
+      "description": "At 20th level, cast prepared spells by spending reservoir points equal to 1 + spell level, gaining +2 caster level and +2 DC but cannot enhance further with reservoir.",
+      "keywords": [
+        "magical supremacy",
+        "20th level",
+        "reservoir points casting",
+        "caster level bonus",
+        "DC bonus",
+        "capstone ability",
+        "spell slot alternative"
+      ]
+    },
+    {
+      "id": "arcanist_deep_reservoir_su",
+      "title": "Deep Reservoir (Su) (Arcanist)",
+      "anchor_heading": "#### Deep Reservoir (Su) {#deep_reservoir_su}",
+      "description": "At 20th level, the arcane reservoir maximum increases by 10 and daily point generation increases by 5.",
+      "keywords": [
+        "deep reservoir",
+        "20th level",
+        "reservoir maximum",
+        "daily points",
+        "increased capacity",
+        "capstone ability"
       ]
     }
-  ],
-  "category": "Classes"
+  ]
 }

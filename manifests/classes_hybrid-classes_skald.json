@@ -2,56 +2,279 @@
   "file": "skald.md",
   "source_path": "https://www.d20pfsrd.com/classes/hybrid-classes/skald/",
   "source_name": "Class: Skald",
+  "category": "Classes",
+  "toc_content": "Contents\n+ [Class Skills](#class_skills)\n+ [Class Features](#class_features)\n  - [Weapon and Armor Proficiency](#weapon_and_armor_proficiency)\n  - [Bardic Knowledge (Ex)](#bardic_knowledge_ex)\n  - [Cantrips](#cantrips)\n  - [Spell Casting](#spell_casting)\n  - [Raging Song (Su)](#raging_song_su)\n  - [Scribe Scroll](#scribe_scroll)\n  - [Versatile Performance (Ex)](#versatile_performance_ex)\n  - [Well-Versed (Ex)](#well-versed_ex)\n  - [Rage Powers (Ex)](#rage_powers_ex)\n  - [Uncanny Dodge (Ex)](#uncanny_dodge_ex)\n  - [Spell Kenning (Su)](#spell_kenning_su)\n  - [Lore Master (Ex)](#lore_master_ex)\n  - [Improved Uncanny Dodge (Ex)](#improved_uncanny_dodge_ex)\n  - [Damage Reduction (Ex)](#damage_reduction_ex)\n  - [Master Skald (Su)](#master_skald_su)\n+ [Alternative Capstone Ability](#alternative_capstone_ability)\n  - [Great Kenning (Su)](#great_kenning_su)\n* [Favored Class Bonuses](#favored_class_bonuses)\n* [Archetypes & Alternate Class Features](#archetypes_alternate_class_features)",
   "sections": [
     {
-      "id": "skald",
-      "title": "Skald",
+      "id": "skald_overview",
+      "title": "Skald (Class Overview)",
       "anchor_heading": "# Skald",
-      "includes_subheadings": [
-        "### Class Skills",
-        "### Class Features",
-        "#### Weapon and Armor Proficiency",
-        "#### Bardic Knowledge (Ex)",
-        "#### Cantrips",
-        "#### Spell Casting",
-        "#### Raging Song (Su)",
-        "#### Scribe Scroll",
-        "#### Versatile Performance (Ex)",
-        "#### Well-Versed (Ex)",
-        "#### Rage Powers (Ex)",
-        "#### Uncanny Dodge (Ex)",
-        "#### Spell Kenning (Su)",
-        "#### Lore Master (Ex)",
-        "#### Improved Uncanny Dodge (Ex)",
-        "#### Damage Reduction (Ex)",
-        "#### Master Skald (Su)",
-        "### Alternative Capstone Ability",
-        "#### Great Kenning (Su)"
-      ],
-      "description": "Describes the Skald hybrid class, a poet-warrior who uses raging songs to inspire allies into frenzied combat while balancing magical abilities with melee prowess.",
+      "end_at_heading": "### Class Skills {#class_skills}",
+      "description": "Overview of the Skald class including role, alignment, hit die, and starting wealth.",
       "keywords": [
         "skald",
+        "class",
+        "hit die",
+        "role",
+        "alignment"
+      ]
+    },
+    {
+      "id": "skald_weapon_and_armor_proficiency",
+      "title": "Weapon and Armor Proficiency (Skald)",
+      "anchor_heading": "#### Weapon and Armor Proficiency {#weapon_and_armor_proficiency}",
+      "description": "Skalds are proficient with all simple and martial weapons, light and medium armor, and shields (except tower shields). They can cast skald spells without arcane spell failure chance while wearing light or medium armor.",
+      "keywords": [
+        "weapon proficiency",
+        "armor proficiency",
+        "arcane spell failure",
+        "somatic components",
+        "heavy armor",
+        "light armor",
+        "medium armor",
+        "shield proficiency",
+        "tower shield"
+      ]
+    },
+    {
+      "id": "skald_bardic_knowledge_ex",
+      "title": "Bardic [Knowledge](https://www.d20pfsrd.com/skills/knowledge) (Ex) (Skald)",
+      "anchor_heading": "#### Bardic [Knowledge](https://www.d20pfsrd.com/skills/knowledge) (Ex) {#bardic_knowledge_ex}",
+      "description": "A skald adds half his class level (minimum 1) to all Knowledge skill checks and can make all Knowledge checks untrained.",
+      "keywords": [
+        "bardic knowledge",
+        "knowledge skill",
+        "untrained knowledge",
+        "class level bonus",
+        "skill check bonus"
+      ]
+    },
+    {
+      "id": "skald_cantrips",
+      "title": "Cantrips (Skald)",
+      "anchor_heading": "#### Cantrips {#cantrips}",
+      "description": "Skalds learn 0-level spells that can be cast without consuming spell slots and may be used repeatedly.",
+      "keywords": [
+        "cantrips",
+        "0-level spells",
+        "spell slots",
+        "unlimited use",
+        "at-will spells"
+      ]
+    },
+    {
+      "id": "skald_spell_casting",
+      "title": "Spell Casting (Skald)",
+      "anchor_heading": "#### Spell Casting {#spell_casting}",
+      "description": "Skalds cast arcane spells from the bard spell list using Charisma as their casting ability. They are spontaneous casters with verbal components required for all spells.",
+      "keywords": [
+        "spontaneous casting",
+        "bard spell list",
+        "verbal components",
+        "charisma",
+        "spells known",
+        "spell swap",
+        "arcane spells",
+        "save DC",
+        "spell preparation"
+      ]
+    },
+    {
+      "id": "skald_raging_song_su",
+      "title": "Raging Song (Su) (Skald)",
+      "anchor_heading": "#### Raging Song (Su) {#raging_song_su}",
+      "description": "Skalds use musical performances to grant allies combat bonuses and abilities. The core ability is Inspired Rage, which grants morale bonuses to Strength, Constitution, and Will saves but imposes skill restrictions.",
+      "keywords": [
         "raging song",
         "inspired rage",
-        "bardic knowledge",
-        "spell kenning",
-        "rage powers",
-        "versatile performance",
-        "well-versed",
-        "lore master",
+        "bardic performance",
+        "standard action",
+        "move action",
+        "swift action",
+        "morale bonus",
+        "AC penalty",
+        "skill restrictions",
         "song of marching",
         "song of strength",
         "dirge of doom",
         "song of the fallen",
-        "master skald",
-        "uncanny dodge",
-        "damage reduction",
-        "cantrips",
-        "scribe scroll",
+        "audible components",
+        "deaf",
         "sagas",
-        "great kenning"
+        "masterpieces"
+      ]
+    },
+    {
+      "id": "skald_scribe_scroll",
+      "title": "Scribe Scroll (Skald)",
+      "anchor_heading": "#### Scribe Scroll {#scribe_scroll}",
+      "description": "Skalds automatically receive Scribe Scroll as a bonus feat at 1st level.",
+      "keywords": [
+        "scribe scroll",
+        "bonus feat",
+        "item creation",
+        "scroll creation"
+      ]
+    },
+    {
+      "id": "skald_versatile_performance_ex",
+      "title": "Versatile Performance (Ex) (Skald)",
+      "anchor_heading": "#### Versatile Performance (Ex) {#versatile_performance_ex}",
+      "description": "Skalds can substitute their Perform skill bonus for certain associated skills. Advanced options include expanded versatility, martial performance, and masterpieces.",
+      "keywords": [
+        "versatile performance",
+        "perform skill",
+        "skill substitution",
+        "oratory",
+        "percussion",
+        "sing",
+        "string",
+        "wind",
+        "advanced versatile performance",
+        "expanded versatility",
+        "martial performance",
+        "weapon proficiency",
+        "fighter weapon groups",
+        "masterpiece"
+      ]
+    },
+    {
+      "id": "skald_well-versed_ex",
+      "title": "Well-Versed (Ex) (Skald)",
+      "anchor_heading": "#### Well-Versed (Ex) {#well-versed_ex}",
+      "description": "Skalds gain a +4 bonus on saving throws against bardic performance, sonic effects, and language-dependent effects.",
+      "keywords": [
+        "well-versed",
+        "sonic resistance",
+        "bardic performance resistance",
+        "language-dependent",
+        "saving throw bonus",
+        "sonic effects"
+      ]
+    },
+    {
+      "id": "skald_rage_powers_ex",
+      "title": "Rage Powers (Ex) (Skald)",
+      "anchor_heading": "#### Rage Powers (Ex) {#rage_powers_ex}",
+      "description": "Skalds learn barbarian rage powers that they can share with allies during inspired rage. Rage powers cannot require standard actions or rounds of rage to activate.",
+      "keywords": [
+        "rage powers",
+        "barbarian rage powers",
+        "inspired rage",
+        "standard action restriction",
+        "effective barbarian level",
+        "prerequisite rage powers",
+        "ability modifier",
+        "usage limitations",
+        "multiple rage powers"
+      ]
+    },
+    {
+      "id": "skald_uncanny_dodge_ex",
+      "title": "Uncanny Dodge (Ex) (Skald)",
+      "anchor_heading": "#### Uncanny Dodge (Ex) {#uncanny_dodge_ex}",
+      "description": "Skalds cannot be caught flat-footed and retain their Dex bonus to AC against invisible attackers, though they can still be feinted.",
+      "keywords": [
+        "uncanny dodge",
+        "flat-footed",
+        "dex bonus",
+        "invisible attackers",
+        "feint",
+        "immobilized",
+        "improved uncanny dodge"
+      ]
+    },
+    {
+      "id": "skald_spell_kenning_su",
+      "title": "Spell Kenning (Su) (Skald)",
+      "anchor_heading": "#### Spell Kenning (Su) {#spell_kenning_su}",
+      "description": "Skalds can cast spells from the bard, cleric, or sorcerer/wizard spell lists by expending a same-level spell slot. Casting time is minimum 1 full round.",
+      "keywords": [
+        "spell kenning",
+        "bard spell list",
+        "cleric spell list",
+        "sorcerer spell list",
+        "wizard spell list",
+        "spell slot",
+        "full round casting",
+        "casting time",
+        "daily uses"
+      ]
+    },
+    {
+      "id": "skald_lore_master_ex",
+      "title": "Lore Master (Ex) (Skald)",
+      "anchor_heading": "#### Lore Master (Ex) {#lore_master_ex}",
+      "description": "Skalds can take 10 on any Knowledge skill check with ranks and can take 20 as a standard action a limited number of times per day.",
+      "keywords": [
+        "lore master",
+        "take 10",
+        "take 20",
+        "knowledge skill",
+        "standard action",
+        "daily uses",
+        "skill ranks"
+      ]
+    },
+    {
+      "id": "skald_improved_uncanny_dodge_ex",
+      "title": "Improved Uncanny Dodge (Ex) (Skald)",
+      "anchor_heading": "#### Improved Uncanny Dodge (Ex) {#improved_uncanny_dodge_ex}",
+      "description": "Skalds cannot be flanked unless the attacker has at least four more sneak attack class levels than the skald has skald levels.",
+      "keywords": [
+        "improved uncanny dodge",
+        "flanking",
+        "sneak attack",
+        "class levels",
+        "level stacking",
+        "flanking immunity"
+      ]
+    },
+    {
+      "id": "skald_damage_reduction_ex",
+      "title": "Damage Reduction (Ex) (Skald)",
+      "anchor_heading": "#### Damage Reduction (Ex) {#damage_reduction_ex}",
+      "description": "Skalds gain damage reduction that also applies to allies affected by their inspired rage, increasing at higher levels.",
+      "keywords": [
+        "damage reduction",
+        "DR",
+        "weapon damage",
+        "natural attack",
+        "inspired rage",
+        "ally benefits",
+        "damage reduction progression"
+      ]
+    },
+    {
+      "id": "skald_master_skald_su",
+      "title": "Master Skald (Su) (Skald)",
+      "anchor_heading": "#### Master Skald (Su) {#master_skald_su}",
+      "description": "At 20th level, inspired rage removes AC penalties and skill restrictions, allows rage-dependent abilities, and grants an extra attack like haste.",
+      "keywords": [
+        "master skald",
+        "inspired rage",
+        "AC penalty removal",
+        "skill restrictions",
+        "rage powers",
+        "blood casting",
+        "bloodline abilities",
+        "extra attack",
+        "haste effect",
+        "full attack"
+      ]
+    },
+    {
+      "id": "skald_great_kenning_su",
+      "title": "Great Kenning (Su) (Skald)",
+      "anchor_heading": "#### Great Kenning (Su) {#great_kenning_su}",
+      "description": "The skald can use spell kenning three additional times per day and select an additional spell list for spell kenning.",
+      "keywords": [
+        "great kenning",
+        "spell kenning",
+        "additional uses",
+        "additional spell list",
+        "daily uses"
       ]
     }
-  ],
-  "category": "Classes"
+  ]
 }

@@ -2,51 +2,266 @@
   "file": "warpriest.md",
   "source_path": "https://www.d20pfsrd.com/classes/hybrid-classes/warpriest/",
   "source_name": "Class: Warpriest",
+  "category": "Classes",
+  "toc_content": "Contents\n+ [Class Skills](#class_skills)\n+ [Class Features](#class_features)\n  - [Weapon and Armor Proficiencies](#weapon_and_armor_proficiencies)\n  - [Spell Casting (Divine)](#spell_casting_divine)\n  - [Aura (Ex)](#aura_ex)\n  - [Blessings (Su)](#blessings_su)\n  - [Focus Weapon](#focus_weapon)\n  - [Sacred Weapon (Su)](#sacred_weapon_su)\n  - [Bonus Languages](#bonus_languages)\n  - [Fervor (Su)](#fervor_su)\n  - [Bonus Feats](#bonus_feats)\n  - [Channel Energy (Su)](#channel_energy_su)\n  - [Sacred Armor (Su)](#sacred_armor_su)\n  - [Aspect of War (Su)](#aspect_of_war_su)\n+ [Alternative Capstone Ability](#alternative_capstone_ability)\n  - [Hammer of God (Su)](#hammer_of_god_su)\n* [Ex-Warpriests](#ex-warpriests)\n* [Favored Class Bonuses](#favored_class_bonuses)\n* [Archetypes & Alternate Class Features](#archetypes_alternate_class_features)",
   "sections": [
     {
-      "id": "warpriest",
-      "title": "Warpriest",
+      "id": "warpriest_overview",
+      "title": "Warpriest (Class Overview)",
       "anchor_heading": "# Warpriest",
-      "includes_subheadings": [
-        "### Class Skills",
-        "#### Weapon and Armor Proficiencies",
-        "#### Spell Casting (Divine)",
-        "#### Aura (Ex)",
-        "#### Blessings (Su)",
-        "#### Focus Weapon",
-        "#### Sacred Weapon (Su)",
-        "#### Bonus Languages",
-        "#### Fervor (Su)",
-        "#### Bonus Feats",
-        "#### Channel Energy (Su)",
-        "#### Sacred Armor (Su)",
-        "#### Aspect of War (Su)",
-        "#### Hammer of God (Su)"
-      ],
-      "description": "Comprehensive rules for the Warpriest hybrid class, covering divine spellcasting, sacred weapon and armor abilities, blessings, fervor, channel energy, and all class features from 1st to 20th level.",
+      "end_at_heading": "### Class Skills {#class_skills}",
+      "description": "Overview of the Warpriest class including role, alignment, hit die, and starting wealth.",
       "keywords": [
         "warpriest",
-        "sacred weapon",
-        "sacred armor",
-        "blessings",
-        "fervor",
-        "channel energy",
-        "focus weapon",
-        "aura",
-        "aspect of war",
-        "divine spellcaster",
-        "orisons",
+        "class",
+        "hit die",
+        "role",
+        "alignment"
+      ]
+    },
+    {
+      "id": "warpriest_weapon_and_armor_proficiencies",
+      "title": "Weapon and Armor Proficiencies (Warpriest)",
+      "anchor_heading": "#### Weapon and Armor Proficiencies {#weapon_and_armor_proficiencies}",
+      "description": "Grants proficiency with all simple and martial weapons, the deity's favored weapon, all armor types except tower shields, and Improved Unarmed Strike if the deity's favored weapon is unarmed strike.",
+      "keywords": [
+        "weapon proficiency",
+        "armor proficiency",
+        "favored weapon",
+        "deity favored weapon",
+        "simple weapons",
+        "martial weapons",
+        "heavy armor",
+        "medium armor",
+        "light armor",
+        "shields",
+        "tower shield",
+        "Improved Unarmed Strike",
+        "unarmed strike",
+        "bonus feat"
+      ]
+    },
+    {
+      "id": "warpriest_spell_casting_divine",
+      "title": "Spell Casting (Divine) (Warpriest)",
+      "anchor_heading": "#### Spell Casting (Divine) {#spell_casting_divine}",
+      "description": "Allows casting divine spells from the cleric spell list up to 6th level, with Wisdom-based preparation and spontaneous casting of cure or inflict spells based on alignment.",
+      "keywords": [
+        "divine spells",
+        "cleric spell list",
+        "6th level spells",
+        "spell preparation",
+        "Wisdom modifier",
         "spontaneous casting",
-        "bonus feats",
-        "weapon focus",
+        "cure spells",
+        "inflict spells",
+        "orisons",
+        "alignment spells",
+        "chaotic spells",
+        "evil spells",
+        "good spells",
+        "lawful spells",
+        "spell completion",
+        "spell trigger",
+        "Use Magic Device"
+      ]
+    },
+    {
+      "id": "warpriest_aura_ex",
+      "title": "Aura (Ex) (Warpriest)",
+      "anchor_heading": "#### Aura (Ex) {#aura_ex}",
+      "description": "Grants a powerful aura corresponding to the deity's alignment that can be detected by spells like detect evil, similar to a cleric's aura.",
+      "keywords": [
+        "aura",
+        "alignment aura",
+        "detect evil",
+        "detect good",
+        "detect chaos",
+        "detect law",
+        "cleric aura",
+        "deity alignment"
+      ]
+    },
+    {
+      "id": "warpriest_blessings_su",
+      "title": "Blessings (Su) (Warpriest)",
+      "anchor_heading": "#### Blessings (Su) {#blessings_su}",
+      "description": "Grants two domain-based blessings from the warpriest's deity, each providing minor and major powers usable a limited number of times per day.",
+      "keywords": [
+        "blessings",
+        "domain blessings",
+        "minor power",
+        "major power",
+        "blessing uses per day",
+        "blessing save DC",
+        "alignment blessing",
+        "Chaos blessing",
+        "Evil blessing",
+        "Good blessing",
+        "Law blessing",
+        "cleric domains"
+      ]
+    },
+    {
+      "id": "warpriest_focus_weapon",
+      "title": "Focus Weapon (Warpriest)",
+      "anchor_heading": "#### Focus Weapon {#focus_weapon}",
+      "description": "Grants Weapon Focus as a bonus feat at 1st level, which can be chosen for any weapon regardless of the deity's favored weapon.",
+      "keywords": [
+        "Weapon Focus",
+        "bonus feat",
+        "focus weapon",
+        "weapon selection"
+      ]
+    },
+    {
+      "id": "warpriest_sacred_weapon_su",
+      "title": "Sacred Weapon (Su) (Warpriest)",
+      "anchor_heading": "#### Sacred Weapon (Su) {#sacred_weapon_su}",
+      "description": "Allows weapons with Weapon Focus to deal scaling damage based on warpriest level and be enhanced with magical properties as a swift action for limited rounds per day.",
+      "keywords": [
+        "sacred weapon",
+        "weapon damage scaling",
+        "Weapon Focus",
+        "weapon enhancement",
+        "swift action",
         "enhancement bonus",
         "weapon special abilities",
+        "brilliant energy",
+        "defending",
+        "disruption",
+        "flaming",
+        "frost",
+        "keen",
+        "shock",
+        "anarchic",
+        "vicious",
+        "mighty cleaving",
+        "unholy",
+        "ghost touch",
+        "holy",
+        "axiomatic",
+        "merciful",
+        "spell storing",
+        "thundering",
+        "double weapon"
+      ]
+    },
+    {
+      "id": "warpriest_bonus_languages",
+      "title": "Bonus Languages (Warpriest)",
+      "anchor_heading": "#### Bonus Languages {#bonus_languages}",
+      "description": "Adds Abyssal, Celestial, and Infernal to the warpriest's list of available bonus languages from high Intelligence.",
+      "keywords": [
+        "bonus languages",
+        "Abyssal",
+        "Celestial",
+        "Infernal",
+        "language options"
+      ]
+    },
+    {
+      "id": "warpriest_fervor_su",
+      "title": "Fervor (Su) (Warpriest)",
+      "anchor_heading": "#### Fervor (Su) {#fervor_su}",
+      "description": "Provides a pool of uses per day to heal allies, harm undead, or cast warpriest spells as swift actions with reduced casting requirements.",
+      "keywords": [
+        "fervor",
+        "healing",
+        "harm undead",
+        "swift action spells",
+        "standard action",
+        "touch attack",
+        "positive energy",
+        "negative energy",
+        "spell casting",
+        "somatic components",
+        "attacks of opportunity",
+        "fervor uses"
+      ]
+    },
+    {
+      "id": "warpriest_bonus_feats",
+      "title": "Bonus Feats (Warpriest)",
+      "anchor_heading": "#### Bonus Feats {#bonus_feats}",
+      "description": "Grants bonus combat feats every 3 levels, treating warpriest level as base attack bonus and fighter level for feat prerequisites.",
+      "keywords": [
+        "bonus feats",
+        "combat feats",
+        "base attack bonus",
+        "fighter level",
+        "feat prerequisites",
+        "fighter feats"
+      ]
+    },
+    {
+      "id": "warpriest_channel_energy_su",
+      "title": "Channel Energy (Su) (Warpriest)",
+      "anchor_heading": "#### Channel Energy (Su) {#channel_energy_su}",
+      "description": "Allows channeling positive or negative energy in a 30-foot burst by expending two fervor uses, healing allies or harming enemies based on alignment.",
+      "keywords": [
+        "channel energy",
+        "positive energy",
+        "negative energy",
+        "30-foot radius",
+        "fervor uses",
+        "holy symbol",
+        "unholy symbol",
+        "standard action",
+        "Will save",
+        "burst",
+        "living creatures",
+        "undead"
+      ]
+    },
+    {
+      "id": "warpriest_sacred_armor_su",
+      "title": "Sacred Armor (Su) (Warpriest)",
+      "anchor_heading": "#### Sacred Armor (Su) {#sacred_armor_su}",
+      "description": "Enhances worn armor with magical properties and enhancement bonuses as a swift action for limited minutes per day, and can activate sacred weapon simultaneously.",
+      "keywords": [
+        "sacred armor",
+        "armor enhancement",
+        "swift action",
+        "enhancement bonus",
         "armor special abilities",
+        "energy resistance",
+        "fortification",
+        "glamered",
+        "spell resistance",
+        "free action",
+        "fervor use"
+      ]
+    },
+    {
+      "id": "warpriest_aspect_of_war_su",
+      "title": "Aspect of War (Su) (Warpriest)",
+      "anchor_heading": "#### Aspect of War (Su) {#aspect_of_war_su}",
+      "description": "Once per day transformation that treats level as base attack bonus, grants DR 10/\u2014, ignores armor speed penalties, and provides unlimited blessing uses for 1 minute.",
+      "keywords": [
+        "aspect of war",
+        "base attack bonus",
+        "damage reduction",
+        "DR 10",
+        "armor speed",
+        "encumbrance",
+        "blessing uses",
+        "swift action",
+        "1 minute duration"
+      ]
+    },
+    {
+      "id": "warpriest_hammer_of_god_su",
+      "title": "Hammer of God (Su) (Warpriest)",
+      "anchor_heading": "#### Hammer of God (Su) {#hammer_of_god_su}",
+      "description": "Capstone ability that grants two additional blessings from the deity's list and increases daily blessing uses by 2.",
+      "keywords": [
         "hammer of god",
-        "ex-warpriest",
-        "favored class bonuses"
+        "additional blessings",
+        "blessing uses per day",
+        "deity blessings",
+        "capstone ability"
       ]
     }
-  ],
-  "category": "Classes"
+  ]
 }

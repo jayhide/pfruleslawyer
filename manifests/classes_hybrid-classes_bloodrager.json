@@ -2,55 +2,269 @@
   "file": "bloodrager.md",
   "source_path": "https://www.d20pfsrd.com/classes/hybrid-classes/bloodrager/",
   "source_name": "Class: Bloodrager",
+  "category": "Classes",
+  "toc_content": "Contents\n+ [Class Skills](#class_skills)\n+ [Class Features](#class_features)\n  - [Weapon and Armor Proficiency](#weapon_and_armor_proficiency)\n  - [Bloodline](#bloodline)\n+ [Bloodrager Bloodlines](#bloodrager_bloodlines)\n  - [Bloodrager Bloodlines](#bloodrager_bloodlines-2)\n  - [Bloodrager Bloodlines from other Publishers](#bloodrager_bloodlines_from_other_publishers)\n  - [Bloodrage (Su)](#bloodrage_su)\n  - [Fast Movement (Ex)](#fast_movement_ex)\n  - [Uncanny Dodge (Ex)](#uncanny_dodge_ex)\n  - [Blood Sanctuary (Su)](#blood_sanctuary_su)\n  - [Blood Casting (Su)](#blood_casting_su)\n  - [Eschew Materials](#eschew_materials)\n  - [Spell Casting](#spell_casting)\n+ [Bloodrager Spells](#bloodrager_spells)\n  - [Improved Uncanny Dodge (Ex)](#improved_uncanny_dodge_ex)\n  - [Damage Reduction (Ex)](#damage_reduction_ex)\n  - [Greater Bloodrage (Su)](#greater_bloodrage_su)\n  - [Indomitable Will (Ex)](#indomitable_will_ex)\n  - [Tireless Bloodrage (Su)](#tireless_bloodrage_su)\n  - [Mighty Bloodrage (Su)](#mighty_bloodrage_su)\n+ [Alternative Capstone Ability](#alternative_capstone_ability)\n  - [Empowered Bloodrage (Su)](#empowered_bloodrage_su)\n* [Favored Class Bonuses](#favored_class_bonuses)\n* [Archetypes & Alternate Class Features](#archetypes_alternate_class_features)",
   "sections": [
     {
-      "id": "bloodrager",
-      "title": "Bloodrager",
+      "id": "bloodrager_overview",
+      "title": "Bloodrager (Class Overview)",
       "anchor_heading": "# Bloodrager",
-      "includes_subheadings": [
-        "### Class Skills",
-        "#### Weapon and Armor Proficiency",
-        "#### Bloodline",
-        "### Bloodrager Bloodlines",
-        "#### Bloodrage (Su)",
-        "#### Fast Movement (Ex)",
-        "#### Uncanny Dodge (Ex)",
-        "#### Blood Sanctuary (Su)",
-        "#### Blood Casting (Su)",
-        "#### Eschew Materials",
-        "#### Spell Casting",
-        "### Bloodrager Spells",
-        "#### Improved Uncanny Dodge (Ex)",
-        "#### Damage Reduction (Ex)",
-        "#### Greater Bloodrage (Su)",
-        "#### Indomitable Will (Ex)",
-        "#### Tireless Bloodrage (Su)",
-        "#### Mighty Bloodrage (Su)",
-        "### Alternative Capstone Ability",
-        "#### Empowered Bloodrage (Su)"
-      ],
-      "description": "Complete rules for the Bloodrager hybrid class, covering bloodrage mechanics, spellcasting abilities, bloodlines, class features, and progression from levels 1-20.",
+      "end_at_heading": "### Class Skills {#class_skills}",
+      "description": "Overview of the Bloodrager class including role, alignment, hit die, and starting wealth.",
       "keywords": [
         "bloodrager",
-        "bloodrage",
-        "bloodline",
-        "blood casting",
-        "blood sanctuary",
-        "fast movement",
-        "uncanny dodge",
-        "improved uncanny dodge",
-        "damage reduction",
-        "greater bloodrage",
-        "mighty bloodrage",
-        "tireless bloodrage",
-        "indomitable will",
-        "eschew materials",
+        "class",
+        "hit die",
+        "role",
+        "alignment"
+      ]
+    },
+    {
+      "id": "bloodrager_weapon_and_armor_proficiency",
+      "title": "Weapon and Armor Proficiency (Bloodrager)",
+      "anchor_heading": "#### Weapon and Armor Proficiency {#weapon_and_armor_proficiency}",
+      "description": "Bloodragers are proficient with simple and martial weapons, light and medium armor, and shields (except tower shields). They can cast bloodrager spells in light or medium armor without arcane spell failure.",
+      "keywords": [
+        "weapon proficiency",
+        "armor proficiency",
+        "arcane spell failure",
+        "somatic components",
         "bloodrager spells",
-        "bloodline power",
+        "light armor",
+        "medium armor",
+        "heavy armor",
+        "shield proficiency",
+        "tower shield"
+      ]
+    },
+    {
+      "id": "bloodrager_bloodline",
+      "title": "Bloodline (Bloodrager)",
+      "anchor_heading": "#### Bloodline {#bloodline}",
+      "description": "Each bloodrager chooses a bloodline that grants bloodline powers at 1st, 4th level and every 4 levels thereafter, bonus feats every 3 levels starting at 6th, and additional spells at 7th, 10th, 13th, and 16th levels.",
+      "keywords": [
+        "bloodline",
+        "bloodline powers",
+        "bloodline spells",
+        "bonus feats",
         "bloodline mutations",
-        "hybrid class"
+        "caster level",
+        "spell-like abilities",
+        "multiclass bloodlines",
+        "bloodline selection"
+      ]
+    },
+    {
+      "id": "bloodrager_bloodrage_su",
+      "title": "Bloodrage (Su) (Bloodrager)",
+      "anchor_heading": "#### Bloodrage (Su) {#bloodrage_su}",
+      "description": "The bloodrager can enter bloodrage as a free action, gaining +4 morale bonus to Strength and Constitution, +2 to Will saves, but -2 to AC. Bloodrage lasts 4 + Con modifier rounds per day at 1st level, plus 2 rounds per level thereafter.",
+      "keywords": [
+        "bloodrage",
+        "free action",
+        "morale bonus",
+        "Constitution bonus",
+        "Strength bonus",
+        "Will save bonus",
+        "AC penalty",
+        "fatigued",
+        "exhausted",
+        "rounds per day",
+        "barbarian rage",
+        "temporary hit points",
+        "skill restrictions",
+        "unconscious"
+      ]
+    },
+    {
+      "id": "bloodrager_fast_movement_ex",
+      "title": "Fast Movement (Ex) (Bloodrager)",
+      "anchor_heading": "#### Fast Movement (Ex) {#fast_movement_ex}",
+      "description": "A bloodrager's land speed increases by 10 feet when wearing no armor, light armor, or medium armor and not carrying a heavy load.",
+      "keywords": [
+        "fast movement",
+        "land speed",
+        "speed bonus",
+        "armor restriction",
+        "heavy load",
+        "movement bonus",
+        "light armor",
+        "medium armor"
+      ]
+    },
+    {
+      "id": "bloodrager_uncanny_dodge_ex",
+      "title": "Uncanny Dodge (Ex) (Bloodrager)",
+      "anchor_heading": "#### Uncanny Dodge (Ex) {#uncanny_dodge_ex}",
+      "description": "The bloodrager cannot be caught flat-footed and retains Dexterity bonus to AC against invisible attackers, but can still lose it when immobilized or successfully feinted against.",
+      "keywords": [
+        "uncanny dodge",
+        "flat-footed",
+        "Dexterity bonus",
+        "AC",
+        "invisible",
+        "immobilized",
+        "feint",
+        "improved uncanny dodge",
+        "multiclass stacking"
+      ]
+    },
+    {
+      "id": "bloodrager_blood_sanctuary_su",
+      "title": "Blood Sanctuary (Su) (Bloodrager)",
+      "anchor_heading": "#### Blood Sanctuary (Su) {#blood_sanctuary_su}",
+      "description": "The bloodrager gains a +2 bonus on saving throws against spells cast by himself or his allies.",
+      "keywords": [
+        "blood sanctuary",
+        "saving throw bonus",
+        "ally spells",
+        "spell resistance",
+        "friendly fire",
+        "spell immunity"
+      ]
+    },
+    {
+      "id": "bloodrager_blood_casting_su",
+      "title": "Blood Casting (Su) (Bloodrager)",
+      "anchor_heading": "#### Blood Casting (Su) {#blood_casting_su}",
+      "description": "The bloodrager can cast bloodrager spells while bloodraging, including casting defensively and making concentration checks, but cannot cast spells from other classes during bloodrage.",
+      "keywords": [
+        "blood casting",
+        "spellcasting while raging",
+        "concentration checks",
+        "casting defensively",
+        "bloodrager spells only",
+        "multiclass spellcasting",
+        "bloodrage restrictions"
+      ]
+    },
+    {
+      "id": "bloodrager_eschew_materials",
+      "title": "Eschew Materials (Bloodrager)",
+      "anchor_heading": "#### Eschew Materials {#eschew_materials}",
+      "description": "The bloodrager gains Eschew Materials as a bonus feat at 4th level.",
+      "keywords": [
+        "Eschew Materials",
+        "bonus feat",
+        "material components",
+        "spell components"
+      ]
+    },
+    {
+      "id": "bloodrager_spell_casting",
+      "title": "Spell Casting (Bloodrager)",
+      "anchor_heading": "#### Spell Casting {#spell_casting}",
+      "description": "Beginning at 4th level, bloodragers can cast arcane spells from the bloodrager spell list using Charisma as their spellcasting ability. They cast spells known without preparation like sorcerers.",
+      "keywords": [
+        "spellcasting",
+        "arcane spells",
+        "Charisma",
+        "spells known",
+        "spell list",
+        "spell slots",
+        "bonus spells",
+        "DC calculation",
+        "spell swapping",
+        "bloodrager spell list",
+        "spontaneous casting"
+      ]
+    },
+    {
+      "id": "bloodrager_improved_uncanny_dodge_ex",
+      "title": "Improved Uncanny Dodge (Ex) (Bloodrager)",
+      "anchor_heading": "#### Improved Uncanny Dodge (Ex) {#improved_uncanny_dodge_ex}",
+      "description": "The bloodrager cannot be flanked, denying sneak attacks from flanking unless the attacker has at least 4 more rogue levels than the bloodrager has bloodrager levels.",
+      "keywords": [
+        "improved uncanny dodge",
+        "flanking",
+        "sneak attack",
+        "rogue levels",
+        "level stacking",
+        "multiclass",
+        "flanking immunity"
+      ]
+    },
+    {
+      "id": "bloodrager_damage_reduction_ex",
+      "title": "Damage Reduction (Ex) (Bloodrager)",
+      "anchor_heading": "#### Damage Reduction (Ex) {#damage_reduction_ex}",
+      "description": "Starting at 7th level, the bloodrager gains damage reduction 1/-, increasing by 1 every 3 levels thereafter, reducing damage from weapons and natural attacks.",
+      "keywords": [
+        "damage reduction",
+        "DR",
+        "weapon damage",
+        "natural attacks",
+        "damage reduction scaling"
+      ]
+    },
+    {
+      "id": "bloodrager_greater_bloodrage_su",
+      "title": "Greater Bloodrage (Su) (Bloodrager)",
+      "anchor_heading": "#### Greater Bloodrage (Su) {#greater_bloodrage_su}",
+      "description": "At 11th level, bloodrage bonuses increase to +6 Strength/Constitution and +3 Will saves, and the bloodrager can apply a 2nd level or lower bloodrager spell to himself when entering bloodrage.",
+      "keywords": [
+        "greater bloodrage",
+        "enhanced bonuses",
+        "spell application",
+        "touch spells",
+        "personal spells",
+        "spell slot consumption",
+        "barbarian greater rage",
+        "bloodrage duration"
+      ]
+    },
+    {
+      "id": "bloodrager_indomitable_will_ex",
+      "title": "Indomitable Will (Ex) (Bloodrager)",
+      "anchor_heading": "#### Indomitable Will (Ex) {#indomitable_will_ex}",
+      "description": "The bloodrager gains a +4 bonus on Will saves against enchantment spells while bloodraging, stacking with other bonuses including the bloodrage Will save bonus.",
+      "keywords": [
+        "indomitable will",
+        "enchantment resistance",
+        "Will save bonus",
+        "bloodrage bonus",
+        "stacking bonuses",
+        "enchantment spells"
+      ]
+    },
+    {
+      "id": "bloodrager_tireless_bloodrage_su",
+      "title": "Tireless Bloodrage (Su) (Bloodrager)",
+      "anchor_heading": "#### Tireless Bloodrage (Su) {#tireless_bloodrage_su}",
+      "description": "The bloodrager no longer becomes fatigued at the end of his bloodrage.",
+      "keywords": [
+        "tireless bloodrage",
+        "fatigue immunity",
+        "bloodrage recovery",
+        "no fatigue",
+        "endless rage"
+      ]
+    },
+    {
+      "id": "bloodrager_mighty_bloodrage_su",
+      "title": "Mighty Bloodrage (Su) (Bloodrager)",
+      "anchor_heading": "#### Mighty Bloodrage (Su) {#mighty_bloodrage_su}",
+      "description": "At 20th level, bloodrage bonuses increase to +8 Strength/Constitution and +4 Will saves, and the spell application from greater bloodrage is no longer limited to 2nd level or lower spells.",
+      "keywords": [
+        "mighty bloodrage",
+        "maximum bonuses",
+        "capstone ability",
+        "unlimited spell level",
+        "greater bloodrage enhancement"
+      ]
+    },
+    {
+      "id": "bloodrager_empowered_bloodrage_su",
+      "title": "Empowered Bloodrage (Su) (Bloodrager)",
+      "anchor_heading": "#### Empowered Bloodrage (Su) {#empowered_bloodrage_su}",
+      "description": "At 20th level, the bloodrager can apply two spells to himself when entering bloodrage instead of one.",
+      "keywords": [
+        "empowered bloodrage",
+        "two spells",
+        "dual spell application",
+        "capstone ability",
+        "spell stacking"
       ]
     }
-  ],
-  "category": "Classes"
+  ]
 }
