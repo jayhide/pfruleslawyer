@@ -1,0 +1,15 @@
+{
+  "file": "wild-rager.md",
+  "source_path": "https://www.d20pfsrd.com/classes/core-classes/barbarian/archetypes/paizo-barbarian-archetypes/wild-rager/",
+  "source_name": "Archetype: Wild Rager",
+  "sections": [
+    {
+      "id": "wild_rager",
+      "title": "Wild Rager",
+      "anchor_heading": "# Wild Rager",
+      "description": "Complete description of the Wild Rager archetype, including altered or replaced class features.",
+      "keywords": []
+    }
+  ],
+  "category": "Archetypes"
+}

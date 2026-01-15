@@ -1,0 +1,15 @@
+{
+  "file": "hospitaler.md",
+  "source_path": "https://www.d20pfsrd.com/classes/core-classes/paladin/archetypes/paizo-paladin-archetypes/hospitaler/",
+  "source_name": "Archetype: Hospitaler",
+  "sections": [
+    {
+      "id": "hospitaler",
+      "title": "Hospitaler",
+      "anchor_heading": "# Hospitaler",
+      "description": "Complete description of the Hospitaler archetype, including altered or replaced class features.",
+      "keywords": []
+    }
+  ],
+  "category": "Archetypes"
+}

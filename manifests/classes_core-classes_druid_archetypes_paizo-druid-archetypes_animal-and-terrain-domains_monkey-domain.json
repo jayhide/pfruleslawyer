@@ -1,0 +1,15 @@
+{
+  "file": "monkey-domain.md",
+  "source_path": "https://www.d20pfsrd.com/classes/core-classes/druid/archetypes/paizo-druid-archetypes/animal-and-terrain-domains/monkey-domain/",
+  "source_name": "Archetype: Monkey Domain",
+  "sections": [
+    {
+      "id": "monkey_domain",
+      "title": "Monkey Domain",
+      "anchor_heading": "# Monkey Domain",
+      "description": "Complete description of the Monkey Domain archetype, including altered or replaced class features.",
+      "keywords": []
+    }
+  ],
+  "category": "Archetypes"
+}

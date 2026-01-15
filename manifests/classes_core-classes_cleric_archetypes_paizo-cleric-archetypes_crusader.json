@@ -1,0 +1,15 @@
+{
+  "file": "crusader.md",
+  "source_path": "https://www.d20pfsrd.com/classes/core-classes/cleric/archetypes/paizo-cleric-archetypes/crusader/",
+  "source_name": "Archetype: Crusader",
+  "sections": [
+    {
+      "id": "crusader",
+      "title": "Crusader",
+      "anchor_heading": "# Crusader",
+      "description": "Complete description of the Crusader archetype, including altered or replaced class features.",
+      "keywords": []
+    }
+  ],
+  "category": "Archetypes"
+}

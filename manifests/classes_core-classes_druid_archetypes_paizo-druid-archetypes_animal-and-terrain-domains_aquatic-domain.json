@@ -1,0 +1,15 @@
+{
+  "file": "aquatic-domain.md",
+  "source_path": "https://www.d20pfsrd.com/classes/core-classes/druid/archetypes/paizo-druid-archetypes/animal-and-terrain-domains/aquatic-domain/",
+  "source_name": "Archetype: Aquatic Domain",
+  "sections": [
+    {
+      "id": "aquatic_domain",
+      "title": "Aquatic Domain",
+      "anchor_heading": "# Aquatic Domain",
+      "description": "Complete description of the Aquatic Domain archetype, including altered or replaced class features.",
+      "keywords": []
+    }
+  ],
+  "category": "Archetypes"
+}

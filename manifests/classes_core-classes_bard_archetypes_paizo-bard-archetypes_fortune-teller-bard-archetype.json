@@ -1,0 +1,15 @@
+{
+  "file": "fortune-teller-bard-archetype.md",
+  "source_path": "https://www.d20pfsrd.com/classes/core-classes/bard/archetypes/paizo-bard-archetypes/fortune-teller-bard-archetype/",
+  "source_name": "Archetype: Fortune-Teller",
+  "sections": [
+    {
+      "id": "fortune_teller_bard_archetype",
+      "title": "Fortune-Teller",
+      "anchor_heading": "# Fortune-Teller",
+      "description": "Complete description of the Fortune-Teller archetype, including altered or replaced class features.",
+      "keywords": []
+    }
+  ],
+  "category": "Archetypes"
+}

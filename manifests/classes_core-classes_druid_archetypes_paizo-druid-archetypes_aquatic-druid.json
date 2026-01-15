@@ -1,0 +1,15 @@
+{
+  "file": "aquatic-druid.md",
+  "source_path": "https://www.d20pfsrd.com/classes/core-classes/druid/archetypes/paizo-druid-archetypes/aquatic-druid/",
+  "source_name": "Archetype: Aquatic Druid",
+  "sections": [
+    {
+      "id": "aquatic_druid",
+      "title": "Aquatic Druid",
+      "anchor_heading": "# Aquatic Druid",
+      "description": "Complete description of the Aquatic Druid archetype, including altered or replaced class features.",
+      "keywords": []
+    }
+  ],
+  "category": "Archetypes"
+}

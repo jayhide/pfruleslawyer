@@ -1,0 +1,15 @@
+{
+  "file": "sea-witch.md",
+  "source_path": "https://www.d20pfsrd.com/classes/base-classes/witch/archetypes/paizo-witch-archetypes/sea-witch/",
+  "source_name": "Archetype: Sea Witch",
+  "sections": [
+    {
+      "id": "sea_witch",
+      "title": "Sea Witch",
+      "anchor_heading": "# Sea Witch",
+      "description": "Complete description of the Sea Witch archetype, including altered or replaced class features.",
+      "keywords": []
+    }
+  ],
+  "category": "Archetypes"
+}

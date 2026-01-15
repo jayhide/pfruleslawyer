@@ -1,0 +1,15 @@
+{
+  "file": "chirurgeon.md",
+  "source_path": "https://www.d20pfsrd.com/classes/base-classes/alchemist/archetypes/paizo-alchemist-archetypes/chirurgeon/",
+  "source_name": "Archetype: Chirurgeon",
+  "sections": [
+    {
+      "id": "chirurgeon",
+      "title": "Chirurgeon",
+      "anchor_heading": "# Chirurgeon",
+      "description": "Complete description of the Chirurgeon archetype, including altered or replaced class features.",
+      "keywords": []
+    }
+  ],
+  "category": "Archetypes"
+}

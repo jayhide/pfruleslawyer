@@ -1,0 +1,15 @@
+{
+  "file": "deep-walker.md",
+  "source_path": "https://www.d20pfsrd.com/classes/core-classes/ranger/archetypes/paizo-ranger-archetypes/deep-walker/",
+  "source_name": "Archetype: Deep Walker",
+  "sections": [
+    {
+      "id": "deep_walker",
+      "title": "Deep Walker",
+      "anchor_heading": "# Deep Walker",
+      "description": "Complete description of the Deep Walker archetype, including altered or replaced class features.",
+      "keywords": []
+    }
+  ],
+  "category": "Archetypes"
+}

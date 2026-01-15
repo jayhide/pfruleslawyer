@@ -1,0 +1,15 @@
+{
+  "file": "hidden-priest.md",
+  "source_path": "https://www.d20pfsrd.com/classes/core-classes/cleric/archetypes/paizo-cleric-archetypes/hidden-priest/",
+  "source_name": "Archetype: Hidden Priest",
+  "sections": [
+    {
+      "id": "hidden_priest",
+      "title": "Hidden Priest",
+      "anchor_heading": "# Hidden Priest",
+      "description": "Complete description of the Hidden Priest archetype, including altered or replaced class features.",
+      "keywords": []
+    }
+  ],
+  "category": "Archetypes"
+}

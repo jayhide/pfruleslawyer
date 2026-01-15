@@ -1,0 +1,15 @@
+{
+  "file": "wild-hunter.md",
+  "source_path": "https://www.d20pfsrd.com/classes/core-classes/ranger/archetypes/paizo-ranger-archetypes/wild-hunter/",
+  "source_name": "Archetype: Wild Hunter",
+  "sections": [
+    {
+      "id": "wild_hunter",
+      "title": "Wild Hunter",
+      "anchor_heading": "# Wild Hunter",
+      "description": "Complete description of the Wild Hunter archetype, including altered or replaced class features.",
+      "keywords": []
+    }
+  ],
+  "category": "Archetypes"
+}

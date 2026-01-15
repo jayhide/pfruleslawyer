@@ -1,0 +1,15 @@
+{
+  "file": "tempest-druid-druid-archetype.md",
+  "source_path": "https://www.d20pfsrd.com/classes/core-classes/druid/archetypes/paizo-druid-archetypes/tempest-druid-druid-archetype/",
+  "source_name": "Archetype: Tempest Druid",
+  "sections": [
+    {
+      "id": "tempest_druid_druid_archetype",
+      "title": "Tempest Druid",
+      "anchor_heading": "# Tempest Druid",
+      "description": "Complete description of the Tempest Druid archetype, including altered or replaced class features.",
+      "keywords": []
+    }
+  ],
+  "category": "Archetypes"
+}

@@ -1,0 +1,15 @@
+{
+  "file": "martial-artist.md",
+  "source_path": "https://www.d20pfsrd.com/classes/core-classes/monk/archetypes/paizo-monk-archetypes/martial-artist/",
+  "source_name": "Archetype: Martial Artist",
+  "sections": [
+    {
+      "id": "martial_artist",
+      "title": "Martial Artist",
+      "anchor_heading": "# Martial Artist",
+      "description": "Complete description of the Martial Artist archetype, including altered or replaced class features.",
+      "keywords": []
+    }
+  ],
+  "category": "Archetypes"
+}

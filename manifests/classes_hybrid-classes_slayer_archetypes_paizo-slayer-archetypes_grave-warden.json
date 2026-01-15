@@ -1,0 +1,15 @@
+{
+  "file": "grave-warden.md",
+  "source_path": "https://www.d20pfsrd.com/classes/hybrid-classes/slayer/archetypes/paizo-slayer-archetypes/grave-warden/",
+  "source_name": "Archetype: Grave Warden",
+  "sections": [
+    {
+      "id": "grave_warden",
+      "title": "Grave Warden",
+      "anchor_heading": "# Grave Warden",
+      "description": "Complete description of the Grave Warden archetype, including altered or replaced class features.",
+      "keywords": []
+    }
+  ],
+  "category": "Archetypes"
+}

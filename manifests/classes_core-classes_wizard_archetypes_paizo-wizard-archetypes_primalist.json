@@ -1,0 +1,15 @@
+{
+  "file": "primalist.md",
+  "source_path": "https://www.d20pfsrd.com/classes/core-classes/wizard/archetypes/paizo-wizard-archetypes/primalist/",
+  "source_name": "Archetype: Primalist",
+  "sections": [
+    {
+      "id": "primalist",
+      "title": "Primalist",
+      "anchor_heading": "# Primalist",
+      "description": "Complete description of the Primalist archetype, including altered or replaced class features.",
+      "keywords": []
+    }
+  ],
+  "category": "Archetypes"
+}

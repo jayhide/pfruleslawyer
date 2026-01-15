@@ -1,0 +1,15 @@
+{
+  "file": "restorer.md",
+  "source_path": "https://www.d20pfsrd.com/classes/core-classes/druid/archetypes/paizo-druid-archetypes/restorer/",
+  "source_name": "Archetype: Restorer",
+  "sections": [
+    {
+      "id": "restorer",
+      "title": "Restorer",
+      "anchor_heading": "# Restorer",
+      "description": "Complete description of the Restorer archetype, including altered or replaced class features.",
+      "keywords": []
+    }
+  ],
+  "category": "Archetypes"
+}

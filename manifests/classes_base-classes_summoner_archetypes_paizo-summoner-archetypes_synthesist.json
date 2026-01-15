@@ -1,0 +1,15 @@
+{
+  "file": "synthesist.md",
+  "source_path": "https://www.d20pfsrd.com/classes/base-classes/summoner/archetypes/paizo-summoner-archetypes/synthesist/",
+  "source_name": "Archetype: Synthesist",
+  "sections": [
+    {
+      "id": "synthesist",
+      "title": "Synthesist",
+      "anchor_heading": "# Synthesist",
+      "description": "Complete description of the Synthesist archetype, including altered or replaced class features.",
+      "keywords": []
+    }
+  ],
+  "category": "Archetypes"
+}

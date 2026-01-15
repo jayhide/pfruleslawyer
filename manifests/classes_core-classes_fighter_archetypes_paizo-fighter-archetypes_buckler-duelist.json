@@ -1,0 +1,15 @@
+{
+  "file": "buckler-duelist.md",
+  "source_path": "https://www.d20pfsrd.com/classes/core-classes/fighter/archetypes/paizo-fighter-archetypes/buckler-duelist/",
+  "source_name": "Archetype: Buckler Duelist",
+  "sections": [
+    {
+      "id": "buckler_duelist",
+      "title": "Buckler Duelist",
+      "anchor_heading": "# Buckler Duelist",
+      "description": "Complete description of the Buckler Duelist archetype, including altered or replaced class features.",
+      "keywords": []
+    }
+  ],
+  "category": "Archetypes"
+}

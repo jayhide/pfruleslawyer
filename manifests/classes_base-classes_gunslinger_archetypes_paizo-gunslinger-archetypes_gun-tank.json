@@ -1,0 +1,15 @@
+{
+  "file": "gun-tank.md",
+  "source_path": "https://www.d20pfsrd.com/classes/base-classes/gunslinger/archetypes/paizo-gunslinger-archetypes/gun-tank/",
+  "source_name": "Archetype: Gun Tank",
+  "sections": [
+    {
+      "id": "gun_tank",
+      "title": "Gun Tank",
+      "anchor_heading": "# Gun Tank",
+      "description": "Complete description of the Gun Tank archetype, including altered or replaced class features.",
+      "keywords": []
+    }
+  ],
+  "category": "Archetypes"
+}

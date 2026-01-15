@@ -1,0 +1,15 @@
+{
+  "file": "witch-doctor.md",
+  "source_path": "https://www.d20pfsrd.com/classes/hybrid-classes/shaman/archetypes/paizo-shaman-archetypes/witch-doctor/",
+  "source_name": "Archetype: Witch Doctor",
+  "sections": [
+    {
+      "id": "witch_doctor",
+      "title": "Witch Doctor",
+      "anchor_heading": "# Witch Doctor",
+      "description": "Complete description of the Witch Doctor archetype, including altered or replaced class features.",
+      "keywords": []
+    }
+  ],
+  "category": "Archetypes"
+}

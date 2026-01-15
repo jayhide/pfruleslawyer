@@ -1,0 +1,15 @@
+{
+  "file": "musket-master.md",
+  "source_path": "https://www.d20pfsrd.com/classes/base-classes/gunslinger/archetypes/paizo-gunslinger-archetypes/musket-master/",
+  "source_name": "Archetype: Musket Master",
+  "sections": [
+    {
+      "id": "musket_master",
+      "title": "Musket Master",
+      "anchor_heading": "# Musket Master",
+      "description": "Complete description of the Musket Master archetype, including altered or replaced class features.",
+      "keywords": []
+    }
+  ],
+  "category": "Archetypes"
+}

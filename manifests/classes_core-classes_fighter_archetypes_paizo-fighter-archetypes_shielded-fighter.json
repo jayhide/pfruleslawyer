@@ -1,0 +1,15 @@
+{
+  "file": "shielded-fighter.md",
+  "source_path": "https://www.d20pfsrd.com/classes/core-classes/fighter/archetypes/paizo-fighter-archetypes/shielded-fighter/",
+  "source_name": "Archetype: Shielded Fighter",
+  "sections": [
+    {
+      "id": "shielded_fighter",
+      "title": "Shielded Fighter",
+      "anchor_heading": "# Shielded Fighter",
+      "description": "Complete description of the Shielded Fighter archetype, including altered or replaced class features.",
+      "keywords": []
+    }
+  ],
+  "category": "Archetypes"
+}

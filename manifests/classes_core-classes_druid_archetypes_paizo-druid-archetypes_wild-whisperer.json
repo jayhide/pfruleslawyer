@@ -1,0 +1,15 @@
+{
+  "file": "wild-whisperer.md",
+  "source_path": "https://www.d20pfsrd.com/classes/core-classes/druid/archetypes/paizo-druid-archetypes/wild-whisperer/",
+  "source_name": "Archetype: Wild Whisperer",
+  "sections": [
+    {
+      "id": "wild_whisperer",
+      "title": "Wild Whisperer",
+      "anchor_heading": "# Wild Whisperer",
+      "description": "Complete description of the Wild Whisperer archetype, including altered or replaced class features.",
+      "keywords": []
+    }
+  ],
+  "category": "Archetypes"
+}

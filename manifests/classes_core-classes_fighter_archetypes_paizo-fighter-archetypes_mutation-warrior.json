@@ -1,0 +1,15 @@
+{
+  "file": "mutation-warrior.md",
+  "source_path": "https://www.d20pfsrd.com/classes/core-classes/fighter/archetypes/paizo-fighter-archetypes/mutation-warrior/",
+  "source_name": "Archetype: Mutation Warrior",
+  "sections": [
+    {
+      "id": "mutation_warrior",
+      "title": "Mutation Warrior",
+      "anchor_heading": "# Mutation Warrior",
+      "description": "Complete description of the Mutation Warrior archetype, including altered or replaced class features.",
+      "keywords": []
+    }
+  ],
+  "category": "Archetypes"
+}

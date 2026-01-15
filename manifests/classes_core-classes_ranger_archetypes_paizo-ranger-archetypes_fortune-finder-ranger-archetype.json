@@ -1,0 +1,15 @@
+{
+  "file": "fortune-finder-ranger-archetype.md",
+  "source_path": "https://www.d20pfsrd.com/classes/core-classes/ranger/archetypes/paizo-ranger-archetypes/fortune-finder-ranger-archetype/",
+  "source_name": "Archetype: Fortune Finder",
+  "sections": [
+    {
+      "id": "fortune_finder_ranger_archetype",
+      "title": "Fortune Finder",
+      "anchor_heading": "# Fortune Finder",
+      "description": "Complete description of the Fortune Finder archetype, including altered or replaced class features.",
+      "keywords": []
+    }
+  ],
+  "category": "Archetypes"
+}

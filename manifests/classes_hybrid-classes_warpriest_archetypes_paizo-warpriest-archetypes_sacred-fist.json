@@ -1,0 +1,15 @@
+{
+  "file": "sacred-fist.md",
+  "source_path": "https://www.d20pfsrd.com/classes/hybrid-classes/warpriest/archetypes/paizo-warpriest-archetypes/sacred-fist/",
+  "source_name": "Archetype: Sacred Fist",
+  "sections": [
+    {
+      "id": "sacred_fist",
+      "title": "Sacred Fist",
+      "anchor_heading": "# Sacred Fist",
+      "description": "Complete description of the Sacred Fist archetype, including altered or replaced class features.",
+      "keywords": []
+    }
+  ],
+  "category": "Archetypes"
+}

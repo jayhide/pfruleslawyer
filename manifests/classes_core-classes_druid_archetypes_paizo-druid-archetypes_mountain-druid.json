@@ -1,0 +1,15 @@
+{
+  "file": "mountain-druid.md",
+  "source_path": "https://www.d20pfsrd.com/classes/core-classes/druid/archetypes/paizo-druid-archetypes/mountain-druid/",
+  "source_name": "Archetype: Mountain Druid",
+  "sections": [
+    {
+      "id": "mountain_druid",
+      "title": "Mountain Druid",
+      "anchor_heading": "# Mountain Druid",
+      "description": "Complete description of the Mountain Druid archetype, including altered or replaced class features.",
+      "keywords": []
+    }
+  ],
+  "category": "Archetypes"
+}

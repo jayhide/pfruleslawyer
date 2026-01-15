@@ -1,0 +1,15 @@
+{
+  "file": "gladiator.md",
+  "source_path": "https://www.d20pfsrd.com/classes/core-classes/fighter/archetypes/paizo-fighter-archetypes/gladiator/",
+  "source_name": "Archetype: Gladiator",
+  "sections": [
+    {
+      "id": "gladiator",
+      "title": "Gladiator",
+      "anchor_heading": "# Gladiator",
+      "description": "Complete description of the Gladiator archetype, including altered or replaced class features.",
+      "keywords": []
+    }
+  ],
+  "category": "Archetypes"
+}

@@ -1,0 +1,15 @@
+{
+  "file": "sea-reaver.md",
+  "source_path": "https://www.d20pfsrd.com/classes/core-classes/barbarian/archetypes/paizo-barbarian-archetypes/sea-reaver/",
+  "source_name": "Archetype: Sea Reaver",
+  "sections": [
+    {
+      "id": "sea_reaver",
+      "title": "Sea Reaver",
+      "anchor_heading": "# Sea Reaver",
+      "description": "Complete description of the Sea Reaver archetype, including altered or replaced class features.",
+      "keywords": []
+    }
+  ],
+  "category": "Archetypes"
+}

@@ -1,0 +1,15 @@
+{
+  "file": "scrapper-fighter-archetype.md",
+  "source_path": "https://www.d20pfsrd.com/classes/core-classes/fighter/archetypes/paizo-fighter-archetypes/scrapper-fighter-archetype/",
+  "source_name": "Archetype: Scrapper",
+  "sections": [
+    {
+      "id": "scrapper_fighter_archetype",
+      "title": "Scrapper",
+      "anchor_heading": "# Scrapper",
+      "description": "Complete description of the Scrapper archetype, including altered or replaced class features.",
+      "keywords": []
+    }
+  ],
+  "category": "Archetypes"
+}

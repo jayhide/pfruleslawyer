@@ -1,0 +1,15 @@
+{
+  "file": "rake.md",
+  "source_path": "https://www.d20pfsrd.com/classes/core-classes/rogue/archetypes/paizo-rogue-archetypes/rake/",
+  "source_name": "Archetype: Rake",
+  "sections": [
+    {
+      "id": "rake",
+      "title": "Rake",
+      "anchor_heading": "# Rake",
+      "description": "Complete description of the Rake archetype, including altered or replaced class features.",
+      "keywords": []
+    }
+  ],
+  "category": "Archetypes"
+}

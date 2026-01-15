@@ -1,0 +1,15 @@
+{
+  "file": "spirit-guide.md",
+  "source_path": "https://www.d20pfsrd.com/classes/base-classes/oracle/archetypes/paizo-oracle-archetypes/spirit-guide/",
+  "source_name": "Archetype: Spirit Guide",
+  "sections": [
+    {
+      "id": "spirit_guide",
+      "title": "Spirit Guide",
+      "anchor_heading": "# Spirit Guide",
+      "description": "Complete description of the Spirit Guide archetype, including altered or replaced class features.",
+      "keywords": []
+    }
+  ],
+  "category": "Archetypes"
+}

@@ -1,0 +1,15 @@
+{
+  "file": "poisoner.md",
+  "source_path": "https://www.d20pfsrd.com/classes/core-classes/rogue/archetypes/paizo-rogue-archetypes/poisoner/",
+  "source_name": "Archetype: Poisoner",
+  "sections": [
+    {
+      "id": "poisoner",
+      "title": "Poisoner",
+      "anchor_heading": "# Poisoner",
+      "description": "Complete description of the Poisoner archetype, including altered or replaced class features.",
+      "keywords": []
+    }
+  ],
+  "category": "Archetypes"
+}

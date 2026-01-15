@@ -17,7 +17,7 @@ poetry is used to track dependencies and maintain the environment for running co
 - `chunking_prompt.py` - Prompt template for LLM-powered section extraction
 - `section_extractor.py` - Extracts section content using manifests
 - `vector_store.py` - ChromaDB vector store for semantic search
-- `vectordb/` - Persisted vector database
+- `vectordb/` - Persisted vector database (ChromaDB + metadata_only.json)
 - `rules_lawyer.py` - RAG-powered rules Q&A interface
 
 ## Section Preprocessing
@@ -82,11 +82,45 @@ Edit `preprocess_config.json` to specify URLs to process:
 - `url` - Exact URL match
 - `urls` - List of exact URL matches
 - `pattern` - Glob pattern (supports `*` wildcard)
-- `mode` - `"full"` (multiple sections) or `"simple"` (single section)
-- `category` - Human-readable name for filtering
+- `mode` - `"full"` (multiple sections), `"simple"` (single section), or `"template"` (no LLM)
+- `category` - Human-readable name for filtering and search weight customization
 - `name` - (optional) Source name for manifests (overrides auto-generated name)
 - `name_prefix` - (optional) Prefix for source name, combined with page title (e.g., `"Skill"` → "Skill: Acrobatics")
 - `exclude` - (optional) URLs to skip within a pattern
+
+### Category Weights
+
+Categories can have custom search weights defined in `preprocess_config.json`:
+
+```json
+{
+  "category_weights": {
+    "_default": {
+      "semantic_weight": 1.0,
+      "keyword_boost": 0.2,
+      "subheading_boost": 0.2,
+      "title_boost": 0.3,
+      "rerank_weight": 0.4
+    },
+    "Spells": {
+      "semantic_weight": 0.0,
+      "title_boost": 1.0,
+      "rerank_weight": 0.2
+    },
+    "Archetypes": {
+      "semantic_weight": 0.0,
+      "title_boost": 1.0,
+      "rerank_weight": 0.2
+    }
+  }
+}
+```
+
+Categories with `semantic_weight: 0` (like Spells and Archetypes) use **title-only matching**:
+- They are NOT embedded in ChromaDB (saves indexing time and storage)
+- They are stored as metadata-only in `vectordb/metadata_only.json`
+- Queries only match them when the title matches (e.g., "fireball" matches Fireball spell)
+- This prevents retrieving a wizard archetype just because "wizard" was mentioned
 
 ### Output Format
 
@@ -105,7 +139,7 @@ Use `SectionExtractor` to load and search sections:
 from section_extractor import SectionExtractor
 
 extractor = SectionExtractor()
-sections = extractor.load_all_sections()  # 301 sections
+sections = extractor.load_all_sections()  # ~5,300 sections
 
 # Search by text (matches title, description, keywords)
 results = extractor.search_by_text("grapple")
@@ -129,6 +163,12 @@ poetry run python vector_store.py --build
 poetry run python vector_store.py -q "how does grappling work"
 poetry run python vector_store.py -q "attack of opportunity" -n 10
 ```
+
+The index splits sections into two storage types based on category weights:
+- **Semantic sections** (~1,400): Embedded in ChromaDB for semantic similarity search
+- **Metadata-only sections** (~3,800): Stored in JSON for title/keyword matching only
+
+This optimization reduces index build time and improves query performance for categories like Spells and Archetypes that use title-only matching.
 
 Or use programmatically:
 

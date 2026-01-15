@@ -1,0 +1,15 @@
+{
+  "file": "survivalist.md",
+  "source_path": "https://www.d20pfsrd.com/classes/core-classes/rogue/archetypes/paizo-rogue-archetypes/survivalist/",
+  "source_name": "Archetype: Survivalist",
+  "sections": [
+    {
+      "id": "survivalist",
+      "title": "Survivalist",
+      "anchor_heading": "# Survivalist",
+      "description": "Complete description of the Survivalist archetype, including altered or replaced class features.",
+      "keywords": []
+    }
+  ],
+  "category": "Archetypes"
+}

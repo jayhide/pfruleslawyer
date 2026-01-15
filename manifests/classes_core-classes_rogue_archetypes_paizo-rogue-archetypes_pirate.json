@@ -1,0 +1,15 @@
+{
+  "file": "pirate.md",
+  "source_path": "https://www.d20pfsrd.com/classes/core-classes/rogue/archetypes/paizo-rogue-archetypes/pirate/",
+  "source_name": "Archetype: Pirate",
+  "sections": [
+    {
+      "id": "pirate",
+      "title": "Pirate",
+      "anchor_heading": "# Pirate",
+      "description": "Complete description of the Pirate archetype, including altered or replaced class features.",
+      "keywords": []
+    }
+  ],
+  "category": "Archetypes"
+}

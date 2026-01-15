@@ -1,0 +1,15 @@
+{
+  "file": "naturalist.md",
+  "source_path": "https://www.d20pfsrd.com/classes/base-classes/summoner/archetypes/paizo-summoner-archetypes/naturalist/",
+  "source_name": "Archetype: Naturalist",
+  "sections": [
+    {
+      "id": "naturalist",
+      "title": "Naturalist",
+      "anchor_heading": "# Naturalist",
+      "description": "Complete description of the Naturalist archetype, including altered or replaced class features.",
+      "keywords": []
+    }
+  ],
+  "category": "Archetypes"
+}

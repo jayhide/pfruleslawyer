@@ -1,0 +1,15 @@
+{
+  "file": "circuit-judge.md",
+  "source_path": "https://www.d20pfsrd.com/classes/base-classes/cavalier/archetypes/paizo-cavalier-archetypes/circuit-judge/",
+  "source_name": "Archetype: Circuit Judge",
+  "sections": [
+    {
+      "id": "circuit_judge",
+      "title": "Circuit Judge",
+      "anchor_heading": "# Circuit Judge",
+      "description": "Complete description of the Circuit Judge archetype, including altered or replaced class features.",
+      "keywords": []
+    }
+  ],
+  "category": "Archetypes"
+}

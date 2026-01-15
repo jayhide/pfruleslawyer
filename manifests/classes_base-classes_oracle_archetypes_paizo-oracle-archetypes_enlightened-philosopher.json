@@ -1,0 +1,15 @@
+{
+  "file": "enlightened-philosopher.md",
+  "source_path": "https://www.d20pfsrd.com/classes/base-classes/oracle/archetypes/paizo-oracle-archetypes/enlightened-philosopher/",
+  "source_name": "Archetype: Enlightened Philosopher",
+  "sections": [
+    {
+      "id": "enlightened_philosopher",
+      "title": "Enlightened Philosopher",
+      "anchor_heading": "# Enlightened Philosopher",
+      "description": "Complete description of the Enlightened Philosopher archetype, including altered or replaced class features.",
+      "keywords": []
+    }
+  ],
+  "category": "Archetypes"
+}

@@ -1,0 +1,15 @@
+{
+  "file": "celebrity.md",
+  "source_path": "https://www.d20pfsrd.com/classes/core-classes/bard/archetypes/paizo-bard-archetypes/celebrity/",
+  "source_name": "Archetype: Celebrity",
+  "sections": [
+    {
+      "id": "celebrity",
+      "title": "Celebrity",
+      "anchor_heading": "# Celebrity",
+      "description": "Complete description of the Celebrity archetype, including altered or replaced class features.",
+      "keywords": []
+    }
+  ],
+  "category": "Archetypes"
+}

@@ -1,0 +1,15 @@
+{
+  "file": "desert-druid.md",
+  "source_path": "https://www.d20pfsrd.com/classes/core-classes/druid/archetypes/paizo-druid-archetypes/desert-druid/",
+  "source_name": "Archetype: Desert Druid",
+  "sections": [
+    {
+      "id": "desert_druid",
+      "title": "Desert Druid",
+      "anchor_heading": "# Desert Druid",
+      "description": "Complete description of the Desert Druid archetype, including altered or replaced class features.",
+      "keywords": []
+    }
+  ],
+  "category": "Archetypes"
+}

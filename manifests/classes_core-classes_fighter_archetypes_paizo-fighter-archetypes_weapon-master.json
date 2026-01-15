@@ -1,0 +1,15 @@
+{
+  "file": "weapon-master.md",
+  "source_path": "https://www.d20pfsrd.com/classes/core-classes/fighter/archetypes/paizo-fighter-archetypes/weapon-master/",
+  "source_name": "Archetype: Weapon Master",
+  "sections": [
+    {
+      "id": "weapon_master",
+      "title": "Weapon Master",
+      "anchor_heading": "# Weapon Master",
+      "description": "Complete description of the Weapon Master archetype, including altered or replaced class features.",
+      "keywords": []
+    }
+  ],
+  "category": "Archetypes"
+}

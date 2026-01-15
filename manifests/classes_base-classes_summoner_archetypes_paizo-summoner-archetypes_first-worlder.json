@@ -1,0 +1,15 @@
+{
+  "file": "first-worlder.md",
+  "source_path": "https://www.d20pfsrd.com/classes/base-classes/summoner/archetypes/paizo-summoner-archetypes/first-worlder/",
+  "source_name": "Archetype: First Worlder",
+  "sections": [
+    {
+      "id": "first_worlder",
+      "title": "First Worlder",
+      "anchor_heading": "# First Worlder",
+      "description": "Complete description of the First Worlder archetype, including altered or replaced class features.",
+      "keywords": []
+    }
+  ],
+  "category": "Archetypes"
+}

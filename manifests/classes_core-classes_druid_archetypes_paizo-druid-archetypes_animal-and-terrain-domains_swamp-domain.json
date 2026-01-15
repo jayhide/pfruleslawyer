@@ -1,0 +1,15 @@
+{
+  "file": "swamp-domain.md",
+  "source_path": "https://www.d20pfsrd.com/classes/core-classes/druid/archetypes/paizo-druid-archetypes/animal-and-terrain-domains/swamp-domain/",
+  "source_name": "Archetype: Swamp Domain",
+  "sections": [
+    {
+      "id": "swamp_domain",
+      "title": "Swamp Domain",
+      "anchor_heading": "# Swamp Domain",
+      "description": "Complete description of the Swamp Domain archetype, including altered or replaced class features.",
+      "keywords": []
+    }
+  ],
+  "category": "Archetypes"
+}

@@ -1,0 +1,15 @@
+{
+  "file": "ranger-traps.md",
+  "source_path": "https://www.d20pfsrd.com/classes/core-classes/ranger/archetypes/paizo-ranger-archetypes/trapper/ranger-traps/",
+  "source_name": "Archetype: Ranger Traps",
+  "sections": [
+    {
+      "id": "ranger_traps",
+      "title": "Ranger Traps",
+      "anchor_heading": "# Ranger Traps",
+      "description": "Complete description of the Ranger Traps archetype, including altered or replaced class features.",
+      "keywords": []
+    }
+  ],
+  "category": "Archetypes"
+}

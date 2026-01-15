@@ -1,0 +1,15 @@
+{
+  "file": "storm-druid.md",
+  "source_path": "https://www.d20pfsrd.com/classes/core-classes/druid/archetypes/paizo-druid-archetypes/storm-druid/",
+  "source_name": "Archetype: Storm Druid",
+  "sections": [
+    {
+      "id": "storm_druid",
+      "title": "Storm Druid",
+      "anchor_heading": "# Storm Druid",
+      "description": "Complete description of the Storm Druid archetype, including altered or replaced class features.",
+      "keywords": []
+    }
+  ],
+  "category": "Archetypes"
+}

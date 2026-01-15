@@ -1,0 +1,15 @@
+{
+  "file": "street-performer.md",
+  "source_path": "https://www.d20pfsrd.com/classes/core-classes/bard/archetypes/paizo-bard-archetypes/street-performer/",
+  "source_name": "Archetype: Street Performer",
+  "sections": [
+    {
+      "id": "street_performer",
+      "title": "Street Performer",
+      "anchor_heading": "# Street Performer",
+      "description": "Complete description of the Street Performer archetype, including altered or replaced class features.",
+      "keywords": []
+    }
+  ],
+  "category": "Archetypes"
+}

@@ -1,0 +1,15 @@
+{
+  "file": "serpent-domain.md",
+  "source_path": "https://www.d20pfsrd.com/classes/core-classes/druid/archetypes/paizo-druid-archetypes/animal-and-terrain-domains/serpent-domain/",
+  "source_name": "Archetype: Serpent Domain",
+  "sections": [
+    {
+      "id": "serpent_domain",
+      "title": "Serpent Domain",
+      "anchor_heading": "# Serpent Domain",
+      "description": "Complete description of the Serpent Domain archetype, including altered or replaced class features.",
+      "keywords": []
+    }
+  ],
+  "category": "Archetypes"
+}

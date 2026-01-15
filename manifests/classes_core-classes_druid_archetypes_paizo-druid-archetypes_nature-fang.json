@@ -1,0 +1,15 @@
+{
+  "file": "nature-fang.md",
+  "source_path": "https://www.d20pfsrd.com/classes/core-classes/druid/archetypes/paizo-druid-archetypes/nature-fang/",
+  "source_name": "Archetype: Nature Fang",
+  "sections": [
+    {
+      "id": "nature_fang",
+      "title": "Nature Fang",
+      "anchor_heading": "# Nature Fang",
+      "description": "Complete description of the Nature Fang archetype, including altered or replaced class features.",
+      "keywords": []
+    }
+  ],
+  "category": "Archetypes"
+}

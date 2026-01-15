@@ -1,0 +1,15 @@
+{
+  "file": "swamp-druid.md",
+  "source_path": "https://www.d20pfsrd.com/classes/core-classes/druid/archetypes/paizo-druid-archetypes/swamp-druid/",
+  "source_name": "Archetype: Swamp Druid",
+  "sections": [
+    {
+      "id": "swamp_druid",
+      "title": "Swamp Druid",
+      "anchor_heading": "# Swamp Druid",
+      "description": "Complete description of the Swamp Druid archetype, including altered or replaced class features.",
+      "keywords": []
+    }
+  ],
+  "category": "Archetypes"
+}

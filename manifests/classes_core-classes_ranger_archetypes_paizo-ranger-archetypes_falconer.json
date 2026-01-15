@@ -1,0 +1,15 @@
+{
+  "file": "falconer.md",
+  "source_path": "https://www.d20pfsrd.com/classes/core-classes/ranger/archetypes/paizo-ranger-archetypes/falconer/",
+  "source_name": "Archetype: Falconer",
+  "sections": [
+    {
+      "id": "falconer",
+      "title": "Falconer",
+      "anchor_heading": "# Falconer",
+      "description": "Complete description of the Falconer archetype, including altered or replaced class features.",
+      "keywords": []
+    }
+  ],
+  "category": "Archetypes"
+}

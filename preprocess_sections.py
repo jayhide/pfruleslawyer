@@ -52,6 +52,7 @@ CATEGORY_TEMPLATES = {
 CATEGORY_DESCRIPTION_TEMPLATES = {
     "Spells": "Full description of the spell {title}, including casting time, components, range, and effects.",
     "Feats": "Complete rules for the feat {title}, including prerequisites and benefits.",
+    "Archetypes": "Complete description of the {title} archetype, including altered or replaced class features.",
 }
 
 

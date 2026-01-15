@@ -1,0 +1,15 @@
+{
+  "file": "plains-druid.md",
+  "source_path": "https://www.d20pfsrd.com/classes/core-classes/druid/archetypes/paizo-druid-archetypes/plains-druid/",
+  "source_name": "Archetype: Plains Druid",
+  "sections": [
+    {
+      "id": "plains_druid",
+      "title": "Plains Druid",
+      "anchor_heading": "# Plains Druid",
+      "description": "Complete description of the Plains Druid archetype, including altered or replaced class features.",
+      "keywords": []
+    }
+  ],
+  "category": "Archetypes"
+}

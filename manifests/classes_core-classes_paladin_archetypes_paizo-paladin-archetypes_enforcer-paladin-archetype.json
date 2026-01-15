@@ -1,0 +1,15 @@
+{
+  "file": "enforcer-paladin-archetype.md",
+  "source_path": "https://www.d20pfsrd.com/classes/core-classes/paladin/archetypes/paizo-paladin-archetypes/enforcer-paladin-archetype/",
+  "source_name": "Archetype: Enforcer",
+  "sections": [
+    {
+      "id": "enforcer_paladin_archetype",
+      "title": "Enforcer",
+      "anchor_heading": "# Enforcer",
+      "description": "Complete description of the Enforcer archetype, including altered or replaced class features.",
+      "keywords": []
+    }
+  ],
+  "category": "Archetypes"
+}

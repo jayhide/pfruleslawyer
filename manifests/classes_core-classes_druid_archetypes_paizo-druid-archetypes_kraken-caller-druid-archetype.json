@@ -1,0 +1,15 @@
+{
+  "file": "kraken-caller-druid-archetype.md",
+  "source_path": "https://www.d20pfsrd.com/classes/core-classes/druid/archetypes/paizo-druid-archetypes/kraken-caller-druid-archetype/",
+  "source_name": "Archetype: Kraken Caller",
+  "sections": [
+    {
+      "id": "kraken_caller_druid_archetype",
+      "title": "Kraken Caller",
+      "anchor_heading": "# Kraken Caller",
+      "description": "Complete description of the Kraken Caller archetype, including altered or replaced class features.",
+      "keywords": []
+    }
+  ],
+  "category": "Archetypes"
+}

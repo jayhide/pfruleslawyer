@@ -1,0 +1,15 @@
+{
+  "file": "vulture-domain.md",
+  "source_path": "https://www.d20pfsrd.com/classes/core-classes/druid/archetypes/paizo-druid-archetypes/animal-and-terrain-domains/vulture-domain/",
+  "source_name": "Archetype: Vulture Domain",
+  "sections": [
+    {
+      "id": "vulture_domain",
+      "title": "Vulture Domain",
+      "anchor_heading": "# Vulture Domain",
+      "description": "Complete description of the Vulture Domain archetype, including altered or replaced class features.",
+      "keywords": []
+    }
+  ],
+  "category": "Archetypes"
+}

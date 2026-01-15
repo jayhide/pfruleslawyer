@@ -1,0 +1,15 @@
+{
+  "file": "corsair.md",
+  "source_path": "https://www.d20pfsrd.com/classes/core-classes/fighter/archetypes/paizo-fighter-archetypes/corsair/",
+  "source_name": "Archetype: Corsair",
+  "sections": [
+    {
+      "id": "corsair",
+      "title": "Corsair",
+      "anchor_heading": "# Corsair",
+      "description": "Complete description of the Corsair archetype, including altered or replaced class features.",
+      "keywords": []
+    }
+  ],
+  "category": "Archetypes"
+}

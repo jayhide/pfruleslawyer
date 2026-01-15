@@ -1,0 +1,15 @@
+{
+  "file": "shield-champion.md",
+  "source_path": "https://www.d20pfsrd.com/classes/hybrid-classes/brawler/archetypes/paizo-brawler-archetypes/shield-champion/",
+  "source_name": "Archetype: Shield Champion",
+  "sections": [
+    {
+      "id": "shield_champion",
+      "title": "Shield Champion",
+      "anchor_heading": "# Shield Champion",
+      "description": "Complete description of the Shield Champion archetype, including altered or replaced class features.",
+      "keywords": []
+    }
+  ],
+  "category": "Archetypes"
+}

@@ -1,0 +1,15 @@
+{
+  "file": "survivor.md",
+  "source_path": "https://www.d20pfsrd.com/classes/core-classes/druid/archetypes/paizo-druid-archetypes/survivor/",
+  "source_name": "Archetype: Survivor",
+  "sections": [
+    {
+      "id": "survivor",
+      "title": "Survivor",
+      "anchor_heading": "# Survivor",
+      "description": "Complete description of the Survivor archetype, including altered or replaced class features.",
+      "keywords": []
+    }
+  ],
+  "category": "Archetypes"
+}

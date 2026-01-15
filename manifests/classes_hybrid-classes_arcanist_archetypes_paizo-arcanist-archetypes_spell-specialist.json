@@ -1,0 +1,15 @@
+{
+  "file": "spell-specialist.md",
+  "source_path": "https://www.d20pfsrd.com/classes/hybrid-classes/arcanist/archetypes/paizo-arcanist-archetypes/spell-specialist/",
+  "source_name": "Archetype: Spell Specialist",
+  "sections": [
+    {
+      "id": "spell_specialist",
+      "title": "Spell Specialist",
+      "anchor_heading": "# Spell Specialist",
+      "description": "Complete description of the Spell Specialist archetype, including altered or replaced class features.",
+      "keywords": []
+    }
+  ],
+  "category": "Archetypes"
+}

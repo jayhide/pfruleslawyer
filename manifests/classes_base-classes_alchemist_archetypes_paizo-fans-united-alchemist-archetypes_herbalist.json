@@ -1,0 +1,15 @@
+{
+  "file": "herbalist.md",
+  "source_path": "https://www.d20pfsrd.com/classes/base-classes/alchemist/archetypes/paizo-fans-united-alchemist-archetypes/herbalist/",
+  "source_name": "Archetype: Herbalist",
+  "sections": [
+    {
+      "id": "herbalist",
+      "title": "Herbalist",
+      "anchor_heading": "# Herbalist",
+      "description": "Complete description of the Herbalist archetype, including altered or replaced class features.",
+      "keywords": []
+    }
+  ],
+  "category": "Archetypes"
+}

@@ -1,0 +1,15 @@
+{
+  "file": "trophy-hunter.md",
+  "source_path": "https://www.d20pfsrd.com/classes/core-classes/ranger/archetypes/paizo-ranger-archetypes/trophy-hunter/",
+  "source_name": "Archetype: Trophy Hunter",
+  "sections": [
+    {
+      "id": "trophy_hunter",
+      "title": "Trophy Hunter",
+      "anchor_heading": "# Trophy Hunter",
+      "description": "Complete description of the Trophy Hunter archetype, including altered or replaced class features.",
+      "keywords": []
+    }
+  ],
+  "category": "Archetypes"
+}

@@ -1,0 +1,15 @@
+{
+  "file": "prophet-oracle-archetype.md",
+  "source_path": "https://www.d20pfsrd.com/classes/base-classes/oracle/archetypes/paizo-oracle-archetypes/prophet-oracle-archetype/",
+  "source_name": "Archetype: Prophet",
+  "sections": [
+    {
+      "id": "prophet_oracle_archetype",
+      "title": "Prophet",
+      "anchor_heading": "# Prophet",
+      "description": "Complete description of the Prophet archetype, including altered or replaced class features.",
+      "keywords": []
+    }
+  ],
+  "category": "Archetypes"
+}

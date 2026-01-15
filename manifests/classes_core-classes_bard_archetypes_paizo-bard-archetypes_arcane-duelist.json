@@ -1,0 +1,15 @@
+{
+  "file": "arcane-duelist.md",
+  "source_path": "https://www.d20pfsrd.com/classes/core-classes/bard/archetypes/paizo-bard-archetypes/arcane-duelist/",
+  "source_name": "Archetype: Arcane Duelist",
+  "sections": [
+    {
+      "id": "arcane_duelist",
+      "title": "Arcane Duelist",
+      "anchor_heading": "# Arcane Duelist",
+      "description": "Complete description of the Arcane Duelist archetype, including altered or replaced class features.",
+      "keywords": []
+    }
+  ],
+  "category": "Archetypes"
+}

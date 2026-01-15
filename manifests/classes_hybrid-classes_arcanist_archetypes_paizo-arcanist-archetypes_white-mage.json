@@ -1,0 +1,15 @@
+{
+  "file": "white-mage.md",
+  "source_path": "https://www.d20pfsrd.com/classes/hybrid-classes/arcanist/archetypes/paizo-arcanist-archetypes/white-mage/",
+  "source_name": "Archetype: White Mage",
+  "sections": [
+    {
+      "id": "white_mage",
+      "title": "White Mage",
+      "anchor_heading": "# White Mage",
+      "description": "Complete description of the White Mage archetype, including altered or replaced class features.",
+      "keywords": []
+    }
+  ],
+  "category": "Archetypes"
+}

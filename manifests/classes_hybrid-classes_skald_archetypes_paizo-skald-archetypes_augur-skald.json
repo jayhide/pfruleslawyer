@@ -1,0 +1,15 @@
+{
+  "file": "augur-skald.md",
+  "source_path": "https://www.d20pfsrd.com/classes/hybrid-classes/skald/archetypes/paizo-skald-archetypes/augur-skald/",
+  "source_name": "Archetype: Augur",
+  "sections": [
+    {
+      "id": "augur_skald",
+      "title": "Augur",
+      "anchor_heading": "# Augur",
+      "description": "Complete description of the Augur archetype, including altered or replaced class features.",
+      "keywords": []
+    }
+  ],
+  "category": "Archetypes"
+}

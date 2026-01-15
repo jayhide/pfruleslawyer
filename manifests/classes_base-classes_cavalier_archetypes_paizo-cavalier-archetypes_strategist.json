@@ -1,0 +1,15 @@
+{
+  "file": "strategist.md",
+  "source_path": "https://www.d20pfsrd.com/classes/base-classes/cavalier/archetypes/paizo-cavalier-archetypes/strategist/",
+  "source_name": "Archetype: Strategist",
+  "sections": [
+    {
+      "id": "strategist",
+      "title": "Strategist",
+      "anchor_heading": "# Strategist",
+      "description": "Complete description of the Strategist archetype, including altered or replaced class features.",
+      "keywords": []
+    }
+  ],
+  "category": "Archetypes"
+}

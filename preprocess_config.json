@@ -20,6 +20,13 @@
       "subheading_boost": 0.0,
       "title_boost": 0.0,
       "rerank_weight": 0.0
+    },
+    "Archetypes": {
+      "semantic_weight": 0.0,
+      "keyword_boost": 0.0,
+      "subheading_boost": 0.0,
+      "title_boost": 1.0,
+      "rerank_weight": 0.2
     }
   },
   "entries": [
@@ -206,6 +213,49 @@
       "mode": "faq",
       "category": "FAQ",
       "name": "Paizo FAQ"
+    },
+    {
+      "pattern": "https://www.d20pfsrd.com/classes/*/archetypes/*paizo*/*",
+      "mode": "template",
+      "category": "Archetypes",
+      "name_prefix": "Archetype",
+      "exclude": [
+        "https://www.d20pfsrd.com/classes/alternate-classes/antipaladin/archetypes/paizo-antipaladin-archetypes/",
+        "https://www.d20pfsrd.com/classes/alternate-classes/ninja/archetypes/paizo-ninja-archetypes/",
+        "https://www.d20pfsrd.com/classes/alternate-classes/samurai/archetypes/paizo-samurai-archetypes/",
+        "https://www.d20pfsrd.com/classes/base-classes/alchemist/archetypes/paizo-alchemist-archetypes/",
+        "https://www.d20pfsrd.com/classes/base-classes/cavalier/archetypes/paizo-cavalier-archetypes/",
+        "https://www.d20pfsrd.com/classes/base-classes/gunslinger/archetypes/paizo-gunslinger-archetypes/",
+        "https://www.d20pfsrd.com/classes/base-classes/inquisitor/archetypes/inquisitor-archetypes-paizo/",
+        "https://www.d20pfsrd.com/classes/base-classes/magus/archetypes/paizo-magus-archetypes/",
+        "https://www.d20pfsrd.com/classes/base-classes/oracle/archetypes/paizo-oracle-archetypes/",
+        "https://www.d20pfsrd.com/classes/base-classes/summoner/archetypes/paizo-summoner-archetypes/",
+        "https://www.d20pfsrd.com/classes/base-classes/vigilante/archetypes/vigilante-archetypes-paizo-inc/",
+        "https://www.d20pfsrd.com/classes/base-classes/witch/archetypes/paizo-witch-archetypes/",
+        "https://www.d20pfsrd.com/classes/core-classes/barbarian/archetypes/paizo-barbarian-archetypes/",
+        "https://www.d20pfsrd.com/classes/core-classes/bard/archetypes/paizo-bard-archetypes/",
+        "https://www.d20pfsrd.com/classes/core-classes/cleric/archetypes/paizo-cleric-archetypes/",
+        "https://www.d20pfsrd.com/classes/core-classes/druid/archetypes/paizo-druid-archetypes/",
+        "https://www.d20pfsrd.com/classes/core-classes/fighter/archetypes/paizo-fighter-archetypes/",
+        "https://www.d20pfsrd.com/classes/core-classes/monk/archetypes/paizo-monk-archetypes/",
+        "https://www.d20pfsrd.com/classes/core-classes/paladin/archetypes/paizo-paladin-archetypes/",
+        "https://www.d20pfsrd.com/classes/core-classes/ranger/archetypes/paizo-ranger-archetypes/",
+        "https://www.d20pfsrd.com/classes/core-classes/rogue/archetypes/paizo-rogue-archetypes/",
+        "https://www.d20pfsrd.com/classes/core-classes/sorcerer/archetypes/paizo-sorcerer-archetypes/",
+        "https://www.d20pfsrd.com/classes/core-classes/wizard/archetypes/paizo-wizard-archetypes/",
+        "https://www.d20pfsrd.com/classes/hybrid-classes/arcanist/archetypes/paizo-arcanist-archetypes/",
+        "https://www.d20pfsrd.com/classes/hybrid-classes/bloodrager/archetypes/paizo-bloodrager-archetypes/",
+        "https://www.d20pfsrd.com/classes/hybrid-classes/brawler/archetypes/paizo-brawler-archetypes/",
+        "https://www.d20pfsrd.com/classes/hybrid-classes/hunter/archetypes/paizo-hunter-archetypes/",
+        "https://www.d20pfsrd.com/classes/hybrid-classes/investigator/archetypes/paizo-investigator-archetypes/",
+        "https://www.d20pfsrd.com/classes/hybrid-classes/shaman/archetypes/paizo-shaman-archetypes/",
+        "https://www.d20pfsrd.com/classes/hybrid-classes/skald/archetypes/paizo-skald-archetypes/",
+        "https://www.d20pfsrd.com/classes/hybrid-classes/slayer/archetypes/paizo-slayer-archetypes/",
+        "https://www.d20pfsrd.com/classes/hybrid-classes/swashbuckler/archetypes/paizo-swashbuckler-archetypes/",
+        "https://www.d20pfsrd.com/classes/hybrid-classes/warpriest/archetypes/paizo-warpriest-archetypes/",
+        "https://www.d20pfsrd.com/classes/unchained-classes/monk-unchained/archetypes/archetypes-paizo/",
+        "https://www.d20pfsrd.com/classes/unchained-classes/rogue-unchained/archetypes/paizo-archetypes/"
+      ]
     }
   ]
 }

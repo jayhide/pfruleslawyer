@@ -1,0 +1,15 @@
+{
+  "file": "plains-domain.md",
+  "source_path": "https://www.d20pfsrd.com/classes/core-classes/druid/archetypes/paizo-druid-archetypes/animal-and-terrain-domains/plains-domain/",
+  "source_name": "Archetype: Plains Domain",
+  "sections": [
+    {
+      "id": "plains_domain",
+      "title": "Plains Domain",
+      "anchor_heading": "# Plains Domain",
+      "description": "Complete description of the Plains Domain archetype, including altered or replaced class features.",
+      "keywords": []
+    }
+  ],
+  "category": "Archetypes"
+}

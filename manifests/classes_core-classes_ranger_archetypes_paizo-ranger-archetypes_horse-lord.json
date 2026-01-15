@@ -1,0 +1,15 @@
+{
+  "file": "horse-lord.md",
+  "source_path": "https://www.d20pfsrd.com/classes/core-classes/ranger/archetypes/paizo-ranger-archetypes/horse-lord/",
+  "source_name": "Archetype: Horse Lord",
+  "sections": [
+    {
+      "id": "horse_lord",
+      "title": "Horse Lord",
+      "anchor_heading": "# Horse Lord",
+      "description": "Complete description of the Horse Lord archetype, including altered or replaced class features.",
+      "keywords": []
+    }
+  ],
+  "category": "Archetypes"
+}

@@ -1,0 +1,15 @@
+{
+  "file": "musketeer.md",
+  "source_path": "https://www.d20pfsrd.com/classes/hybrid-classes/swashbuckler/archetypes/paizo-swashbuckler-archetypes/musketeer/",
+  "source_name": "Archetype: Musketeer",
+  "sections": [
+    {
+      "id": "musketeer",
+      "title": "Musketeer",
+      "anchor_heading": "# Musketeer",
+      "description": "Complete description of the Musketeer archetype, including altered or replaced class features.",
+      "keywords": []
+    }
+  ],
+  "category": "Archetypes"
+}

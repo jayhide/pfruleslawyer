@@ -1,0 +1,15 @@
+{
+  "file": "scout.md",
+  "source_path": "https://www.d20pfsrd.com/classes/core-classes/rogue/archetypes/paizo-rogue-archetypes/scout/",
+  "source_name": "Archetype: Scout",
+  "sections": [
+    {
+      "id": "scout",
+      "title": "Scout",
+      "anchor_heading": "# Scout",
+      "description": "Complete description of the Scout archetype, including altered or replaced class features.",
+      "keywords": []
+    }
+  ],
+  "category": "Archetypes"
+}

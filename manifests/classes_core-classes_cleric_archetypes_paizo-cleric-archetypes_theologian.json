@@ -1,0 +1,15 @@
+{
+  "file": "theologian.md",
+  "source_path": "https://www.d20pfsrd.com/classes/core-classes/cleric/archetypes/paizo-cleric-archetypes/theologian/",
+  "source_name": "Archetype: Theologian",
+  "sections": [
+    {
+      "id": "theologian",
+      "title": "Theologian",
+      "anchor_heading": "# Theologian",
+      "description": "Complete description of the Theologian archetype, including altered or replaced class features.",
+      "keywords": []
+    }
+  ],
+  "category": "Archetypes"
+}

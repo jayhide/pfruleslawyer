@@ -1,0 +1,15 @@
+{
+  "file": "warlock.md",
+  "source_path": "https://www.d20pfsrd.com/classes/base-classes/vigilante/archetypes/vigilante-archetypes-paizo-inc/warlock/",
+  "source_name": "Archetype: Warlock",
+  "sections": [
+    {
+      "id": "warlock",
+      "title": "Warlock",
+      "anchor_heading": "# Warlock",
+      "description": "Complete description of the Warlock archetype, including altered or replaced class features.",
+      "keywords": []
+    }
+  ],
+  "category": "Archetypes"
+}

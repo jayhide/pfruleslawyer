@@ -1,0 +1,15 @@
+{
+  "file": "bear-shaman.md",
+  "source_path": "https://www.d20pfsrd.com/classes/core-classes/druid/archetypes/paizo-druid-archetypes/bear-shaman/",
+  "source_name": "Archetype: Bear Shaman",
+  "sections": [
+    {
+      "id": "bear_shaman",
+      "title": "Bear Shaman",
+      "anchor_heading": "# Bear Shaman",
+      "description": "Complete description of the Bear Shaman archetype, including altered or replaced class features.",
+      "keywords": []
+    }
+  ],
+  "category": "Archetypes"
+}

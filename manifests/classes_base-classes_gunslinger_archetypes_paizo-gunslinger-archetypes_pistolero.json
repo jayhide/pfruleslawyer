@@ -1,0 +1,15 @@
+{
+  "file": "pistolero.md",
+  "source_path": "https://www.d20pfsrd.com/classes/base-classes/gunslinger/archetypes/paizo-gunslinger-archetypes/pistolero/",
+  "source_name": "Archetype: Pistolero",
+  "sections": [
+    {
+      "id": "pistolero",
+      "title": "Pistolero",
+      "anchor_heading": "# Pistolero",
+      "description": "Complete description of the Pistolero archetype, including altered or replaced class features.",
+      "keywords": []
+    }
+  ],
+  "category": "Archetypes"
+}

@@ -1,0 +1,15 @@
+{
+  "file": "clone-master.md",
+  "source_path": "https://www.d20pfsrd.com/classes/base-classes/alchemist/archetypes/paizo-alchemist-archetypes/clone-master/",
+  "source_name": "Archetype: Clone Master",
+  "sections": [
+    {
+      "id": "clone_master",
+      "title": "Clone Master",
+      "anchor_heading": "# Clone Master",
+      "description": "Complete description of the Clone Master archetype, including altered or replaced class features.",
+      "keywords": []
+    }
+  ],
+  "category": "Archetypes"
+}

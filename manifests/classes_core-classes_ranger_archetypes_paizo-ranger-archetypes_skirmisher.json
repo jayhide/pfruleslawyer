@@ -1,0 +1,15 @@
+{
+  "file": "skirmisher.md",
+  "source_path": "https://www.d20pfsrd.com/classes/core-classes/ranger/archetypes/paizo-ranger-archetypes/skirmisher/",
+  "source_name": "Archetype: Skirmisher",
+  "sections": [
+    {
+      "id": "skirmisher",
+      "title": "Skirmisher",
+      "anchor_heading": "# Skirmisher",
+      "description": "Complete description of the Skirmisher archetype, including altered or replaced class features.",
+      "keywords": []
+    }
+  ],
+  "category": "Archetypes"
+}

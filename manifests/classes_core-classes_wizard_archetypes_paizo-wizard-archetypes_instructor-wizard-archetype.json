@@ -1,0 +1,15 @@
+{
+  "file": "instructor-wizard-archetype.md",
+  "source_path": "https://www.d20pfsrd.com/classes/core-classes/wizard/archetypes/paizo-wizard-archetypes/instructor-wizard-archetype/",
+  "source_name": "Archetype: Instructor",
+  "sections": [
+    {
+      "id": "instructor_wizard_archetype",
+      "title": "Instructor",
+      "anchor_heading": "# Instructor",
+      "description": "Complete description of the Instructor archetype, including altered or replaced class features.",
+      "keywords": []
+    }
+  ],
+  "category": "Archetypes"
+}

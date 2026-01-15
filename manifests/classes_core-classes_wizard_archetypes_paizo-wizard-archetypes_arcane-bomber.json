@@ -1,0 +1,15 @@
+{
+  "file": "arcane-bomber.md",
+  "source_path": "https://www.d20pfsrd.com/classes/core-classes/wizard/archetypes/paizo-wizard-archetypes/arcane-bomber/",
+  "source_name": "Archetype: Arcane Bomber",
+  "sections": [
+    {
+      "id": "arcane_bomber",
+      "title": "Arcane Bomber",
+      "anchor_heading": "# Arcane Bomber",
+      "description": "Complete description of the Arcane Bomber archetype, including altered or replaced class features.",
+      "keywords": []
+    }
+  ],
+  "category": "Archetypes"
+}

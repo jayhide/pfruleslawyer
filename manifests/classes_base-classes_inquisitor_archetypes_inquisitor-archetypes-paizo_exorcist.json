@@ -1,0 +1,15 @@
+{
+  "file": "exorcist.md",
+  "source_path": "https://www.d20pfsrd.com/classes/base-classes/inquisitor/archetypes/inquisitor-archetypes-paizo/exorcist/",
+  "source_name": "Archetype: Exorcist",
+  "sections": [
+    {
+      "id": "exorcist",
+      "title": "Exorcist",
+      "anchor_heading": "# Exorcist",
+      "description": "Complete description of the Exorcist archetype, including altered or replaced class features.",
+      "keywords": []
+    }
+  ],
+  "category": "Archetypes"
+}

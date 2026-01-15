@@ -1,0 +1,15 @@
+{
+  "file": "dirge-bard.md",
+  "source_path": "https://www.d20pfsrd.com/classes/core-classes/bard/archetypes/paizo-bard-archetypes/dirge-bard/",
+  "source_name": "Archetype: Dirge Bard",
+  "sections": [
+    {
+      "id": "dirge_bard",
+      "title": "Dirge Bard",
+      "anchor_heading": "# Dirge Bard",
+      "description": "Complete description of the Dirge Bard archetype, including altered or replaced class features.",
+      "keywords": []
+    }
+  ],
+  "category": "Archetypes"
+}

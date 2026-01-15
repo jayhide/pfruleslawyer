@@ -1,0 +1,15 @@
+{
+  "file": "wildcat.md",
+  "source_path": "https://www.d20pfsrd.com/classes/core-classes/monk/archetypes/paizo-monk-archetypes/wildcat/",
+  "source_name": "Archetype: Wildcat",
+  "sections": [
+    {
+      "id": "wildcat",
+      "title": "Wildcat",
+      "anchor_heading": "# Wildcat",
+      "description": "Complete description of the Wildcat archetype, including altered or replaced class features.",
+      "keywords": []
+    }
+  ],
+  "category": "Archetypes"
+}

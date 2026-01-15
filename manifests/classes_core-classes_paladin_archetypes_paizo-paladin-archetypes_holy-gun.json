@@ -1,0 +1,15 @@
+{
+  "file": "holy-gun.md",
+  "source_path": "https://www.d20pfsrd.com/classes/core-classes/paladin/archetypes/paizo-paladin-archetypes/holy-gun/",
+  "source_name": "Archetype: Holy Gun",
+  "sections": [
+    {
+      "id": "holy_gun",
+      "title": "Holy Gun",
+      "anchor_heading": "# Holy Gun",
+      "description": "Complete description of the Holy Gun archetype, including altered or replaced class features.",
+      "keywords": []
+    }
+  ],
+  "category": "Archetypes"
+}

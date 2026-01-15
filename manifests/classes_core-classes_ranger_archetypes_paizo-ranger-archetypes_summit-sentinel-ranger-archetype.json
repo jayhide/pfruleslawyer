@@ -1,0 +1,15 @@
+{
+  "file": "summit-sentinel-ranger-archetype.md",
+  "source_path": "https://www.d20pfsrd.com/classes/core-classes/ranger/archetypes/paizo-ranger-archetypes/summit-sentinel-ranger-archetype/",
+  "source_name": "Archetype: Summit Sentinel",
+  "sections": [
+    {
+      "id": "summit_sentinel_ranger_archetype",
+      "title": "Summit Sentinel",
+      "anchor_heading": "# Summit Sentinel",
+      "description": "Complete description of the Summit Sentinel archetype, including altered or replaced class features.",
+      "keywords": []
+    }
+  ],
+  "category": "Archetypes"
+}

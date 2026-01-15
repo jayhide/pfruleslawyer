@@ -1,0 +1,15 @@
+{
+  "file": "swarm-monger.md",
+  "source_path": "https://www.d20pfsrd.com/classes/core-classes/druid/archetypes/paizo-druid-archetypes/swarm-monger/",
+  "source_name": "Archetype: Swarm Monger",
+  "sections": [
+    {
+      "id": "swarm_monger",
+      "title": "Swarm Monger",
+      "anchor_heading": "# Swarm Monger",
+      "description": "Complete description of the Swarm Monger archetype, including altered or replaced class features.",
+      "keywords": []
+    }
+  ],
+  "category": "Archetypes"
+}

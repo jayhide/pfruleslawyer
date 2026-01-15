@@ -1,0 +1,15 @@
+{
+  "file": "dungeon-rover.md",
+  "source_path": "https://www.d20pfsrd.com/classes/core-classes/ranger/archetypes/paizo-ranger-archetypes/dungeon-rover/",
+  "source_name": "Archetype: Dungeon Rover",
+  "sections": [
+    {
+      "id": "dungeon_rover",
+      "title": "Dungeon Rover",
+      "anchor_heading": "# Dungeon Rover",
+      "description": "Complete description of the Dungeon Rover archetype, including altered or replaced class features.",
+      "keywords": []
+    }
+  ],
+  "category": "Archetypes"
+}

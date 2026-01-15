@@ -1,0 +1,15 @@
+{
+  "file": "separatist.md",
+  "source_path": "https://www.d20pfsrd.com/classes/core-classes/cleric/archetypes/paizo-cleric-archetypes/separatist/",
+  "source_name": "Archetype: Separatist",
+  "sections": [
+    {
+      "id": "separatist",
+      "title": "Separatist",
+      "anchor_heading": "# Separatist",
+      "description": "Complete description of the Separatist archetype, including altered or replaced class features.",
+      "keywords": []
+    }
+  ],
+  "category": "Archetypes"
+}

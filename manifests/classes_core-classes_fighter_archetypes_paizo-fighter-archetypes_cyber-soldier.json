@@ -1,0 +1,15 @@
+{
+  "file": "cyber-soldier.md",
+  "source_path": "https://www.d20pfsrd.com/classes/core-classes/fighter/archetypes/paizo-fighter-archetypes/cyber-soldier/",
+  "source_name": "Archetype: Cyber-Soldier",
+  "sections": [
+    {
+      "id": "cyber_soldier",
+      "title": "Cyber-Soldier",
+      "anchor_heading": "# Cyber-Soldier",
+      "description": "Complete description of the Cyber-Soldier archetype, including altered or replaced class features.",
+      "keywords": []
+    }
+  ],
+  "category": "Archetypes"
+}

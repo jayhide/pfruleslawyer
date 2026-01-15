@@ -1,0 +1,15 @@
+{
+  "file": "two-weapon-warrior.md",
+  "source_path": "https://www.d20pfsrd.com/classes/core-classes/fighter/archetypes/paizo-fighter-archetypes/two-weapon-warrior/",
+  "source_name": "Archetype: Two-Weapon Warrior",
+  "sections": [
+    {
+      "id": "two_weapon_warrior",
+      "title": "Two-Weapon Warrior",
+      "anchor_heading": "# Two-Weapon Warrior",
+      "description": "Complete description of the Two-Weapon Warrior archetype, including altered or replaced class features.",
+      "keywords": []
+    }
+  ],
+  "category": "Archetypes"
+}

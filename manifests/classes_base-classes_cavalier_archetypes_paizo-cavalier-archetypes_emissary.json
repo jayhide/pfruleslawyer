@@ -1,0 +1,15 @@
+{
+  "file": "emissary.md",
+  "source_path": "https://www.d20pfsrd.com/classes/base-classes/cavalier/archetypes/paizo-cavalier-archetypes/emissary/",
+  "source_name": "Archetype: Emissary",
+  "sections": [
+    {
+      "id": "emissary",
+      "title": "Emissary",
+      "anchor_heading": "# Emissary",
+      "description": "Complete description of the Emissary archetype, including altered or replaced class features.",
+      "keywords": []
+    }
+  ],
+  "category": "Archetypes"
+}

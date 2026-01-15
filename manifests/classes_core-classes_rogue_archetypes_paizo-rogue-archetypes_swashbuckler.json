@@ -1,0 +1,15 @@
+{
+  "file": "swashbuckler.md",
+  "source_path": "https://www.d20pfsrd.com/classes/core-classes/rogue/archetypes/paizo-rogue-archetypes/swashbuckler/",
+  "source_name": "Archetype: Swashbuckler",
+  "sections": [
+    {
+      "id": "swashbuckler",
+      "title": "Swashbuckler",
+      "anchor_heading": "# Swashbuckler",
+      "description": "Complete description of the Swashbuckler archetype, including altered or replaced class features.",
+      "keywords": []
+    }
+  ],
+  "category": "Archetypes"
+}

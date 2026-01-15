@@ -1,0 +1,15 @@
+{
+  "file": "chameleon.md",
+  "source_path": "https://www.d20pfsrd.com/classes/core-classes/rogue/archetypes/paizo-rogue-archetypes/chameleon/",
+  "source_name": "Archetype: Chameleon",
+  "sections": [
+    {
+      "id": "chameleon",
+      "title": "Chameleon",
+      "anchor_heading": "# Chameleon",
+      "description": "Complete description of the Chameleon archetype, including altered or replaced class features.",
+      "keywords": []
+    }
+  ],
+  "category": "Archetypes"
+}

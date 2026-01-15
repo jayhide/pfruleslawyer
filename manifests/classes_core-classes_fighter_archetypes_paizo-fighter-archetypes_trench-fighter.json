@@ -1,0 +1,15 @@
+{
+  "file": "trench-fighter.md",
+  "source_path": "https://www.d20pfsrd.com/classes/core-classes/fighter/archetypes/paizo-fighter-archetypes/trench-fighter/",
+  "source_name": "Archetype: Trench Fighter",
+  "sections": [
+    {
+      "id": "trench_fighter",
+      "title": "Trench Fighter",
+      "anchor_heading": "# Trench Fighter",
+      "description": "Complete description of the Trench Fighter archetype, including altered or replaced class features.",
+      "keywords": []
+    }
+  ],
+  "category": "Archetypes"
+}

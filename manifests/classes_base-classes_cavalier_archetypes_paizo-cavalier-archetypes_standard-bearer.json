@@ -1,0 +1,15 @@
+{
+  "file": "standard-bearer.md",
+  "source_path": "https://www.d20pfsrd.com/classes/base-classes/cavalier/archetypes/paizo-cavalier-archetypes/standard-bearer/",
+  "source_name": "Archetype: Standard Bearer",
+  "sections": [
+    {
+      "id": "standard_bearer",
+      "title": "Standard Bearer",
+      "anchor_heading": "# Standard Bearer",
+      "description": "Complete description of the Standard Bearer archetype, including altered or replaced class features.",
+      "keywords": []
+    }
+  ],
+  "category": "Archetypes"
+}

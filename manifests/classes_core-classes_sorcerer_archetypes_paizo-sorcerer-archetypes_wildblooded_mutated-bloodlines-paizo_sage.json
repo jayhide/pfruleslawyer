@@ -1,0 +1,15 @@
+{
+  "file": "sage.md",
+  "source_path": "https://www.d20pfsrd.com/classes/core-classes/sorcerer/archetypes/paizo-sorcerer-archetypes/wildblooded/mutated-bloodlines-paizo/sage/",
+  "source_name": "Archetype: Sage",
+  "sections": [
+    {
+      "id": "sage",
+      "title": "Sage",
+      "anchor_heading": "# Sage",
+      "description": "Complete description of the Sage archetype, including altered or replaced class features.",
+      "keywords": []
+    }
+  ],
+  "category": "Archetypes"
+}

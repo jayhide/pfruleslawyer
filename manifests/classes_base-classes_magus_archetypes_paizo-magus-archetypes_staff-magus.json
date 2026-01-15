@@ -1,0 +1,15 @@
+{
+  "file": "staff-magus.md",
+  "source_path": "https://www.d20pfsrd.com/classes/base-classes/magus/archetypes/paizo-magus-archetypes/staff-magus/",
+  "source_name": "Archetype: Staff Magus",
+  "sections": [
+    {
+      "id": "staff_magus",
+      "title": "Staff Magus",
+      "anchor_heading": "# Staff Magus",
+      "description": "Complete description of the Staff Magus archetype, including altered or replaced class features.",
+      "keywords": []
+    }
+  ],
+  "category": "Archetypes"
+}

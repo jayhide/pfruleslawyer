@@ -1,0 +1,15 @@
+{
+  "file": "cardinal-cleric-archetype.md",
+  "source_path": "https://www.d20pfsrd.com/classes/core-classes/cleric/archetypes/paizo-cleric-archetypes/cardinal-cleric-archetype/",
+  "source_name": "Archetype: Cardinal",
+  "sections": [
+    {
+      "id": "cardinal_cleric_archetype",
+      "title": "Cardinal",
+      "anchor_heading": "# Cardinal",
+      "description": "Complete description of the Cardinal archetype, including altered or replaced class features.",
+      "keywords": []
+    }
+  ],
+  "category": "Archetypes"
+}

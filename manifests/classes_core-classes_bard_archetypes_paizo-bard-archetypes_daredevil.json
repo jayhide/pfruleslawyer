@@ -1,0 +1,15 @@
+{
+  "file": "daredevil.md",
+  "source_path": "https://www.d20pfsrd.com/classes/core-classes/bard/archetypes/paizo-bard-archetypes/daredevil/",
+  "source_name": "Archetype: Daredevil",
+  "sections": [
+    {
+      "id": "daredevil",
+      "title": "Daredevil",
+      "anchor_heading": "# Daredevil",
+      "description": "Complete description of the Daredevil archetype, including altered or replaced class features.",
+      "keywords": []
+    }
+  ],
+  "category": "Archetypes"
+}

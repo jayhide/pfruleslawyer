@@ -1,0 +1,15 @@
+{
+  "file": "wild-stalker.md",
+  "source_path": "https://www.d20pfsrd.com/classes/core-classes/ranger/archetypes/paizo-ranger-archetypes/wild-stalker/",
+  "source_name": "Archetype: Wild Stalker",
+  "sections": [
+    {
+      "id": "wild_stalker",
+      "title": "Wild Stalker",
+      "anchor_heading": "# Wild Stalker",
+      "description": "Complete description of the Wild Stalker archetype, including altered or replaced class features.",
+      "keywords": []
+    }
+  ],
+  "category": "Archetypes"
+}

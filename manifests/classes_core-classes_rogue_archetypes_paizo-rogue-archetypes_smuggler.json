@@ -1,0 +1,15 @@
+{
+  "file": "smuggler.md",
+  "source_path": "https://www.d20pfsrd.com/classes/core-classes/rogue/archetypes/paizo-rogue-archetypes/smuggler/",
+  "source_name": "Archetype: Smuggler",
+  "sections": [
+    {
+      "id": "smuggler",
+      "title": "Smuggler",
+      "anchor_heading": "# Smuggler",
+      "description": "Complete description of the Smuggler archetype, including altered or replaced class features.",
+      "keywords": []
+    }
+  ],
+  "category": "Archetypes"
+}

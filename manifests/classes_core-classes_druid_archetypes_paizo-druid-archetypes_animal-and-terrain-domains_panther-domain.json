@@ -1,0 +1,15 @@
+{
+  "file": "panther-domain.md",
+  "source_path": "https://www.d20pfsrd.com/classes/core-classes/druid/archetypes/paizo-druid-archetypes/animal-and-terrain-domains/panther-domain/",
+  "source_name": "Archetype: Panther Domain",
+  "sections": [
+    {
+      "id": "panther_domain",
+      "title": "Panther Domain",
+      "anchor_heading": "# Panther Domain",
+      "description": "Complete description of the Panther Domain archetype, including altered or replaced class features.",
+      "keywords": []
+    }
+  ],
+  "category": "Archetypes"
+}

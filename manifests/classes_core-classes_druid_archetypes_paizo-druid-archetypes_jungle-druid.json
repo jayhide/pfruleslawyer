@@ -1,0 +1,15 @@
+{
+  "file": "jungle-druid.md",
+  "source_path": "https://www.d20pfsrd.com/classes/core-classes/druid/archetypes/paizo-druid-archetypes/jungle-druid/",
+  "source_name": "Archetype: Jungle Druid",
+  "sections": [
+    {
+      "id": "jungle_druid",
+      "title": "Jungle Druid",
+      "anchor_heading": "# Jungle Druid",
+      "description": "Complete description of the Jungle Druid archetype, including altered or replaced class features.",
+      "keywords": []
+    }
+  ],
+  "category": "Archetypes"
+}

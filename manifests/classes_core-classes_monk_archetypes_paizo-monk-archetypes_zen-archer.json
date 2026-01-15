@@ -1,0 +1,15 @@
+{
+  "file": "zen-archer.md",
+  "source_path": "https://www.d20pfsrd.com/classes/core-classes/monk/archetypes/paizo-monk-archetypes/zen-archer/",
+  "source_name": "Archetype: Zen Archer",
+  "sections": [
+    {
+      "id": "zen_archer",
+      "title": "Zen Archer",
+      "anchor_heading": "# Zen Archer",
+      "description": "Complete description of the Zen Archer archetype, including altered or replaced class features.",
+      "keywords": []
+    }
+  ],
+  "category": "Archetypes"
+}

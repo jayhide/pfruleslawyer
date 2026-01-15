@@ -1,0 +1,15 @@
+{
+  "file": "breaker.md",
+  "source_path": "https://www.d20pfsrd.com/classes/core-classes/barbarian/archetypes/paizo-barbarian-archetypes/breaker/",
+  "source_name": "Archetype: Breaker",
+  "sections": [
+    {
+      "id": "breaker",
+      "title": "Breaker",
+      "anchor_heading": "# Breaker",
+      "description": "Complete description of the Breaker archetype, including altered or replaced class features.",
+      "keywords": []
+    }
+  ],
+  "category": "Archetypes"
+}

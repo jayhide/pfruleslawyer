@@ -1,0 +1,15 @@
+{
+  "file": "seer.md",
+  "source_path": "https://www.d20pfsrd.com/classes/base-classes/oracle/archetypes/paizo-oracle-archetypes/seer/",
+  "source_name": "Archetype: Seer",
+  "sections": [
+    {
+      "id": "seer",
+      "title": "Seer",
+      "anchor_heading": "# Seer",
+      "description": "Complete description of the Seer archetype, including altered or replaced class features.",
+      "keywords": []
+    }
+  ],
+  "category": "Archetypes"
+}

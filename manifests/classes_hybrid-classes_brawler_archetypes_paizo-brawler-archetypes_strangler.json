@@ -1,0 +1,15 @@
+{
+  "file": "strangler.md",
+  "source_path": "https://www.d20pfsrd.com/classes/hybrid-classes/brawler/archetypes/paizo-brawler-archetypes/strangler/",
+  "source_name": "Archetype: Strangler",
+  "sections": [
+    {
+      "id": "strangler",
+      "title": "Strangler",
+      "anchor_heading": "# Strangler",
+      "description": "Complete description of the Strangler archetype, including altered or replaced class features.",
+      "keywords": []
+    }
+  ],
+  "category": "Archetypes"
+}

@@ -1,0 +1,15 @@
+{
+  "file": "archer.md",
+  "source_path": "https://www.d20pfsrd.com/classes/core-classes/fighter/archetypes/paizo-fighter-archetypes/archer/",
+  "source_name": "Archetype: Archer",
+  "sections": [
+    {
+      "id": "archer",
+      "title": "Archer",
+      "anchor_heading": "# Archer",
+      "description": "Complete description of the Archer archetype, including altered or replaced class features.",
+      "keywords": []
+    }
+  ],
+  "category": "Archetypes"
+}

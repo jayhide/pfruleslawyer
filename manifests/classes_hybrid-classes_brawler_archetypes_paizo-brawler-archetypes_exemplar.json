@@ -1,0 +1,15 @@
+{
+  "file": "exemplar.md",
+  "source_path": "https://www.d20pfsrd.com/classes/hybrid-classes/brawler/archetypes/paizo-brawler-archetypes/exemplar/",
+  "source_name": "Archetype: Exemplar",
+  "sections": [
+    {
+      "id": "exemplar",
+      "title": "Exemplar",
+      "anchor_heading": "# Exemplar",
+      "description": "Complete description of the Exemplar archetype, including altered or replaced class features.",
+      "keywords": []
+    }
+  ],
+  "category": "Archetypes"
+}

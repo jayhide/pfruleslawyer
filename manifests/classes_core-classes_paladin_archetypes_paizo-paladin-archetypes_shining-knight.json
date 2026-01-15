@@ -1,0 +1,15 @@
+{
+  "file": "shining-knight.md",
+  "source_path": "https://www.d20pfsrd.com/classes/core-classes/paladin/archetypes/paizo-paladin-archetypes/shining-knight/",
+  "source_name": "Archetype: Shining Knight",
+  "sections": [
+    {
+      "id": "shining_knight",
+      "title": "Shining Knight",
+      "anchor_heading": "# Shining Knight",
+      "description": "Complete description of the Shining Knight archetype, including altered or replaced class features.",
+      "keywords": []
+    }
+  ],
+  "category": "Archetypes"
+}

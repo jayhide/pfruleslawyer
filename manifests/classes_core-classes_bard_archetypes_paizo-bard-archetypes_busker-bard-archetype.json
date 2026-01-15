@@ -1,0 +1,15 @@
+{
+  "file": "busker-bard-archetype.md",
+  "source_path": "https://www.d20pfsrd.com/classes/core-classes/bard/archetypes/paizo-bard-archetypes/busker-bard-archetype/",
+  "source_name": "Archetype: Busker",
+  "sections": [
+    {
+      "id": "busker_bard_archetype",
+      "title": "Busker",
+      "anchor_heading": "# Busker",
+      "description": "Complete description of the Busker archetype, including altered or replaced class features.",
+      "keywords": []
+    }
+  ],
+  "category": "Archetypes"
+}

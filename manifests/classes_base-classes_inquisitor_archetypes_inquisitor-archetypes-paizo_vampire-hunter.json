@@ -1,0 +1,15 @@
+{
+  "file": "vampire-hunter.md",
+  "source_path": "https://www.d20pfsrd.com/classes/base-classes/inquisitor/archetypes/inquisitor-archetypes-paizo/vampire-hunter/",
+  "source_name": "Archetype: Vampire Hunter",
+  "sections": [
+    {
+      "id": "vampire_hunter",
+      "title": "Vampire Hunter",
+      "anchor_heading": "# Vampire Hunter",
+      "description": "Complete description of the Vampire Hunter archetype, including altered or replaced class features.",
+      "keywords": []
+    }
+  ],
+  "category": "Archetypes"
+}

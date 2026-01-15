@@ -1,0 +1,15 @@
+{
+  "file": "eagle-domain.md",
+  "source_path": "https://www.d20pfsrd.com/classes/core-classes/druid/archetypes/paizo-druid-archetypes/animal-and-terrain-domains/eagle-domain/",
+  "source_name": "Archetype: Eagle Domain",
+  "sections": [
+    {
+      "id": "eagle_domain",
+      "title": "Eagle Domain",
+      "anchor_heading": "# Eagle Domain",
+      "description": "Complete description of the Eagle Domain archetype, including altered or replaced class features.",
+      "keywords": []
+    }
+  ],
+  "category": "Archetypes"
+}

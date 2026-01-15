@@ -1,0 +1,15 @@
+{
+  "file": "spell-sage.md",
+  "source_path": "https://www.d20pfsrd.com/classes/core-classes/wizard/archetypes/paizo-wizard-archetypes/spell-sage/",
+  "source_name": "Archetype: Spell Sage",
+  "sections": [
+    {
+      "id": "spell_sage",
+      "title": "Spell Sage",
+      "anchor_heading": "# Spell Sage",
+      "description": "Complete description of the Spell Sage archetype, including altered or replaced class features.",
+      "keywords": []
+    }
+  ],
+  "category": "Archetypes"
+}

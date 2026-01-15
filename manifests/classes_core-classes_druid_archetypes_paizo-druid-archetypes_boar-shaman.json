@@ -1,0 +1,15 @@
+{
+  "file": "boar-shaman.md",
+  "source_path": "https://www.d20pfsrd.com/classes/core-classes/druid/archetypes/paizo-druid-archetypes/boar-shaman/",
+  "source_name": "Archetype: Boar Shaman",
+  "sections": [
+    {
+      "id": "boar_shaman",
+      "title": "Boar Shaman",
+      "anchor_heading": "# Boar Shaman",
+      "description": "Complete description of the Boar Shaman archetype, including altered or replaced class features.",
+      "keywords": []
+    }
+  ],
+  "category": "Archetypes"
+}

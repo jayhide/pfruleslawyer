@@ -1,0 +1,15 @@
+{
+  "file": "needler-rogue-archetype.md",
+  "source_path": "https://www.d20pfsrd.com/classes/core-classes/rogue/archetypes/paizo-rogue-archetypes/needler-rogue-archetype/",
+  "source_name": "Archetype: Needler",
+  "sections": [
+    {
+      "id": "needler_rogue_archetype",
+      "title": "Needler",
+      "anchor_heading": "# Needler",
+      "description": "Complete description of the Needler archetype, including altered or replaced class features.",
+      "keywords": []
+    }
+  ],
+  "category": "Archetypes"
+}

@@ -1,0 +1,15 @@
+{
+  "file": "dragoon.md",
+  "source_path": "https://www.d20pfsrd.com/classes/core-classes/fighter/archetypes/paizo-fighter-archetypes/dragoon/",
+  "source_name": "Archetype: Dragoon",
+  "sections": [
+    {
+      "id": "dragoon",
+      "title": "Dragoon",
+      "anchor_heading": "# Dragoon",
+      "description": "Complete description of the Dragoon archetype, including altered or replaced class features.",
+      "keywords": []
+    }
+  ],
+  "category": "Archetypes"
+}

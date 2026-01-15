@@ -1,0 +1,15 @@
+{
+  "file": "monk-vows.md",
+  "source_path": "https://www.d20pfsrd.com/classes/core-classes/monk/archetypes/paizo-monk-archetypes/monk-vows/",
+  "source_name": "Archetype: Monk Vows",
+  "sections": [
+    {
+      "id": "monk_vows",
+      "title": "Monk Vows",
+      "anchor_heading": "# Monk Vows",
+      "description": "Complete description of the Monk Vows archetype, including altered or replaced class features.",
+      "keywords": []
+    }
+  ],
+  "category": "Archetypes"
+}

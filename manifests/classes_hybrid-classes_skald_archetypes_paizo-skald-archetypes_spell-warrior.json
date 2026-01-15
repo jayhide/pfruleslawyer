@@ -1,0 +1,15 @@
+{
+  "file": "spell-warrior.md",
+  "source_path": "https://www.d20pfsrd.com/classes/hybrid-classes/skald/archetypes/paizo-skald-archetypes/spell-warrior/",
+  "source_name": "Archetype: Spell Warrior",
+  "sections": [
+    {
+      "id": "spell_warrior",
+      "title": "Spell Warrior",
+      "anchor_heading": "# Spell Warrior",
+      "description": "Complete description of the Spell Warrior archetype, including altered or replaced class features.",
+      "keywords": []
+    }
+  ],
+  "category": "Archetypes"
+}

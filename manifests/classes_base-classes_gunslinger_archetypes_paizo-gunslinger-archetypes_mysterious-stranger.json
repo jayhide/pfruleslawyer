@@ -1,0 +1,15 @@
+{
+  "file": "mysterious-stranger.md",
+  "source_path": "https://www.d20pfsrd.com/classes/base-classes/gunslinger/archetypes/paizo-gunslinger-archetypes/mysterious-stranger/",
+  "source_name": "Archetype: Mysterious Stranger",
+  "sections": [
+    {
+      "id": "mysterious_stranger",
+      "title": "Mysterious Stranger",
+      "anchor_heading": "# Mysterious Stranger",
+      "description": "Complete description of the Mysterious Stranger archetype, including altered or replaced class features.",
+      "keywords": []
+    }
+  ],
+  "category": "Archetypes"
+}

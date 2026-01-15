@@ -1,0 +1,15 @@
+{
+  "file": "invoker-witch-archetype.md",
+  "source_path": "https://www.d20pfsrd.com/classes/base-classes/witch/archetypes/paizo-witch-archetypes/invoker-witch-archetype/",
+  "source_name": "Archetype: Invoker",
+  "sections": [
+    {
+      "id": "invoker_witch_archetype",
+      "title": "Invoker",
+      "anchor_heading": "# Invoker",
+      "description": "Complete description of the Invoker archetype, including altered or replaced class features.",
+      "keywords": []
+    }
+  ],
+  "category": "Archetypes"
+}

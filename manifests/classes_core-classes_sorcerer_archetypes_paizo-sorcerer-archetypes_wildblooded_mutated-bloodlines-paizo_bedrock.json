@@ -1,0 +1,15 @@
+{
+  "file": "bedrock.md",
+  "source_path": "https://www.d20pfsrd.com/classes/core-classes/sorcerer/archetypes/paizo-sorcerer-archetypes/wildblooded/mutated-bloodlines-paizo/bedrock/",
+  "source_name": "Archetype: Bedrock",
+  "sections": [
+    {
+      "id": "bedrock",
+      "title": "Bedrock",
+      "anchor_heading": "# Bedrock",
+      "description": "Complete description of the Bedrock archetype, including altered or replaced class features.",
+      "keywords": []
+    }
+  ],
+  "category": "Archetypes"
+}

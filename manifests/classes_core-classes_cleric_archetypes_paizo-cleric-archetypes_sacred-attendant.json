@@ -1,0 +1,15 @@
+{
+  "file": "sacred-attendant.md",
+  "source_path": "https://www.d20pfsrd.com/classes/core-classes/cleric/archetypes/paizo-cleric-archetypes/sacred-attendant/",
+  "source_name": "Archetype: Sacred Attendant",
+  "sections": [
+    {
+      "id": "sacred_attendant",
+      "title": "Sacred Attendant",
+      "anchor_heading": "# Sacred Attendant",
+      "description": "Complete description of the Sacred Attendant archetype, including altered or replaced class features.",
+      "keywords": []
+    }
+  ],
+  "category": "Archetypes"
+}

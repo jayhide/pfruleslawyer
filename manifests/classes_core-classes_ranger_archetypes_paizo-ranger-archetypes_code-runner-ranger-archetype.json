@@ -1,0 +1,15 @@
+{
+  "file": "code-runner-ranger-archetype.md",
+  "source_path": "https://www.d20pfsrd.com/classes/core-classes/ranger/archetypes/paizo-ranger-archetypes/code-runner-ranger-archetype/",
+  "source_name": "Archetype: Code Runner",
+  "sections": [
+    {
+      "id": "code_runner_ranger_archetype",
+      "title": "Code Runner",
+      "anchor_heading": "# Code Runner",
+      "description": "Complete description of the Code Runner archetype, including altered or replaced class features.",
+      "keywords": []
+    }
+  ],
+  "category": "Archetypes"
+}

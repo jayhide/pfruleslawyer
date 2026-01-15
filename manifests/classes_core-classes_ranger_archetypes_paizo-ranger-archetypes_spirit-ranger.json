@@ -1,0 +1,15 @@
+{
+  "file": "spirit-ranger.md",
+  "source_path": "https://www.d20pfsrd.com/classes/core-classes/ranger/archetypes/paizo-ranger-archetypes/spirit-ranger/",
+  "source_name": "Archetype: Spirit Ranger",
+  "sections": [
+    {
+      "id": "spirit_ranger",
+      "title": "Spirit Ranger",
+      "anchor_heading": "# Spirit Ranger",
+      "description": "Complete description of the Spirit Ranger archetype, including altered or replaced class features.",
+      "keywords": []
+    }
+  ],
+  "category": "Archetypes"
+}

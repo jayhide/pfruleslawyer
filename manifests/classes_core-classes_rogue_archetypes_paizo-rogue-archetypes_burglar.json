@@ -1,0 +1,15 @@
+{
+  "file": "burglar.md",
+  "source_path": "https://www.d20pfsrd.com/classes/core-classes/rogue/archetypes/paizo-rogue-archetypes/burglar/",
+  "source_name": "Archetype: Burglar",
+  "sections": [
+    {
+      "id": "burglar",
+      "title": "Burglar",
+      "anchor_heading": "# Burglar",
+      "description": "Complete description of the Burglar archetype, including altered or replaced class features.",
+      "keywords": []
+    }
+  ],
+  "category": "Archetypes"
+}

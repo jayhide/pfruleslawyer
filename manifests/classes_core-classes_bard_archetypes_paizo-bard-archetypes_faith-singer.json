@@ -1,0 +1,15 @@
+{
+  "file": "faith-singer.md",
+  "source_path": "https://www.d20pfsrd.com/classes/core-classes/bard/archetypes/paizo-bard-archetypes/faith-singer/",
+  "source_name": "Archetype: Faith Singer",
+  "sections": [
+    {
+      "id": "faith_singer",
+      "title": "Faith Singer",
+      "anchor_heading": "# Faith Singer",
+      "description": "Complete description of the Faith Singer archetype, including altered or replaced class features.",
+      "keywords": []
+    }
+  ],
+  "category": "Archetypes"
+}

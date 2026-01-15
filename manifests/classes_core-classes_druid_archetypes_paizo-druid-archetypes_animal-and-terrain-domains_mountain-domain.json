@@ -1,0 +1,15 @@
+{
+  "file": "mountain-domain.md",
+  "source_path": "https://www.d20pfsrd.com/classes/core-classes/druid/archetypes/paizo-druid-archetypes/animal-and-terrain-domains/mountain-domain/",
+  "source_name": "Archetype: Mountain Domain",
+  "sections": [
+    {
+      "id": "mountain_domain",
+      "title": "Mountain Domain",
+      "anchor_heading": "# Mountain Domain",
+      "description": "Complete description of the Mountain Domain archetype, including altered or replaced class features.",
+      "keywords": []
+    }
+  ],
+  "category": "Archetypes"
+}

@@ -1,0 +1,15 @@
+{
+  "file": "goliath-druid.md",
+  "source_path": "https://www.d20pfsrd.com/classes/core-classes/druid/archetypes/paizo-druid-archetypes/goliath-druid/",
+  "source_name": "Archetype: Goliath Druid",
+  "sections": [
+    {
+      "id": "goliath_druid",
+      "title": "Goliath Druid",
+      "anchor_heading": "# Goliath Druid",
+      "description": "Complete description of the Goliath Druid archetype, including altered or replaced class features.",
+      "keywords": []
+    }
+  ],
+  "category": "Archetypes"
+}

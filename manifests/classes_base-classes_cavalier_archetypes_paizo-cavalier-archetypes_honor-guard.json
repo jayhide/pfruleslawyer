@@ -1,0 +1,15 @@
+{
+  "file": "honor-guard.md",
+  "source_path": "https://www.d20pfsrd.com/classes/base-classes/cavalier/archetypes/paizo-cavalier-archetypes/honor-guard/",
+  "source_name": "Archetype: Honor Guard",
+  "sections": [
+    {
+      "id": "honor_guard",
+      "title": "Honor Guard",
+      "anchor_heading": "# Honor Guard",
+      "description": "Complete description of the Honor Guard archetype, including altered or replaced class features.",
+      "keywords": []
+    }
+  ],
+  "category": "Archetypes"
+}

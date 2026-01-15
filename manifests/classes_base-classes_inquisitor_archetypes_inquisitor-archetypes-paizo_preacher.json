@@ -1,0 +1,15 @@
+{
+  "file": "preacher.md",
+  "source_path": "https://www.d20pfsrd.com/classes/base-classes/inquisitor/archetypes/inquisitor-archetypes-paizo/preacher/",
+  "source_name": "Archetype: Preacher",
+  "sections": [
+    {
+      "id": "preacher",
+      "title": "Preacher",
+      "anchor_heading": "# Preacher",
+      "description": "Complete description of the Preacher archetype, including altered or replaced class features.",
+      "keywords": []
+    }
+  ],
+  "category": "Archetypes"
+}

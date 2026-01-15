@@ -1,0 +1,15 @@
+{
+  "file": "arcane-healer.md",
+  "source_path": "https://www.d20pfsrd.com/classes/core-classes/bard/archetypes/paizo-bard-archetypes/arcane-healer/",
+  "source_name": "Archetype: Arcane Healer",
+  "sections": [
+    {
+      "id": "arcane_healer",
+      "title": "Arcane Healer",
+      "anchor_heading": "# Arcane Healer",
+      "description": "Complete description of the Arcane Healer archetype, including altered or replaced class features.",
+      "keywords": []
+    }
+  ],
+  "category": "Archetypes"
+}

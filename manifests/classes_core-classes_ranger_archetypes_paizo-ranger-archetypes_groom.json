@@ -1,0 +1,15 @@
+{
+  "file": "groom.md",
+  "source_path": "https://www.d20pfsrd.com/classes/core-classes/ranger/archetypes/paizo-ranger-archetypes/groom/",
+  "source_name": "Archetype: Groom",
+  "sections": [
+    {
+      "id": "groom",
+      "title": "Groom",
+      "anchor_heading": "# Groom",
+      "description": "Complete description of the Groom archetype, including altered or replaced class features.",
+      "keywords": []
+    }
+  ],
+  "category": "Archetypes"
+}

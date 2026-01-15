@@ -1,0 +1,15 @@
+{
+  "file": "gendarme.md",
+  "source_path": "https://www.d20pfsrd.com/classes/base-classes/cavalier/archetypes/paizo-cavalier-archetypes/gendarme/",
+  "source_name": "Archetype: Gendarme",
+  "sections": [
+    {
+      "id": "gendarme",
+      "title": "Gendarme",
+      "anchor_heading": "# Gendarme",
+      "description": "Complete description of the Gendarme archetype, including altered or replaced class features.",
+      "keywords": []
+    }
+  ],
+  "category": "Archetypes"
+}

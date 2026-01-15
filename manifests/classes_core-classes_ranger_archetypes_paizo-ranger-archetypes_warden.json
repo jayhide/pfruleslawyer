@@ -1,0 +1,15 @@
+{
+  "file": "warden.md",
+  "source_path": "https://www.d20pfsrd.com/classes/core-classes/ranger/archetypes/paizo-ranger-archetypes/warden/",
+  "source_name": "Archetype: Warden",
+  "sections": [
+    {
+      "id": "warden",
+      "title": "Warden",
+      "anchor_heading": "# Warden",
+      "description": "Complete description of the Warden archetype, including altered or replaced class features.",
+      "keywords": []
+    }
+  ],
+  "category": "Archetypes"
+}

@@ -1,0 +1,15 @@
+{
+  "file": "sacred-shield.md",
+  "source_path": "https://www.d20pfsrd.com/classes/core-classes/paladin/archetypes/paizo-paladin-archetypes/sacred-shield/",
+  "source_name": "Archetype: Sacred Shield",
+  "sections": [
+    {
+      "id": "sacred_shield",
+      "title": "Sacred Shield",
+      "anchor_heading": "# Sacred Shield",
+      "description": "Complete description of the Sacred Shield archetype, including altered or replaced class features.",
+      "keywords": []
+    }
+  ],
+  "category": "Archetypes"
+}

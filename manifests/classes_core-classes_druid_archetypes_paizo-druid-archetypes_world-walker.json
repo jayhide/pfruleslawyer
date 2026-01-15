@@ -1,0 +1,15 @@
+{
+  "file": "world-walker.md",
+  "source_path": "https://www.d20pfsrd.com/classes/core-classes/druid/archetypes/paizo-druid-archetypes/world-walker/",
+  "source_name": "Archetype: World Walker",
+  "sections": [
+    {
+      "id": "world_walker",
+      "title": "World Walker",
+      "anchor_heading": "# World Walker",
+      "description": "Complete description of the World Walker archetype, including altered or replaced class features.",
+      "keywords": []
+    }
+  ],
+  "category": "Archetypes"
+}

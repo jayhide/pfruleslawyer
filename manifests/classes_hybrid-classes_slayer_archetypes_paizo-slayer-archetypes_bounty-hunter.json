@@ -1,0 +1,15 @@
+{
+  "file": "bounty-hunter.md",
+  "source_path": "https://www.d20pfsrd.com/classes/hybrid-classes/slayer/archetypes/paizo-slayer-archetypes/bounty-hunter/",
+  "source_name": "Archetype: Bounty Hunter",
+  "sections": [
+    {
+      "id": "bounty_hunter",
+      "title": "Bounty Hunter",
+      "anchor_heading": "# Bounty Hunter",
+      "description": "Complete description of the Bounty Hunter archetype, including altered or replaced class features.",
+      "keywords": []
+    }
+  ],
+  "category": "Archetypes"
+}

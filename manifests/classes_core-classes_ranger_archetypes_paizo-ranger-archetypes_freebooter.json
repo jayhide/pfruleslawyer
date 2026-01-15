@@ -1,0 +1,15 @@
+{
+  "file": "freebooter.md",
+  "source_path": "https://www.d20pfsrd.com/classes/core-classes/ranger/archetypes/paizo-ranger-archetypes/freebooter/",
+  "source_name": "Archetype: Freebooter",
+  "sections": [
+    {
+      "id": "freebooter",
+      "title": "Freebooter",
+      "anchor_heading": "# Freebooter",
+      "description": "Complete description of the Freebooter archetype, including altered or replaced class features.",
+      "keywords": []
+    }
+  ],
+  "category": "Archetypes"
+}

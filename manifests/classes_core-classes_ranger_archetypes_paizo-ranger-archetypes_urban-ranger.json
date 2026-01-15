@@ -1,0 +1,15 @@
+{
+  "file": "urban-ranger.md",
+  "source_path": "https://www.d20pfsrd.com/classes/core-classes/ranger/archetypes/paizo-ranger-archetypes/urban-ranger/",
+  "source_name": "Archetype: Urban Ranger",
+  "sections": [
+    {
+      "id": "urban_ranger",
+      "title": "Urban Ranger",
+      "anchor_heading": "# Urban Ranger",
+      "description": "Complete description of the Urban Ranger archetype, including altered or replaced class features.",
+      "keywords": []
+    }
+  ],
+  "category": "Archetypes"
+}

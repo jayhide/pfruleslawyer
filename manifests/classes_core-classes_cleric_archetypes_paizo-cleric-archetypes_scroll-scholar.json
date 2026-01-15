@@ -1,0 +1,15 @@
+{
+  "file": "scroll-scholar.md",
+  "source_path": "https://www.d20pfsrd.com/classes/core-classes/cleric/archetypes/paizo-cleric-archetypes/scroll-scholar/",
+  "source_name": "Archetype: Scroll Scholar",
+  "sections": [
+    {
+      "id": "scroll_scholar",
+      "title": "Scroll Scholar",
+      "anchor_heading": "# Scroll Scholar",
+      "description": "Complete description of the Scroll Scholar archetype, including altered or replaced class features.",
+      "keywords": []
+    }
+  ],
+  "category": "Archetypes"
+}

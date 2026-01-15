@@ -1,0 +1,15 @@
+{
+  "file": "unarmed-fighter.md",
+  "source_path": "https://www.d20pfsrd.com/classes/core-classes/fighter/archetypes/paizo-fighter-archetypes/unarmed-fighter/",
+  "source_name": "Archetype: Unarmed Fighter",
+  "sections": [
+    {
+      "id": "unarmed_fighter",
+      "title": "Unarmed Fighter",
+      "anchor_heading": "# Unarmed Fighter",
+      "description": "Complete description of the Unarmed Fighter archetype, including altered or replaced class features.",
+      "keywords": []
+    }
+  ],
+  "category": "Archetypes"
+}

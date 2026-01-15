@@ -1,0 +1,15 @@
+{
+  "file": "desert-domain.md",
+  "source_path": "https://www.d20pfsrd.com/classes/core-classes/druid/archetypes/paizo-druid-archetypes/animal-and-terrain-domains/desert-domain/",
+  "source_name": "Archetype: Desert Domain",
+  "sections": [
+    {
+      "id": "desert_domain",
+      "title": "Desert Domain",
+      "anchor_heading": "# Desert Domain",
+      "description": "Complete description of the Desert Domain archetype, including altered or replaced class features.",
+      "keywords": []
+    }
+  ],
+  "category": "Archetypes"
+}

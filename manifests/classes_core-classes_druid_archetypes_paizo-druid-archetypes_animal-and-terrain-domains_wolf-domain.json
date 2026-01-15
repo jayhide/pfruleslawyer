@@ -1,0 +1,15 @@
+{
+  "file": "wolf-domain.md",
+  "source_path": "https://www.d20pfsrd.com/classes/core-classes/druid/archetypes/paizo-druid-archetypes/animal-and-terrain-domains/wolf-domain/",
+  "source_name": "Archetype: Wolf Domain",
+  "sections": [
+    {
+      "id": "wolf_domain",
+      "title": "Wolf Domain",
+      "anchor_heading": "# Wolf Domain",
+      "description": "Complete description of the Wolf Domain archetype, including altered or replaced class features.",
+      "keywords": []
+    }
+  ],
+  "category": "Archetypes"
+}

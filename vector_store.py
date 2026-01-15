@@ -360,6 +360,11 @@ class RulesVectorStore:
         self._category_weights: dict[str, dict[str, float]] | None = None
         self._config_path = Path("preprocess_config.json")
 
+        # Metadata-only sections (categories with semantic_weight=0)
+        # These are not embedded, only stored for title/keyword matching
+        self._metadata_only_sections: dict[str, dict] | None = None
+        self._metadata_only_path = self.persist_dir / "metadata_only.json"
+
     def _load_category_weights(self) -> None:
         """Load category weights from config file.
 
@@ -407,6 +412,24 @@ class RulesVectorStore:
         if category in self._category_weights:
             return self._category_weights[category]
         return self._category_weights["_default"]
+
+    def _load_metadata_only_sections(self) -> None:
+        """Load metadata-only sections from persistence.
+
+        These are sections from categories with semantic_weight=0 that don't
+        need embeddings but still need to be searchable by title/keyword.
+        """
+        if self._metadata_only_sections is not None:
+            return
+
+        self._metadata_only_sections = {}
+
+        if self._metadata_only_path.exists():
+            try:
+                with open(self._metadata_only_path, encoding="utf-8") as f:
+                    self._metadata_only_sections = json.load(f)
+            except (json.JSONDecodeError, IOError):
+                pass  # Start with empty dict if file is invalid
 
     def _load_keyword_index(self) -> None:
         """Load keyword and subheading indices from manifests.
@@ -494,11 +517,17 @@ class RulesVectorStore:
                     if base_url not in self._anchor_id_index:
                         self._anchor_id_index[base_url] = {}
 
-                    # Get content from ChromaDB to extract actual headings with anchor IDs
-                    result = self.collection.get(ids=[unique_id], include=["metadatas"])
-                    if result["ids"] and result["metadatas"]:
-                        content = result["metadatas"][0].get("content", "")
+                    # Get content from ChromaDB or metadata-only storage
+                    self._load_metadata_only_sections()
+                    content = ""
+                    if unique_id in self._metadata_only_sections:
+                        content = self._metadata_only_sections[unique_id].get("content", "")
+                    else:
+                        result = self.collection.get(ids=[unique_id], include=["metadatas"])
+                        if result["ids"] and result["metadatas"]:
+                            content = result["metadatas"][0].get("content", "")
 
+                    if content:
                         # Extract headings with anchor IDs from content
                         headings = extract_headings_from_content(content)
                         for heading_text, anchor_id in headings:
@@ -723,6 +752,9 @@ class RulesVectorStore:
     def index_sections(self, sections: list[Section], batch_size: int = 50) -> int:
         """Index sections into the vector store.
 
+        Sections from categories with semantic_weight=0 are stored as metadata-only
+        (no embeddings computed), while other sections are embedded in ChromaDB.
+
         Args:
             sections: List of Section objects to index
             batch_size: Number of sections to add at a time
@@ -730,31 +762,42 @@ class RulesVectorStore:
         Returns:
             Number of sections indexed
         """
-        # Clear existing data
+        # Load category weights to determine which sections need embeddings
+        self._load_category_weights()
+
+        # Split sections by whether they need semantic embeddings
+        semantic_sections = []
+        metadata_only_sections = []
+
+        for section in sections:
+            weights = self._get_weights_for_category(section.category)
+            if weights.get("semantic_weight", 1.0) == 0:
+                metadata_only_sections.append(section)
+            else:
+                semantic_sections.append(section)
+
+        print(f"Indexing {len(sections)} sections ({len(semantic_sections)} semantic, {len(metadata_only_sections)} metadata-only)...")
+
+        # Clear existing ChromaDB data
         existing = self.collection.count()
         if existing > 0:
-            print(f"Clearing {existing} existing documents...")
-            # Get all IDs and delete them
+            print(f"Clearing {existing} existing documents from ChromaDB...")
             all_ids = self.collection.get()["ids"]
             if all_ids:
                 self.collection.delete(ids=all_ids)
 
-        print(f"Indexing {len(sections)} sections...")
+        # Clear existing metadata-only sections
+        self._metadata_only_sections = {}
 
-        # Prepare documents for indexing
-        # We embed a combination of title, description, keywords, and content
-        # for better semantic matching
-        for i in range(0, len(sections), batch_size):
-            batch = sections[i:i + batch_size]
+        # Index semantic sections to ChromaDB (with embeddings)
+        for i in range(0, len(semantic_sections), batch_size):
+            batch = semantic_sections[i:i + batch_size]
 
             ids = []
             documents = []
             metadatas = []
 
             for section in batch:
-                # Create a rich document for embedding
-                # Include title, description, keywords prominently
-                # Strip markdown links for cleaner semantic embedding
                 keywords_str = ", ".join(section.keywords)
                 stripped_content = strip_markdown_links(section.content)
                 doc_text = f"""Title: {section.title}
@@ -763,7 +806,6 @@ Keywords: {keywords_str}
 
 {stripped_content}"""
 
-                # Use source_file + id to ensure uniqueness across files
                 unique_id = f"{section.source_file}::{section.id}"
                 ids.append(unique_id)
                 documents.append(doc_text)
@@ -774,7 +816,7 @@ Keywords: {keywords_str}
                     "source_file": section.source_file,
                     "source_name": section.source_name,
                     "anchor_heading": section.anchor_heading,
-                    "content": section.content,  # Original content with links
+                    "content": section.content,
                     "content_length": len(section.content),
                     "category": section.category
                 })
@@ -785,7 +827,27 @@ Keywords: {keywords_str}
                 metadatas=metadatas
             )
 
-            print(f"  Indexed {min(i + batch_size, len(sections))}/{len(sections)}")
+            print(f"  Indexed {min(i + batch_size, len(semantic_sections))}/{len(semantic_sections)}")
+
+        # Store metadata-only sections (no embedding computation)
+        print(f"Storing {len(metadata_only_sections)} metadata-only sections...")
+        for section in metadata_only_sections:
+            unique_id = f"{section.source_file}::{section.id}"
+            self._metadata_only_sections[unique_id] = {
+                "title": section.title,
+                "description": section.description,
+                "keywords": ", ".join(section.keywords),
+                "source_file": section.source_file,
+                "source_name": section.source_name,
+                "anchor_heading": section.anchor_heading,
+                "content": section.content,
+                "content_length": len(section.content),
+                "category": section.category
+            }
+
+        # Persist metadata-only sections to disk
+        with open(self._metadata_only_path, "w", encoding="utf-8") as f:
+            json.dump(self._metadata_only_sections, f)
 
         return len(sections)
 
@@ -880,52 +942,91 @@ Keywords: {keywords_str}
                 "content": results["metadatas"][0][i].get("content") if include_content else None
             }
 
-        # Add any exact matches not in vector results - compute their semantic scores
+        # Add any exact matches not in vector results
         missing_ids = [uid for uid in exact_matches if uid not in results_by_id]
         if missing_ids:
-            # Get embeddings for missing docs to compute actual semantic similarity
-            extra_results = self.collection.get(
-                ids=missing_ids,
-                include=["documents", "metadatas", "embeddings"]
-            )
+            # Load metadata-only sections
+            self._load_metadata_only_sections()
 
-            # Get query embedding
-            query_embedding = self.embedding_fn([query_text])[0]
+            # Separate into metadata-only vs ChromaDB sections
+            metadata_only_ids = [uid for uid in missing_ids if uid in self._metadata_only_sections]
+            chromadb_ids = [uid for uid in missing_ids if uid not in self._metadata_only_sections]
 
-            for i, uid in enumerate(extra_results["ids"]):
-                # Compute cosine distance between query and document embedding
-                doc_embedding = extra_results["embeddings"][i]
-                distance = self._cosine_distance(query_embedding, doc_embedding)
-                raw_semantic_score = 1 / (1 + distance)
+            # Handle metadata-only sections (no embedding lookup needed)
+            for uid in metadata_only_ids:
+                metadata = self._metadata_only_sections[uid]
+                category = metadata.get("category", "Uncategorized")
 
-                category = extra_results["metadatas"][i].get("category", "Uncategorized")
-
-                # Apply category-specific weights
+                # Apply category-specific weights (semantic_weight=0 for these)
                 raw_matches = _get_raw_matches(uid)
                 final_score, weighted_semantic, keyword_boost, subheading_boost, title_boost = _apply_category_weights(
-                    raw_semantic_score, raw_matches, category
+                    0.0, raw_matches, category  # No semantic score for metadata-only
                 )
 
                 results_by_id[uid] = {
                     "id": uid,
-                    "title": extra_results["metadatas"][i]["title"],
-                    "description": extra_results["metadatas"][i]["description"],
-                    "keywords": extra_results["metadatas"][i]["keywords"],
-                    "source_file": extra_results["metadatas"][i]["source_file"],
-                    "source_name": extra_results["metadatas"][i].get("source_name") or self._fallback_source_name(extra_results["metadatas"][i]["source_file"]),
+                    "title": metadata["title"],
+                    "description": metadata["description"],
+                    "keywords": metadata["keywords"],
+                    "source_file": metadata["source_file"],
+                    "source_name": metadata.get("source_name") or self._fallback_source_name(metadata["source_file"]),
                     "category": category,
-                    "distance": distance,
+                    "distance": float("inf"),  # No embedding distance
                     "score": final_score,
                     "semantic_score": weighted_semantic,
                     "keyword_boost": keyword_boost,
                     "subheading_boost": subheading_boost,
                     "title_boost": title_boost,
-                    # Return original content with links from metadata
-                    "content": extra_results["metadatas"][i].get("content") if include_content else None
+                    "content": metadata.get("content") if include_content else None
                 }
+
+            # Handle ChromaDB sections - compute their semantic scores
+            if chromadb_ids:
+                extra_results = self.collection.get(
+                    ids=chromadb_ids,
+                    include=["documents", "metadatas", "embeddings"]
+                )
+
+                # Get query embedding
+                query_embedding = self.embedding_fn([query_text])[0]
+
+                for i, uid in enumerate(extra_results["ids"]):
+                    # Compute cosine distance between query and document embedding
+                    doc_embedding = extra_results["embeddings"][i]
+                    distance = self._cosine_distance(query_embedding, doc_embedding)
+                    raw_semantic_score = 1 / (1 + distance)
+
+                    category = extra_results["metadatas"][i].get("category", "Uncategorized")
+
+                    # Apply category-specific weights
+                    raw_matches = _get_raw_matches(uid)
+                    final_score, weighted_semantic, keyword_boost, subheading_boost, title_boost = _apply_category_weights(
+                        raw_semantic_score, raw_matches, category
+                    )
+
+                    results_by_id[uid] = {
+                        "id": uid,
+                        "title": extra_results["metadatas"][i]["title"],
+                        "description": extra_results["metadatas"][i]["description"],
+                        "keywords": extra_results["metadatas"][i]["keywords"],
+                        "source_file": extra_results["metadatas"][i]["source_file"],
+                        "source_name": extra_results["metadatas"][i].get("source_name") or self._fallback_source_name(extra_results["metadatas"][i]["source_file"]),
+                        "category": category,
+                        "distance": distance,
+                        "score": final_score,
+                        "semantic_score": weighted_semantic,
+                        "keyword_boost": keyword_boost,
+                        "subheading_boost": subheading_boost,
+                        "title_boost": title_boost,
+                        "content": extra_results["metadatas"][i].get("content") if include_content else None
+                    }
 
         # Sort by score and return top n
         sorted_results = sorted(results_by_id.values(), key=lambda x: x["score"], reverse=True)
+
+        # Filter out results with zero retrieval score - they weren't truly retrieved
+        # (e.g., categories with semantic_weight=0 that had no title/keyword match)
+        sorted_results = [r for r in sorted_results if r["score"] > 0]
 
         # Take top candidates for reranking (more than n_results to give reranker options)
         candidates = sorted_results[:n_results * 2] if rerank else sorted_results[:n_results]

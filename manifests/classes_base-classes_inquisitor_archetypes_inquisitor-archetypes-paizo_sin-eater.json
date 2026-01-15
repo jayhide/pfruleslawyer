@@ -1,0 +1,15 @@
+{
+  "file": "sin-eater.md",
+  "source_path": "https://www.d20pfsrd.com/classes/base-classes/inquisitor/archetypes/inquisitor-archetypes-paizo/sin-eater/",
+  "source_name": "Archetype: Sin Eater",
+  "sections": [
+    {
+      "id": "sin_eater",
+      "title": "Sin Eater",
+      "anchor_heading": "# Sin Eater",
+      "description": "Complete description of the Sin Eater archetype, including altered or replaced class features.",
+      "keywords": []
+    }
+  ],
+  "category": "Archetypes"
+}

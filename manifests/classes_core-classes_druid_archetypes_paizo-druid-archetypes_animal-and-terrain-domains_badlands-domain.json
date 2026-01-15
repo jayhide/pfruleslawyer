@@ -1,0 +1,15 @@
+{
+  "file": "badlands-domain.md",
+  "source_path": "https://www.d20pfsrd.com/classes/core-classes/druid/archetypes/paizo-druid-archetypes/animal-and-terrain-domains/badlands-domain/",
+  "source_name": "Archetype: Badlands Domain",
+  "sections": [
+    {
+      "id": "badlands_domain",
+      "title": "Badlands Domain",
+      "anchor_heading": "# Badlands Domain",
+      "description": "Complete description of the Badlands Domain archetype, including altered or replaced class features.",
+      "keywords": []
+    }
+  ],
+  "category": "Archetypes"
+}

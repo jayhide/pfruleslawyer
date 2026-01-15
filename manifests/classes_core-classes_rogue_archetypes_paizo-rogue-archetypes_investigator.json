@@ -1,0 +1,15 @@
+{
+  "file": "investigator.md",
+  "source_path": "https://www.d20pfsrd.com/classes/core-classes/rogue/archetypes/paizo-rogue-archetypes/investigator/",
+  "source_name": "Archetype: Investigator",
+  "sections": [
+    {
+      "id": "investigator",
+      "title": "Investigator",
+      "anchor_heading": "# Investigator",
+      "description": "Complete description of the Investigator archetype, including altered or replaced class features.",
+      "keywords": []
+    }
+  ],
+  "category": "Archetypes"
+}

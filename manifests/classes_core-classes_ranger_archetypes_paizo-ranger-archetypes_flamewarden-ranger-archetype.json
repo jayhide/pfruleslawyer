@@ -1,0 +1,15 @@
+{
+  "file": "flamewarden-ranger-archetype.md",
+  "source_path": "https://www.d20pfsrd.com/classes/core-classes/ranger/archetypes/paizo-ranger-archetypes/flamewarden-ranger-archetype/",
+  "source_name": "Archetype: Flamewarden",
+  "sections": [
+    {
+      "id": "flamewarden_ranger_archetype",
+      "title": "Flamewarden",
+      "anchor_heading": "# Flamewarden",
+      "description": "Complete description of the Flamewarden archetype, including altered or replaced class features.",
+      "keywords": []
+    }
+  ],
+  "category": "Archetypes"
+}

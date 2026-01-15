@@ -1,0 +1,15 @@
+{
+  "file": "sensei.md",
+  "source_path": "https://www.d20pfsrd.com/classes/core-classes/monk/archetypes/paizo-monk-archetypes/sensei/",
+  "source_name": "Archetype: Sensei",
+  "sections": [
+    {
+      "id": "sensei",
+      "title": "Sensei",
+      "anchor_heading": "# Sensei",
+      "description": "Complete description of the Sensei archetype, including altered or replaced class features.",
+      "keywords": []
+    }
+  ],
+  "category": "Archetypes"
+}

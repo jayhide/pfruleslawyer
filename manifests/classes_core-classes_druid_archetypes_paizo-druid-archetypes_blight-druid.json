@@ -1,0 +1,15 @@
+{
+  "file": "blight-druid.md",
+  "source_path": "https://www.d20pfsrd.com/classes/core-classes/druid/archetypes/paizo-druid-archetypes/blight-druid/",
+  "source_name": "Archetype: Blight Druid",
+  "sections": [
+    {
+      "id": "blight_druid",
+      "title": "Blight Druid",
+      "anchor_heading": "# Blight Druid",
+      "description": "Complete description of the Blight Druid archetype, including altered or replaced class features.",
+      "keywords": []
+    }
+  ],
+  "category": "Archetypes"
+}

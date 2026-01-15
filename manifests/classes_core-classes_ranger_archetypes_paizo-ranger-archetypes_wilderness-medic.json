@@ -1,0 +1,15 @@
+{
+  "file": "wilderness-medic.md",
+  "source_path": "https://www.d20pfsrd.com/classes/core-classes/ranger/archetypes/paizo-ranger-archetypes/wilderness-medic/",
+  "source_name": "Archetype: Wilderness Medic",
+  "sections": [
+    {
+      "id": "wilderness_medic",
+      "title": "Wilderness Medic",
+      "anchor_heading": "# Wilderness Medic",
+      "description": "Complete description of the Wilderness Medic archetype, including altered or replaced class features.",
+      "keywords": []
+    }
+  ],
+  "category": "Archetypes"
+}

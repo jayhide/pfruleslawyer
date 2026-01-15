@@ -1,0 +1,15 @@
+{
+  "file": "sandman.md",
+  "source_path": "https://www.d20pfsrd.com/classes/core-classes/bard/archetypes/paizo-bard-archetypes/sandman/",
+  "source_name": "Archetype: Sandman",
+  "sections": [
+    {
+      "id": "sandman",
+      "title": "Sandman",
+      "anchor_heading": "# Sandman",
+      "description": "Complete description of the Sandman archetype, including altered or replaced class features.",
+      "keywords": []
+    }
+  ],
+  "category": "Archetypes"
+}

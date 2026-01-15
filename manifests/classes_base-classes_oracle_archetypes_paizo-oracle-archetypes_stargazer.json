@@ -1,0 +1,15 @@
+{
+  "file": "stargazer.md",
+  "source_path": "https://www.d20pfsrd.com/classes/base-classes/oracle/archetypes/paizo-oracle-archetypes/stargazer/",
+  "source_name": "Archetype: Stargazer",
+  "sections": [
+    {
+      "id": "stargazer",
+      "title": "Stargazer",
+      "anchor_heading": "# Stargazer",
+      "description": "Complete description of the Stargazer archetype, including altered or replaced class features.",
+      "keywords": []
+    }
+  ],
+  "category": "Archetypes"
+}

@@ -1,0 +1,15 @@
+{
+  "file": "drunken-master.md",
+  "source_path": "https://www.d20pfsrd.com/classes/core-classes/monk/archetypes/paizo-monk-archetypes/drunken-master/",
+  "source_name": "Archetype: Drunken Master",
+  "sections": [
+    {
+      "id": "drunken_master",
+      "title": "Drunken Master",
+      "anchor_heading": "# Drunken Master",
+      "description": "Complete description of the Drunken Master archetype, including altered or replaced class features.",
+      "keywords": []
+    }
+  ],
+  "category": "Archetypes"
+}

@@ -1,0 +1,15 @@
+{
+  "file": "internal-alchemist.md",
+  "source_path": "https://www.d20pfsrd.com/classes/base-classes/alchemist/archetypes/paizo-alchemist-archetypes/internal-alchemist/",
+  "source_name": "Archetype: Internal Alchemist",
+  "sections": [
+    {
+      "id": "internal_alchemist",
+      "title": "Internal Alchemist",
+      "anchor_heading": "# Internal Alchemist",
+      "description": "Complete description of the Internal Alchemist archetype, including altered or replaced class features.",
+      "keywords": []
+    }
+  ],
+  "category": "Archetypes"
+}

@@ -1,0 +1,15 @@
+{
+  "file": "arcane-physician.md",
+  "source_path": "https://www.d20pfsrd.com/classes/core-classes/wizard/archetypes/paizo-wizard-archetypes/arcane-physician/",
+  "source_name": "Archetype: Arcane Physician",
+  "sections": [
+    {
+      "id": "arcane_physician",
+      "title": "Arcane Physician",
+      "anchor_heading": "# Arcane Physician",
+      "description": "Complete description of the Arcane Physician archetype, including altered or replaced class features.",
+      "keywords": []
+    }
+  ],
+  "category": "Archetypes"
+}

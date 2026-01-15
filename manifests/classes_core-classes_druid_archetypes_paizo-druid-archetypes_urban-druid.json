@@ -1,0 +1,15 @@
+{
+  "file": "urban-druid.md",
+  "source_path": "https://www.d20pfsrd.com/classes/core-classes/druid/archetypes/paizo-druid-archetypes/urban-druid/",
+  "source_name": "Archetype: Urban Druid",
+  "sections": [
+    {
+      "id": "urban_druid",
+      "title": "Urban Druid",
+      "anchor_heading": "# Urban Druid",
+      "description": "Complete description of the Urban Druid archetype, including altered or replaced class features.",
+      "keywords": []
+    }
+  ],
+  "category": "Archetypes"
+}

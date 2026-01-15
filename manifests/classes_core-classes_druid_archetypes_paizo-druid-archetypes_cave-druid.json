@@ -1,0 +1,15 @@
+{
+  "file": "cave-druid.md",
+  "source_path": "https://www.d20pfsrd.com/classes/core-classes/druid/archetypes/paizo-druid-archetypes/cave-druid/",
+  "source_name": "Archetype: Cave Druid",
+  "sections": [
+    {
+      "id": "cave_druid",
+      "title": "Cave Druid",
+      "anchor_heading": "# Cave Druid",
+      "description": "Complete description of the Cave Druid archetype, including altered or replaced class features.",
+      "keywords": []
+    }
+  ],
+  "category": "Archetypes"
+}

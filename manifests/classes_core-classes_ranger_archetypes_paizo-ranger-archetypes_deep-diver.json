@@ -1,0 +1,15 @@
+{
+  "file": "deep-diver.md",
+  "source_path": "https://www.d20pfsrd.com/classes/core-classes/ranger/archetypes/paizo-ranger-archetypes/deep-diver/",
+  "source_name": "Archetype: Deep Diver",
+  "sections": [
+    {
+      "id": "deep_diver",
+      "title": "Deep Diver",
+      "anchor_heading": "# Deep Diver",
+      "description": "Complete description of the Deep Diver archetype, including altered or replaced class features.",
+      "keywords": []
+    }
+  ],
+  "category": "Archetypes"
+}

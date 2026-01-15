@@ -1,0 +1,15 @@
+{
+  "file": "crocodile-domain.md",
+  "source_path": "https://www.d20pfsrd.com/classes/core-classes/druid/archetypes/paizo-druid-archetypes/animal-and-terrain-domains/crocodile-domain/",
+  "source_name": "Archetype: Crocodile Domain",
+  "sections": [
+    {
+      "id": "crocodile_domain",
+      "title": "Crocodile Domain",
+      "anchor_heading": "# Crocodile Domain",
+      "description": "Complete description of the Crocodile Domain archetype, including altered or replaced class features.",
+      "keywords": []
+    }
+  ],
+  "category": "Archetypes"
+}

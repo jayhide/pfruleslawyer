@@ -1,0 +1,15 @@
+{
+  "file": "eldritch-font.md",
+  "source_path": "https://www.d20pfsrd.com/classes/hybrid-classes/arcanist/archetypes/paizo-arcanist-archetypes/eldritch-font/",
+  "source_name": "Archetype: Eldritch Font",
+  "sections": [
+    {
+      "id": "eldritch_font",
+      "title": "Eldritch Font",
+      "anchor_heading": "# Eldritch Font",
+      "description": "Complete description of the Eldritch Font archetype, including altered or replaced class features.",
+      "keywords": []
+    }
+  ],
+  "category": "Archetypes"
+}

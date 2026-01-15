@@ -1,0 +1,15 @@
+{
+  "file": "arctic-domain.md",
+  "source_path": "https://www.d20pfsrd.com/classes/core-classes/druid/archetypes/paizo-druid-archetypes/animal-and-terrain-domains/arctic-domain/",
+  "source_name": "Archetype: Arctic Domain",
+  "sections": [
+    {
+      "id": "arctic_domain",
+      "title": "Arctic Domain",
+      "anchor_heading": "# Arctic Domain",
+      "description": "Complete description of the Arctic Domain archetype, including altered or replaced class features.",
+      "keywords": []
+    }
+  ],
+  "category": "Archetypes"
+}

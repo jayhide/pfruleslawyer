@@ -1,0 +1,15 @@
+{
+  "file": "jungle-domain.md",
+  "source_path": "https://www.d20pfsrd.com/classes/core-classes/druid/archetypes/paizo-druid-archetypes/animal-and-terrain-domains/jungle-domain/",
+  "source_name": "Archetype: Jungle Domain",
+  "sections": [
+    {
+      "id": "jungle_domain",
+      "title": "Jungle Domain",
+      "anchor_heading": "# Jungle Domain",
+      "description": "Complete description of the Jungle Domain archetype, including altered or replaced class features.",
+      "keywords": []
+    }
+  ],
+  "category": "Archetypes"
+}

@@ -1,0 +1,15 @@
+{
+  "file": "cave-domain.md",
+  "source_path": "https://www.d20pfsrd.com/classes/core-classes/druid/archetypes/paizo-druid-archetypes/animal-and-terrain-domains/cave-domain/",
+  "source_name": "Archetype: Cave Domain",
+  "sections": [
+    {
+      "id": "cave_domain",
+      "title": "Cave Domain",
+      "anchor_heading": "# Cave Domain",
+      "description": "Complete description of the Cave Domain archetype, including altered or replaced class features.",
+      "keywords": []
+    }
+  ],
+  "category": "Archetypes"
+}

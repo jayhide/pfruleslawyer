@@ -1,0 +1,15 @@
+{
+  "file": "shadow-scion.md",
+  "source_path": "https://www.d20pfsrd.com/classes/core-classes/rogue/archetypes/paizo-rogue-archetypes/shadow-scion/",
+  "source_name": "Archetype: Shadow Scion",
+  "sections": [
+    {
+      "id": "shadow_scion",
+      "title": "Shadow Scion",
+      "anchor_heading": "# Shadow Scion",
+      "description": "Complete description of the Shadow Scion archetype, including altered or replaced class features.",
+      "keywords": []
+    }
+  ],
+  "category": "Archetypes"
+}

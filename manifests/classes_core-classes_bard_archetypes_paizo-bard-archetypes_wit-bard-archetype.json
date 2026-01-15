@@ -1,0 +1,15 @@
+{
+  "file": "wit-bard-archetype.md",
+  "source_path": "https://www.d20pfsrd.com/classes/core-classes/bard/archetypes/paizo-bard-archetypes/wit-bard-archetype/",
+  "source_name": "Archetype: Wit",
+  "sections": [
+    {
+      "id": "wit_bard_archetype",
+      "title": "Wit",
+      "anchor_heading": "# Wit",
+      "description": "Complete description of the Wit archetype, including altered or replaced class features.",
+      "keywords": []
+    }
+  ],
+  "category": "Archetypes"
+}

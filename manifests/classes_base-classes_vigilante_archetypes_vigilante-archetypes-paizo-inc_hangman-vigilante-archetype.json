@@ -1,0 +1,15 @@
+{
+  "file": "hangman-vigilante-archetype.md",
+  "source_path": "https://www.d20pfsrd.com/classes/base-classes/vigilante/archetypes/vigilante-archetypes-paizo-inc/hangman-vigilante-archetype/",
+  "source_name": "Archetype: Hangman",
+  "sections": [
+    {
+      "id": "hangman_vigilante_archetype",
+      "title": "Hangman",
+      "anchor_heading": "# Hangman",
+      "description": "Complete description of the Hangman archetype, including altered or replaced class features.",
+      "keywords": []
+    }
+  ],
+  "category": "Archetypes"
+}

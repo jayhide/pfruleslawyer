@@ -1,0 +1,15 @@
+{
+  "file": "hermit.md",
+  "source_path": "https://www.d20pfsrd.com/classes/base-classes/oracle/archetypes/paizo-oracle-archetypes/hermit/",
+  "source_name": "Archetype: Hermit",
+  "sections": [
+    {
+      "id": "hermit",
+      "title": "Hermit",
+      "anchor_heading": "# Hermit",
+      "description": "Complete description of the Hermit archetype, including altered or replaced class features.",
+      "keywords": []
+    }
+  ],
+  "category": "Archetypes"
+}

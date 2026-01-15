@@ -1,0 +1,15 @@
+{
+  "file": "master-summoner.md",
+  "source_path": "https://www.d20pfsrd.com/classes/base-classes/summoner/archetypes/paizo-summoner-archetypes/master-summoner/",
+  "source_name": "Archetype: Master Summoner",
+  "sections": [
+    {
+      "id": "master_summoner",
+      "title": "Master Summoner",
+      "anchor_heading": "# Master Summoner",
+      "description": "Complete description of the Master Summoner archetype, including altered or replaced class features.",
+      "keywords": []
+    }
+  ],
+  "category": "Archetypes"
+}

@@ -1,0 +1,15 @@
+{
+  "file": "arctic-druid.md",
+  "source_path": "https://www.d20pfsrd.com/classes/core-classes/druid/archetypes/paizo-druid-archetypes/arctic-druid/",
+  "source_name": "Archetype: Arctic Druid",
+  "sections": [
+    {
+      "id": "arctic_druid",
+      "title": "Arctic Druid",
+      "anchor_heading": "# Arctic Druid",
+      "description": "Complete description of the Arctic Druid archetype, including altered or replaced class features.",
+      "keywords": []
+    }
+  ],
+  "category": "Archetypes"
+}

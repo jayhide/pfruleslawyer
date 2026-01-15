@@ -1,0 +1,15 @@
+{
+  "file": "bandit.md",
+  "source_path": "https://www.d20pfsrd.com/classes/core-classes/rogue/archetypes/paizo-rogue-archetypes/bandit/",
+  "source_name": "Archetype: Bandit",
+  "sections": [
+    {
+      "id": "bandit",
+      "title": "Bandit",
+      "anchor_heading": "# Bandit",
+      "description": "Complete description of the Bandit archetype, including altered or replaced class features.",
+      "keywords": []
+    }
+  ],
+  "category": "Archetypes"
+}

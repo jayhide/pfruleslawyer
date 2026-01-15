@@ -1,0 +1,15 @@
+{
+  "file": "armor-master.md",
+  "source_path": "https://www.d20pfsrd.com/classes/core-classes/fighter/archetypes/paizo-fighter-archetypes/armor-master/",
+  "source_name": "Archetype: Armor Master",
+  "sections": [
+    {
+      "id": "armor_master",
+      "title": "Armor Master",
+      "anchor_heading": "# Armor Master",
+      "description": "Complete description of the Armor Master archetype, including altered or replaced class features.",
+      "keywords": []
+    }
+  ],
+  "category": "Archetypes"
+}

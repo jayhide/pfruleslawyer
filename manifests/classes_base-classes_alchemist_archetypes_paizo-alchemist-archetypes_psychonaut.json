@@ -1,0 +1,15 @@
+{
+  "file": "psychonaut.md",
+  "source_path": "https://www.d20pfsrd.com/classes/base-classes/alchemist/archetypes/paizo-alchemist-archetypes/psychonaut/",
+  "source_name": "Archetype: Psychonaut",
+  "sections": [
+    {
+      "id": "psychonaut",
+      "title": "Psychonaut",
+      "anchor_heading": "# Psychonaut",
+      "description": "Complete description of the Psychonaut archetype, including altered or replaced class features.",
+      "keywords": []
+    }
+  ],
+  "category": "Archetypes"
+}

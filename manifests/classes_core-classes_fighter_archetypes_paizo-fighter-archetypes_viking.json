@@ -1,0 +1,15 @@
+{
+  "file": "viking.md",
+  "source_path": "https://www.d20pfsrd.com/classes/core-classes/fighter/archetypes/paizo-fighter-archetypes/viking/",
+  "source_name": "Archetype: Viking (PPC:PotN)",
+  "sections": [
+    {
+      "id": "viking",
+      "title": "Viking (PPC:PotN)",
+      "anchor_heading": "# Viking (PPC:PotN)",
+      "description": "Complete description of the Viking (PPC:PotN) archetype, including altered or replaced class features.",
+      "keywords": []
+    }
+  ],
+  "category": "Archetypes"
+}

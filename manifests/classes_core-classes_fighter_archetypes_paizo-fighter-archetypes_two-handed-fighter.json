@@ -1,0 +1,15 @@
+{
+  "file": "two-handed-fighter.md",
+  "source_path": "https://www.d20pfsrd.com/classes/core-classes/fighter/archetypes/paizo-fighter-archetypes/two-handed-fighter/",
+  "source_name": "Archetype: Two-Handed Fighter",
+  "sections": [
+    {
+      "id": "two_handed_fighter",
+      "title": "Two-Handed Fighter",
+      "anchor_heading": "# Two-Handed Fighter",
+      "description": "Complete description of the Two-Handed Fighter archetype, including altered or replaced class features.",
+      "keywords": []
+    }
+  ],
+  "category": "Archetypes"
+}

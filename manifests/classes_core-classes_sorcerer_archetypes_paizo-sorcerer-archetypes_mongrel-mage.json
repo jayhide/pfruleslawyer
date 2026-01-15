@@ -1,0 +1,15 @@
+{
+  "file": "mongrel-mage.md",
+  "source_path": "https://www.d20pfsrd.com/classes/core-classes/sorcerer/archetypes/paizo-sorcerer-archetypes/mongrel-mage/",
+  "source_name": "Archetype: Mongrel Mage",
+  "sections": [
+    {
+      "id": "mongrel_mage",
+      "title": "Mongrel Mage",
+      "anchor_heading": "# Mongrel Mage",
+      "description": "Complete description of the Mongrel Mage archetype, including altered or replaced class features.",
+      "keywords": []
+    }
+  ],
+  "category": "Archetypes"
+}

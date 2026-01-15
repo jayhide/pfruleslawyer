@@ -1,0 +1,15 @@
+{
+  "file": "bat-shaman.md",
+  "source_path": "https://www.d20pfsrd.com/classes/core-classes/druid/archetypes/paizo-druid-archetypes/bat-shaman/",
+  "source_name": "Archetype: Bat Shaman",
+  "sections": [
+    {
+      "id": "bat_shaman",
+      "title": "Bat Shaman",
+      "anchor_heading": "# Bat Shaman",
+      "description": "Complete description of the Bat Shaman archetype, including altered or replaced class features.",
+      "keywords": []
+    }
+  ],
+  "category": "Archetypes"
+}

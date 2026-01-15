@@ -1,0 +1,15 @@
+{
+  "file": "maneuver-master.md",
+  "source_path": "https://www.d20pfsrd.com/classes/core-classes/monk/archetypes/paizo-monk-archetypes/maneuver-master/",
+  "source_name": "Archetype: Maneuver Master",
+  "sections": [
+    {
+      "id": "maneuver_master",
+      "title": "Maneuver Master",
+      "anchor_heading": "# Maneuver Master",
+      "description": "Complete description of the Maneuver Master archetype, including altered or replaced class features.",
+      "keywords": []
+    }
+  ],
+  "category": "Archetypes"
+}

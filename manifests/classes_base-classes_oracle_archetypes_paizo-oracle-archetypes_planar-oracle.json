@@ -1,0 +1,15 @@
+{
+  "file": "planar-oracle.md",
+  "source_path": "https://www.d20pfsrd.com/classes/base-classes/oracle/archetypes/paizo-oracle-archetypes/planar-oracle/",
+  "source_name": "Archetype: Planar Oracle",
+  "sections": [
+    {
+      "id": "planar_oracle",
+      "title": "Planar Oracle",
+      "anchor_heading": "# Planar Oracle",
+      "description": "Complete description of the Planar Oracle archetype, including altered or replaced class features.",
+      "keywords": []
+    }
+  ],
+  "category": "Archetypes"
+}

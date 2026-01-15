@@ -1,0 +1,15 @@
+{
+  "file": "bolt-ace.md",
+  "source_path": "https://www.d20pfsrd.com/classes/base-classes/gunslinger/archetypes/paizo-gunslinger-archetypes/bolt-ace/",
+  "source_name": "Archetype: Bolt Ace",
+  "sections": [
+    {
+      "id": "bolt_ace",
+      "title": "Bolt Ace",
+      "anchor_heading": "# Bolt Ace",
+      "description": "Complete description of the Bolt Ace archetype, including altered or replaced class features.",
+      "keywords": []
+    }
+  ],
+  "category": "Archetypes"
+}

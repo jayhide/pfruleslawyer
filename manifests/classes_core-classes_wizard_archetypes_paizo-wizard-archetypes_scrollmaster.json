@@ -1,0 +1,15 @@
+{
+  "file": "scrollmaster.md",
+  "source_path": "https://www.d20pfsrd.com/classes/core-classes/wizard/archetypes/paizo-wizard-archetypes/scrollmaster/",
+  "source_name": "Archetype: Scrollmaster",
+  "sections": [
+    {
+      "id": "scrollmaster",
+      "title": "Scrollmaster",
+      "anchor_heading": "# Scrollmaster",
+      "description": "Complete description of the Scrollmaster archetype, including altered or replaced class features.",
+      "keywords": []
+    }
+  ],
+  "category": "Archetypes"
+}

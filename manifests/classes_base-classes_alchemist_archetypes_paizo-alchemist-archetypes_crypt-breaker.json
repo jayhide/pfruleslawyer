@@ -1,0 +1,15 @@
+{
+  "file": "crypt-breaker.md",
+  "source_path": "https://www.d20pfsrd.com/classes/base-classes/alchemist/archetypes/paizo-alchemist-archetypes/crypt-breaker/",
+  "source_name": "Archetype: Crypt Breaker",
+  "sections": [
+    {
+      "id": "crypt_breaker",
+      "title": "Crypt Breaker",
+      "anchor_heading": "# Crypt Breaker",
+      "description": "Complete description of the Crypt Breaker archetype, including altered or replaced class features.",
+      "keywords": []
+    }
+  ],
+  "category": "Archetypes"
+}

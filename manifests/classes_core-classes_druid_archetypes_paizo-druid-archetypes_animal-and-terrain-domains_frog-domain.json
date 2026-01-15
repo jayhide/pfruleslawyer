@@ -1,0 +1,15 @@
+{
+  "file": "frog-domain.md",
+  "source_path": "https://www.d20pfsrd.com/classes/core-classes/druid/archetypes/paizo-druid-archetypes/animal-and-terrain-domains/frog-domain/",
+  "source_name": "Archetype: Frog Domain",
+  "sections": [
+    {
+      "id": "frog_domain",
+      "title": "Frog Domain",
+      "anchor_heading": "# Frog Domain",
+      "description": "Complete description of the Frog Domain archetype, including altered or replaced class features.",
+      "keywords": []
+    }
+  ],
+  "category": "Archetypes"
+}

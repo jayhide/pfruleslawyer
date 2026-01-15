@@ -1,0 +1,15 @@
+{
+  "file": "legate-paladin-archetype.md",
+  "source_path": "https://www.d20pfsrd.com/classes/core-classes/paladin/archetypes/paizo-paladin-archetypes/legate-paladin-archetype/",
+  "source_name": "Archetype: Legate",
+  "sections": [
+    {
+      "id": "legate_paladin_archetype",
+      "title": "Legate",
+      "anchor_heading": "# Legate",
+      "description": "Complete description of the Legate archetype, including altered or replaced class features.",
+      "keywords": []
+    }
+  ],
+  "category": "Archetypes"
+}

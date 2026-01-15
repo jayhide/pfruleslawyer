@@ -1,0 +1,15 @@
+{
+  "file": "witchguard.md",
+  "source_path": "https://www.d20pfsrd.com/classes/core-classes/ranger/archetypes/paizo-ranger-archetypes/witchguard/",
+  "source_name": "Archetype: Witchguard",
+  "sections": [
+    {
+      "id": "witchguard",
+      "title": "Witchguard",
+      "anchor_heading": "# Witchguard",
+      "description": "Complete description of the Witchguard archetype, including altered or replaced class features.",
+      "keywords": []
+    }
+  ],
+  "category": "Archetypes"
+}

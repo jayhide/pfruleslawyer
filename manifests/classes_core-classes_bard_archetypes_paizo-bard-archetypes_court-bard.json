@@ -1,0 +1,15 @@
+{
+  "file": "court-bard.md",
+  "source_path": "https://www.d20pfsrd.com/classes/core-classes/bard/archetypes/paizo-bard-archetypes/court-bard/",
+  "source_name": "Archetype: Court Bard",
+  "sections": [
+    {
+      "id": "court_bard",
+      "title": "Court Bard",
+      "anchor_heading": "# Court Bard",
+      "description": "Complete description of the Court Bard archetype, including altered or replaced class features.",
+      "keywords": []
+    }
+  ],
+  "category": "Archetypes"
+}

@@ -1,0 +1,15 @@
+{
+  "file": "occultist.md",
+  "source_path": "https://www.d20pfsrd.com/classes/hybrid-classes/arcanist/archetypes/paizo-arcanist-archetypes/occultist/",
+  "source_name": "Archetype: Occultist",
+  "sections": [
+    {
+      "id": "occultist",
+      "title": "Occultist",
+      "anchor_heading": "# Occultist",
+      "description": "Complete description of the Occultist archetype, including altered or replaced class features.",
+      "keywords": []
+    }
+  ],
+  "category": "Archetypes"
+}

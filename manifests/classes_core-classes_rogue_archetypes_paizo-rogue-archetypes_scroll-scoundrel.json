@@ -1,0 +1,15 @@
+{
+  "file": "scroll-scoundrel.md",
+  "source_path": "https://www.d20pfsrd.com/classes/core-classes/rogue/archetypes/paizo-rogue-archetypes/scroll-scoundrel/",
+  "source_name": "Archetype: Scroll Scoundrel",
+  "sections": [
+    {
+      "id": "scroll_scoundrel",
+      "title": "Scroll Scoundrel",
+      "anchor_heading": "# Scroll Scoundrel",
+      "description": "Complete description of the Scroll Scoundrel archetype, including altered or replaced class features.",
+      "keywords": []
+    }
+  ],
+  "category": "Archetypes"
+}

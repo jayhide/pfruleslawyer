@@ -1,0 +1,15 @@
+{
+  "file": "blood-conduit.md",
+  "source_path": "https://www.d20pfsrd.com/classes/hybrid-classes/bloodrager/archetypes/paizo-bloodrager-archetypes/blood-conduit/",
+  "source_name": "Archetype: Blood Conduit",
+  "sections": [
+    {
+      "id": "blood_conduit",
+      "title": "Blood Conduit",
+      "anchor_heading": "# Blood Conduit",
+      "description": "Complete description of the Blood Conduit archetype, including altered or replaced class features.",
+      "keywords": []
+    }
+  ],
+  "category": "Archetypes"
+}

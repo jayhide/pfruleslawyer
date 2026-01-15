@@ -1,0 +1,15 @@
+{
+  "file": "holy-guide.md",
+  "source_path": "https://www.d20pfsrd.com/classes/core-classes/paladin/archetypes/paizo-paladin-archetypes/holy-guide/",
+  "source_name": "Archetype: Holy Guide",
+  "sections": [
+    {
+      "id": "holy_guide",
+      "title": "Holy Guide",
+      "anchor_heading": "# Holy Guide",
+      "description": "Complete description of the Holy Guide archetype, including altered or replaced class features.",
+      "keywords": []
+    }
+  ],
+  "category": "Archetypes"
+}

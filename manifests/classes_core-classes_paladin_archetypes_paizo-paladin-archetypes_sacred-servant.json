@@ -1,0 +1,15 @@
+{
+  "file": "sacred-servant.md",
+  "source_path": "https://www.d20pfsrd.com/classes/core-classes/paladin/archetypes/paizo-paladin-archetypes/sacred-servant/",
+  "source_name": "Archetype: Sacred Servant",
+  "sections": [
+    {
+      "id": "sacred_servant",
+      "title": "Sacred Servant",
+      "anchor_heading": "# Sacred Servant",
+      "description": "Complete description of the Sacred Servant archetype, including altered or replaced class features.",
+      "keywords": []
+    }
+  ],
+  "category": "Archetypes"
+}

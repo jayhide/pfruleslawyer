@@ -1,0 +1,15 @@
+{
+  "file": "sapper-rogue-archetype.md",
+  "source_path": "https://www.d20pfsrd.com/classes/core-classes/rogue/archetypes/paizo-rogue-archetypes/sapper-rogue-archetype/",
+  "source_name": "Archetype: Sapper",
+  "sections": [
+    {
+      "id": "sapper_rogue_archetype",
+      "title": "Sapper",
+      "anchor_heading": "# Sapper",
+      "description": "Complete description of the Sapper archetype, including altered or replaced class features.",
+      "keywords": []
+    }
+  ],
+  "category": "Archetypes"
+}

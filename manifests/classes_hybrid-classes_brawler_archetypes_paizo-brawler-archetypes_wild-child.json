@@ -1,0 +1,15 @@
+{
+  "file": "wild-child.md",
+  "source_path": "https://www.d20pfsrd.com/classes/hybrid-classes/brawler/archetypes/paizo-brawler-archetypes/wild-child/",
+  "source_name": "Archetype: Wild Child",
+  "sections": [
+    {
+      "id": "wild_child",
+      "title": "Wild Child",
+      "anchor_heading": "# Wild Child",
+      "description": "Complete description of the Wild Child archetype, including altered or replaced class features.",
+      "keywords": []
+    }
+  ],
+  "category": "Archetypes"
+}

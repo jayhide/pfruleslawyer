@@ -1,0 +1,15 @@
+{
+  "file": "evangelist.md",
+  "source_path": "https://www.d20pfsrd.com/classes/core-classes/cleric/archetypes/paizo-cleric-archetypes/evangelist/",
+  "source_name": "Archetype: Evangelist",
+  "sections": [
+    {
+      "id": "evangelist",
+      "title": "Evangelist",
+      "anchor_heading": "# Evangelist",
+      "description": "Complete description of the Evangelist archetype, including altered or replaced class features.",
+      "keywords": []
+    }
+  ],
+  "category": "Archetypes"
+}

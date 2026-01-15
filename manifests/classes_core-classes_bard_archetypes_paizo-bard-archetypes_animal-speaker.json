@@ -1,0 +1,15 @@
+{
+  "file": "animal-speaker.md",
+  "source_path": "https://www.d20pfsrd.com/classes/core-classes/bard/archetypes/paizo-bard-archetypes/animal-speaker/",
+  "source_name": "Archetype: Animal Speaker",
+  "sections": [
+    {
+      "id": "animal_speaker",
+      "title": "Animal Speaker",
+      "anchor_heading": "# Animal Speaker",
+      "description": "Complete description of the Animal Speaker archetype, including altered or replaced class features.",
+      "keywords": []
+    }
+  ],
+  "category": "Archetypes"
+}

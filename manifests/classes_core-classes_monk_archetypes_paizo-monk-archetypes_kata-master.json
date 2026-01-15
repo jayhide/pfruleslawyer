@@ -1,0 +1,15 @@
+{
+  "file": "kata-master.md",
+  "source_path": "https://www.d20pfsrd.com/classes/core-classes/monk/archetypes/paizo-monk-archetypes/kata-master/",
+  "source_name": "Archetype: Kata Master",
+  "sections": [
+    {
+      "id": "kata_master",
+      "title": "Kata Master",
+      "anchor_heading": "# Kata Master",
+      "description": "Complete description of the Kata Master archetype, including altered or replaced class features.",
+      "keywords": []
+    }
+  ],
+  "category": "Archetypes"
+}

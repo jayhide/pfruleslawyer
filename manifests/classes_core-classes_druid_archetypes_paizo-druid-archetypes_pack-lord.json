@@ -1,0 +1,15 @@
+{
+  "file": "pack-lord.md",
+  "source_path": "https://www.d20pfsrd.com/classes/core-classes/druid/archetypes/paizo-druid-archetypes/pack-lord/",
+  "source_name": "Archetype: Pack Lord",
+  "sections": [
+    {
+      "id": "pack_lord",
+      "title": "Pack Lord",
+      "anchor_heading": "# Pack Lord",
+      "description": "Complete description of the Pack Lord archetype, including altered or replaced class features.",
+      "keywords": []
+    }
+  ],
+  "category": "Archetypes"
+}

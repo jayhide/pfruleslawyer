@@ -1,0 +1,15 @@
+{
+  "file": "seeker.md",
+  "source_path": "https://www.d20pfsrd.com/classes/base-classes/oracle/archetypes/paizo-oracle-archetypes/seeker/",
+  "source_name": "Archetype: Seeker",
+  "sections": [
+    {
+      "id": "seeker",
+      "title": "Seeker",
+      "anchor_heading": "# Seeker",
+      "description": "Complete description of the Seeker archetype, including altered or replaced class features.",
+      "keywords": []
+    }
+  ],
+  "category": "Archetypes"
+}

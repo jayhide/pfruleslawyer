@@ -1,0 +1,15 @@
+{
+  "file": "clocksmith-wizard-archetype.md",
+  "source_path": "https://www.d20pfsrd.com/classes/core-classes/wizard/archetypes/paizo-wizard-archetypes/clocksmith-wizard-archetype/",
+  "source_name": "Archetype: Clocksmith",
+  "sections": [
+    {
+      "id": "clocksmith_wizard_archetype",
+      "title": "Clocksmith",
+      "anchor_heading": "# Clocksmith",
+      "description": "Complete description of the Clocksmith archetype, including altered or replaced class features.",
+      "keywords": []
+    }
+  ],
+  "category": "Archetypes"
+}

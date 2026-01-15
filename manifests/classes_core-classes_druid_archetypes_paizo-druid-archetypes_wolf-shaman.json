@@ -1,0 +1,15 @@
+{
+  "file": "wolf-shaman.md",
+  "source_path": "https://www.d20pfsrd.com/classes/core-classes/druid/archetypes/paizo-druid-archetypes/wolf-shaman/",
+  "source_name": "Archetype: Wolf Shaman",
+  "sections": [
+    {
+      "id": "wolf_shaman",
+      "title": "Wolf Shaman",
+      "anchor_heading": "# Wolf Shaman",
+      "description": "Complete description of the Wolf Shaman archetype, including altered or replaced class features.",
+      "keywords": []
+    }
+  ],
+  "category": "Archetypes"
+}

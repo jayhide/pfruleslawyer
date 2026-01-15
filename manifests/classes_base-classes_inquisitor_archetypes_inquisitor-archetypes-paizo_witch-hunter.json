@@ -1,0 +1,15 @@
+{
+  "file": "witch-hunter.md",
+  "source_path": "https://www.d20pfsrd.com/classes/base-classes/inquisitor/archetypes/inquisitor-archetypes-paizo/witch-hunter/",
+  "source_name": "Archetype: Witch Hunter",
+  "sections": [
+    {
+      "id": "witch_hunter",
+      "title": "Witch Hunter",
+      "anchor_heading": "# Witch Hunter",
+      "description": "Complete description of the Witch Hunter archetype, including altered or replaced class features.",
+      "keywords": []
+    }
+  ],
+  "category": "Archetypes"
+}

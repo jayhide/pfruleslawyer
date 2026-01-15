@@ -1,0 +1,15 @@
+{
+  "file": "acrobat.md",
+  "source_path": "https://www.d20pfsrd.com/classes/core-classes/rogue/archetypes/paizo-rogue-archetypes/acrobat/",
+  "source_name": "Archetype: Acrobat",
+  "sections": [
+    {
+      "id": "acrobat",
+      "title": "Acrobat",
+      "anchor_heading": "# Acrobat",
+      "description": "Complete description of the Acrobat archetype, including altered or replaced class features.",
+      "keywords": []
+    }
+  ],
+  "category": "Archetypes"
+}

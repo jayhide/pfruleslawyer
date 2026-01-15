@@ -1,0 +1,15 @@
+{
+  "file": "brute.md",
+  "source_path": "https://www.d20pfsrd.com/classes/base-classes/vigilante/archetypes/vigilante-archetypes-paizo-inc/brute/",
+  "source_name": "Archetype: Brute",
+  "sections": [
+    {
+      "id": "brute",
+      "title": "Brute",
+      "anchor_heading": "# Brute",
+      "description": "Complete description of the Brute archetype, including altered or replaced class features.",
+      "keywords": []
+    }
+  ],
+  "category": "Archetypes"
+}

@@ -1,0 +1,15 @@
+{
+  "file": "menhir-savant.md",
+  "source_path": "https://www.d20pfsrd.com/classes/core-classes/druid/archetypes/paizo-druid-archetypes/menhir-savant/",
+  "source_name": "Archetype: Menhir Savant",
+  "sections": [
+    {
+      "id": "menhir_savant",
+      "title": "Menhir Savant",
+      "anchor_heading": "# Menhir Savant",
+      "description": "Complete description of the Menhir Savant archetype, including altered or replaced class features.",
+      "keywords": []
+    }
+  ],
+  "category": "Archetypes"
+}

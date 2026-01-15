@@ -1,0 +1,15 @@
+{
+  "file": "weapon-adept.md",
+  "source_path": "https://www.d20pfsrd.com/classes/core-classes/monk/archetypes/paizo-monk-archetypes/weapon-adept/",
+  "source_name": "Archetype: Weapon Adept",
+  "sections": [
+    {
+      "id": "weapon_adept",
+      "title": "Weapon Adept",
+      "anchor_heading": "# Weapon Adept",
+      "description": "Complete description of the Weapon Adept archetype, including altered or replaced class features.",
+      "keywords": []
+    }
+  ],
+  "category": "Archetypes"
+}

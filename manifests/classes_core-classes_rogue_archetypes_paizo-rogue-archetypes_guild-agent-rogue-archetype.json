@@ -1,0 +1,15 @@
+{
+  "file": "guild-agent-rogue-archetype.md",
+  "source_path": "https://www.d20pfsrd.com/classes/core-classes/rogue/archetypes/paizo-rogue-archetypes/guild-agent-rogue-archetype/",
+  "source_name": "Archetype: Guild Agent",
+  "sections": [
+    {
+      "id": "guild_agent_rogue_archetype",
+      "title": "Guild Agent",
+      "anchor_heading": "# Guild Agent",
+      "description": "Complete description of the Guild Agent archetype, including altered or replaced class features.",
+      "keywords": []
+    }
+  ],
+  "category": "Archetypes"
+}

@@ -1,0 +1,15 @@
+{
+  "file": "mad-dog.md",
+  "source_path": "https://www.d20pfsrd.com/classes/core-classes/barbarian/archetypes/paizo-barbarian-archetypes/mad-dog/",
+  "source_name": "Archetype: Mad Dog",
+  "sections": [
+    {
+      "id": "mad_dog",
+      "title": "Mad Dog",
+      "anchor_heading": "# Mad Dog",
+      "description": "Complete description of the Mad Dog archetype, including altered or replaced class features.",
+      "keywords": []
+    }
+  ],
+  "category": "Archetypes"
+}

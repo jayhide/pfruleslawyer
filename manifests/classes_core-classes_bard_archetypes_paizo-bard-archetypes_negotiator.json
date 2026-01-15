@@ -1,0 +1,15 @@
+{
+  "file": "negotiator.md",
+  "source_path": "https://www.d20pfsrd.com/classes/core-classes/bard/archetypes/paizo-bard-archetypes/negotiator/",
+  "source_name": "Archetype: Negotiator",
+  "sections": [
+    {
+      "id": "negotiator",
+      "title": "Negotiator",
+      "anchor_heading": "# Negotiator",
+      "description": "Complete description of the Negotiator archetype, including altered or replaced class features.",
+      "keywords": []
+    }
+  ],
+  "category": "Archetypes"
+}

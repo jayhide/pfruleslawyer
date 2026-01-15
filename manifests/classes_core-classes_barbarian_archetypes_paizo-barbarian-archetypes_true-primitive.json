@@ -1,0 +1,15 @@
+{
+  "file": "true-primitive.md",
+  "source_path": "https://www.d20pfsrd.com/classes/core-classes/barbarian/archetypes/paizo-barbarian-archetypes/true-primitive/",
+  "source_name": "Archetype: True Primitive",
+  "sections": [
+    {
+      "id": "true_primitive",
+      "title": "True Primitive",
+      "anchor_heading": "# True Primitive",
+      "description": "Complete description of the True Primitive archetype, including altered or replaced class features.",
+      "keywords": []
+    }
+  ],
+  "category": "Archetypes"
+}

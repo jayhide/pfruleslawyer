@@ -1,0 +1,15 @@
+{
+  "file": "tactician.md",
+  "source_path": "https://www.d20pfsrd.com/classes/core-classes/fighter/archetypes/paizo-fighter-archetypes/tactician/",
+  "source_name": "Archetype: Tactician",
+  "sections": [
+    {
+      "id": "tactician",
+      "title": "Tactician",
+      "anchor_heading": "# Tactician",
+      "description": "Complete description of the Tactician archetype, including altered or replaced class features.",
+      "keywords": []
+    }
+  ],
+  "category": "Archetypes"
+}

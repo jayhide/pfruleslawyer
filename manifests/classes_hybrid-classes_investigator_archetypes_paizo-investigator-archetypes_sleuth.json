@@ -1,0 +1,15 @@
+{
+  "file": "sleuth.md",
+  "source_path": "https://www.d20pfsrd.com/classes/hybrid-classes/investigator/archetypes/paizo-investigator-archetypes/sleuth/",
+  "source_name": "Archetype: Sleuth",
+  "sections": [
+    {
+      "id": "sleuth",
+      "title": "Sleuth",
+      "anchor_heading": "# Sleuth",
+      "description": "Complete description of the Sleuth archetype, including altered or replaced class features.",
+      "keywords": []
+    }
+  ],
+  "category": "Archetypes"
+}

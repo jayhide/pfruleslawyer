@@ -1,0 +1,15 @@
+{
+  "file": "mastermind.md",
+  "source_path": "https://www.d20pfsrd.com/classes/hybrid-classes/investigator/archetypes/paizo-investigator-archetypes/mastermind/",
+  "source_name": "Archetype: Mastermind",
+  "sections": [
+    {
+      "id": "mastermind",
+      "title": "Mastermind",
+      "anchor_heading": "# Mastermind",
+      "description": "Complete description of the Mastermind archetype, including altered or replaced class features.",
+      "keywords": []
+    }
+  ],
+  "category": "Archetypes"
+}

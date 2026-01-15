@@ -1,0 +1,15 @@
+{
+  "file": "siege-mage.md",
+  "source_path": "https://www.d20pfsrd.com/classes/core-classes/wizard/archetypes/paizo-wizard-archetypes/siege-mage/",
+  "source_name": "Archetype: Siege Mage",
+  "sections": [
+    {
+      "id": "siege_mage",
+      "title": "Siege Mage",
+      "anchor_heading": "# Siege Mage",
+      "description": "Complete description of the Siege Mage archetype, including altered or replaced class features.",
+      "keywords": []
+    }
+  ],
+  "category": "Archetypes"
+}

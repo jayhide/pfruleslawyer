@@ -1,0 +1,15 @@
+{
+  "file": "lion-shaman.md",
+  "source_path": "https://www.d20pfsrd.com/classes/core-classes/druid/archetypes/paizo-druid-archetypes/lion-shaman/",
+  "source_name": "Archetype: Lion Shaman",
+  "sections": [
+    {
+      "id": "lion_shaman",
+      "title": "Lion Shaman",
+      "anchor_heading": "# Lion Shaman",
+      "description": "Complete description of the Lion Shaman archetype, including altered or replaced class features.",
+      "keywords": []
+    }
+  ],
+  "category": "Archetypes"
+}

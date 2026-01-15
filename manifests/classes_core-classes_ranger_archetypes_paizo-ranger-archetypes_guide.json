@@ -1,0 +1,15 @@
+{
+  "file": "guide.md",
+  "source_path": "https://www.d20pfsrd.com/classes/core-classes/ranger/archetypes/paizo-ranger-archetypes/guide/",
+  "source_name": "Archetype: Guide",
+  "sections": [
+    {
+      "id": "guide",
+      "title": "Guide",
+      "anchor_heading": "# Guide",
+      "description": "Complete description of the Guide archetype, including altered or replaced class features.",
+      "keywords": []
+    }
+  ],
+  "category": "Archetypes"
+}

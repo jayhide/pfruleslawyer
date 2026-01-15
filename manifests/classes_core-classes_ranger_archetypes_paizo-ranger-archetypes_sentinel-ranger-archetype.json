@@ -1,0 +1,15 @@
+{
+  "file": "sentinel-ranger-archetype.md",
+  "source_path": "https://www.d20pfsrd.com/classes/core-classes/ranger/archetypes/paizo-ranger-archetypes/sentinel-ranger-archetype/",
+  "source_name": "Archetype: Sentinel",
+  "sections": [
+    {
+      "id": "sentinel_ranger_archetype",
+      "title": "Sentinel",
+      "anchor_heading": "# Sentinel",
+      "description": "Complete description of the Sentinel archetype, including altered or replaced class features.",
+      "keywords": []
+    }
+  ],
+  "category": "Archetypes"
+}

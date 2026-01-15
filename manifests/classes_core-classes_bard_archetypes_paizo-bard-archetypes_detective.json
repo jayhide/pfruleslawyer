@@ -1,0 +1,15 @@
+{
+  "file": "detective.md",
+  "source_path": "https://www.d20pfsrd.com/classes/core-classes/bard/archetypes/paizo-bard-archetypes/detective/",
+  "source_name": "Archetype: Detective",
+  "sections": [
+    {
+      "id": "detective",
+      "title": "Detective",
+      "anchor_heading": "# Detective",
+      "description": "Complete description of the Detective archetype, including altered or replaced class features.",
+      "keywords": []
+    }
+  ],
+  "category": "Archetypes"
+}

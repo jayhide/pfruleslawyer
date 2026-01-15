@@ -1,0 +1,15 @@
+{
+  "file": "ki-mystic.md",
+  "source_path": "https://www.d20pfsrd.com/classes/core-classes/monk/archetypes/paizo-monk-archetypes/ki-mystic/",
+  "source_name": "Archetype: Ki Mystic",
+  "sections": [
+    {
+      "id": "ki_mystic",
+      "title": "Ki Mystic",
+      "anchor_heading": "# Ki Mystic",
+      "description": "Complete description of the Ki Mystic archetype, including altered or replaced class features.",
+      "keywords": []
+    }
+  ],
+  "category": "Archetypes"
+}
