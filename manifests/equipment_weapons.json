@@ -3,32 +3,6 @@
   "source_path": "https://www.d20pfsrd.com/equipment/weapons/",
   "sections": [
     {
-      "id": "simple_weapons",
-      "title": "Simple Weapons",
-      "anchor_heading": "# Simple Weapons",
-      "includes_subheadings": [
-        "## Unarmed",
-        "## Light Melee",
-        "## One-Handed Melee",
-        "## Two-Handed Melee",
-        "## Ranged",
-        "## Ammunition"
-      ],
-      "description": "Complete listing of all simple weapons with their statistics, damage, cost, and special properties",
-      "keywords": [
-        "simple weapons",
-        "weapon proficiency",
-        "unarmed strike",
-        "gauntlet",
-        "dagger",
-        "club",
-        "spear",
-        "crossbow",
-        "sling",
-        "ammunition"
-      ]
-    },
-    {
       "id": "martial_weapons",
       "title": "Martial Weapons",
       "anchor_heading": "### Martial Weapons",

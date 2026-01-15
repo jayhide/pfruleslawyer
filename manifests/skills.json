@@ -24,33 +24,17 @@
       "title": "Skill Checks",
       "anchor_heading": "### Skill Checks",
       "includes_subheadings": [],
-      "description": "Core mechanics of making skill checks, bonuses, penalties, and opposed checks",
+      "description": "Core mechanics of making skill checks, bonuses, penalties, opposed checks, taking 10, and taking 20",
       "keywords": [
         "skill check",
         "difficulty class",
         "opposed check",
         "ability modifier",
         "trained",
-        "untrained"
-      ]
-    },
-    {
-      "id": "taking_10_and_taking_20",
-      "title": "Taking 10 and Taking 20",
-      "anchor_heading": "Taking 10 and Taking 20",
-      "includes_subheadings": [
-        "Taking 10",
-        "Taking 20",
-        "Ability Checks and Caster Level Checks"
-      ],
-      "description": "Rules for taking 10 and taking 20 on skill checks under specific conditions",
-      "keywords": [
+        "untrained",
         "taking 10",
         "taking 20",
-        "routine tasks",
-        "time pressure",
-        "distractions",
-        "penalties for failure"
+        "routine tasks"
       ]
     },
     {
