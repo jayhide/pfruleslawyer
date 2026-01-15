@@ -112,6 +112,32 @@ def format_context(results: list[dict], max_sections: int = 5) -> str:
     return "\n\n---\n\n".join(sections)
 
 
+def format_score_breakdown(result: dict, indent: str = "      ") -> list[str]:
+    """Format score breakdown lines for a search result.
+
+    Returns list of formatted strings ready to print.
+    """
+    lines = []
+
+    # Combined/rerank score if available, otherwise retrieval score
+    if 'combined_score' in result:
+        lines.append(f"{indent}{Colors.DIM}combined: {result['combined_score']:.3f} (rerank: {result['rerank_score']:.2f}, retrieval: {result['score']:.3f}){Colors.RESET}")
+    else:
+        lines.append(f"{indent}{Colors.DIM}score: {result['score']:.3f}{Colors.RESET}")
+
+    # Retrieval breakdown components
+    components = [f"semantic: {result.get('semantic_score', 0):.3f}"]
+    if result.get('keyword_boost', 0) > 0:
+        components.append(f"keyword: +{result['keyword_boost']:.2f}")
+    if result.get('subheading_boost', 0) > 0:
+        components.append(f"subheading: +{result['subheading_boost']:.2f}")
+    if result.get('title_boost', 0) > 0:
+        components.append(f"title: +{result['title_boost']:.2f}")
+    lines.append(f"{indent}{Colors.DIM}retrieval breakdown: {', '.join(components)}{Colors.RESET}")
+
+    return lines
+
+
 def print_search_results(results: list[dict], verbose: bool = False) -> None:
     """Print search results to stderr for debugging."""
     print(f"  {Colors.DIM}Found {len(results)} sections:{Colors.RESET}", file=sys.stderr)
@@ -120,10 +146,8 @@ def print_search_results(results: list[dict], verbose: bool = False) -> None:
         print(f"    {Colors.YELLOW}- {r['title']}{Colors.RESET} {Colors.DIM}({source}){Colors.RESET}", file=sys.stderr)
         if verbose:
             # Show score breakdown
-            if 'combined_score' in r:
-                print(f"        {Colors.DIM}combined: {r['combined_score']:.3f}{Colors.RESET}", file=sys.stderr)
-            else:
-                print(f"        {Colors.DIM}score: {r['score']:.3f}{Colors.RESET}", file=sys.stderr)
+            for line in format_score_breakdown(r, indent="        "):
+                print(line, file=sys.stderr)
 
             # Show content
             content = r.get("content", "")
@@ -179,21 +203,9 @@ def ask_rules_question(
         source = r.get('source_name', r['source_file'])
         print(f"  {Colors.YELLOW}- {r['title']}{Colors.RESET} {Colors.DIM}({source}){Colors.RESET}", file=sys.stderr)
 
-        # Show combined/rerank score if available, otherwise retrieval score
-        if 'combined_score' in r:
-            print(f"      {Colors.DIM}combined: {r['combined_score']:.3f} (rerank: {r['rerank_score']:.2f}, retrieval: {r['score']:.3f}){Colors.RESET}", file=sys.stderr)
-        else:
-            print(f"      {Colors.DIM}score: {r['score']:.3f}{Colors.RESET}", file=sys.stderr)
-
-        # Build and show retrieval score breakdown
-        components = [f"semantic: {r.get('semantic_score', 0):.3f}"]
-        if r.get('keyword_boost', 0) > 0:
-            components.append(f"keyword: +{r['keyword_boost']:.2f}")
-        if r.get('subheading_boost', 0) > 0:
-            components.append(f"subheading: +{r['subheading_boost']:.2f}")
-        if r.get('title_boost', 0) > 0:
-            components.append(f"title: +{r['title_boost']:.2f}")
-        print(f"      {Colors.DIM}retrieval breakdown: {', '.join(components)}{Colors.RESET}", file=sys.stderr)
+        # Show score breakdown
+        for line in format_score_breakdown(r):
+            print(line, file=sys.stderr)
 
         # In verbose mode, print the full section content
         if verbose:
