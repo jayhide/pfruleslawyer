@@ -1,0 +1,15 @@
+{
+  "file": "psychic-disciple.md",
+  "source_path": "https://www.d20pfsrd.com/feats/general-feats/psychic-disciple/",
+  "source_name": "Feat: Psychic Disciple",
+  "sections": [
+    {
+      "id": "psychic_disciple",
+      "title": "Psychic Disciple",
+      "anchor_heading": "# Psychic Disciple",
+      "description": "Complete rules for the feat Psychic Disciple, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

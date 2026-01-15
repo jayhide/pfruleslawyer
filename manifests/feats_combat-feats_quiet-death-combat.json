@@ -1,0 +1,15 @@
+{
+  "file": "quiet-death-combat.md",
+  "source_path": "https://www.d20pfsrd.com/feats/combat-feats/quiet-death-combat/",
+  "source_name": "Feat: Quiet Death (Combat)",
+  "sections": [
+    {
+      "id": "quiet_death_combat",
+      "title": "Quiet Death",
+      "anchor_heading": "# Quiet Death (Combat)",
+      "description": "Complete rules for the feat Quiet Death, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

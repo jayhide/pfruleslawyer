@@ -1,0 +1,15 @@
+{
+  "file": "consecrate-spell-metamagic.md",
+  "source_path": "https://www.d20pfsrd.com/feats/metamagic-feats/consecrate-spell-metamagic/",
+  "source_name": "Feat: Consecrate Spell (Metamagic)",
+  "sections": [
+    {
+      "id": "consecrate_spell_metamagic",
+      "title": "Consecrate Spell",
+      "anchor_heading": "# Consecrate Spell (Metamagic)",
+      "description": "Complete rules for the feat Consecrate Spell, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

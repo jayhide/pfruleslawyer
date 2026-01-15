@@ -1,0 +1,15 @@
+{
+  "file": "ranged-trip-combat-targeting.md",
+  "source_path": "https://www.d20pfsrd.com/feats/combat-feats/ranged-trip-combat-targeting/",
+  "source_name": "Feat: Ranged Trip (Combat, Targeting)",
+  "sections": [
+    {
+      "id": "ranged_trip_combat_targeting",
+      "title": "Ranged Trip",
+      "anchor_heading": "# Ranged Trip (Combat, Targeting)",
+      "description": "Complete rules for the feat Ranged Trip, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

@@ -1,0 +1,15 @@
+{
+  "file": "friend-to-animals.md",
+  "source_path": "https://www.d20pfsrd.com/feats/general-feats/friend-to-animals/",
+  "source_name": "Feat: Friend to Animals",
+  "sections": [
+    {
+      "id": "friend_to_animals",
+      "title": "Friend to Animals",
+      "anchor_heading": "# Friend to Animals",
+      "description": "Complete rules for the feat Friend to Animals, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

@@ -1,0 +1,15 @@
+{
+  "file": "parry-spell.md",
+  "source_path": "https://www.d20pfsrd.com/feats/general-feats/parry-spell/",
+  "source_name": "Feat: Parry Spell",
+  "sections": [
+    {
+      "id": "parry_spell",
+      "title": "Parry Spell",
+      "anchor_heading": "# Parry Spell",
+      "description": "Complete rules for the feat Parry Spell, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

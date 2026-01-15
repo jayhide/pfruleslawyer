@@ -1,0 +1,15 @@
+{
+  "file": "blessed-hunter.md",
+  "source_path": "https://www.d20pfsrd.com/feats/general-feats/blessed-hunter/",
+  "source_name": "Feat: Blessed Hunter",
+  "sections": [
+    {
+      "id": "blessed_hunter",
+      "title": "Blessed Hunter",
+      "anchor_heading": "# Blessed Hunter",
+      "description": "Complete rules for the feat Blessed Hunter, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

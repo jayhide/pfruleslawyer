@@ -1,0 +1,15 @@
+{
+  "file": "fey-guarded.md",
+  "source_path": "https://www.d20pfsrd.com/feats/general-feats/fey-guarded/",
+  "source_name": "Feat: Fey-Guarded",
+  "sections": [
+    {
+      "id": "fey_guarded",
+      "title": "Fey-Guarded",
+      "anchor_heading": "# Fey-Guarded",
+      "description": "Complete rules for the feat Fey-Guarded, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

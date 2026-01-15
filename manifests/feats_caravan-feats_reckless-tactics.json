@@ -1,0 +1,15 @@
+{
+  "file": "reckless-tactics.md",
+  "source_path": "https://www.d20pfsrd.com/feats/caravan-feats/reckless-tactics/",
+  "source_name": "Feat: Reckless Tactics",
+  "sections": [
+    {
+      "id": "reckless_tactics",
+      "title": "Reckless Tactics",
+      "anchor_heading": "# Reckless Tactics",
+      "description": "Complete rules for the feat Reckless Tactics, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

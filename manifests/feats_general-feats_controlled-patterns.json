@@ -1,0 +1,15 @@
+{
+  "file": "controlled-patterns.md",
+  "source_path": "https://www.d20pfsrd.com/feats/general-feats/controlled-patterns/",
+  "source_name": "Feat: Controlled Patterns",
+  "sections": [
+    {
+      "id": "controlled_patterns",
+      "title": "Controlled Patterns",
+      "anchor_heading": "# Controlled Patterns",
+      "description": "Complete rules for the feat Controlled Patterns, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

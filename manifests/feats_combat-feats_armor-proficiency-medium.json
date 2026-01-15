@@ -1,0 +1,15 @@
+{
+  "file": "armor-proficiency-medium.md",
+  "source_path": "https://www.d20pfsrd.com/feats/combat-feats/armor-proficiency-medium/",
+  "source_name": "Feat: Armor Proficiency, Medium (Combat)",
+  "sections": [
+    {
+      "id": "armor_proficiency_medium",
+      "title": "Armor Proficiency, Medium",
+      "anchor_heading": "# Armor Proficiency, Medium (Combat)",
+      "description": "Complete rules for the feat Armor Proficiency, Medium, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

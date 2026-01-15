@@ -1,0 +1,15 @@
+{
+  "file": "hero-s-fortune.md",
+  "source_path": "https://www.d20pfsrd.com/feats/general-feats/hero-s-fortune/",
+  "source_name": "Feat: Hero\u2019s Fortune (Luck)",
+  "sections": [
+    {
+      "id": "hero_s_fortune",
+      "title": "Hero\u2019s Fortune",
+      "anchor_heading": "# Hero\u2019s Fortune (Luck)",
+      "description": "Complete rules for the feat Hero\u2019s Fortune, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

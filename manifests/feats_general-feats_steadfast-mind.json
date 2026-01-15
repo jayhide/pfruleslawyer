@@ -1,0 +1,15 @@
+{
+  "file": "steadfast-mind.md",
+  "source_path": "https://www.d20pfsrd.com/feats/general-feats/steadfast-mind/",
+  "source_name": "Feat: Steadfast Mind",
+  "sections": [
+    {
+      "id": "steadfast_mind",
+      "title": "Steadfast Mind",
+      "anchor_heading": "# Steadfast Mind",
+      "description": "Complete rules for the feat Steadfast Mind, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

@@ -1,0 +1,15 @@
+{
+  "file": "shadow-gambit.md",
+  "source_path": "https://www.d20pfsrd.com/feats/general-feats/shadow-gambit/",
+  "source_name": "Feat: Shadow Gambit",
+  "sections": [
+    {
+      "id": "shadow_gambit",
+      "title": "Shadow Gambit",
+      "anchor_heading": "# Shadow Gambit",
+      "description": "Complete rules for the feat Shadow Gambit, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

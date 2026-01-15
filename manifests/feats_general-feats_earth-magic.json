@@ -1,0 +1,15 @@
+{
+  "file": "earth-magic.md",
+  "source_path": "https://www.d20pfsrd.com/feats/general-feats/earth-magic/",
+  "source_name": "Feat: Earth Magic",
+  "sections": [
+    {
+      "id": "earth_magic",
+      "title": "Earth Magic",
+      "anchor_heading": "# Earth Magic",
+      "description": "Complete rules for the feat Earth Magic, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

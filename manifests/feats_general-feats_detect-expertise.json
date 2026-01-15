@@ -1,0 +1,15 @@
+{
+  "file": "detect-expertise.md",
+  "source_path": "https://www.d20pfsrd.com/feats/general-feats/detect-expertise/",
+  "source_name": "Feat: Detect Expertise",
+  "sections": [
+    {
+      "id": "detect_expertise",
+      "title": "Detect Expertise",
+      "anchor_heading": "# Detect Expertise",
+      "description": "Complete rules for the feat Detect Expertise, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

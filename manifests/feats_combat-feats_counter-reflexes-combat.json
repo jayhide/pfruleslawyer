@@ -1,0 +1,15 @@
+{
+  "file": "counter-reflexes-combat.md",
+  "source_path": "https://www.d20pfsrd.com/feats/combat-feats/counter-reflexes-combat/",
+  "source_name": "Feat: Counter Reflexes (Combat)",
+  "sections": [
+    {
+      "id": "counter_reflexes_combat",
+      "title": "Counter Reflexes",
+      "anchor_heading": "# Counter Reflexes (Combat)",
+      "description": "Complete rules for the feat Counter Reflexes, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

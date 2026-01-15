@@ -1,0 +1,15 @@
+{
+  "file": "body-mastery.md",
+  "source_path": "https://www.d20pfsrd.com/feats/general-feats/body-mastery/",
+  "source_name": "Feat: Body Mastery",
+  "sections": [
+    {
+      "id": "body_mastery",
+      "title": "Body Mastery",
+      "anchor_heading": "# Body Mastery",
+      "description": "Complete rules for the feat Body Mastery, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

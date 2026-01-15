@@ -1,0 +1,15 @@
+{
+  "file": "stone-handed-combat.md",
+  "source_path": "https://www.d20pfsrd.com/feats/combat-feats/stone-handed-combat/",
+  "source_name": "Feat: Stone-Handed (Combat)",
+  "sections": [
+    {
+      "id": "stone_handed_combat",
+      "title": "Stone-Handed",
+      "anchor_heading": "# Stone-Handed (Combat)",
+      "description": "Complete rules for the feat Stone-Handed, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

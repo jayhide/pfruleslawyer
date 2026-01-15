@@ -1,0 +1,15 @@
+{
+  "file": "sneaking-precision.md",
+  "source_path": "https://www.d20pfsrd.com/feats/general-feats/sneaking-precision/",
+  "source_name": "Feat: Sneaking Precision",
+  "sections": [
+    {
+      "id": "sneaking_precision",
+      "title": "Sneaking Precision",
+      "anchor_heading": "# Sneaking Precision",
+      "description": "Complete rules for the feat Sneaking Precision, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

@@ -1,0 +1,15 @@
+{
+  "file": "primal-ancestry.md",
+  "source_path": "https://www.d20pfsrd.com/feats/general-feats/primal-ancestry/",
+  "source_name": "Feat: Primal Ancestry",
+  "sections": [
+    {
+      "id": "primal_ancestry",
+      "title": "Primal Ancestry",
+      "anchor_heading": "# Primal Ancestry",
+      "description": "Complete rules for the feat Primal Ancestry, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

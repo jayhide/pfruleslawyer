@@ -1,0 +1,15 @@
+{
+  "file": "toughness.md",
+  "source_path": "https://www.d20pfsrd.com/feats/general-feats/toughness/",
+  "source_name": "Feat: Toughness",
+  "sections": [
+    {
+      "id": "toughness",
+      "title": "Toughness",
+      "anchor_heading": "# Toughness",
+      "description": "Complete rules for the feat Toughness, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

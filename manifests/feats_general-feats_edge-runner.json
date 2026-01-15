@@ -1,0 +1,15 @@
+{
+  "file": "edge-runner.md",
+  "source_path": "https://www.d20pfsrd.com/feats/general-feats/edge-runner/",
+  "source_name": "Feat: Edge Runner",
+  "sections": [
+    {
+      "id": "edge_runner",
+      "title": "Edge Runner",
+      "anchor_heading": "# Edge Runner",
+      "description": "Complete rules for the feat Edge Runner, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

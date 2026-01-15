@@ -1,0 +1,15 @@
+{
+  "file": "one-with-the-land.md",
+  "source_path": "https://www.d20pfsrd.com/feats/general-feats/one-with-the-land/",
+  "source_name": "Feat: One with the Land",
+  "sections": [
+    {
+      "id": "one_with_the_land",
+      "title": "One with the Land",
+      "anchor_heading": "# One with the Land",
+      "description": "Complete rules for the feat One with the Land, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

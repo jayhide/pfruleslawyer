@@ -1,0 +1,15 @@
+{
+  "file": "latent-curse-metamagic.md",
+  "source_path": "https://www.d20pfsrd.com/feats/metamagic-feats/latent-curse-metamagic/",
+  "source_name": "Feat: Latent Curse (Metamagic)",
+  "sections": [
+    {
+      "id": "latent_curse_metamagic",
+      "title": "Latent Curse",
+      "anchor_heading": "# Latent Curse (Metamagic)",
+      "description": "Complete rules for the feat Latent Curse, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

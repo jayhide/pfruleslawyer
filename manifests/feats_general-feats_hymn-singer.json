@@ -1,0 +1,15 @@
+{
+  "file": "hymn-singer.md",
+  "source_path": "https://www.d20pfsrd.com/feats/general-feats/hymn-singer/",
+  "source_name": "Feat: Hymn Singer",
+  "sections": [
+    {
+      "id": "hymn_singer",
+      "title": "Hymn Singer",
+      "anchor_heading": "# Hymn Singer",
+      "description": "Complete rules for the feat Hymn Singer, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

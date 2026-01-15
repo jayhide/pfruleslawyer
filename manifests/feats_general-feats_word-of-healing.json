@@ -1,0 +1,15 @@
+{
+  "file": "word-of-healing.md",
+  "source_path": "https://www.d20pfsrd.com/feats/general-feats/word-of-healing/",
+  "source_name": "Feat: Word of Healing",
+  "sections": [
+    {
+      "id": "word_of_healing",
+      "title": "Word of Healing",
+      "anchor_heading": "# Word of Healing",
+      "description": "Complete rules for the feat Word of Healing, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

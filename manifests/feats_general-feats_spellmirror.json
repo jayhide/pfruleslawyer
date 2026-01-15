@@ -1,0 +1,15 @@
+{
+  "file": "spellmirror.md",
+  "source_path": "https://www.d20pfsrd.com/feats/general-feats/spellmirror/",
+  "source_name": "Feat: Spellmirror",
+  "sections": [
+    {
+      "id": "spellmirror",
+      "title": "Spellmirror",
+      "anchor_heading": "# Spellmirror",
+      "description": "Complete rules for the feat Spellmirror, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

@@ -1,0 +1,15 @@
+{
+  "file": "fool-magic.md",
+  "source_path": "https://www.d20pfsrd.com/feats/general-feats/fool-magic/",
+  "source_name": "Feat: Fool Magic",
+  "sections": [
+    {
+      "id": "fool_magic",
+      "title": "Fool Magic",
+      "anchor_heading": "# Fool Magic",
+      "description": "Complete rules for the feat Fool Magic, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

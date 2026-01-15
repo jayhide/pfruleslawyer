@@ -1,0 +1,15 @@
+{
+  "file": "tavern-regular.md",
+  "source_path": "https://www.d20pfsrd.com/feats/general-feats/tavern-regular/",
+  "source_name": "Feat: Tavern Regular",
+  "sections": [
+    {
+      "id": "tavern_regular",
+      "title": "Tavern Regular",
+      "anchor_heading": "# Tavern Regular",
+      "description": "Complete rules for the feat Tavern Regular, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

@@ -1,0 +1,15 @@
+{
+  "file": "merchant-mastery.md",
+  "source_path": "https://www.d20pfsrd.com/feats/caravan-feats/merchant-mastery/",
+  "source_name": "Feat: Merchant Mastery",
+  "sections": [
+    {
+      "id": "merchant_mastery",
+      "title": "Merchant Mastery",
+      "anchor_heading": "# Merchant Mastery",
+      "description": "Complete rules for the feat Merchant Mastery, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

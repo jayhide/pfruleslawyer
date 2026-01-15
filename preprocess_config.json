@@ -27,6 +27,13 @@
       "subheading_boost": 0.0,
       "title_boost": 1.0,
       "rerank_weight": 0.2
+    },
+    "Feats": {
+      "semantic_weight": 0.0,
+      "keyword_boost": 0.0,
+      "subheading_boost": 0.0,
+      "title_boost": 1.0,
+      "rerank_weight": 0.2
     }
   },
   "entries": [
@@ -256,6 +263,50 @@
         "https://www.d20pfsrd.com/classes/unchained-classes/monk-unchained/archetypes/archetypes-paizo/",
         "https://www.d20pfsrd.com/classes/unchained-classes/rogue-unchained/archetypes/paizo-archetypes/"
       ]
+    },
+    {
+      "pattern": "https://www.d20pfsrd.com/feats/*/*",
+      "mode": "template",
+      "category": "Feats",
+      "name_prefix": "Feat",
+      "exclude": [
+        "https://www.d20pfsrd.com/feats/achievement-feats/",
+        "https://www.d20pfsrd.com/feats/animal-companion-feats/",
+        "https://www.d20pfsrd.com/feats/armor-mastery-feats/",
+        "https://www.d20pfsrd.com/feats/betrayal-feats/",
+        "https://www.d20pfsrd.com/feats/caravan-feats/",
+        "https://www.d20pfsrd.com/feats/channeling-feats/",
+        "https://www.d20pfsrd.com/feats/combat-feats/",
+        "https://www.d20pfsrd.com/feats/conduit-feats/",
+        "https://www.d20pfsrd.com/feats/damnation-feats/",
+        "https://www.d20pfsrd.com/feats/faction-feats/",
+        "https://www.d20pfsrd.com/feats/familiar-feats/",
+        "https://www.d20pfsrd.com/feats/feat-tree/",
+        "https://www.d20pfsrd.com/feats/feats-db/",
+        "https://www.d20pfsrd.com/feats/general-feats/",
+        "https://www.d20pfsrd.com/feats/grit-feats/",
+        "https://www.d20pfsrd.com/feats/item-creation-feats/",
+        "https://www.d20pfsrd.com/feats/item-mastery-feats/",
+        "https://www.d20pfsrd.com/feats/local-feats/",
+        "https://www.d20pfsrd.com/feats/metamagic-feats/",
+        "https://www.d20pfsrd.com/feats/monster-feats/",
+        "https://www.d20pfsrd.com/feats/other-feats/",
+        "https://www.d20pfsrd.com/feats/panache-feats/",
+        "https://www.d20pfsrd.com/feats/performance-feats/",
+        "https://www.d20pfsrd.com/feats/racial-feats/",
+        "https://www.d20pfsrd.com/feats/shield-mastery-feats/",
+        "https://www.d20pfsrd.com/feats/stare-feats/",
+        "https://www.d20pfsrd.com/feats/story-feats/",
+        "https://www.d20pfsrd.com/feats/style-feats/",
+        "https://www.d20pfsrd.com/feats/teamwork-feats/",
+        "https://www.d20pfsrd.com/feats/weapon-mastery-feats/"
+      ]
+    },
+    {
+      "pattern": "https://www.d20pfsrd.com/feats/*/*/*",
+      "mode": "template",
+      "category": "Feats",
+      "name_prefix": "Feat"
     }
   ]
 }

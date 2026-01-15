@@ -1,0 +1,15 @@
+{
+  "file": "lesser-spell-synthesis.md",
+  "source_path": "https://www.d20pfsrd.com/feats/general-feats/lesser-spell-synthesis/",
+  "source_name": "Feat: Lesser Spell Synthesis",
+  "sections": [
+    {
+      "id": "lesser_spell_synthesis",
+      "title": "Lesser Spell Synthesis",
+      "anchor_heading": "# Lesser Spell Synthesis",
+      "description": "Complete rules for the feat Lesser Spell Synthesis, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

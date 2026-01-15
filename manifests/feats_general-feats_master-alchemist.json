@@ -1,0 +1,15 @@
+{
+  "file": "master-alchemist.md",
+  "source_path": "https://www.d20pfsrd.com/feats/general-feats/master-alchemist/",
+  "source_name": "Feat: Master Alchemist",
+  "sections": [
+    {
+      "id": "master_alchemist",
+      "title": "Master Alchemist",
+      "anchor_heading": "# Master Alchemist",
+      "description": "Complete rules for the feat Master Alchemist, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

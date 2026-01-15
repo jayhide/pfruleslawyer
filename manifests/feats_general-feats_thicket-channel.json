@@ -1,0 +1,15 @@
+{
+  "file": "thicket-channel.md",
+  "source_path": "https://www.d20pfsrd.com/feats/general-feats/thicket-channel/",
+  "source_name": "Feat: Thicket Channel",
+  "sections": [
+    {
+      "id": "thicket_channel",
+      "title": "Thicket Channel",
+      "anchor_heading": "# Thicket Channel",
+      "description": "Complete rules for the feat Thicket Channel, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

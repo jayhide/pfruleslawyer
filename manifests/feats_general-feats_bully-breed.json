@@ -1,0 +1,15 @@
+{
+  "file": "bully-breed.md",
+  "source_path": "https://www.d20pfsrd.com/feats/general-feats/bully-breed/",
+  "source_name": "Feat: Bully Breed",
+  "sections": [
+    {
+      "id": "bully_breed",
+      "title": "Bully Breed",
+      "anchor_heading": "# Bully Breed",
+      "description": "Complete rules for the feat Bully Breed, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

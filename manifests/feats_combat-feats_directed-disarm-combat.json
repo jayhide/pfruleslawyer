@@ -1,0 +1,15 @@
+{
+  "file": "directed-disarm-combat.md",
+  "source_path": "https://www.d20pfsrd.com/feats/combat-feats/directed-disarm-combat/",
+  "source_name": "Feat: Directed Disarm (Combat)",
+  "sections": [
+    {
+      "id": "directed_disarm_combat",
+      "title": "Directed Disarm",
+      "anchor_heading": "# Directed Disarm (Combat)",
+      "description": "Complete rules for the feat Directed Disarm, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

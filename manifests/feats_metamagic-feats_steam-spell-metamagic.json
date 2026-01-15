@@ -1,0 +1,15 @@
+{
+  "file": "steam-spell-metamagic.md",
+  "source_path": "https://www.d20pfsrd.com/feats/metamagic-feats/steam-spell-metamagic/",
+  "source_name": "Feat: Steam Spell (Metamagic)",
+  "sections": [
+    {
+      "id": "steam_spell_metamagic",
+      "title": "Steam Spell",
+      "anchor_heading": "# Steam Spell (Metamagic)",
+      "description": "Complete rules for the feat Steam Spell, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

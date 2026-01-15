@@ -1,0 +1,15 @@
+{
+  "file": "fey-insight.md",
+  "source_path": "https://www.d20pfsrd.com/feats/general-feats/fey-insight/",
+  "source_name": "Feat: Fey Insight",
+  "sections": [
+    {
+      "id": "fey_insight",
+      "title": "Fey Insight",
+      "anchor_heading": "# Fey Insight",
+      "description": "Complete rules for the feat Fey Insight, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

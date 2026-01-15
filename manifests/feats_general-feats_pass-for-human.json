@@ -1,0 +1,15 @@
+{
+  "file": "pass-for-human.md",
+  "source_path": "https://www.d20pfsrd.com/feats/general-feats/pass-for-human/",
+  "source_name": "Feat: Pass For Human",
+  "sections": [
+    {
+      "id": "pass_for_human",
+      "title": "Pass For Human",
+      "anchor_heading": "# Pass For Human",
+      "description": "Complete rules for the feat Pass For Human, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

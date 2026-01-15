@@ -1,0 +1,15 @@
+{
+  "file": "divination-guide.md",
+  "source_path": "https://www.d20pfsrd.com/feats/general-feats/divination-guide/",
+  "source_name": "Feat: Divination Guide",
+  "sections": [
+    {
+      "id": "divination_guide",
+      "title": "Divination Guide",
+      "anchor_heading": "# Divination Guide",
+      "description": "Complete rules for the feat Divination Guide, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

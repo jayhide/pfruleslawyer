@@ -1,0 +1,15 @@
+{
+  "file": "scuttle.md",
+  "source_path": "https://www.d20pfsrd.com/feats/general-feats/scuttle/",
+  "source_name": "Feat: Scuttle",
+  "sections": [
+    {
+      "id": "scuttle",
+      "title": "Scuttle",
+      "anchor_heading": "# Scuttle",
+      "description": "Complete rules for the feat Scuttle, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

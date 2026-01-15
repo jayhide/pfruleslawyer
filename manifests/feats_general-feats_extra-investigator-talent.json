@@ -1,0 +1,15 @@
+{
+  "file": "extra-investigator-talent.md",
+  "source_path": "https://www.d20pfsrd.com/feats/general-feats/extra-investigator-talent/",
+  "source_name": "Feat: Extra Investigator Talent",
+  "sections": [
+    {
+      "id": "extra_investigator_talent",
+      "title": "Extra Investigator Talent",
+      "anchor_heading": "# Extra Investigator Talent",
+      "description": "Complete rules for the feat Extra Investigator Talent, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

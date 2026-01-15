@@ -1,0 +1,15 @@
+{
+  "file": "lantern-light-combat.md",
+  "source_path": "https://www.d20pfsrd.com/feats/combat-feats/lantern-glare-combat/lantern-light-combat/",
+  "source_name": "Feat: Lantern Light (Combat)",
+  "sections": [
+    {
+      "id": "lantern_light_combat",
+      "title": "Lantern Light",
+      "anchor_heading": "# Lantern Light (Combat)",
+      "description": "Complete rules for the feat Lantern Light, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

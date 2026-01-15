@@ -1,0 +1,15 @@
+{
+  "file": "snake-fang-combat.md",
+  "source_path": "https://www.d20pfsrd.com/feats/combat-feats/snake-fang-combat/",
+  "source_name": "Feat: Snake Fang (Combat)",
+  "sections": [
+    {
+      "id": "snake_fang_combat",
+      "title": "Snake Fang",
+      "anchor_heading": "# Snake Fang (Combat)",
+      "description": "Complete rules for the feat Snake Fang, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

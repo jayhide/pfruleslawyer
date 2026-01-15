@@ -1,0 +1,15 @@
+{
+  "file": "shield-proficiency.md",
+  "source_path": "https://www.d20pfsrd.com/feats/combat-feats/shield-proficiency/",
+  "source_name": "Feat: Shield Proficiency (Combat)",
+  "sections": [
+    {
+      "id": "shield_proficiency",
+      "title": "Shield Proficiency",
+      "anchor_heading": "# Shield Proficiency (Combat)",
+      "description": "Complete rules for the feat Shield Proficiency, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

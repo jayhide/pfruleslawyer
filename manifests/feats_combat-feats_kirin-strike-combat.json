@@ -1,0 +1,15 @@
+{
+  "file": "kirin-strike-combat.md",
+  "source_path": "https://www.d20pfsrd.com/feats/combat-feats/kirin-strike-combat/",
+  "source_name": "Feat: Kirin Strike (Combat)",
+  "sections": [
+    {
+      "id": "kirin_strike_combat",
+      "title": "Kirin Strike",
+      "anchor_heading": "# Kirin Strike (Combat)",
+      "description": "Complete rules for the feat Kirin Strike, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

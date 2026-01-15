@@ -1,0 +1,15 @@
+{
+  "file": "arc-slinger-combat.md",
+  "source_path": "https://www.d20pfsrd.com/feats/combat-feats/arc-slinger-combat/",
+  "source_name": "Feat: Arc Slinger (Combat)",
+  "sections": [
+    {
+      "id": "arc_slinger_combat",
+      "title": "Arc Slinger",
+      "anchor_heading": "# Arc Slinger (Combat)",
+      "description": "Complete rules for the feat Arc Slinger, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

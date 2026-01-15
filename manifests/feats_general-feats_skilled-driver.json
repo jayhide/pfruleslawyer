@@ -1,0 +1,15 @@
+{
+  "file": "skilled-driver.md",
+  "source_path": "https://www.d20pfsrd.com/feats/general-feats/skilled-driver/",
+  "source_name": "Feat: Skilled Driver",
+  "sections": [
+    {
+      "id": "skilled_driver",
+      "title": "Skilled Driver",
+      "anchor_heading": "# Skilled Driver",
+      "description": "Complete rules for the feat Skilled Driver, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

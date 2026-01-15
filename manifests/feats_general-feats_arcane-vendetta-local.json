@@ -1,0 +1,15 @@
+{
+  "file": "arcane-vendetta-local.md",
+  "source_path": "https://www.d20pfsrd.com/feats/general-feats/arcane-vendetta-local/",
+  "source_name": "Feat: Arcane Vendetta",
+  "sections": [
+    {
+      "id": "arcane_vendetta_local",
+      "title": "Arcane Vendetta",
+      "anchor_heading": "# Arcane Vendetta",
+      "description": "Complete rules for the feat Arcane Vendetta, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

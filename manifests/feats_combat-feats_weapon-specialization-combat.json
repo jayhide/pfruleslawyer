@@ -1,0 +1,15 @@
+{
+  "file": "weapon-specialization-combat.md",
+  "source_path": "https://www.d20pfsrd.com/feats/combat-feats/weapon-specialization-combat/",
+  "source_name": "Feat: Weapon Specialization (Combat)",
+  "sections": [
+    {
+      "id": "weapon_specialization_combat",
+      "title": "Weapon Specialization",
+      "anchor_heading": "# Weapon Specialization (Combat)",
+      "description": "Complete rules for the feat Weapon Specialization, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

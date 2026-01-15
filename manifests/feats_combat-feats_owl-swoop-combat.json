@@ -1,0 +1,15 @@
+{
+  "file": "owl-swoop-combat.md",
+  "source_path": "https://www.d20pfsrd.com/feats/combat-feats/owl-swoop-combat/",
+  "source_name": "Feat: Owl Swoop (Combat)",
+  "sections": [
+    {
+      "id": "owl_swoop_combat",
+      "title": "Owl Swoop",
+      "anchor_heading": "# Owl Swoop (Combat)",
+      "description": "Complete rules for the feat Owl Swoop, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

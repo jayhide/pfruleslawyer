@@ -1,0 +1,15 @@
+{
+  "file": "harrowed.md",
+  "source_path": "https://www.d20pfsrd.com/feats/general-feats/harrowed/",
+  "source_name": "Feat: Harrowed",
+  "sections": [
+    {
+      "id": "harrowed",
+      "title": "Harrowed",
+      "anchor_heading": "# Harrowed",
+      "description": "Complete rules for the feat Harrowed, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

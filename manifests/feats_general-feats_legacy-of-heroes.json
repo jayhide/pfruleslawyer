@@ -1,0 +1,15 @@
+{
+  "file": "legacy-of-heroes.md",
+  "source_path": "https://www.d20pfsrd.com/feats/general-feats/legacy-of-heroes/",
+  "source_name": "Feat: Legacy Of Heroes",
+  "sections": [
+    {
+      "id": "legacy_of_heroes",
+      "title": "Legacy Of Heroes",
+      "anchor_heading": "# Legacy Of Heroes",
+      "description": "Complete rules for the feat Legacy Of Heroes, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

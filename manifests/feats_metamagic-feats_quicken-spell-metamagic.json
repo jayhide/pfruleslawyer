@@ -1,0 +1,15 @@
+{
+  "file": "quicken-spell-metamagic.md",
+  "source_path": "https://www.d20pfsrd.com/feats/metamagic-feats/quicken-spell-metamagic/",
+  "source_name": "Feat: Quicken Spell (Metamagic)",
+  "sections": [
+    {
+      "id": "quicken_spell_metamagic",
+      "title": "Quicken Spell",
+      "anchor_heading": "# Quicken Spell (Metamagic)",
+      "description": "Complete rules for the feat Quicken Spell, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

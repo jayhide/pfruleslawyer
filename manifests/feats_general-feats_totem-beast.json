@@ -1,0 +1,15 @@
+{
+  "file": "totem-beast.md",
+  "source_path": "https://www.d20pfsrd.com/feats/general-feats/totem-beast/",
+  "source_name": "Feat: Totem Beast",
+  "sections": [
+    {
+      "id": "totem_beast",
+      "title": "Totem Beast",
+      "anchor_heading": "# Totem Beast",
+      "description": "Complete rules for the feat Totem Beast, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

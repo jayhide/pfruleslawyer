@@ -1,0 +1,15 @@
+{
+  "file": "ranged-study.md",
+  "source_path": "https://www.d20pfsrd.com/feats/general-feats/ranged-study/",
+  "source_name": "Feat: Ranged Study",
+  "sections": [
+    {
+      "id": "ranged_study",
+      "title": "Ranged Study",
+      "anchor_heading": "# Ranged Study",
+      "description": "Complete rules for the feat Ranged Study, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

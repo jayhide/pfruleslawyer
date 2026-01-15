@@ -1,0 +1,15 @@
+{
+  "file": "pattern-message.md",
+  "source_path": "https://www.d20pfsrd.com/feats/general-feats/pattern-message/",
+  "source_name": "Feat: Pattern Message",
+  "sections": [
+    {
+      "id": "pattern_message",
+      "title": "Pattern Message",
+      "anchor_heading": "# Pattern Message",
+      "description": "Complete rules for the feat Pattern Message, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

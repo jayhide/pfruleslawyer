@@ -1,0 +1,15 @@
+{
+  "file": "boar-shred-combat.md",
+  "source_path": "https://www.d20pfsrd.com/feats/combat-feats/boar-shred-combat/",
+  "source_name": "Feat: Boar Shred (Combat)",
+  "sections": [
+    {
+      "id": "boar_shred_combat",
+      "title": "Boar Shred",
+      "anchor_heading": "# Boar Shred (Combat)",
+      "description": "Complete rules for the feat Boar Shred, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

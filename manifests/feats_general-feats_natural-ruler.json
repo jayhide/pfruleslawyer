@@ -1,0 +1,15 @@
+{
+  "file": "natural-ruler.md",
+  "source_path": "https://www.d20pfsrd.com/feats/general-feats/natural-ruler/",
+  "source_name": "Feat: Natural Ruler",
+  "sections": [
+    {
+      "id": "natural_ruler",
+      "title": "Natural Ruler",
+      "anchor_heading": "# Natural Ruler",
+      "description": "Complete rules for the feat Natural Ruler, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

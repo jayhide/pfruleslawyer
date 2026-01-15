@@ -1,0 +1,15 @@
+{
+  "file": "jumper.md",
+  "source_path": "https://www.d20pfsrd.com/feats/animal-companion-feats/jumper/",
+  "source_name": "Feat: Jumper (Animal Companion Feat)",
+  "sections": [
+    {
+      "id": "jumper",
+      "title": "Jumper",
+      "anchor_heading": "# Jumper (Animal Companion Feat)",
+      "description": "Complete rules for the feat Jumper, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

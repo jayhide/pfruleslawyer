@@ -1,0 +1,15 @@
+{
+  "file": "lucky-halfling.md",
+  "source_path": "https://www.d20pfsrd.com/feats/general-feats/lucky-halfling/",
+  "source_name": "Feat: Lucky Halfling",
+  "sections": [
+    {
+      "id": "lucky_halfling",
+      "title": "Lucky Halfling",
+      "anchor_heading": "# Lucky Halfling",
+      "description": "Complete rules for the feat Lucky Halfling, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

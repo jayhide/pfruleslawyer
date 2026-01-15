@@ -1,0 +1,15 @@
+{
+  "file": "voice-of-beasts.md",
+  "source_path": "https://www.d20pfsrd.com/feats/general-feats/voice-of-beasts/",
+  "source_name": "Feat: Voice of Beasts",
+  "sections": [
+    {
+      "id": "voice_of_beasts",
+      "title": "Voice of Beasts",
+      "anchor_heading": "# Voice of Beasts",
+      "description": "Complete rules for the feat Voice of Beasts, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

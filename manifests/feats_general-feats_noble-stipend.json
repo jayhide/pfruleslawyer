@@ -1,0 +1,15 @@
+{
+  "file": "noble-stipend.md",
+  "source_path": "https://www.d20pfsrd.com/feats/general-feats/noble-stipend/",
+  "source_name": "Feat: Noble Stipend",
+  "sections": [
+    {
+      "id": "noble_stipend",
+      "title": "Noble Stipend",
+      "anchor_heading": "# Noble Stipend",
+      "description": "Complete rules for the feat Noble Stipend, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

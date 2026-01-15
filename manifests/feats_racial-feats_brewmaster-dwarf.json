@@ -1,0 +1,15 @@
+{
+  "file": "brewmaster-dwarf.md",
+  "source_path": "https://www.d20pfsrd.com/feats/racial-feats/brewmaster-dwarf/",
+  "source_name": "Feat: Brewmaster (Dwarf)",
+  "sections": [
+    {
+      "id": "brewmaster_dwarf",
+      "title": "Brewmaster",
+      "anchor_heading": "# Brewmaster (Dwarf)",
+      "description": "Complete rules for the feat Brewmaster, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

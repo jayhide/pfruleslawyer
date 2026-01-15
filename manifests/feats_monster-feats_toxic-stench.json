@@ -1,0 +1,15 @@
+{
+  "file": "toxic-stench.md",
+  "source_path": "https://www.d20pfsrd.com/feats/monster-feats/toxic-stench/",
+  "source_name": "Feat: Toxic Stench",
+  "sections": [
+    {
+      "id": "toxic_stench",
+      "title": "Toxic Stench",
+      "anchor_heading": "# Toxic Stench",
+      "description": "Complete rules for the feat Toxic Stench, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

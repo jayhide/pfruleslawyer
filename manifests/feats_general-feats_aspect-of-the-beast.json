@@ -1,0 +1,15 @@
+{
+  "file": "aspect-of-the-beast.md",
+  "source_path": "https://www.d20pfsrd.com/feats/general-feats/aspect-of-the-beast/",
+  "source_name": "Feat: Aspect of the Beast",
+  "sections": [
+    {
+      "id": "aspect_of_the_beast",
+      "title": "Aspect of the Beast",
+      "anchor_heading": "# Aspect of the Beast",
+      "description": "Complete rules for the feat Aspect of the Beast, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

@@ -1,0 +1,15 @@
+{
+  "file": "greater-called-shot.md",
+  "source_path": "https://www.d20pfsrd.com/feats/combat-feats/greater-called-shot/",
+  "source_name": "Feat: Greater Called Shot",
+  "sections": [
+    {
+      "id": "greater_called_shot",
+      "title": "Greater Called Shot",
+      "anchor_heading": "# Greater Called Shot",
+      "description": "Complete rules for the feat Greater Called Shot, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

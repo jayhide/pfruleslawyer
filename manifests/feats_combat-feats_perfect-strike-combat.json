@@ -1,0 +1,15 @@
+{
+  "file": "perfect-strike-combat.md",
+  "source_path": "https://www.d20pfsrd.com/feats/combat-feats/perfect-strike-combat/",
+  "source_name": "Feat: Perfect Strike (Combat)",
+  "sections": [
+    {
+      "id": "perfect_strike_combat",
+      "title": "Perfect Strike",
+      "anchor_heading": "# Perfect Strike (Combat)",
+      "description": "Complete rules for the feat Perfect Strike, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

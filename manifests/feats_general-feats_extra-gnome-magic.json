@@ -1,0 +1,15 @@
+{
+  "file": "extra-gnome-magic.md",
+  "source_path": "https://www.d20pfsrd.com/feats/general-feats/extra-gnome-magic/",
+  "source_name": "Feat: Extra Gnome Magic",
+  "sections": [
+    {
+      "id": "extra_gnome_magic",
+      "title": "Extra Gnome Magic",
+      "anchor_heading": "# Extra Gnome Magic",
+      "description": "Complete rules for the feat Extra Gnome Magic, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

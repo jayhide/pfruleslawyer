@@ -1,0 +1,15 @@
+{
+  "file": "bat-shape.md",
+  "source_path": "https://www.d20pfsrd.com/feats/general-feats/bat-shape/",
+  "source_name": "Feat: Bat Shape",
+  "sections": [
+    {
+      "id": "bat_shape",
+      "title": "Bat Shape",
+      "anchor_heading": "# Bat Shape",
+      "description": "Complete rules for the feat Bat Shape, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

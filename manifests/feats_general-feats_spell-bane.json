@@ -1,0 +1,15 @@
+{
+  "file": "spell-bane.md",
+  "source_path": "https://www.d20pfsrd.com/feats/general-feats/spell-bane/",
+  "source_name": "Feat: Spell Bane",
+  "sections": [
+    {
+      "id": "spell_bane",
+      "title": "Spell Bane",
+      "anchor_heading": "# Spell Bane",
+      "description": "Complete rules for the feat Spell Bane, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

@@ -1,0 +1,15 @@
+{
+  "file": "advanced-ranger-trap.md",
+  "source_path": "https://www.d20pfsrd.com/feats/general-feats/advanced-ranger-trap/",
+  "source_name": "Feat: Advanced Ranger Trap",
+  "sections": [
+    {
+      "id": "advanced_ranger_trap",
+      "title": "Advanced Ranger Trap",
+      "anchor_heading": "# Advanced Ranger Trap",
+      "description": "Complete rules for the feat Advanced Ranger Trap, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

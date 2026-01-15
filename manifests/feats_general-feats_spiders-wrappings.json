@@ -1,0 +1,15 @@
+{
+  "file": "spiders-wrappings.md",
+  "source_path": "https://www.d20pfsrd.com/feats/general-feats/spiders-wrappings/",
+  "source_name": "Feat: Spider\u2019s Wrappings",
+  "sections": [
+    {
+      "id": "spiders_wrappings",
+      "title": "Spider\u2019s Wrappings",
+      "anchor_heading": "# Spider\u2019s Wrappings",
+      "description": "Complete rules for the feat Spider\u2019s Wrappings, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

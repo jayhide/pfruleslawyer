@@ -1,0 +1,15 @@
+{
+  "file": "artistry-combat.md",
+  "source_path": "https://www.d20pfsrd.com/feats/combat-feats/artistry-combat/",
+  "source_name": "Feat: Artistry (Combat)",
+  "sections": [
+    {
+      "id": "artistry_combat",
+      "title": "Artistry",
+      "anchor_heading": "# Artistry (Combat)",
+      "description": "Complete rules for the feat Artistry, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

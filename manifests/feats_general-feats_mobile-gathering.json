@@ -1,0 +1,15 @@
+{
+  "file": "mobile-gathering.md",
+  "source_path": "https://www.d20pfsrd.com/feats/general-feats/mobile-gathering/",
+  "source_name": "Feat: Mobile Gathering",
+  "sections": [
+    {
+      "id": "mobile_gathering",
+      "title": "Mobile Gathering",
+      "anchor_heading": "# Mobile Gathering",
+      "description": "Complete rules for the feat Mobile Gathering, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

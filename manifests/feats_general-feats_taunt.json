@@ -1,0 +1,15 @@
+{
+  "file": "taunt.md",
+  "source_path": "https://www.d20pfsrd.com/feats/general-feats/taunt/",
+  "source_name": "Feat: Taunt",
+  "sections": [
+    {
+      "id": "taunt",
+      "title": "Taunt",
+      "anchor_heading": "# Taunt",
+      "description": "Complete rules for the feat Taunt, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

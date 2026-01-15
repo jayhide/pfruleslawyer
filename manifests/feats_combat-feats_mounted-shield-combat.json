@@ -1,0 +1,15 @@
+{
+  "file": "mounted-shield-combat.md",
+  "source_path": "https://www.d20pfsrd.com/feats/combat-feats/mounted-shield-combat/",
+  "source_name": "Feat: Mounted Shield (Combat)",
+  "sections": [
+    {
+      "id": "mounted_shield_combat",
+      "title": "Mounted Shield",
+      "anchor_heading": "# Mounted Shield (Combat)",
+      "description": "Complete rules for the feat Mounted Shield, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

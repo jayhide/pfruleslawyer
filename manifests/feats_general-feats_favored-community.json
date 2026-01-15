@@ -1,0 +1,15 @@
+{
+  "file": "favored-community.md",
+  "source_path": "https://www.d20pfsrd.com/feats/general-feats/favored-community/",
+  "source_name": "Feat: Favored Community",
+  "sections": [
+    {
+      "id": "favored_community",
+      "title": "Favored Community",
+      "anchor_heading": "# Favored Community",
+      "description": "Complete rules for the feat Favored Community, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

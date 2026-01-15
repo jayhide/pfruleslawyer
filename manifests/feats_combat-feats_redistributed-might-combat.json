@@ -1,0 +1,15 @@
+{
+  "file": "redistributed-might-combat.md",
+  "source_path": "https://www.d20pfsrd.com/feats/combat-feats/redistributed-might-combat/",
+  "source_name": "Feat: Redistributed Might (Combat)",
+  "sections": [
+    {
+      "id": "redistributed_might_combat",
+      "title": "Redistributed Might",
+      "anchor_heading": "# Redistributed Might (Combat)",
+      "description": "Complete rules for the feat Redistributed Might, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

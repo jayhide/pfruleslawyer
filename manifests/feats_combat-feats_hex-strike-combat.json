@@ -1,0 +1,15 @@
+{
+  "file": "hex-strike-combat.md",
+  "source_path": "https://www.d20pfsrd.com/feats/combat-feats/hex-strike-combat/",
+  "source_name": "Feat: Hex Strike (Combat)",
+  "sections": [
+    {
+      "id": "hex_strike_combat",
+      "title": "Hex Strike",
+      "anchor_heading": "# Hex Strike (Combat)",
+      "description": "Complete rules for the feat Hex Strike, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

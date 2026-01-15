@@ -1,0 +1,15 @@
+{
+  "file": "axiomatic-discourse-conduit.md",
+  "source_path": "https://www.d20pfsrd.com/feats/conduit-feats/axiomatic-discourse-conduit/",
+  "source_name": "Feat: Axiomatic Discourse (Conduit)",
+  "sections": [
+    {
+      "id": "axiomatic_discourse_conduit",
+      "title": "Axiomatic Discourse",
+      "anchor_heading": "# Axiomatic Discourse (Conduit)",
+      "description": "Complete rules for the feat Axiomatic Discourse, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

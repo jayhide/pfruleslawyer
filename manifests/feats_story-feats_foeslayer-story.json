@@ -1,0 +1,15 @@
+{
+  "file": "foeslayer-story.md",
+  "source_path": "https://www.d20pfsrd.com/feats/story-feats/foeslayer-story/",
+  "source_name": "Feat: Foeslayer (Story)",
+  "sections": [
+    {
+      "id": "foeslayer_story",
+      "title": "Foeslayer",
+      "anchor_heading": "# Foeslayer (Story)",
+      "description": "Complete rules for the feat Foeslayer, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

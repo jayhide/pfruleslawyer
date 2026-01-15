@@ -1,0 +1,15 @@
+{
+  "file": "minor-spell-expertise.md",
+  "source_path": "https://www.d20pfsrd.com/feats/general-feats/minor-spell-expertise/",
+  "source_name": "Feat: Minor Spell Expertise",
+  "sections": [
+    {
+      "id": "minor_spell_expertise",
+      "title": "Minor Spell Expertise",
+      "anchor_heading": "# Minor Spell Expertise",
+      "description": "Complete rules for the feat Minor Spell Expertise, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

@@ -1,0 +1,15 @@
+{
+  "file": "wandering-mind.md",
+  "source_path": "https://www.d20pfsrd.com/feats/general-feats/wandering-mind/",
+  "source_name": "Feat: Wandering Mind",
+  "sections": [
+    {
+      "id": "wandering_mind",
+      "title": "Wandering Mind",
+      "anchor_heading": "# Wandering Mind",
+      "description": "Complete rules for the feat Wandering Mind, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

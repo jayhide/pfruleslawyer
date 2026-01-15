@@ -1,0 +1,15 @@
+{
+  "file": "born-of-frost.md",
+  "source_path": "https://www.d20pfsrd.com/feats/general-feats/born-of-frost/",
+  "source_name": "Feat: Born of Frost",
+  "sections": [
+    {
+      "id": "born_of_frost",
+      "title": "Born of Frost",
+      "anchor_heading": "# Born of Frost",
+      "description": "Complete rules for the feat Born of Frost, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

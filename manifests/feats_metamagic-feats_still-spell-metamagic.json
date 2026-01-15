@@ -1,0 +1,15 @@
+{
+  "file": "still-spell-metamagic.md",
+  "source_path": "https://www.d20pfsrd.com/feats/metamagic-feats/still-spell-metamagic/",
+  "source_name": "Feat: Still Spell (Metamagic)",
+  "sections": [
+    {
+      "id": "still_spell_metamagic",
+      "title": "Still Spell",
+      "anchor_heading": "# Still Spell (Metamagic)",
+      "description": "Complete rules for the feat Still Spell, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

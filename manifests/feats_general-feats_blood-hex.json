@@ -1,0 +1,15 @@
+{
+  "file": "blood-hex.md",
+  "source_path": "https://www.d20pfsrd.com/feats/general-feats/blood-hex/",
+  "source_name": "Feat: Blood Hex",
+  "sections": [
+    {
+      "id": "blood_hex",
+      "title": "Blood Hex",
+      "anchor_heading": "# Blood Hex",
+      "description": "Complete rules for the feat Blood Hex, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

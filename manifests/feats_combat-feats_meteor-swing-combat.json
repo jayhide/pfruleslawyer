@@ -1,0 +1,15 @@
+{
+  "file": "meteor-swing-combat.md",
+  "source_path": "https://www.d20pfsrd.com/feats/combat-feats/meteor-swing-combat/",
+  "source_name": "Feat: Meteor Swing (Combat)",
+  "sections": [
+    {
+      "id": "meteor_swing_combat",
+      "title": "Meteor Swing",
+      "anchor_heading": "# Meteor Swing (Combat)",
+      "description": "Complete rules for the feat Meteor Swing, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

@@ -1,0 +1,15 @@
+{
+  "file": "awesome-blow.md",
+  "source_path": "https://www.d20pfsrd.com/feats/monster-feats/awesome-blow/",
+  "source_name": "Feat: Awesome Blow (Combat, Monster)",
+  "sections": [
+    {
+      "id": "awesome_blow",
+      "title": "Awesome Blow",
+      "anchor_heading": "# Awesome Blow (Combat, Monster)",
+      "description": "Complete rules for the feat Awesome Blow, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

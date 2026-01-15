@@ -1,0 +1,15 @@
+{
+  "file": "totem-spirit.md",
+  "source_path": "https://www.d20pfsrd.com/feats/general-feats/totem-spirit/",
+  "source_name": "Feat: Totem Spirit",
+  "sections": [
+    {
+      "id": "totem_spirit",
+      "title": "Totem Spirit",
+      "anchor_heading": "# Totem Spirit",
+      "description": "Complete rules for the feat Totem Spirit, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

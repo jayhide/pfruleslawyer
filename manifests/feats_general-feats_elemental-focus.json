@@ -1,0 +1,15 @@
+{
+  "file": "elemental-focus.md",
+  "source_path": "https://www.d20pfsrd.com/feats/general-feats/elemental-focus/",
+  "source_name": "Feat: Elemental Focus",
+  "sections": [
+    {
+      "id": "elemental_focus",
+      "title": "Elemental Focus",
+      "anchor_heading": "# Elemental Focus",
+      "description": "Complete rules for the feat Elemental Focus, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

@@ -1,0 +1,15 @@
+{
+  "file": "disposable-weapon.md",
+  "source_path": "https://www.d20pfsrd.com/feats/general-feats/disposable-weapon/",
+  "source_name": "Feat: Disposable Weapon",
+  "sections": [
+    {
+      "id": "disposable_weapon",
+      "title": "Disposable Weapon",
+      "anchor_heading": "# Disposable Weapon",
+      "description": "Complete rules for the feat Disposable Weapon, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

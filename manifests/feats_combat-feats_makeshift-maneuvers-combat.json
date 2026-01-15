@@ -1,0 +1,15 @@
+{
+  "file": "makeshift-maneuvers-combat.md",
+  "source_path": "https://www.d20pfsrd.com/feats/combat-feats/makeshift-maneuvers-combat/",
+  "source_name": "Feat: Makeshift Maneuvers (Combat)",
+  "sections": [
+    {
+      "id": "makeshift_maneuvers_combat",
+      "title": "Makeshift Maneuvers",
+      "anchor_heading": "# Makeshift Maneuvers (Combat)",
+      "description": "Complete rules for the feat Makeshift Maneuvers, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

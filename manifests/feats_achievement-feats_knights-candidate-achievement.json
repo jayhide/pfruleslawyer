@@ -1,0 +1,15 @@
+{
+  "file": "knights-candidate-achievement.md",
+  "source_path": "https://www.d20pfsrd.com/feats/achievement-feats/knights-candidate-achievement/",
+  "source_name": "Feat: Knights Candidate (Achievement)",
+  "sections": [
+    {
+      "id": "knights_candidate_achievement",
+      "title": "Knights Candidate",
+      "anchor_heading": "# Knights Candidate (Achievement)",
+      "description": "Complete rules for the feat Knights Candidate, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

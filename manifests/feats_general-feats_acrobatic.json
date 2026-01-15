@@ -1,0 +1,15 @@
+{
+  "file": "acrobatic.md",
+  "source_path": "https://www.d20pfsrd.com/feats/general-feats/acrobatic/",
+  "source_name": "Feat: Acrobatic",
+  "sections": [
+    {
+      "id": "acrobatic",
+      "title": "Acrobatic",
+      "anchor_heading": "# Acrobatic",
+      "description": "Complete rules for the feat Acrobatic, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

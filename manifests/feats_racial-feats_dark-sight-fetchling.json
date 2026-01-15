@@ -1,0 +1,15 @@
+{
+  "file": "dark-sight-fetchling.md",
+  "source_path": "https://www.d20pfsrd.com/feats/racial-feats/dark-sight-fetchling/",
+  "source_name": "Feat: Dark Sight (Fetchling)",
+  "sections": [
+    {
+      "id": "dark_sight_fetchling",
+      "title": "Dark Sight",
+      "anchor_heading": "# Dark Sight (Fetchling)",
+      "description": "Complete rules for the feat Dark Sight, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

@@ -1,0 +1,15 @@
+{
+  "file": "pack-flanking-teamwork.md",
+  "source_path": "https://www.d20pfsrd.com/feats/combat-feats/pack-flanking-teamwork/",
+  "source_name": "Feat: Pack Flanking (Teamwork, Combat)",
+  "sections": [
+    {
+      "id": "pack_flanking_teamwork",
+      "title": "Pack Flanking",
+      "anchor_heading": "# Pack Flanking (Teamwork, Combat)",
+      "description": "Complete rules for the feat Pack Flanking, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

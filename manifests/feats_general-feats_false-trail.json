@@ -1,0 +1,15 @@
+{
+  "file": "false-trail.md",
+  "source_path": "https://www.d20pfsrd.com/feats/general-feats/false-trail/",
+  "source_name": "Feat: False Trail",
+  "sections": [
+    {
+      "id": "false_trail",
+      "title": "False Trail",
+      "anchor_heading": "# False Trail",
+      "description": "Complete rules for the feat False Trail, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

@@ -1,0 +1,15 @@
+{
+  "file": "preferred-spell.md",
+  "source_path": "https://www.d20pfsrd.com/feats/general-feats/preferred-spell/",
+  "source_name": "Feat: Preferred Spell",
+  "sections": [
+    {
+      "id": "preferred_spell",
+      "title": "Preferred Spell",
+      "anchor_heading": "# Preferred Spell",
+      "description": "Complete rules for the feat Preferred Spell, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

@@ -1,0 +1,15 @@
+{
+  "file": "profane-studies.md",
+  "source_path": "https://www.d20pfsrd.com/feats/general-feats/profane-studies/",
+  "source_name": "Feat: Profane Studies",
+  "sections": [
+    {
+      "id": "profane_studies",
+      "title": "Profane Studies",
+      "anchor_heading": "# Profane Studies",
+      "description": "Complete rules for the feat Profane Studies, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

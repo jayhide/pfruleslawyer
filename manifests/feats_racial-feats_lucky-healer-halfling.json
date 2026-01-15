@@ -1,0 +1,15 @@
+{
+  "file": "lucky-healer-halfling.md",
+  "source_path": "https://www.d20pfsrd.com/feats/racial-feats/lucky-healer-halfling/",
+  "source_name": "Feat: Lucky Healer (Halfling)",
+  "sections": [
+    {
+      "id": "lucky_healer_halfling",
+      "title": "Lucky Healer",
+      "anchor_heading": "# Lucky Healer (Halfling)",
+      "description": "Complete rules for the feat Lucky Healer, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

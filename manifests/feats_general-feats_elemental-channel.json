@@ -1,0 +1,15 @@
+{
+  "file": "elemental-channel.md",
+  "source_path": "https://www.d20pfsrd.com/feats/general-feats/elemental-channel/",
+  "source_name": "Feat: Elemental Channel",
+  "sections": [
+    {
+      "id": "elemental_channel",
+      "title": "Elemental Channel",
+      "anchor_heading": "# Elemental Channel",
+      "description": "Complete rules for the feat Elemental Channel, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

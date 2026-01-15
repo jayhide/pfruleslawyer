@@ -1,0 +1,15 @@
+{
+  "file": "cry-challenge.md",
+  "source_path": "https://www.d20pfsrd.com/feats/general-feats/cry-challenge/",
+  "source_name": "Feat: Cry Challenge",
+  "sections": [
+    {
+      "id": "cry_challenge",
+      "title": "Cry Challenge",
+      "anchor_heading": "# Cry Challenge",
+      "description": "Complete rules for the feat Cry Challenge, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

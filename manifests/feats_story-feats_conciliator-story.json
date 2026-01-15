@@ -1,0 +1,15 @@
+{
+  "file": "conciliator-story.md",
+  "source_path": "https://www.d20pfsrd.com/feats/story-feats/conciliator-story/",
+  "source_name": "Feat: Conciliator (Story)",
+  "sections": [
+    {
+      "id": "conciliator_story",
+      "title": "Conciliator",
+      "anchor_heading": "# Conciliator (Story)",
+      "description": "Complete rules for the feat Conciliator, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

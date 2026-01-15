@@ -1,0 +1,15 @@
+{
+  "file": "skill-focus.md",
+  "source_path": "https://www.d20pfsrd.com/feats/general-feats/skill-focus/",
+  "source_name": "Feat: Skill Focus",
+  "sections": [
+    {
+      "id": "skill_focus",
+      "title": "Skill Focus",
+      "anchor_heading": "# Skill Focus",
+      "description": "Complete rules for the feat Skill Focus, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

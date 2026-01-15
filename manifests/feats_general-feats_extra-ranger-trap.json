@@ -1,0 +1,15 @@
+{
+  "file": "extra-ranger-trap.md",
+  "source_path": "https://www.d20pfsrd.com/feats/general-feats/extra-ranger-trap/",
+  "source_name": "Feat: Extra Ranger Trap",
+  "sections": [
+    {
+      "id": "extra_ranger_trap",
+      "title": "Extra Ranger Trap",
+      "anchor_heading": "# Extra Ranger Trap",
+      "description": "Complete rules for the feat Extra Ranger Trap, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

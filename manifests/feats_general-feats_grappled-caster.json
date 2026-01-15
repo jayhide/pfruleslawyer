@@ -1,0 +1,15 @@
+{
+  "file": "grappled-caster.md",
+  "source_path": "https://www.d20pfsrd.com/feats/general-feats/grappled-caster/",
+  "source_name": "Feat: Grappled Caster",
+  "sections": [
+    {
+      "id": "grappled_caster",
+      "title": "Grappled Caster",
+      "anchor_heading": "# Grappled Caster",
+      "description": "Complete rules for the feat Grappled Caster, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

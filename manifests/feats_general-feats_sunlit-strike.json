@@ -1,0 +1,15 @@
+{
+  "file": "sunlit-strike.md",
+  "source_path": "https://www.d20pfsrd.com/feats/general-feats/sunlit-strike/",
+  "source_name": "Feat: Sunlit Strike",
+  "sections": [
+    {
+      "id": "sunlit_strike",
+      "title": "Sunlit Strike",
+      "anchor_heading": "# Sunlit Strike",
+      "description": "Complete rules for the feat Sunlit Strike, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

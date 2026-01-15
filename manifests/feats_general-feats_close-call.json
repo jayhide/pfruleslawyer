@@ -1,0 +1,15 @@
+{
+  "file": "close-call.md",
+  "source_path": "https://www.d20pfsrd.com/feats/general-feats/close-call/",
+  "source_name": "Feat: Close Call",
+  "sections": [
+    {
+      "id": "close_call",
+      "title": "Close Call",
+      "anchor_heading": "# Close Call",
+      "description": "Complete rules for the feat Close Call, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

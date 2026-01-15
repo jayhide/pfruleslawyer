@@ -1,0 +1,15 @@
+{
+  "file": "fear-eater.md",
+  "source_path": "https://www.d20pfsrd.com/feats/general-feats/fear-eater/",
+  "source_name": "Feat: Fear Eater",
+  "sections": [
+    {
+      "id": "fear_eater",
+      "title": "Fear Eater",
+      "anchor_heading": "# Fear Eater",
+      "description": "Complete rules for the feat Fear Eater, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

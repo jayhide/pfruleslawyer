@@ -1,0 +1,15 @@
+{
+  "file": "destructive-dispel.md",
+  "source_path": "https://www.d20pfsrd.com/feats/general-feats/destructive-dispel/",
+  "source_name": "Feat: Destructive Dispel",
+  "sections": [
+    {
+      "id": "destructive_dispel",
+      "title": "Destructive Dispel",
+      "anchor_heading": "# Destructive Dispel",
+      "description": "Complete rules for the feat Destructive Dispel, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

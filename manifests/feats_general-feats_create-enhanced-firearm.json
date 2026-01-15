@@ -1,0 +1,15 @@
+{
+  "file": "create-enhanced-firearm.md",
+  "source_path": "https://www.d20pfsrd.com/feats/general-feats/create-enhanced-firearm/",
+  "source_name": "Feat: Create Enhanced Firearm",
+  "sections": [
+    {
+      "id": "create_enhanced_firearm",
+      "title": "Create Enhanced Firearm",
+      "anchor_heading": "# Create Enhanced Firearm",
+      "description": "Complete rules for the feat Create Enhanced Firearm, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

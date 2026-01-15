@@ -1,0 +1,15 @@
+{
+  "file": "storm-breaker.md",
+  "source_path": "https://www.d20pfsrd.com/feats/general-feats/storm-breaker/",
+  "source_name": "Feat: Storm Breaker",
+  "sections": [
+    {
+      "id": "storm_breaker",
+      "title": "Storm Breaker",
+      "anchor_heading": "# Storm Breaker",
+      "description": "Complete rules for the feat Storm Breaker, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

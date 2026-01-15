@@ -1,0 +1,15 @@
+{
+  "file": "combat-reflexes-combat.md",
+  "source_path": "https://www.d20pfsrd.com/feats/combat-feats/combat-reflexes-combat/",
+  "source_name": "Feat: Combat Reflexes (Combat)",
+  "sections": [
+    {
+      "id": "combat_reflexes_combat",
+      "title": "Combat Reflexes",
+      "anchor_heading": "# Combat Reflexes (Combat)",
+      "description": "Complete rules for the feat Combat Reflexes, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

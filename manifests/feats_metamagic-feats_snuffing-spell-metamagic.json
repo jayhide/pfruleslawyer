@@ -1,0 +1,15 @@
+{
+  "file": "snuffing-spell-metamagic.md",
+  "source_path": "https://www.d20pfsrd.com/feats/metamagic-feats/snuffing-spell-metamagic/",
+  "source_name": "Feat: Snuffing Spell (Metamagic)",
+  "sections": [
+    {
+      "id": "snuffing_spell_metamagic",
+      "title": "Snuffing Spell",
+      "anchor_heading": "# Snuffing Spell (Metamagic)",
+      "description": "Complete rules for the feat Snuffing Spell, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

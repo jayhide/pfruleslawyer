@@ -1,0 +1,15 @@
+{
+  "file": "blasting-charge.md",
+  "source_path": "https://www.d20pfsrd.com/feats/general-feats/blasting-charge/",
+  "source_name": "Feat: Blasting Charge",
+  "sections": [
+    {
+      "id": "blasting_charge",
+      "title": "Blasting Charge",
+      "anchor_heading": "# Blasting Charge",
+      "description": "Complete rules for the feat Blasting Charge, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

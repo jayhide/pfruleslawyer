@@ -1,0 +1,15 @@
+{
+  "file": "expanded-resistance-gnome.md",
+  "source_path": "https://www.d20pfsrd.com/feats/racial-feats/expanded-resistance-gnome/",
+  "source_name": "Feat: Expanded Resistance (Gnome)",
+  "sections": [
+    {
+      "id": "expanded_resistance_gnome",
+      "title": "Expanded Resistance",
+      "anchor_heading": "# Expanded Resistance (Gnome)",
+      "description": "Complete rules for the feat Expanded Resistance, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

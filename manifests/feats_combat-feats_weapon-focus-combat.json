@@ -1,0 +1,15 @@
+{
+  "file": "weapon-focus-combat.md",
+  "source_path": "https://www.d20pfsrd.com/feats/combat-feats/weapon-focus-combat/",
+  "source_name": "Feat: Weapon Focus (Combat)",
+  "sections": [
+    {
+      "id": "weapon_focus_combat",
+      "title": "Weapon Focus",
+      "anchor_heading": "# Weapon Focus (Combat)",
+      "description": "Complete rules for the feat Weapon Focus, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

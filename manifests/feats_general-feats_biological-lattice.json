@@ -1,0 +1,15 @@
+{
+  "file": "biological-lattice.md",
+  "source_path": "https://www.d20pfsrd.com/feats/general-feats/biological-lattice/",
+  "source_name": "Feat: Biological Lattice",
+  "sections": [
+    {
+      "id": "biological_lattice",
+      "title": "Biological Lattice",
+      "anchor_heading": "# Biological Lattice",
+      "description": "Complete rules for the feat Biological Lattice, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

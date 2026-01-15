@@ -1,0 +1,15 @@
+{
+  "file": "distance-thrower-combat.md",
+  "source_path": "https://www.d20pfsrd.com/feats/combat-feats/distance-thrower-combat/",
+  "source_name": "Feat: Distance Thrower (Combat)",
+  "sections": [
+    {
+      "id": "distance_thrower_combat",
+      "title": "Distance Thrower",
+      "anchor_heading": "# Distance Thrower (Combat)",
+      "description": "Complete rules for the feat Distance Thrower, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

@@ -1,0 +1,15 @@
+{
+  "file": "ranged-disable.md",
+  "source_path": "https://www.d20pfsrd.com/feats/general-feats/ranged-disable/",
+  "source_name": "Feat: Ranged Disable",
+  "sections": [
+    {
+      "id": "ranged_disable",
+      "title": "Ranged Disable",
+      "anchor_heading": "# Ranged Disable",
+      "description": "Complete rules for the feat Ranged Disable, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

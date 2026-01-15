@@ -1,0 +1,15 @@
+{
+  "file": "widen-spell-metamagic.md",
+  "source_path": "https://www.d20pfsrd.com/feats/metamagic-feats/widen-spell-metamagic/",
+  "source_name": "Feat: Widen Spell (Metamagic)",
+  "sections": [
+    {
+      "id": "widen_spell_metamagic",
+      "title": "Widen Spell",
+      "anchor_heading": "# Widen Spell (Metamagic)",
+      "description": "Complete rules for the feat Widen Spell, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

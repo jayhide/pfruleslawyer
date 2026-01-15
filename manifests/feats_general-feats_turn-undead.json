@@ -1,0 +1,15 @@
+{
+  "file": "turn-undead.md",
+  "source_path": "https://www.d20pfsrd.com/feats/general-feats/turn-undead/",
+  "source_name": "Feat: Turn Undead",
+  "sections": [
+    {
+      "id": "turn_undead",
+      "title": "Turn Undead",
+      "anchor_heading": "# Turn Undead",
+      "description": "Complete rules for the feat Turn Undead, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

@@ -1,0 +1,15 @@
+{
+  "file": "onslaught-combat.md",
+  "source_path": "https://www.d20pfsrd.com/feats/combat-feats/onslaught-combat/",
+  "source_name": "Feat: Onslaught (Combat)",
+  "sections": [
+    {
+      "id": "onslaught_combat",
+      "title": "Onslaught",
+      "anchor_heading": "# Onslaught (Combat)",
+      "description": "Complete rules for the feat Onslaught, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

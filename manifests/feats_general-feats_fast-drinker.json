@@ -1,0 +1,15 @@
+{
+  "file": "fast-drinker.md",
+  "source_path": "https://www.d20pfsrd.com/feats/general-feats/fast-drinker/",
+  "source_name": "Feat: Fast Drinker",
+  "sections": [
+    {
+      "id": "fast_drinker",
+      "title": "Fast Drinker",
+      "anchor_heading": "# Fast Drinker",
+      "description": "Complete rules for the feat Fast Drinker, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

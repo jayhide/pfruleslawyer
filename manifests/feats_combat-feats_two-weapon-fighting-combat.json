@@ -1,0 +1,15 @@
+{
+  "file": "two-weapon-fighting-combat.md",
+  "source_path": "https://www.d20pfsrd.com/feats/combat-feats/two-weapon-fighting-combat/",
+  "source_name": "Feat: Two-Weapon Fighting (Combat)",
+  "sections": [
+    {
+      "id": "two_weapon_fighting_combat",
+      "title": "Two-Weapon Fighting",
+      "anchor_heading": "# Two-Weapon Fighting (Combat)",
+      "description": "Complete rules for the feat Two-Weapon Fighting, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

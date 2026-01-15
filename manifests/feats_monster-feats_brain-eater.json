@@ -1,0 +1,15 @@
+{
+  "file": "brain-eater.md",
+  "source_path": "https://www.d20pfsrd.com/feats/monster-feats/brain-eater/",
+  "source_name": "Feat: Brain Eater (Monster)",
+  "sections": [
+    {
+      "id": "brain_eater",
+      "title": "Brain Eater",
+      "anchor_heading": "# Brain Eater (Monster)",
+      "description": "Complete rules for the feat Brain Eater, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

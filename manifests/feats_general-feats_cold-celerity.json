@@ -1,0 +1,15 @@
+{
+  "file": "cold-celerity.md",
+  "source_path": "https://www.d20pfsrd.com/feats/general-feats/cold-celerity/",
+  "source_name": "Feat: Cold Celerity",
+  "sections": [
+    {
+      "id": "cold_celerity",
+      "title": "Cold Celerity",
+      "anchor_heading": "# Cold Celerity",
+      "description": "Complete rules for the feat Cold Celerity, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

@@ -1,0 +1,15 @@
+{
+  "file": "contingent-spell-metamagic.md",
+  "source_path": "https://www.d20pfsrd.com/feats/metamagic-feats/contingent-spell-metamagic/",
+  "source_name": "Feat: Contingent Spell (Metamagic)",
+  "sections": [
+    {
+      "id": "contingent_spell_metamagic",
+      "title": "Contingent Spell",
+      "anchor_heading": "# Contingent Spell (Metamagic)",
+      "description": "Complete rules for the feat Contingent Spell, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

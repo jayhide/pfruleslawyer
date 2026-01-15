@@ -1,0 +1,15 @@
+{
+  "file": "center-of-power.md",
+  "source_path": "https://www.d20pfsrd.com/feats/general-feats/center-of-power/",
+  "source_name": "Feat: Center of Power",
+  "sections": [
+    {
+      "id": "center_of_power",
+      "title": "Center of Power",
+      "anchor_heading": "# Center of Power",
+      "description": "Complete rules for the feat Center of Power, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

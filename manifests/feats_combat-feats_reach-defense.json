@@ -1,0 +1,15 @@
+{
+  "file": "reach-defense.md",
+  "source_path": "https://www.d20pfsrd.com/feats/combat-feats/reach-defense/",
+  "source_name": "Feat: Reach Defense (Combat)",
+  "sections": [
+    {
+      "id": "reach_defense",
+      "title": "Reach Defense",
+      "anchor_heading": "# Reach Defense (Combat)",
+      "description": "Complete rules for the feat Reach Defense, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

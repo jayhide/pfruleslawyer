@@ -1,0 +1,15 @@
+{
+  "file": "step-up-combat.md",
+  "source_path": "https://www.d20pfsrd.com/feats/combat-feats/step-up-combat/",
+  "source_name": "Feat: Step Up (Combat)",
+  "sections": [
+    {
+      "id": "step_up_combat",
+      "title": "Step Up",
+      "anchor_heading": "# Step Up (Combat)",
+      "description": "Complete rules for the feat Step Up, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

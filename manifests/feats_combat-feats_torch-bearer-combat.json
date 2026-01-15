@@ -1,0 +1,15 @@
+{
+  "file": "torch-bearer-combat.md",
+  "source_path": "https://www.d20pfsrd.com/feats/combat-feats/torch-bearer-combat/",
+  "source_name": "Feat: Torch Fighter (Combat)",
+  "sections": [
+    {
+      "id": "torch_bearer_combat",
+      "title": "Torch Fighter",
+      "anchor_heading": "# Torch Fighter (Combat)",
+      "description": "Complete rules for the feat Torch Fighter, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

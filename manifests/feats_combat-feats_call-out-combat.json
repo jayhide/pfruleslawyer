@@ -1,0 +1,15 @@
+{
+  "file": "call-out-combat.md",
+  "source_path": "https://www.d20pfsrd.com/feats/combat-feats/call-out-combat/",
+  "source_name": "Feat: Call Out (Combat)",
+  "sections": [
+    {
+      "id": "call_out_combat",
+      "title": "Call Out",
+      "anchor_heading": "# Call Out (Combat)",
+      "description": "Complete rules for the feat Call Out, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

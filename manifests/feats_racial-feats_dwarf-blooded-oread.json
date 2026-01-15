@@ -1,0 +1,15 @@
+{
+  "file": "dwarf-blooded-oread.md",
+  "source_path": "https://www.d20pfsrd.com/feats/racial-feats/dwarf-blooded-oread/",
+  "source_name": "Feat: Dwarf Blooded (Oread)",
+  "sections": [
+    {
+      "id": "dwarf_blooded_oread",
+      "title": "Dwarf Blooded",
+      "anchor_heading": "# Dwarf Blooded (Oread)",
+      "description": "Complete rules for the feat Dwarf Blooded, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

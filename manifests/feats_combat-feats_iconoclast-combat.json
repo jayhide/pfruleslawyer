@@ -1,0 +1,15 @@
+{
+  "file": "iconoclast-combat.md",
+  "source_path": "https://www.d20pfsrd.com/feats/combat-feats/iconoclast-combat/",
+  "source_name": "Feat: Iconoclast (Combat)",
+  "sections": [
+    {
+      "id": "iconoclast_combat",
+      "title": "Iconoclast",
+      "anchor_heading": "# Iconoclast (Combat)",
+      "description": "Complete rules for the feat Iconoclast, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

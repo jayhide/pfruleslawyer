@@ -1,0 +1,15 @@
+{
+  "file": "extra-rogue-talent.md",
+  "source_path": "https://www.d20pfsrd.com/feats/general-feats/extra-rogue-talent/",
+  "source_name": "Feat: Extra Rogue Talent",
+  "sections": [
+    {
+      "id": "extra_rogue_talent",
+      "title": "Extra Rogue Talent",
+      "anchor_heading": "# Extra Rogue Talent",
+      "description": "Complete rules for the feat Extra Rogue Talent, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

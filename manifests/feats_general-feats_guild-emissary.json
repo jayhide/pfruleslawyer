@@ -1,0 +1,15 @@
+{
+  "file": "guild-emissary.md",
+  "source_path": "https://www.d20pfsrd.com/feats/general-feats/guild-emissary/",
+  "source_name": "Feat: Guild Emissary",
+  "sections": [
+    {
+      "id": "guild_emissary",
+      "title": "Guild Emissary",
+      "anchor_heading": "# Guild Emissary",
+      "description": "Complete rules for the feat Guild Emissary, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

@@ -1,0 +1,15 @@
+{
+  "file": "peacemaker.md",
+  "source_path": "https://www.d20pfsrd.com/feats/general-feats/peacemaker/",
+  "source_name": "Feat: Peacemaker",
+  "sections": [
+    {
+      "id": "peacemaker",
+      "title": "Peacemaker",
+      "anchor_heading": "# Peacemaker",
+      "description": "Complete rules for the feat Peacemaker, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

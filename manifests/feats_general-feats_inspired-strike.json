@@ -1,0 +1,15 @@
+{
+  "file": "inspired-strike.md",
+  "source_path": "https://www.d20pfsrd.com/feats/general-feats/inspired-strike/",
+  "source_name": "Feat: Inspired Strike",
+  "sections": [
+    {
+      "id": "inspired_strike",
+      "title": "Inspired Strike",
+      "anchor_heading": "# Inspired Strike",
+      "description": "Complete rules for the feat Inspired Strike, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

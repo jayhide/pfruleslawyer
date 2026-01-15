@@ -1,0 +1,15 @@
+{
+  "file": "human-guise.md",
+  "source_path": "https://www.d20pfsrd.com/feats/general-feats/human-guise/",
+  "source_name": "Feat: Human Guise",
+  "sections": [
+    {
+      "id": "human_guise",
+      "title": "Human Guise",
+      "anchor_heading": "# Human Guise",
+      "description": "Complete rules for the feat Human Guise, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

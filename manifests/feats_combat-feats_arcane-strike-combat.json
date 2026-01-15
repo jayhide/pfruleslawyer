@@ -1,0 +1,15 @@
+{
+  "file": "arcane-strike-combat.md",
+  "source_path": "https://www.d20pfsrd.com/feats/combat-feats/arcane-strike-combat/",
+  "source_name": "Feat: Arcane Strike (Combat)",
+  "sections": [
+    {
+      "id": "arcane_strike_combat",
+      "title": "Arcane Strike",
+      "anchor_heading": "# Arcane Strike (Combat)",
+      "description": "Complete rules for the feat Arcane Strike, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

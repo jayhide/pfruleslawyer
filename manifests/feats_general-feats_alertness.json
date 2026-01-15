@@ -1,0 +1,15 @@
+{
+  "file": "alertness.md",
+  "source_path": "https://www.d20pfsrd.com/feats/general-feats/alertness/",
+  "source_name": "Feat: Alertness",
+  "sections": [
+    {
+      "id": "alertness",
+      "title": "Alertness",
+      "anchor_heading": "# Alertness",
+      "description": "Complete rules for the feat Alertness, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

@@ -1,0 +1,15 @@
+{
+  "file": "battle-planner.md",
+  "source_path": "https://www.d20pfsrd.com/feats/general-feats/battle-planner/",
+  "source_name": "Feat: Battle Planner",
+  "sections": [
+    {
+      "id": "battle_planner",
+      "title": "Battle Planner",
+      "anchor_heading": "# Battle Planner",
+      "description": "Complete rules for the feat Battle Planner, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

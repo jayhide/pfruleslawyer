@@ -1,0 +1,15 @@
+{
+  "file": "magnum-opus-story.md",
+  "source_path": "https://www.d20pfsrd.com/feats/story-feats/magnum-opus-story/",
+  "source_name": "Feat: Magnum Opus (Story)",
+  "sections": [
+    {
+      "id": "magnum_opus_story",
+      "title": "Magnum Opus",
+      "anchor_heading": "# Magnum Opus (Story)",
+      "description": "Complete rules for the feat Magnum Opus, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

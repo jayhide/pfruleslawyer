@@ -1,0 +1,15 @@
+{
+  "file": "ghost-guide-story.md",
+  "source_path": "https://www.d20pfsrd.com/feats/story-feats/ghost-guide-story/",
+  "source_name": "Feat: Ghost Guide (Story)",
+  "sections": [
+    {
+      "id": "ghost_guide_story",
+      "title": "Ghost Guide",
+      "anchor_heading": "# Ghost Guide (Story)",
+      "description": "Complete rules for the feat Ghost Guide, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

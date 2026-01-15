@@ -1,0 +1,15 @@
+{
+  "file": "wrist-grab-combat.md",
+  "source_path": "https://www.d20pfsrd.com/feats/combat-feats/wrist-grab-combat/",
+  "source_name": "Feat: Wrist Grab (Combat)",
+  "sections": [
+    {
+      "id": "wrist_grab_combat",
+      "title": "Wrist Grab",
+      "anchor_heading": "# Wrist Grab (Combat)",
+      "description": "Complete rules for the feat Wrist Grab, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

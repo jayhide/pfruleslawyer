@@ -1,0 +1,15 @@
+{
+  "file": "aquatic-spell-metamagic.md",
+  "source_path": "https://www.d20pfsrd.com/feats/metamagic-feats/aquatic-spell-metamagic/",
+  "source_name": "Feat: Aquatic Spell (Metamagic)",
+  "sections": [
+    {
+      "id": "aquatic_spell_metamagic",
+      "title": "Aquatic Spell",
+      "anchor_heading": "# Aquatic Spell (Metamagic)",
+      "description": "Complete rules for the feat Aquatic Spell, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

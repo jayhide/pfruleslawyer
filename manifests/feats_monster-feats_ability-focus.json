@@ -1,0 +1,15 @@
+{
+  "file": "ability-focus.md",
+  "source_path": "https://www.d20pfsrd.com/feats/monster-feats/ability-focus/",
+  "source_name": "Feat: Ability Focus (Monster)",
+  "sections": [
+    {
+      "id": "ability_focus",
+      "title": "Ability Focus",
+      "anchor_heading": "# Ability Focus (Monster)",
+      "description": "Complete rules for the feat Ability Focus, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

@@ -1,0 +1,15 @@
+{
+  "file": "harmonic-sage.md",
+  "source_path": "https://www.d20pfsrd.com/feats/general-feats/harmonic-sage/",
+  "source_name": "Feat: Harmonic Sage",
+  "sections": [
+    {
+      "id": "harmonic_sage",
+      "title": "Harmonic Sage",
+      "anchor_heading": "# Harmonic Sage",
+      "description": "Complete rules for the feat Harmonic Sage, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

@@ -1,0 +1,15 @@
+{
+  "file": "extra-wagons.md",
+  "source_path": "https://www.d20pfsrd.com/feats/caravan-feats/extra-wagons/",
+  "source_name": "Feat: Extra Wagons",
+  "sections": [
+    {
+      "id": "extra_wagons",
+      "title": "Extra Wagons",
+      "anchor_heading": "# Extra Wagons",
+      "description": "Complete rules for the feat Extra Wagons, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

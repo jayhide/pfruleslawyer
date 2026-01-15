@@ -1,0 +1,15 @@
+{
+  "file": "stand-still-combat.md",
+  "source_path": "https://www.d20pfsrd.com/feats/combat-feats/stand-still-combat/",
+  "source_name": "Feat: Stand Still (Combat)",
+  "sections": [
+    {
+      "id": "stand_still_combat",
+      "title": "Stand Still",
+      "anchor_heading": "# Stand Still (Combat)",
+      "description": "Complete rules for the feat Stand Still, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

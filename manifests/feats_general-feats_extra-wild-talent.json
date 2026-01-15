@@ -1,0 +1,15 @@
+{
+  "file": "extra-wild-talent.md",
+  "source_path": "https://www.d20pfsrd.com/feats/general-feats/extra-wild-talent/",
+  "source_name": "Feat: Extra Wild Talent",
+  "sections": [
+    {
+      "id": "extra_wild_talent",
+      "title": "Extra Wild Talent",
+      "anchor_heading": "# Extra Wild Talent",
+      "description": "Complete rules for the feat Extra Wild Talent, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

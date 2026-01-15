@@ -1,0 +1,15 @@
+{
+  "file": "enemy-cult-story.md",
+  "source_path": "https://www.d20pfsrd.com/feats/story-feats/enemy-cult-story/",
+  "source_name": "Feat: Enemy Cult (Story)",
+  "sections": [
+    {
+      "id": "enemy_cult_story",
+      "title": "Enemy Cult",
+      "anchor_heading": "# Enemy Cult (Story)",
+      "description": "Complete rules for the feat Enemy Cult, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

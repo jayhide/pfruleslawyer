@@ -1,0 +1,15 @@
+{
+  "file": "alchemical-strike-combat.md",
+  "source_path": "https://www.d20pfsrd.com/feats/combat-feats/alchemical-strike-combat/",
+  "source_name": "Feat: Alchemical Strike (Combat)",
+  "sections": [
+    {
+      "id": "alchemical_strike_combat",
+      "title": "Alchemical Strike",
+      "anchor_heading": "# Alchemical Strike (Combat)",
+      "description": "Complete rules for the feat Alchemical Strike, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

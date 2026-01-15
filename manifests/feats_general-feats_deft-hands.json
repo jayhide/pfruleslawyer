@@ -1,0 +1,15 @@
+{
+  "file": "deft-hands.md",
+  "source_path": "https://www.d20pfsrd.com/feats/general-feats/deft-hands/",
+  "source_name": "Feat: Deft Hands",
+  "sections": [
+    {
+      "id": "deft_hands",
+      "title": "Deft Hands",
+      "anchor_heading": "# Deft Hands",
+      "description": "Complete rules for the feat Deft Hands, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

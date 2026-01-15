@@ -1,0 +1,15 @@
+{
+  "file": "sinister-reputation.md",
+  "source_path": "https://www.d20pfsrd.com/feats/general-feats/sinister-reputation/",
+  "source_name": "Feat: Sinister Reputation",
+  "sections": [
+    {
+      "id": "sinister_reputation",
+      "title": "Sinister Reputation",
+      "anchor_heading": "# Sinister Reputation",
+      "description": "Complete rules for the feat Sinister Reputation, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

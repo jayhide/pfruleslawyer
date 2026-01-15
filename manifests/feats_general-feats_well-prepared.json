@@ -1,0 +1,15 @@
+{
+  "file": "well-prepared.md",
+  "source_path": "https://www.d20pfsrd.com/feats/general-feats/well-prepared/",
+  "source_name": "Feat: Well-Prepared",
+  "sections": [
+    {
+      "id": "well_prepared",
+      "title": "Well-Prepared",
+      "anchor_heading": "# Well-Prepared",
+      "description": "Complete rules for the feat Well-Prepared, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

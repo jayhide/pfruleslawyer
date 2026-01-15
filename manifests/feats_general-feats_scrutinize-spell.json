@@ -1,0 +1,15 @@
+{
+  "file": "scrutinize-spell.md",
+  "source_path": "https://www.d20pfsrd.com/feats/general-feats/scrutinize-spell/",
+  "source_name": "Feat: Scrutinize Spell",
+  "sections": [
+    {
+      "id": "scrutinize_spell",
+      "title": "Scrutinize Spell",
+      "anchor_heading": "# Scrutinize Spell",
+      "description": "Complete rules for the feat Scrutinize Spell, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

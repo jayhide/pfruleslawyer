@@ -1,0 +1,15 @@
+{
+  "file": "footslasher.md",
+  "source_path": "https://www.d20pfsrd.com/feats/combat-feats/footslasher/",
+  "source_name": "Feat: Footslasher (Combat)",
+  "sections": [
+    {
+      "id": "footslasher",
+      "title": "Footslasher",
+      "anchor_heading": "# Footslasher (Combat)",
+      "description": "Complete rules for the feat Footslasher, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

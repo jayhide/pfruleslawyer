@@ -1,0 +1,15 @@
+{
+  "file": "forge-ring-item-creation.md",
+  "source_path": "https://www.d20pfsrd.com/feats/item-creation-feats/forge-ring-item-creation/",
+  "source_name": "Feat: Forge Ring (Item Creation)",
+  "sections": [
+    {
+      "id": "forge_ring_item_creation",
+      "title": "Forge Ring",
+      "anchor_heading": "# Forge Ring (Item Creation)",
+      "description": "Complete rules for the feat Forge Ring, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

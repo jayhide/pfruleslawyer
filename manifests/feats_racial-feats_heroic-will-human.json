@@ -1,0 +1,15 @@
+{
+  "file": "heroic-will-human.md",
+  "source_path": "https://www.d20pfsrd.com/feats/racial-feats/heroic-will-human/",
+  "source_name": "Feat: Heroic Will (Human)",
+  "sections": [
+    {
+      "id": "heroic_will_human",
+      "title": "Heroic Will",
+      "anchor_heading": "# Heroic Will (Human)",
+      "description": "Complete rules for the feat Heroic Will, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

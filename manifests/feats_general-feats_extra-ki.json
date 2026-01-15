@@ -1,0 +1,15 @@
+{
+  "file": "extra-ki.md",
+  "source_path": "https://www.d20pfsrd.com/feats/general-feats/extra-ki/",
+  "source_name": "Feat: Extra Ki",
+  "sections": [
+    {
+      "id": "extra_ki",
+      "title": "Extra Ki",
+      "anchor_heading": "# Extra Ki",
+      "description": "Complete rules for the feat Extra Ki, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

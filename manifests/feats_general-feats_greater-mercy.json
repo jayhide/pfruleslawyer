@@ -1,0 +1,15 @@
+{
+  "file": "greater-mercy.md",
+  "source_path": "https://www.d20pfsrd.com/feats/general-feats/greater-mercy/",
+  "source_name": "Feat: Greater Mercy",
+  "sections": [
+    {
+      "id": "greater_mercy",
+      "title": "Greater Mercy",
+      "anchor_heading": "# Greater Mercy",
+      "description": "Complete rules for the feat Greater Mercy, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

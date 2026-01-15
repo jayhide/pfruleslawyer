@@ -1,0 +1,15 @@
+{
+  "file": "insightful-advice.md",
+  "source_path": "https://www.d20pfsrd.com/feats/general-feats/insightful-advice/",
+  "source_name": "Feat: Insightful Advice",
+  "sections": [
+    {
+      "id": "insightful_advice",
+      "title": "Insightful Advice",
+      "anchor_heading": "# Insightful Advice",
+      "description": "Complete rules for the feat Insightful Advice, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

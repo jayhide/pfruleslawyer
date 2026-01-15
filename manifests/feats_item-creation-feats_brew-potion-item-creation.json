@@ -1,0 +1,15 @@
+{
+  "file": "brew-potion-item-creation.md",
+  "source_path": "https://www.d20pfsrd.com/feats/item-creation-feats/brew-potion-item-creation/",
+  "source_name": "Feat: Brew Potion (Item Creation)",
+  "sections": [
+    {
+      "id": "brew_potion_item_creation",
+      "title": "Brew Potion",
+      "anchor_heading": "# Brew Potion (Item Creation)",
+      "description": "Complete rules for the feat Brew Potion, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

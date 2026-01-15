@@ -1,0 +1,15 @@
+{
+  "file": "focused-spell-metamagic.md",
+  "source_path": "https://www.d20pfsrd.com/feats/metamagic-feats/focused-spell-metamagic/",
+  "source_name": "Feat: Focused Spell (Metamagic)",
+  "sections": [
+    {
+      "id": "focused_spell_metamagic",
+      "title": "Focused Spell",
+      "anchor_heading": "# Focused Spell (Metamagic)",
+      "description": "Complete rules for the feat Focused Spell, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

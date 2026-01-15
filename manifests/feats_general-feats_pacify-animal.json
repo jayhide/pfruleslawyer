@@ -1,0 +1,15 @@
+{
+  "file": "pacify-animal.md",
+  "source_path": "https://www.d20pfsrd.com/feats/general-feats/pacify-animal/",
+  "source_name": "Feat: Pacify Animal",
+  "sections": [
+    {
+      "id": "pacify_animal",
+      "title": "Pacify Animal",
+      "anchor_heading": "# Pacify Animal",
+      "description": "Complete rules for the feat Pacify Animal, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

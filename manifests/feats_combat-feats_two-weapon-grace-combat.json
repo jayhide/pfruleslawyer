@@ -1,0 +1,15 @@
+{
+  "file": "two-weapon-grace-combat.md",
+  "source_path": "https://www.d20pfsrd.com/feats/combat-feats/two-weapon-grace-combat/",
+  "source_name": "Feat: Two-Weapon Grace (Combat)",
+  "sections": [
+    {
+      "id": "two_weapon_grace_combat",
+      "title": "Two-Weapon Grace",
+      "anchor_heading": "# Two-Weapon Grace (Combat)",
+      "description": "Complete rules for the feat Two-Weapon Grace, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

@@ -1,0 +1,15 @@
+{
+  "file": "extra-inspiration.md",
+  "source_path": "https://www.d20pfsrd.com/feats/general-feats/extra-inspiration/",
+  "source_name": "Feat: Extra Inspiration",
+  "sections": [
+    {
+      "id": "extra_inspiration",
+      "title": "Extra Inspiration",
+      "anchor_heading": "# Extra Inspiration",
+      "description": "Complete rules for the feat Extra Inspiration, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

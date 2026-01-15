@@ -1,0 +1,15 @@
+{
+  "file": "mounted-blade.md",
+  "source_path": "https://www.d20pfsrd.com/feats/general-feats/mounted-blade/",
+  "source_name": "Feat: Mounted Blade",
+  "sections": [
+    {
+      "id": "mounted_blade",
+      "title": "Mounted Blade",
+      "anchor_heading": "# Mounted Blade",
+      "description": "Complete rules for the feat Mounted Blade, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

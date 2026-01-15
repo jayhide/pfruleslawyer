@@ -1,0 +1,15 @@
+{
+  "file": "greater-spelleater.md",
+  "source_path": "https://www.d20pfsrd.com/feats/general-feats/greater-spelleater/",
+  "source_name": "Feat: Greater Spelleater",
+  "sections": [
+    {
+      "id": "greater_spelleater",
+      "title": "Greater Spelleater",
+      "anchor_heading": "# Greater Spelleater",
+      "description": "Complete rules for the feat Greater Spelleater, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

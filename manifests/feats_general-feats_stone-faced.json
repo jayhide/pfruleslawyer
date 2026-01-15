@@ -1,0 +1,15 @@
+{
+  "file": "stone-faced.md",
+  "source_path": "https://www.d20pfsrd.com/feats/general-feats/stone-faced/",
+  "source_name": "Feat: Stone-Faced",
+  "sections": [
+    {
+      "id": "stone_faced",
+      "title": "Stone-Faced",
+      "anchor_heading": "# Stone-Faced",
+      "description": "Complete rules for the feat Stone-Faced, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

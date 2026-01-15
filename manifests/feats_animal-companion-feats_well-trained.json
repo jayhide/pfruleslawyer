@@ -1,0 +1,15 @@
+{
+  "file": "well-trained.md",
+  "source_path": "https://www.d20pfsrd.com/feats/animal-companion-feats/well-trained/",
+  "source_name": "Feat: Well-Trained (Animal Companion Feat)",
+  "sections": [
+    {
+      "id": "well_trained",
+      "title": "Well-Trained",
+      "anchor_heading": "# Well-Trained (Animal Companion Feat)",
+      "description": "Complete rules for the feat Well-Trained, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

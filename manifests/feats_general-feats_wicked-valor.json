@@ -1,0 +1,15 @@
+{
+  "file": "wicked-valor.md",
+  "source_path": "https://www.d20pfsrd.com/feats/general-feats/wicked-valor/",
+  "source_name": "Feat: Wicked Valor",
+  "sections": [
+    {
+      "id": "wicked_valor",
+      "title": "Wicked Valor",
+      "anchor_heading": "# Wicked Valor",
+      "description": "Complete rules for the feat Wicked Valor, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

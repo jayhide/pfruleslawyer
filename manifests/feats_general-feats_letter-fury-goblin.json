@@ -1,0 +1,15 @@
+{
+  "file": "letter-fury-goblin.md",
+  "source_path": "https://www.d20pfsrd.com/feats/general-feats/letter-fury-goblin/",
+  "source_name": "Feat: Letter Fury (Goblin)",
+  "sections": [
+    {
+      "id": "letter_fury_goblin",
+      "title": "Letter Fury",
+      "anchor_heading": "# Letter Fury (Goblin)",
+      "description": "Complete rules for the feat Letter Fury, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

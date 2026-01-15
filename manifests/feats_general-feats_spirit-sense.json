@@ -1,0 +1,15 @@
+{
+  "file": "spirit-sense.md",
+  "source_path": "https://www.d20pfsrd.com/feats/general-feats/spirit-sense/",
+  "source_name": "Feat: Spirit Sense",
+  "sections": [
+    {
+      "id": "spirit_sense",
+      "title": "Spirit Sense",
+      "anchor_heading": "# Spirit Sense",
+      "description": "Complete rules for the feat Spirit Sense, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

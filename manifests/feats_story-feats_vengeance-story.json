@@ -1,0 +1,15 @@
+{
+  "file": "vengeance-story.md",
+  "source_path": "https://www.d20pfsrd.com/feats/story-feats/vengeance-story/",
+  "source_name": "Feat: Vengeance (Story)",
+  "sections": [
+    {
+      "id": "vengeance_story",
+      "title": "Vengeance",
+      "anchor_heading": "# Vengeance (Story)",
+      "description": "Complete rules for the feat Vengeance, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

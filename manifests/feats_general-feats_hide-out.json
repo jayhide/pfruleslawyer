@@ -1,0 +1,15 @@
+{
+  "file": "hide-out.md",
+  "source_path": "https://www.d20pfsrd.com/feats/general-feats/hide-out/",
+  "source_name": "Feat: Hide-Out",
+  "sections": [
+    {
+      "id": "hide_out",
+      "title": "Hide-Out",
+      "anchor_heading": "# Hide-Out",
+      "description": "Complete rules for the feat Hide-Out, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

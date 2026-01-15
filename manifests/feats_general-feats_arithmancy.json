@@ -1,0 +1,15 @@
+{
+  "file": "arithmancy.md",
+  "source_path": "https://www.d20pfsrd.com/feats/general-feats/arithmancy/",
+  "source_name": "Feat: Arithmancy",
+  "sections": [
+    {
+      "id": "arithmancy",
+      "title": "Arithmancy",
+      "anchor_heading": "# Arithmancy",
+      "description": "Complete rules for the feat Arithmancy, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

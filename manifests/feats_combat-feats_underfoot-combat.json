@@ -1,0 +1,15 @@
+{
+  "file": "underfoot-combat.md",
+  "source_path": "https://www.d20pfsrd.com/feats/combat-feats/underfoot-combat/",
+  "source_name": "Feat: Underfoot (Combat)",
+  "sections": [
+    {
+      "id": "underfoot_combat",
+      "title": "Underfoot",
+      "anchor_heading": "# Underfoot (Combat)",
+      "description": "Complete rules for the feat Underfoot, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

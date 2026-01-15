@@ -1,0 +1,15 @@
+{
+  "file": "swift-swimmer.md",
+  "source_path": "https://www.d20pfsrd.com/feats/general-feats/swift-swimmer/",
+  "source_name": "Feat: Swift Swimmer",
+  "sections": [
+    {
+      "id": "swift_swimmer",
+      "title": "Swift Swimmer",
+      "anchor_heading": "# Swift Swimmer",
+      "description": "Complete rules for the feat Swift Swimmer, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

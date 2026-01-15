@@ -1,0 +1,15 @@
+{
+  "file": "expert-boarder.md",
+  "source_path": "https://www.d20pfsrd.com/feats/general-feats/expert-boarder/",
+  "source_name": "Feat: Expert Boarder",
+  "sections": [
+    {
+      "id": "expert_boarder",
+      "title": "Expert Boarder",
+      "anchor_heading": "# Expert Boarder",
+      "description": "Complete rules for the feat Expert Boarder, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

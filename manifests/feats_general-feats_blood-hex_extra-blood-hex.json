@@ -1,0 +1,15 @@
+{
+  "file": "extra-blood-hex.md",
+  "source_path": "https://www.d20pfsrd.com/feats/general-feats/blood-hex/extra-blood-hex/",
+  "source_name": "Feat: Extra Blood Hex",
+  "sections": [
+    {
+      "id": "extra_blood_hex",
+      "title": "Extra Blood Hex",
+      "anchor_heading": "# Extra Blood Hex",
+      "description": "Complete rules for the feat Extra Blood Hex, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

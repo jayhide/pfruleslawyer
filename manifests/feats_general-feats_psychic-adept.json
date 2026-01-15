@@ -1,0 +1,15 @@
+{
+  "file": "psychic-adept.md",
+  "source_path": "https://www.d20pfsrd.com/feats/general-feats/psychic-adept/",
+  "source_name": "Feat: Psychic Adept",
+  "sections": [
+    {
+      "id": "psychic_adept",
+      "title": "Psychic Adept",
+      "anchor_heading": "# Psychic Adept",
+      "description": "Complete rules for the feat Psychic Adept, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

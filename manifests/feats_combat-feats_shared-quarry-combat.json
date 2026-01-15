@@ -1,0 +1,15 @@
+{
+  "file": "shared-quarry-combat.md",
+  "source_path": "https://www.d20pfsrd.com/feats/combat-feats/shared-quarry-combat/",
+  "source_name": "Feat: Shared Quarry (Combat)",
+  "sections": [
+    {
+      "id": "shared_quarry_combat",
+      "title": "Shared Quarry",
+      "anchor_heading": "# Shared Quarry (Combat)",
+      "description": "Complete rules for the feat Shared Quarry, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

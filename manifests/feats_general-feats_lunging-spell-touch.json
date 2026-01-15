@@ -1,0 +1,15 @@
+{
+  "file": "lunging-spell-touch.md",
+  "source_path": "https://www.d20pfsrd.com/feats/general-feats/lunging-spell-touch/",
+  "source_name": "Feat: Lunging Spell Touch",
+  "sections": [
+    {
+      "id": "lunging_spell_touch",
+      "title": "Lunging Spell Touch",
+      "anchor_heading": "# Lunging Spell Touch",
+      "description": "Complete rules for the feat Lunging Spell Touch, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

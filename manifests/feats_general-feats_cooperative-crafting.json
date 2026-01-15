@@ -1,0 +1,15 @@
+{
+  "file": "cooperative-crafting.md",
+  "source_path": "https://www.d20pfsrd.com/feats/general-feats/cooperative-crafting/",
+  "source_name": "Feat: Cooperative Crafting",
+  "sections": [
+    {
+      "id": "cooperative_crafting",
+      "title": "Cooperative Crafting",
+      "anchor_heading": "# Cooperative Crafting",
+      "description": "Complete rules for the feat Cooperative Crafting, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

@@ -1,0 +1,15 @@
+{
+  "file": "puppet-master-story.md",
+  "source_path": "https://www.d20pfsrd.com/feats/story-feats/puppet-master-story/",
+  "source_name": "Feat: Puppet Master (Story)",
+  "sections": [
+    {
+      "id": "puppet_master_story",
+      "title": "Puppet Master",
+      "anchor_heading": "# Puppet Master (Story)",
+      "description": "Complete rules for the feat Puppet Master, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

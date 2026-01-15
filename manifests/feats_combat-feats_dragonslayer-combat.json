@@ -1,0 +1,15 @@
+{
+  "file": "dragonslayer-combat.md",
+  "source_path": "https://www.d20pfsrd.com/feats/combat-feats/dragonslayer-combat/",
+  "source_name": "Feat: Dragonslayer (Combat)",
+  "sections": [
+    {
+      "id": "dragonslayer_combat",
+      "title": "Dragonslayer",
+      "anchor_heading": "# Dragonslayer (Combat)",
+      "description": "Complete rules for the feat Dragonslayer, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

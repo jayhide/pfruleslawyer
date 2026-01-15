@@ -1,0 +1,15 @@
+{
+  "file": "small-but-deadly.md",
+  "source_path": "https://www.d20pfsrd.com/feats/general-feats/small-but-deadly/",
+  "source_name": "Feat: Small But Deadly",
+  "sections": [
+    {
+      "id": "small_but_deadly",
+      "title": "Small But Deadly",
+      "anchor_heading": "# Small But Deadly",
+      "description": "Complete rules for the feat Small But Deadly, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

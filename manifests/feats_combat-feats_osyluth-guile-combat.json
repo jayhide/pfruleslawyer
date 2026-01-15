@@ -1,0 +1,15 @@
+{
+  "file": "osyluth-guile-combat.md",
+  "source_path": "https://www.d20pfsrd.com/feats/combat-feats/osyluth-guile-combat/",
+  "source_name": "Feat: Osyluth Guile (Combat)",
+  "sections": [
+    {
+      "id": "osyluth_guile_combat",
+      "title": "Osyluth Guile",
+      "anchor_heading": "# Osyluth Guile (Combat)",
+      "description": "Complete rules for the feat Osyluth Guile, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

@@ -1,0 +1,15 @@
+{
+  "file": "contagious-spell-metamagic.md",
+  "source_path": "https://www.d20pfsrd.com/feats/metamagic-feats/contagious-spell-metamagic/",
+  "source_name": "Feat: Contagious Spell (Metamagic)",
+  "sections": [
+    {
+      "id": "contagious_spell_metamagic",
+      "title": "Contagious Spell",
+      "anchor_heading": "# Contagious Spell (Metamagic)",
+      "description": "Complete rules for the feat Contagious Spell, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

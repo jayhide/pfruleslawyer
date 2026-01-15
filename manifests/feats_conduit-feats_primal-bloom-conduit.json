@@ -1,0 +1,15 @@
+{
+  "file": "primal-bloom-conduit.md",
+  "source_path": "https://www.d20pfsrd.com/feats/conduit-feats/primal-bloom-conduit/",
+  "source_name": "Feat: Primal Bloom (Conduit)",
+  "sections": [
+    {
+      "id": "primal_bloom_conduit",
+      "title": "Primal Bloom",
+      "anchor_heading": "# Primal Bloom (Conduit)",
+      "description": "Complete rules for the feat Primal Bloom, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

@@ -1,0 +1,15 @@
+{
+  "file": "harvest-parts-item-creation.md",
+  "source_path": "https://www.d20pfsrd.com/feats/item-creation-feats/harvest-parts-item-creation/",
+  "source_name": "Feat: Harvest Parts (Item Creation)",
+  "sections": [
+    {
+      "id": "harvest_parts_item_creation",
+      "title": "Harvest Parts",
+      "anchor_heading": "# Harvest Parts (Item Creation)",
+      "description": "Complete rules for the feat Harvest Parts, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

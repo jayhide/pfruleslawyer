@@ -1,0 +1,15 @@
+{
+  "file": "ambush-sense-combat.md",
+  "source_path": "https://www.d20pfsrd.com/feats/combat-feats/ambush-sense-combat/",
+  "source_name": "Feat: Ambush Sense (Combat)",
+  "sections": [
+    {
+      "id": "ambush_sense_combat",
+      "title": "Ambush Sense",
+      "anchor_heading": "# Ambush Sense (Combat)",
+      "description": "Complete rules for the feat Ambush Sense, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

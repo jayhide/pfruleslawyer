@@ -1,0 +1,15 @@
+{
+  "file": "false-opening-combat.md",
+  "source_path": "https://www.d20pfsrd.com/feats/combat-feats/false-opening-combat/",
+  "source_name": "Feat: False Opening (Combat)",
+  "sections": [
+    {
+      "id": "false_opening_combat",
+      "title": "False Opening",
+      "anchor_heading": "# False Opening (Combat)",
+      "description": "Complete rules for the feat False Opening, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

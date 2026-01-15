@@ -1,0 +1,15 @@
+{
+  "file": "blessed-waters-technique.md",
+  "source_path": "https://www.d20pfsrd.com/feats/general-feats/blessed-waters-technique/",
+  "source_name": "Feat: Blessed Waters (Technique)",
+  "sections": [
+    {
+      "id": "blessed_waters_technique",
+      "title": "Blessed Waters",
+      "anchor_heading": "# Blessed Waters (Technique)",
+      "description": "Complete rules for the feat Blessed Waters, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

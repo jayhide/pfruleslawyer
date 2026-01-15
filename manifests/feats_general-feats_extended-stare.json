@@ -1,0 +1,15 @@
+{
+  "file": "extended-stare.md",
+  "source_path": "https://www.d20pfsrd.com/feats/general-feats/extended-stare/",
+  "source_name": "Feat: Extended Stare",
+  "sections": [
+    {
+      "id": "extended_stare",
+      "title": "Extended Stare",
+      "anchor_heading": "# Extended Stare",
+      "description": "Complete rules for the feat Extended Stare, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

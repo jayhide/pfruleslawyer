@@ -1,0 +1,15 @@
+{
+  "file": "cleave-combat.md",
+  "source_path": "https://www.d20pfsrd.com/feats/combat-feats/cleave-combat/",
+  "source_name": "Feat: Cleave (Combat)",
+  "sections": [
+    {
+      "id": "cleave_combat",
+      "title": "Cleave",
+      "anchor_heading": "# Cleave (Combat)",
+      "description": "Complete rules for the feat Cleave, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

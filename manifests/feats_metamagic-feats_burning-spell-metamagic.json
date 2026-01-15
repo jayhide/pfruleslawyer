@@ -1,0 +1,15 @@
+{
+  "file": "burning-spell-metamagic.md",
+  "source_path": "https://www.d20pfsrd.com/feats/metamagic-feats/burning-spell-metamagic/",
+  "source_name": "Feat: Burning Spell (Metamagic)",
+  "sections": [
+    {
+      "id": "burning_spell_metamagic",
+      "title": "Burning Spell",
+      "anchor_heading": "# Burning Spell (Metamagic)",
+      "description": "Complete rules for the feat Burning Spell, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

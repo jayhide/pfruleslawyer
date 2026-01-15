@@ -1,0 +1,15 @@
+{
+  "file": "sociable.md",
+  "source_path": "https://www.d20pfsrd.com/feats/general-feats/sociable/",
+  "source_name": "Feat: Sociable",
+  "sections": [
+    {
+      "id": "sociable",
+      "title": "Sociable",
+      "anchor_heading": "# Sociable",
+      "description": "Complete rules for the feat Sociable, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

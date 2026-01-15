@@ -1,0 +1,15 @@
+{
+  "file": "take-this-teamwork.md",
+  "source_path": "https://www.d20pfsrd.com/feats/teamwork-feats/take-this-teamwork/",
+  "source_name": "Feat: Take This (Teamwork)",
+  "sections": [
+    {
+      "id": "take_this_teamwork",
+      "title": "Take This",
+      "anchor_heading": "# Take This (Teamwork)",
+      "description": "Complete rules for the feat Take This, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

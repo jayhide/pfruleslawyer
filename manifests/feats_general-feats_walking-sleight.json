@@ -1,0 +1,15 @@
+{
+  "file": "walking-sleight.md",
+  "source_path": "https://www.d20pfsrd.com/feats/general-feats/walking-sleight/",
+  "source_name": "Feat: Walking Sleight",
+  "sections": [
+    {
+      "id": "walking_sleight",
+      "title": "Walking Sleight",
+      "anchor_heading": "# Walking Sleight",
+      "description": "Complete rules for the feat Walking Sleight, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

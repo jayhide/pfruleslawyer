@@ -1,0 +1,15 @@
+{
+  "file": "signature-deed-grit.md",
+  "source_path": "https://www.d20pfsrd.com/feats/general-feats/signature-deed-grit/",
+  "source_name": "Feat: Signature Deed (Grit)",
+  "sections": [
+    {
+      "id": "signature_deed_grit",
+      "title": "Signature Deed",
+      "anchor_heading": "# Signature Deed (Grit)",
+      "description": "Complete rules for the feat Signature Deed, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

@@ -1,0 +1,15 @@
+{
+  "file": "arcane-blast.md",
+  "source_path": "https://www.d20pfsrd.com/feats/general-feats/arcane-blast/",
+  "source_name": "Feat: Arcane Blast",
+  "sections": [
+    {
+      "id": "arcane_blast",
+      "title": "Arcane Blast",
+      "anchor_heading": "# Arcane Blast",
+      "description": "Complete rules for the feat Arcane Blast, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

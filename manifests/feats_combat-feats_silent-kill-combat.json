@@ -1,0 +1,15 @@
+{
+  "file": "silent-kill-combat.md",
+  "source_path": "https://www.d20pfsrd.com/feats/combat-feats/silent-kill-combat/",
+  "source_name": "Feat: Silent Kill (Combat)",
+  "sections": [
+    {
+      "id": "silent_kill_combat",
+      "title": "Silent Kill",
+      "anchor_heading": "# Silent Kill (Combat)",
+      "description": "Complete rules for the feat Silent Kill, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

@@ -1,0 +1,15 @@
+{
+  "file": "horse-whisperer.md",
+  "source_path": "https://www.d20pfsrd.com/feats/general-feats/horse-whisperer/",
+  "source_name": "Feat: Horse Whisperer",
+  "sections": [
+    {
+      "id": "horse_whisperer",
+      "title": "Horse Whisperer",
+      "anchor_heading": "# Horse Whisperer",
+      "description": "Complete rules for the feat Horse Whisperer, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

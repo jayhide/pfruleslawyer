@@ -1,0 +1,15 @@
+{
+  "file": "group-shared-spells-teamwork.md",
+  "source_path": "https://www.d20pfsrd.com/feats/general-feats/group-shared-spells-teamwork/",
+  "source_name": "Feat: Group Shared Spells (Teamwork)",
+  "sections": [
+    {
+      "id": "group_shared_spells_teamwork",
+      "title": "Group Shared Spells",
+      "anchor_heading": "# Group Shared Spells (Teamwork)",
+      "description": "Complete rules for the feat Group Shared Spells, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

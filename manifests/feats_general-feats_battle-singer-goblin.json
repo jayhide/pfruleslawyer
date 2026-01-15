@@ -1,0 +1,15 @@
+{
+  "file": "battle-singer-goblin.md",
+  "source_path": "https://www.d20pfsrd.com/feats/general-feats/battle-singer-goblin/",
+  "source_name": "Feat: Battle Singer (Goblin)",
+  "sections": [
+    {
+      "id": "battle_singer_goblin",
+      "title": "Battle Singer",
+      "anchor_heading": "# Battle Singer (Goblin)",
+      "description": "Complete rules for the feat Battle Singer, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

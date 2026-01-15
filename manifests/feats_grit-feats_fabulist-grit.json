@@ -1,0 +1,15 @@
+{
+  "file": "fabulist-grit.md",
+  "source_path": "https://www.d20pfsrd.com/feats/grit-feats/fabulist-grit/",
+  "source_name": "Feat: Fabulist (Grit)",
+  "sections": [
+    {
+      "id": "fabulist_grit",
+      "title": "Fabulist",
+      "anchor_heading": "# Fabulist (Grit)",
+      "description": "Complete rules for the feat Fabulist, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

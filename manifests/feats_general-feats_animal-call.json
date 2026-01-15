@@ -1,0 +1,15 @@
+{
+  "file": "animal-call.md",
+  "source_path": "https://www.d20pfsrd.com/feats/general-feats/animal-call/",
+  "source_name": "Feat: Animal Call",
+  "sections": [
+    {
+      "id": "animal_call",
+      "title": "Animal Call",
+      "anchor_heading": "# Animal Call",
+      "description": "Complete rules for the feat Animal Call, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

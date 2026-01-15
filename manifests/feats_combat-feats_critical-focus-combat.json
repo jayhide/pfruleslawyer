@@ -1,0 +1,15 @@
+{
+  "file": "critical-focus-combat.md",
+  "source_path": "https://www.d20pfsrd.com/feats/combat-feats/critical-focus-combat/",
+  "source_name": "Feat: Critical Focus (Combat)",
+  "sections": [
+    {
+      "id": "critical_focus_combat",
+      "title": "Critical Focus",
+      "anchor_heading": "# Critical Focus (Combat)",
+      "description": "Complete rules for the feat Critical Focus, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

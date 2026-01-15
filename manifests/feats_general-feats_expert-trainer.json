@@ -1,0 +1,15 @@
+{
+  "file": "expert-trainer.md",
+  "source_path": "https://www.d20pfsrd.com/feats/general-feats/expert-trainer/",
+  "source_name": "Feat: Expert Trainer",
+  "sections": [
+    {
+      "id": "expert_trainer",
+      "title": "Expert Trainer",
+      "anchor_heading": "# Expert Trainer",
+      "description": "Complete rules for the feat Expert Trainer, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

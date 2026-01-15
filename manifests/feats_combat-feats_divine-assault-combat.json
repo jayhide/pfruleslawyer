@@ -1,0 +1,15 @@
+{
+  "file": "divine-assault-combat.md",
+  "source_path": "https://www.d20pfsrd.com/feats/combat-feats/divine-assault-combat/",
+  "source_name": "Feat: Divine Assault (Combat)",
+  "sections": [
+    {
+      "id": "divine_assault_combat",
+      "title": "Divine Assault",
+      "anchor_heading": "# Divine Assault (Combat)",
+      "description": "Complete rules for the feat Divine Assault, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

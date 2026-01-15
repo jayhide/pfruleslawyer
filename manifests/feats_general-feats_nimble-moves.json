@@ -1,0 +1,15 @@
+{
+  "file": "nimble-moves.md",
+  "source_path": "https://www.d20pfsrd.com/feats/general-feats/nimble-moves/",
+  "source_name": "Feat: Nimble Moves",
+  "sections": [
+    {
+      "id": "nimble_moves",
+      "title": "Nimble Moves",
+      "anchor_heading": "# Nimble Moves",
+      "description": "Complete rules for the feat Nimble Moves, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

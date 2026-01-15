@@ -1,0 +1,15 @@
+{
+  "file": "spirited-charge-combat.md",
+  "source_path": "https://www.d20pfsrd.com/feats/combat-feats/spirited-charge-combat/",
+  "source_name": "Feat: Spirited Charge (Combat)",
+  "sections": [
+    {
+      "id": "spirited_charge_combat",
+      "title": "Spirited Charge",
+      "anchor_heading": "# Spirited Charge (Combat)",
+      "description": "Complete rules for the feat Spirited Charge, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

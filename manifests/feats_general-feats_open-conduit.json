@@ -1,0 +1,15 @@
+{
+  "file": "open-conduit.md",
+  "source_path": "https://www.d20pfsrd.com/feats/general-feats/open-conduit/",
+  "source_name": "Feat: Open Conduit",
+  "sections": [
+    {
+      "id": "open_conduit",
+      "title": "Open Conduit",
+      "anchor_heading": "# Open Conduit",
+      "description": "Complete rules for the feat Open Conduit, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

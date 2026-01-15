@@ -1,0 +1,15 @@
+{
+  "file": "channel-spirit.md",
+  "source_path": "https://www.d20pfsrd.com/feats/general-feats/channel-spirit/",
+  "source_name": "Feat: Channel Spirit",
+  "sections": [
+    {
+      "id": "channel_spirit",
+      "title": "Channel Spirit",
+      "anchor_heading": "# Channel Spirit",
+      "description": "Complete rules for the feat Channel Spirit, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

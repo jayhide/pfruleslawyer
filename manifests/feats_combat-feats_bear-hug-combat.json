@@ -1,0 +1,15 @@
+{
+  "file": "bear-hug-combat.md",
+  "source_path": "https://www.d20pfsrd.com/feats/combat-feats/bear-hug-combat/",
+  "source_name": "Feat: Bear Hug (Combat)",
+  "sections": [
+    {
+      "id": "bear_hug_combat",
+      "title": "Bear Hug",
+      "anchor_heading": "# Bear Hug (Combat)",
+      "description": "Complete rules for the feat Bear Hug, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

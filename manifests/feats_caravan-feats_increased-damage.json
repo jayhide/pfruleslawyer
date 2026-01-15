@@ -1,0 +1,15 @@
+{
+  "file": "increased-damage.md",
+  "source_path": "https://www.d20pfsrd.com/feats/caravan-feats/increased-damage/",
+  "source_name": "Feat: Increased Damage",
+  "sections": [
+    {
+      "id": "increased_damage",
+      "title": "Increased Damage",
+      "anchor_heading": "# Increased Damage",
+      "description": "Complete rules for the feat Increased Damage, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

@@ -1,0 +1,15 @@
+{
+  "file": "armor-proficiency-light.md",
+  "source_path": "https://www.d20pfsrd.com/feats/combat-feats/armor-proficiency-light/",
+  "source_name": "Feat: Armor Proficiency, Light (Combat)",
+  "sections": [
+    {
+      "id": "armor_proficiency_light",
+      "title": "Armor Proficiency, Light",
+      "anchor_heading": "# Armor Proficiency, Light (Combat)",
+      "description": "Complete rules for the feat Armor Proficiency, Light, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

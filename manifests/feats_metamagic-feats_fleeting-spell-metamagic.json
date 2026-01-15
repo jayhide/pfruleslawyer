@@ -1,0 +1,15 @@
+{
+  "file": "fleeting-spell-metamagic.md",
+  "source_path": "https://www.d20pfsrd.com/feats/metamagic-feats/fleeting-spell-metamagic/",
+  "source_name": "Feat: Fleeting Spell (Metamagic)",
+  "sections": [
+    {
+      "id": "fleeting_spell_metamagic",
+      "title": "Fleeting Spell",
+      "anchor_heading": "# Fleeting Spell (Metamagic)",
+      "description": "Complete rules for the feat Fleeting Spell, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

@@ -1,0 +1,15 @@
+{
+  "file": "graceful-athlete.md",
+  "source_path": "https://www.d20pfsrd.com/feats/general-feats/graceful-athlete/",
+  "source_name": "Feat: Graceful Athlete",
+  "sections": [
+    {
+      "id": "graceful_athlete",
+      "title": "Graceful Athlete",
+      "anchor_heading": "# Graceful Athlete",
+      "description": "Complete rules for the feat Graceful Athlete, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

@@ -1,0 +1,15 @@
+{
+  "file": "siege-engineer-combat.md",
+  "source_path": "https://www.d20pfsrd.com/feats/combat-feats/siege-engineer-combat/",
+  "source_name": "Feat: Siege Engineer (Combat)",
+  "sections": [
+    {
+      "id": "siege_engineer_combat",
+      "title": "Siege Engineer",
+      "anchor_heading": "# Siege Engineer (Combat)",
+      "description": "Complete rules for the feat Siege Engineer, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

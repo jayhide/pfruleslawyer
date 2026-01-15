@@ -1,0 +1,15 @@
+{
+  "file": "shamed-story.md",
+  "source_path": "https://www.d20pfsrd.com/feats/story-feats/shamed-story/",
+  "source_name": "Feat: Shamed (Story)",
+  "sections": [
+    {
+      "id": "shamed_story",
+      "title": "Shamed",
+      "anchor_heading": "# Shamed (Story)",
+      "description": "Complete rules for the feat Shamed, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

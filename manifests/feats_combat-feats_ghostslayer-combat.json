@@ -1,0 +1,15 @@
+{
+  "file": "ghostslayer-combat.md",
+  "source_path": "https://www.d20pfsrd.com/feats/combat-feats/ghostslayer-combat/",
+  "source_name": "Feat: Ghostslayer (Combat)",
+  "sections": [
+    {
+      "id": "ghostslayer_combat",
+      "title": "Ghostslayer",
+      "anchor_heading": "# Ghostslayer (Combat)",
+      "description": "Complete rules for the feat Ghostslayer, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

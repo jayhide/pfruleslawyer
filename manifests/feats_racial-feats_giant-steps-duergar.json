@@ -1,0 +1,15 @@
+{
+  "file": "giant-steps-duergar.md",
+  "source_path": "https://www.d20pfsrd.com/feats/racial-feats/giant-steps-duergar/",
+  "source_name": "Feat: Giant Steps (Duergar)",
+  "sections": [
+    {
+      "id": "giant_steps_duergar",
+      "title": "Giant Steps",
+      "anchor_heading": "# Giant Steps (Duergar)",
+      "description": "Complete rules for the feat Giant Steps, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

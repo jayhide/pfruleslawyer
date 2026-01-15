@@ -1,0 +1,15 @@
+{
+  "file": "school-strike-combat.md",
+  "source_path": "https://www.d20pfsrd.com/feats/combat-feats/school-strike-combat/",
+  "source_name": "Feat: School Strike (Combat)",
+  "sections": [
+    {
+      "id": "school_strike_combat",
+      "title": "School Strike",
+      "anchor_heading": "# School Strike (Combat)",
+      "description": "Complete rules for the feat School Strike, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

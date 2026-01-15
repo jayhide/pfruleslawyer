@@ -1,0 +1,15 @@
+{
+  "file": "deflect-arrows-combat.md",
+  "source_path": "https://www.d20pfsrd.com/feats/combat-feats/deflect-arrows-combat/",
+  "source_name": "Feat: Deflect Arrows (Combat)",
+  "sections": [
+    {
+      "id": "deflect_arrows_combat",
+      "title": "Deflect Arrows",
+      "anchor_heading": "# Deflect Arrows (Combat)",
+      "description": "Complete rules for the feat Deflect Arrows, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

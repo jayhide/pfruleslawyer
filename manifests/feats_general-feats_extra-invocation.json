@@ -1,0 +1,15 @@
+{
+  "file": "extra-invocation.md",
+  "source_path": "https://www.d20pfsrd.com/feats/general-feats/extra-invocation/",
+  "source_name": "Feat: Extra Invocation",
+  "sections": [
+    {
+      "id": "extra_invocation",
+      "title": "Extra Invocation",
+      "anchor_heading": "# Extra Invocation",
+      "description": "Complete rules for the feat Extra Invocation, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

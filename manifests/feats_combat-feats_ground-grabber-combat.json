@@ -1,0 +1,15 @@
+{
+  "file": "ground-grabber-combat.md",
+  "source_path": "https://www.d20pfsrd.com/feats/combat-feats/ground-grabber-combat/",
+  "source_name": "Feat: Ground-Grabber (Combat)",
+  "sections": [
+    {
+      "id": "ground_grabber_combat",
+      "title": "Ground-Grabber",
+      "anchor_heading": "# Ground-Grabber (Combat)",
+      "description": "Complete rules for the feat Ground-Grabber, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

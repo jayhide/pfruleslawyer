@@ -1,0 +1,15 @@
+{
+  "file": "scribe-scroll-item-creation.md",
+  "source_path": "https://www.d20pfsrd.com/feats/item-creation-feats/scribe-scroll-item-creation/",
+  "source_name": "Feat: Scribe Scroll (Item Creation)",
+  "sections": [
+    {
+      "id": "scribe_scroll_item_creation",
+      "title": "Scribe Scroll",
+      "anchor_heading": "# Scribe Scroll (Item Creation)",
+      "description": "Complete rules for the feat Scribe Scroll, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

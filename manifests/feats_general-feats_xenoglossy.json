@@ -1,0 +1,15 @@
+{
+  "file": "xenoglossy.md",
+  "source_path": "https://www.d20pfsrd.com/feats/general-feats/xenoglossy/",
+  "source_name": "Feat: Xenoglossy",
+  "sections": [
+    {
+      "id": "xenoglossy",
+      "title": "Xenoglossy",
+      "anchor_heading": "# Xenoglossy",
+      "description": "Complete rules for the feat Xenoglossy, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

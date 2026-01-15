@@ -1,0 +1,15 @@
+{
+  "file": "touch-of-evil.md",
+  "source_path": "https://www.d20pfsrd.com/feats/general-feats/touch-of-evil/",
+  "source_name": "Feat: Touch of Evil",
+  "sections": [
+    {
+      "id": "touch_of_evil",
+      "title": "Touch of Evil",
+      "anchor_heading": "# Touch of Evil",
+      "description": "Complete rules for the feat Touch of Evil, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

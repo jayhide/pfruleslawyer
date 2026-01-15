@@ -1,0 +1,15 @@
+{
+  "file": "verdant-spell-metamagic.md",
+  "source_path": "https://www.d20pfsrd.com/feats/metamagic-feats/verdant-spell-metamagic/",
+  "source_name": "Feat: Verdant Spell (Metamagic)",
+  "sections": [
+    {
+      "id": "verdant_spell_metamagic",
+      "title": "Verdant Spell",
+      "anchor_heading": "# Verdant Spell (Metamagic)",
+      "description": "Complete rules for the feat Verdant Spell, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

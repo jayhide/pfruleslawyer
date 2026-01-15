@@ -1,0 +1,15 @@
+{
+  "file": "swift-sprint-combat.md",
+  "source_path": "https://www.d20pfsrd.com/feats/combat-feats/swift-sprint-combat/",
+  "source_name": "Feat: Swift Sprint (Combat)",
+  "sections": [
+    {
+      "id": "swift_sprint_combat",
+      "title": "Swift Sprint",
+      "anchor_heading": "# Swift Sprint (Combat)",
+      "description": "Complete rules for the feat Swift Sprint, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

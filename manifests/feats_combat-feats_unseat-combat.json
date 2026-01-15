@@ -1,0 +1,15 @@
+{
+  "file": "unseat-combat.md",
+  "source_path": "https://www.d20pfsrd.com/feats/combat-feats/unseat-combat/",
+  "source_name": "Feat: Unseat (Combat)",
+  "sections": [
+    {
+      "id": "unseat_combat",
+      "title": "Unseat",
+      "anchor_heading": "# Unseat (Combat)",
+      "description": "Complete rules for the feat Unseat, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

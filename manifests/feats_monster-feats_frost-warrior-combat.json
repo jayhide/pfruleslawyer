@@ -1,0 +1,15 @@
+{
+  "file": "frost-warrior-combat.md",
+  "source_path": "https://www.d20pfsrd.com/feats/monster-feats/frost-warrior-combat/",
+  "source_name": "Feat: Frost Warrior (Combat)",
+  "sections": [
+    {
+      "id": "frost_warrior_combat",
+      "title": "Frost Warrior",
+      "anchor_heading": "# Frost Warrior (Combat)",
+      "description": "Complete rules for the feat Frost Warrior, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

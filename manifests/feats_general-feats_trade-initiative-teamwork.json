@@ -1,0 +1,15 @@
+{
+  "file": "trade-initiative-teamwork.md",
+  "source_path": "https://www.d20pfsrd.com/feats/general-feats/trade-initiative-teamwork/",
+  "source_name": "Feat: Trade Initiative (Teamwork)",
+  "sections": [
+    {
+      "id": "trade_initiative_teamwork",
+      "title": "Trade Initiative",
+      "anchor_heading": "# Trade Initiative (Teamwork)",
+      "description": "Complete rules for the feat Trade Initiative, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

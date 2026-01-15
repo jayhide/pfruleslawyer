@@ -1,0 +1,15 @@
+{
+  "file": "dragon-style-combat.md",
+  "source_path": "https://www.d20pfsrd.com/feats/combat-feats/dragon-style-combat/",
+  "source_name": "Feat: Dragon Style (Combat)",
+  "sections": [
+    {
+      "id": "dragon_style_combat",
+      "title": "Dragon Style",
+      "anchor_heading": "# Dragon Style (Combat)",
+      "description": "Complete rules for the feat Dragon Style, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

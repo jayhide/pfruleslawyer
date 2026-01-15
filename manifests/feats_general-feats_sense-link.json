@@ -1,0 +1,15 @@
+{
+  "file": "sense-link.md",
+  "source_path": "https://www.d20pfsrd.com/feats/general-feats/sense-link/",
+  "source_name": "Feat: Sense Link",
+  "sections": [
+    {
+      "id": "sense_link",
+      "title": "Sense Link",
+      "anchor_heading": "# Sense Link",
+      "description": "Complete rules for the feat Sense Link, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

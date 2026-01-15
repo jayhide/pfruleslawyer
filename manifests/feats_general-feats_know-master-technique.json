@@ -1,0 +1,15 @@
+{
+  "file": "know-master-technique.md",
+  "source_path": "https://www.d20pfsrd.com/feats/general-feats/know-master-technique/",
+  "source_name": "Feat: Know Master (Technique)",
+  "sections": [
+    {
+      "id": "know_master_technique",
+      "title": "Know Master",
+      "anchor_heading": "# Know Master (Technique)",
+      "description": "Complete rules for the feat Know Master, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

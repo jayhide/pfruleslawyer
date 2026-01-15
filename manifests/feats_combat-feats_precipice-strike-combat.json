@@ -1,0 +1,15 @@
+{
+  "file": "precipice-strike-combat.md",
+  "source_path": "https://www.d20pfsrd.com/feats/combat-feats/precipice-strike-combat/",
+  "source_name": "Feat: Precipice Strike (Combat)",
+  "sections": [
+    {
+      "id": "precipice_strike_combat",
+      "title": "Precipice Strike",
+      "anchor_heading": "# Precipice Strike (Combat)",
+      "description": "Complete rules for the feat Precipice Strike, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

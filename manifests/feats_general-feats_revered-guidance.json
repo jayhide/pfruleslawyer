@@ -1,0 +1,15 @@
+{
+  "file": "revered-guidance.md",
+  "source_path": "https://www.d20pfsrd.com/feats/general-feats/revered-guidance/",
+  "source_name": "Feat: Revered Guidance",
+  "sections": [
+    {
+      "id": "revered_guidance",
+      "title": "Revered Guidance",
+      "anchor_heading": "# Revered Guidance",
+      "description": "Complete rules for the feat Revered Guidance, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

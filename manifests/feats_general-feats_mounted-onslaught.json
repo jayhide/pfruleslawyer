@@ -1,0 +1,15 @@
+{
+  "file": "mounted-onslaught.md",
+  "source_path": "https://www.d20pfsrd.com/feats/general-feats/mounted-onslaught/",
+  "source_name": "Feat: Mounted Onslaught",
+  "sections": [
+    {
+      "id": "mounted_onslaught",
+      "title": "Mounted Onslaught",
+      "anchor_heading": "# Mounted Onslaught",
+      "description": "Complete rules for the feat Mounted Onslaught, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

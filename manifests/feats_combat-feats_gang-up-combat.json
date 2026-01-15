@@ -1,0 +1,15 @@
+{
+  "file": "gang-up-combat.md",
+  "source_path": "https://www.d20pfsrd.com/feats/combat-feats/gang-up-combat/",
+  "source_name": "Feat: Gang Up (Combat)",
+  "sections": [
+    {
+      "id": "gang_up_combat",
+      "title": "Gang Up",
+      "anchor_heading": "# Gang Up (Combat)",
+      "description": "Complete rules for the feat Gang Up, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

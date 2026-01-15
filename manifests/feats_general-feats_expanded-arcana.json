@@ -1,0 +1,15 @@
+{
+  "file": "expanded-arcana.md",
+  "source_path": "https://www.d20pfsrd.com/feats/general-feats/expanded-arcana/",
+  "source_name": "Feat: Expanded Arcana",
+  "sections": [
+    {
+      "id": "expanded_arcana",
+      "title": "Expanded Arcana",
+      "anchor_heading": "# Expanded Arcana",
+      "description": "Complete rules for the feat Expanded Arcana, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

@@ -1,0 +1,15 @@
+{
+  "file": "betrayed-story.md",
+  "source_path": "https://www.d20pfsrd.com/feats/story-feats/betrayed-story/",
+  "source_name": "Feat: Betrayed (Story)",
+  "sections": [
+    {
+      "id": "betrayed_story",
+      "title": "Betrayed",
+      "anchor_heading": "# Betrayed (Story)",
+      "description": "Complete rules for the feat Betrayed, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

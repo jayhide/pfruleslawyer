@@ -1,0 +1,15 @@
+{
+  "file": "gaze-reflection.md",
+  "source_path": "https://www.d20pfsrd.com/feats/general-feats/gaze-reflection/",
+  "source_name": "Feat: Gaze Reflection",
+  "sections": [
+    {
+      "id": "gaze_reflection",
+      "title": "Gaze Reflection",
+      "anchor_heading": "# Gaze Reflection",
+      "description": "Complete rules for the feat Gaze Reflection, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

@@ -1,0 +1,15 @@
+{
+  "file": "human-spirit-half-elf.md",
+  "source_path": "https://www.d20pfsrd.com/feats/racial-feats/human-spirit-half-elf/",
+  "source_name": "Feat: Human Spirit (Half-Elf)",
+  "sections": [
+    {
+      "id": "human_spirit_half_elf",
+      "title": "Human Spirit",
+      "anchor_heading": "# Human Spirit (Half-Elf)",
+      "description": "Complete rules for the feat Human Spirit, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

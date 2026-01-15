@@ -1,0 +1,15 @@
+{
+  "file": "hover.md",
+  "source_path": "https://www.d20pfsrd.com/feats/monster-feats/hover/",
+  "source_name": "Feat: Hover (Monster)",
+  "sections": [
+    {
+      "id": "hover",
+      "title": "Hover",
+      "anchor_heading": "# Hover (Monster)",
+      "description": "Complete rules for the feat Hover, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

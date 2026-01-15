@@ -1,0 +1,15 @@
+{
+  "file": "vampire-hunter-tradition.md",
+  "source_path": "https://www.d20pfsrd.com/feats/general-feats/vampire-hunter-tradition/",
+  "source_name": "Feat: Vampire Hunter Tradition",
+  "sections": [
+    {
+      "id": "vampire_hunter_tradition",
+      "title": "Vampire Hunter Tradition",
+      "anchor_heading": "# Vampire Hunter Tradition",
+      "description": "Complete rules for the feat Vampire Hunter Tradition, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

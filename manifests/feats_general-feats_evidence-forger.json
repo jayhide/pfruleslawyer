@@ -1,0 +1,15 @@
+{
+  "file": "evidence-forger.md",
+  "source_path": "https://www.d20pfsrd.com/feats/general-feats/evidence-forger/",
+  "source_name": "Feat: Evidence Forger",
+  "sections": [
+    {
+      "id": "evidence_forger",
+      "title": "Evidence Forger",
+      "anchor_heading": "# Evidence Forger",
+      "description": "Complete rules for the feat Evidence Forger, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

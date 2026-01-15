@@ -1,0 +1,15 @@
+{
+  "file": "death-field-conduit.md",
+  "source_path": "https://www.d20pfsrd.com/feats/conduit-feats/death-field-conduit/",
+  "source_name": "Feat: Death Field (Conduit)",
+  "sections": [
+    {
+      "id": "death_field_conduit",
+      "title": "Death Field",
+      "anchor_heading": "# Death Field (Conduit)",
+      "description": "Complete rules for the feat Death Field, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

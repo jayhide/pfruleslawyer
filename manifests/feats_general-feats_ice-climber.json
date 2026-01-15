@@ -1,0 +1,15 @@
+{
+  "file": "ice-climber.md",
+  "source_path": "https://www.d20pfsrd.com/feats/general-feats/ice-climber/",
+  "source_name": "Feat: Ice Climber",
+  "sections": [
+    {
+      "id": "ice_climber",
+      "title": "Ice Climber",
+      "anchor_heading": "# Ice Climber",
+      "description": "Complete rules for the feat Ice Climber, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

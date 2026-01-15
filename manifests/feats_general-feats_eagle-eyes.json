@@ -1,0 +1,15 @@
+{
+  "file": "eagle-eyes.md",
+  "source_path": "https://www.d20pfsrd.com/feats/general-feats/eagle-eyes/",
+  "source_name": "Feat: Eagle Eyes",
+  "sections": [
+    {
+      "id": "eagle_eyes",
+      "title": "Eagle Eyes",
+      "anchor_heading": "# Eagle Eyes",
+      "description": "Complete rules for the feat Eagle Eyes, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

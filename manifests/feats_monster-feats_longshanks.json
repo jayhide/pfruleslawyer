@@ -1,0 +1,15 @@
+{
+  "file": "longshanks.md",
+  "source_path": "https://www.d20pfsrd.com/feats/monster-feats/longshanks/",
+  "source_name": "Feat: Longshanks",
+  "sections": [
+    {
+      "id": "longshanks",
+      "title": "Longshanks",
+      "anchor_heading": "# Longshanks",
+      "description": "Complete rules for the feat Longshanks, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

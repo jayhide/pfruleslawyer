@@ -1,0 +1,15 @@
+{
+  "file": "deny-death.md",
+  "source_path": "https://www.d20pfsrd.com/feats/general-feats/deny-death/",
+  "source_name": "Feat: Deny Death",
+  "sections": [
+    {
+      "id": "deny_death",
+      "title": "Deny Death",
+      "anchor_heading": "# Deny Death",
+      "description": "Complete rules for the feat Deny Death, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

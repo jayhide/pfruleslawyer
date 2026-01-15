@@ -1,0 +1,15 @@
+{
+  "file": "life-lure.md",
+  "source_path": "https://www.d20pfsrd.com/feats/general-feats/life-lure/",
+  "source_name": "Feat: Life Lure",
+  "sections": [
+    {
+      "id": "life_lure",
+      "title": "Life Lure",
+      "anchor_heading": "# Life Lure",
+      "description": "Complete rules for the feat Life Lure, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

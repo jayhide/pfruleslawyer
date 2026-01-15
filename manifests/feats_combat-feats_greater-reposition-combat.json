@@ -1,0 +1,15 @@
+{
+  "file": "greater-reposition-combat.md",
+  "source_path": "https://www.d20pfsrd.com/feats/combat-feats/greater-reposition-combat/",
+  "source_name": "Feat: Greater Reposition (Combat)",
+  "sections": [
+    {
+      "id": "greater_reposition_combat",
+      "title": "Greater Reposition",
+      "anchor_heading": "# Greater Reposition (Combat)",
+      "description": "Complete rules for the feat Greater Reposition, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

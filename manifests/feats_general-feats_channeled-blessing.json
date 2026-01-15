@@ -1,0 +1,15 @@
+{
+  "file": "channeled-blessing.md",
+  "source_path": "https://www.d20pfsrd.com/feats/general-feats/channeled-blessing/",
+  "source_name": "Feat: Channeled Blessing",
+  "sections": [
+    {
+      "id": "channeled_blessing",
+      "title": "Channeled Blessing",
+      "anchor_heading": "# Channeled Blessing",
+      "description": "Complete rules for the feat Channeled Blessing, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

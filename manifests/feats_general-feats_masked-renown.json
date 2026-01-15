@@ -1,0 +1,15 @@
+{
+  "file": "masked-renown.md",
+  "source_path": "https://www.d20pfsrd.com/feats/general-feats/masked-renown/",
+  "source_name": "Feat: Masked Renown",
+  "sections": [
+    {
+      "id": "masked_renown",
+      "title": "Masked Renown",
+      "anchor_heading": "# Masked Renown",
+      "description": "Complete rules for the feat Masked Renown, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

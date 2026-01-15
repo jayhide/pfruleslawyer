@@ -1,0 +1,15 @@
+{
+  "file": "lector-priest.md",
+  "source_path": "https://www.d20pfsrd.com/feats/general-feats/lector-priest/",
+  "source_name": "Feat: Lector Priest",
+  "sections": [
+    {
+      "id": "lector_priest",
+      "title": "Lector Priest",
+      "anchor_heading": "# Lector Priest",
+      "description": "Complete rules for the feat Lector Priest, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

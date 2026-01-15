@@ -1,0 +1,15 @@
+{
+  "file": "lightning-stance-combat.md",
+  "source_path": "https://www.d20pfsrd.com/feats/combat-feats/lightning-stance-combat/",
+  "source_name": "Feat: Lightning Stance (Combat)",
+  "sections": [
+    {
+      "id": "lightning_stance_combat",
+      "title": "Lightning Stance",
+      "anchor_heading": "# Lightning Stance (Combat)",
+      "description": "Complete rules for the feat Lightning Stance, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

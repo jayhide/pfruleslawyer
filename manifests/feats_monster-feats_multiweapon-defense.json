@@ -1,0 +1,15 @@
+{
+  "file": "multiweapon-defense.md",
+  "source_path": "https://www.d20pfsrd.com/feats/monster-feats/multiweapon-defense/",
+  "source_name": "Feat: Multiweapon Defense",
+  "sections": [
+    {
+      "id": "multiweapon_defense",
+      "title": "Multiweapon Defense",
+      "anchor_heading": "# Multiweapon Defense",
+      "description": "Complete rules for the feat Multiweapon Defense, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

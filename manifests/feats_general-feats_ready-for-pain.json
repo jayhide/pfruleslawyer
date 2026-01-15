@@ -1,0 +1,15 @@
+{
+  "file": "ready-for-pain.md",
+  "source_path": "https://www.d20pfsrd.com/feats/general-feats/ready-for-pain/",
+  "source_name": "Feat: Ready for Pain",
+  "sections": [
+    {
+      "id": "ready_for_pain",
+      "title": "Ready for Pain",
+      "anchor_heading": "# Ready for Pain",
+      "description": "Complete rules for the feat Ready for Pain, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

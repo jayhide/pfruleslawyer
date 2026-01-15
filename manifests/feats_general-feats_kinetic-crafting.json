@@ -1,0 +1,15 @@
+{
+  "file": "kinetic-crafting.md",
+  "source_path": "https://www.d20pfsrd.com/feats/general-feats/kinetic-crafting/",
+  "source_name": "Feat: Kinetic Crafting",
+  "sections": [
+    {
+      "id": "kinetic_crafting",
+      "title": "Kinetic Crafting",
+      "anchor_heading": "# Kinetic Crafting",
+      "description": "Complete rules for the feat Kinetic Crafting, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

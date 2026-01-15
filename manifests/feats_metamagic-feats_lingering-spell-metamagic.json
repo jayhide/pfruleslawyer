@@ -1,0 +1,15 @@
+{
+  "file": "lingering-spell-metamagic.md",
+  "source_path": "https://www.d20pfsrd.com/feats/metamagic-feats/lingering-spell-metamagic/",
+  "source_name": "Feat: Lingering Spell (Metamagic)",
+  "sections": [
+    {
+      "id": "lingering_spell_metamagic",
+      "title": "Lingering Spell",
+      "anchor_heading": "# Lingering Spell (Metamagic)",
+      "description": "Complete rules for the feat Lingering Spell, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

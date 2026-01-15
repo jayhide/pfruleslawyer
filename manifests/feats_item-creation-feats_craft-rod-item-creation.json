@@ -1,0 +1,15 @@
+{
+  "file": "craft-rod-item-creation.md",
+  "source_path": "https://www.d20pfsrd.com/feats/item-creation-feats/craft-rod-item-creation/",
+  "source_name": "Feat: Craft Rod (Item Creation)",
+  "sections": [
+    {
+      "id": "craft_rod_item_creation",
+      "title": "Craft Rod",
+      "anchor_heading": "# Craft Rod (Item Creation)",
+      "description": "Complete rules for the feat Craft Rod, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

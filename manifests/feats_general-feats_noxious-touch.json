@@ -1,0 +1,15 @@
+{
+  "file": "noxious-touch.md",
+  "source_path": "https://www.d20pfsrd.com/feats/general-feats/noxious-touch/",
+  "source_name": "Feat: Noxious Touch",
+  "sections": [
+    {
+      "id": "noxious_touch",
+      "title": "Noxious Touch",
+      "anchor_heading": "# Noxious Touch",
+      "description": "Complete rules for the feat Noxious Touch, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

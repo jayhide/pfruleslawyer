@@ -1,0 +1,15 @@
+{
+  "file": "sorcerous-strike-combat.md",
+  "source_path": "https://www.d20pfsrd.com/feats/combat-feats/sorcerous-strike-combat/",
+  "source_name": "Feat: Sorcerous Strike (Combat)",
+  "sections": [
+    {
+      "id": "sorcerous_strike_combat",
+      "title": "Sorcerous Strike",
+      "anchor_heading": "# Sorcerous Strike (Combat)",
+      "description": "Complete rules for the feat Sorcerous Strike, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

@@ -1,0 +1,15 @@
+{
+  "file": "iron-will.md",
+  "source_path": "https://www.d20pfsrd.com/feats/general-feats/iron-will/",
+  "source_name": "Feat: Iron Will",
+  "sections": [
+    {
+      "id": "iron_will",
+      "title": "Iron Will",
+      "anchor_heading": "# Iron Will",
+      "description": "Complete rules for the feat Iron Will, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

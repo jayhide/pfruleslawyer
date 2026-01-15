@@ -1,0 +1,15 @@
+{
+  "file": "kinetic-invocation.md",
+  "source_path": "https://www.d20pfsrd.com/feats/general-feats/kinetic-invocation/",
+  "source_name": "Feat: Kinetic Invocation",
+  "sections": [
+    {
+      "id": "kinetic_invocation",
+      "title": "Kinetic Invocation",
+      "anchor_heading": "# Kinetic Invocation",
+      "description": "Complete rules for the feat Kinetic Invocation, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

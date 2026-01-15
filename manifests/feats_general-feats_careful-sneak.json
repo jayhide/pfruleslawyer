@@ -1,0 +1,15 @@
+{
+  "file": "careful-sneak.md",
+  "source_path": "https://www.d20pfsrd.com/feats/general-feats/careful-sneak/",
+  "source_name": "Feat: Careful Sneak",
+  "sections": [
+    {
+      "id": "careful_sneak",
+      "title": "Careful Sneak",
+      "anchor_heading": "# Careful Sneak",
+      "description": "Complete rules for the feat Careful Sneak, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

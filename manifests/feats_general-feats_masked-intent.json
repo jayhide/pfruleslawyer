@@ -1,0 +1,15 @@
+{
+  "file": "masked-intent.md",
+  "source_path": "https://www.d20pfsrd.com/feats/general-feats/masked-intent/",
+  "source_name": "Feat: Masked Intent",
+  "sections": [
+    {
+      "id": "masked_intent",
+      "title": "Masked Intent",
+      "anchor_heading": "# Masked Intent",
+      "description": "Complete rules for the feat Masked Intent, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

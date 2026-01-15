@@ -1,0 +1,15 @@
+{
+  "file": "combat-medic-teamwork.md",
+  "source_path": "https://www.d20pfsrd.com/feats/general-feats/combat-medic-teamwork/",
+  "source_name": "Feat: Combat Medic (Teamwork)",
+  "sections": [
+    {
+      "id": "combat_medic_teamwork",
+      "title": "Combat Medic",
+      "anchor_heading": "# Combat Medic (Teamwork)",
+      "description": "Complete rules for the feat Combat Medic, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

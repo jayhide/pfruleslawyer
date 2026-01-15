@@ -1,0 +1,15 @@
+{
+  "file": "extra-amplification.md",
+  "source_path": "https://www.d20pfsrd.com/feats/general-feats/extra-amplification/",
+  "source_name": "Feat: Extra Amplification",
+  "sections": [
+    {
+      "id": "extra_amplification",
+      "title": "Extra Amplification",
+      "anchor_heading": "# Extra Amplification",
+      "description": "Complete rules for the feat Extra Amplification, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

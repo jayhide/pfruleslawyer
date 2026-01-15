@@ -1,0 +1,15 @@
+{
+  "file": "pressure-adept.md",
+  "source_path": "https://www.d20pfsrd.com/feats/general-feats/pressure-adept/",
+  "source_name": "Feat: Pressure Adept",
+  "sections": [
+    {
+      "id": "pressure_adept",
+      "title": "Pressure Adept",
+      "anchor_heading": "# Pressure Adept",
+      "description": "Complete rules for the feat Pressure Adept, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

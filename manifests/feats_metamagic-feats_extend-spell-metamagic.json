@@ -1,0 +1,15 @@
+{
+  "file": "extend-spell-metamagic.md",
+  "source_path": "https://www.d20pfsrd.com/feats/metamagic-feats/extend-spell-metamagic/",
+  "source_name": "Feat: Extend Spell (Metamagic)",
+  "sections": [
+    {
+      "id": "extend_spell_metamagic",
+      "title": "Extend Spell",
+      "anchor_heading": "# Extend Spell (Metamagic)",
+      "description": "Complete rules for the feat Extend Spell, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

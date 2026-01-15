@@ -1,0 +1,15 @@
+{
+  "file": "blasting-boulder.md",
+  "source_path": "https://www.d20pfsrd.com/feats/monster-feats/blasting-boulder/",
+  "source_name": "Feat: Blasting Boulder (Monster)",
+  "sections": [
+    {
+      "id": "blasting_boulder",
+      "title": "Blasting Boulder",
+      "anchor_heading": "# Blasting Boulder (Monster)",
+      "description": "Complete rules for the feat Blasting Boulder, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

@@ -1,0 +1,15 @@
+{
+  "file": "signature-skill-general.md",
+  "source_path": "https://www.d20pfsrd.com/feats/general-feats/signature-skill-general/",
+  "source_name": "Feat: Signature Skill (General)",
+  "sections": [
+    {
+      "id": "signature_skill_general",
+      "title": "Signature Skill",
+      "anchor_heading": "# Signature Skill (General)",
+      "description": "Complete rules for the feat Signature Skill, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

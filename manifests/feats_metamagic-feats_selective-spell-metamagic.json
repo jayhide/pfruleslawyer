@@ -1,0 +1,15 @@
+{
+  "file": "selective-spell-metamagic.md",
+  "source_path": "https://www.d20pfsrd.com/feats/metamagic-feats/selective-spell-metamagic/",
+  "source_name": "Feat: Selective Spell (Metamagic)",
+  "sections": [
+    {
+      "id": "selective_spell_metamagic",
+      "title": "Selective Spell",
+      "anchor_heading": "# Selective Spell (Metamagic)",
+      "description": "Complete rules for the feat Selective Spell, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

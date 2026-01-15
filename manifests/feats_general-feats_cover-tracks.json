@@ -1,0 +1,15 @@
+{
+  "file": "cover-tracks.md",
+  "source_path": "https://www.d20pfsrd.com/feats/general-feats/cover-tracks/",
+  "source_name": "Feat: Cover Tracks",
+  "sections": [
+    {
+      "id": "cover_tracks",
+      "title": "Cover Tracks",
+      "anchor_heading": "# Cover Tracks",
+      "description": "Complete rules for the feat Cover Tracks, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

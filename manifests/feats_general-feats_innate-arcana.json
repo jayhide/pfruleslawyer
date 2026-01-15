@@ -1,0 +1,15 @@
+{
+  "file": "innate-arcana.md",
+  "source_path": "https://www.d20pfsrd.com/feats/general-feats/innate-arcana/",
+  "source_name": "Feat: Innate Arcana",
+  "sections": [
+    {
+      "id": "innate_arcana",
+      "title": "Innate Arcana",
+      "anchor_heading": "# Innate Arcana",
+      "description": "Complete rules for the feat Innate Arcana, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

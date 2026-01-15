@@ -1,0 +1,15 @@
+{
+  "file": "eldritch-researcher-story.md",
+  "source_path": "https://www.d20pfsrd.com/feats/story-feats/eldritch-researcher-story/",
+  "source_name": "Feat: Eldritch Researcher (Story)",
+  "sections": [
+    {
+      "id": "eldritch_researcher_story",
+      "title": "Eldritch Researcher",
+      "anchor_heading": "# Eldritch Researcher (Story)",
+      "description": "Complete rules for the feat Eldritch Researcher, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

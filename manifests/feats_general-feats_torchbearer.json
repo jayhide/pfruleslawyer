@@ -1,0 +1,15 @@
+{
+  "file": "torchbearer.md",
+  "source_path": "https://www.d20pfsrd.com/feats/general-feats/torchbearer/",
+  "source_name": "Feat: Torchbearer",
+  "sections": [
+    {
+      "id": "torchbearer",
+      "title": "Torchbearer",
+      "anchor_heading": "# Torchbearer",
+      "description": "Complete rules for the feat Torchbearer, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

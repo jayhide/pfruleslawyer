@@ -1,0 +1,15 @@
+{
+  "file": "augment-calling.md",
+  "source_path": "https://www.d20pfsrd.com/feats/general-feats/augment-calling/",
+  "source_name": "Feat: Augment Calling",
+  "sections": [
+    {
+      "id": "augment_calling",
+      "title": "Augment Calling",
+      "anchor_heading": "# Augment Calling",
+      "description": "Complete rules for the feat Augment Calling, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

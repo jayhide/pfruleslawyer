@@ -1,0 +1,15 @@
+{
+  "file": "hardy-liver.md",
+  "source_path": "https://www.d20pfsrd.com/feats/general-feats/hardy-liver/",
+  "source_name": "Feat: Hardy Liver",
+  "sections": [
+    {
+      "id": "hardy_liver",
+      "title": "Hardy Liver",
+      "anchor_heading": "# Hardy Liver",
+      "description": "Complete rules for the feat Hardy Liver, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

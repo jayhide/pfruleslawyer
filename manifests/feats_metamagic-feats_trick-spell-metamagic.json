@@ -1,0 +1,15 @@
+{
+  "file": "trick-spell-metamagic.md",
+  "source_path": "https://www.d20pfsrd.com/feats/metamagic-feats/trick-spell-metamagic/",
+  "source_name": "Feat: Trick Spell (Metamagic)",
+  "sections": [
+    {
+      "id": "trick_spell_metamagic",
+      "title": "Trick Spell",
+      "anchor_heading": "# Trick Spell (Metamagic)",
+      "description": "Complete rules for the feat Trick Spell, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

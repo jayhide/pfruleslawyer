@@ -1,0 +1,15 @@
+{
+  "file": "strongarm.md",
+  "source_path": "https://www.d20pfsrd.com/feats/general-feats/strongarm/",
+  "source_name": "Feat: Strongarm",
+  "sections": [
+    {
+      "id": "strongarm",
+      "title": "Strongarm",
+      "anchor_heading": "# Strongarm",
+      "description": "Complete rules for the feat Strongarm, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

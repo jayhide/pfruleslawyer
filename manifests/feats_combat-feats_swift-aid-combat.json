@@ -1,0 +1,15 @@
+{
+  "file": "swift-aid-combat.md",
+  "source_path": "https://www.d20pfsrd.com/feats/combat-feats/swift-aid-combat/",
+  "source_name": "Feat: Swift Aid (Combat)",
+  "sections": [
+    {
+      "id": "swift_aid_combat",
+      "title": "Swift Aid",
+      "anchor_heading": "# Swift Aid (Combat)",
+      "description": "Complete rules for the feat Swift Aid, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

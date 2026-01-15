@@ -1,0 +1,15 @@
+{
+  "file": "stage-combatant-combat.md",
+  "source_path": "https://www.d20pfsrd.com/feats/combat-feats/stage-combatant-combat/",
+  "source_name": "Feat: Stage Combatant (Combat)",
+  "sections": [
+    {
+      "id": "stage_combatant_combat",
+      "title": "Stage Combatant",
+      "anchor_heading": "# Stage Combatant (Combat)",
+      "description": "Complete rules for the feat Stage Combatant, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

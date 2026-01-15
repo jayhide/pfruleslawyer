@@ -1,0 +1,15 @@
+{
+  "file": "lingering-breath.md",
+  "source_path": "https://www.d20pfsrd.com/feats/general-feats/lingering-breath/",
+  "source_name": "Feat: Lingering Breath",
+  "sections": [
+    {
+      "id": "lingering_breath",
+      "title": "Lingering Breath",
+      "anchor_heading": "# Lingering Breath",
+      "description": "Complete rules for the feat Lingering Breath, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

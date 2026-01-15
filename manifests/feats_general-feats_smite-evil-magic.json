@@ -1,0 +1,15 @@
+{
+  "file": "smite-evil-magic.md",
+  "source_path": "https://www.d20pfsrd.com/feats/general-feats/smite-evil-magic/",
+  "source_name": "Feat: Smite Evil Magic",
+  "sections": [
+    {
+      "id": "smite_evil_magic",
+      "title": "Smite Evil Magic",
+      "anchor_heading": "# Smite Evil Magic",
+      "description": "Complete rules for the feat Smite Evil Magic, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

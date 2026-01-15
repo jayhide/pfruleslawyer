@@ -1,0 +1,15 @@
+{
+  "file": "wolf-rider.md",
+  "source_path": "https://www.d20pfsrd.com/feats/general-feats/wolf-rider/",
+  "source_name": "Feat: Wolf Rider",
+  "sections": [
+    {
+      "id": "wolf_rider",
+      "title": "Wolf Rider",
+      "anchor_heading": "# Wolf Rider",
+      "description": "Complete rules for the feat Wolf Rider, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

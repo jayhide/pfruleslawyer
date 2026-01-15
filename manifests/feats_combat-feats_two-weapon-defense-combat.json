@@ -1,0 +1,15 @@
+{
+  "file": "two-weapon-defense-combat.md",
+  "source_path": "https://www.d20pfsrd.com/feats/combat-feats/two-weapon-defense-combat/",
+  "source_name": "Feat: Two-Weapon Defense (Combat)",
+  "sections": [
+    {
+      "id": "two_weapon_defense_combat",
+      "title": "Two-Weapon Defense",
+      "anchor_heading": "# Two-Weapon Defense (Combat)",
+      "description": "Complete rules for the feat Two-Weapon Defense, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

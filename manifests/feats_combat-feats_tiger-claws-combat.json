@@ -1,0 +1,15 @@
+{
+  "file": "tiger-claws-combat.md",
+  "source_path": "https://www.d20pfsrd.com/feats/combat-feats/tiger-claws-combat/",
+  "source_name": "Feat: Tiger Claws (Combat)",
+  "sections": [
+    {
+      "id": "tiger_claws_combat",
+      "title": "Tiger Claws",
+      "anchor_heading": "# Tiger Claws (Combat)",
+      "description": "Complete rules for the feat Tiger Claws, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

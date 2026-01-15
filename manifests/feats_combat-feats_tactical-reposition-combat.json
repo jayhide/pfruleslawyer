@@ -1,0 +1,15 @@
+{
+  "file": "tactical-reposition-combat.md",
+  "source_path": "https://www.d20pfsrd.com/feats/combat-feats/tactical-reposition-combat/",
+  "source_name": "Feat: Tactical Reposition (Combat)",
+  "sections": [
+    {
+      "id": "tactical_reposition_combat",
+      "title": "Tactical Reposition",
+      "anchor_heading": "# Tactical Reposition (Combat)",
+      "description": "Complete rules for the feat Tactical Reposition, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

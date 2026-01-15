@@ -1,0 +1,15 @@
+{
+  "file": "plague-resistance.md",
+  "source_path": "https://www.d20pfsrd.com/feats/general-feats/plague-resistance/",
+  "source_name": "Feat: Plague Resistance",
+  "sections": [
+    {
+      "id": "plague_resistance",
+      "title": "Plague Resistance",
+      "anchor_heading": "# Plague Resistance",
+      "description": "Complete rules for the feat Plague Resistance, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

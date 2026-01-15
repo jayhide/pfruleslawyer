@@ -1,0 +1,15 @@
+{
+  "file": "extra-ninja-trick.md",
+  "source_path": "https://www.d20pfsrd.com/feats/general-feats/extra-ninja-trick/",
+  "source_name": "Feat: Extra Ninja Trick",
+  "sections": [
+    {
+      "id": "extra_ninja_trick",
+      "title": "Extra Ninja Trick",
+      "anchor_heading": "# Extra Ninja Trick",
+      "description": "Complete rules for the feat Extra Ninja Trick, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

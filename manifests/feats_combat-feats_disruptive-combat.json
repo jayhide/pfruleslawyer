@@ -1,0 +1,15 @@
+{
+  "file": "disruptive-combat.md",
+  "source_path": "https://www.d20pfsrd.com/feats/combat-feats/disruptive-combat/",
+  "source_name": "Feat: Disruptive (Combat)",
+  "sections": [
+    {
+      "id": "disruptive_combat",
+      "title": "Disruptive",
+      "anchor_heading": "# Disruptive (Combat)",
+      "description": "Complete rules for the feat Disruptive, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

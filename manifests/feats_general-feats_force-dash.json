@@ -1,0 +1,15 @@
+{
+  "file": "force-dash.md",
+  "source_path": "https://www.d20pfsrd.com/feats/general-feats/force-dash/",
+  "source_name": "Feat: Force Dash",
+  "sections": [
+    {
+      "id": "force_dash",
+      "title": "Force Dash",
+      "anchor_heading": "# Force Dash",
+      "description": "Complete rules for the feat Force Dash, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

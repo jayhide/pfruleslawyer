@@ -1,0 +1,15 @@
+{
+  "file": "ironclad-logic.md",
+  "source_path": "https://www.d20pfsrd.com/feats/general-feats/ironclad-logic/",
+  "source_name": "Feat: Ironclad Logic",
+  "sections": [
+    {
+      "id": "ironclad_logic",
+      "title": "Ironclad Logic",
+      "anchor_heading": "# Ironclad Logic",
+      "description": "Complete rules for the feat Ironclad Logic, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

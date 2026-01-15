@@ -1,0 +1,15 @@
+{
+  "file": "country-born-local.md",
+  "source_path": "https://www.d20pfsrd.com/feats/local-feats/country-born-local/",
+  "source_name": "Feat: Country Born (Local)",
+  "sections": [
+    {
+      "id": "country_born_local",
+      "title": "Country Born",
+      "anchor_heading": "# Country Born (Local)",
+      "description": "Complete rules for the feat Country Born, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

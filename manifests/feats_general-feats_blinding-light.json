@@ -1,0 +1,15 @@
+{
+  "file": "blinding-light.md",
+  "source_path": "https://www.d20pfsrd.com/feats/general-feats/blinding-light/",
+  "source_name": "Feat: Blinding Light",
+  "sections": [
+    {
+      "id": "blinding_light",
+      "title": "Blinding Light",
+      "anchor_heading": "# Blinding Light",
+      "description": "Complete rules for the feat Blinding Light, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

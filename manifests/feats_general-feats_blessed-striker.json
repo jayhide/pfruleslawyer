@@ -1,0 +1,15 @@
+{
+  "file": "blessed-striker.md",
+  "source_path": "https://www.d20pfsrd.com/feats/general-feats/blessed-striker/",
+  "source_name": "Feat: Blessed Striker",
+  "sections": [
+    {
+      "id": "blessed_striker",
+      "title": "Blessed Striker",
+      "anchor_heading": "# Blessed Striker",
+      "description": "Complete rules for the feat Blessed Striker, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

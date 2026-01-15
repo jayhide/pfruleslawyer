@@ -1,0 +1,15 @@
+{
+  "file": "enhanced-gnome-magic.md",
+  "source_path": "https://www.d20pfsrd.com/feats/general-feats/enhanced-gnome-magic/",
+  "source_name": "Feat: Enhanced Gnome Magic",
+  "sections": [
+    {
+      "id": "enhanced_gnome_magic",
+      "title": "Enhanced Gnome Magic",
+      "anchor_heading": "# Enhanced Gnome Magic",
+      "description": "Complete rules for the feat Enhanced Gnome Magic, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

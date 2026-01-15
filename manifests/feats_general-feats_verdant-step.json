@@ -1,0 +1,15 @@
+{
+  "file": "verdant-step.md",
+  "source_path": "https://www.d20pfsrd.com/feats/general-feats/verdant-step/",
+  "source_name": "Feat: Verdant Step",
+  "sections": [
+    {
+      "id": "verdant_step",
+      "title": "Verdant Step",
+      "anchor_heading": "# Verdant Step",
+      "description": "Complete rules for the feat Verdant Step, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

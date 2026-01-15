@@ -1,0 +1,15 @@
+{
+  "file": "athletic.md",
+  "source_path": "https://www.d20pfsrd.com/feats/general-feats/athletic/",
+  "source_name": "Feat: Athletic",
+  "sections": [
+    {
+      "id": "athletic",
+      "title": "Athletic",
+      "anchor_heading": "# Athletic",
+      "description": "Complete rules for the feat Athletic, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

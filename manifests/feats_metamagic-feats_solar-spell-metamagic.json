@@ -1,0 +1,15 @@
+{
+  "file": "solar-spell-metamagic.md",
+  "source_path": "https://www.d20pfsrd.com/feats/metamagic-feats/solar-spell-metamagic/",
+  "source_name": "Feat: Solar Spell (Metamagic)",
+  "sections": [
+    {
+      "id": "solar_spell_metamagic",
+      "title": "Solar Spell",
+      "anchor_heading": "# Solar Spell (Metamagic)",
+      "description": "Complete rules for the feat Solar Spell, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

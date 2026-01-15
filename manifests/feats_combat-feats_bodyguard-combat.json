@@ -1,0 +1,15 @@
+{
+  "file": "bodyguard-combat.md",
+  "source_path": "https://www.d20pfsrd.com/feats/combat-feats/bodyguard-combat/",
+  "source_name": "Feat: Bodyguard (Combat)",
+  "sections": [
+    {
+      "id": "bodyguard_combat",
+      "title": "Bodyguard",
+      "anchor_heading": "# Bodyguard (Combat)",
+      "description": "Complete rules for the feat Bodyguard, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

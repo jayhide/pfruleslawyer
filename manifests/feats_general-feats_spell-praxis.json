@@ -1,0 +1,15 @@
+{
+  "file": "spell-praxis.md",
+  "source_path": "https://www.d20pfsrd.com/feats/general-feats/spell-praxis/",
+  "source_name": "Feat: Spell Praxis",
+  "sections": [
+    {
+      "id": "spell_praxis",
+      "title": "Spell Praxis",
+      "anchor_heading": "# Spell Praxis",
+      "description": "Complete rules for the feat Spell Praxis, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

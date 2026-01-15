@@ -1,0 +1,15 @@
+{
+  "file": "sea-legs.md",
+  "source_path": "https://www.d20pfsrd.com/feats/general-feats/sea-legs/",
+  "source_name": "Feat: Sea Legs",
+  "sections": [
+    {
+      "id": "sea_legs",
+      "title": "Sea Legs",
+      "anchor_heading": "# Sea Legs",
+      "description": "Complete rules for the feat Sea Legs, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

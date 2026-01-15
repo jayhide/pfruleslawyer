@@ -1,0 +1,15 @@
+{
+  "file": "criminal-reputation.md",
+  "source_path": "https://www.d20pfsrd.com/feats/general-feats/criminal-reputation/",
+  "source_name": "Feat: Criminal Reputation",
+  "sections": [
+    {
+      "id": "criminal_reputation",
+      "title": "Criminal Reputation",
+      "anchor_heading": "# Criminal Reputation",
+      "description": "Complete rules for the feat Criminal Reputation, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

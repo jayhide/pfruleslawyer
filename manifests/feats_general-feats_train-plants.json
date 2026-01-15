@@ -1,0 +1,15 @@
+{
+  "file": "train-plants.md",
+  "source_path": "https://www.d20pfsrd.com/feats/general-feats/train-plants/",
+  "source_name": "Feat: Train Plants",
+  "sections": [
+    {
+      "id": "train_plants",
+      "title": "Train Plants",
+      "anchor_heading": "# Train Plants",
+      "description": "Complete rules for the feat Train Plants, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

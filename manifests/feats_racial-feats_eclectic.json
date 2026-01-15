@@ -1,0 +1,15 @@
+{
+  "file": "eclectic.md",
+  "source_path": "https://www.d20pfsrd.com/feats/racial-feats/eclectic/",
+  "source_name": "Feat: Eclectic (Human)",
+  "sections": [
+    {
+      "id": "eclectic",
+      "title": "Eclectic",
+      "anchor_heading": "# Eclectic (Human)",
+      "description": "Complete rules for the feat Eclectic, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

@@ -1,0 +1,15 @@
+{
+  "file": "skeleton-summoner.md",
+  "source_path": "https://www.d20pfsrd.com/feats/general-feats/skeleton-summoner/",
+  "source_name": "Feat: Skeleton Summoner",
+  "sections": [
+    {
+      "id": "skeleton_summoner",
+      "title": "Skeleton Summoner",
+      "anchor_heading": "# Skeleton Summoner",
+      "description": "Complete rules for the feat Skeleton Summoner, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

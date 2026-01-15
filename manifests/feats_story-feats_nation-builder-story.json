@@ -1,0 +1,15 @@
+{
+  "file": "nation-builder-story.md",
+  "source_path": "https://www.d20pfsrd.com/feats/story-feats/nation-builder-story/",
+  "source_name": "Feat: Nation Builder (Story)",
+  "sections": [
+    {
+      "id": "nation_builder_story",
+      "title": "Nation Builder",
+      "anchor_heading": "# Nation Builder (Story)",
+      "description": "Complete rules for the feat Nation Builder, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

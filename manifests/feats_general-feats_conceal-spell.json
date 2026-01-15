@@ -1,0 +1,15 @@
+{
+  "file": "conceal-spell.md",
+  "source_path": "https://www.d20pfsrd.com/feats/general-feats/conceal-spell/",
+  "source_name": "Feat: Conceal Spell",
+  "sections": [
+    {
+      "id": "conceal_spell",
+      "title": "Conceal Spell",
+      "anchor_heading": "# Conceal Spell",
+      "description": "Complete rules for the feat Conceal Spell, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

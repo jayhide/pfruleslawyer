@@ -1,0 +1,15 @@
+{
+  "file": "blinding-flash-combat.md",
+  "source_path": "https://www.d20pfsrd.com/feats/combat-feats/blinding-flash-combat/",
+  "source_name": "Feat: Blinding Flash (Combat)",
+  "sections": [
+    {
+      "id": "blinding_flash_combat",
+      "title": "Blinding Flash",
+      "anchor_heading": "# Blinding Flash (Combat)",
+      "description": "Complete rules for the feat Blinding Flash, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

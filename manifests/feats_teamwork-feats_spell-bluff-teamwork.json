@@ -1,0 +1,15 @@
+{
+  "file": "spell-bluff-teamwork.md",
+  "source_path": "https://www.d20pfsrd.com/feats/teamwork-feats/spell-bluff-teamwork/",
+  "source_name": "Feat: Spell Bluff (Teamwork)",
+  "sections": [
+    {
+      "id": "spell_bluff_teamwork",
+      "title": "Spell Bluff",
+      "anchor_heading": "# Spell Bluff (Teamwork)",
+      "description": "Complete rules for the feat Spell Bluff, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

@@ -1,0 +1,15 @@
+{
+  "file": "eldritch-claws.md",
+  "source_path": "https://www.d20pfsrd.com/feats/combat-feats/eldritch-claws/",
+  "source_name": "Feat: Eldritch Claws (Combat)",
+  "sections": [
+    {
+      "id": "eldritch_claws",
+      "title": "Eldritch Claws",
+      "anchor_heading": "# Eldritch Claws (Combat)",
+      "description": "Complete rules for the feat Eldritch Claws, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

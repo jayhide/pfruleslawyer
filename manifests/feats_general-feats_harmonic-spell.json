@@ -1,0 +1,15 @@
+{
+  "file": "harmonic-spell.md",
+  "source_path": "https://www.d20pfsrd.com/feats/general-feats/harmonic-spell/",
+  "source_name": "Feat: Harmonic Spell",
+  "sections": [
+    {
+      "id": "harmonic_spell",
+      "title": "Harmonic Spell",
+      "anchor_heading": "# Harmonic Spell",
+      "description": "Complete rules for the feat Harmonic Spell, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

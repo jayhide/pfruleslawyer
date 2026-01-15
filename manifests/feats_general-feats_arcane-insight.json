@@ -1,0 +1,15 @@
+{
+  "file": "arcane-insight.md",
+  "source_path": "https://www.d20pfsrd.com/feats/general-feats/arcane-insight/",
+  "source_name": "Feat: Arcane Insight",
+  "sections": [
+    {
+      "id": "arcane_insight",
+      "title": "Arcane Insight",
+      "anchor_heading": "# Arcane Insight",
+      "description": "Complete rules for the feat Arcane Insight, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

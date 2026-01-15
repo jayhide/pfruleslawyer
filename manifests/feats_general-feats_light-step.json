@@ -1,0 +1,15 @@
+{
+  "file": "light-step.md",
+  "source_path": "https://www.d20pfsrd.com/feats/general-feats/light-step/",
+  "source_name": "Feat: Light Step",
+  "sections": [
+    {
+      "id": "light_step",
+      "title": "Light Step",
+      "anchor_heading": "# Light Step",
+      "description": "Complete rules for the feat Light Step, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

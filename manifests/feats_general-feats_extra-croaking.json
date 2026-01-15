@@ -1,0 +1,15 @@
+{
+  "file": "extra-croaking.md",
+  "source_path": "https://www.d20pfsrd.com/feats/general-feats/extra-croaking/",
+  "source_name": "Feat: Extra Croaking",
+  "sections": [
+    {
+      "id": "extra_croaking",
+      "title": "Extra Croaking",
+      "anchor_heading": "# Extra Croaking",
+      "description": "Complete rules for the feat Extra Croaking, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

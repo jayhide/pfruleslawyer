@@ -1,0 +1,15 @@
+{
+  "file": "critical-mastery-combat.md",
+  "source_path": "https://www.d20pfsrd.com/feats/combat-feats/critical-mastery-combat/",
+  "source_name": "Feat: Critical Mastery (Combat, Critical)",
+  "sections": [
+    {
+      "id": "critical_mastery_combat",
+      "title": "Critical Mastery",
+      "anchor_heading": "# Critical Mastery (Combat, Critical)",
+      "description": "Complete rules for the feat Critical Mastery, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

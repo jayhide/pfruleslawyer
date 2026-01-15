@@ -1,0 +1,15 @@
+{
+  "file": "greater-spell-penetration.md",
+  "source_path": "https://www.d20pfsrd.com/feats/general-feats/greater-spell-penetration/",
+  "source_name": "Feat: Greater Spell Penetration",
+  "sections": [
+    {
+      "id": "greater_spell_penetration",
+      "title": "Greater Spell Penetration",
+      "anchor_heading": "# Greater Spell Penetration",
+      "description": "Complete rules for the feat Greater Spell Penetration, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

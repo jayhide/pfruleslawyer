@@ -1,0 +1,15 @@
+{
+  "file": "riving-strike-combat.md",
+  "source_path": "https://www.d20pfsrd.com/feats/combat-feats/riving-strike-combat/",
+  "source_name": "Feat: Riving Strike (Combat)",
+  "sections": [
+    {
+      "id": "riving_strike_combat",
+      "title": "Riving Strike",
+      "anchor_heading": "# Riving Strike (Combat)",
+      "description": "Complete rules for the feat Riving Strike, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

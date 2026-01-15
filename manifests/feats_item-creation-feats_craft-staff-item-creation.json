@@ -1,0 +1,15 @@
+{
+  "file": "craft-staff-item-creation.md",
+  "source_path": "https://www.d20pfsrd.com/feats/item-creation-feats/craft-staff-item-creation/",
+  "source_name": "Feat: Craft Staff (Item Creation)",
+  "sections": [
+    {
+      "id": "craft_staff_item_creation",
+      "title": "Craft Staff",
+      "anchor_heading": "# Craft Staff (Item Creation)",
+      "description": "Complete rules for the feat Craft Staff, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

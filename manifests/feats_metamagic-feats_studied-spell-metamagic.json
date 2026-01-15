@@ -1,0 +1,15 @@
+{
+  "file": "studied-spell-metamagic.md",
+  "source_path": "https://www.d20pfsrd.com/feats/metamagic-feats/studied-spell-metamagic/",
+  "source_name": "Feat: Studied Spell (Metamagic)",
+  "sections": [
+    {
+      "id": "studied_spell_metamagic",
+      "title": "Studied Spell",
+      "anchor_heading": "# Studied Spell (Metamagic)",
+      "description": "Complete rules for the feat Studied Spell, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

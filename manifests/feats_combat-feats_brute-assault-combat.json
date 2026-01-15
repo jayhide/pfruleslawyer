@@ -1,0 +1,15 @@
+{
+  "file": "brute-assault-combat.md",
+  "source_path": "https://www.d20pfsrd.com/feats/combat-feats/brute-assault-combat/",
+  "source_name": "Feat: Brute Assault (Combat)",
+  "sections": [
+    {
+      "id": "brute_assault_combat",
+      "title": "Brute Assault",
+      "anchor_heading": "# Brute Assault (Combat)",
+      "description": "Complete rules for the feat Brute Assault, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

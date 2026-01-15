@@ -1,0 +1,15 @@
+{
+  "file": "welcome-pain.md",
+  "source_path": "https://www.d20pfsrd.com/feats/general-feats/welcome-pain/",
+  "source_name": "Feat: Welcome Pain",
+  "sections": [
+    {
+      "id": "welcome_pain",
+      "title": "Welcome Pain",
+      "anchor_heading": "# Welcome Pain",
+      "description": "Complete rules for the feat Welcome Pain, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

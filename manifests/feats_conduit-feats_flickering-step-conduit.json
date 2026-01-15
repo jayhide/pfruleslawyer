@@ -1,0 +1,15 @@
+{
+  "file": "flickering-step-conduit.md",
+  "source_path": "https://www.d20pfsrd.com/feats/conduit-feats/flickering-step-conduit/",
+  "source_name": "Feat: Flickering Step (Conduit)",
+  "sections": [
+    {
+      "id": "flickering_step_conduit",
+      "title": "Flickering Step",
+      "anchor_heading": "# Flickering Step (Conduit)",
+      "description": "Complete rules for the feat Flickering Step, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

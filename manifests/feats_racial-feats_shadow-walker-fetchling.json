@@ -1,0 +1,15 @@
+{
+  "file": "shadow-walker-fetchling.md",
+  "source_path": "https://www.d20pfsrd.com/feats/racial-feats/shadow-walker-fetchling/",
+  "source_name": "Feat: Shadow Walker (Fetchling)",
+  "sections": [
+    {
+      "id": "shadow_walker_fetchling",
+      "title": "Shadow Walker",
+      "anchor_heading": "# Shadow Walker (Fetchling)",
+      "description": "Complete rules for the feat Shadow Walker, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

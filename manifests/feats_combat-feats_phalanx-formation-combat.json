@@ -1,0 +1,15 @@
+{
+  "file": "phalanx-formation-combat.md",
+  "source_path": "https://www.d20pfsrd.com/feats/combat-feats/phalanx-formation-combat/",
+  "source_name": "Feat: Phalanx Formation (Combat)",
+  "sections": [
+    {
+      "id": "phalanx_formation_combat",
+      "title": "Phalanx Formation",
+      "anchor_heading": "# Phalanx Formation (Combat)",
+      "description": "Complete rules for the feat Phalanx Formation, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

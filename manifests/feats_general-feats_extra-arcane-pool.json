@@ -1,0 +1,15 @@
+{
+  "file": "extra-arcane-pool.md",
+  "source_path": "https://www.d20pfsrd.com/feats/general-feats/extra-arcane-pool/",
+  "source_name": "Feat: Extra Arcane Pool",
+  "sections": [
+    {
+      "id": "extra_arcane_pool",
+      "title": "Extra Arcane Pool",
+      "anchor_heading": "# Extra Arcane Pool",
+      "description": "Complete rules for the feat Extra Arcane Pool, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

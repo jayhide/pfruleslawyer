@@ -1,0 +1,15 @@
+{
+  "file": "point-blank-master-combat.md",
+  "source_path": "https://www.d20pfsrd.com/feats/combat-feats/point-blank-master-combat/",
+  "source_name": "Feat: Point Blank Master (Combat)",
+  "sections": [
+    {
+      "id": "point_blank_master_combat",
+      "title": "Point Blank Master",
+      "anchor_heading": "# Point Blank Master (Combat)",
+      "description": "Complete rules for the feat Point Blank Master, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

@@ -1,0 +1,15 @@
+{
+  "file": "sacred-geometry.md",
+  "source_path": "https://www.d20pfsrd.com/feats/general-feats/sacred-geometry/",
+  "source_name": "Feat: Sacred Geometry",
+  "sections": [
+    {
+      "id": "sacred_geometry",
+      "title": "Sacred Geometry",
+      "anchor_heading": "# Sacred Geometry",
+      "description": "Complete rules for the feat Sacred Geometry, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

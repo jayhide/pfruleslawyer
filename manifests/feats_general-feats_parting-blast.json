@@ -1,0 +1,15 @@
+{
+  "file": "parting-blast.md",
+  "source_path": "https://www.d20pfsrd.com/feats/general-feats/parting-blast/",
+  "source_name": "Feat: Parting Blast",
+  "sections": [
+    {
+      "id": "parting_blast",
+      "title": "Parting Blast",
+      "anchor_heading": "# Parting Blast",
+      "description": "Complete rules for the feat Parting Blast, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

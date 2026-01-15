@@ -1,0 +1,15 @@
+{
+  "file": "fast-change.md",
+  "source_path": "https://www.d20pfsrd.com/feats/general-feats/fast-change/",
+  "source_name": "Feat: Fast Change",
+  "sections": [
+    {
+      "id": "fast_change",
+      "title": "Fast Change",
+      "anchor_heading": "# Fast Change",
+      "description": "Complete rules for the feat Fast Change, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

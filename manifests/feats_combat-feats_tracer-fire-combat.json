@@ -1,0 +1,15 @@
+{
+  "file": "tracer-fire-combat.md",
+  "source_path": "https://www.d20pfsrd.com/feats/combat-feats/tracer-fire-combat/",
+  "source_name": "Feat: Tracer Fire (Combat)",
+  "sections": [
+    {
+      "id": "tracer_fire_combat",
+      "title": "Tracer Fire",
+      "anchor_heading": "# Tracer Fire (Combat)",
+      "description": "Complete rules for the feat Tracer Fire, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

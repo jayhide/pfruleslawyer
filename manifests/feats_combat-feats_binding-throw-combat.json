@@ -1,0 +1,15 @@
+{
+  "file": "binding-throw-combat.md",
+  "source_path": "https://www.d20pfsrd.com/feats/combat-feats/binding-throw-combat/",
+  "source_name": "Feat: Binding Throw (Combat)",
+  "sections": [
+    {
+      "id": "binding_throw_combat",
+      "title": "Binding Throw",
+      "anchor_heading": "# Binding Throw (Combat)",
+      "description": "Complete rules for the feat Binding Throw, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

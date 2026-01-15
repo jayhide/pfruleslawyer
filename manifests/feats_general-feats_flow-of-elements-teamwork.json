@@ -1,0 +1,15 @@
+{
+  "file": "flow-of-elements-teamwork.md",
+  "source_path": "https://www.d20pfsrd.com/feats/general-feats/flow-of-elements-teamwork/",
+  "source_name": "Feat: Flow of Elements (Teamwork)",
+  "sections": [
+    {
+      "id": "flow_of_elements_teamwork",
+      "title": "Flow of Elements",
+      "anchor_heading": "# Flow of Elements (Teamwork)",
+      "description": "Complete rules for the feat Flow of Elements, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

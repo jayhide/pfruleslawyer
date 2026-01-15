@@ -1,0 +1,15 @@
+{
+  "file": "acrobatic-steps.md",
+  "source_path": "https://www.d20pfsrd.com/feats/general-feats/acrobatic-steps/",
+  "source_name": "Feat: Acrobatic Steps",
+  "sections": [
+    {
+      "id": "acrobatic_steps",
+      "title": "Acrobatic Steps",
+      "anchor_heading": "# Acrobatic Steps",
+      "description": "Complete rules for the feat Acrobatic Steps, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

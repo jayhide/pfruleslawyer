@@ -1,0 +1,15 @@
+{
+  "file": "spell-mastery.md",
+  "source_path": "https://www.d20pfsrd.com/feats/general-feats/spell-mastery/",
+  "source_name": "Feat: Spell Mastery",
+  "sections": [
+    {
+      "id": "spell_mastery",
+      "title": "Spell Mastery",
+      "anchor_heading": "# Spell Mastery",
+      "description": "Complete rules for the feat Spell Mastery, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

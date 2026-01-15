@@ -1,0 +1,15 @@
+{
+  "file": "command-undead.md",
+  "source_path": "https://www.d20pfsrd.com/feats/general-feats/command-undead/",
+  "source_name": "Feat: Command Undead",
+  "sections": [
+    {
+      "id": "command_undead",
+      "title": "Command Undead",
+      "anchor_heading": "# Command Undead",
+      "description": "Complete rules for the feat Command Undead, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

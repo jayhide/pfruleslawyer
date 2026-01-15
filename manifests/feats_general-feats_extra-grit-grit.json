@@ -1,0 +1,15 @@
+{
+  "file": "extra-grit-grit.md",
+  "source_path": "https://www.d20pfsrd.com/feats/general-feats/extra-grit-grit/",
+  "source_name": "Feat: Extra Grit (Grit)",
+  "sections": [
+    {
+      "id": "extra_grit_grit",
+      "title": "Extra Grit",
+      "anchor_heading": "# Extra Grit (Grit)",
+      "description": "Complete rules for the feat Extra Grit, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

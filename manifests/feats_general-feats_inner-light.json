@@ -1,0 +1,15 @@
+{
+  "file": "inner-light.md",
+  "source_path": "https://www.d20pfsrd.com/feats/general-feats/inner-light/",
+  "source_name": "Feat: Inner Light (BoA)",
+  "sections": [
+    {
+      "id": "inner_light",
+      "title": "Inner Light",
+      "anchor_heading": "# Inner Light (BoA)",
+      "description": "Complete rules for the feat Inner Light, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

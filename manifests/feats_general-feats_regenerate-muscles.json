@@ -1,0 +1,15 @@
+{
+  "file": "regenerate-muscles.md",
+  "source_path": "https://www.d20pfsrd.com/feats/general-feats/regenerate-muscles/",
+  "source_name": "Feat: Regenerate Muscles",
+  "sections": [
+    {
+      "id": "regenerate_muscles",
+      "title": "Regenerate Muscles",
+      "anchor_heading": "# Regenerate Muscles",
+      "description": "Complete rules for the feat Regenerate Muscles, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

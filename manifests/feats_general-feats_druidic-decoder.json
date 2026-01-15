@@ -1,0 +1,15 @@
+{
+  "file": "druidic-decoder.md",
+  "source_path": "https://www.d20pfsrd.com/feats/general-feats/druidic-decoder/",
+  "source_name": "Feat: Druidic Decoder",
+  "sections": [
+    {
+      "id": "druidic_decoder",
+      "title": "Druidic Decoder",
+      "anchor_heading": "# Druidic Decoder",
+      "description": "Complete rules for the feat Druidic Decoder, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

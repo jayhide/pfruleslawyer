@@ -1,0 +1,15 @@
+{
+  "file": "spirit-beacon.md",
+  "source_path": "https://www.d20pfsrd.com/feats/general-feats/spirit-beacon/",
+  "source_name": "Feat: Spirit Beacon",
+  "sections": [
+    {
+      "id": "spirit_beacon",
+      "title": "Spirit Beacon",
+      "anchor_heading": "# Spirit Beacon",
+      "description": "Complete rules for the feat Spirit Beacon, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

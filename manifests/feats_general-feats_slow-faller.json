@@ -1,0 +1,15 @@
+{
+  "file": "slow-faller.md",
+  "source_path": "https://www.d20pfsrd.com/feats/general-feats/slow-faller/",
+  "source_name": "Feat: Slow Faller",
+  "sections": [
+    {
+      "id": "slow_faller",
+      "title": "Slow Faller",
+      "anchor_heading": "# Slow Faller",
+      "description": "Complete rules for the feat Slow Faller, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

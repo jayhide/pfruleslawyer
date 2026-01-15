@@ -1,0 +1,15 @@
+{
+  "file": "quick-draw-combat.md",
+  "source_path": "https://www.d20pfsrd.com/feats/combat-feats/quick-draw-combat/",
+  "source_name": "Feat: Quick Draw (Combat)",
+  "sections": [
+    {
+      "id": "quick_draw_combat",
+      "title": "Quick Draw",
+      "anchor_heading": "# Quick Draw (Combat)",
+      "description": "Complete rules for the feat Quick Draw, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

@@ -1,0 +1,15 @@
+{
+  "file": "extra-item-slot.md",
+  "source_path": "https://www.d20pfsrd.com/feats/general-feats/extra-item-slot/",
+  "source_name": "Feat: Extra Item Slot",
+  "sections": [
+    {
+      "id": "extra_item_slot",
+      "title": "Extra Item Slot",
+      "anchor_heading": "# Extra Item Slot",
+      "description": "Complete rules for the feat Extra Item Slot, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

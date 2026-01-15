@@ -1,0 +1,15 @@
+{
+  "file": "mutated-shape.md",
+  "source_path": "https://www.d20pfsrd.com/feats/general-feats/mutated-shape/",
+  "source_name": "Feat: Mutated Shape",
+  "sections": [
+    {
+      "id": "mutated_shape",
+      "title": "Mutated Shape",
+      "anchor_heading": "# Mutated Shape",
+      "description": "Complete rules for the feat Mutated Shape, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

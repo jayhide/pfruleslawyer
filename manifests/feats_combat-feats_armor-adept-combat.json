@@ -1,0 +1,15 @@
+{
+  "file": "armor-adept-combat.md",
+  "source_path": "https://www.d20pfsrd.com/feats/combat-feats/armor-adept-combat/",
+  "source_name": "Feat: Armor Adept (Combat)",
+  "sections": [
+    {
+      "id": "armor_adept_combat",
+      "title": "Armor Adept",
+      "anchor_heading": "# Armor Adept (Combat)",
+      "description": "Complete rules for the feat Armor Adept, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

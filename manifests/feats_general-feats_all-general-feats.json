@@ -1,0 +1,15 @@
+{
+  "file": "all-general-feats.md",
+  "source_path": "https://www.d20pfsrd.com/feats/general-feats/all-general-feats/",
+  "source_name": "Feat: All General Feats",
+  "sections": [
+    {
+      "id": "all_general_feats",
+      "title": "All General Feats",
+      "anchor_heading": "# All General Feats",
+      "description": "Complete rules for the feat All General Feats, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

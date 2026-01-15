@@ -1,0 +1,15 @@
+{
+  "file": "read-spell-traces.md",
+  "source_path": "https://www.d20pfsrd.com/feats/general-feats/read-spell-traces/",
+  "source_name": "Feat: Read Spell Traces",
+  "sections": [
+    {
+      "id": "read_spell_traces",
+      "title": "Read Spell Traces",
+      "anchor_heading": "# Read Spell Traces",
+      "description": "Complete rules for the feat Read Spell Traces, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

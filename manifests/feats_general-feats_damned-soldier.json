@@ -1,0 +1,15 @@
+{
+  "file": "damned-soldier.md",
+  "source_path": "https://www.d20pfsrd.com/feats/general-feats/damned-soldier/",
+  "source_name": "Feat: Damned Soldier",
+  "sections": [
+    {
+      "id": "damned_soldier",
+      "title": "Damned Soldier",
+      "anchor_heading": "# Damned Soldier",
+      "description": "Complete rules for the feat Damned Soldier, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

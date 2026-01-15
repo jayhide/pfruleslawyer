@@ -1,0 +1,15 @@
+{
+  "file": "graceful-steal-combat.md",
+  "source_path": "https://www.d20pfsrd.com/feats/combat-feats/graceful-steal-combat/",
+  "source_name": "Feat: Graceful Steal (Combat)",
+  "sections": [
+    {
+      "id": "graceful_steal_combat",
+      "title": "Graceful Steal",
+      "anchor_heading": "# Graceful Steal (Combat)",
+      "description": "Complete rules for the feat Graceful Steal, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

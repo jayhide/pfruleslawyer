@@ -1,0 +1,15 @@
+{
+  "file": "cypher-magic.md",
+  "source_path": "https://www.d20pfsrd.com/feats/general-feats/cypher-magic/",
+  "source_name": "Feat: Cypher Magic",
+  "sections": [
+    {
+      "id": "cypher_magic",
+      "title": "Cypher Magic",
+      "anchor_heading": "# Cypher Magic",
+      "description": "Complete rules for the feat Cypher Magic, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

@@ -1,0 +1,15 @@
+{
+  "file": "night-sky-hex.md",
+  "source_path": "https://www.d20pfsrd.com/feats/general-feats/night-sky-hex/",
+  "source_name": "Feat: Night Sky Hex",
+  "sections": [
+    {
+      "id": "night_sky_hex",
+      "title": "Night Sky Hex",
+      "anchor_heading": "# Night Sky Hex",
+      "description": "Complete rules for the feat Night Sky Hex, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

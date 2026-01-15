@@ -1,0 +1,15 @@
+{
+  "file": "extra-slayer-talent.md",
+  "source_path": "https://www.d20pfsrd.com/feats/general-feats/extra-slayer-talent/",
+  "source_name": "Feat: Extra Slayer Talent",
+  "sections": [
+    {
+      "id": "extra_slayer_talent",
+      "title": "Extra Slayer Talent",
+      "anchor_heading": "# Extra Slayer Talent",
+      "description": "Complete rules for the feat Extra Slayer Talent, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

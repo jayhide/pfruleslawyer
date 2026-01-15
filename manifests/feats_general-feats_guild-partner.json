@@ -1,0 +1,15 @@
+{
+  "file": "guild-partner.md",
+  "source_path": "https://www.d20pfsrd.com/feats/general-feats/guild-partner/",
+  "source_name": "Feat: Guild Partner",
+  "sections": [
+    {
+      "id": "guild_partner",
+      "title": "Guild Partner",
+      "anchor_heading": "# Guild Partner",
+      "description": "Complete rules for the feat Guild Partner, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

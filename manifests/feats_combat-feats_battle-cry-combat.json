@@ -1,0 +1,15 @@
+{
+  "file": "battle-cry-combat.md",
+  "source_path": "https://www.d20pfsrd.com/feats/combat-feats/battle-cry-combat/",
+  "source_name": "Feat: Battle Cry (Combat)",
+  "sections": [
+    {
+      "id": "battle_cry_combat",
+      "title": "Battle Cry",
+      "anchor_heading": "# Battle Cry (Combat)",
+      "description": "Complete rules for the feat Battle Cry, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

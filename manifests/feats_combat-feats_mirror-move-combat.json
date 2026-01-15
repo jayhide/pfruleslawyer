@@ -1,0 +1,15 @@
+{
+  "file": "mirror-move-combat.md",
+  "source_path": "https://www.d20pfsrd.com/feats/combat-feats/mirror-move-combat/",
+  "source_name": "Feat: Mirror Move (Combat)",
+  "sections": [
+    {
+      "id": "mirror_move_combat",
+      "title": "Mirror Move",
+      "anchor_heading": "# Mirror Move (Combat)",
+      "description": "Complete rules for the feat Mirror Move, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

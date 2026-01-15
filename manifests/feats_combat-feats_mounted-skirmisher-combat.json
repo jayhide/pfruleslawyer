@@ -1,0 +1,15 @@
+{
+  "file": "mounted-skirmisher-combat.md",
+  "source_path": "https://www.d20pfsrd.com/feats/combat-feats/mounted-skirmisher-combat/",
+  "source_name": "Feat: Mounted Skirmisher (Combat)",
+  "sections": [
+    {
+      "id": "mounted_skirmisher_combat",
+      "title": "Mounted Skirmisher",
+      "anchor_heading": "# Mounted Skirmisher (Combat)",
+      "description": "Complete rules for the feat Mounted Skirmisher, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

@@ -1,0 +1,15 @@
+{
+  "file": "repast-of-heroes.md",
+  "source_path": "https://www.d20pfsrd.com/feats/general-feats/repast-of-heroes/",
+  "source_name": "Feat: Repast of Heroes",
+  "sections": [
+    {
+      "id": "repast_of_heroes",
+      "title": "Repast of Heroes",
+      "anchor_heading": "# Repast of Heroes",
+      "description": "Complete rules for the feat Repast of Heroes, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

@@ -1,0 +1,15 @@
+{
+  "file": "familiar-spell-metamagic.md",
+  "source_path": "https://www.d20pfsrd.com/feats/metamagic-feats/familiar-spell-metamagic/",
+  "source_name": "Feat: Familiar Spell (Metamagic)",
+  "sections": [
+    {
+      "id": "familiar_spell_metamagic",
+      "title": "Familiar Spell",
+      "anchor_heading": "# Familiar Spell (Metamagic)",
+      "description": "Complete rules for the feat Familiar Spell, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

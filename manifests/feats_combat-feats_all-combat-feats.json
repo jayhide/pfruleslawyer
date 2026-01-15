@@ -1,0 +1,15 @@
+{
+  "file": "all-combat-feats.md",
+  "source_path": "https://www.d20pfsrd.com/feats/combat-feats/all-combat-feats/",
+  "source_name": "Feat: All Combat Feats",
+  "sections": [
+    {
+      "id": "all_combat_feats",
+      "title": "All Combat Feats",
+      "anchor_heading": "# All Combat Feats",
+      "description": "Complete rules for the feat All Combat Feats, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

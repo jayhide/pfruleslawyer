@@ -1,0 +1,15 @@
+{
+  "file": "manifested-blood.md",
+  "source_path": "https://www.d20pfsrd.com/feats/general-feats/manifested-blood/",
+  "source_name": "Feat: Manifested Blood",
+  "sections": [
+    {
+      "id": "manifested_blood",
+      "title": "Manifested Blood",
+      "anchor_heading": "# Manifested Blood",
+      "description": "Complete rules for the feat Manifested Blood, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

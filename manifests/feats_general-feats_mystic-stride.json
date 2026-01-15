@@ -1,0 +1,15 @@
+{
+  "file": "mystic-stride.md",
+  "source_path": "https://www.d20pfsrd.com/feats/general-feats/mystic-stride/",
+  "source_name": "Feat: Mystic Stride",
+  "sections": [
+    {
+      "id": "mystic_stride",
+      "title": "Mystic Stride",
+      "anchor_heading": "# Mystic Stride",
+      "description": "Complete rules for the feat Mystic Stride, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

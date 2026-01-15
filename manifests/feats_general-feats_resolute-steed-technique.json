@@ -1,0 +1,15 @@
+{
+  "file": "resolute-steed-technique.md",
+  "source_path": "https://www.d20pfsrd.com/feats/general-feats/resolute-steed-technique/",
+  "source_name": "Feat: Resolute Steed (Technique)",
+  "sections": [
+    {
+      "id": "resolute_steed_technique",
+      "title": "Resolute Steed",
+      "anchor_heading": "# Resolute Steed (Technique)",
+      "description": "Complete rules for the feat Resolute Steed, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

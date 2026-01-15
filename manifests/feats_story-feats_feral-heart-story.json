@@ -1,0 +1,15 @@
+{
+  "file": "feral-heart-story.md",
+  "source_path": "https://www.d20pfsrd.com/feats/story-feats/feral-heart-story/",
+  "source_name": "Feat: Feral Heart (Story)",
+  "sections": [
+    {
+      "id": "feral_heart_story",
+      "title": "Feral Heart",
+      "anchor_heading": "# Feral Heart (Story)",
+      "description": "Complete rules for the feat Feral Heart, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

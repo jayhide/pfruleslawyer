@@ -1,0 +1,15 @@
+{
+  "file": "bag-of-bones.md",
+  "source_path": "https://www.d20pfsrd.com/feats/general-feats/bag-of-bones/",
+  "source_name": "Feat: Bag of Bones",
+  "sections": [
+    {
+      "id": "bag_of_bones",
+      "title": "Bag of Bones",
+      "anchor_heading": "# Bag of Bones",
+      "description": "Complete rules for the feat Bag of Bones, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

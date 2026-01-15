@@ -1,0 +1,15 @@
+{
+  "file": "stone-magic.md",
+  "source_path": "https://www.d20pfsrd.com/feats/monster-feats/stone-magic/",
+  "source_name": "Feat: Stone Magic (Monster)",
+  "sections": [
+    {
+      "id": "stone_magic",
+      "title": "Stone Magic",
+      "anchor_heading": "# Stone Magic (Monster)",
+      "description": "Complete rules for the feat Stone Magic, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

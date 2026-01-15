@@ -1,0 +1,15 @@
+{
+  "file": "chosen-one.md",
+  "source_path": "https://www.d20pfsrd.com/feats/general-feats/chosen-one/",
+  "source_name": "Feat: Chosen One",
+  "sections": [
+    {
+      "id": "chosen_one",
+      "title": "Chosen One",
+      "anchor_heading": "# Chosen One",
+      "description": "Complete rules for the feat Chosen One, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

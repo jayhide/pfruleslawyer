@@ -1,0 +1,15 @@
+{
+  "file": "meditative-concentration.md",
+  "source_path": "https://www.d20pfsrd.com/feats/general-feats/meditative-concentration/",
+  "source_name": "Feat: Meditative Concentration",
+  "sections": [
+    {
+      "id": "meditative_concentration",
+      "title": "Meditative Concentration",
+      "anchor_heading": "# Meditative Concentration",
+      "description": "Complete rules for the feat Meditative Concentration, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

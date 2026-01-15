@@ -2,7 +2,7 @@
 
 import pytest
 
-from preprocess_sections import get_source_name, SOURCE_NAMES, CATEGORY_TEMPLATES
+from preprocess_sections import get_source_name, SOURCE_NAMES, CATEGORY_TEMPLATES, strip_feat_suffix
 
 
 class TestGetSourceName:
@@ -83,3 +83,43 @@ class TestGetSourceName:
         """Path with just filename should check SOURCE_NAMES."""
         assert get_source_name("magic.md") == "Magic Rules"
         assert get_source_name("conditions.md") == "Conditions"
+
+
+class TestStripFeatSuffix:
+    """Tests for strip_feat_suffix() function."""
+
+    def test_combat_suffix(self):
+        """Should strip (Combat) suffix."""
+        assert strip_feat_suffix("Combat Reflexes (Combat)") == "Combat Reflexes"
+        assert strip_feat_suffix("Power Attack (Combat)") == "Power Attack"
+
+    def test_combat_style_suffix(self):
+        """Should strip (Combat, Style) suffix."""
+        assert strip_feat_suffix("Crane Style (Combat, Style)") == "Crane Style"
+        assert strip_feat_suffix("Dragon Style (Combat, Style)") == "Dragon Style"
+
+    def test_achievement_suffix(self):
+        """Should strip (Achievement) suffix."""
+        assert strip_feat_suffix("Chainbreaker (Achievement)") == "Chainbreaker"
+        assert strip_feat_suffix("All Gnolls Must Die (Achievement)") == "All Gnolls Must Die"
+
+    def test_animal_companion_suffix(self):
+        """Should strip (Animal Companion Feat) suffix."""
+        assert strip_feat_suffix("Curious Companion (Animal Companion Feat)") == "Curious Companion"
+
+    def test_complex_suffixes(self):
+        """Should strip multi-part suffixes with semicolons."""
+        assert strip_feat_suffix("Feral Grace (Animal Companion Feat; Combat)") == "Feral Grace"
+        assert strip_feat_suffix("Ambush Squad (Combat, Teamwork)") == "Ambush Squad"
+        assert strip_feat_suffix("Ankle Biter (Combat, Goblin)") == "Ankle Biter"
+
+    def test_no_suffix(self):
+        """Titles without suffix should be unchanged."""
+        assert strip_feat_suffix("Power Attack") == "Power Attack"
+        assert strip_feat_suffix("Improved Initiative") == "Improved Initiative"
+
+    def test_parentheses_in_name(self):
+        """Only trailing parentheses should be stripped."""
+        # If a feat had parentheses mid-name, they should be preserved
+        # (this is hypothetical but tests the regex is anchored to end)
+        assert strip_feat_suffix("Some Name (Ex) (Combat)") == "Some Name (Ex)"

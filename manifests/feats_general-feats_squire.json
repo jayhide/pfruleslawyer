@@ -1,0 +1,15 @@
+{
+  "file": "squire.md",
+  "source_path": "https://www.d20pfsrd.com/feats/general-feats/squire/",
+  "source_name": "Feat: Squire",
+  "sections": [
+    {
+      "id": "squire",
+      "title": "Squire",
+      "anchor_heading": "# Squire",
+      "description": "Complete rules for the feat Squire, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

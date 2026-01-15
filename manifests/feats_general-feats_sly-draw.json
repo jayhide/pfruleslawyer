@@ -1,0 +1,15 @@
+{
+  "file": "sly-draw.md",
+  "source_path": "https://www.d20pfsrd.com/feats/general-feats/sly-draw/",
+  "source_name": "Feat: Sly Draw",
+  "sections": [
+    {
+      "id": "sly_draw",
+      "title": "Sly Draw",
+      "anchor_heading": "# Sly Draw",
+      "description": "Complete rules for the feat Sly Draw, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

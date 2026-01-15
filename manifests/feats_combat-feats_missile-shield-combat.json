@@ -1,0 +1,15 @@
+{
+  "file": "missile-shield-combat.md",
+  "source_path": "https://www.d20pfsrd.com/feats/combat-feats/missile-shield-combat/",
+  "source_name": "Feat: Missile Shield (Combat)",
+  "sections": [
+    {
+      "id": "missile_shield_combat",
+      "title": "Missile Shield",
+      "anchor_heading": "# Missile Shield (Combat)",
+      "description": "Complete rules for the feat Missile Shield, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

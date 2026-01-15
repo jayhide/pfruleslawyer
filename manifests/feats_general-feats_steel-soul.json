@@ -1,0 +1,15 @@
+{
+  "file": "steel-soul.md",
+  "source_path": "https://www.d20pfsrd.com/feats/general-feats/steel-soul/",
+  "source_name": "Feat: Steel Soul",
+  "sections": [
+    {
+      "id": "steel_soul",
+      "title": "Steel Soul",
+      "anchor_heading": "# Steel Soul",
+      "description": "Complete rules for the feat Steel Soul, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

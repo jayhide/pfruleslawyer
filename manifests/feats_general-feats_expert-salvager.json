@@ -1,0 +1,15 @@
+{
+  "file": "expert-salvager.md",
+  "source_path": "https://www.d20pfsrd.com/feats/general-feats/expert-salvager/",
+  "source_name": "Feat: Expert Salvager",
+  "sections": [
+    {
+      "id": "expert_salvager",
+      "title": "Expert Salvager",
+      "anchor_heading": "# Expert Salvager",
+      "description": "Complete rules for the feat Expert Salvager, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

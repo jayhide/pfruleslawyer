@@ -1,0 +1,15 @@
+{
+  "file": "armor-proficiency-heavy.md",
+  "source_path": "https://www.d20pfsrd.com/feats/combat-feats/armor-proficiency-heavy/",
+  "source_name": "Feat: Armor Proficiency, Heavy (Combat)",
+  "sections": [
+    {
+      "id": "armor_proficiency_heavy",
+      "title": "Armor Proficiency, Heavy",
+      "anchor_heading": "# Armor Proficiency, Heavy (Combat)",
+      "description": "Complete rules for the feat Armor Proficiency, Heavy, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

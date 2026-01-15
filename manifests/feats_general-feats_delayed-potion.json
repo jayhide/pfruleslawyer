@@ -1,0 +1,15 @@
+{
+  "file": "delayed-potion.md",
+  "source_path": "https://www.d20pfsrd.com/feats/general-feats/delayed-potion/",
+  "source_name": "Feat: Delayed Potion",
+  "sections": [
+    {
+      "id": "delayed_potion",
+      "title": "Delayed Potion",
+      "anchor_heading": "# Delayed Potion",
+      "description": "Complete rules for the feat Delayed Potion, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

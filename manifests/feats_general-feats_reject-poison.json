@@ -1,0 +1,15 @@
+{
+  "file": "reject-poison.md",
+  "source_path": "https://www.d20pfsrd.com/feats/general-feats/reject-poison/",
+  "source_name": "Feat: Reject Poison",
+  "sections": [
+    {
+      "id": "reject_poison",
+      "title": "Reject Poison",
+      "anchor_heading": "# Reject Poison",
+      "description": "Complete rules for the feat Reject Poison, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

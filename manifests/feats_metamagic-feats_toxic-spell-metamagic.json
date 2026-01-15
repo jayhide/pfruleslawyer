@@ -1,0 +1,15 @@
+{
+  "file": "toxic-spell-metamagic.md",
+  "source_path": "https://www.d20pfsrd.com/feats/metamagic-feats/toxic-spell-metamagic/",
+  "source_name": "Feat: Toxic Spell (Metamagic)",
+  "sections": [
+    {
+      "id": "toxic_spell_metamagic",
+      "title": "Toxic Spell",
+      "anchor_heading": "# Toxic Spell (Metamagic)",
+      "description": "Complete rules for the feat Toxic Spell, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

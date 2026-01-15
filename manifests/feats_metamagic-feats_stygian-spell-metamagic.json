@@ -1,0 +1,15 @@
+{
+  "file": "stygian-spell-metamagic.md",
+  "source_path": "https://www.d20pfsrd.com/feats/metamagic-feats/stygian-spell-metamagic/",
+  "source_name": "Feat: Stygian Spell (Metamagic)",
+  "sections": [
+    {
+      "id": "stygian_spell_metamagic",
+      "title": "Stygian Spell",
+      "anchor_heading": "# Stygian Spell (Metamagic)",
+      "description": "Complete rules for the feat Stygian Spell, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

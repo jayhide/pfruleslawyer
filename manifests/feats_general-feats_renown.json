@@ -1,0 +1,15 @@
+{
+  "file": "renown.md",
+  "source_path": "https://www.d20pfsrd.com/feats/general-feats/renown/",
+  "source_name": "Feat: Renown",
+  "sections": [
+    {
+      "id": "renown",
+      "title": "Renown",
+      "anchor_heading": "# Renown",
+      "description": "Complete rules for the feat Renown, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

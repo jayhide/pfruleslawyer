@@ -1,0 +1,15 @@
+{
+  "file": "street-smarts.md",
+  "source_path": "https://www.d20pfsrd.com/feats/general-feats/street-smarts/",
+  "source_name": "Feat: Street Smarts",
+  "sections": [
+    {
+      "id": "street_smarts",
+      "title": "Street Smarts",
+      "anchor_heading": "# Street Smarts",
+      "description": "Complete rules for the feat Street Smarts, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

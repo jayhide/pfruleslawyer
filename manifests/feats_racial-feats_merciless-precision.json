@@ -1,0 +1,15 @@
+{
+  "file": "merciless-precision.md",
+  "source_path": "https://www.d20pfsrd.com/feats/racial-feats/merciless-precision/",
+  "source_name": "Feat: Merciless Precision (Kobold)",
+  "sections": [
+    {
+      "id": "merciless_precision",
+      "title": "Merciless Precision",
+      "anchor_heading": "# Merciless Precision (Kobold)",
+      "description": "Complete rules for the feat Merciless Precision, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

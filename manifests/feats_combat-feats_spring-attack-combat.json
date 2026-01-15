@@ -1,0 +1,15 @@
+{
+  "file": "spring-attack-combat.md",
+  "source_path": "https://www.d20pfsrd.com/feats/combat-feats/spring-attack-combat/",
+  "source_name": "Feat: Spring Attack (Combat)",
+  "sections": [
+    {
+      "id": "spring_attack_combat",
+      "title": "Spring Attack",
+      "anchor_heading": "# Spring Attack (Combat)",
+      "description": "Complete rules for the feat Spring Attack, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

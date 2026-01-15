@@ -1,0 +1,15 @@
+{
+  "file": "gate-breaker-combat.md",
+  "source_path": "https://www.d20pfsrd.com/feats/combat-feats/gate-breaker-combat/",
+  "source_name": "Feat: Gate Breaker (Combat)",
+  "sections": [
+    {
+      "id": "gate_breaker_combat",
+      "title": "Gate Breaker",
+      "anchor_heading": "# Gate Breaker (Combat)",
+      "description": "Complete rules for the feat Gate Breaker, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

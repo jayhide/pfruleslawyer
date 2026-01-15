@@ -1,0 +1,15 @@
+{
+  "file": "wild-speech.md",
+  "source_path": "https://www.d20pfsrd.com/feats/general-feats/wild-speech/",
+  "source_name": "Feat: Wild Speech",
+  "sections": [
+    {
+      "id": "wild_speech",
+      "title": "Wild Speech",
+      "anchor_heading": "# Wild Speech",
+      "description": "Complete rules for the feat Wild Speech, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

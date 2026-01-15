@@ -1,0 +1,15 @@
+{
+  "file": "crystalline-cloud.md",
+  "source_path": "https://www.d20pfsrd.com/feats/general-feats/crystalline-cloud/",
+  "source_name": "Feat: Crystalline Cloud",
+  "sections": [
+    {
+      "id": "crystalline_cloud",
+      "title": "Crystalline Cloud",
+      "anchor_heading": "# Crystalline Cloud",
+      "description": "Complete rules for the feat Crystalline Cloud, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

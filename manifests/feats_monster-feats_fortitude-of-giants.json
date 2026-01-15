@@ -1,0 +1,15 @@
+{
+  "file": "fortitude-of-giants.md",
+  "source_path": "https://www.d20pfsrd.com/feats/monster-feats/fortitude-of-giants/",
+  "source_name": "Feat: Fortitude of Giants",
+  "sections": [
+    {
+      "id": "fortitude_of_giants",
+      "title": "Fortitude of Giants",
+      "anchor_heading": "# Fortitude of Giants",
+      "description": "Complete rules for the feat Fortitude of Giants, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

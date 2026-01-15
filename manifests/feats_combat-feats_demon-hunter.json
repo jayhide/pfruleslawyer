@@ -1,0 +1,15 @@
+{
+  "file": "demon-hunter.md",
+  "source_path": "https://www.d20pfsrd.com/feats/combat-feats/demon-hunter/",
+  "source_name": "Feat: Demon Hunter (Combat)",
+  "sections": [
+    {
+      "id": "demon_hunter",
+      "title": "Demon Hunter",
+      "anchor_heading": "# Demon Hunter (Combat)",
+      "description": "Complete rules for the feat Demon Hunter, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

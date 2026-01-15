@@ -1,0 +1,15 @@
+{
+  "file": "tool-optimizer.md",
+  "source_path": "https://www.d20pfsrd.com/feats/general-feats/tool-optimizer/",
+  "source_name": "Feat: Tool Optimizer",
+  "sections": [
+    {
+      "id": "tool_optimizer",
+      "title": "Tool Optimizer",
+      "anchor_heading": "# Tool Optimizer",
+      "description": "Complete rules for the feat Tool Optimizer, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

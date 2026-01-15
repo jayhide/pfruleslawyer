@@ -1,0 +1,15 @@
+{
+  "file": "eldritch-assault.md",
+  "source_path": "https://www.d20pfsrd.com/feats/general-feats/eldritch-assault/",
+  "source_name": "Feat: Eldritch Assault",
+  "sections": [
+    {
+      "id": "eldritch_assault",
+      "title": "Eldritch Assault",
+      "anchor_heading": "# Eldritch Assault",
+      "description": "Complete rules for the feat Eldritch Assault, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

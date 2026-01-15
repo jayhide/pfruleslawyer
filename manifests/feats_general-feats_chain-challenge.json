@@ -1,0 +1,15 @@
+{
+  "file": "chain-challenge.md",
+  "source_path": "https://www.d20pfsrd.com/feats/general-feats/chain-challenge/",
+  "source_name": "Feat: Chain Challenge",
+  "sections": [
+    {
+      "id": "chain_challenge",
+      "title": "Chain Challenge",
+      "anchor_heading": "# Chain Challenge",
+      "description": "Complete rules for the feat Chain Challenge, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

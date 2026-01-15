@@ -1,0 +1,15 @@
+{
+  "file": "healing-potion.md",
+  "source_path": "https://www.d20pfsrd.com/feats/general-feats/healing-potion/",
+  "source_name": "Feat: Healing Potion",
+  "sections": [
+    {
+      "id": "healing_potion",
+      "title": "Healing Potion",
+      "anchor_heading": "# Healing Potion",
+      "description": "Complete rules for the feat Healing Potion, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

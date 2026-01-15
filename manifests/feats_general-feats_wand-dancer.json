@@ -1,0 +1,15 @@
+{
+  "file": "wand-dancer.md",
+  "source_path": "https://www.d20pfsrd.com/feats/general-feats/wand-dancer/",
+  "source_name": "Feat: Wand Dancer",
+  "sections": [
+    {
+      "id": "wand_dancer",
+      "title": "Wand Dancer",
+      "anchor_heading": "# Wand Dancer",
+      "description": "Complete rules for the feat Wand Dancer, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

@@ -1,0 +1,15 @@
+{
+  "file": "greater-feint-combat.md",
+  "source_path": "https://www.d20pfsrd.com/feats/combat-feats/greater-feint-combat/",
+  "source_name": "Feat: Greater Feint (Combat)",
+  "sections": [
+    {
+      "id": "greater_feint_combat",
+      "title": "Greater Feint",
+      "anchor_heading": "# Greater Feint (Combat)",
+      "description": "Complete rules for the feat Greater Feint, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

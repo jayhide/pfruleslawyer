@@ -1,0 +1,15 @@
+{
+  "file": "manyshot-combat.md",
+  "source_path": "https://www.d20pfsrd.com/feats/combat-feats/manyshot-combat/",
+  "source_name": "Feat: Manyshot (Combat)",
+  "sections": [
+    {
+      "id": "manyshot_combat",
+      "title": "Manyshot",
+      "anchor_heading": "# Manyshot (Combat)",
+      "description": "Complete rules for the feat Manyshot, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

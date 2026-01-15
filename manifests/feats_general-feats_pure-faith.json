@@ -1,0 +1,15 @@
+{
+  "file": "pure-faith.md",
+  "source_path": "https://www.d20pfsrd.com/feats/general-feats/pure-faith/",
+  "source_name": "Feat: Pure Faith",
+  "sections": [
+    {
+      "id": "pure_faith",
+      "title": "Pure Faith",
+      "anchor_heading": "# Pure Faith",
+      "description": "Complete rules for the feat Pure Faith, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

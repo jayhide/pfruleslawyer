@@ -1,0 +1,15 @@
+{
+  "file": "sense-assumptions.md",
+  "source_path": "https://www.d20pfsrd.com/feats/general-feats/sense-assumptions/",
+  "source_name": "Feat: Sense Assumptions",
+  "sections": [
+    {
+      "id": "sense_assumptions",
+      "title": "Sense Assumptions",
+      "anchor_heading": "# Sense Assumptions",
+      "description": "Complete rules for the feat Sense Assumptions, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

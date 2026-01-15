@@ -1,0 +1,15 @@
+{
+  "file": "conviction.md",
+  "source_path": "https://www.d20pfsrd.com/feats/general-feats/conviction/",
+  "source_name": "Feat: Conviction",
+  "sections": [
+    {
+      "id": "conviction",
+      "title": "Conviction",
+      "anchor_heading": "# Conviction",
+      "description": "Complete rules for the feat Conviction, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

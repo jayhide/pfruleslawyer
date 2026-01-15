@@ -1,0 +1,15 @@
+{
+  "file": "agile-maneuvers-combat.md",
+  "source_path": "https://www.d20pfsrd.com/feats/combat-feats/agile-maneuvers-combat/",
+  "source_name": "Feat: Agile Maneuvers (Combat)",
+  "sections": [
+    {
+      "id": "agile_maneuvers_combat",
+      "title": "Agile Maneuvers",
+      "anchor_heading": "# Agile Maneuvers (Combat)",
+      "description": "Complete rules for the feat Agile Maneuvers, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

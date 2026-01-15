@@ -1,0 +1,15 @@
+{
+  "file": "accursed-story.md",
+  "source_path": "https://www.d20pfsrd.com/feats/story-feats/accursed-story/",
+  "source_name": "Feat: Accursed (Story)",
+  "sections": [
+    {
+      "id": "accursed_story",
+      "title": "Accursed",
+      "anchor_heading": "# Accursed (Story)",
+      "description": "Complete rules for the feat Accursed, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

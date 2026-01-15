@@ -1,0 +1,15 @@
+{
+  "file": "deadly-trap.md",
+  "source_path": "https://www.d20pfsrd.com/feats/general-feats/deadly-trap/",
+  "source_name": "Feat: Deadly Trap",
+  "sections": [
+    {
+      "id": "deadly_trap",
+      "title": "Deadly Trap",
+      "anchor_heading": "# Deadly Trap",
+      "description": "Complete rules for the feat Deadly Trap, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

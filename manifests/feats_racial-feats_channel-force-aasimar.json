@@ -1,0 +1,15 @@
+{
+  "file": "channel-force-aasimar.md",
+  "source_path": "https://www.d20pfsrd.com/feats/racial-feats/channel-force-aasimar/",
+  "source_name": "Feat: Channel Force (Channeling; Aasimar)",
+  "sections": [
+    {
+      "id": "channel_force_aasimar",
+      "title": "Channel Force",
+      "anchor_heading": "# Channel Force (Channeling; Aasimar)",
+      "description": "Complete rules for the feat Channel Force, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

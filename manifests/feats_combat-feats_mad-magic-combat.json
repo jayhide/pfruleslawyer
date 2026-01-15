@@ -1,0 +1,15 @@
+{
+  "file": "mad-magic-combat.md",
+  "source_path": "https://www.d20pfsrd.com/feats/combat-feats/mad-magic-combat/",
+  "source_name": "Feat: Mad Magic (Combat)",
+  "sections": [
+    {
+      "id": "mad_magic_combat",
+      "title": "Mad Magic",
+      "anchor_heading": "# Mad Magic (Combat)",
+      "description": "Complete rules for the feat Mad Magic, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

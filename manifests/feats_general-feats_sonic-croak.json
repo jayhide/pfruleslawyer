@@ -1,0 +1,15 @@
+{
+  "file": "sonic-croak.md",
+  "source_path": "https://www.d20pfsrd.com/feats/general-feats/sonic-croak/",
+  "source_name": "Feat: Sonic Croak",
+  "sections": [
+    {
+      "id": "sonic_croak",
+      "title": "Sonic Croak",
+      "anchor_heading": "# Sonic Croak",
+      "description": "Complete rules for the feat Sonic Croak, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

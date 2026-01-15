@@ -1,0 +1,15 @@
+{
+  "file": "grenade-expert.md",
+  "source_path": "https://www.d20pfsrd.com/feats/general-feats/grenade-expert/",
+  "source_name": "Feat: Grenade Expert",
+  "sections": [
+    {
+      "id": "grenade_expert",
+      "title": "Grenade Expert",
+      "anchor_heading": "# Grenade Expert",
+      "description": "Complete rules for the feat Grenade Expert, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

@@ -1,0 +1,15 @@
+{
+  "file": "planar-wild-shape.md",
+  "source_path": "https://www.d20pfsrd.com/feats/general-feats/planar-wild-shape/",
+  "source_name": "Feat: Planar Wild Shape",
+  "sections": [
+    {
+      "id": "planar_wild_shape",
+      "title": "Planar Wild Shape",
+      "anchor_heading": "# Planar Wild Shape",
+      "description": "Complete rules for the feat Planar Wild Shape, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

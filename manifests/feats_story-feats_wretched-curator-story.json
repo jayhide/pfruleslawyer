@@ -1,0 +1,15 @@
+{
+  "file": "wretched-curator-story.md",
+  "source_path": "https://www.d20pfsrd.com/feats/story-feats/wretched-curator-story/",
+  "source_name": "Feat: Wretched Curator (Story)",
+  "sections": [
+    {
+      "id": "wretched_curator_story",
+      "title": "Wretched Curator",
+      "anchor_heading": "# Wretched Curator (Story)",
+      "description": "Complete rules for the feat Wretched Curator, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

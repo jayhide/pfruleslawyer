@@ -1,0 +1,15 @@
+{
+  "file": "possessed-hand.md",
+  "source_path": "https://www.d20pfsrd.com/feats/general-feats/possessed-hand/",
+  "source_name": "Feat: Possessed Hand",
+  "sections": [
+    {
+      "id": "possessed_hand",
+      "title": "Possessed Hand",
+      "anchor_heading": "# Possessed Hand",
+      "description": "Complete rules for the feat Possessed Hand, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

@@ -1,0 +1,15 @@
+{
+  "file": "combat-expertise-combat.md",
+  "source_path": "https://www.d20pfsrd.com/feats/combat-feats/combat-expertise-combat/",
+  "source_name": "Feat: Combat Expertise (Combat)",
+  "sections": [
+    {
+      "id": "combat_expertise_combat",
+      "title": "Combat Expertise",
+      "anchor_heading": "# Combat Expertise (Combat)",
+      "description": "Complete rules for the feat Combat Expertise, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

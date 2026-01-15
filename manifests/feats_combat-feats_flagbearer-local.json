@@ -1,0 +1,15 @@
+{
+  "file": "flagbearer-local.md",
+  "source_path": "https://www.d20pfsrd.com/feats/combat-feats/flagbearer-local/",
+  "source_name": "Feat: Flagbearer (Combat)",
+  "sections": [
+    {
+      "id": "flagbearer_local",
+      "title": "Flagbearer",
+      "anchor_heading": "# Flagbearer (Combat)",
+      "description": "Complete rules for the feat Flagbearer, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

@@ -1,0 +1,15 @@
+{
+  "file": "precise-shot-combat.md",
+  "source_path": "https://www.d20pfsrd.com/feats/combat-feats/precise-shot-combat/",
+  "source_name": "Feat: Precise Shot (Combat)",
+  "sections": [
+    {
+      "id": "precise_shot_combat",
+      "title": "Precise Shot",
+      "anchor_heading": "# Precise Shot (Combat)",
+      "description": "Complete rules for the feat Precise Shot, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

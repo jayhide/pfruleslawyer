@@ -1,0 +1,15 @@
+{
+  "file": "spectrum-sight.md",
+  "source_path": "https://www.d20pfsrd.com/feats/general-feats/spectrum-sight/",
+  "source_name": "Feat: Spectrum Sight",
+  "sections": [
+    {
+      "id": "spectrum_sight",
+      "title": "Spectrum Sight",
+      "anchor_heading": "# Spectrum Sight",
+      "description": "Complete rules for the feat Spectrum Sight, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

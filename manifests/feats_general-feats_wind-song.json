@@ -1,0 +1,15 @@
+{
+  "file": "wind-song.md",
+  "source_path": "https://www.d20pfsrd.com/feats/general-feats/wind-song/",
+  "source_name": "Feat: Wind Song",
+  "sections": [
+    {
+      "id": "wind_song",
+      "title": "Wind Song",
+      "anchor_heading": "# Wind Song",
+      "description": "Complete rules for the feat Wind Song, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

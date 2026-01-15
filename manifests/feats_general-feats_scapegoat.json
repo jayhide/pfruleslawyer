@@ -1,0 +1,15 @@
+{
+  "file": "scapegoat.md",
+  "source_path": "https://www.d20pfsrd.com/feats/general-feats/scapegoat/",
+  "source_name": "Feat: Scapegoat",
+  "sections": [
+    {
+      "id": "scapegoat",
+      "title": "Scapegoat",
+      "anchor_heading": "# Scapegoat",
+      "description": "Complete rules for the feat Scapegoat, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

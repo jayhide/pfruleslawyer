@@ -1,0 +1,15 @@
+{
+  "file": "bestow-luck.md",
+  "source_path": "https://www.d20pfsrd.com/feats/racial-feats/bestow-luck/",
+  "source_name": "Feat: Bestow Luck (Human)",
+  "sections": [
+    {
+      "id": "bestow_luck",
+      "title": "Bestow Luck",
+      "anchor_heading": "# Bestow Luck (Human)",
+      "description": "Complete rules for the feat Bestow Luck, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

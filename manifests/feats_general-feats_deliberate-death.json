@@ -1,0 +1,15 @@
+{
+  "file": "deliberate-death.md",
+  "source_path": "https://www.d20pfsrd.com/feats/general-feats/deliberate-death/",
+  "source_name": "Feat: Deliberate Death",
+  "sections": [
+    {
+      "id": "deliberate_death",
+      "title": "Deliberate Death",
+      "anchor_heading": "# Deliberate Death",
+      "description": "Complete rules for the feat Deliberate Death, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

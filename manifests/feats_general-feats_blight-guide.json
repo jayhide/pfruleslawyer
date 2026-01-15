@@ -1,0 +1,15 @@
+{
+  "file": "blight-guide.md",
+  "source_path": "https://www.d20pfsrd.com/feats/general-feats/blight-guide/",
+  "source_name": "Feat: Blight Guide",
+  "sections": [
+    {
+      "id": "blight_guide",
+      "title": "Blight Guide",
+      "anchor_heading": "# Blight Guide",
+      "description": "Complete rules for the feat Blight Guide, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

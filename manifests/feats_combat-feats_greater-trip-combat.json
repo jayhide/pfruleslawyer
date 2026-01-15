@@ -1,0 +1,15 @@
+{
+  "file": "greater-trip-combat.md",
+  "source_path": "https://www.d20pfsrd.com/feats/combat-feats/greater-trip-combat/",
+  "source_name": "Feat: Greater Trip (Combat)",
+  "sections": [
+    {
+      "id": "greater_trip_combat",
+      "title": "Greater Trip",
+      "anchor_heading": "# Greater Trip (Combat)",
+      "description": "Complete rules for the feat Greater Trip, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

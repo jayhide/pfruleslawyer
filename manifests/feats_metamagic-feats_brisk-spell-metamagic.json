@@ -1,0 +1,15 @@
+{
+  "file": "brisk-spell-metamagic.md",
+  "source_path": "https://www.d20pfsrd.com/feats/metamagic-feats/brisk-spell-metamagic/",
+  "source_name": "Feat: Brisk Spell (Metamagic)",
+  "sections": [
+    {
+      "id": "brisk_spell_metamagic",
+      "title": "Brisk Spell",
+      "anchor_heading": "# Brisk Spell (Metamagic)",
+      "description": "Complete rules for the feat Brisk Spell, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

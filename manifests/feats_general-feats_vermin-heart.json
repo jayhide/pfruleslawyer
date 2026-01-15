@@ -1,0 +1,15 @@
+{
+  "file": "vermin-heart.md",
+  "source_path": "https://www.d20pfsrd.com/feats/general-feats/vermin-heart/",
+  "source_name": "Feat: Vermin Heart",
+  "sections": [
+    {
+      "id": "vermin_heart",
+      "title": "Vermin Heart",
+      "anchor_heading": "# Vermin Heart",
+      "description": "Complete rules for the feat Vermin Heart, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

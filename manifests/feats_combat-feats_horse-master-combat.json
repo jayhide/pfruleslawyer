@@ -1,0 +1,15 @@
+{
+  "file": "horse-master-combat.md",
+  "source_path": "https://www.d20pfsrd.com/feats/combat-feats/horse-master-combat/",
+  "source_name": "Feat: Horse Master (Combat)",
+  "sections": [
+    {
+      "id": "horse_master_combat",
+      "title": "Horse Master",
+      "anchor_heading": "# Horse Master (Combat)",
+      "description": "Complete rules for the feat Horse Master, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

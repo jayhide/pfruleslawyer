@@ -1,0 +1,15 @@
+{
+  "file": "extra-bane.md",
+  "source_path": "https://www.d20pfsrd.com/feats/general-feats/extra-bane/",
+  "source_name": "Feat: Extra Bane",
+  "sections": [
+    {
+      "id": "extra_bane",
+      "title": "Extra Bane",
+      "anchor_heading": "# Extra Bane",
+      "description": "Complete rules for the feat Extra Bane, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

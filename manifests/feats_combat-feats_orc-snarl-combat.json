@@ -1,0 +1,15 @@
+{
+  "file": "orc-snarl-combat.md",
+  "source_path": "https://www.d20pfsrd.com/feats/combat-feats/orc-snarl-combat/",
+  "source_name": "Feat: Orc Snarl (Combat)",
+  "sections": [
+    {
+      "id": "orc_snarl_combat",
+      "title": "Orc Snarl",
+      "anchor_heading": "# Orc Snarl (Combat)",
+      "description": "Complete rules for the feat Orc Snarl, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

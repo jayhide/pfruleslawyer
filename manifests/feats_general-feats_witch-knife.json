@@ -1,0 +1,15 @@
+{
+  "file": "witch-knife.md",
+  "source_path": "https://www.d20pfsrd.com/feats/general-feats/witch-knife/",
+  "source_name": "Feat: Witch Knife",
+  "sections": [
+    {
+      "id": "witch_knife",
+      "title": "Witch Knife",
+      "anchor_heading": "# Witch Knife",
+      "description": "Complete rules for the feat Witch Knife, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

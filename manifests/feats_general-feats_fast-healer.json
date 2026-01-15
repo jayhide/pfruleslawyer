@@ -1,0 +1,15 @@
+{
+  "file": "fast-healer.md",
+  "source_path": "https://www.d20pfsrd.com/feats/general-feats/fast-healer/",
+  "source_name": "Feat: Fast Healer",
+  "sections": [
+    {
+      "id": "fast_healer",
+      "title": "Fast Healer",
+      "anchor_heading": "# Fast Healer",
+      "description": "Complete rules for the feat Fast Healer, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

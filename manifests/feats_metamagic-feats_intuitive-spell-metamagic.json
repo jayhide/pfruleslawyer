@@ -1,0 +1,15 @@
+{
+  "file": "intuitive-spell-metamagic.md",
+  "source_path": "https://www.d20pfsrd.com/feats/metamagic-feats/intuitive-spell-metamagic/",
+  "source_name": "Feat: Intuitive Spell (Metamagic)",
+  "sections": [
+    {
+      "id": "intuitive_spell_metamagic",
+      "title": "Intuitive Spell",
+      "anchor_heading": "# Intuitive Spell (Metamagic)",
+      "description": "Complete rules for the feat Intuitive Spell, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

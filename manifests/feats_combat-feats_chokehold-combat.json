@@ -1,0 +1,15 @@
+{
+  "file": "chokehold-combat.md",
+  "source_path": "https://www.d20pfsrd.com/feats/combat-feats/chokehold-combat/",
+  "source_name": "Feat: Chokehold (Combat)",
+  "sections": [
+    {
+      "id": "chokehold_combat",
+      "title": "Chokehold",
+      "anchor_heading": "# Chokehold (Combat)",
+      "description": "Complete rules for the feat Chokehold, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

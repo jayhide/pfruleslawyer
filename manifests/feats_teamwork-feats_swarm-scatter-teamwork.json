@@ -1,0 +1,15 @@
+{
+  "file": "swarm-scatter-teamwork.md",
+  "source_path": "https://www.d20pfsrd.com/feats/teamwork-feats/swarm-scatter-teamwork/",
+  "source_name": "Feat: Swarm Scatter (Teamwork)",
+  "sections": [
+    {
+      "id": "swarm_scatter_teamwork",
+      "title": "Swarm Scatter",
+      "anchor_heading": "# Swarm Scatter (Teamwork)",
+      "description": "Complete rules for the feat Swarm Scatter, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

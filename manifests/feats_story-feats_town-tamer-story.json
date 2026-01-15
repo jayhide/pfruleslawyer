@@ -1,0 +1,15 @@
+{
+  "file": "town-tamer-story.md",
+  "source_path": "https://www.d20pfsrd.com/feats/story-feats/town-tamer-story/",
+  "source_name": "Feat: Town Tamer (Story)",
+  "sections": [
+    {
+      "id": "town_tamer_story",
+      "title": "Town Tamer",
+      "anchor_heading": "# Town Tamer (Story)",
+      "description": "Complete rules for the feat Town Tamer, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

@@ -1,0 +1,15 @@
+{
+  "file": "tail-weapon-combat.md",
+  "source_path": "https://www.d20pfsrd.com/feats/combat-feats/tail-weapon-combat/",
+  "source_name": "Feat: Tail Weapon (Combat)",
+  "sections": [
+    {
+      "id": "tail_weapon_combat",
+      "title": "Tail Weapon",
+      "anchor_heading": "# Tail Weapon (Combat)",
+      "description": "Complete rules for the feat Tail Weapon, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

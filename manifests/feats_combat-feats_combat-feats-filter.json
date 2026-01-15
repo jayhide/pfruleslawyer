@@ -1,0 +1,15 @@
+{
+  "file": "combat-feats-filter.md",
+  "source_path": "https://www.d20pfsrd.com/feats/combat-feats/combat-feats-filter/",
+  "source_name": "Feat: Combat Feats (Filter)",
+  "sections": [
+    {
+      "id": "combat_feats_filter",
+      "title": "Combat Feats",
+      "anchor_heading": "# Combat Feats (Filter)",
+      "description": "Complete rules for the feat Combat Feats, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

@@ -1,0 +1,15 @@
+{
+  "file": "additional-traits.md",
+  "source_path": "https://www.d20pfsrd.com/feats/general-feats/additional-traits/",
+  "source_name": "Feat: Additional Traits",
+  "sections": [
+    {
+      "id": "additional_traits",
+      "title": "Additional Traits",
+      "anchor_heading": "# Additional Traits",
+      "description": "Complete rules for the feat Additional Traits, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

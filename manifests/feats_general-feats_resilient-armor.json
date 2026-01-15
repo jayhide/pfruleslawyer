@@ -1,0 +1,15 @@
+{
+  "file": "resilient-armor.md",
+  "source_path": "https://www.d20pfsrd.com/feats/general-feats/resilient-armor/",
+  "source_name": "Feat: Resilient Armor",
+  "sections": [
+    {
+      "id": "resilient_armor",
+      "title": "Resilient Armor",
+      "anchor_heading": "# Resilient Armor",
+      "description": "Complete rules for the feat Resilient Armor, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

@@ -1,0 +1,15 @@
+{
+  "file": "vast-spell-metamagic.md",
+  "source_path": "https://www.d20pfsrd.com/feats/metamagic-feats/vast-spell-metamagic/",
+  "source_name": "Feat: Vast Spell (Metamagic)",
+  "sections": [
+    {
+      "id": "vast_spell_metamagic",
+      "title": "Vast Spell",
+      "anchor_heading": "# Vast Spell (Metamagic)",
+      "description": "Complete rules for the feat Vast Spell, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

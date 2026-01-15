@@ -1,0 +1,15 @@
+{
+  "file": "lengthy-potion.md",
+  "source_path": "https://www.d20pfsrd.com/feats/general-feats/lengthy-potion/",
+  "source_name": "Feat: Lengthy Potion",
+  "sections": [
+    {
+      "id": "lengthy_potion",
+      "title": "Lengthy Potion",
+      "anchor_heading": "# Lengthy Potion",
+      "description": "Complete rules for the feat Lengthy Potion, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

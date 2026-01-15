@@ -1,0 +1,15 @@
+{
+  "file": "cunning.md",
+  "source_path": "https://www.d20pfsrd.com/feats/general-feats/cunning/",
+  "source_name": "Feat: Cunning",
+  "sections": [
+    {
+      "id": "cunning",
+      "title": "Cunning",
+      "anchor_heading": "# Cunning",
+      "description": "Complete rules for the feat Cunning, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

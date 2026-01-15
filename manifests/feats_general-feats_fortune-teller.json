@@ -1,0 +1,15 @@
+{
+  "file": "fortune-teller.md",
+  "source_path": "https://www.d20pfsrd.com/feats/general-feats/fortune-teller/",
+  "source_name": "Feat: Fortune Teller",
+  "sections": [
+    {
+      "id": "fortune_teller",
+      "title": "Fortune Teller",
+      "anchor_heading": "# Fortune Teller",
+      "description": "Complete rules for the feat Fortune Teller, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

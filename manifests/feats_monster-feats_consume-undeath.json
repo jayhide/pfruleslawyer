@@ -1,0 +1,15 @@
+{
+  "file": "consume-undeath.md",
+  "source_path": "https://www.d20pfsrd.com/feats/monster-feats/consume-undeath/",
+  "source_name": "Feat: Consume Undeath",
+  "sections": [
+    {
+      "id": "consume_undeath",
+      "title": "Consume Undeath",
+      "anchor_heading": "# Consume Undeath",
+      "description": "Complete rules for the feat Consume Undeath, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

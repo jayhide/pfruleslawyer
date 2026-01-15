@@ -1,0 +1,15 @@
+{
+  "file": "locked-will-technique.md",
+  "source_path": "https://www.d20pfsrd.com/feats/general-feats/locked-will-technique/",
+  "source_name": "Feat: Locked Will (Technique)",
+  "sections": [
+    {
+      "id": "locked_will_technique",
+      "title": "Locked Will",
+      "anchor_heading": "# Locked Will (Technique)",
+      "description": "Complete rules for the feat Locked Will, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

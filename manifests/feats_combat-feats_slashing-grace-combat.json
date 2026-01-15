@@ -1,0 +1,15 @@
+{
+  "file": "slashing-grace-combat.md",
+  "source_path": "https://www.d20pfsrd.com/feats/combat-feats/slashing-grace-combat/",
+  "source_name": "Feat: Slashing Grace (Combat)",
+  "sections": [
+    {
+      "id": "slashing_grace_combat",
+      "title": "Slashing Grace",
+      "anchor_heading": "# Slashing Grace (Combat)",
+      "description": "Complete rules for the feat Slashing Grace, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

@@ -1,0 +1,15 @@
+{
+  "file": "greater-spell-specialization.md",
+  "source_path": "https://www.d20pfsrd.com/feats/general-feats/greater-spell-specialization/",
+  "source_name": "Feat: Greater Spell Specialization",
+  "sections": [
+    {
+      "id": "greater_spell_specialization",
+      "title": "Greater Spell Specialization",
+      "anchor_heading": "# Greater Spell Specialization",
+      "description": "Complete rules for the feat Greater Spell Specialization, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

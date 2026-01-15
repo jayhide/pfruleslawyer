@@ -1,0 +1,15 @@
+{
+  "file": "heroic-leader-combat.md",
+  "source_path": "https://www.d20pfsrd.com/feats/combat-feats/heroic-leader-combat/",
+  "source_name": "Feat: Heroic Leader (Combat)",
+  "sections": [
+    {
+      "id": "heroic_leader_combat",
+      "title": "Heroic Leader",
+      "anchor_heading": "# Heroic Leader (Combat)",
+      "description": "Complete rules for the feat Heroic Leader, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

@@ -1,0 +1,15 @@
+{
+  "file": "body-shield-combat.md",
+  "source_path": "https://www.d20pfsrd.com/feats/combat-feats/body-shield-combat/",
+  "source_name": "Feat: Body Shield (Combat)",
+  "sections": [
+    {
+      "id": "body_shield_combat",
+      "title": "Body Shield",
+      "anchor_heading": "# Body Shield (Combat)",
+      "description": "Complete rules for the feat Body Shield, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

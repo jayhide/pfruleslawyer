@@ -1,0 +1,15 @@
+{
+  "file": "torch-handling.md",
+  "source_path": "https://www.d20pfsrd.com/feats/general-feats/torch-handling/",
+  "source_name": "Feat: Torch Handling",
+  "sections": [
+    {
+      "id": "torch_handling",
+      "title": "Torch Handling",
+      "anchor_heading": "# Torch Handling",
+      "description": "Complete rules for the feat Torch Handling, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

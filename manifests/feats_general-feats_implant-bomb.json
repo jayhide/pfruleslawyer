@@ -1,0 +1,15 @@
+{
+  "file": "implant-bomb.md",
+  "source_path": "https://www.d20pfsrd.com/feats/general-feats/implant-bomb/",
+  "source_name": "Feat: Implant Bomb",
+  "sections": [
+    {
+      "id": "implant_bomb",
+      "title": "Implant Bomb",
+      "anchor_heading": "# Implant Bomb",
+      "description": "Complete rules for the feat Implant Bomb, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

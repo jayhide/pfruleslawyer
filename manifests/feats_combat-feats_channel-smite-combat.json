@@ -1,0 +1,15 @@
+{
+  "file": "channel-smite-combat.md",
+  "source_path": "https://www.d20pfsrd.com/feats/combat-feats/channel-smite-combat/",
+  "source_name": "Feat: Channel Smite (Combat)",
+  "sections": [
+    {
+      "id": "channel_smite_combat",
+      "title": "Channel Smite",
+      "anchor_heading": "# Channel Smite (Combat)",
+      "description": "Complete rules for the feat Channel Smite, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

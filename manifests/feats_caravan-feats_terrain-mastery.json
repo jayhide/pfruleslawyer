@@ -1,0 +1,15 @@
+{
+  "file": "terrain-mastery.md",
+  "source_path": "https://www.d20pfsrd.com/feats/caravan-feats/terrain-mastery/",
+  "source_name": "Feat: Terrain Mastery",
+  "sections": [
+    {
+      "id": "terrain_mastery",
+      "title": "Terrain Mastery",
+      "anchor_heading": "# Terrain Mastery",
+      "description": "Complete rules for the feat Terrain Mastery, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

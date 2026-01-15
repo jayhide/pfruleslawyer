@@ -1,0 +1,15 @@
+{
+  "file": "extra-focus-power.md",
+  "source_path": "https://www.d20pfsrd.com/feats/general-feats/extra-focus-power/",
+  "source_name": "Feat: Extra Focus Power",
+  "sections": [
+    {
+      "id": "extra_focus_power",
+      "title": "Extra Focus Power",
+      "anchor_heading": "# Extra Focus Power",
+      "description": "Complete rules for the feat Extra Focus Power, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

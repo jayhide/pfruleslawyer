@@ -1,0 +1,15 @@
+{
+  "file": "pack-tactics.md",
+  "source_path": "https://www.d20pfsrd.com/feats/general-feats/pack-tactics/",
+  "source_name": "Feat: Pack Tactics",
+  "sections": [
+    {
+      "id": "pack_tactics",
+      "title": "Pack Tactics",
+      "anchor_heading": "# Pack Tactics",
+      "description": "Complete rules for the feat Pack Tactics, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

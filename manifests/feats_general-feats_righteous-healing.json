@@ -1,0 +1,15 @@
+{
+  "file": "righteous-healing.md",
+  "source_path": "https://www.d20pfsrd.com/feats/general-feats/righteous-healing/",
+  "source_name": "Feat: Righteous Healing",
+  "sections": [
+    {
+      "id": "righteous_healing",
+      "title": "Righteous Healing",
+      "anchor_heading": "# Righteous Healing",
+      "description": "Complete rules for the feat Righteous Healing, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

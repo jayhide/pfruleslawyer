@@ -1,0 +1,15 @@
+{
+  "file": "energy-channel.md",
+  "source_path": "https://www.d20pfsrd.com/feats/general-feats/energy-channel/",
+  "source_name": "Feat: Energy Channel",
+  "sections": [
+    {
+      "id": "energy_channel",
+      "title": "Energy Channel",
+      "anchor_heading": "# Energy Channel",
+      "description": "Complete rules for the feat Energy Channel, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

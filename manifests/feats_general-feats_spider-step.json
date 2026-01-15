@@ -1,0 +1,15 @@
+{
+  "file": "spider-step.md",
+  "source_path": "https://www.d20pfsrd.com/feats/general-feats/spider-step/",
+  "source_name": "Feat: Spider Step",
+  "sections": [
+    {
+      "id": "spider_step",
+      "title": "Spider Step",
+      "anchor_heading": "# Spider Step",
+      "description": "Complete rules for the feat Spider Step, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

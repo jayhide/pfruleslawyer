@@ -1,0 +1,15 @@
+{
+  "file": "combat-advice.md",
+  "source_path": "https://www.d20pfsrd.com/feats/general-feats/combat-advice/",
+  "source_name": "Feat: Combat Advice",
+  "sections": [
+    {
+      "id": "combat_advice",
+      "title": "Combat Advice",
+      "anchor_heading": "# Combat Advice",
+      "description": "Complete rules for the feat Combat Advice, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

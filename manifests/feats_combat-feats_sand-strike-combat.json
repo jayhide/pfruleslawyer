@@ -1,0 +1,15 @@
+{
+  "file": "sand-strike-combat.md",
+  "source_path": "https://www.d20pfsrd.com/feats/combat-feats/sand-strike-combat/",
+  "source_name": "Feat: Sand Strike (Combat)",
+  "sections": [
+    {
+      "id": "sand_strike_combat",
+      "title": "Sand Strike",
+      "anchor_heading": "# Sand Strike (Combat)",
+      "description": "Complete rules for the feat Sand Strike, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

@@ -1,0 +1,15 @@
+{
+  "file": "ascendant-story.md",
+  "source_path": "https://www.d20pfsrd.com/feats/story-feats/ascendant-story/",
+  "source_name": "Feat: Ascendant (Story)",
+  "sections": [
+    {
+      "id": "ascendant_story",
+      "title": "Ascendant",
+      "anchor_heading": "# Ascendant (Story)",
+      "description": "Complete rules for the feat Ascendant, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

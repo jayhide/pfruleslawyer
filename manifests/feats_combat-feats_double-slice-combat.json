@@ -1,0 +1,15 @@
+{
+  "file": "double-slice-combat.md",
+  "source_path": "https://www.d20pfsrd.com/feats/combat-feats/double-slice-combat/",
+  "source_name": "Feat: Double Slice (Combat)",
+  "sections": [
+    {
+      "id": "double_slice_combat",
+      "title": "Double Slice",
+      "anchor_heading": "# Double Slice (Combat)",
+      "description": "Complete rules for the feat Double Slice, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

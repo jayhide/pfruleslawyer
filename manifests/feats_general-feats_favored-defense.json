@@ -1,0 +1,15 @@
+{
+  "file": "favored-defense.md",
+  "source_path": "https://www.d20pfsrd.com/feats/general-feats/favored-defense/",
+  "source_name": "Feat: Favored Defense",
+  "sections": [
+    {
+      "id": "favored_defense",
+      "title": "Favored Defense",
+      "anchor_heading": "# Favored Defense",
+      "description": "Complete rules for the feat Favored Defense, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

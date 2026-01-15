@@ -1,0 +1,15 @@
+{
+  "file": "expert-travelers.md",
+  "source_path": "https://www.d20pfsrd.com/feats/caravan-feats/expert-travelers/",
+  "source_name": "Feat: Expert Travelers",
+  "sections": [
+    {
+      "id": "expert_travelers",
+      "title": "Expert Travelers",
+      "anchor_heading": "# Expert Travelers",
+      "description": "Complete rules for the feat Expert Travelers, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

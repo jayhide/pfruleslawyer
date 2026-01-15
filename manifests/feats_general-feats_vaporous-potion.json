@@ -1,0 +1,15 @@
+{
+  "file": "vaporous-potion.md",
+  "source_path": "https://www.d20pfsrd.com/feats/general-feats/vaporous-potion/",
+  "source_name": "Feat: Vaporous Potion",
+  "sections": [
+    {
+      "id": "vaporous_potion",
+      "title": "Vaporous Potion",
+      "anchor_heading": "# Vaporous Potion",
+      "description": "Complete rules for the feat Vaporous Potion, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

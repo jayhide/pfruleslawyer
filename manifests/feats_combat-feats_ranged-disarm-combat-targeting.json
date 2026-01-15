@@ -1,0 +1,15 @@
+{
+  "file": "ranged-disarm-combat-targeting.md",
+  "source_path": "https://www.d20pfsrd.com/feats/combat-feats/ranged-disarm-combat-targeting/",
+  "source_name": "Feat: Ranged Disarm (Combat, Targeting)",
+  "sections": [
+    {
+      "id": "ranged_disarm_combat_targeting",
+      "title": "Ranged Disarm",
+      "anchor_heading": "# Ranged Disarm (Combat, Targeting)",
+      "description": "Complete rules for the feat Ranged Disarm, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

@@ -1,0 +1,15 @@
+{
+  "file": "chilled-rock.md",
+  "source_path": "https://www.d20pfsrd.com/feats/general-feats/chilled-rock/",
+  "source_name": "Feat: Chilled Rock",
+  "sections": [
+    {
+      "id": "chilled_rock",
+      "title": "Chilled Rock",
+      "anchor_heading": "# Chilled Rock",
+      "description": "Complete rules for the feat Chilled Rock, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

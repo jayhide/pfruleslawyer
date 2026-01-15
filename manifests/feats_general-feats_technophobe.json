@@ -1,0 +1,15 @@
+{
+  "file": "technophobe.md",
+  "source_path": "https://www.d20pfsrd.com/feats/general-feats/technophobe/",
+  "source_name": "Feat: Technophobe",
+  "sections": [
+    {
+      "id": "technophobe",
+      "title": "Technophobe",
+      "anchor_heading": "# Technophobe",
+      "description": "Complete rules for the feat Technophobe, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

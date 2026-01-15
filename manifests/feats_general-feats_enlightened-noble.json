@@ -1,0 +1,15 @@
+{
+  "file": "enlightened-noble.md",
+  "source_path": "https://www.d20pfsrd.com/feats/general-feats/enlightened-noble/",
+  "source_name": "Feat: Enlightened Noble",
+  "sections": [
+    {
+      "id": "enlightened_noble",
+      "title": "Enlightened Noble",
+      "anchor_heading": "# Enlightened Noble",
+      "description": "Complete rules for the feat Enlightened Noble, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

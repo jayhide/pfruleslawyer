@@ -1,0 +1,15 @@
+{
+  "file": "stone-soul.md",
+  "source_path": "https://www.d20pfsrd.com/feats/monster-feats/stone-soul/",
+  "source_name": "Feat: Stone Soul",
+  "sections": [
+    {
+      "id": "stone_soul",
+      "title": "Stone Soul",
+      "anchor_heading": "# Stone Soul",
+      "description": "Complete rules for the feat Stone Soul, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

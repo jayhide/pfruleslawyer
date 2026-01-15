@@ -1,0 +1,15 @@
+{
+  "file": "empath.md",
+  "source_path": "https://www.d20pfsrd.com/feats/general-feats/empath/",
+  "source_name": "Feat: Empath",
+  "sections": [
+    {
+      "id": "empath",
+      "title": "Empath",
+      "anchor_heading": "# Empath",
+      "description": "Complete rules for the feat Empath, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

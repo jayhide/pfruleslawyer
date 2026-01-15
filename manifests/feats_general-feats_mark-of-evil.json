@@ -1,0 +1,15 @@
+{
+  "file": "mark-of-evil.md",
+  "source_path": "https://www.d20pfsrd.com/feats/general-feats/mark-of-evil/",
+  "source_name": "Feat: Mark of Evil",
+  "sections": [
+    {
+      "id": "mark_of_evil",
+      "title": "Mark of Evil",
+      "anchor_heading": "# Mark of Evil",
+      "description": "Complete rules for the feat Mark of Evil, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

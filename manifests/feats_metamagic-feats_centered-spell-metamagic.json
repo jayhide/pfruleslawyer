@@ -1,0 +1,15 @@
+{
+  "file": "centered-spell-metamagic.md",
+  "source_path": "https://www.d20pfsrd.com/feats/metamagic-feats/centered-spell-metamagic/",
+  "source_name": "Feat: Centered Spell (Metamagic)",
+  "sections": [
+    {
+      "id": "centered_spell_metamagic",
+      "title": "Centered Spell",
+      "anchor_heading": "# Centered Spell (Metamagic)",
+      "description": "Complete rules for the feat Centered Spell, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

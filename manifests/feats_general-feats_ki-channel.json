@@ -1,0 +1,15 @@
+{
+  "file": "ki-channel.md",
+  "source_path": "https://www.d20pfsrd.com/feats/general-feats/ki-channel/",
+  "source_name": "Feat: Ki Channel",
+  "sections": [
+    {
+      "id": "ki_channel",
+      "title": "Ki Channel",
+      "anchor_heading": "# Ki Channel",
+      "description": "Complete rules for the feat Ki Channel, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

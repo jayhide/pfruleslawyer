@@ -1,0 +1,15 @@
+{
+  "file": "blade-binder-combat.md",
+  "source_path": "https://www.d20pfsrd.com/feats/combat-feats/blade-binder-combat/",
+  "source_name": "Feat: Blade Binder (Combat)",
+  "sections": [
+    {
+      "id": "blade_binder_combat",
+      "title": "Blade Binder",
+      "anchor_heading": "# Blade Binder (Combat)",
+      "description": "Complete rules for the feat Blade Binder, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

@@ -1,0 +1,15 @@
+{
+  "file": "elephant-stomp-combat.md",
+  "source_path": "https://www.d20pfsrd.com/feats/combat-feats/elephant-stomp-combat/",
+  "source_name": "Feat: Elephant Stomp (Combat)",
+  "sections": [
+    {
+      "id": "elephant_stomp_combat",
+      "title": "Elephant Stomp",
+      "anchor_heading": "# Elephant Stomp (Combat)",
+      "description": "Complete rules for the feat Elephant Stomp, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

@@ -1,0 +1,15 @@
+{
+  "file": "solo-maneuvers-combat.md",
+  "source_path": "https://www.d20pfsrd.com/feats/combat-feats/solo-maneuvers-combat/",
+  "source_name": "Feat: Solo Maneuvers (Combat)",
+  "sections": [
+    {
+      "id": "solo_maneuvers_combat",
+      "title": "Solo Maneuvers",
+      "anchor_heading": "# Solo Maneuvers (Combat)",
+      "description": "Complete rules for the feat Solo Maneuvers, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

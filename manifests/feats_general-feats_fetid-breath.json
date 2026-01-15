@@ -1,0 +1,15 @@
+{
+  "file": "fetid-breath.md",
+  "source_path": "https://www.d20pfsrd.com/feats/general-feats/fetid-breath/",
+  "source_name": "Feat: Fetid Breath",
+  "sections": [
+    {
+      "id": "fetid_breath",
+      "title": "Fetid Breath",
+      "anchor_heading": "# Fetid Breath",
+      "description": "Complete rules for the feat Fetid Breath, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

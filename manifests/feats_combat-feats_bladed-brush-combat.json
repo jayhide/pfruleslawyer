@@ -1,0 +1,15 @@
+{
+  "file": "bladed-brush-combat.md",
+  "source_path": "https://www.d20pfsrd.com/feats/combat-feats/bladed-brush-combat/",
+  "source_name": "Feat: Bladed Brush (Combat)",
+  "sections": [
+    {
+      "id": "bladed_brush_combat",
+      "title": "Bladed Brush",
+      "anchor_heading": "# Bladed Brush (Combat)",
+      "description": "Complete rules for the feat Bladed Brush, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

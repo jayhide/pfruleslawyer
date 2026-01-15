@@ -1,0 +1,15 @@
+{
+  "file": "ogre-crush.md",
+  "source_path": "https://www.d20pfsrd.com/feats/general-feats/ogre-crush/",
+  "source_name": "Feat: Ogre Crush",
+  "sections": [
+    {
+      "id": "ogre_crush",
+      "title": "Ogre Crush",
+      "anchor_heading": "# Ogre Crush",
+      "description": "Complete rules for the feat Ogre Crush, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

@@ -1,0 +1,15 @@
+{
+  "file": "feign-curse.md",
+  "source_path": "https://www.d20pfsrd.com/feats/general-feats/feign-curse/",
+  "source_name": "Feat: Feign Curse",
+  "sections": [
+    {
+      "id": "feign_curse",
+      "title": "Feign Curse",
+      "anchor_heading": "# Feign Curse",
+      "description": "Complete rules for the feat Feign Curse, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

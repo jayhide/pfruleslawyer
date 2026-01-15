@@ -1,0 +1,15 @@
+{
+  "file": "extended-animal-focus.md",
+  "source_path": "https://www.d20pfsrd.com/feats/general-feats/extended-animal-focus/",
+  "source_name": "Feat: Extended Animal Focus",
+  "sections": [
+    {
+      "id": "extended_animal_focus",
+      "title": "Extended Animal Focus",
+      "anchor_heading": "# Extended Animal Focus",
+      "description": "Complete rules for the feat Extended Animal Focus, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

@@ -1,0 +1,15 @@
+{
+  "file": "beast-speaker.md",
+  "source_path": "https://www.d20pfsrd.com/feats/general-feats/beast-speaker/",
+  "source_name": "Feat: Beast Speaker",
+  "sections": [
+    {
+      "id": "beast_speaker",
+      "title": "Beast Speaker",
+      "anchor_heading": "# Beast Speaker",
+      "description": "Complete rules for the feat Beast Speaker, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

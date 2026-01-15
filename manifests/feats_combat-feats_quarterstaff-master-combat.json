@@ -1,0 +1,15 @@
+{
+  "file": "quarterstaff-master-combat.md",
+  "source_path": "https://www.d20pfsrd.com/feats/combat-feats/quarterstaff-master-combat/",
+  "source_name": "Feat: Quarterstaff Master (Combat)",
+  "sections": [
+    {
+      "id": "quarterstaff_master_combat",
+      "title": "Quarterstaff Master",
+      "anchor_heading": "# Quarterstaff Master (Combat)",
+      "description": "Complete rules for the feat Quarterstaff Master, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

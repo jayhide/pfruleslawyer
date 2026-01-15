@@ -1,0 +1,15 @@
+{
+  "file": "necromantic-affinity.md",
+  "source_path": "https://www.d20pfsrd.com/feats/general-feats/necromantic-affinity/",
+  "source_name": "Feat: Necromantic Affinity",
+  "sections": [
+    {
+      "id": "necromantic_affinity",
+      "title": "Necromantic Affinity",
+      "anchor_heading": "# Necromantic Affinity",
+      "description": "Complete rules for the feat Necromantic Affinity, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

@@ -1,0 +1,15 @@
+{
+  "file": "possess-creature.md",
+  "source_path": "https://www.d20pfsrd.com/feats/monster-feats/possess-creature/",
+  "source_name": "Feat: Possess Creature",
+  "sections": [
+    {
+      "id": "possess_creature",
+      "title": "Possess Creature",
+      "anchor_heading": "# Possess Creature",
+      "description": "Complete rules for the feat Possess Creature, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

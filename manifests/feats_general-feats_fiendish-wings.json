@@ -1,0 +1,15 @@
+{
+  "file": "fiendish-wings.md",
+  "source_path": "https://www.d20pfsrd.com/feats/general-feats/fiendish-wings/",
+  "source_name": "Feat: Fiendish Wings",
+  "sections": [
+    {
+      "id": "fiendish_wings",
+      "title": "Fiendish Wings",
+      "anchor_heading": "# Fiendish Wings",
+      "description": "Complete rules for the feat Fiendish Wings, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

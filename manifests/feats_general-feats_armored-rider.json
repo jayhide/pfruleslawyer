@@ -1,0 +1,15 @@
+{
+  "file": "armored-rider.md",
+  "source_path": "https://www.d20pfsrd.com/feats/general-feats/armored-rider/",
+  "source_name": "Feat: Armored Rider",
+  "sections": [
+    {
+      "id": "armored_rider",
+      "title": "Armored Rider",
+      "anchor_heading": "# Armored Rider",
+      "description": "Complete rules for the feat Armored Rider, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

@@ -1,0 +1,15 @@
+{
+  "file": "researcher.md",
+  "source_path": "https://www.d20pfsrd.com/feats/general-feats/researcher/",
+  "source_name": "Feat: Researcher",
+  "sections": [
+    {
+      "id": "researcher",
+      "title": "Researcher",
+      "anchor_heading": "# Researcher",
+      "description": "Complete rules for the feat Researcher, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

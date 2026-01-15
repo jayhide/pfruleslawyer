@@ -1,0 +1,15 @@
+{
+  "file": "elemental-conversion.md",
+  "source_path": "https://www.d20pfsrd.com/feats/general-feats/elemental-conversion/",
+  "source_name": "Feat: Elemental Conversion",
+  "sections": [
+    {
+      "id": "elemental_conversion",
+      "title": "Elemental Conversion",
+      "anchor_heading": "# Elemental Conversion",
+      "description": "Complete rules for the feat Elemental Conversion, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

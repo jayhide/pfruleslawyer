@@ -1,0 +1,15 @@
+{
+  "file": "sword-and-pistol-combat.md",
+  "source_path": "https://www.d20pfsrd.com/feats/combat-feats/sword-and-pistol-combat/",
+  "source_name": "Feat: Sword and Pistol (Combat)",
+  "sections": [
+    {
+      "id": "sword_and_pistol_combat",
+      "title": "Sword and Pistol",
+      "anchor_heading": "# Sword and Pistol (Combat)",
+      "description": "Complete rules for the feat Sword and Pistol, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

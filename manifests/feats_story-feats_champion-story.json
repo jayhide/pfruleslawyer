@@ -1,0 +1,15 @@
+{
+  "file": "champion-story.md",
+  "source_path": "https://www.d20pfsrd.com/feats/story-feats/champion-story/",
+  "source_name": "Feat: Champion (Story)",
+  "sections": [
+    {
+      "id": "champion_story",
+      "title": "Champion",
+      "anchor_heading": "# Champion (Story)",
+      "description": "Complete rules for the feat Champion, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

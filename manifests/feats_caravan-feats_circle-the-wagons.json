@@ -1,0 +1,15 @@
+{
+  "file": "circle-the-wagons.md",
+  "source_path": "https://www.d20pfsrd.com/feats/caravan-feats/circle-the-wagons/",
+  "source_name": "Feat: Circle the Wagons",
+  "sections": [
+    {
+      "id": "circle_the_wagons",
+      "title": "Circle the Wagons",
+      "anchor_heading": "# Circle the Wagons",
+      "description": "Complete rules for the feat Circle the Wagons, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

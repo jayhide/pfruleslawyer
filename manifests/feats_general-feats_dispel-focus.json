@@ -1,0 +1,15 @@
+{
+  "file": "dispel-focus.md",
+  "source_path": "https://www.d20pfsrd.com/feats/general-feats/dispel-focus/",
+  "source_name": "Feat: Dispel Focus",
+  "sections": [
+    {
+      "id": "dispel_focus",
+      "title": "Dispel Focus",
+      "anchor_heading": "# Dispel Focus",
+      "description": "Complete rules for the feat Dispel Focus, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

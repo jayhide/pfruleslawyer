@@ -1,0 +1,15 @@
+{
+  "file": "logical-spell-metamagic.md",
+  "source_path": "https://www.d20pfsrd.com/feats/metamagic-feats/logical-spell-metamagic/",
+  "source_name": "Feat: Logical Spell (Metamagic)",
+  "sections": [
+    {
+      "id": "logical_spell_metamagic",
+      "title": "Logical Spell",
+      "anchor_heading": "# Logical Spell (Metamagic)",
+      "description": "Complete rules for the feat Logical Spell, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

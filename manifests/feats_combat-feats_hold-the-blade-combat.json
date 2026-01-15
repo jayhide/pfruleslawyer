@@ -1,0 +1,15 @@
+{
+  "file": "hold-the-blade-combat.md",
+  "source_path": "https://www.d20pfsrd.com/feats/combat-feats/hold-the-blade-combat/",
+  "source_name": "Feat: Hold the Blade (Combat)",
+  "sections": [
+    {
+      "id": "hold_the_blade_combat",
+      "title": "Hold the Blade",
+      "anchor_heading": "# Hold the Blade (Combat)",
+      "description": "Complete rules for the feat Hold the Blade, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

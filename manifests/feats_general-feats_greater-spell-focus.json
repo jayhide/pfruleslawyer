@@ -1,0 +1,15 @@
+{
+  "file": "greater-spell-focus.md",
+  "source_path": "https://www.d20pfsrd.com/feats/general-feats/greater-spell-focus/",
+  "source_name": "Feat: Greater Spell Focus",
+  "sections": [
+    {
+      "id": "greater_spell_focus",
+      "title": "Greater Spell Focus",
+      "anchor_heading": "# Greater Spell Focus",
+      "description": "Complete rules for the feat Greater Spell Focus, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

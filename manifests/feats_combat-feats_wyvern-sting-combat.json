@@ -1,0 +1,15 @@
+{
+  "file": "wyvern-sting-combat.md",
+  "source_path": "https://www.d20pfsrd.com/feats/combat-feats/wyvern-sting-combat/",
+  "source_name": "Feat: Wyvern Sting (Combat)",
+  "sections": [
+    {
+      "id": "wyvern_sting_combat",
+      "title": "Wyvern Sting",
+      "anchor_heading": "# Wyvern Sting (Combat)",
+      "description": "Complete rules for the feat Wyvern Sting, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

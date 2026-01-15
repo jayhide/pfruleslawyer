@@ -1,0 +1,15 @@
+{
+  "file": "diehard.md",
+  "source_path": "https://www.d20pfsrd.com/feats/general-feats/diehard/",
+  "source_name": "Feat: Diehard",
+  "sections": [
+    {
+      "id": "diehard",
+      "title": "Diehard",
+      "anchor_heading": "# Diehard",
+      "description": "Complete rules for the feat Diehard, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

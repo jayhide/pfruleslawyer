@@ -1,0 +1,15 @@
+{
+  "file": "verify.md",
+  "source_path": "https://www.d20pfsrd.com/feats/general-feats/verify/",
+  "source_name": "Feat: Verify",
+  "sections": [
+    {
+      "id": "verify",
+      "title": "Verify",
+      "anchor_heading": "# Verify",
+      "description": "Complete rules for the feat Verify, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

@@ -1,0 +1,15 @@
+{
+  "file": "large-target-combat.md",
+  "source_path": "https://www.d20pfsrd.com/feats/combat-feats/large-target-combat/",
+  "source_name": "Feat: Large Target (Combat)",
+  "sections": [
+    {
+      "id": "large_target_combat",
+      "title": "Large Target",
+      "anchor_heading": "# Large Target (Combat)",
+      "description": "Complete rules for the feat Large Target, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

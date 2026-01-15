@@ -1,0 +1,15 @@
+{
+  "file": "black-cat-catfolk.md",
+  "source_path": "https://www.d20pfsrd.com/feats/racial-feats/black-cat-catfolk/",
+  "source_name": "Feat: Black Cat (Catfolk)",
+  "sections": [
+    {
+      "id": "black_cat_catfolk",
+      "title": "Black Cat",
+      "anchor_heading": "# Black Cat (Catfolk)",
+      "description": "Complete rules for the feat Black Cat, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

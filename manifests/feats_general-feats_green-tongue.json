@@ -1,0 +1,15 @@
+{
+  "file": "green-tongue.md",
+  "source_path": "https://www.d20pfsrd.com/feats/general-feats/green-tongue/",
+  "source_name": "Feat: Green Tongue",
+  "sections": [
+    {
+      "id": "green_tongue",
+      "title": "Green Tongue",
+      "anchor_heading": "# Green Tongue",
+      "description": "Complete rules for the feat Green Tongue, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

@@ -1,0 +1,15 @@
+{
+  "file": "careful-flyer.md",
+  "source_path": "https://www.d20pfsrd.com/feats/general-feats/careful-flyer/",
+  "source_name": "Feat: Careful Flyer",
+  "sections": [
+    {
+      "id": "careful_flyer",
+      "title": "Careful Flyer",
+      "anchor_heading": "# Careful Flyer",
+      "description": "Complete rules for the feat Careful Flyer, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

@@ -1,0 +1,15 @@
+{
+  "file": "river-raider-combat.md",
+  "source_path": "https://www.d20pfsrd.com/feats/combat-feats/river-raider-combat/",
+  "source_name": "Feat: River Raider (Combat)",
+  "sections": [
+    {
+      "id": "river_raider_combat",
+      "title": "River Raider",
+      "anchor_heading": "# River Raider (Combat)",
+      "description": "Complete rules for the feat River Raider, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

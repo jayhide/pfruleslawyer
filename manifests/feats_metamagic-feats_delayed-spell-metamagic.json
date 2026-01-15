@@ -1,0 +1,15 @@
+{
+  "file": "delayed-spell-metamagic.md",
+  "source_path": "https://www.d20pfsrd.com/feats/metamagic-feats/delayed-spell-metamagic/",
+  "source_name": "Feat: Delayed Spell (Metamagic)",
+  "sections": [
+    {
+      "id": "delayed_spell_metamagic",
+      "title": "Delayed Spell",
+      "anchor_heading": "# Delayed Spell (Metamagic)",
+      "description": "Complete rules for the feat Delayed Spell, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

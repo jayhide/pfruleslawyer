@@ -1,0 +1,15 @@
+{
+  "file": "ledge-walker-dwarf.md",
+  "source_path": "https://www.d20pfsrd.com/feats/racial-feats/ledge-walker-dwarf/",
+  "source_name": "Feat: Ledge Walker (Dwarf)",
+  "sections": [
+    {
+      "id": "ledge_walker_dwarf",
+      "title": "Ledge Walker",
+      "anchor_heading": "# Ledge Walker (Dwarf)",
+      "description": "Complete rules for the feat Ledge Walker, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

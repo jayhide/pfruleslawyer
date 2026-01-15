@@ -1,0 +1,15 @@
+{
+  "file": "silent-spell-metamagic.md",
+  "source_path": "https://www.d20pfsrd.com/feats/metamagic-feats/silent-spell-metamagic/",
+  "source_name": "Feat: Silent Spell (Metamagic)",
+  "sections": [
+    {
+      "id": "silent_spell_metamagic",
+      "title": "Silent Spell",
+      "anchor_heading": "# Silent Spell (Metamagic)",
+      "description": "Complete rules for the feat Silent Spell, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

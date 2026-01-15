@@ -1,0 +1,15 @@
+{
+  "file": "favored-prestige-class.md",
+  "source_path": "https://www.d20pfsrd.com/feats/general-feats/favored-prestige-class/",
+  "source_name": "Feat: Favored Prestige Class",
+  "sections": [
+    {
+      "id": "favored_prestige_class",
+      "title": "Favored Prestige Class",
+      "anchor_heading": "# Favored Prestige Class",
+      "description": "Complete rules for the feat Favored Prestige Class, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

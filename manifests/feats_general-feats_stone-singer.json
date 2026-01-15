@@ -1,0 +1,15 @@
+{
+  "file": "stone-singer.md",
+  "source_path": "https://www.d20pfsrd.com/feats/general-feats/stone-singer/",
+  "source_name": "Feat: Stone Singer",
+  "sections": [
+    {
+      "id": "stone_singer",
+      "title": "Stone Singer",
+      "anchor_heading": "# Stone Singer",
+      "description": "Complete rules for the feat Stone Singer, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

@@ -1,0 +1,15 @@
+{
+  "file": "fey-foundling.md",
+  "source_path": "https://www.d20pfsrd.com/feats/general-feats/fey-foundling/",
+  "source_name": "Feat: Fey Foundling",
+  "sections": [
+    {
+      "id": "fey_foundling",
+      "title": "Fey Foundling",
+      "anchor_heading": "# Fey Foundling",
+      "description": "Complete rules for the feat Fey Foundling, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

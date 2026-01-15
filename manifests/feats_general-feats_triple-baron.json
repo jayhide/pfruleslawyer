@@ -1,0 +1,15 @@
+{
+  "file": "triple-baron.md",
+  "source_path": "https://www.d20pfsrd.com/feats/general-feats/triple-baron/",
+  "source_name": "Feat: Triple-Baron",
+  "sections": [
+    {
+      "id": "triple_baron",
+      "title": "Triple-Baron",
+      "anchor_heading": "# Triple-Baron",
+      "description": "Complete rules for the feat Triple-Baron, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

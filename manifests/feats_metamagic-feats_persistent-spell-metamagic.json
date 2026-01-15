@@ -1,0 +1,15 @@
+{
+  "file": "persistent-spell-metamagic.md",
+  "source_path": "https://www.d20pfsrd.com/feats/metamagic-feats/persistent-spell-metamagic/",
+  "source_name": "Feat: Persistent Spell (Metamagic)",
+  "sections": [
+    {
+      "id": "persistent_spell_metamagic",
+      "title": "Persistent Spell",
+      "anchor_heading": "# Persistent Spell (Metamagic)",
+      "description": "Complete rules for the feat Persistent Spell, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

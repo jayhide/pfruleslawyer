@@ -1,0 +1,15 @@
+{
+  "file": "pack-rat.md",
+  "source_path": "https://www.d20pfsrd.com/feats/general-feats/pack-rat/",
+  "source_name": "Feat: Pack Rat",
+  "sections": [
+    {
+      "id": "pack_rat",
+      "title": "Pack Rat",
+      "anchor_heading": "# Pack Rat",
+      "description": "Complete rules for the feat Pack Rat, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

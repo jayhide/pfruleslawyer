@@ -1,0 +1,15 @@
+{
+  "file": "toxic-recovery-dwarf.md",
+  "source_path": "https://www.d20pfsrd.com/feats/racial-feats/toxic-recovery-dwarf/",
+  "source_name": "Feat: Toxic Recovery (Dwarf)",
+  "sections": [
+    {
+      "id": "toxic_recovery_dwarf",
+      "title": "Toxic Recovery",
+      "anchor_heading": "# Toxic Recovery (Dwarf)",
+      "description": "Complete rules for the feat Toxic Recovery, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

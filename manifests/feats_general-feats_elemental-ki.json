@@ -1,0 +1,15 @@
+{
+  "file": "elemental-ki.md",
+  "source_path": "https://www.d20pfsrd.com/feats/general-feats/elemental-ki/",
+  "source_name": "Feat: Elemental Ki",
+  "sections": [
+    {
+      "id": "elemental_ki",
+      "title": "Elemental Ki",
+      "anchor_heading": "# Elemental Ki",
+      "description": "Complete rules for the feat Elemental Ki, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

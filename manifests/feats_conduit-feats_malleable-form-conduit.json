@@ -1,0 +1,15 @@
+{
+  "file": "malleable-form-conduit.md",
+  "source_path": "https://www.d20pfsrd.com/feats/conduit-feats/malleable-form-conduit/",
+  "source_name": "Feat: Malleable Form (Conduit)",
+  "sections": [
+    {
+      "id": "malleable_form_conduit",
+      "title": "Malleable Form",
+      "anchor_heading": "# Malleable Form (Conduit)",
+      "description": "Complete rules for the feat Malleable Form, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

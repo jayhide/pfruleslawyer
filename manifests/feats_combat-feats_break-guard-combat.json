@@ -1,0 +1,15 @@
+{
+  "file": "break-guard-combat.md",
+  "source_path": "https://www.d20pfsrd.com/feats/combat-feats/break-guard-combat/",
+  "source_name": "Feat: Break Guard (Combat)",
+  "sections": [
+    {
+      "id": "break_guard_combat",
+      "title": "Break Guard",
+      "anchor_heading": "# Break Guard (Combat)",
+      "description": "Complete rules for the feat Break Guard, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

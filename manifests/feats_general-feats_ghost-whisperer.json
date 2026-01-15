@@ -1,0 +1,15 @@
+{
+  "file": "ghost-whisperer.md",
+  "source_path": "https://www.d20pfsrd.com/feats/general-feats/ghost-whisperer/",
+  "source_name": "Feat: Ghost Whisperer",
+  "sections": [
+    {
+      "id": "ghost_whisperer",
+      "title": "Ghost Whisperer",
+      "anchor_heading": "# Ghost Whisperer",
+      "description": "Complete rules for the feat Ghost Whisperer, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

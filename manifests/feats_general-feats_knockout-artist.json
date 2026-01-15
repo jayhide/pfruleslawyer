@@ -1,0 +1,15 @@
+{
+  "file": "knockout-artist.md",
+  "source_path": "https://www.d20pfsrd.com/feats/general-feats/knockout-artist/",
+  "source_name": "Feat: Knockout Artist",
+  "sections": [
+    {
+      "id": "knockout_artist",
+      "title": "Knockout Artist",
+      "anchor_heading": "# Knockout Artist",
+      "description": "Complete rules for the feat Knockout Artist, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

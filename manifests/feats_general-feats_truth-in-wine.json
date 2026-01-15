@@ -1,0 +1,15 @@
+{
+  "file": "truth-in-wine.md",
+  "source_path": "https://www.d20pfsrd.com/feats/general-feats/truth-in-wine/",
+  "source_name": "Feat: Truth in Wine",
+  "sections": [
+    {
+      "id": "truth_in_wine",
+      "title": "Truth in Wine",
+      "anchor_heading": "# Truth in Wine",
+      "description": "Complete rules for the feat Truth in Wine, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

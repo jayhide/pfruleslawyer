@@ -1,0 +1,15 @@
+{
+  "file": "critical-feats.md",
+  "source_path": "https://www.d20pfsrd.com/feats/combat-feats/critical-feats/",
+  "source_name": "Feat: Critical Feats",
+  "sections": [
+    {
+      "id": "critical_feats",
+      "title": "Critical Feats",
+      "anchor_heading": "# Critical Feats",
+      "description": "Complete rules for the feat Critical Feats, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

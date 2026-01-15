@@ -1,0 +1,15 @@
+{
+  "file": "sling-flail-combat.md",
+  "source_path": "https://www.d20pfsrd.com/feats/combat-feats/sling-flail-combat/",
+  "source_name": "Feat: Sling Flail (Combat)",
+  "sections": [
+    {
+      "id": "sling_flail_combat",
+      "title": "Sling Flail",
+      "anchor_heading": "# Sling Flail (Combat)",
+      "description": "Complete rules for the feat Sling Flail, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

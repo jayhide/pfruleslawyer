@@ -1,0 +1,15 @@
+{
+  "file": "terrain-celerity.md",
+  "source_path": "https://www.d20pfsrd.com/feats/general-feats/terrain-celerity/",
+  "source_name": "Feat: Terrain Celerity",
+  "sections": [
+    {
+      "id": "terrain_celerity",
+      "title": "Terrain Celerity",
+      "anchor_heading": "# Terrain Celerity",
+      "description": "Complete rules for the feat Terrain Celerity, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

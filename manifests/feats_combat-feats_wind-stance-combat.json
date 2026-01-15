@@ -1,0 +1,15 @@
+{
+  "file": "wind-stance-combat.md",
+  "source_path": "https://www.d20pfsrd.com/feats/combat-feats/wind-stance-combat/",
+  "source_name": "Feat: Wind Stance (Combat)",
+  "sections": [
+    {
+      "id": "wind_stance_combat",
+      "title": "Wind Stance",
+      "anchor_heading": "# Wind Stance (Combat)",
+      "description": "Complete rules for the feat Wind Stance, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

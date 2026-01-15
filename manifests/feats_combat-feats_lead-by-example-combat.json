@@ -1,0 +1,15 @@
+{
+  "file": "lead-by-example-combat.md",
+  "source_path": "https://www.d20pfsrd.com/feats/combat-feats/lead-by-example-combat/",
+  "source_name": "Feat: Lead by Example (Combat)",
+  "sections": [
+    {
+      "id": "lead_by_example_combat",
+      "title": "Lead by Example",
+      "anchor_heading": "# Lead by Example (Combat)",
+      "description": "Complete rules for the feat Lead by Example, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

@@ -1,0 +1,15 @@
+{
+  "file": "bouncing-spell-metamagic.md",
+  "source_path": "https://www.d20pfsrd.com/feats/metamagic-feats/bouncing-spell-metamagic/",
+  "source_name": "Feat: Bouncing Spell (Metamagic)",
+  "sections": [
+    {
+      "id": "bouncing_spell_metamagic",
+      "title": "Bouncing Spell",
+      "anchor_heading": "# Bouncing Spell (Metamagic)",
+      "description": "Complete rules for the feat Bouncing Spell, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

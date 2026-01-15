@@ -1,0 +1,15 @@
+{
+  "file": "freeze-in-place-combat.md",
+  "source_path": "https://www.d20pfsrd.com/feats/combat-feats/freeze-in-place-combat/",
+  "source_name": "Feat: Freeze in Place (Combat)",
+  "sections": [
+    {
+      "id": "freeze_in_place_combat",
+      "title": "Freeze in Place",
+      "anchor_heading": "# Freeze in Place (Combat)",
+      "description": "Complete rules for the feat Freeze in Place, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

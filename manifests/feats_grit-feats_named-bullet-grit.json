@@ -1,0 +1,15 @@
+{
+  "file": "named-bullet-grit.md",
+  "source_path": "https://www.d20pfsrd.com/feats/grit-feats/named-bullet-grit/",
+  "source_name": "Feat: Named Bullet (Grit)",
+  "sections": [
+    {
+      "id": "named_bullet_grit",
+      "title": "Named Bullet",
+      "anchor_heading": "# Named Bullet (Grit)",
+      "description": "Complete rules for the feat Named Bullet, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

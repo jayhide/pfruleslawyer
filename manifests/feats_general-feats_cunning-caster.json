@@ -1,0 +1,15 @@
+{
+  "file": "cunning-caster.md",
+  "source_path": "https://www.d20pfsrd.com/feats/general-feats/cunning-caster/",
+  "source_name": "Feat: Cunning Caster",
+  "sections": [
+    {
+      "id": "cunning_caster",
+      "title": "Cunning Caster",
+      "anchor_heading": "# Cunning Caster",
+      "description": "Complete rules for the feat Cunning Caster, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

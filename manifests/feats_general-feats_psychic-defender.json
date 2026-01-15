@@ -1,0 +1,15 @@
+{
+  "file": "psychic-defender.md",
+  "source_path": "https://www.d20pfsrd.com/feats/general-feats/psychic-defender/",
+  "source_name": "Feat: Psychic Defender",
+  "sections": [
+    {
+      "id": "psychic_defender",
+      "title": "Psychic Defender",
+      "anchor_heading": "# Psychic Defender",
+      "description": "Complete rules for the feat Psychic Defender, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

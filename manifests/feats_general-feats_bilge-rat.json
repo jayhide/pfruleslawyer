@@ -1,0 +1,15 @@
+{
+  "file": "bilge-rat.md",
+  "source_path": "https://www.d20pfsrd.com/feats/general-feats/bilge-rat/",
+  "source_name": "Feat: Bilge Rat",
+  "sections": [
+    {
+      "id": "bilge_rat",
+      "title": "Bilge Rat",
+      "anchor_heading": "# Bilge Rat",
+      "description": "Complete rules for the feat Bilge Rat, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

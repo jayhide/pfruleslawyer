@@ -1,0 +1,15 @@
+{
+  "file": "net-and-trident-combat.md",
+  "source_path": "https://www.d20pfsrd.com/feats/combat-feats/net-and-trident-combat/",
+  "source_name": "Feat: Net and Trident (Combat)",
+  "sections": [
+    {
+      "id": "net_and_trident_combat",
+      "title": "Net and Trident",
+      "anchor_heading": "# Net and Trident (Combat)",
+      "description": "Complete rules for the feat Net and Trident, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

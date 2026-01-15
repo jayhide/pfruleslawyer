@@ -1,0 +1,15 @@
+{
+  "file": "storm-soul.md",
+  "source_path": "https://www.d20pfsrd.com/feats/monster-feats/storm-soul/",
+  "source_name": "Feat: Storm Soul",
+  "sections": [
+    {
+      "id": "storm_soul",
+      "title": "Storm Soul",
+      "anchor_heading": "# Storm Soul",
+      "description": "Complete rules for the feat Storm Soul, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

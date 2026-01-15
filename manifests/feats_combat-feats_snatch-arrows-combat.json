@@ -1,0 +1,15 @@
+{
+  "file": "snatch-arrows-combat.md",
+  "source_path": "https://www.d20pfsrd.com/feats/combat-feats/snatch-arrows-combat/",
+  "source_name": "Feat: Snatch Arrows (Combat)",
+  "sections": [
+    {
+      "id": "snatch_arrows_combat",
+      "title": "Snatch Arrows",
+      "anchor_heading": "# Snatch Arrows (Combat)",
+      "description": "Complete rules for the feat Snatch Arrows, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

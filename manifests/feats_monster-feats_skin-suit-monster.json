@@ -1,0 +1,15 @@
+{
+  "file": "skin-suit-monster.md",
+  "source_path": "https://www.d20pfsrd.com/feats/monster-feats/skin-suit-monster/",
+  "source_name": "Feat: Skin Suit (Monster)",
+  "sections": [
+    {
+      "id": "skin_suit_monster",
+      "title": "Skin Suit",
+      "anchor_heading": "# Skin Suit (Monster)",
+      "description": "Complete rules for the feat Skin Suit, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

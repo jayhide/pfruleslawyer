@@ -1,0 +1,15 @@
+{
+  "file": "standing-tall-story.md",
+  "source_path": "https://www.d20pfsrd.com/feats/story-feats/standing-tall-story/",
+  "source_name": "Feat: Standing Tall (Story)",
+  "sections": [
+    {
+      "id": "standing_tall_story",
+      "title": "Standing Tall",
+      "anchor_heading": "# Standing Tall (Story)",
+      "description": "Complete rules for the feat Standing Tall, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

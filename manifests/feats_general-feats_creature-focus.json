@@ -1,0 +1,15 @@
+{
+  "file": "creature-focus.md",
+  "source_path": "https://www.d20pfsrd.com/feats/general-feats/creature-focus/",
+  "source_name": "Feat: Creature Focus",
+  "sections": [
+    {
+      "id": "creature_focus",
+      "title": "Creature Focus",
+      "anchor_heading": "# Creature Focus",
+      "description": "Complete rules for the feat Creature Focus, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

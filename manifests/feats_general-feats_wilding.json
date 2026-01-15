@@ -1,0 +1,15 @@
+{
+  "file": "wilding.md",
+  "source_path": "https://www.d20pfsrd.com/feats/general-feats/wilding/",
+  "source_name": "Feat: Wilding",
+  "sections": [
+    {
+      "id": "wilding",
+      "title": "Wilding",
+      "anchor_heading": "# Wilding",
+      "description": "Complete rules for the feat Wilding, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

@@ -1,0 +1,15 @@
+{
+  "file": "toppling-spell-metamagic.md",
+  "source_path": "https://www.d20pfsrd.com/feats/metamagic-feats/toppling-spell-metamagic/",
+  "source_name": "Feat: Toppling Spell (Metamagic)",
+  "sections": [
+    {
+      "id": "toppling_spell_metamagic",
+      "title": "Toppling Spell",
+      "anchor_heading": "# Toppling Spell (Metamagic)",
+      "description": "Complete rules for the feat Toppling Spell, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

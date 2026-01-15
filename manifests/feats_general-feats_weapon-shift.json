@@ -1,0 +1,15 @@
+{
+  "file": "weapon-shift.md",
+  "source_path": "https://www.d20pfsrd.com/feats/general-feats/weapon-shift/",
+  "source_name": "Feat: Weapon Shift",
+  "sections": [
+    {
+      "id": "weapon_shift",
+      "title": "Weapon Shift",
+      "anchor_heading": "# Weapon Shift",
+      "description": "Complete rules for the feat Weapon Shift, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

@@ -1,0 +1,15 @@
+{
+  "file": "enforcer-combat.md",
+  "source_path": "https://www.d20pfsrd.com/feats/combat-feats/enforcer-combat/",
+  "source_name": "Feat: Enforcer (Combat)",
+  "sections": [
+    {
+      "id": "enforcer_combat",
+      "title": "Enforcer",
+      "anchor_heading": "# Enforcer (Combat)",
+      "description": "Complete rules for the feat Enforcer, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

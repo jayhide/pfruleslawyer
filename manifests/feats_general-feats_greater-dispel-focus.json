@@ -1,0 +1,15 @@
+{
+  "file": "greater-dispel-focus.md",
+  "source_path": "https://www.d20pfsrd.com/feats/general-feats/greater-dispel-focus/",
+  "source_name": "Feat: Greater Dispel Focus",
+  "sections": [
+    {
+      "id": "greater_dispel_focus",
+      "title": "Greater Dispel Focus",
+      "anchor_heading": "# Greater Dispel Focus",
+      "description": "Complete rules for the feat Greater Dispel Focus, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

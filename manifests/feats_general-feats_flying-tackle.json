@@ -1,0 +1,15 @@
+{
+  "file": "flying-tackle.md",
+  "source_path": "https://www.d20pfsrd.com/feats/general-feats/flying-tackle/",
+  "source_name": "Feat: Flying Tackle",
+  "sections": [
+    {
+      "id": "flying_tackle",
+      "title": "Flying Tackle",
+      "anchor_heading": "# Flying Tackle",
+      "description": "Complete rules for the feat Flying Tackle, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

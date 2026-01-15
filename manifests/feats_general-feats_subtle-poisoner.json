@@ -1,0 +1,15 @@
+{
+  "file": "subtle-poisoner.md",
+  "source_path": "https://www.d20pfsrd.com/feats/general-feats/subtle-poisoner/",
+  "source_name": "Feat: Subtle Poisoner",
+  "sections": [
+    {
+      "id": "subtle_poisoner",
+      "title": "Subtle Poisoner",
+      "anchor_heading": "# Subtle Poisoner",
+      "description": "Complete rules for the feat Subtle Poisoner, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

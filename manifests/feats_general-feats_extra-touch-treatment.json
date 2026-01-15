@@ -1,0 +1,15 @@
+{
+  "file": "extra-touch-treatment.md",
+  "source_path": "https://www.d20pfsrd.com/feats/general-feats/extra-touch-treatment/",
+  "source_name": "Feat: Extra Touch Treatment",
+  "sections": [
+    {
+      "id": "extra_touch_treatment",
+      "title": "Extra Touch Treatment",
+      "anchor_heading": "# Extra Touch Treatment",
+      "description": "Complete rules for the feat Extra Touch Treatment, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

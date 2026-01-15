@@ -1,0 +1,15 @@
+{
+  "file": "ray-shield-combat.md",
+  "source_path": "https://www.d20pfsrd.com/feats/combat-feats/ray-shield-combat/",
+  "source_name": "Feat: Ray Shield (Combat)",
+  "sections": [
+    {
+      "id": "ray_shield_combat",
+      "title": "Ray Shield",
+      "anchor_heading": "# Ray Shield (Combat)",
+      "description": "Complete rules for the feat Ray Shield, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

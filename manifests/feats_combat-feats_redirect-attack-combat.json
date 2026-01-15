@@ -1,0 +1,15 @@
+{
+  "file": "redirect-attack-combat.md",
+  "source_path": "https://www.d20pfsrd.com/feats/combat-feats/redirect-attack-combat/",
+  "source_name": "Feat: Redirect Attack (Combat)",
+  "sections": [
+    {
+      "id": "redirect_attack_combat",
+      "title": "Redirect Attack",
+      "anchor_heading": "# Redirect Attack (Combat)",
+      "description": "Complete rules for the feat Redirect Attack, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

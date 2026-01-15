@@ -1,0 +1,15 @@
+{
+  "file": "confabulist.md",
+  "source_path": "https://www.d20pfsrd.com/feats/general-feats/confabulist/",
+  "source_name": "Feat: Confabulist",
+  "sections": [
+    {
+      "id": "confabulist",
+      "title": "Confabulist",
+      "anchor_heading": "# Confabulist",
+      "description": "Complete rules for the feat Confabulist, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

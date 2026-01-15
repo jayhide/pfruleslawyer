@@ -249,6 +249,17 @@ def extract_title_from_markdown(content: str) -> tuple[str, str]:
     return "Unknown", "# Unknown"
 
 
+def strip_feat_suffix(title: str) -> str:
+    """Strip feat type suffix like (Combat), (Achievement) from title.
+
+    Examples:
+        "Combat Reflexes (Combat)" -> "Combat Reflexes"
+        "Crane Style (Combat, Style)" -> "Crane Style"
+        "Chainbreaker (Achievement)" -> "Chainbreaker"
+    """
+    return re.sub(r'\s*\([^)]+\)\s*$', '', title)
+
+
 def process_markdown_simple(
     client: anthropic.Anthropic,
     content: str,
@@ -348,6 +359,10 @@ def process_markdown_template(
 
     # Extract title from the markdown
     title, anchor_heading = extract_title_from_markdown(content)
+
+    # Strip feat type suffix for search (but keep anchor_heading for navigation)
+    if category == "Feats":
+        title = strip_feat_suffix(title)
 
     # Generate section ID from source path
     section_id = filename.replace(".md", "").replace("-", "_")

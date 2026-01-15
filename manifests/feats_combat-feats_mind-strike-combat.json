@@ -1,0 +1,15 @@
+{
+  "file": "mind-strike-combat.md",
+  "source_path": "https://www.d20pfsrd.com/feats/combat-feats/mind-strike-combat/",
+  "source_name": "Feat: Mind Strike (Combat)",
+  "sections": [
+    {
+      "id": "mind_strike_combat",
+      "title": "Mind Strike",
+      "anchor_heading": "# Mind Strike (Combat)",
+      "description": "Complete rules for the feat Mind Strike, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

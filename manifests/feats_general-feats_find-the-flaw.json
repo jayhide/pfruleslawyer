@@ -1,0 +1,15 @@
+{
+  "file": "find-the-flaw.md",
+  "source_path": "https://www.d20pfsrd.com/feats/general-feats/find-the-flaw/",
+  "source_name": "Feat: Find the Flaw",
+  "sections": [
+    {
+      "id": "find_the_flaw",
+      "title": "Find the Flaw",
+      "anchor_heading": "# Find the Flaw",
+      "description": "Complete rules for the feat Find the Flaw, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

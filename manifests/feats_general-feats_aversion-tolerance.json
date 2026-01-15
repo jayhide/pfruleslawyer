@@ -1,0 +1,15 @@
+{
+  "file": "aversion-tolerance.md",
+  "source_path": "https://www.d20pfsrd.com/feats/general-feats/aversion-tolerance/",
+  "source_name": "Feat: Aversion Tolerance",
+  "sections": [
+    {
+      "id": "aversion_tolerance",
+      "title": "Aversion Tolerance",
+      "anchor_heading": "# Aversion Tolerance",
+      "description": "Complete rules for the feat Aversion Tolerance, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

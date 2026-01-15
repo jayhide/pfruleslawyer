@@ -1,0 +1,15 @@
+{
+  "file": "eclipsed-spell-metamagic.md",
+  "source_path": "https://www.d20pfsrd.com/feats/metamagic-feats/eclipsed-spell-metamagic/",
+  "source_name": "Feat: Eclipsed Spell (Metamagic)",
+  "sections": [
+    {
+      "id": "eclipsed_spell_metamagic",
+      "title": "Eclipsed Spell",
+      "anchor_heading": "# Eclipsed Spell (Metamagic)",
+      "description": "Complete rules for the feat Eclipsed Spell, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

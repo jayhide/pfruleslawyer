@@ -1,0 +1,15 @@
+{
+  "file": "vandal-goblin.md",
+  "source_path": "https://www.d20pfsrd.com/feats/general-feats/vandal-goblin/",
+  "source_name": "Feat: Vandal (Goblin)",
+  "sections": [
+    {
+      "id": "vandal_goblin",
+      "title": "Vandal",
+      "anchor_heading": "# Vandal (Goblin)",
+      "description": "Complete rules for the feat Vandal, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

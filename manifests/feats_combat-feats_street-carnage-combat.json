@@ -1,0 +1,15 @@
+{
+  "file": "street-carnage-combat.md",
+  "source_path": "https://www.d20pfsrd.com/feats/combat-feats/street-carnage-combat/",
+  "source_name": "Feat: Street Carnage (Combat)",
+  "sections": [
+    {
+      "id": "street_carnage_combat",
+      "title": "Street Carnage",
+      "anchor_heading": "# Street Carnage (Combat)",
+      "description": "Complete rules for the feat Street Carnage, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

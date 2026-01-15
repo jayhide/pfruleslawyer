@@ -1,0 +1,15 @@
+{
+  "file": "master-craftsman.md",
+  "source_path": "https://www.d20pfsrd.com/feats/general-feats/master-craftsman/",
+  "source_name": "Feat: Master Craftsman",
+  "sections": [
+    {
+      "id": "master_craftsman",
+      "title": "Master Craftsman",
+      "anchor_heading": "# Master Craftsman",
+      "description": "Complete rules for the feat Master Craftsman, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

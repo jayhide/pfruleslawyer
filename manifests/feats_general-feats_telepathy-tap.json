@@ -1,0 +1,15 @@
+{
+  "file": "telepathy-tap.md",
+  "source_path": "https://www.d20pfsrd.com/feats/general-feats/telepathy-tap/",
+  "source_name": "Feat: Telepathy Tap",
+  "sections": [
+    {
+      "id": "telepathy_tap",
+      "title": "Telepathy Tap",
+      "anchor_heading": "# Telepathy Tap",
+      "description": "Complete rules for the feat Telepathy Tap, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

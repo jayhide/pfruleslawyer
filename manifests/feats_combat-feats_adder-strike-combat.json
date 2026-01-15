@@ -1,0 +1,15 @@
+{
+  "file": "adder-strike-combat.md",
+  "source_path": "https://www.d20pfsrd.com/feats/combat-feats/adder-strike-combat/",
+  "source_name": "Feat: Adder Strike (Combat)",
+  "sections": [
+    {
+      "id": "adder_strike_combat",
+      "title": "Adder Strike",
+      "anchor_heading": "# Adder Strike (Combat)",
+      "description": "Complete rules for the feat Adder Strike, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

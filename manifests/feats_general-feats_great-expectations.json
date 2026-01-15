@@ -1,0 +1,15 @@
+{
+  "file": "great-expectations.md",
+  "source_path": "https://www.d20pfsrd.com/feats/general-feats/great-expectations/",
+  "source_name": "Feat: Great Expectations",
+  "sections": [
+    {
+      "id": "great_expectations",
+      "title": "Great Expectations",
+      "anchor_heading": "# Great Expectations",
+      "description": "Complete rules for the feat Great Expectations, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

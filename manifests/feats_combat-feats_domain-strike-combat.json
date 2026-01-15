@@ -1,0 +1,15 @@
+{
+  "file": "domain-strike-combat.md",
+  "source_path": "https://www.d20pfsrd.com/feats/combat-feats/domain-strike-combat/",
+  "source_name": "Feat: Domain Strike (Combat)",
+  "sections": [
+    {
+      "id": "domain_strike_combat",
+      "title": "Domain Strike",
+      "anchor_heading": "# Domain Strike (Combat)",
+      "description": "Complete rules for the feat Domain Strike, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

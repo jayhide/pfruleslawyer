@@ -1,0 +1,15 @@
+{
+  "file": "heroic-recovery.md",
+  "source_path": "https://www.d20pfsrd.com/feats/general-feats/heroic-recovery/",
+  "source_name": "Feat: Heroic Recovery",
+  "sections": [
+    {
+      "id": "heroic_recovery",
+      "title": "Heroic Recovery",
+      "anchor_heading": "# Heroic Recovery",
+      "description": "Complete rules for the feat Heroic Recovery, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

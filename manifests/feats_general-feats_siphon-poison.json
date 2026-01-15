@@ -1,0 +1,15 @@
+{
+  "file": "siphon-poison.md",
+  "source_path": "https://www.d20pfsrd.com/feats/general-feats/siphon-poison/",
+  "source_name": "Feat: Siphon Poison",
+  "sections": [
+    {
+      "id": "siphon_poison",
+      "title": "Siphon Poison",
+      "anchor_heading": "# Siphon Poison",
+      "description": "Complete rules for the feat Siphon Poison, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

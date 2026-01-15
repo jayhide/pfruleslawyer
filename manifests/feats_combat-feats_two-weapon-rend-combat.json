@@ -1,0 +1,15 @@
+{
+  "file": "two-weapon-rend-combat.md",
+  "source_path": "https://www.d20pfsrd.com/feats/combat-feats/two-weapon-rend-combat/",
+  "source_name": "Feat: Two-Weapon Rend (Combat)",
+  "sections": [
+    {
+      "id": "two_weapon_rend_combat",
+      "title": "Two-Weapon Rend",
+      "anchor_heading": "# Two-Weapon Rend (Combat)",
+      "description": "Complete rules for the feat Two-Weapon Rend, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

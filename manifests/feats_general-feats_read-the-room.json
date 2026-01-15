@@ -1,0 +1,15 @@
+{
+  "file": "read-the-room.md",
+  "source_path": "https://www.d20pfsrd.com/feats/general-feats/read-the-room/",
+  "source_name": "Feat: Read the Room",
+  "sections": [
+    {
+      "id": "read_the_room",
+      "title": "Read the Room",
+      "anchor_heading": "# Read the Room",
+      "description": "Complete rules for the feat Read the Room, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

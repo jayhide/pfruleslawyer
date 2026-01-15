@@ -1,0 +1,15 @@
+{
+  "file": "cranial-adjustment.md",
+  "source_path": "https://www.d20pfsrd.com/feats/general-feats/cranial-adjustment/",
+  "source_name": "Feat: Cranial Adjustment",
+  "sections": [
+    {
+      "id": "cranial_adjustment",
+      "title": "Cranial Adjustment",
+      "anchor_heading": "# Cranial Adjustment",
+      "description": "Complete rules for the feat Cranial Adjustment, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

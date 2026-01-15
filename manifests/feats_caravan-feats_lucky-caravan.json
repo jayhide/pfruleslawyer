@@ -1,0 +1,15 @@
+{
+  "file": "lucky-caravan.md",
+  "source_path": "https://www.d20pfsrd.com/feats/caravan-feats/lucky-caravan/",
+  "source_name": "Feat: Lucky Caravan",
+  "sections": [
+    {
+      "id": "lucky_caravan",
+      "title": "Lucky Caravan",
+      "anchor_heading": "# Lucky Caravan",
+      "description": "Complete rules for the feat Lucky Caravan, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

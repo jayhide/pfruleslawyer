@@ -1,0 +1,15 @@
+{
+  "file": "explorer-story.md",
+  "source_path": "https://www.d20pfsrd.com/feats/story-feats/explorer-story/",
+  "source_name": "Feat: Explorer (Story)",
+  "sections": [
+    {
+      "id": "explorer_story",
+      "title": "Explorer",
+      "anchor_heading": "# Explorer (Story)",
+      "description": "Complete rules for the feat Explorer, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

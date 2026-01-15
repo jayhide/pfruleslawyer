@@ -1,0 +1,15 @@
+{
+  "file": "frozen-skin.md",
+  "source_path": "https://www.d20pfsrd.com/feats/general-feats/frozen-skin/",
+  "source_name": "Feat: Frozen Skin",
+  "sections": [
+    {
+      "id": "frozen_skin",
+      "title": "Frozen Skin",
+      "anchor_heading": "# Frozen Skin",
+      "description": "Complete rules for the feat Frozen Skin, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

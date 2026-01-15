@@ -1,0 +1,15 @@
+{
+  "file": "eclipse-strike-teamwork.md",
+  "source_path": "https://www.d20pfsrd.com/feats/general-feats/eclipse-strike-teamwork/",
+  "source_name": "Feat: Eclipse Strike (Teamwork)",
+  "sections": [
+    {
+      "id": "eclipse_strike_teamwork",
+      "title": "Eclipse Strike",
+      "anchor_heading": "# Eclipse Strike (Teamwork)",
+      "description": "Complete rules for the feat Eclipse Strike, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

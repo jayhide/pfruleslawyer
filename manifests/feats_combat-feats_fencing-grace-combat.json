@@ -1,0 +1,15 @@
+{
+  "file": "fencing-grace-combat.md",
+  "source_path": "https://www.d20pfsrd.com/feats/combat-feats/fencing-grace-combat/",
+  "source_name": "Feat: Fencing Grace (Combat)",
+  "sections": [
+    {
+      "id": "fencing_grace_combat",
+      "title": "Fencing Grace",
+      "anchor_heading": "# Fencing Grace (Combat)",
+      "description": "Complete rules for the feat Fencing Grace, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

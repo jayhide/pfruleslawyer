@@ -1,0 +1,15 @@
+{
+  "file": "improved-stench.md",
+  "source_path": "https://www.d20pfsrd.com/feats/monster-feats/improved-stench/",
+  "source_name": "Feat: Improved Stench",
+  "sections": [
+    {
+      "id": "improved_stench",
+      "title": "Improved Stench",
+      "anchor_heading": "# Improved Stench",
+      "description": "Complete rules for the feat Improved Stench, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

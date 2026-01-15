@@ -1,0 +1,15 @@
+{
+  "file": "cloak-of-stone.md",
+  "source_path": "https://www.d20pfsrd.com/feats/general-feats/cloak-of-stone/",
+  "source_name": "Feat: Cloak of Stone",
+  "sections": [
+    {
+      "id": "cloak_of_stone",
+      "title": "Cloak of Stone",
+      "anchor_heading": "# Cloak of Stone",
+      "description": "Complete rules for the feat Cloak of Stone, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

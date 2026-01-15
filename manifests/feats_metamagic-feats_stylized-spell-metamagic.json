@@ -1,0 +1,15 @@
+{
+  "file": "stylized-spell-metamagic.md",
+  "source_path": "https://www.d20pfsrd.com/feats/metamagic-feats/stylized-spell-metamagic/",
+  "source_name": "Feat: Stylized Spell (Metamagic)",
+  "sections": [
+    {
+      "id": "stylized_spell_metamagic",
+      "title": "Stylized Spell",
+      "anchor_heading": "# Stylized Spell (Metamagic)",
+      "description": "Complete rules for the feat Stylized Spell, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

@@ -1,0 +1,15 @@
+{
+  "file": "hermean-blood.md",
+  "source_path": "https://www.d20pfsrd.com/feats/general-feats/hermean-blood/",
+  "source_name": "Feat: Island Blood",
+  "sections": [
+    {
+      "id": "hermean_blood",
+      "title": "Island Blood",
+      "anchor_heading": "# Island Blood",
+      "description": "Complete rules for the feat Island Blood, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

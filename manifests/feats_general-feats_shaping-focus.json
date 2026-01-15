@@ -1,0 +1,15 @@
+{
+  "file": "shaping-focus.md",
+  "source_path": "https://www.d20pfsrd.com/feats/general-feats/shaping-focus/",
+  "source_name": "Feat: Shaping Focus",
+  "sections": [
+    {
+      "id": "shaping_focus",
+      "title": "Shaping Focus",
+      "anchor_heading": "# Shaping Focus",
+      "description": "Complete rules for the feat Shaping Focus, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

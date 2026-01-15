@@ -1,0 +1,15 @@
+{
+  "file": "spell-sponge.md",
+  "source_path": "https://www.d20pfsrd.com/feats/general-feats/spell-sponge/",
+  "source_name": "Feat: Spell Sponge",
+  "sections": [
+    {
+      "id": "spell_sponge",
+      "title": "Spell Sponge",
+      "anchor_heading": "# Spell Sponge",
+      "description": "Complete rules for the feat Spell Sponge, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

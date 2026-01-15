@@ -1,0 +1,15 @@
+{
+  "file": "animal-ferocity-combat.md",
+  "source_path": "https://www.d20pfsrd.com/feats/combat-feats/animal-ferocity-combat/",
+  "source_name": "Feat: Animal Ferocity (Combat)",
+  "sections": [
+    {
+      "id": "animal_ferocity_combat",
+      "title": "Animal Ferocity",
+      "anchor_heading": "# Animal Ferocity (Combat)",
+      "description": "Complete rules for the feat Animal Ferocity, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

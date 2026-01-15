@@ -1,0 +1,15 @@
+{
+  "file": "blood-ties-general.md",
+  "source_path": "https://www.d20pfsrd.com/feats/general-feats/blood-ties-general/",
+  "source_name": "Feat: Blood Ties",
+  "sections": [
+    {
+      "id": "blood_ties_general",
+      "title": "Blood Ties",
+      "anchor_heading": "# Blood Ties",
+      "description": "Complete rules for the feat Blood Ties, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

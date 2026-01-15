@@ -1,0 +1,15 @@
+{
+  "file": "damned-story.md",
+  "source_path": "https://www.d20pfsrd.com/feats/story-feats/damned-story/",
+  "source_name": "Feat: Damned (Story)",
+  "sections": [
+    {
+      "id": "damned_story",
+      "title": "Damned",
+      "anchor_heading": "# Damned (Story)",
+      "description": "Complete rules for the feat Damned, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

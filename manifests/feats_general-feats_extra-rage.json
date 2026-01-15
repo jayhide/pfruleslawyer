@@ -1,0 +1,15 @@
+{
+  "file": "extra-rage.md",
+  "source_path": "https://www.d20pfsrd.com/feats/general-feats/extra-rage/",
+  "source_name": "Feat: Extra Rage",
+  "sections": [
+    {
+      "id": "extra_rage",
+      "title": "Extra Rage",
+      "anchor_heading": "# Extra Rage",
+      "description": "Complete rules for the feat Extra Rage, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

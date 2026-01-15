@@ -1,0 +1,15 @@
+{
+  "file": "wood-crafter.md",
+  "source_path": "https://www.d20pfsrd.com/feats/general-feats/wood-crafter/",
+  "source_name": "Feat: Wood Crafter",
+  "sections": [
+    {
+      "id": "wood_crafter",
+      "title": "Wood Crafter",
+      "anchor_heading": "# Wood Crafter",
+      "description": "Complete rules for the feat Wood Crafter, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

@@ -1,0 +1,15 @@
+{
+  "file": "gluttonous-gobbler.md",
+  "source_path": "https://www.d20pfsrd.com/feats/general-feats/gluttonous-gobbler/",
+  "source_name": "Feat: Gluttonous Gobbler",
+  "sections": [
+    {
+      "id": "gluttonous_gobbler",
+      "title": "Gluttonous Gobbler",
+      "anchor_heading": "# Gluttonous Gobbler",
+      "description": "Complete rules for the feat Gluttonous Gobbler, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

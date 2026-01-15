@@ -1,0 +1,15 @@
+{
+  "file": "liberation-channel.md",
+  "source_path": "https://www.d20pfsrd.com/feats/general-feats/liberation-channel/",
+  "source_name": "Feat: Liberation Channel",
+  "sections": [
+    {
+      "id": "liberation_channel",
+      "title": "Liberation Channel",
+      "anchor_heading": "# Liberation Channel",
+      "description": "Complete rules for the feat Liberation Channel, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

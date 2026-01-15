@@ -1,0 +1,15 @@
+{
+  "file": "landing-roll-combat.md",
+  "source_path": "https://www.d20pfsrd.com/feats/combat-feats/landing-roll-combat/",
+  "source_name": "Feat: Landing Roll (Combat)",
+  "sections": [
+    {
+      "id": "landing_roll_combat",
+      "title": "Landing Roll",
+      "anchor_heading": "# Landing Roll (Combat)",
+      "description": "Complete rules for the feat Landing Roll, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

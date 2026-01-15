@@ -1,0 +1,15 @@
+{
+  "file": "infuse-poison-item-creation.md",
+  "source_path": "https://www.d20pfsrd.com/feats/item-creation-feats/infuse-poison-item-creation/",
+  "source_name": "Feat: Infuse Poison (Item Creation)",
+  "sections": [
+    {
+      "id": "infuse_poison_item_creation",
+      "title": "Infuse Poison",
+      "anchor_heading": "# Infuse Poison (Item Creation)",
+      "description": "Complete rules for the feat Infuse Poison, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

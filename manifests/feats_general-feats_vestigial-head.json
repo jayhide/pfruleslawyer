@@ -1,0 +1,15 @@
+{
+  "file": "vestigial-head.md",
+  "source_path": "https://www.d20pfsrd.com/feats/general-feats/vestigial-head/",
+  "source_name": "Feat: Vestigial Head",
+  "sections": [
+    {
+      "id": "vestigial_head",
+      "title": "Vestigial Head",
+      "anchor_heading": "# Vestigial Head",
+      "description": "Complete rules for the feat Vestigial Head, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

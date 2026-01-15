@@ -1,0 +1,15 @@
+{
+  "file": "raging-brute.md",
+  "source_path": "https://www.d20pfsrd.com/feats/general-feats/raging-brute/",
+  "source_name": "Feat: Raging Brute",
+  "sections": [
+    {
+      "id": "raging_brute",
+      "title": "Raging Brute",
+      "anchor_heading": "# Raging Brute",
+      "description": "Complete rules for the feat Raging Brute, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

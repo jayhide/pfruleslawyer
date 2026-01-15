@@ -1,0 +1,15 @@
+{
+  "file": "forbidden-magic.md",
+  "source_path": "https://www.d20pfsrd.com/feats/general-feats/forbidden-magic/",
+  "source_name": "Feat: Forbidden Magic",
+  "sections": [
+    {
+      "id": "forbidden_magic",
+      "title": "Forbidden Magic",
+      "anchor_heading": "# Forbidden Magic",
+      "description": "Complete rules for the feat Forbidden Magic, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

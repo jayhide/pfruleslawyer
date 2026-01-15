@@ -1,0 +1,15 @@
+{
+  "file": "quicken-blessing.md",
+  "source_path": "https://www.d20pfsrd.com/feats/general-feats/quicken-blessing/",
+  "source_name": "Feat: Quicken Blessing",
+  "sections": [
+    {
+      "id": "quicken_blessing",
+      "title": "Quicken Blessing",
+      "anchor_heading": "# Quicken Blessing",
+      "description": "Complete rules for the feat Quicken Blessing, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

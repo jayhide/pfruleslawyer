@@ -1,0 +1,15 @@
+{
+  "file": "jackal-heritage.md",
+  "source_path": "https://www.d20pfsrd.com/feats/general-feats/jackal-heritage/",
+  "source_name": "Feat: Jackal Heritage",
+  "sections": [
+    {
+      "id": "jackal_heritage",
+      "title": "Jackal Heritage",
+      "anchor_heading": "# Jackal Heritage",
+      "description": "Complete rules for the feat Jackal Heritage, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

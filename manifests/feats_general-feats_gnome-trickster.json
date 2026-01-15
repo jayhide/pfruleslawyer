@@ -1,0 +1,15 @@
+{
+  "file": "gnome-trickster.md",
+  "source_path": "https://www.d20pfsrd.com/feats/general-feats/gnome-trickster/",
+  "source_name": "Feat: Gnome Trickster",
+  "sections": [
+    {
+      "id": "gnome_trickster",
+      "title": "Gnome Trickster",
+      "anchor_heading": "# Gnome Trickster",
+      "description": "Complete rules for the feat Gnome Trickster, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

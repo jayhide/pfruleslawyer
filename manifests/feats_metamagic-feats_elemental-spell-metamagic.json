@@ -1,0 +1,15 @@
+{
+  "file": "elemental-spell-metamagic.md",
+  "source_path": "https://www.d20pfsrd.com/feats/metamagic-feats/elemental-spell-metamagic/",
+  "source_name": "Feat: Elemental Spell (Metamagic)",
+  "sections": [
+    {
+      "id": "elemental_spell_metamagic",
+      "title": "Elemental Spell",
+      "anchor_heading": "# Elemental Spell (Metamagic)",
+      "description": "Complete rules for the feat Elemental Spell, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

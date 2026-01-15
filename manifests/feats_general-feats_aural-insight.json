@@ -1,0 +1,15 @@
+{
+  "file": "aural-insight.md",
+  "source_path": "https://www.d20pfsrd.com/feats/general-feats/aural-insight/",
+  "source_name": "Feat: Aural Insight",
+  "sections": [
+    {
+      "id": "aural_insight",
+      "title": "Aural Insight",
+      "anchor_heading": "# Aural Insight",
+      "description": "Complete rules for the feat Aural Insight, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

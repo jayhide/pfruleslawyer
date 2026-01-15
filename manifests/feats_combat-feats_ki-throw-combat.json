@@ -1,0 +1,15 @@
+{
+  "file": "ki-throw-combat.md",
+  "source_path": "https://www.d20pfsrd.com/feats/combat-feats/ki-throw-combat/",
+  "source_name": "Feat: Ki Throw (Combat)",
+  "sections": [
+    {
+      "id": "ki_throw_combat",
+      "title": "Ki Throw",
+      "anchor_heading": "# Ki Throw (Combat)",
+      "description": "Complete rules for the feat Ki Throw, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

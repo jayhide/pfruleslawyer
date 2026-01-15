@@ -1,0 +1,15 @@
+{
+  "file": "spirit-rebuke.md",
+  "source_path": "https://www.d20pfsrd.com/feats/general-feats/spirit-rebuke/",
+  "source_name": "Feat: Spirit Rebuke",
+  "sections": [
+    {
+      "id": "spirit_rebuke",
+      "title": "Spirit Rebuke",
+      "anchor_heading": "# Spirit Rebuke",
+      "description": "Complete rules for the feat Spirit Rebuke, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

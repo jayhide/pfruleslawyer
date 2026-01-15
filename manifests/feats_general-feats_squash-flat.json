@@ -1,0 +1,15 @@
+{
+  "file": "squash-flat.md",
+  "source_path": "https://www.d20pfsrd.com/feats/general-feats/squash-flat/",
+  "source_name": "Feat: Squash Flat",
+  "sections": [
+    {
+      "id": "squash_flat",
+      "title": "Squash Flat",
+      "anchor_heading": "# Squash Flat",
+      "description": "Complete rules for the feat Squash Flat, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

@@ -1,0 +1,15 @@
+{
+  "file": "double-bane.md",
+  "source_path": "https://www.d20pfsrd.com/feats/general-feats/double-bane/",
+  "source_name": "Feat: Double Bane",
+  "sections": [
+    {
+      "id": "double_bane",
+      "title": "Double Bane",
+      "anchor_heading": "# Double Bane",
+      "description": "Complete rules for the feat Double Bane, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

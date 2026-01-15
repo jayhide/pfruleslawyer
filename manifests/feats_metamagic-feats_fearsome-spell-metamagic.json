@@ -1,0 +1,15 @@
+{
+  "file": "fearsome-spell-metamagic.md",
+  "source_path": "https://www.d20pfsrd.com/feats/metamagic-feats/fearsome-spell-metamagic/",
+  "source_name": "Feat: Fearsome Spell (Metamagic)",
+  "sections": [
+    {
+      "id": "fearsome_spell_metamagic",
+      "title": "Fearsome Spell",
+      "anchor_heading": "# Fearsome Spell (Metamagic)",
+      "description": "Complete rules for the feat Fearsome Spell, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

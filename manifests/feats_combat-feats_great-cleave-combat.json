@@ -1,0 +1,15 @@
+{
+  "file": "great-cleave-combat.md",
+  "source_path": "https://www.d20pfsrd.com/feats/combat-feats/great-cleave-combat/",
+  "source_name": "Feat: Great Cleave (Combat)",
+  "sections": [
+    {
+      "id": "great_cleave_combat",
+      "title": "Great Cleave",
+      "anchor_heading": "# Great Cleave (Combat)",
+      "description": "Complete rules for the feat Great Cleave, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

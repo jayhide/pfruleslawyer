@@ -1,0 +1,15 @@
+{
+  "file": "strange-yield.md",
+  "source_path": "https://www.d20pfsrd.com/feats/general-feats/strange-yield/",
+  "source_name": "Feat: Strange Yield",
+  "sections": [
+    {
+      "id": "strange_yield",
+      "title": "Strange Yield",
+      "anchor_heading": "# Strange Yield",
+      "description": "Complete rules for the feat Strange Yield, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

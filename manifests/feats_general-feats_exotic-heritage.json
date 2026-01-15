@@ -1,0 +1,15 @@
+{
+  "file": "exotic-heritage.md",
+  "source_path": "https://www.d20pfsrd.com/feats/general-feats/exotic-heritage/",
+  "source_name": "Feat: Exotic Heritage",
+  "sections": [
+    {
+      "id": "exotic_heritage",
+      "title": "Exotic Heritage",
+      "anchor_heading": "# Exotic Heritage",
+      "description": "Complete rules for the feat Exotic Heritage, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

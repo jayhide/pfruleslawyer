@@ -1,0 +1,15 @@
+{
+  "file": "fey-spell-lore.md",
+  "source_path": "https://www.d20pfsrd.com/feats/general-feats/fey-spell-lore/",
+  "source_name": "Feat: Fey Spell Lore",
+  "sections": [
+    {
+      "id": "fey_spell_lore",
+      "title": "Fey Spell Lore",
+      "anchor_heading": "# Fey Spell Lore",
+      "description": "Complete rules for the feat Fey Spell Lore, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

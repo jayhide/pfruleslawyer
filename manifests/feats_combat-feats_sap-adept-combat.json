@@ -1,0 +1,15 @@
+{
+  "file": "sap-adept-combat.md",
+  "source_path": "https://www.d20pfsrd.com/feats/combat-feats/sap-adept-combat/",
+  "source_name": "Feat: Sap Adept (Combat)",
+  "sections": [
+    {
+      "id": "sap_adept_combat",
+      "title": "Sap Adept",
+      "anchor_heading": "# Sap Adept (Combat)",
+      "description": "Complete rules for the feat Sap Adept, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

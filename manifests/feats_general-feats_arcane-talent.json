@@ -1,0 +1,15 @@
+{
+  "file": "arcane-talent.md",
+  "source_path": "https://www.d20pfsrd.com/feats/general-feats/arcane-talent/",
+  "source_name": "Feat: Arcane Talent",
+  "sections": [
+    {
+      "id": "arcane_talent",
+      "title": "Arcane Talent",
+      "anchor_heading": "# Arcane Talent",
+      "description": "Complete rules for the feat Arcane Talent, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

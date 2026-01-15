@@ -1,0 +1,15 @@
+{
+  "file": "siege-gunner-combat.md",
+  "source_path": "https://www.d20pfsrd.com/feats/combat-feats/siege-gunner-combat/",
+  "source_name": "Feat: Siege Gunner (Combat)",
+  "sections": [
+    {
+      "id": "siege_gunner_combat",
+      "title": "Siege Gunner",
+      "anchor_heading": "# Siege Gunner (Combat)",
+      "description": "Complete rules for the feat Siege Gunner, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

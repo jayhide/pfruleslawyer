@@ -1,0 +1,15 @@
+{
+  "file": "teleport-tactician-combat.md",
+  "source_path": "https://www.d20pfsrd.com/feats/combat-feats/teleport-tactician-combat/",
+  "source_name": "Feat: Teleport Tactician (Combat)",
+  "sections": [
+    {
+      "id": "teleport_tactician_combat",
+      "title": "Teleport Tactician",
+      "anchor_heading": "# Teleport Tactician (Combat)",
+      "description": "Complete rules for the feat Teleport Tactician, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

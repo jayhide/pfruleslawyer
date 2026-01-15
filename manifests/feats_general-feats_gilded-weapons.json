@@ -1,0 +1,15 @@
+{
+  "file": "gilded-weapons.md",
+  "source_path": "https://www.d20pfsrd.com/feats/general-feats/gilded-weapons/",
+  "source_name": "Feat: Gilded Weapons",
+  "sections": [
+    {
+      "id": "gilded_weapons",
+      "title": "Gilded Weapons",
+      "anchor_heading": "# Gilded Weapons",
+      "description": "Complete rules for the feat Gilded Weapons, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

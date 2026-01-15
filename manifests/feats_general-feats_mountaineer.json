@@ -1,0 +1,15 @@
+{
+  "file": "mountaineer.md",
+  "source_path": "https://www.d20pfsrd.com/feats/general-feats/mountaineer/",
+  "source_name": "Feat: Mountaineer",
+  "sections": [
+    {
+      "id": "mountaineer",
+      "title": "Mountaineer",
+      "anchor_heading": "# Mountaineer",
+      "description": "Complete rules for the feat Mountaineer, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

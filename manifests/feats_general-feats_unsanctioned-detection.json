@@ -1,0 +1,15 @@
+{
+  "file": "unsanctioned-detection.md",
+  "source_path": "https://www.d20pfsrd.com/feats/general-feats/unsanctioned-detection/",
+  "source_name": "Feat: Unsanctioned Detection",
+  "sections": [
+    {
+      "id": "unsanctioned_detection",
+      "title": "Unsanctioned Detection",
+      "anchor_heading": "# Unsanctioned Detection",
+      "description": "Complete rules for the feat Unsanctioned Detection, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

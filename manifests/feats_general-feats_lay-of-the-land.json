@@ -1,0 +1,15 @@
+{
+  "file": "lay-of-the-land.md",
+  "source_path": "https://www.d20pfsrd.com/feats/general-feats/lay-of-the-land/",
+  "source_name": "Feat: Lay of the Land",
+  "sections": [
+    {
+      "id": "lay_of_the_land",
+      "title": "Lay of the Land",
+      "anchor_heading": "# Lay of the Land",
+      "description": "Complete rules for the feat Lay of the Land, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

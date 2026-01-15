@@ -1,0 +1,15 @@
+{
+  "file": "sniper-shot.md",
+  "source_path": "https://www.d20pfsrd.com/feats/general-feats/sniper-shot/",
+  "source_name": "Feat: Sniper Shot (3.5E)",
+  "sections": [
+    {
+      "id": "sniper_shot",
+      "title": "Sniper Shot",
+      "anchor_heading": "# Sniper Shot (3.5E)",
+      "description": "Complete rules for the feat Sniper Shot, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

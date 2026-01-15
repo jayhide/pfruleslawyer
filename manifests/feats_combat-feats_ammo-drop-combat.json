@@ -1,0 +1,15 @@
+{
+  "file": "ammo-drop-combat.md",
+  "source_path": "https://www.d20pfsrd.com/feats/combat-feats/ammo-drop-combat/",
+  "source_name": "Feat: Ammo Drop (Combat)",
+  "sections": [
+    {
+      "id": "ammo_drop_combat",
+      "title": "Ammo Drop",
+      "anchor_heading": "# Ammo Drop (Combat)",
+      "description": "Complete rules for the feat Ammo Drop, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

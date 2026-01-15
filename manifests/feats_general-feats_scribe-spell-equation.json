@@ -1,0 +1,15 @@
+{
+  "file": "scribe-spell-equation.md",
+  "source_path": "https://www.d20pfsrd.com/feats/general-feats/scribe-spell-equation/",
+  "source_name": "Feat: Scribe Spell Equation",
+  "sections": [
+    {
+      "id": "scribe_spell_equation",
+      "title": "Scribe Spell Equation",
+      "anchor_heading": "# Scribe Spell Equation",
+      "description": "Complete rules for the feat Scribe Spell Equation, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

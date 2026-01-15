@@ -1,0 +1,15 @@
+{
+  "file": "subtle-devices.md",
+  "source_path": "https://www.d20pfsrd.com/feats/general-feats/subtle-devices/",
+  "source_name": "Feat: Subtle Devices",
+  "sections": [
+    {
+      "id": "subtle_devices",
+      "title": "Subtle Devices",
+      "anchor_heading": "# Subtle Devices",
+      "description": "Complete rules for the feat Subtle Devices, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

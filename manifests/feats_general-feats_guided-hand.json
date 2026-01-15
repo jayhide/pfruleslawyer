@@ -1,0 +1,15 @@
+{
+  "file": "guided-hand.md",
+  "source_path": "https://www.d20pfsrd.com/feats/general-feats/guided-hand/",
+  "source_name": "Feat: Guided Hand",
+  "sections": [
+    {
+      "id": "guided_hand",
+      "title": "Guided Hand",
+      "anchor_heading": "# Guided Hand",
+      "description": "Complete rules for the feat Guided Hand, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

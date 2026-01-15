@@ -1,0 +1,15 @@
+{
+  "file": "lob-shot-combat.md",
+  "source_path": "https://www.d20pfsrd.com/feats/combat-feats/lob-shot-combat/",
+  "source_name": "Feat: Lob Shot (Combat)",
+  "sections": [
+    {
+      "id": "lob_shot_combat",
+      "title": "Lob Shot",
+      "anchor_heading": "# Lob Shot (Combat)",
+      "description": "Complete rules for the feat Lob Shot, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

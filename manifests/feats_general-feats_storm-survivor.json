@@ -1,0 +1,15 @@
+{
+  "file": "storm-survivor.md",
+  "source_path": "https://www.d20pfsrd.com/feats/general-feats/storm-survivor/",
+  "source_name": "Feat: Storm Survivor",
+  "sections": [
+    {
+      "id": "storm_survivor",
+      "title": "Storm Survivor",
+      "anchor_heading": "# Storm Survivor",
+      "description": "Complete rules for the feat Storm Survivor, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

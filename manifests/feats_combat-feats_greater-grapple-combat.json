@@ -1,0 +1,15 @@
+{
+  "file": "greater-grapple-combat.md",
+  "source_path": "https://www.d20pfsrd.com/feats/combat-feats/greater-grapple-combat/",
+  "source_name": "Feat: Greater Grapple (Combat)",
+  "sections": [
+    {
+      "id": "greater_grapple_combat",
+      "title": "Greater Grapple",
+      "anchor_heading": "# Greater Grapple (Combat)",
+      "description": "Complete rules for the feat Greater Grapple, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

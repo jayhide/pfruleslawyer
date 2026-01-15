@@ -1,0 +1,15 @@
+{
+  "file": "shield-specialization-combat.md",
+  "source_path": "https://www.d20pfsrd.com/feats/combat-feats/shield-specialization-combat/",
+  "source_name": "Feat: Shield Specialization (Combat)",
+  "sections": [
+    {
+      "id": "shield_specialization_combat",
+      "title": "Shield Specialization",
+      "anchor_heading": "# Shield Specialization (Combat)",
+      "description": "Complete rules for the feat Shield Specialization, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

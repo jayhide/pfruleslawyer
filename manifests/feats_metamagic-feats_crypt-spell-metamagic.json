@@ -1,0 +1,15 @@
+{
+  "file": "crypt-spell-metamagic.md",
+  "source_path": "https://www.d20pfsrd.com/feats/metamagic-feats/crypt-spell-metamagic/",
+  "source_name": "Feat: Crypt Spell (Metamagic)",
+  "sections": [
+    {
+      "id": "crypt_spell_metamagic",
+      "title": "Crypt Spell",
+      "anchor_heading": "# Crypt Spell (Metamagic)",
+      "description": "Complete rules for the feat Crypt Spell, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

@@ -1,0 +1,15 @@
+{
+  "file": "quick-study-combat.md",
+  "source_path": "https://www.d20pfsrd.com/feats/combat-feats/quick-study-combat/",
+  "source_name": "Feat: Quick Study (Combat)",
+  "sections": [
+    {
+      "id": "quick_study_combat",
+      "title": "Quick Study",
+      "anchor_heading": "# Quick Study (Combat)",
+      "description": "Complete rules for the feat Quick Study, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

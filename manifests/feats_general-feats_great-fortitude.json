@@ -1,0 +1,15 @@
+{
+  "file": "great-fortitude.md",
+  "source_path": "https://www.d20pfsrd.com/feats/general-feats/great-fortitude/",
+  "source_name": "Feat: Great Fortitude",
+  "sections": [
+    {
+      "id": "great_fortitude",
+      "title": "Great Fortitude",
+      "anchor_heading": "# Great Fortitude",
+      "description": "Complete rules for the feat Great Fortitude, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

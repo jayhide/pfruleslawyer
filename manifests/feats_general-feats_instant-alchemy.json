@@ -1,0 +1,15 @@
+{
+  "file": "instant-alchemy.md",
+  "source_path": "https://www.d20pfsrd.com/feats/general-feats/instant-alchemy/",
+  "source_name": "Feat: Instant Alchemy",
+  "sections": [
+    {
+      "id": "instant_alchemy",
+      "title": "Instant Alchemy",
+      "anchor_heading": "# Instant Alchemy",
+      "description": "Complete rules for the feat Instant Alchemy, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

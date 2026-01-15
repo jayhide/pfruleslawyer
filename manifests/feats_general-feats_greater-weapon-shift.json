@@ -1,0 +1,15 @@
+{
+  "file": "greater-weapon-shift.md",
+  "source_path": "https://www.d20pfsrd.com/feats/general-feats/greater-weapon-shift/",
+  "source_name": "Feat: Greater Weapon Shift",
+  "sections": [
+    {
+      "id": "greater_weapon_shift",
+      "title": "Greater Weapon Shift",
+      "anchor_heading": "# Greater Weapon Shift",
+      "description": "Complete rules for the feat Greater Weapon Shift, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

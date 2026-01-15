@@ -1,0 +1,15 @@
+{
+  "file": "elemental-overload.md",
+  "source_path": "https://www.d20pfsrd.com/feats/general-feats/elemental-overload/",
+  "source_name": "Feat: Elemental Overload",
+  "sections": [
+    {
+      "id": "elemental_overload",
+      "title": "Elemental Overload",
+      "anchor_heading": "# Elemental Overload",
+      "description": "Complete rules for the feat Elemental Overload, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

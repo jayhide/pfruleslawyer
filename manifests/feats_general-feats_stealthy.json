@@ -1,0 +1,15 @@
+{
+  "file": "stealthy.md",
+  "source_path": "https://www.d20pfsrd.com/feats/general-feats/stealthy/",
+  "source_name": "Feat: Stealthy",
+  "sections": [
+    {
+      "id": "stealthy",
+      "title": "Stealthy",
+      "anchor_heading": "# Stealthy",
+      "description": "Complete rules for the feat Stealthy, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

@@ -1,0 +1,15 @@
+{
+  "file": "strangler-combat.md",
+  "source_path": "https://www.d20pfsrd.com/feats/combat-feats/strangler-combat/",
+  "source_name": "Feat: Strangler (Combat)",
+  "sections": [
+    {
+      "id": "strangler_combat",
+      "title": "Strangler",
+      "anchor_heading": "# Strangler (Combat)",
+      "description": "Complete rules for the feat Strangler, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

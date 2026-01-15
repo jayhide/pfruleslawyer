@@ -1,0 +1,15 @@
+{
+  "file": "shadow-grasp-metamagic.md",
+  "source_path": "https://www.d20pfsrd.com/feats/metamagic-feats/shadow-grasp-metamagic/",
+  "source_name": "Feat: Shadow Grasp (Metamagic)",
+  "sections": [
+    {
+      "id": "shadow_grasp_metamagic",
+      "title": "Shadow Grasp",
+      "anchor_heading": "# Shadow Grasp (Metamagic)",
+      "description": "Complete rules for the feat Shadow Grasp, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

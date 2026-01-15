@@ -1,0 +1,15 @@
+{
+  "file": "mounted-archery-combat.md",
+  "source_path": "https://www.d20pfsrd.com/feats/combat-feats/mounted-archery-combat/",
+  "source_name": "Feat: Mounted Archery (Combat)",
+  "sections": [
+    {
+      "id": "mounted_archery_combat",
+      "title": "Mounted Archery",
+      "anchor_heading": "# Mounted Archery (Combat)",
+      "description": "Complete rules for the feat Mounted Archery, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

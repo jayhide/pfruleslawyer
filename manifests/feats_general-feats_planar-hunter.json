@@ -1,0 +1,15 @@
+{
+  "file": "planar-hunter.md",
+  "source_path": "https://www.d20pfsrd.com/feats/general-feats/planar-hunter/",
+  "source_name": "Feat: Planar Hunter",
+  "sections": [
+    {
+      "id": "planar_hunter",
+      "title": "Planar Hunter",
+      "anchor_heading": "# Planar Hunter",
+      "description": "Complete rules for the feat Planar Hunter, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

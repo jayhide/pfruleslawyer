@@ -1,0 +1,15 @@
+{
+  "file": "wilding-strike-combat.md",
+  "source_path": "https://www.d20pfsrd.com/feats/combat-feats/wilding-strike-combat/",
+  "source_name": "Feat: Wilding Strike (Combat)",
+  "sections": [
+    {
+      "id": "wilding_strike_combat",
+      "title": "Wilding Strike",
+      "anchor_heading": "# Wilding Strike (Combat)",
+      "description": "Complete rules for the feat Wilding Strike, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

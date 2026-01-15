@@ -1,0 +1,15 @@
+{
+  "file": "arcane-shield.md",
+  "source_path": "https://www.d20pfsrd.com/feats/general-feats/arcane-shield/",
+  "source_name": "Feat: Arcane Shield",
+  "sections": [
+    {
+      "id": "arcane_shield",
+      "title": "Arcane Shield",
+      "anchor_heading": "# Arcane Shield",
+      "description": "Complete rules for the feat Arcane Shield, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

@@ -1,0 +1,15 @@
+{
+  "file": "riptide-attack-combat.md",
+  "source_path": "https://www.d20pfsrd.com/feats/combat-feats/riptide-attack-combat/",
+  "source_name": "Feat: Riptide Attack (Combat)",
+  "sections": [
+    {
+      "id": "riptide_attack_combat",
+      "title": "Riptide Attack",
+      "anchor_heading": "# Riptide Attack (Combat)",
+      "description": "Complete rules for the feat Riptide Attack, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

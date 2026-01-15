@@ -1,0 +1,15 @@
+{
+  "file": "expert-sniper-combat.md",
+  "source_path": "https://www.d20pfsrd.com/feats/combat-feats/expert-sniper-combat/",
+  "source_name": "Feat: Expert Sniper (Combat)",
+  "sections": [
+    {
+      "id": "expert_sniper_combat",
+      "title": "Expert Sniper",
+      "anchor_heading": "# Expert Sniper (Combat)",
+      "description": "Complete rules for the feat Expert Sniper, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

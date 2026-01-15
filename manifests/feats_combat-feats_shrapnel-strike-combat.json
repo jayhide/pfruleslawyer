@@ -1,0 +1,15 @@
+{
+  "file": "shrapnel-strike-combat.md",
+  "source_path": "https://www.d20pfsrd.com/feats/combat-feats/shrapnel-strike-combat/",
+  "source_name": "Feat: Shrapnel Strike (Combat)",
+  "sections": [
+    {
+      "id": "shrapnel_strike_combat",
+      "title": "Shrapnel Strike",
+      "anchor_heading": "# Shrapnel Strike (Combat)",
+      "description": "Complete rules for the feat Shrapnel Strike, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

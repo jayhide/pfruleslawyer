@@ -1,0 +1,15 @@
+{
+  "file": "spell-drinker.md",
+  "source_path": "https://www.d20pfsrd.com/feats/general-feats/spell-drinker/",
+  "source_name": "Feat: Spell-Drinker",
+  "sections": [
+    {
+      "id": "spell_drinker",
+      "title": "Spell-Drinker",
+      "anchor_heading": "# Spell-Drinker",
+      "description": "Complete rules for the feat Spell-Drinker, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

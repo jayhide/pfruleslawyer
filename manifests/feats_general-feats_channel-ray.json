@@ -1,0 +1,15 @@
+{
+  "file": "channel-ray.md",
+  "source_path": "https://www.d20pfsrd.com/feats/general-feats/channel-ray/",
+  "source_name": "Feat: Channel Ray",
+  "sections": [
+    {
+      "id": "channel_ray",
+      "title": "Channel Ray",
+      "anchor_heading": "# Channel Ray",
+      "description": "Complete rules for the feat Channel Ray, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

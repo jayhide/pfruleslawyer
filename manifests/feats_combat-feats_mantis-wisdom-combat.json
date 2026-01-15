@@ -1,0 +1,15 @@
+{
+  "file": "mantis-wisdom-combat.md",
+  "source_path": "https://www.d20pfsrd.com/feats/combat-feats/mantis-wisdom-combat/",
+  "source_name": "Feat: Mantis Wisdom (Combat)",
+  "sections": [
+    {
+      "id": "mantis_wisdom_combat",
+      "title": "Mantis Wisdom",
+      "anchor_heading": "# Mantis Wisdom (Combat)",
+      "description": "Complete rules for the feat Mantis Wisdom, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

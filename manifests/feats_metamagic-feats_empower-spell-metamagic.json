@@ -1,0 +1,15 @@
+{
+  "file": "empower-spell-metamagic.md",
+  "source_path": "https://www.d20pfsrd.com/feats/metamagic-feats/empower-spell-metamagic/",
+  "source_name": "Feat: Empower Spell (Metamagic)",
+  "sections": [
+    {
+      "id": "empower_spell_metamagic",
+      "title": "Empower Spell",
+      "anchor_heading": "# Empower Spell (Metamagic)",
+      "description": "Complete rules for the feat Empower Spell, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

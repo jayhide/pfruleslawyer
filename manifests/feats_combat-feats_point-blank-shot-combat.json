@@ -1,0 +1,15 @@
+{
+  "file": "point-blank-shot-combat.md",
+  "source_path": "https://www.d20pfsrd.com/feats/combat-feats/point-blank-shot-combat/",
+  "source_name": "Feat: Point-Blank Shot (Combat)",
+  "sections": [
+    {
+      "id": "point_blank_shot_combat",
+      "title": "Point-Blank Shot",
+      "anchor_heading": "# Point-Blank Shot (Combat)",
+      "description": "Complete rules for the feat Point-Blank Shot, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

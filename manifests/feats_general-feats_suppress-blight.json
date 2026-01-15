@@ -1,0 +1,15 @@
+{
+  "file": "suppress-blight.md",
+  "source_path": "https://www.d20pfsrd.com/feats/general-feats/suppress-blight/",
+  "source_name": "Feat: Suppress Blight",
+  "sections": [
+    {
+      "id": "suppress_blight",
+      "title": "Suppress Blight",
+      "anchor_heading": "# Suppress Blight",
+      "description": "Complete rules for the feat Suppress Blight, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

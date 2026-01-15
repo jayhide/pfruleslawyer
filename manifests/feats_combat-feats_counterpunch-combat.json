@@ -1,0 +1,15 @@
+{
+  "file": "counterpunch-combat.md",
+  "source_path": "https://www.d20pfsrd.com/feats/combat-feats/counterpunch-combat/",
+  "source_name": "Feat: Counterpunch (Combat)",
+  "sections": [
+    {
+      "id": "counterpunch_combat",
+      "title": "Counterpunch",
+      "anchor_heading": "# Counterpunch (Combat)",
+      "description": "Complete rules for the feat Counterpunch, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

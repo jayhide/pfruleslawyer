@@ -1,0 +1,15 @@
+{
+  "file": "racial-heritage.md",
+  "source_path": "https://www.d20pfsrd.com/feats/racial-feats/racial-heritage/",
+  "source_name": "Feat: Racial Heritage (Human)",
+  "sections": [
+    {
+      "id": "racial_heritage",
+      "title": "Racial Heritage",
+      "anchor_heading": "# Racial Heritage (Human)",
+      "description": "Complete rules for the feat Racial Heritage, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

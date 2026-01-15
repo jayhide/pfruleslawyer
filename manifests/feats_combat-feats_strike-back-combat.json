@@ -1,0 +1,15 @@
+{
+  "file": "strike-back-combat.md",
+  "source_path": "https://www.d20pfsrd.com/feats/combat-feats/strike-back-combat/",
+  "source_name": "Feat: Strike Back (Combat)",
+  "sections": [
+    {
+      "id": "strike_back_combat",
+      "title": "Strike Back",
+      "anchor_heading": "# Strike Back (Combat)",
+      "description": "Complete rules for the feat Strike Back, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

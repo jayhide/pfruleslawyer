@@ -1,0 +1,15 @@
+{
+  "file": "strike-true-combat.md",
+  "source_path": "https://www.d20pfsrd.com/feats/combat-feats/strike-true-combat/",
+  "source_name": "Feat: Strike True Combat",
+  "sections": [
+    {
+      "id": "strike_true_combat",
+      "title": "Strike True Combat",
+      "anchor_heading": "# Strike True Combat",
+      "description": "Complete rules for the feat Strike True Combat, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

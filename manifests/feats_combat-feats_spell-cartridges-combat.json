@@ -1,0 +1,15 @@
+{
+  "file": "spell-cartridges-combat.md",
+  "source_path": "https://www.d20pfsrd.com/feats/combat-feats/spell-cartridges-combat/",
+  "source_name": "Feat: Spell Cartridges (Combat)",
+  "sections": [
+    {
+      "id": "spell_cartridges_combat",
+      "title": "Spell Cartridges",
+      "anchor_heading": "# Spell Cartridges (Combat)",
+      "description": "Complete rules for the feat Spell Cartridges, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

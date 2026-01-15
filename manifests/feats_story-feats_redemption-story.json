@@ -1,0 +1,15 @@
+{
+  "file": "redemption-story.md",
+  "source_path": "https://www.d20pfsrd.com/feats/story-feats/redemption-story/",
+  "source_name": "Feat: Redemption (Story)",
+  "sections": [
+    {
+      "id": "redemption_story",
+      "title": "Redemption",
+      "anchor_heading": "# Redemption (Story)",
+      "description": "Complete rules for the feat Redemption, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

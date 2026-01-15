@@ -1,0 +1,15 @@
+{
+  "file": "tribal-scars.md",
+  "source_path": "https://www.d20pfsrd.com/feats/general-feats/tribal-scars/",
+  "source_name": "Feat: Tribal Scars",
+  "sections": [
+    {
+      "id": "tribal_scars",
+      "title": "Tribal Scars",
+      "anchor_heading": "# Tribal Scars",
+      "description": "Complete rules for the feat Tribal Scars, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

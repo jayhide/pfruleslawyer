@@ -1,0 +1,15 @@
+{
+  "file": "maximize-spell-metamagic.md",
+  "source_path": "https://www.d20pfsrd.com/feats/metamagic-feats/maximize-spell-metamagic/",
+  "source_name": "Feat: Maximize Spell (Metamagic)",
+  "sections": [
+    {
+      "id": "maximize_spell_metamagic",
+      "title": "Maximize Spell",
+      "anchor_heading": "# Maximize Spell (Metamagic)",
+      "description": "Complete rules for the feat Maximize Spell, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

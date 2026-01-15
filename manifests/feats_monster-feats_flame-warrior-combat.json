@@ -1,0 +1,15 @@
+{
+  "file": "flame-warrior-combat.md",
+  "source_path": "https://www.d20pfsrd.com/feats/monster-feats/flame-warrior-combat/",
+  "source_name": "Feat: Flame Warrior (Combat)",
+  "sections": [
+    {
+      "id": "flame_warrior_combat",
+      "title": "Flame Warrior",
+      "anchor_heading": "# Flame Warrior (Combat)",
+      "description": "Complete rules for the feat Flame Warrior, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

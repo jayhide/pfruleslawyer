@@ -1,0 +1,15 @@
+{
+  "file": "phantom-fortification.md",
+  "source_path": "https://www.d20pfsrd.com/feats/general-feats/phantom-fortification/",
+  "source_name": "Feat: Phantom Fortification",
+  "sections": [
+    {
+      "id": "phantom_fortification",
+      "title": "Phantom Fortification",
+      "anchor_heading": "# Phantom Fortification",
+      "description": "Complete rules for the feat Phantom Fortification, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

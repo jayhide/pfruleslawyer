@@ -1,0 +1,15 @@
+{
+  "file": "patient-strike-combat.md",
+  "source_path": "https://www.d20pfsrd.com/feats/combat-feats/patient-strike-combat/",
+  "source_name": "Feat: Patient Strike (Combat)",
+  "sections": [
+    {
+      "id": "patient_strike_combat",
+      "title": "Patient Strike",
+      "anchor_heading": "# Patient Strike (Combat)",
+      "description": "Complete rules for the feat Patient Strike, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

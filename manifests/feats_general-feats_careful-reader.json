@@ -1,0 +1,15 @@
+{
+  "file": "careful-reader.md",
+  "source_path": "https://www.d20pfsrd.com/feats/general-feats/careful-reader/",
+  "source_name": "Feat: Careful Reader",
+  "sections": [
+    {
+      "id": "careful_reader",
+      "title": "Careful Reader",
+      "anchor_heading": "# Careful Reader",
+      "description": "Complete rules for the feat Careful Reader, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

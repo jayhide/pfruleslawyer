@@ -1,0 +1,15 @@
+{
+  "file": "starlight-summons.md",
+  "source_path": "https://www.d20pfsrd.com/feats/general-feats/starlight-summons/",
+  "source_name": "Feat: Starlight Summons",
+  "sections": [
+    {
+      "id": "starlight_summons",
+      "title": "Starlight Summons",
+      "anchor_heading": "# Starlight Summons",
+      "description": "Complete rules for the feat Starlight Summons, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

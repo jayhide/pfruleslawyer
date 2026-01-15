@@ -1,0 +1,15 @@
+{
+  "file": "stalwart.md",
+  "source_path": "https://www.d20pfsrd.com/feats/general-feats/stalwart/",
+  "source_name": "Feat: Stalwart",
+  "sections": [
+    {
+      "id": "stalwart",
+      "title": "Stalwart",
+      "anchor_heading": "# Stalwart",
+      "description": "Complete rules for the feat Stalwart, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

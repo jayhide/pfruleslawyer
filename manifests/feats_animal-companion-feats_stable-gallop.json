@@ -1,0 +1,15 @@
+{
+  "file": "stable-gallop.md",
+  "source_path": "https://www.d20pfsrd.com/feats/animal-companion-feats/stable-gallop/",
+  "source_name": "Feat: Stable Gallop (Animal Companion Feat)",
+  "sections": [
+    {
+      "id": "stable_gallop",
+      "title": "Stable Gallop",
+      "anchor_heading": "# Stable Gallop (Animal Companion Feat)",
+      "description": "Complete rules for the feat Stable Gallop, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

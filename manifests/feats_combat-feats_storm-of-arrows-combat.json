@@ -1,0 +1,15 @@
+{
+  "file": "storm-of-arrows-combat.md",
+  "source_path": "https://www.d20pfsrd.com/feats/combat-feats/storm-of-arrows-combat/",
+  "source_name": "Feat: Storm of Arrows (Combat)",
+  "sections": [
+    {
+      "id": "storm_of_arrows_combat",
+      "title": "Storm of Arrows",
+      "anchor_heading": "# Storm of Arrows (Combat)",
+      "description": "Complete rules for the feat Storm of Arrows, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

@@ -1,0 +1,15 @@
+{
+  "file": "pungent-stench.md",
+  "source_path": "https://www.d20pfsrd.com/feats/monster-feats/pungent-stench/",
+  "source_name": "Feat: Pungent Stench",
+  "sections": [
+    {
+      "id": "pungent_stench",
+      "title": "Pungent Stench",
+      "anchor_heading": "# Pungent Stench",
+      "description": "Complete rules for the feat Pungent Stench, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

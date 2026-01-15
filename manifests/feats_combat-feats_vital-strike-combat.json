@@ -1,0 +1,15 @@
+{
+  "file": "vital-strike-combat.md",
+  "source_path": "https://www.d20pfsrd.com/feats/combat-feats/vital-strike-combat/",
+  "source_name": "Feat: Vital Strike (Combat)",
+  "sections": [
+    {
+      "id": "vital_strike_combat",
+      "title": "Vital Strike",
+      "anchor_heading": "# Vital Strike (Combat)",
+      "description": "Complete rules for the feat Vital Strike, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

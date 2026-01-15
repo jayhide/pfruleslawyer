@@ -1,0 +1,15 @@
+{
+  "file": "giant-vendetta-story.md",
+  "source_path": "https://www.d20pfsrd.com/feats/story-feats/giant-vendetta-story/",
+  "source_name": "Feat: Giant Vendetta (Story)",
+  "sections": [
+    {
+      "id": "giant_vendetta_story",
+      "title": "Giant Vendetta",
+      "anchor_heading": "# Giant Vendetta (Story)",
+      "description": "Complete rules for the feat Giant Vendetta, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

@@ -1,0 +1,15 @@
+{
+  "file": "urban-forager.md",
+  "source_path": "https://www.d20pfsrd.com/feats/general-feats/urban-forager/",
+  "source_name": "Feat: Urban Forager",
+  "sections": [
+    {
+      "id": "urban_forager",
+      "title": "Urban Forager",
+      "anchor_heading": "# Urban Forager",
+      "description": "Complete rules for the feat Urban Forager, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

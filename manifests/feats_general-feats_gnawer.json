@@ -1,0 +1,15 @@
+{
+  "file": "gnawer.md",
+  "source_path": "https://www.d20pfsrd.com/feats/general-feats/gnawer/",
+  "source_name": "Feat: Gnawer",
+  "sections": [
+    {
+      "id": "gnawer",
+      "title": "Gnawer",
+      "anchor_heading": "# Gnawer",
+      "description": "Complete rules for the feat Gnawer, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

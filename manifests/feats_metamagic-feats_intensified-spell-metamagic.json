@@ -1,0 +1,15 @@
+{
+  "file": "intensified-spell-metamagic.md",
+  "source_path": "https://www.d20pfsrd.com/feats/metamagic-feats/intensified-spell-metamagic/",
+  "source_name": "Feat: Intensified Spell (Metamagic)",
+  "sections": [
+    {
+      "id": "intensified_spell_metamagic",
+      "title": "Intensified Spell",
+      "anchor_heading": "# Intensified Spell (Metamagic)",
+      "description": "Complete rules for the feat Intensified Spell, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

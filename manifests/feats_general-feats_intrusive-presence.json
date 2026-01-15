@@ -1,0 +1,15 @@
+{
+  "file": "intrusive-presence.md",
+  "source_path": "https://www.d20pfsrd.com/feats/general-feats/intrusive-presence/",
+  "source_name": "Feat: Intrusive Presence",
+  "sections": [
+    {
+      "id": "intrusive_presence",
+      "title": "Intrusive Presence",
+      "anchor_heading": "# Intrusive Presence",
+      "description": "Complete rules for the feat Intrusive Presence, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

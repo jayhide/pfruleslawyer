@@ -1,0 +1,15 @@
+{
+  "file": "power-attack-combat.md",
+  "source_path": "https://www.d20pfsrd.com/feats/combat-feats/power-attack-combat/",
+  "source_name": "Feat: Power Attack (Combat)",
+  "sections": [
+    {
+      "id": "power_attack_combat",
+      "title": "Power Attack",
+      "anchor_heading": "# Power Attack (Combat)",
+      "description": "Complete rules for the feat Power Attack, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

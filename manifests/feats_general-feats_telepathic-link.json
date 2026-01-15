@@ -1,0 +1,15 @@
+{
+  "file": "telepathic-link.md",
+  "source_path": "https://www.d20pfsrd.com/feats/general-feats/telepathic-link/",
+  "source_name": "Feat: Telepathic Link",
+  "sections": [
+    {
+      "id": "telepathic_link",
+      "title": "Telepathic Link",
+      "anchor_heading": "# Telepathic Link",
+      "description": "Complete rules for the feat Telepathic Link, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

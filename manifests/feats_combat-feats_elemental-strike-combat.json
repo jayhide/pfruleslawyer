@@ -1,0 +1,15 @@
+{
+  "file": "elemental-strike-combat.md",
+  "source_path": "https://www.d20pfsrd.com/feats/combat-feats/elemental-strike-combat/",
+  "source_name": "Feat: Elemental Strike (Combat)",
+  "sections": [
+    {
+      "id": "elemental_strike_combat",
+      "title": "Elemental Strike",
+      "anchor_heading": "# Elemental Strike (Combat)",
+      "description": "Complete rules for the feat Elemental Strike, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

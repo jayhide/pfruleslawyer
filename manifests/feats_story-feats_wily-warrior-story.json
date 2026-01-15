@@ -1,0 +1,15 @@
+{
+  "file": "wily-warrior-story.md",
+  "source_path": "https://www.d20pfsrd.com/feats/story-feats/wily-warrior-story/",
+  "source_name": "Feat: Wily Warrior (Story)",
+  "sections": [
+    {
+      "id": "wily_warrior_story",
+      "title": "Wily Warrior",
+      "anchor_heading": "# Wily Warrior (Story)",
+      "description": "Complete rules for the feat Wily Warrior, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

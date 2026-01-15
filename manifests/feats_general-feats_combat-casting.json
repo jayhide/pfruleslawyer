@@ -1,0 +1,15 @@
+{
+  "file": "combat-casting.md",
+  "source_path": "https://www.d20pfsrd.com/feats/general-feats/combat-casting/",
+  "source_name": "Feat: Combat Casting",
+  "sections": [
+    {
+      "id": "combat_casting",
+      "title": "Combat Casting",
+      "anchor_heading": "# Combat Casting",
+      "description": "Complete rules for the feat Combat Casting, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

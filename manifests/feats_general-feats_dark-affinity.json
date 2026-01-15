@@ -1,0 +1,15 @@
+{
+  "file": "dark-affinity.md",
+  "source_path": "https://www.d20pfsrd.com/feats/general-feats/dark-affinity/",
+  "source_name": "Feat: Dark Affinity",
+  "sections": [
+    {
+      "id": "dark_affinity",
+      "title": "Dark Affinity",
+      "anchor_heading": "# Dark Affinity",
+      "description": "Complete rules for the feat Dark Affinity, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

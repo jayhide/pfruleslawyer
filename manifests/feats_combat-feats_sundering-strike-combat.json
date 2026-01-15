@@ -1,0 +1,15 @@
+{
+  "file": "sundering-strike-combat.md",
+  "source_path": "https://www.d20pfsrd.com/feats/combat-feats/sundering-strike-combat/",
+  "source_name": "Feat: Sundering Strike (Combat)",
+  "sections": [
+    {
+      "id": "sundering_strike_combat",
+      "title": "Sundering Strike",
+      "anchor_heading": "# Sundering Strike (Combat)",
+      "description": "Complete rules for the feat Sundering Strike, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

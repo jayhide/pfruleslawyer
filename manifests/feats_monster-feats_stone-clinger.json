@@ -1,0 +1,15 @@
+{
+  "file": "stone-clinger.md",
+  "source_path": "https://www.d20pfsrd.com/feats/monster-feats/stone-clinger/",
+  "source_name": "Feat: Stone Clinger (Monster)",
+  "sections": [
+    {
+      "id": "stone_clinger",
+      "title": "Stone Clinger",
+      "anchor_heading": "# Stone Clinger (Monster)",
+      "description": "Complete rules for the feat Stone Clinger, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

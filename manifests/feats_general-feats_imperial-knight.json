@@ -1,0 +1,15 @@
+{
+  "file": "imperial-knight.md",
+  "source_path": "https://www.d20pfsrd.com/feats/general-feats/imperial-knight/",
+  "source_name": "Feat: Imperial Knight",
+  "sections": [
+    {
+      "id": "imperial_knight",
+      "title": "Imperial Knight",
+      "anchor_heading": "# Imperial Knight",
+      "description": "Complete rules for the feat Imperial Knight, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

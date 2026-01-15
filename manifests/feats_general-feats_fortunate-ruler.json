@@ -1,0 +1,15 @@
+{
+  "file": "fortunate-ruler.md",
+  "source_path": "https://www.d20pfsrd.com/feats/general-feats/fortunate-ruler/",
+  "source_name": "Feat: Fortunate Ruler",
+  "sections": [
+    {
+      "id": "fortunate_ruler",
+      "title": "Fortunate Ruler",
+      "anchor_heading": "# Fortunate Ruler",
+      "description": "Complete rules for the feat Fortunate Ruler, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

@@ -1,0 +1,15 @@
+{
+  "file": "spellsong.md",
+  "source_path": "https://www.d20pfsrd.com/feats/general-feats/spellsong/",
+  "source_name": "Feat: Spellsong",
+  "sections": [
+    {
+      "id": "spellsong",
+      "title": "Spellsong",
+      "anchor_heading": "# Spellsong",
+      "description": "Complete rules for the feat Spellsong, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

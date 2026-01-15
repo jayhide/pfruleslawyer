@@ -1,0 +1,15 @@
+{
+  "file": "monastic-legacy-combat.md",
+  "source_path": "https://www.d20pfsrd.com/feats/combat-feats/monastic-legacy-combat/",
+  "source_name": "Feat: Monastic Legacy (Combat)",
+  "sections": [
+    {
+      "id": "monastic_legacy_combat",
+      "title": "Monastic Legacy",
+      "anchor_heading": "# Monastic Legacy (Combat)",
+      "description": "Complete rules for the feat Monastic Legacy, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

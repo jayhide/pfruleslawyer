@@ -1,0 +1,15 @@
+{
+  "file": "penetrating-strike-combat.md",
+  "source_path": "https://www.d20pfsrd.com/feats/combat-feats/penetrating-strike-combat/",
+  "source_name": "Feat: Penetrating Strike (Combat)",
+  "sections": [
+    {
+      "id": "penetrating_strike_combat",
+      "title": "Penetrating Strike",
+      "anchor_heading": "# Penetrating Strike (Combat)",
+      "description": "Complete rules for the feat Penetrating Strike, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

@@ -1,0 +1,15 @@
+{
+  "file": "vim-and-vigor-combat.md",
+  "source_path": "https://www.d20pfsrd.com/feats/combat-feats/vim-and-vigor-combat/",
+  "source_name": "Feat: Vim and Vigor (Combat)",
+  "sections": [
+    {
+      "id": "vim_and_vigor_combat",
+      "title": "Vim and Vigor",
+      "anchor_heading": "# Vim and Vigor (Combat)",
+      "description": "Complete rules for the feat Vim and Vigor, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

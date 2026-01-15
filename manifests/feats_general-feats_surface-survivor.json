@@ -1,0 +1,15 @@
+{
+  "file": "surface-survivor.md",
+  "source_path": "https://www.d20pfsrd.com/feats/general-feats/surface-survivor/",
+  "source_name": "Feat: Surface Survivor",
+  "sections": [
+    {
+      "id": "surface_survivor",
+      "title": "Surface Survivor",
+      "anchor_heading": "# Surface Survivor",
+      "description": "Complete rules for the feat Surface Survivor, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

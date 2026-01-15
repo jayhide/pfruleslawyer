@@ -1,0 +1,15 @@
+{
+  "file": "recruits.md",
+  "source_path": "https://www.d20pfsrd.com/feats/general-feats/recruits/",
+  "source_name": "Feat: Recruits",
+  "sections": [
+    {
+      "id": "recruits",
+      "title": "Recruits",
+      "anchor_heading": "# Recruits",
+      "description": "Complete rules for the feat Recruits, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

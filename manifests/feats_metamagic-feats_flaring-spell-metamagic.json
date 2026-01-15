@@ -1,0 +1,15 @@
+{
+  "file": "flaring-spell-metamagic.md",
+  "source_path": "https://www.d20pfsrd.com/feats/metamagic-feats/flaring-spell-metamagic/",
+  "source_name": "Feat: Flaring Spell (Metamagic)",
+  "sections": [
+    {
+      "id": "flaring_spell_metamagic",
+      "title": "Flaring Spell",
+      "anchor_heading": "# Flaring Spell (Metamagic)",
+      "description": "Complete rules for the feat Flaring Spell, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

@@ -1,0 +1,15 @@
+{
+  "file": "false-focus.md",
+  "source_path": "https://www.d20pfsrd.com/feats/general-feats/false-focus/",
+  "source_name": "Feat: False Focus",
+  "sections": [
+    {
+      "id": "false_focus",
+      "title": "False Focus",
+      "anchor_heading": "# False Focus",
+      "description": "Complete rules for the feat False Focus, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

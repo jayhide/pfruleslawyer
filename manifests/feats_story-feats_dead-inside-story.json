@@ -1,0 +1,15 @@
+{
+  "file": "dead-inside-story.md",
+  "source_path": "https://www.d20pfsrd.com/feats/story-feats/dead-inside-story/",
+  "source_name": "Feat: Dead Inside (Story)",
+  "sections": [
+    {
+      "id": "dead_inside_story",
+      "title": "Dead Inside",
+      "anchor_heading": "# Dead Inside (Story)",
+      "description": "Complete rules for the feat Dead Inside, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

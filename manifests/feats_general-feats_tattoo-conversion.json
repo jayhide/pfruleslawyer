@@ -1,0 +1,15 @@
+{
+  "file": "tattoo-conversion.md",
+  "source_path": "https://www.d20pfsrd.com/feats/general-feats/tattoo-conversion/",
+  "source_name": "Feat: Tattoo Conversion",
+  "sections": [
+    {
+      "id": "tattoo_conversion",
+      "title": "Tattoo Conversion",
+      "anchor_heading": "# Tattoo Conversion",
+      "description": "Complete rules for the feat Tattoo Conversion, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

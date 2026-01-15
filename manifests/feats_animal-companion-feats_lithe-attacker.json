@@ -1,0 +1,15 @@
+{
+  "file": "lithe-attacker.md",
+  "source_path": "https://www.d20pfsrd.com/feats/animal-companion-feats/lithe-attacker/",
+  "source_name": "Feat: Lithe Attacker (Animal Companion Feat)",
+  "sections": [
+    {
+      "id": "lithe_attacker",
+      "title": "Lithe Attacker",
+      "anchor_heading": "# Lithe Attacker (Animal Companion Feat)",
+      "description": "Complete rules for the feat Lithe Attacker, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

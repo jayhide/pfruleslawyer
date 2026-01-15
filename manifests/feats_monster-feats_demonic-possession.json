@@ -1,0 +1,15 @@
+{
+  "file": "demonic-possession.md",
+  "source_path": "https://www.d20pfsrd.com/feats/monster-feats/demonic-possession/",
+  "source_name": "Feat: Demonic Possession",
+  "sections": [
+    {
+      "id": "demonic_possession",
+      "title": "Demonic Possession",
+      "anchor_heading": "# Demonic Possession",
+      "description": "Complete rules for the feat Demonic Possession, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

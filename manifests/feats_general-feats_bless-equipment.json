@@ -1,0 +1,15 @@
+{
+  "file": "bless-equipment.md",
+  "source_path": "https://www.d20pfsrd.com/feats/general-feats/bless-equipment/",
+  "source_name": "Feat: Bless Equipment",
+  "sections": [
+    {
+      "id": "bless_equipment",
+      "title": "Bless Equipment",
+      "anchor_heading": "# Bless Equipment",
+      "description": "Complete rules for the feat Bless Equipment, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

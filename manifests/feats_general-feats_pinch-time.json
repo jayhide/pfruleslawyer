@@ -1,0 +1,15 @@
+{
+  "file": "pinch-time.md",
+  "source_path": "https://www.d20pfsrd.com/feats/general-feats/pinch-time/",
+  "source_name": "Feat: Pinch Time",
+  "sections": [
+    {
+      "id": "pinch_time",
+      "title": "Pinch Time",
+      "anchor_heading": "# Pinch Time",
+      "description": "Complete rules for the feat Pinch Time, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

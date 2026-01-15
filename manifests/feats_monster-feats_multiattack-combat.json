@@ -1,0 +1,15 @@
+{
+  "file": "multiattack-combat.md",
+  "source_path": "https://www.d20pfsrd.com/feats/monster-feats/multiattack-combat/",
+  "source_name": "Feat: Multiattack (Monster)",
+  "sections": [
+    {
+      "id": "multiattack_combat",
+      "title": "Multiattack",
+      "anchor_heading": "# Multiattack (Monster)",
+      "description": "Complete rules for the feat Multiattack, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

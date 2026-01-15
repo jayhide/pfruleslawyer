@@ -1,0 +1,15 @@
+{
+  "file": "quick-channel.md",
+  "source_path": "https://www.d20pfsrd.com/feats/general-feats/quick-channel/",
+  "source_name": "Feat: Quick Channel",
+  "sections": [
+    {
+      "id": "quick_channel",
+      "title": "Quick Channel",
+      "anchor_heading": "# Quick Channel",
+      "description": "Complete rules for the feat Quick Channel, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

@@ -1,0 +1,15 @@
+{
+  "file": "master-sniper-combat.md",
+  "source_path": "https://www.d20pfsrd.com/feats/combat-feats/master-sniper-combat/",
+  "source_name": "Feat: Master Sniper (Combat)",
+  "sections": [
+    {
+      "id": "master_sniper_combat",
+      "title": "Master Sniper",
+      "anchor_heading": "# Master Sniper (Combat)",
+      "description": "Complete rules for the feat Master Sniper, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

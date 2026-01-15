@@ -1,0 +1,15 @@
+{
+  "file": "shadow-caster-drow.md",
+  "source_path": "https://www.d20pfsrd.com/feats/racial-feats/shadow-caster-drow/",
+  "source_name": "Feat: Shadow Caster (Drow)",
+  "sections": [
+    {
+      "id": "shadow_caster_drow",
+      "title": "Shadow Caster",
+      "anchor_heading": "# Shadow Caster (Drow)",
+      "description": "Complete rules for the feat Shadow Caster, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

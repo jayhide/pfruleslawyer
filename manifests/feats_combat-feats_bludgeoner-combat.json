@@ -1,0 +1,15 @@
+{
+  "file": "bludgeoner-combat.md",
+  "source_path": "https://www.d20pfsrd.com/feats/combat-feats/bludgeoner-combat/",
+  "source_name": "Feat: Bludgeoner (Combat)",
+  "sections": [
+    {
+      "id": "bludgeoner_combat",
+      "title": "Bludgeoner",
+      "anchor_heading": "# Bludgeoner (Combat)",
+      "description": "Complete rules for the feat Bludgeoner, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

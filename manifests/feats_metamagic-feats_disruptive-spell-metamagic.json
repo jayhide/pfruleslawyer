@@ -1,0 +1,15 @@
+{
+  "file": "disruptive-spell-metamagic.md",
+  "source_path": "https://www.d20pfsrd.com/feats/metamagic-feats/disruptive-spell-metamagic/",
+  "source_name": "Feat: Disruptive Spell (Metamagic)",
+  "sections": [
+    {
+      "id": "disruptive_spell_metamagic",
+      "title": "Disruptive Spell",
+      "anchor_heading": "# Disruptive Spell (Metamagic)",
+      "description": "Complete rules for the feat Disruptive Spell, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

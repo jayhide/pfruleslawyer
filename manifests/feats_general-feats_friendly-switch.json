@@ -1,0 +1,15 @@
+{
+  "file": "friendly-switch.md",
+  "source_path": "https://www.d20pfsrd.com/feats/general-feats/friendly-switch/",
+  "source_name": "Feat: Friendly Switch",
+  "sections": [
+    {
+      "id": "friendly_switch",
+      "title": "Friendly Switch",
+      "anchor_heading": "# Friendly Switch",
+      "description": "Complete rules for the feat Friendly Switch, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

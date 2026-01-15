@@ -1,0 +1,15 @@
+{
+  "file": "reactive-healing.md",
+  "source_path": "https://www.d20pfsrd.com/feats/general-feats/reactive-healing/",
+  "source_name": "Feat: Reactive Healing",
+  "sections": [
+    {
+      "id": "reactive_healing",
+      "title": "Reactive Healing",
+      "anchor_heading": "# Reactive Healing",
+      "description": "Complete rules for the feat Reactive Healing, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}

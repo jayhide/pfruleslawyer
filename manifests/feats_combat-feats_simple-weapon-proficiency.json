@@ -1,0 +1,15 @@
+{
+  "file": "simple-weapon-proficiency.md",
+  "source_path": "https://www.d20pfsrd.com/feats/combat-feats/simple-weapon-proficiency/",
+  "source_name": "Feat: Simple Weapon Proficiency (Combat)",
+  "sections": [
+    {
+      "id": "simple_weapon_proficiency",
+      "title": "Simple Weapon Proficiency",
+      "anchor_heading": "# Simple Weapon Proficiency (Combat)",
+      "description": "Complete rules for the feat Simple Weapon Proficiency, including prerequisites and benefits.",
+      "keywords": []
+    }
+  ],
+  "category": "Feats"
+}
