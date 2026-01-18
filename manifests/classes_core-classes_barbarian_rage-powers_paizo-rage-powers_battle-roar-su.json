@@ -1,0 +1,15 @@
+{
+  "file": "battle-roar-su.md",
+  "source_path": "https://www.d20pfsrd.com/classes/core-classes/barbarian/rage-powers/paizo-rage-powers/battle-roar-su/",
+  "source_name": "Rage Power: Battle Roar (Su)",
+  "sections": [
+    {
+      "id": "battle_roar_su",
+      "title": "Battle Roar",
+      "anchor_heading": "# Battle Roar (Su)",
+      "description": "Rules and description for Battle Roar.",
+      "keywords": []
+    }
+  ],
+  "category": "Rage Powers"
+}

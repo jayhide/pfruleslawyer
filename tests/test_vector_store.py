@@ -109,4 +109,11 @@ class TestRegressionCases:
     Add new tests here as failing cases are discovered.
     """
 
-    pass
+    def test_flamboyant_arcana_without_suffix(self, store):
+        """Searching 'flamboyant arcana' should find the magus arcana.
+
+        Regression test: titles were stored with (Ex)/(Sp)/(Su) suffixes,
+        preventing matches when users searched without the suffix.
+        """
+        results = store.query("flamboyant arcana", n_results=10)
+        assert_retrieved(results, title_contains="Flamboyant Arcana", top_n=5)

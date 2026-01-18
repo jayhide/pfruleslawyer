@@ -1,0 +1,15 @@
+{
+  "file": "drugged-su.md",
+  "source_path": "https://www.d20pfsrd.com/classes/base-classes/witch/hexes/hexes/major-hexes/drugged-su/",
+  "source_name": "Major Witch Hex: Drugged (Su)",
+  "sections": [
+    {
+      "id": "drugged_su",
+      "title": "Drugged",
+      "anchor_heading": "# Drugged (Su)",
+      "description": "Rules and description for Drugged.",
+      "keywords": []
+    }
+  ],
+  "category": "Witch Hexes"
+}

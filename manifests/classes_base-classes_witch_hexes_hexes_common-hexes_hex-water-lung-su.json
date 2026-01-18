@@ -1,0 +1,15 @@
+{
+  "file": "hex-water-lung-su.md",
+  "source_path": "https://www.d20pfsrd.com/classes/base-classes/witch/hexes/hexes/common-hexes/hex-water-lung-su/",
+  "source_name": "Witch Hex: Water Lung (Su)",
+  "sections": [
+    {
+      "id": "hex_water_lung_su",
+      "title": "Water Lung",
+      "anchor_heading": "# Water Lung (Su)",
+      "description": "Rules and description for Water Lung.",
+      "keywords": []
+    }
+  ],
+  "category": "Witch Hexes"
+}

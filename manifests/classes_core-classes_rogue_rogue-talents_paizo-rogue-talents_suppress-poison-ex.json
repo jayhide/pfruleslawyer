@@ -1,0 +1,15 @@
+{
+  "file": "suppress-poison-ex.md",
+  "source_path": "https://www.d20pfsrd.com/classes/core-classes/rogue/rogue-talents/paizo-rogue-talents/suppress-poison-ex/",
+  "source_name": "Rogue Talent: Suppress Poison (Ex)",
+  "sections": [
+    {
+      "id": "suppress_poison_ex",
+      "title": "Suppress Poison",
+      "anchor_heading": "# Suppress Poison (Ex)",
+      "description": "Rules and description for Suppress Poison.",
+      "keywords": []
+    }
+  ],
+  "category": "Rogue Talents"
+}

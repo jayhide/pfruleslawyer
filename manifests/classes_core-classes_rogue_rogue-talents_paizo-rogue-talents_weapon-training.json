@@ -1,0 +1,15 @@
+{
+  "file": "weapon-training.md",
+  "source_path": "https://www.d20pfsrd.com/classes/core-classes/rogue/rogue-talents/paizo-rogue-talents/weapon-training/",
+  "source_name": "Rogue Talent: Weapon Training",
+  "sections": [
+    {
+      "id": "weapon_training",
+      "title": "Weapon Training",
+      "anchor_heading": "# Weapon Training",
+      "description": "Rules and description for Weapon Training.",
+      "keywords": []
+    }
+  ],
+  "category": "Rogue Talents"
+}

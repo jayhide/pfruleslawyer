@@ -5,14 +5,14 @@
       "keyword_boost": 0.2,
       "subheading_boost": 0.2,
       "title_boost": 0.3,
-      "rerank_weight": 0.4
+      "rerank_weight": 0.1
     },
     "Spells": {
       "semantic_weight": 0.0,
       "keyword_boost": 0.0,
       "subheading_boost": 0.0,
       "title_boost": 1.0,
-      "rerank_weight": 0.2
+      "rerank_weight": 0.1
     },
     "FAQ": {
       "semantic_weight": 1.0,
@@ -26,14 +26,70 @@
       "keyword_boost": 0.0,
       "subheading_boost": 0.0,
       "title_boost": 1.0,
-      "rerank_weight": 0.2
+      "rerank_weight": 0.1
     },
     "Feats": {
       "semantic_weight": 0.0,
       "keyword_boost": 0.0,
       "subheading_boost": 0.0,
       "title_boost": 1.0,
-      "rerank_weight": 0.2
+      "rerank_weight": 0.1
+    },
+    "Classes": {
+      "semantic_weight": 0.8,
+      "keyword_boost": 0.2,
+      "subheading_boost": 0.2,
+      "title_boost": 0.5,
+      "rerank_weight": 0.1
+    },
+    "Magus Arcana": {
+      "semantic_weight": 0.0,
+      "keyword_boost": 0.0,
+      "subheading_boost": 0.0,
+      "title_boost": 1.0,
+      "rerank_weight": 0.1
+    },
+    "Rogue Talents": {
+      "semantic_weight": 0.0,
+      "keyword_boost": 0.0,
+      "subheading_boost": 0.0,
+      "title_boost": 1.0,
+      "rerank_weight": 0.1
+    },
+    "Arcanist Exploits": {
+      "semantic_weight": 0.0,
+      "keyword_boost": 0.0,
+      "subheading_boost": 0.0,
+      "title_boost": 1.0,
+      "rerank_weight": 0.1
+    },
+    "Alchemist Discoveries": {
+      "semantic_weight": 0.0,
+      "keyword_boost": 0.0,
+      "subheading_boost": 0.0,
+      "title_boost": 1.0,
+      "rerank_weight": 0.1
+    },
+    "Witch Hexes": {
+      "semantic_weight": 0.0,
+      "keyword_boost": 0.0,
+      "subheading_boost": 0.0,
+      "title_boost": 1.0,
+      "rerank_weight": 0.1
+    },
+    "Investigator Talents": {
+      "semantic_weight": 0.0,
+      "keyword_boost": 0.0,
+      "subheading_boost": 0.0,
+      "title_boost": 1.0,
+      "rerank_weight": 0.1
+    },
+    "Rage Powers": {
+      "semantic_weight": 0.0,
+      "keyword_boost": 0.0,
+      "subheading_boost": 0.0,
+      "title_boost": 1.0,
+      "rerank_weight": 0.1
     }
   },
   "entries": [
@@ -307,6 +363,105 @@
       "mode": "template",
       "category": "Feats",
       "name_prefix": "Feat"
+    },
+    {
+      "pattern": "https://www.d20pfsrd.com/classes/base-classes/magus/magus-arcana/paizo-magus-arcana/*",
+      "mode": "template",
+      "category": "Magus Arcana",
+      "name_prefix": "Magus Arcana",
+      "exclude": [
+        "https://www.d20pfsrd.com/classes/base-classes/magus/magus-arcana/paizo-magus-arcana/"
+      ]
+    },
+    {
+      "pattern": "https://www.d20pfsrd.com/classes/core-classes/rogue/rogue-talents/paizo-rogue-talents/*",
+      "mode": "template",
+      "category": "Rogue Talents",
+      "name_prefix": "Rogue Talent",
+      "exclude": [
+        "https://www.d20pfsrd.com/classes/core-classes/rogue/rogue-talents/paizo-rogue-talents/"
+      ]
+    },
+    {
+      "pattern": "https://www.d20pfsrd.com/classes/core-classes/rogue/rogue-talents/paizo-rogue-advanced-talents/*",
+      "mode": "template",
+      "category": "Rogue Talents",
+      "name_prefix": "Advanced Rogue Talent",
+      "exclude": [
+        "https://www.d20pfsrd.com/classes/core-classes/rogue/rogue-talents/paizo-rogue-advanced-talents/"
+      ]
+    },
+    {
+      "pattern": "https://www.d20pfsrd.com/classes/hybrid-classes/arcanist/arcane-exploits/*",
+      "mode": "template",
+      "category": "Arcanist Exploits",
+      "name_prefix": "Arcanist Exploit",
+      "exclude": [
+        "https://www.d20pfsrd.com/classes/hybrid-classes/arcanist/arcane-exploits/"
+      ]
+    },
+    {
+      "pattern": "https://www.d20pfsrd.com/classes/hybrid-classes/arcanist/arcanist-greater-exploits/*",
+      "mode": "template",
+      "category": "Arcanist Exploits",
+      "name_prefix": "Greater Arcanist Exploit",
+      "exclude": [
+        "https://www.d20pfsrd.com/classes/hybrid-classes/arcanist/arcanist-greater-exploits/"
+      ]
+    },
+    {
+      "pattern": "https://www.d20pfsrd.com/classes/base-classes/alchemist/discoveries/paizo-alchemist-discoveries/*",
+      "mode": "template",
+      "category": "Alchemist Discoveries",
+      "name_prefix": "Alchemist Discovery",
+      "exclude": [
+        "https://www.d20pfsrd.com/classes/base-classes/alchemist/discoveries/paizo-alchemist-discoveries/"
+      ]
+    },
+    {
+      "pattern": "https://www.d20pfsrd.com/classes/base-classes/witch/hexes/hexes/common-hexes/*",
+      "mode": "template",
+      "category": "Witch Hexes",
+      "name_prefix": "Witch Hex",
+      "exclude": [
+        "https://www.d20pfsrd.com/classes/base-classes/witch/hexes/hexes/common-hexes/"
+      ]
+    },
+    {
+      "pattern": "https://www.d20pfsrd.com/classes/base-classes/witch/hexes/hexes/major-hexes/*",
+      "mode": "template",
+      "category": "Witch Hexes",
+      "name_prefix": "Major Witch Hex",
+      "exclude": [
+        "https://www.d20pfsrd.com/classes/base-classes/witch/hexes/hexes/major-hexes/"
+      ]
+    },
+    {
+      "pattern": "https://www.d20pfsrd.com/classes/base-classes/witch/hexes/hexes/grand-hexes/*",
+      "mode": "template",
+      "category": "Witch Hexes",
+      "name_prefix": "Grand Witch Hex",
+      "exclude": [
+        "https://www.d20pfsrd.com/classes/base-classes/witch/hexes/hexes/grand-hexes/"
+      ]
+    },
+    {
+      "pattern": "https://www.d20pfsrd.com/classes/hybrid-classes/investigator/investigator-talents/paizo-investigator-talents/*",
+      "mode": "template",
+      "category": "Investigator Talents",
+      "name_prefix": "Investigator Talent",
+      "exclude": [
+        "https://www.d20pfsrd.com/classes/hybrid-classes/investigator/investigator-talents/paizo-investigator-talents/"
+      ]
+    },
+    {
+      "pattern": "https://www.d20pfsrd.com/classes/core-classes/barbarian/rage-powers/paizo-rage-powers/*",
+      "mode": "template",
+      "category": "Rage Powers",
+      "name_prefix": "Rage Power",
+      "exclude": [
+        "https://www.d20pfsrd.com/classes/core-classes/barbarian/rage-powers/paizo-rage-powers/"
+      ]
     }
   ]
 }

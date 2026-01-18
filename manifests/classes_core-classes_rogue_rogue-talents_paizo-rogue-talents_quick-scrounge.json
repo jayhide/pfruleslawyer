@@ -1,0 +1,15 @@
+{
+  "file": "quick-scrounge.md",
+  "source_path": "https://www.d20pfsrd.com/classes/core-classes/rogue/rogue-talents/paizo-rogue-talents/quick-scrounge/",
+  "source_name": "Rogue Talent: Quick Scrounge",
+  "sections": [
+    {
+      "id": "quick_scrounge",
+      "title": "Quick Scrounge",
+      "anchor_heading": "# Quick Scrounge",
+      "description": "Rules and description for Quick Scrounge.",
+      "keywords": []
+    }
+  ],
+  "category": "Rogue Talents"
+}

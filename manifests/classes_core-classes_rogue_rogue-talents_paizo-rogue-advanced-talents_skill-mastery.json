@@ -1,0 +1,15 @@
+{
+  "file": "skill-mastery.md",
+  "source_path": "https://www.d20pfsrd.com/classes/core-classes/rogue/rogue-talents/paizo-rogue-advanced-talents/skill-mastery/",
+  "source_name": "Advanced Rogue Talent: Skill Mastery",
+  "sections": [
+    {
+      "id": "skill_mastery",
+      "title": "Skill Mastery",
+      "anchor_heading": "# Skill Mastery",
+      "description": "Rules and description for Skill Mastery.",
+      "keywords": []
+    }
+  ],
+  "category": "Rogue Talents"
+}

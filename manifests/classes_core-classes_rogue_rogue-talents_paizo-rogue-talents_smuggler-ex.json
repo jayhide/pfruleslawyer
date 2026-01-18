@@ -1,0 +1,15 @@
+{
+  "file": "smuggler-ex.md",
+  "source_path": "https://www.d20pfsrd.com/classes/core-classes/rogue/rogue-talents/paizo-rogue-talents/smuggler-ex/",
+  "source_name": "Rogue Talent: Smuggler Ex",
+  "sections": [
+    {
+      "id": "smuggler_ex",
+      "title": "Smuggler Ex",
+      "anchor_heading": "# Smuggler Ex",
+      "description": "Rules and description for Smuggler Ex.",
+      "keywords": []
+    }
+  ],
+  "category": "Rogue Talents"
+}

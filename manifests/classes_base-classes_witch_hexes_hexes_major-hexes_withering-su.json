@@ -1,0 +1,15 @@
+{
+  "file": "withering-su.md",
+  "source_path": "https://www.d20pfsrd.com/classes/base-classes/witch/hexes/hexes/major-hexes/withering-su/",
+  "source_name": "Major Witch Hex: Withering (Su)",
+  "sections": [
+    {
+      "id": "withering_su",
+      "title": "Withering",
+      "anchor_heading": "# Withering (Su)",
+      "description": "Rules and description for Withering.",
+      "keywords": []
+    }
+  ],
+  "category": "Witch Hexes"
+}

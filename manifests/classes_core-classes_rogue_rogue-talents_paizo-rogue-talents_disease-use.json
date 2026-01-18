@@ -1,0 +1,15 @@
+{
+  "file": "disease-use.md",
+  "source_path": "https://www.d20pfsrd.com/classes/core-classes/rogue/rogue-talents/paizo-rogue-talents/disease-use/",
+  "source_name": "Rogue Talent: Disease Use",
+  "sections": [
+    {
+      "id": "disease_use",
+      "title": "Disease Use",
+      "anchor_heading": "# Disease Use",
+      "description": "Rules and description for Disease Use.",
+      "keywords": []
+    }
+  ],
+  "category": "Rogue Talents"
+}

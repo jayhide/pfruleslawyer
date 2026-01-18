@@ -1,0 +1,15 @@
+{
+  "file": "survivalist.md",
+  "source_path": "https://www.d20pfsrd.com/classes/core-classes/rogue/rogue-talents/paizo-rogue-talents/survivalist/",
+  "source_name": "Rogue Talent: Survivalist",
+  "sections": [
+    {
+      "id": "survivalist",
+      "title": "Survivalist",
+      "anchor_heading": "# Survivalist",
+      "description": "Rules and description for Survivalist.",
+      "keywords": []
+    }
+  ],
+  "category": "Rogue Talents"
+}

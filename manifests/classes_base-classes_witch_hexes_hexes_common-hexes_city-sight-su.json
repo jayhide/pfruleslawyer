@@ -1,0 +1,15 @@
+{
+  "file": "city-sight-su.md",
+  "source_path": "https://www.d20pfsrd.com/classes/base-classes/witch/hexes/hexes/common-hexes/city-sight-su/",
+  "source_name": "Witch Hex: City Sight (Su)",
+  "sections": [
+    {
+      "id": "city_sight_su",
+      "title": "City Sight",
+      "anchor_heading": "# City Sight (Su)",
+      "description": "Rules and description for City Sight.",
+      "keywords": []
+    }
+  ],
+  "category": "Witch Hexes"
+}

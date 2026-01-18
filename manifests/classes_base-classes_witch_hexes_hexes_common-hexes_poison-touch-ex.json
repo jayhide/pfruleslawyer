@@ -1,0 +1,15 @@
+{
+  "file": "poison-touch-ex.md",
+  "source_path": "https://www.d20pfsrd.com/classes/base-classes/witch/hexes/hexes/common-hexes/poison-touch-ex/",
+  "source_name": "Witch Hex: Poison Touch (Ex)",
+  "sections": [
+    {
+      "id": "poison_touch_ex",
+      "title": "Poison Touch",
+      "anchor_heading": "# Poison Touch (Ex)",
+      "description": "Rules and description for Poison Touch.",
+      "keywords": []
+    }
+  ],
+  "category": "Witch Hexes"
+}

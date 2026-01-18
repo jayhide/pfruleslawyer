@@ -1,0 +1,15 @@
+{
+  "file": "blinding-strike.md",
+  "source_path": "https://www.d20pfsrd.com/classes/core-classes/rogue/rogue-talents/paizo-rogue-advanced-talents/blinding-strike/",
+  "source_name": "Advanced Rogue Talent: Blinding Strike",
+  "sections": [
+    {
+      "id": "blinding_strike",
+      "title": "Blinding Strike",
+      "anchor_heading": "# Blinding Strike",
+      "description": "Rules and description for Blinding Strike.",
+      "keywords": []
+    }
+  ],
+  "category": "Rogue Talents"
+}

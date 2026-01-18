@@ -1,0 +1,15 @@
+{
+  "file": "another-day-ex.md",
+  "source_path": "https://www.d20pfsrd.com/classes/core-classes/rogue/rogue-talents/paizo-rogue-advanced-talents/another-day-ex/",
+  "source_name": "Advanced Rogue Talent: Another Day (Ex)",
+  "sections": [
+    {
+      "id": "another_day_ex",
+      "title": "Another Day",
+      "anchor_heading": "# Another Day (Ex)",
+      "description": "Rules and description for Another Day.",
+      "keywords": []
+    }
+  ],
+  "category": "Rogue Talents"
+}

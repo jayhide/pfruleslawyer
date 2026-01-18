@@ -1,0 +1,15 @@
+{
+  "file": "poison-use-ex.md",
+  "source_path": "https://www.d20pfsrd.com/classes/core-classes/rogue/rogue-talents/paizo-rogue-talents/poison-use-ex/",
+  "source_name": "Rogue Talent: Poison Use (Ex)",
+  "sections": [
+    {
+      "id": "poison_use_ex",
+      "title": "Poison Use",
+      "anchor_heading": "# Poison Use (Ex)",
+      "description": "Rules and description for Poison Use.",
+      "keywords": []
+    }
+  ],
+  "category": "Rogue Talents"
+}

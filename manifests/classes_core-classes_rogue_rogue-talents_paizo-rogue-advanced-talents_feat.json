@@ -1,0 +1,15 @@
+{
+  "file": "feat.md",
+  "source_path": "https://www.d20pfsrd.com/classes/core-classes/rogue/rogue-talents/paizo-rogue-advanced-talents/feat/",
+  "source_name": "Advanced Rogue Talent: Feat",
+  "sections": [
+    {
+      "id": "feat",
+      "title": "Feat",
+      "anchor_heading": "# Feat",
+      "description": "Rules and description for Feat.",
+      "keywords": []
+    }
+  ],
+  "category": "Rogue Talents"
+}

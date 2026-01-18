@@ -1,0 +1,15 @@
+{
+  "file": "pool-ray.md",
+  "source_path": "https://www.d20pfsrd.com/classes/base-classes/magus/magus-arcana/paizo-magus-arcana/pool-ray/",
+  "source_name": "Magus Arcana: Pool Ray",
+  "sections": [
+    {
+      "id": "pool_ray",
+      "title": "Pool Ray",
+      "anchor_heading": "# Pool Ray",
+      "description": "Rules and description for Pool Ray.",
+      "keywords": []
+    }
+  ],
+  "category": "Magus Arcana"
+}

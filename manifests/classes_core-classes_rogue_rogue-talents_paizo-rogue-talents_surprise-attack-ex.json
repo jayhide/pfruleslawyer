@@ -1,0 +1,15 @@
+{
+  "file": "surprise-attack-ex.md",
+  "source_path": "https://www.d20pfsrd.com/classes/core-classes/rogue/rogue-talents/paizo-rogue-talents/surprise-attack-ex/",
+  "source_name": "Rogue Talent: Surprise Attack (Ex)",
+  "sections": [
+    {
+      "id": "surprise_attack_ex",
+      "title": "Surprise Attack",
+      "anchor_heading": "# Surprise Attack (Ex)",
+      "description": "Rules and description for Surprise Attack.",
+      "keywords": []
+    }
+  ],
+  "category": "Rogue Talents"
+}

@@ -1,0 +1,15 @@
+{
+  "file": "expert-cipher-ex.md",
+  "source_path": "https://www.d20pfsrd.com/classes/core-classes/rogue/rogue-talents/paizo-rogue-talents/expert-cipher-ex/",
+  "source_name": "Rogue Talent: Expert Cipher (Ex)",
+  "sections": [
+    {
+      "id": "expert_cipher_ex",
+      "title": "Expert Cipher",
+      "anchor_heading": "# Expert Cipher (Ex)",
+      "description": "Rules and description for Expert Cipher.",
+      "keywords": []
+    }
+  ],
+  "category": "Rogue Talents"
+}

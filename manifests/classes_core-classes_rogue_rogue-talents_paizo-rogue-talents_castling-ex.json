@@ -1,0 +1,15 @@
+{
+  "file": "castling-ex.md",
+  "source_path": "https://www.d20pfsrd.com/classes/core-classes/rogue/rogue-talents/paizo-rogue-talents/castling-ex/",
+  "source_name": "Rogue Talent: Castling (Ex)",
+  "sections": [
+    {
+      "id": "castling_ex",
+      "title": "Castling",
+      "anchor_heading": "# Castling (Ex)",
+      "description": "Rules and description for Castling.",
+      "keywords": []
+    }
+  ],
+  "category": "Rogue Talents"
+}

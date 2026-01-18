@@ -1,0 +1,15 @@
+{
+  "file": "grit-ex.md",
+  "source_path": "https://www.d20pfsrd.com/classes/core-classes/rogue/rogue-talents/paizo-rogue-talents/grit-ex/",
+  "source_name": "Rogue Talent: Grit (Ex)",
+  "sections": [
+    {
+      "id": "grit_ex",
+      "title": "Grit",
+      "anchor_heading": "# Grit (Ex)",
+      "description": "Rules and description for Grit.",
+      "keywords": []
+    }
+  ],
+  "category": "Rogue Talents"
+}

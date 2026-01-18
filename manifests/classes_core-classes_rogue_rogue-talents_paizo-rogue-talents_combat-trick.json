@@ -1,0 +1,15 @@
+{
+  "file": "combat-trick.md",
+  "source_path": "https://www.d20pfsrd.com/classes/core-classes/rogue/rogue-talents/paizo-rogue-talents/combat-trick/",
+  "source_name": "Rogue Talent: Combat Trick",
+  "sections": [
+    {
+      "id": "combat_trick",
+      "title": "Combat Trick",
+      "anchor_heading": "# Combat Trick",
+      "description": "Rules and description for Combat Trick.",
+      "keywords": []
+    }
+  ],
+  "category": "Rogue Talents"
+}

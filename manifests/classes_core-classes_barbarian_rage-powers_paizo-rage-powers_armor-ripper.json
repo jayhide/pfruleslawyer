@@ -1,0 +1,15 @@
+{
+  "file": "armor-ripper.md",
+  "source_path": "https://www.d20pfsrd.com/classes/core-classes/barbarian/rage-powers/paizo-rage-powers/armor-ripper/",
+  "source_name": "Rage Power: Armor Ripper",
+  "sections": [
+    {
+      "id": "armor_ripper",
+      "title": "Armor Ripper",
+      "anchor_heading": "# Armor Ripper",
+      "description": "Rules and description for Armor Ripper.",
+      "keywords": []
+    }
+  ],
+  "category": "Rage Powers"
+}

@@ -1,0 +1,15 @@
+{
+  "file": "signature-poison-ex.md",
+  "source_path": "https://www.d20pfsrd.com/classes/core-classes/rogue/rogue-talents/paizo-rogue-talents/signature-poison-ex/",
+  "source_name": "Rogue Talent: Signature Poison (Ex)",
+  "sections": [
+    {
+      "id": "signature_poison_ex",
+      "title": "Signature Poison",
+      "anchor_heading": "# Signature Poison (Ex)",
+      "description": "Rules and description for Signature Poison.",
+      "keywords": []
+    }
+  ],
+  "category": "Rogue Talents"
+}

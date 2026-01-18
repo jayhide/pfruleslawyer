@@ -1,0 +1,15 @@
+{
+  "file": "hex-slumber-su.md",
+  "source_path": "https://www.d20pfsrd.com/classes/base-classes/witch/hexes/hexes/common-hexes/hex-slumber-su/",
+  "source_name": "Witch Hex: Slumber (Su)",
+  "sections": [
+    {
+      "id": "hex_slumber_su",
+      "title": "Slumber",
+      "anchor_heading": "# Slumber (Su)",
+      "description": "Rules and description for Slumber.",
+      "keywords": []
+    }
+  ],
+  "category": "Witch Hexes"
+}

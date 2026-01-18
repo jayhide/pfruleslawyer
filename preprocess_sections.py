@@ -260,6 +260,20 @@ def strip_feat_suffix(title: str) -> str:
     return re.sub(r'\s*\([^)]+\)\s*$', '', title)
 
 
+def strip_ability_type_suffix(title: str) -> str:
+    """Strip ability type suffix (Ex), (Sp), or (Su) from title.
+
+    These indicate extraordinary, spell-like, or supernatural abilities
+    and are not part of the ability name for search purposes.
+
+    Examples:
+        "Flamboyant Arcana (Ex)" -> "Flamboyant Arcana"
+        "Arcane Accuracy (Su)" -> "Arcane Accuracy"
+        "Some Ability (Sp)" -> "Some Ability"
+    """
+    return re.sub(r'\s*\((Ex|Sp|Su)\)\s*$', '', title)
+
+
 def process_markdown_simple(
     client: anthropic.Anthropic,
     content: str,
@@ -359,6 +373,9 @@ def process_markdown_template(
 
     # Extract title from the markdown
     title, anchor_heading = extract_title_from_markdown(content)
+
+    # Strip ability type suffixes (Ex), (Sp), (Su) for search
+    title = strip_ability_type_suffix(title)
 
     # Strip feat type suffix for search (but keep anchor_heading for navigation)
     if category == "Feats":

@@ -1,0 +1,15 @@
+{
+  "file": "hex-charm-su.md",
+  "source_path": "https://www.d20pfsrd.com/classes/base-classes/witch/hexes/hexes/common-hexes/hex-charm-su/",
+  "source_name": "Witch Hex: Charm (Su)",
+  "sections": [
+    {
+      "id": "hex_charm_su",
+      "title": "Charm",
+      "anchor_heading": "# Charm (Su)",
+      "description": "Rules and description for Charm.",
+      "keywords": []
+    }
+  ],
+  "category": "Witch Hexes"
+}

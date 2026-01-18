@@ -1,0 +1,15 @@
+{
+  "file": "hex-discord-su.md",
+  "source_path": "https://www.d20pfsrd.com/classes/base-classes/witch/hexes/hexes/common-hexes/hex-discord-su/",
+  "source_name": "Witch Hex: Discord (Su)",
+  "sections": [
+    {
+      "id": "hex_discord_su",
+      "title": "Discord",
+      "anchor_heading": "# Discord (Su)",
+      "description": "Rules and description for Discord.",
+      "keywords": []
+    }
+  ],
+  "category": "Witch Hexes"
+}

@@ -1,0 +1,15 @@
+{
+  "file": "combat-swipe.md",
+  "source_path": "https://www.d20pfsrd.com/classes/core-classes/rogue/rogue-talents/paizo-rogue-talents/combat-swipe/",
+  "source_name": "Rogue Talent: Combat Swipe",
+  "sections": [
+    {
+      "id": "combat_swipe",
+      "title": "Combat Swipe",
+      "anchor_heading": "# Combat Swipe",
+      "description": "Rules and description for Combat Swipe.",
+      "keywords": []
+    }
+  ],
+  "category": "Rogue Talents"
+}

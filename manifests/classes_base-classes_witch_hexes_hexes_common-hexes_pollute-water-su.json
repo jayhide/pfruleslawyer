@@ -1,0 +1,15 @@
+{
+  "file": "pollute-water-su.md",
+  "source_path": "https://www.d20pfsrd.com/classes/base-classes/witch/hexes/hexes/common-hexes/pollute-water-su/",
+  "source_name": "Witch Hex: Pollute Water (Su)",
+  "sections": [
+    {
+      "id": "pollute_water_su",
+      "title": "Pollute Water",
+      "anchor_heading": "# Pollute Water (Su)",
+      "description": "Rules and description for Pollute Water.",
+      "keywords": []
+    }
+  ],
+  "category": "Witch Hexes"
+}

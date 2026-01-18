@@ -1,0 +1,15 @@
+{
+  "file": "redirect-attack-ex.md",
+  "source_path": "https://www.d20pfsrd.com/classes/core-classes/rogue/rogue-talents/paizo-rogue-advanced-talents/redirect-attack-ex/",
+  "source_name": "Advanced Rogue Talent: Redirect Attack (Ex)",
+  "sections": [
+    {
+      "id": "redirect_attack_ex",
+      "title": "Redirect Attack",
+      "anchor_heading": "# Redirect Attack (Ex)",
+      "description": "Rules and description for Redirect Attack.",
+      "keywords": []
+    }
+  ],
+  "category": "Rogue Talents"
+}

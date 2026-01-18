@@ -1,0 +1,15 @@
+{
+  "file": "reflection-su.md",
+  "source_path": "https://www.d20pfsrd.com/classes/base-classes/magus/magus-arcana/paizo-magus-arcana/reflection-su/",
+  "source_name": "Magus Arcana: Reflection (Su)",
+  "sections": [
+    {
+      "id": "reflection_su",
+      "title": "Reflection",
+      "anchor_heading": "# Reflection (Su)",
+      "description": "Rules and description for Reflection.",
+      "keywords": []
+    }
+  ],
+  "category": "Magus Arcana"
+}

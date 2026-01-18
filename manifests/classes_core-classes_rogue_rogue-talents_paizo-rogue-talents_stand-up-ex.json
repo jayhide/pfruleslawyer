@@ -1,0 +1,15 @@
+{
+  "file": "stand-up-ex.md",
+  "source_path": "https://www.d20pfsrd.com/classes/core-classes/rogue/rogue-talents/paizo-rogue-talents/stand-up-ex/",
+  "source_name": "Rogue Talent: Stand Up (Ex)",
+  "sections": [
+    {
+      "id": "stand_up_ex",
+      "title": "Stand Up",
+      "anchor_heading": "# Stand Up (Ex)",
+      "description": "Rules and description for Stand Up.",
+      "keywords": []
+    }
+  ],
+  "category": "Rogue Talents"
+}

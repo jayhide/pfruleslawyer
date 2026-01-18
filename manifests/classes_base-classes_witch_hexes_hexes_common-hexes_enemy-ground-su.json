@@ -1,0 +1,15 @@
+{
+  "file": "enemy-ground-su.md",
+  "source_path": "https://www.d20pfsrd.com/classes/base-classes/witch/hexes/hexes/common-hexes/enemy-ground-su/",
+  "source_name": "Witch Hex: Enemy Ground (Su)",
+  "sections": [
+    {
+      "id": "enemy_ground_su",
+      "title": "Enemy Ground",
+      "anchor_heading": "# Enemy Ground (Su)",
+      "description": "Rules and description for Enemy Ground.",
+      "keywords": []
+    }
+  ],
+  "category": "Witch Hexes"
+}

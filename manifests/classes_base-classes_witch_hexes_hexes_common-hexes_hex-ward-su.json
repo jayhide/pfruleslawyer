@@ -1,0 +1,15 @@
+{
+  "file": "hex-ward-su.md",
+  "source_path": "https://www.d20pfsrd.com/classes/base-classes/witch/hexes/hexes/common-hexes/hex-ward-su/",
+  "source_name": "Witch Hex: Ward (Su)",
+  "sections": [
+    {
+      "id": "hex_ward_su",
+      "title": "Ward",
+      "anchor_heading": "# Ward (Su)",
+      "description": "Rules and description for Ward.",
+      "keywords": []
+    }
+  ],
+  "category": "Witch Hexes"
+}

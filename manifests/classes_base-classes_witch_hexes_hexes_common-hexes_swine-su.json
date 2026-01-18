@@ -1,0 +1,15 @@
+{
+  "file": "swine-su.md",
+  "source_path": "https://www.d20pfsrd.com/classes/base-classes/witch/hexes/hexes/common-hexes/swine-su/",
+  "source_name": "Witch Hex: Swine (Su)",
+  "sections": [
+    {
+      "id": "swine_su",
+      "title": "Swine",
+      "anchor_heading": "# Swine (Su)",
+      "description": "Rules and description for Swine.",
+      "keywords": []
+    }
+  ],
+  "category": "Witch Hexes"
+}

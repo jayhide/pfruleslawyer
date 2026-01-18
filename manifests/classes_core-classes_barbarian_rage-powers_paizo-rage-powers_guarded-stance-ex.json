@@ -1,0 +1,15 @@
+{
+  "file": "guarded-stance-ex.md",
+  "source_path": "https://www.d20pfsrd.com/classes/core-classes/barbarian/rage-powers/paizo-rage-powers/guarded-stance-ex/",
+  "source_name": "Rage Power: Guarded Stance (Ex)",
+  "sections": [
+    {
+      "id": "guarded_stance_ex",
+      "title": "Guarded Stance",
+      "anchor_heading": "# Guarded Stance (Ex)",
+      "description": "Rules and description for Guarded Stance.",
+      "keywords": []
+    }
+  ],
+  "category": "Rage Powers"
+}

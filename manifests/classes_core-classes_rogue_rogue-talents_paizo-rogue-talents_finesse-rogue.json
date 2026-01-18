@@ -1,0 +1,15 @@
+{
+  "file": "finesse-rogue.md",
+  "source_path": "https://www.d20pfsrd.com/classes/core-classes/rogue/rogue-talents/paizo-rogue-talents/finesse-rogue/",
+  "source_name": "Rogue Talent: Finesse Rogue",
+  "sections": [
+    {
+      "id": "finesse_rogue",
+      "title": "Finesse Rogue",
+      "anchor_heading": "# Finesse Rogue",
+      "description": "Rules and description for Finesse Rogue.",
+      "keywords": []
+    }
+  ],
+  "category": "Rogue Talents"
+}

@@ -1,0 +1,15 @@
+{
+  "file": "animal-servant-su.md",
+  "source_path": "https://www.d20pfsrd.com/classes/base-classes/witch/hexes/hexes/grand-hexes/animal-servant-su/",
+  "source_name": "Grand Witch Hex: Animal Servant (Su)",
+  "sections": [
+    {
+      "id": "animal_servant_su",
+      "title": "Animal Servant",
+      "anchor_heading": "# Animal Servant (Su)",
+      "description": "Rules and description for Animal Servant.",
+      "keywords": []
+    }
+  ],
+  "category": "Witch Hexes"
+}

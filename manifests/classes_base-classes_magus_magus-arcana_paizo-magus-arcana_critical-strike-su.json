@@ -1,0 +1,15 @@
+{
+  "file": "critical-strike-su.md",
+  "source_path": "https://www.d20pfsrd.com/classes/base-classes/magus/magus-arcana/paizo-magus-arcana/critical-strike-su/",
+  "source_name": "Magus Arcana: Critical Strike (Su)",
+  "sections": [
+    {
+      "id": "critical_strike_su",
+      "title": "Critical Strike",
+      "anchor_heading": "# Critical Strike (Su)",
+      "description": "Rules and description for Critical Strike.",
+      "keywords": []
+    }
+  ],
+  "category": "Magus Arcana"
+}

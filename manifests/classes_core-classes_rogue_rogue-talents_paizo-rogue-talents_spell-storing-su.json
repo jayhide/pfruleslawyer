@@ -1,0 +1,15 @@
+{
+  "file": "spell-storing-su.md",
+  "source_path": "https://www.d20pfsrd.com/classes/core-classes/rogue/rogue-talents/paizo-rogue-talents/spell-storing-su/",
+  "source_name": "Rogue Talent: Spell Storing (Su)",
+  "sections": [
+    {
+      "id": "spell_storing_su",
+      "title": "Spell Storing",
+      "anchor_heading": "# Spell Storing (Su)",
+      "description": "Rules and description for Spell Storing.",
+      "keywords": []
+    }
+  ],
+  "category": "Rogue Talents"
+}

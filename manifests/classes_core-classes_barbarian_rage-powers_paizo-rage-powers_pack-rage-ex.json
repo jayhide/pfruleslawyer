@@ -1,0 +1,15 @@
+{
+  "file": "pack-rage-ex.md",
+  "source_path": "https://www.d20pfsrd.com/classes/core-classes/barbarian/rage-powers/paizo-rage-powers/pack-rage-ex/",
+  "source_name": "Rage Power: Pack Rage (Ex)",
+  "sections": [
+    {
+      "id": "pack_rage_ex",
+      "title": "Pack Rage",
+      "anchor_heading": "# Pack Rage (Ex)",
+      "description": "Rules and description for Pack Rage.",
+      "keywords": []
+    }
+  ],
+  "category": "Rage Powers"
+}

@@ -1,0 +1,15 @@
+{
+  "file": "hex-scar-su.md",
+  "source_path": "https://www.d20pfsrd.com/classes/base-classes/witch/hexes/hexes/common-hexes/hex-scar-su/",
+  "source_name": "Witch Hex: Scar (Su)",
+  "sections": [
+    {
+      "id": "hex_scar_su",
+      "title": "Scar",
+      "anchor_heading": "# Scar (Su)",
+      "description": "Rules and description for Scar.",
+      "keywords": []
+    }
+  ],
+  "category": "Witch Hexes"
+}

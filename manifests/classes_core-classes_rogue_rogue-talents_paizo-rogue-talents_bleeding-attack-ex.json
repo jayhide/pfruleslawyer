@@ -1,0 +1,15 @@
+{
+  "file": "bleeding-attack-ex.md",
+  "source_path": "https://www.d20pfsrd.com/classes/core-classes/rogue/rogue-talents/paizo-rogue-talents/bleeding-attack-ex/",
+  "source_name": "Rogue Talent: Bleeding Attack (Ex)",
+  "sections": [
+    {
+      "id": "bleeding_attack_ex",
+      "title": "Bleeding Attack",
+      "anchor_heading": "# Bleeding Attack (Ex)",
+      "description": "Rules and description for Bleeding Attack.",
+      "keywords": []
+    }
+  ],
+  "category": "Rogue Talents"
+}

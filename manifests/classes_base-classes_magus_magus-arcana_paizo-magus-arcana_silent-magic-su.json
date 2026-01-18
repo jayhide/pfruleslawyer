@@ -1,0 +1,15 @@
+{
+  "file": "silent-magic-su.md",
+  "source_path": "https://www.d20pfsrd.com/classes/base-classes/magus/magus-arcana/paizo-magus-arcana/silent-magic-su/",
+  "source_name": "Magus Arcana: Silent Magic (Su)",
+  "sections": [
+    {
+      "id": "silent_magic_su",
+      "title": "Silent Magic",
+      "anchor_heading": "# Silent Magic (Su)",
+      "description": "Rules and description for Silent Magic.",
+      "keywords": []
+    }
+  ],
+  "category": "Magus Arcana"
+}

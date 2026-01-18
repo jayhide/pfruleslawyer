@@ -1,0 +1,15 @@
+{
+  "file": "sink-su.md",
+  "source_path": "https://www.d20pfsrd.com/classes/base-classes/witch/hexes/hexes/common-hexes/sink-su/",
+  "source_name": "Witch Hex: Sink (Su)",
+  "sections": [
+    {
+      "id": "sink_su",
+      "title": "Sink",
+      "anchor_heading": "# Sink (Su)",
+      "description": "Rules and description for Sink.",
+      "keywords": []
+    }
+  ],
+  "category": "Witch Hexes"
+}

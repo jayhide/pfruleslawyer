@@ -1,0 +1,15 @@
+{
+  "file": "spell-shield-su.md",
+  "source_path": "https://www.d20pfsrd.com/classes/base-classes/magus/magus-arcana/paizo-magus-arcana/spell-shield-su/",
+  "source_name": "Magus Arcana: Spell Shield (Su)",
+  "sections": [
+    {
+      "id": "spell_shield_su",
+      "title": "Spell Shield",
+      "anchor_heading": "# Spell Shield (Su)",
+      "description": "Rules and description for Spell Shield.",
+      "keywords": []
+    }
+  ],
+  "category": "Magus Arcana"
+}

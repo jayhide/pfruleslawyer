@@ -1,0 +1,15 @@
+{
+  "file": "distraction-su.md",
+  "source_path": "https://www.d20pfsrd.com/classes/base-classes/witch/hexes/hexes/common-hexes/distraction-su/",
+  "source_name": "Witch Hex: Distraction (Su)",
+  "sections": [
+    {
+      "id": "distraction_su",
+      "title": "Distraction",
+      "anchor_heading": "# Distraction (Su)",
+      "description": "Rules and description for Distraction.",
+      "keywords": []
+    }
+  ],
+  "category": "Witch Hexes"
+}

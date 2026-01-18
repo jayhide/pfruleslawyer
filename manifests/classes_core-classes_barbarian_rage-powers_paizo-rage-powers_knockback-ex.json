@@ -1,0 +1,15 @@
+{
+  "file": "knockback-ex.md",
+  "source_path": "https://www.d20pfsrd.com/classes/core-classes/barbarian/rage-powers/paizo-rage-powers/knockback-ex/",
+  "source_name": "Rage Power: Knockback (Ex)",
+  "sections": [
+    {
+      "id": "knockback_ex",
+      "title": "Knockback",
+      "anchor_heading": "# Knockback (Ex)",
+      "description": "Rules and description for Knockback.",
+      "keywords": []
+    }
+  ],
+  "category": "Rage Powers"
+}

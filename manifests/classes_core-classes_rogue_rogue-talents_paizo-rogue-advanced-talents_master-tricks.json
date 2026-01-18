@@ -1,0 +1,15 @@
+{
+  "file": "master-tricks.md",
+  "source_path": "https://www.d20pfsrd.com/classes/core-classes/rogue/rogue-talents/paizo-rogue-advanced-talents/master-tricks/",
+  "source_name": "Advanced Rogue Talent: Master Tricks",
+  "sections": [
+    {
+      "id": "master_tricks",
+      "title": "Master Tricks",
+      "anchor_heading": "# Master Tricks",
+      "description": "Rules and description for Master Tricks.",
+      "keywords": []
+    }
+  ],
+  "category": "Rogue Talents"
+}

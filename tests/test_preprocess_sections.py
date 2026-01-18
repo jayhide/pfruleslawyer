@@ -2,7 +2,7 @@
 
 import pytest
 
-from preprocess_sections import get_source_name, SOURCE_NAMES, CATEGORY_TEMPLATES, strip_feat_suffix
+from preprocess_sections import get_source_name, SOURCE_NAMES, CATEGORY_TEMPLATES, strip_feat_suffix, strip_ability_type_suffix
 
 
 class TestGetSourceName:
@@ -123,3 +123,37 @@ class TestStripFeatSuffix:
         # If a feat had parentheses mid-name, they should be preserved
         # (this is hypothetical but tests the regex is anchored to end)
         assert strip_feat_suffix("Some Name (Ex) (Combat)") == "Some Name (Ex)"
+
+
+class TestStripAbilityTypeSuffix:
+    """Tests for strip_ability_type_suffix() function."""
+
+    def test_ex_suffix(self):
+        """Should strip (Ex) suffix for extraordinary abilities."""
+        assert strip_ability_type_suffix("Flamboyant Arcana (Ex)") == "Flamboyant Arcana"
+        assert strip_ability_type_suffix("Accurate Strike (Ex)") == "Accurate Strike"
+
+    def test_su_suffix(self):
+        """Should strip (Su) suffix for supernatural abilities."""
+        assert strip_ability_type_suffix("Arcane Accuracy (Su)") == "Arcane Accuracy"
+        assert strip_ability_type_suffix("Aquatic Agility (Su)") == "Aquatic Agility"
+
+    def test_sp_suffix(self):
+        """Should strip (Sp) suffix for spell-like abilities."""
+        assert strip_ability_type_suffix("Some Ability (Sp)") == "Some Ability"
+
+    def test_no_suffix(self):
+        """Titles without suffix should be unchanged."""
+        assert strip_ability_type_suffix("Power Attack") == "Power Attack"
+        assert strip_ability_type_suffix("Improved Initiative") == "Improved Initiative"
+
+    def test_other_suffix_unchanged(self):
+        """Other parentheticals should NOT be stripped."""
+        assert strip_ability_type_suffix("Magic (Greater)") == "Magic (Greater)"
+        assert strip_ability_type_suffix("Feat (Combat)") == "Feat (Combat)"
+        assert strip_ability_type_suffix("Some Feat (Combat, Style)") == "Some Feat (Combat, Style)"
+
+    def test_case_sensitive(self):
+        """Suffix matching should be case-sensitive."""
+        assert strip_ability_type_suffix("Ability (ex)") == "Ability (ex)"
+        assert strip_ability_type_suffix("Ability (EX)") == "Ability (EX)"

@@ -1,0 +1,15 @@
+{
+  "file": "minor-magic-sp.md",
+  "source_path": "https://www.d20pfsrd.com/classes/core-classes/rogue/rogue-talents/paizo-rogue-talents/minor-magic-sp/",
+  "source_name": "Rogue Talent: Minor Magic (Sp)",
+  "sections": [
+    {
+      "id": "minor_magic_sp",
+      "title": "Minor Magic",
+      "anchor_heading": "# Minor Magic (Sp)",
+      "description": "Rules and description for Minor Magic.",
+      "keywords": []
+    }
+  ],
+  "category": "Rogue Talents"
+}

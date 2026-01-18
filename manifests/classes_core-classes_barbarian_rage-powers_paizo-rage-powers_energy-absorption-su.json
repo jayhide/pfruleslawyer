@@ -1,0 +1,15 @@
+{
+  "file": "energy-absorption-su.md",
+  "source_path": "https://www.d20pfsrd.com/classes/core-classes/barbarian/rage-powers/paizo-rage-powers/energy-absorption-su/",
+  "source_name": "Rage Power: Energy Absorption (Su)",
+  "sections": [
+    {
+      "id": "energy_absorption_su",
+      "title": "Energy Absorption",
+      "anchor_heading": "# Energy Absorption (Su)",
+      "description": "Rules and description for Energy Absorption.",
+      "keywords": []
+    }
+  ],
+  "category": "Rage Powers"
+}

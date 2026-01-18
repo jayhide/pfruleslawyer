@@ -1,0 +1,15 @@
+{
+  "file": "seduction-su.md",
+  "source_path": "https://www.d20pfsrd.com/classes/base-classes/witch/hexes/hexes/common-hexes/seduction-su/",
+  "source_name": "Witch Hex: Seduction (Su)",
+  "sections": [
+    {
+      "id": "seduction_su",
+      "title": "Seduction",
+      "anchor_heading": "# Seduction (Su)",
+      "description": "Rules and description for Seduction.",
+      "keywords": []
+    }
+  ],
+  "category": "Witch Hexes"
+}

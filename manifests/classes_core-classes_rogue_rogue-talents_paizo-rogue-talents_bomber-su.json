@@ -1,0 +1,15 @@
+{
+  "file": "bomber-su.md",
+  "source_path": "https://www.d20pfsrd.com/classes/core-classes/rogue/rogue-talents/paizo-rogue-talents/bomber-su/",
+  "source_name": "Rogue Talent: Bomber (Su)",
+  "sections": [
+    {
+      "id": "bomber_su",
+      "title": "Bomber",
+      "anchor_heading": "# Bomber (Su)",
+      "description": "Rules and description for Bomber.",
+      "keywords": []
+    }
+  ],
+  "category": "Rogue Talents"
+}

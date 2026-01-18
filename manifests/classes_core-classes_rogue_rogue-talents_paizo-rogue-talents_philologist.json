@@ -1,0 +1,15 @@
+{
+  "file": "philologist.md",
+  "source_path": "https://www.d20pfsrd.com/classes/core-classes/rogue/rogue-talents/paizo-rogue-talents/philologist/",
+  "source_name": "Rogue Talent: Philologist",
+  "sections": [
+    {
+      "id": "philologist",
+      "title": "Philologist",
+      "anchor_heading": "# Philologist",
+      "description": "Rules and description for Philologist.",
+      "keywords": []
+    }
+  ],
+  "category": "Rogue Talents"
+}

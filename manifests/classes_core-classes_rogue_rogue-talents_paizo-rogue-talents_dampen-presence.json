@@ -1,0 +1,15 @@
+{
+  "file": "dampen-presence.md",
+  "source_path": "https://www.d20pfsrd.com/classes/core-classes/rogue/rogue-talents/paizo-rogue-talents/dampen-presence/",
+  "source_name": "Rogue Talent: Dampen Presence",
+  "sections": [
+    {
+      "id": "dampen_presence",
+      "title": "Dampen Presence",
+      "anchor_heading": "# Dampen Presence",
+      "description": "Rules and description for Dampen Presence.",
+      "keywords": []
+    }
+  ],
+  "category": "Rogue Talents"
+}

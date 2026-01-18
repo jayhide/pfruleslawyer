@@ -1,0 +1,15 @@
+{
+  "file": "hex-major-vision-su.md",
+  "source_path": "https://www.d20pfsrd.com/classes/base-classes/witch/hexes/hexes/major-hexes/hex-major-vision-su/",
+  "source_name": "Major Witch Hex: Vision (Su)",
+  "sections": [
+    {
+      "id": "hex_major_vision_su",
+      "title": "Vision",
+      "anchor_heading": "# Vision (Su)",
+      "description": "Rules and description for Vision.",
+      "keywords": []
+    }
+  ],
+  "category": "Witch Hexes"
+}

@@ -1,0 +1,15 @@
+{
+  "file": "brawler.md",
+  "source_path": "https://www.d20pfsrd.com/classes/core-classes/barbarian/rage-powers/paizo-rage-powers/brawler/",
+  "source_name": "Rage Power: Brawler",
+  "sections": [
+    {
+      "id": "brawler",
+      "title": "Brawler",
+      "anchor_heading": "# Brawler",
+      "description": "Rules and description for Brawler.",
+      "keywords": []
+    }
+  ],
+  "category": "Rage Powers"
+}

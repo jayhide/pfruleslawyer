@@ -1,0 +1,15 @@
+{
+  "file": "scavenger.md",
+  "source_path": "https://www.d20pfsrd.com/classes/core-classes/rogue/rogue-talents/paizo-rogue-talents/scavenger/",
+  "source_name": "Rogue Talent: Scavenger",
+  "sections": [
+    {
+      "id": "scavenger",
+      "title": "Scavenger",
+      "anchor_heading": "# Scavenger",
+      "description": "Rules and description for Scavenger.",
+      "keywords": []
+    }
+  ],
+  "category": "Rogue Talents"
+}

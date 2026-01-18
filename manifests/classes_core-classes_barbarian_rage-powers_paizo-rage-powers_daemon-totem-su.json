@@ -1,0 +1,15 @@
+{
+  "file": "daemon-totem-su.md",
+  "source_path": "https://www.d20pfsrd.com/classes/core-classes/barbarian/rage-powers/paizo-rage-powers/daemon-totem-su/",
+  "source_name": "Rage Power: Daemon Totem (Su)",
+  "sections": [
+    {
+      "id": "daemon_totem_su",
+      "title": "Daemon Totem",
+      "anchor_heading": "# Daemon Totem (Su)",
+      "description": "Rules and description for Daemon Totem.",
+      "keywords": []
+    }
+  ],
+  "category": "Rage Powers"
+}

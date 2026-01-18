@@ -1,0 +1,15 @@
+{
+  "file": "reach-magic.md",
+  "source_path": "https://www.d20pfsrd.com/classes/base-classes/magus/magus-arcana/paizo-magus-arcana/reach-magic/",
+  "source_name": "Magus Arcana: Reach Magic",
+  "sections": [
+    {
+      "id": "reach_magic",
+      "title": "Reach Magic",
+      "anchor_heading": "# Reach Magic",
+      "description": "Rules and description for Reach Magic.",
+      "keywords": []
+    }
+  ],
+  "category": "Magus Arcana"
+}

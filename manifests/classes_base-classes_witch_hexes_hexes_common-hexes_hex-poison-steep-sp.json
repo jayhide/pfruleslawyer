@@ -1,0 +1,15 @@
+{
+  "file": "hex-poison-steep-sp.md",
+  "source_path": "https://www.d20pfsrd.com/classes/base-classes/witch/hexes/hexes/common-hexes/hex-poison-steep-sp/",
+  "source_name": "Witch Hex: Poison Steep (Sp)",
+  "sections": [
+    {
+      "id": "hex_poison_steep_sp",
+      "title": "Poison Steep",
+      "anchor_heading": "# Poison Steep (Sp)",
+      "description": "Rules and description for Poison Steep.",
+      "keywords": []
+    }
+  ],
+  "category": "Witch Hexes"
+}
