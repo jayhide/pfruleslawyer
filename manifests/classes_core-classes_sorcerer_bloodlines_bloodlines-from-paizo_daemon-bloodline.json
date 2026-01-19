@@ -1,0 +1,15 @@
+{
+  "file": "daemon-bloodline.md",
+  "source_path": "https://www.d20pfsrd.com/classes/core-classes/sorcerer/bloodlines/bloodlines-from-paizo/daemon-bloodline/",
+  "source_name": "Sorcerer Bloodline: Daemon Bloodline",
+  "sections": [
+    {
+      "id": "daemon_bloodline",
+      "title": "Daemon Bloodline",
+      "anchor_heading": "# Daemon Bloodline",
+      "description": "Rules and description for Daemon Bloodline.",
+      "keywords": []
+    }
+  ],
+  "category": "Sorcerer Bloodlines"
+}

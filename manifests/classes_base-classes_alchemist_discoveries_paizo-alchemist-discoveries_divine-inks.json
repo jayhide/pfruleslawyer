@@ -1,0 +1,15 @@
+{
+  "file": "divine-inks.md",
+  "source_path": "https://www.d20pfsrd.com/classes/base-classes/alchemist/discoveries/paizo-alchemist-discoveries/divine-inks/",
+  "source_name": "Alchemist Discovery: Divine Inks",
+  "sections": [
+    {
+      "id": "divine_inks",
+      "title": "Divine Inks",
+      "anchor_heading": "# Divine Inks",
+      "description": "Rules and description for Divine Inks.",
+      "keywords": []
+    }
+  ],
+  "category": "Alchemist Discoveries"
+}

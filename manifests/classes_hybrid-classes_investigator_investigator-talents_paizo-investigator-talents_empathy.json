@@ -1,0 +1,15 @@
+{
+  "file": "empathy.md",
+  "source_path": "https://www.d20pfsrd.com/classes/hybrid-classes/investigator/investigator-talents/paizo-investigator-talents/empathy/",
+  "source_name": "Investigator Talent: Empathy (Ex, Su)",
+  "sections": [
+    {
+      "id": "empathy",
+      "title": "Empathy (Ex, Su)",
+      "anchor_heading": "# Empathy (Ex, Su)",
+      "description": "Rules and description for Empathy (Ex, Su).",
+      "keywords": []
+    }
+  ],
+  "category": "Investigator Talents"
+}

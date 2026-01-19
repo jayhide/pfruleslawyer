@@ -1,0 +1,15 @@
+{
+  "file": "wet-coat.md",
+  "source_path": "https://www.d20pfsrd.com/classes/base-classes/alchemist/discoveries/paizo-alchemist-discoveries/wet-coat/",
+  "source_name": "Alchemist Discovery: Wet Coat",
+  "sections": [
+    {
+      "id": "wet_coat",
+      "title": "Wet Coat",
+      "anchor_heading": "# Wet Coat",
+      "description": "Rules and description for Wet Coat.",
+      "keywords": []
+    }
+  ],
+  "category": "Alchemist Discoveries"
+}

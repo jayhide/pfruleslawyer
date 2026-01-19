@@ -1,0 +1,15 @@
+{
+  "file": "madness-bomb.md",
+  "source_path": "https://www.d20pfsrd.com/classes/base-classes/alchemist/discoveries/paizo-alchemist-discoveries/madness-bomb/",
+  "source_name": "Alchemist Discovery: Madness Bomb",
+  "sections": [
+    {
+      "id": "madness_bomb",
+      "title": "Madness Bomb",
+      "anchor_heading": "# Madness Bomb",
+      "description": "Rules and description for Madness Bomb.",
+      "keywords": []
+    }
+  ],
+  "category": "Alchemist Discoveries"
+}

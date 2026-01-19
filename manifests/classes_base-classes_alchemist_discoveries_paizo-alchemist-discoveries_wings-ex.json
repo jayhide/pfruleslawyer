@@ -1,0 +1,15 @@
+{
+  "file": "wings-ex.md",
+  "source_path": "https://www.d20pfsrd.com/classes/base-classes/alchemist/discoveries/paizo-alchemist-discoveries/wings-ex/",
+  "source_name": "Alchemist Discovery: Wings (Ex)",
+  "sections": [
+    {
+      "id": "wings_ex",
+      "title": "Wings",
+      "anchor_heading": "# Wings (Ex)",
+      "description": "Rules and description for Wings.",
+      "keywords": []
+    }
+  ],
+  "category": "Alchemist Discoveries"
+}

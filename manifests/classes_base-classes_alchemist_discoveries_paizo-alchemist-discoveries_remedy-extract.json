@@ -1,0 +1,15 @@
+{
+  "file": "remedy-extract.md",
+  "source_path": "https://www.d20pfsrd.com/classes/base-classes/alchemist/discoveries/paizo-alchemist-discoveries/remedy-extract/",
+  "source_name": "Alchemist Discovery: Remedy Extract",
+  "sections": [
+    {
+      "id": "remedy_extract",
+      "title": "Remedy Extract",
+      "anchor_heading": "# Remedy Extract",
+      "description": "Rules and description for Remedy Extract.",
+      "keywords": []
+    }
+  ],
+  "category": "Alchemist Discoveries"
+}

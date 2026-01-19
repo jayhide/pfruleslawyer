@@ -1,0 +1,15 @@
+{
+  "file": "arcane.md",
+  "source_path": "https://www.d20pfsrd.com/classes/hybrid-classes/bloodrager/bloodrager-bloodlines/paizo-bloodrager-bloodlines/arcane/",
+  "source_name": "Bloodrager Bloodline: Arcane",
+  "sections": [
+    {
+      "id": "arcane",
+      "title": "Arcane",
+      "anchor_heading": "# Arcane",
+      "description": "Rules and description for Arcane.",
+      "keywords": []
+    }
+  ],
+  "category": "Bloodrager Bloodlines"
+}

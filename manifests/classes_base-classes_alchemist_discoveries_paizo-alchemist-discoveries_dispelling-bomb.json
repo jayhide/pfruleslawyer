@@ -1,0 +1,15 @@
+{
+  "file": "dispelling-bomb.md",
+  "source_path": "https://www.d20pfsrd.com/classes/base-classes/alchemist/discoveries/paizo-alchemist-discoveries/dispelling-bomb/",
+  "source_name": "Alchemist Discovery: Dispelling Bomb",
+  "sections": [
+    {
+      "id": "dispelling_bomb",
+      "title": "Dispelling Bomb",
+      "anchor_heading": "# Dispelling Bomb",
+      "description": "Rules and description for Dispelling Bomb.",
+      "keywords": []
+    }
+  ],
+  "category": "Alchemist Discoveries"
+}

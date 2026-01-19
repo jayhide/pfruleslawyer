@@ -1,0 +1,15 @@
+{
+  "file": "fast-bombs.md",
+  "source_path": "https://www.d20pfsrd.com/classes/base-classes/alchemist/discoveries/paizo-alchemist-discoveries/fast-bombs/",
+  "source_name": "Alchemist Discovery: Fast Bombs",
+  "sections": [
+    {
+      "id": "fast_bombs",
+      "title": "Fast Bombs",
+      "anchor_heading": "# Fast Bombs",
+      "description": "Rules and description for Fast Bombs.",
+      "keywords": []
+    }
+  ],
+  "category": "Alchemist Discoveries"
+}

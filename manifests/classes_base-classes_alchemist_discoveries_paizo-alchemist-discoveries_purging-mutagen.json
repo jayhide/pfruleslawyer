@@ -1,0 +1,15 @@
+{
+  "file": "purging-mutagen.md",
+  "source_path": "https://www.d20pfsrd.com/classes/base-classes/alchemist/discoveries/paizo-alchemist-discoveries/purging-mutagen/",
+  "source_name": "Alchemist Discovery: Purging Mutagen",
+  "sections": [
+    {
+      "id": "purging_mutagen",
+      "title": "Purging Mutagen",
+      "anchor_heading": "# Purging Mutagen",
+      "description": "Rules and description for Purging Mutagen.",
+      "keywords": []
+    }
+  ],
+  "category": "Alchemist Discoveries"
+}

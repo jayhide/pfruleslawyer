@@ -1,0 +1,15 @@
+{
+  "file": "nostrum.md",
+  "source_path": "https://www.d20pfsrd.com/classes/base-classes/alchemist/discoveries/paizo-alchemist-discoveries/nostrum/",
+  "source_name": "Alchemist Discovery: Nostrum",
+  "sections": [
+    {
+      "id": "nostrum",
+      "title": "Nostrum",
+      "anchor_heading": "# Nostrum",
+      "description": "Rules and description for Nostrum.",
+      "keywords": []
+    }
+  ],
+  "category": "Alchemist Discoveries"
+}

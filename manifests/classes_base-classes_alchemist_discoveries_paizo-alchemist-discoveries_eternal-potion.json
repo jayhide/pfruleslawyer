@@ -1,0 +1,15 @@
+{
+  "file": "eternal-potion.md",
+  "source_path": "https://www.d20pfsrd.com/classes/base-classes/alchemist/discoveries/paizo-alchemist-discoveries/eternal-potion/",
+  "source_name": "Alchemist Discovery: Eternal Potion",
+  "sections": [
+    {
+      "id": "eternal_potion",
+      "title": "Eternal Potion",
+      "anchor_heading": "# Eternal Potion",
+      "description": "Rules and description for Eternal Potion.",
+      "keywords": []
+    }
+  ],
+  "category": "Alchemist Discoveries"
+}

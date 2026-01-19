@@ -1,0 +1,15 @@
+{
+  "file": "air-lung.md",
+  "source_path": "https://www.d20pfsrd.com/classes/base-classes/alchemist/discoveries/paizo-alchemist-discoveries/air-lung/",
+  "source_name": "Alchemist Discovery: Air Lung",
+  "sections": [
+    {
+      "id": "air_lung",
+      "title": "Air Lung",
+      "anchor_heading": "# Air Lung",
+      "description": "Rules and description for Air Lung.",
+      "keywords": []
+    }
+  ],
+  "category": "Alchemist Discoveries"
+}

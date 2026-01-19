@@ -1,0 +1,15 @@
+{
+  "file": "change-alignment-su.md",
+  "source_path": "https://www.d20pfsrd.com/classes/base-classes/alchemist/discoveries/paizo-alchemist-discoveries/change-alignment-su/",
+  "source_name": "Alchemist Discovery: Change Alignment (Su)",
+  "sections": [
+    {
+      "id": "change_alignment_su",
+      "title": "Change Alignment",
+      "anchor_heading": "# Change Alignment (Su)",
+      "description": "Rules and description for Change Alignment.",
+      "keywords": []
+    }
+  ],
+  "category": "Alchemist Discoveries"
+}

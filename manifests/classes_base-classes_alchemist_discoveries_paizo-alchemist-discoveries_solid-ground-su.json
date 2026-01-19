@@ -1,0 +1,15 @@
+{
+  "file": "solid-ground-su.md",
+  "source_path": "https://www.d20pfsrd.com/classes/base-classes/alchemist/discoveries/paizo-alchemist-discoveries/solid-ground-su/",
+  "source_name": "Alchemist Discovery: Solid Ground (Su)",
+  "sections": [
+    {
+      "id": "solid_ground_su",
+      "title": "Solid Ground",
+      "anchor_heading": "# Solid Ground (Su)",
+      "description": "Rules and description for Solid Ground.",
+      "keywords": []
+    }
+  ],
+  "category": "Alchemist Discoveries"
+}

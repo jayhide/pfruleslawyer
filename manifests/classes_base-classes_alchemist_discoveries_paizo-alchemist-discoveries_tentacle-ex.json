@@ -1,0 +1,15 @@
+{
+  "file": "tentacle-ex.md",
+  "source_path": "https://www.d20pfsrd.com/classes/base-classes/alchemist/discoveries/paizo-alchemist-discoveries/tentacle-ex/",
+  "source_name": "Alchemist Discovery: Tentacle (Ex)",
+  "sections": [
+    {
+      "id": "tentacle_ex",
+      "title": "Tentacle",
+      "anchor_heading": "# Tentacle (Ex)",
+      "description": "Rules and description for Tentacle.",
+      "keywords": []
+    }
+  ],
+  "category": "Alchemist Discoveries"
+}

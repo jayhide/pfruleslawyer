@@ -1,0 +1,15 @@
+{
+  "file": "penetrating-charge.md",
+  "source_path": "https://www.d20pfsrd.com/classes/base-classes/alchemist/discoveries/paizo-alchemist-discoveries/penetrating-charge/",
+  "source_name": "Alchemist Discovery: Penetrating Charge",
+  "sections": [
+    {
+      "id": "penetrating_charge",
+      "title": "Penetrating Charge",
+      "anchor_heading": "# Penetrating Charge",
+      "description": "Rules and description for Penetrating Charge.",
+      "keywords": []
+    }
+  ],
+  "category": "Alchemist Discoveries"
+}

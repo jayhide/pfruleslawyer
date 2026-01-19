@@ -1,0 +1,15 @@
+{
+  "file": "undead.md",
+  "source_path": "https://www.d20pfsrd.com/classes/hybrid-classes/bloodrager/bloodrager-bloodlines/paizo-bloodrager-bloodlines/undead/",
+  "source_name": "Bloodrager Bloodline: Undead",
+  "sections": [
+    {
+      "id": "undead",
+      "title": "Undead",
+      "anchor_heading": "# Undead",
+      "description": "Rules and description for Undead.",
+      "keywords": []
+    }
+  ],
+  "category": "Bloodrager Bloodlines"
+}

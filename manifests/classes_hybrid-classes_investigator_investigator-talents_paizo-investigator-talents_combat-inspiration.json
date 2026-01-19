@@ -1,0 +1,15 @@
+{
+  "file": "combat-inspiration.md",
+  "source_path": "https://www.d20pfsrd.com/classes/hybrid-classes/investigator/investigator-talents/paizo-investigator-talents/combat-inspiration/",
+  "source_name": "Investigator Talent: Combat Inspiration (Ex)",
+  "sections": [
+    {
+      "id": "combat_inspiration",
+      "title": "Combat Inspiration",
+      "anchor_heading": "# Combat Inspiration (Ex)",
+      "description": "Rules and description for Combat Inspiration.",
+      "keywords": []
+    }
+  ],
+  "category": "Investigator Talents"
+}

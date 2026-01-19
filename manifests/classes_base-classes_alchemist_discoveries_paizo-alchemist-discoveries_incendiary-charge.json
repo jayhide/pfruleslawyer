@@ -1,0 +1,15 @@
+{
+  "file": "incendiary-charge.md",
+  "source_path": "https://www.d20pfsrd.com/classes/base-classes/alchemist/discoveries/paizo-alchemist-discoveries/incendiary-charge/",
+  "source_name": "Alchemist Discovery: Incendiary Charge",
+  "sections": [
+    {
+      "id": "incendiary_charge",
+      "title": "Incendiary Charge",
+      "anchor_heading": "# Incendiary Charge",
+      "description": "Rules and description for Incendiary Charge.",
+      "keywords": []
+    }
+  ],
+  "category": "Alchemist Discoveries"
+}

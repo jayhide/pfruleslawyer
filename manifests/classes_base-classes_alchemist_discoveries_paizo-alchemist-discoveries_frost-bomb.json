@@ -1,0 +1,15 @@
+{
+  "file": "frost-bomb.md",
+  "source_path": "https://www.d20pfsrd.com/classes/base-classes/alchemist/discoveries/paizo-alchemist-discoveries/frost-bomb/",
+  "source_name": "Alchemist Discovery: Frost Bomb",
+  "sections": [
+    {
+      "id": "frost_bomb",
+      "title": "Frost Bomb",
+      "anchor_heading": "# Frost Bomb",
+      "description": "Rules and description for Frost Bomb.",
+      "keywords": []
+    }
+  ],
+  "category": "Alchemist Discoveries"
+}

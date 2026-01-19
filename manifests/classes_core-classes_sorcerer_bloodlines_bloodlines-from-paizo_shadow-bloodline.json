@@ -1,0 +1,15 @@
+{
+  "file": "shadow-bloodline.md",
+  "source_path": "https://www.d20pfsrd.com/classes/core-classes/sorcerer/bloodlines/bloodlines-from-paizo/shadow-bloodline/",
+  "source_name": "Sorcerer Bloodline: Shadow Bloodline",
+  "sections": [
+    {
+      "id": "shadow_bloodline",
+      "title": "Shadow Bloodline",
+      "anchor_heading": "# Shadow Bloodline",
+      "description": "Rules and description for Shadow Bloodline.",
+      "keywords": []
+    }
+  ],
+  "category": "Sorcerer Bloodlines"
+}

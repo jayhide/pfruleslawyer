@@ -1,0 +1,15 @@
+{
+  "file": "healing-touch-ex.md",
+  "source_path": "https://www.d20pfsrd.com/classes/base-classes/alchemist/discoveries/paizo-alchemist-discoveries/healing-touch-ex/",
+  "source_name": "Alchemist Discovery: Healing Touch (Ex)",
+  "sections": [
+    {
+      "id": "healing_touch_ex",
+      "title": "Healing Touch",
+      "anchor_heading": "# Healing Touch (Ex)",
+      "description": "Rules and description for Healing Touch.",
+      "keywords": []
+    }
+  ],
+  "category": "Alchemist Discoveries"
+}

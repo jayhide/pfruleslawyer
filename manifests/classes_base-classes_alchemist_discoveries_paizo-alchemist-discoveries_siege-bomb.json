@@ -1,0 +1,15 @@
+{
+  "file": "siege-bomb.md",
+  "source_path": "https://www.d20pfsrd.com/classes/base-classes/alchemist/discoveries/paizo-alchemist-discoveries/siege-bomb/",
+  "source_name": "Alchemist Discovery: Siege Bomb",
+  "sections": [
+    {
+      "id": "siege_bomb",
+      "title": "Siege Bomb",
+      "anchor_heading": "# Siege Bomb",
+      "description": "Rules and description for Siege Bomb.",
+      "keywords": []
+    }
+  ],
+  "category": "Alchemist Discoveries"
+}

@@ -1,0 +1,15 @@
+{
+  "file": "promethean-disciple.md",
+  "source_path": "https://www.d20pfsrd.com/classes/base-classes/alchemist/discoveries/paizo-alchemist-discoveries/promethean-disciple/",
+  "source_name": "Alchemist Discovery: Promethean Disciple",
+  "sections": [
+    {
+      "id": "promethean_disciple",
+      "title": "Promethean Disciple",
+      "anchor_heading": "# Promethean Disciple",
+      "description": "Rules and description for Promethean Disciple.",
+      "keywords": []
+    }
+  ],
+  "category": "Alchemist Discoveries"
+}

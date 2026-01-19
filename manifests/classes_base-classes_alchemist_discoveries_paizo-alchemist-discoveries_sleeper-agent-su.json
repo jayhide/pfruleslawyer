@@ -1,0 +1,15 @@
+{
+  "file": "sleeper-agent-su.md",
+  "source_path": "https://www.d20pfsrd.com/classes/base-classes/alchemist/discoveries/paizo-alchemist-discoveries/sleeper-agent-su/",
+  "source_name": "Alchemist Discovery: Sleeper Agent (Su)",
+  "sections": [
+    {
+      "id": "sleeper_agent_su",
+      "title": "Sleeper Agent",
+      "anchor_heading": "# Sleeper Agent (Su)",
+      "description": "Rules and description for Sleeper Agent.",
+      "keywords": []
+    }
+  ],
+  "category": "Alchemist Discoveries"
+}

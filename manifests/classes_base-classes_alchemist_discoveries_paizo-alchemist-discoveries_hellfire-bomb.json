@@ -1,0 +1,15 @@
+{
+  "file": "hellfire-bomb.md",
+  "source_path": "https://www.d20pfsrd.com/classes/base-classes/alchemist/discoveries/paizo-alchemist-discoveries/hellfire-bomb/",
+  "source_name": "Alchemist Discovery: Hellfire Bomb",
+  "sections": [
+    {
+      "id": "hellfire_bomb",
+      "title": "Hellfire Bomb",
+      "anchor_heading": "# Hellfire Bomb",
+      "description": "Rules and description for Hellfire Bomb.",
+      "keywords": []
+    }
+  ],
+  "category": "Alchemist Discoveries"
+}

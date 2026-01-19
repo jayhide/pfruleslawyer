@@ -1,0 +1,15 @@
+{
+  "file": "item-lore.md",
+  "source_path": "https://www.d20pfsrd.com/classes/hybrid-classes/investigator/investigator-talents/paizo-investigator-talents/item-lore/",
+  "source_name": "Investigator Talent: Item Lore (Ex)",
+  "sections": [
+    {
+      "id": "item_lore",
+      "title": "Item Lore",
+      "anchor_heading": "# Item Lore (Ex)",
+      "description": "Rules and description for Item Lore.",
+      "keywords": []
+    }
+  ],
+  "category": "Investigator Talents"
+}

@@ -1,0 +1,15 @@
+{
+  "file": "cognatogen-su.md",
+  "source_path": "https://www.d20pfsrd.com/classes/base-classes/alchemist/discoveries/paizo-alchemist-discoveries/cognatogen-su/",
+  "source_name": "Alchemist Discovery: Cognatogen (Su)",
+  "sections": [
+    {
+      "id": "cognatogen_su",
+      "title": "Cognatogen",
+      "anchor_heading": "# Cognatogen (Su)",
+      "description": "Rules and description for Cognatogen.",
+      "keywords": []
+    }
+  ],
+  "category": "Alchemist Discoveries"
+}

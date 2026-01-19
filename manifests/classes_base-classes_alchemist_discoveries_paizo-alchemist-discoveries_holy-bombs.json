@@ -1,0 +1,15 @@
+{
+  "file": "holy-bombs.md",
+  "source_path": "https://www.d20pfsrd.com/classes/base-classes/alchemist/discoveries/paizo-alchemist-discoveries/holy-bombs/",
+  "source_name": "Alchemist Discovery: Holy Bombs",
+  "sections": [
+    {
+      "id": "holy_bombs",
+      "title": "Holy Bombs",
+      "anchor_heading": "# Holy Bombs",
+      "description": "Rules and description for Holy Bombs.",
+      "keywords": []
+    }
+  ],
+  "category": "Alchemist Discoveries"
+}

@@ -1,0 +1,15 @@
+{
+  "file": "solar.md",
+  "source_path": "https://www.d20pfsrd.com/classes/core-classes/sorcerer/bloodlines/bloodlines-from-paizo/solar/",
+  "source_name": "Sorcerer Bloodline: Solar",
+  "sections": [
+    {
+      "id": "solar",
+      "title": "Solar",
+      "anchor_heading": "# Solar",
+      "description": "Rules and description for Solar.",
+      "keywords": []
+    }
+  ],
+  "category": "Sorcerer Bloodlines"
+}

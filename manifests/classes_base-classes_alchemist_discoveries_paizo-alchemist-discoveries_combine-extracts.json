@@ -1,0 +1,15 @@
+{
+  "file": "combine-extracts.md",
+  "source_path": "https://www.d20pfsrd.com/classes/base-classes/alchemist/discoveries/paizo-alchemist-discoveries/combine-extracts/",
+  "source_name": "Alchemist Discovery: Combine Extracts",
+  "sections": [
+    {
+      "id": "combine_extracts",
+      "title": "Combine Extracts",
+      "anchor_heading": "# Combine Extracts",
+      "description": "Rules and description for Combine Extracts.",
+      "keywords": []
+    }
+  ],
+  "category": "Alchemist Discoveries"
+}

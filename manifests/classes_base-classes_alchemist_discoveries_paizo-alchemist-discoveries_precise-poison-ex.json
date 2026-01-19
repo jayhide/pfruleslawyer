@@ -1,0 +1,15 @@
+{
+  "file": "precise-poison-ex.md",
+  "source_path": "https://www.d20pfsrd.com/classes/base-classes/alchemist/discoveries/paizo-alchemist-discoveries/precise-poison-ex/",
+  "source_name": "Alchemist Discovery: Precise Poison (Ex)",
+  "sections": [
+    {
+      "id": "precise_poison_ex",
+      "title": "Precise Poison",
+      "anchor_heading": "# Precise Poison (Ex)",
+      "description": "Rules and description for Precise Poison.",
+      "keywords": []
+    }
+  ],
+  "category": "Alchemist Discoveries"
+}

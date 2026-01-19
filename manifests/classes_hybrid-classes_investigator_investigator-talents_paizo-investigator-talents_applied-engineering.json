@@ -1,0 +1,15 @@
+{
+  "file": "applied-engineering.md",
+  "source_path": "https://www.d20pfsrd.com/classes/hybrid-classes/investigator/investigator-talents/paizo-investigator-talents/applied-engineering/",
+  "source_name": "Investigator Talent: Applied Engineering (Ex)",
+  "sections": [
+    {
+      "id": "applied_engineering",
+      "title": "Applied Engineering",
+      "anchor_heading": "# Applied Engineering (Ex)",
+      "description": "Rules and description for Applied Engineering.",
+      "keywords": []
+    }
+  ],
+  "category": "Investigator Talents"
+}

@@ -1,0 +1,15 @@
+{
+  "file": "grand-mutagen.md",
+  "source_path": "https://www.d20pfsrd.com/classes/base-classes/alchemist/discoveries/paizo-alchemist-discoveries/grand-mutagen/",
+  "source_name": "Alchemist Discovery: Grand Mutagen",
+  "sections": [
+    {
+      "id": "grand_mutagen",
+      "title": "Grand Mutagen",
+      "anchor_heading": "# Grand Mutagen",
+      "description": "Rules and description for Grand Mutagen.",
+      "keywords": []
+    }
+  ],
+  "category": "Alchemist Discoveries"
+}

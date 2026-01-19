@@ -1,0 +1,15 @@
+{
+  "file": "stink-bomb.md",
+  "source_path": "https://www.d20pfsrd.com/classes/base-classes/alchemist/discoveries/paizo-alchemist-discoveries/stink-bomb/",
+  "source_name": "Alchemist Discovery: Stink Bomb",
+  "sections": [
+    {
+      "id": "stink_bomb",
+      "title": "Stink Bomb",
+      "anchor_heading": "# Stink Bomb",
+      "description": "Rules and description for Stink Bomb.",
+      "keywords": []
+    }
+  ],
+  "category": "Alchemist Discoveries"
+}

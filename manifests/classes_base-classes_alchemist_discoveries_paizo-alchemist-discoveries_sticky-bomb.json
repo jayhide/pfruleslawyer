@@ -1,0 +1,15 @@
+{
+  "file": "sticky-bomb.md",
+  "source_path": "https://www.d20pfsrd.com/classes/base-classes/alchemist/discoveries/paizo-alchemist-discoveries/sticky-bomb/",
+  "source_name": "Alchemist Discovery: Sticky Bomb",
+  "sections": [
+    {
+      "id": "sticky_bomb",
+      "title": "Sticky Bomb",
+      "anchor_heading": "# Sticky Bomb",
+      "description": "Rules and description for Sticky Bomb.",
+      "keywords": []
+    }
+  ],
+  "category": "Alchemist Discoveries"
+}

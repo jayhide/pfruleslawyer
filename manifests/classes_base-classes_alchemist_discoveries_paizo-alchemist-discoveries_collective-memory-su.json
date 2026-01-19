@@ -1,0 +1,15 @@
+{
+  "file": "collective-memory-su.md",
+  "source_path": "https://www.d20pfsrd.com/classes/base-classes/alchemist/discoveries/paizo-alchemist-discoveries/collective-memory-su/",
+  "source_name": "Alchemist Discovery: Collective Memory (Su)",
+  "sections": [
+    {
+      "id": "collective_memory_su",
+      "title": "Collective Memory",
+      "anchor_heading": "# Collective Memory (Su)",
+      "description": "Rules and description for Collective Memory.",
+      "keywords": []
+    }
+  ],
+  "category": "Alchemist Discoveries"
+}

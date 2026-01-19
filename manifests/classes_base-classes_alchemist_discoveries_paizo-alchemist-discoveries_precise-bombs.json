@@ -1,0 +1,15 @@
+{
+  "file": "precise-bombs.md",
+  "source_path": "https://www.d20pfsrd.com/classes/base-classes/alchemist/discoveries/paizo-alchemist-discoveries/precise-bombs/",
+  "source_name": "Alchemist Discovery: Precise Bombs",
+  "sections": [
+    {
+      "id": "precise_bombs",
+      "title": "Precise Bombs",
+      "anchor_heading": "# Precise Bombs",
+      "description": "Rules and description for Precise Bombs.",
+      "keywords": []
+    }
+  ],
+  "category": "Alchemist Discoveries"
+}

@@ -1,0 +1,15 @@
+{
+  "file": "shadow.md",
+  "source_path": "https://www.d20pfsrd.com/classes/hybrid-classes/bloodrager/bloodrager-bloodlines/paizo-bloodrager-bloodlines/shadow/",
+  "source_name": "Bloodrager Bloodline: Shadow",
+  "sections": [
+    {
+      "id": "shadow",
+      "title": "Shadow",
+      "anchor_heading": "# Shadow",
+      "description": "Rules and description for Shadow.",
+      "keywords": []
+    }
+  ],
+  "category": "Bloodrager Bloodlines"
+}

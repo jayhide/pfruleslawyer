@@ -1,0 +1,15 @@
+{
+  "file": "phantom-limb.md",
+  "source_path": "https://www.d20pfsrd.com/classes/base-classes/alchemist/discoveries/paizo-alchemist-discoveries/phantom-limb/",
+  "source_name": "Alchemist Discovery: Phantom Limb",
+  "sections": [
+    {
+      "id": "phantom_limb",
+      "title": "Phantom Limb",
+      "anchor_heading": "# Phantom Limb",
+      "description": "Rules and description for Phantom Limb.",
+      "keywords": []
+    }
+  ],
+  "category": "Alchemist Discoveries"
+}

@@ -1,0 +1,15 @@
+{
+  "file": "poison-conversion.md",
+  "source_path": "https://www.d20pfsrd.com/classes/base-classes/alchemist/discoveries/paizo-alchemist-discoveries/poison-conversion/",
+  "source_name": "Alchemist Discovery: Poison Conversion",
+  "sections": [
+    {
+      "id": "poison_conversion",
+      "title": "Poison Conversion",
+      "anchor_heading": "# Poison Conversion",
+      "description": "Rules and description for Poison Conversion.",
+      "keywords": []
+    }
+  ],
+  "category": "Alchemist Discoveries"
+}

@@ -1,0 +1,15 @@
+{
+  "file": "mutagen-su.md",
+  "source_path": "https://www.d20pfsrd.com/classes/base-classes/alchemist/discoveries/paizo-alchemist-discoveries/mutagen-su/",
+  "source_name": "Alchemist Discovery: Mutagen (Su)",
+  "sections": [
+    {
+      "id": "mutagen_su",
+      "title": "Mutagen",
+      "anchor_heading": "# Mutagen (Su)",
+      "description": "Rules and description for Mutagen.",
+      "keywords": []
+    }
+  ],
+  "category": "Alchemist Discoveries"
+}

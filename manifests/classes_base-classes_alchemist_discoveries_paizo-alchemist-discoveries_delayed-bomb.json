@@ -1,0 +1,15 @@
+{
+  "file": "delayed-bomb.md",
+  "source_path": "https://www.d20pfsrd.com/classes/base-classes/alchemist/discoveries/paizo-alchemist-discoveries/delayed-bomb/",
+  "source_name": "Alchemist Discovery: Delayed Bomb",
+  "sections": [
+    {
+      "id": "delayed_bomb",
+      "title": "Delayed Bomb",
+      "anchor_heading": "# Delayed Bomb",
+      "description": "Rules and description for Delayed Bomb.",
+      "keywords": []
+    }
+  ],
+  "category": "Alchemist Discoveries"
+}

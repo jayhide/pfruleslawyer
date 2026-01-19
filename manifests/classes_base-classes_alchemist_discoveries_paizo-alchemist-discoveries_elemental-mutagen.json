@@ -1,0 +1,15 @@
+{
+  "file": "elemental-mutagen.md",
+  "source_path": "https://www.d20pfsrd.com/classes/base-classes/alchemist/discoveries/paizo-alchemist-discoveries/elemental-mutagen/",
+  "source_name": "Alchemist Discovery: Elemental Mutagen",
+  "sections": [
+    {
+      "id": "elemental_mutagen",
+      "title": "Elemental Mutagen",
+      "anchor_heading": "# Elemental Mutagen",
+      "description": "Rules and description for Elemental Mutagen.",
+      "keywords": []
+    }
+  ],
+  "category": "Alchemist Discoveries"
+}

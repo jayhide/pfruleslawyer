@@ -1,0 +1,15 @@
+{
+  "file": "grease-bomb.md",
+  "source_path": "https://www.d20pfsrd.com/classes/base-classes/alchemist/discoveries/paizo-alchemist-discoveries/grease-bomb/",
+  "source_name": "Alchemist Discovery: Grease Bomb",
+  "sections": [
+    {
+      "id": "grease_bomb",
+      "title": "Grease Bomb",
+      "anchor_heading": "# Grease Bomb",
+      "description": "Rules and description for Grease Bomb.",
+      "keywords": []
+    }
+  ],
+  "category": "Alchemist Discoveries"
+}

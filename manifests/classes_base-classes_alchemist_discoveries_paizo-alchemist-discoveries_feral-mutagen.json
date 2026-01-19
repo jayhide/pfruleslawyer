@@ -1,0 +1,15 @@
+{
+  "file": "feral-mutagen.md",
+  "source_path": "https://www.d20pfsrd.com/classes/base-classes/alchemist/discoveries/paizo-alchemist-discoveries/feral-mutagen/",
+  "source_name": "Alchemist Discovery: Feral Mutagen",
+  "sections": [
+    {
+      "id": "feral_mutagen",
+      "title": "Feral Mutagen",
+      "anchor_heading": "# Feral Mutagen",
+      "description": "Rules and description for Feral Mutagen.",
+      "keywords": []
+    }
+  ],
+  "category": "Alchemist Discoveries"
+}

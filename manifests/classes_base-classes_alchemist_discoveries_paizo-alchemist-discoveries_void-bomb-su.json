@@ -1,0 +1,15 @@
+{
+  "file": "void-bomb-su.md",
+  "source_path": "https://www.d20pfsrd.com/classes/base-classes/alchemist/discoveries/paizo-alchemist-discoveries/void-bomb-su/",
+  "source_name": "Alchemist Discovery: Void Bomb (Su)",
+  "sections": [
+    {
+      "id": "void_bomb_su",
+      "title": "Void Bomb",
+      "anchor_heading": "# Void Bomb (Su)",
+      "description": "Rules and description for Void Bomb.",
+      "keywords": []
+    }
+  ],
+  "category": "Alchemist Discoveries"
+}

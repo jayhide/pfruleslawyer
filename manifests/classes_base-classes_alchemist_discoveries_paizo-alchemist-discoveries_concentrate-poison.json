@@ -1,0 +1,15 @@
+{
+  "file": "concentrate-poison.md",
+  "source_path": "https://www.d20pfsrd.com/classes/base-classes/alchemist/discoveries/paizo-alchemist-discoveries/concentrate-poison/",
+  "source_name": "Alchemist Discovery: Concentrate Poison",
+  "sections": [
+    {
+      "id": "concentrate_poison",
+      "title": "Concentrate Poison",
+      "anchor_heading": "# Concentrate Poison",
+      "description": "Rules and description for Concentrate Poison.",
+      "keywords": []
+    }
+  ],
+  "category": "Alchemist Discoveries"
+}

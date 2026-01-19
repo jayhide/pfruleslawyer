@@ -1,0 +1,15 @@
+{
+  "file": "elixir-of-life.md",
+  "source_path": "https://www.d20pfsrd.com/classes/base-classes/alchemist/discoveries/paizo-alchemist-discoveries/elixir-of-life/",
+  "source_name": "Alchemist Discovery: Elixir of Life",
+  "sections": [
+    {
+      "id": "elixir_of_life",
+      "title": "Elixir of Life",
+      "anchor_heading": "# Elixir of Life",
+      "description": "Rules and description for Elixir of Life.",
+      "keywords": []
+    }
+  ],
+  "category": "Alchemist Discoveries"
+}

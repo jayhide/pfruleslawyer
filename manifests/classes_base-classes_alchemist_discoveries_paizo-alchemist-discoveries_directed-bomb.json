@@ -1,0 +1,15 @@
+{
+  "file": "directed-bomb.md",
+  "source_path": "https://www.d20pfsrd.com/classes/base-classes/alchemist/discoveries/paizo-alchemist-discoveries/directed-bomb/",
+  "source_name": "Alchemist Discovery: Directed Bomb",
+  "sections": [
+    {
+      "id": "directed_bomb",
+      "title": "Directed Bomb",
+      "anchor_heading": "# Directed Bomb",
+      "description": "Rules and description for Directed Bomb.",
+      "keywords": []
+    }
+  ],
+  "category": "Alchemist Discoveries"
+}

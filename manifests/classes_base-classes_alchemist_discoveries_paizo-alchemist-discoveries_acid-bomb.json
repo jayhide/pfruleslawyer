@@ -1,0 +1,15 @@
+{
+  "file": "acid-bomb.md",
+  "source_path": "https://www.d20pfsrd.com/classes/base-classes/alchemist/discoveries/paizo-alchemist-discoveries/acid-bomb/",
+  "source_name": "Alchemist Discovery: Acid Bomb",
+  "sections": [
+    {
+      "id": "acid_bomb",
+      "title": "Acid Bomb",
+      "anchor_heading": "# Acid Bomb",
+      "description": "Rules and description for Acid Bomb.",
+      "keywords": []
+    }
+  ],
+  "category": "Alchemist Discoveries"
+}

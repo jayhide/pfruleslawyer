@@ -1,0 +1,15 @@
+{
+  "file": "infusion.md",
+  "source_path": "https://www.d20pfsrd.com/classes/base-classes/alchemist/discoveries/paizo-alchemist-discoveries/infusion/",
+  "source_name": "Alchemist Discovery: Infusion",
+  "sections": [
+    {
+      "id": "infusion",
+      "title": "Infusion",
+      "anchor_heading": "# Infusion",
+      "description": "Rules and description for Infusion.",
+      "keywords": []
+    }
+  ],
+  "category": "Alchemist Discoveries"
+}

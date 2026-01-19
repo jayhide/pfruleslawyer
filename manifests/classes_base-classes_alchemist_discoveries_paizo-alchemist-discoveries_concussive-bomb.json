@@ -1,0 +1,15 @@
+{
+  "file": "concussive-bomb.md",
+  "source_path": "https://www.d20pfsrd.com/classes/base-classes/alchemist/discoveries/paizo-alchemist-discoveries/concussive-bomb/",
+  "source_name": "Alchemist Discovery: Concussive Bomb",
+  "sections": [
+    {
+      "id": "concussive_bomb",
+      "title": "Concussive Bomb",
+      "anchor_heading": "# Concussive Bomb",
+      "description": "Rules and description for Concussive Bomb.",
+      "keywords": []
+    }
+  ],
+  "category": "Alchemist Discoveries"
+}

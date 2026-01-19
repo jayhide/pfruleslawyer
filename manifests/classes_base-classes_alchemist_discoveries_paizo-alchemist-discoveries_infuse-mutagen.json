@@ -1,0 +1,15 @@
+{
+  "file": "infuse-mutagen.md",
+  "source_path": "https://www.d20pfsrd.com/classes/base-classes/alchemist/discoveries/paizo-alchemist-discoveries/infuse-mutagen/",
+  "source_name": "Alchemist Discovery: Infuse Mutagen",
+  "sections": [
+    {
+      "id": "infuse_mutagen",
+      "title": "Infuse Mutagen",
+      "anchor_heading": "# Infuse Mutagen",
+      "description": "Rules and description for Infuse Mutagen.",
+      "keywords": []
+    }
+  ],
+  "category": "Alchemist Discoveries"
+}

@@ -1,0 +1,15 @@
+{
+  "file": "gills.md",
+  "source_path": "https://www.d20pfsrd.com/classes/base-classes/alchemist/discoveries/paizo-alchemist-discoveries/gills/",
+  "source_name": "Alchemist Discovery: Gills",
+  "sections": [
+    {
+      "id": "gills",
+      "title": "Gills",
+      "anchor_heading": "# Gills",
+      "description": "Rules and description for Gills.",
+      "keywords": []
+    }
+  ],
+  "category": "Alchemist Discoveries"
+}

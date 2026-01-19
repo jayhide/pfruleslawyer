@@ -1,0 +1,15 @@
+{
+  "file": "grand-rasugen.md",
+  "source_path": "https://www.d20pfsrd.com/classes/base-classes/alchemist/discoveries/paizo-alchemist-discoveries/grand-rasugen/",
+  "source_name": "Alchemist Discovery: Grand Rasugen",
+  "sections": [
+    {
+      "id": "grand_rasugen",
+      "title": "Grand Rasugen",
+      "anchor_heading": "# Grand Rasugen",
+      "description": "Rules and description for Grand Rasugen.",
+      "keywords": []
+    }
+  ],
+  "category": "Alchemist Discoveries"
+}

@@ -1,0 +1,15 @@
+{
+  "file": "remote-bomb.md",
+  "source_path": "https://www.d20pfsrd.com/classes/base-classes/alchemist/discoveries/paizo-alchemist-discoveries/remote-bomb/",
+  "source_name": "Alchemist Discovery: Remote Bomb",
+  "sections": [
+    {
+      "id": "remote_bomb",
+      "title": "Remote Bomb",
+      "anchor_heading": "# Remote Bomb",
+      "description": "Rules and description for Remote Bomb.",
+      "keywords": []
+    }
+  ],
+  "category": "Alchemist Discoveries"
+}

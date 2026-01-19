@@ -1,0 +1,15 @@
+{
+  "file": "plague-vector.md",
+  "source_path": "https://www.d20pfsrd.com/classes/base-classes/alchemist/discoveries/paizo-alchemist-discoveries/plague-vector/",
+  "source_name": "Alchemist Discovery: Plague Vector",
+  "sections": [
+    {
+      "id": "plague_vector",
+      "title": "Plague Vector",
+      "anchor_heading": "# Plague Vector",
+      "description": "Rules and description for Plague Vector.",
+      "keywords": []
+    }
+  ],
+  "category": "Alchemist Discoveries"
+}

@@ -1,0 +1,15 @@
+{
+  "file": "confusion-bomb-su.md",
+  "source_path": "https://www.d20pfsrd.com/classes/base-classes/alchemist/discoveries/paizo-alchemist-discoveries/confusion-bomb-su/",
+  "source_name": "Alchemist Discovery: Confusion Bomb (Su)",
+  "sections": [
+    {
+      "id": "confusion_bomb_su",
+      "title": "Confusion Bomb",
+      "anchor_heading": "# Confusion Bomb (Su)",
+      "description": "Rules and description for Confusion Bomb.",
+      "keywords": []
+    }
+  ],
+  "category": "Alchemist Discoveries"
+}

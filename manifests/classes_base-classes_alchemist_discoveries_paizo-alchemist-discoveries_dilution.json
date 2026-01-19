@@ -1,0 +1,15 @@
+{
+  "file": "dilution.md",
+  "source_path": "https://www.d20pfsrd.com/classes/base-classes/alchemist/discoveries/paizo-alchemist-discoveries/dilution/",
+  "source_name": "Alchemist Discovery: Dilution",
+  "sections": [
+    {
+      "id": "dilution",
+      "title": "Dilution",
+      "anchor_heading": "# Dilution",
+      "description": "Rules and description for Dilution.",
+      "keywords": []
+    }
+  ],
+  "category": "Alchemist Discoveries"
+}

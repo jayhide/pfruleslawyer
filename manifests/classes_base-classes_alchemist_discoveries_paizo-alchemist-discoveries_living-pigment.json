@@ -1,0 +1,15 @@
+{
+  "file": "living-pigment.md",
+  "source_path": "https://www.d20pfsrd.com/classes/base-classes/alchemist/discoveries/paizo-alchemist-discoveries/living-pigment/",
+  "source_name": "Alchemist Discovery: Living Pigment",
+  "sections": [
+    {
+      "id": "living_pigment",
+      "title": "Living Pigment",
+      "anchor_heading": "# Living Pigment",
+      "description": "Rules and description for Living Pigment.",
+      "keywords": []
+    }
+  ],
+  "category": "Alchemist Discoveries"
+}

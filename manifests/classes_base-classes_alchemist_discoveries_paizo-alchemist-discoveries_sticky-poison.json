@@ -1,0 +1,15 @@
+{
+  "file": "sticky-poison.md",
+  "source_path": "https://www.d20pfsrd.com/classes/base-classes/alchemist/discoveries/paizo-alchemist-discoveries/sticky-poison/",
+  "source_name": "Alchemist Discovery: Sticky Poison",
+  "sections": [
+    {
+      "id": "sticky_poison",
+      "title": "Sticky Poison",
+      "anchor_heading": "# Sticky Poison",
+      "description": "Rules and description for Sticky Poison.",
+      "keywords": []
+    }
+  ],
+  "category": "Alchemist Discoveries"
+}

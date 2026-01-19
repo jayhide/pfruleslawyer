@@ -1,0 +1,15 @@
+{
+  "file": "splitting-mutagen.md",
+  "source_path": "https://www.d20pfsrd.com/classes/base-classes/alchemist/discoveries/paizo-alchemist-discoveries/splitting-mutagen/",
+  "source_name": "Alchemist Discovery: Splitting Mutagen",
+  "sections": [
+    {
+      "id": "splitting_mutagen",
+      "title": "Splitting Mutagen",
+      "anchor_heading": "# Splitting Mutagen",
+      "description": "Rules and description for Splitting Mutagen.",
+      "keywords": []
+    }
+  ],
+  "category": "Alchemist Discoveries"
+}

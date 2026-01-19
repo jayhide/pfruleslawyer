@@ -1,0 +1,15 @@
+{
+  "file": "aromatic-extract.md",
+  "source_path": "https://www.d20pfsrd.com/classes/base-classes/alchemist/discoveries/paizo-alchemist-discoveries/aromatic-extract/",
+  "source_name": "Alchemist Discovery: Aromatic Extract",
+  "sections": [
+    {
+      "id": "aromatic_extract",
+      "title": "Aromatic Extract",
+      "anchor_heading": "# Aromatic Extract",
+      "description": "Rules and description for Aromatic Extract.",
+      "keywords": []
+    }
+  ],
+  "category": "Alchemist Discoveries"
+}

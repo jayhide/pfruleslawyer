@@ -269,6 +269,11 @@ def main():
         action="store_true",
         help="Show statistics about what would be processed and exit"
     )
+    parser.add_argument(
+        "--no-llm",
+        action="store_true",
+        help="Only process entries that don't require LLM calls (template and faq modes)"
+    )
 
     args = parser.parse_args()
 
@@ -286,6 +291,15 @@ def main():
         if not entries:
             print(f"No entries found for category: {args.category}")
             return
+
+    # Filter to non-LLM modes if --no-llm specified
+    NO_LLM_MODES = {"template", "faq"}
+    if args.no_llm:
+        entries = [e for e in entries if e.get("mode") in NO_LLM_MODES]
+        if not entries:
+            print("No entries found with non-LLM modes (template, faq)")
+            return
+        print(f"Filtering to non-LLM modes only: {', '.join(sorted(NO_LLM_MODES))}")
 
     # Initialize database
     db = HtmlCacheDB(args.db)
@@ -345,13 +359,15 @@ def main():
         print("No URLs to process")
         return
 
-    # Check for API key (unless dry run)
-    if not args.dry_run and not os.environ.get("ANTHROPIC_API_KEY"):
+    # Check for API key (unless dry run or no-llm mode)
+    if not args.dry_run and not args.no_llm and not os.environ.get("ANTHROPIC_API_KEY"):
         print("Error: ANTHROPIC_API_KEY environment variable not set", file=sys.stderr)
         sys.exit(1)
 
-    # Initialize client
-    client = anthropic.Anthropic() if not args.dry_run else None
+    # Initialize client (not needed for dry run or no-llm mode)
+    client = None
+    if not args.dry_run and not args.no_llm:
+        client = anthropic.Anthropic()
 
     print(f"\nProcessing {len(urls_to_process)} URLs...")
 

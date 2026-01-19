@@ -1,0 +1,15 @@
+{
+  "file": "inferno-bomb.md",
+  "source_path": "https://www.d20pfsrd.com/classes/base-classes/alchemist/discoveries/paizo-alchemist-discoveries/inferno-bomb/",
+  "source_name": "Alchemist Discovery: Inferno Bomb",
+  "sections": [
+    {
+      "id": "inferno_bomb",
+      "title": "Inferno Bomb",
+      "anchor_heading": "# Inferno Bomb",
+      "description": "Rules and description for Inferno Bomb.",
+      "keywords": []
+    }
+  ],
+  "category": "Alchemist Discoveries"
+}

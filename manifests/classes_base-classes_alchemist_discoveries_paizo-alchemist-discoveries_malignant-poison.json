@@ -1,0 +1,15 @@
+{
+  "file": "malignant-poison.md",
+  "source_path": "https://www.d20pfsrd.com/classes/base-classes/alchemist/discoveries/paizo-alchemist-discoveries/malignant-poison/",
+  "source_name": "Alchemist Discovery: Malignant Poison",
+  "sections": [
+    {
+      "id": "malignant_poison",
+      "title": "Malignant Poison",
+      "anchor_heading": "# Malignant Poison",
+      "description": "Rules and description for Malignant Poison.",
+      "keywords": []
+    }
+  ],
+  "category": "Alchemist Discoveries"
+}

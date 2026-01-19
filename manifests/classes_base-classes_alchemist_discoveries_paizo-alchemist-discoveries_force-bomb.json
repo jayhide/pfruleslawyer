@@ -1,0 +1,15 @@
+{
+  "file": "force-bomb.md",
+  "source_path": "https://www.d20pfsrd.com/classes/base-classes/alchemist/discoveries/paizo-alchemist-discoveries/force-bomb/",
+  "source_name": "Alchemist Discovery: Force Bomb",
+  "sections": [
+    {
+      "id": "force_bomb",
+      "title": "Force Bomb",
+      "anchor_heading": "# Force Bomb",
+      "description": "Rules and description for Force Bomb.",
+      "keywords": []
+    }
+  ],
+  "category": "Alchemist Discoveries"
+}

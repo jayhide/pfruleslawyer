@@ -1,0 +1,15 @@
+{
+  "file": "dread-bomb.md",
+  "source_path": "https://www.d20pfsrd.com/classes/base-classes/alchemist/discoveries/paizo-alchemist-discoveries/dread-bomb/",
+  "source_name": "Alchemist Discovery: Dread Bomb",
+  "sections": [
+    {
+      "id": "dread_bomb",
+      "title": "Dread Bomb",
+      "anchor_heading": "# Dread Bomb",
+      "description": "Rules and description for Dread Bomb.",
+      "keywords": []
+    }
+  ],
+  "category": "Alchemist Discoveries"
+}

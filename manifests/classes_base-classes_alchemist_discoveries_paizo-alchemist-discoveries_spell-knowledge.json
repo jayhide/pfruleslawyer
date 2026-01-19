@@ -1,0 +1,15 @@
+{
+  "file": "spell-knowledge.md",
+  "source_path": "https://www.d20pfsrd.com/classes/base-classes/alchemist/discoveries/paizo-alchemist-discoveries/spell-knowledge/",
+  "source_name": "Alchemist Discovery: Spell Knowledge",
+  "sections": [
+    {
+      "id": "spell_knowledge",
+      "title": "Spell Knowledge",
+      "anchor_heading": "# Spell Knowledge",
+      "description": "Rules and description for Spell Knowledge.",
+      "keywords": []
+    }
+  ],
+  "category": "Alchemist Discoveries"
+}

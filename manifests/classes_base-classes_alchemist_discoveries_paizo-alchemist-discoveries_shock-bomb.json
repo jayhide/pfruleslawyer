@@ -1,0 +1,15 @@
+{
+  "file": "shock-bomb.md",
+  "source_path": "https://www.d20pfsrd.com/classes/base-classes/alchemist/discoveries/paizo-alchemist-discoveries/shock-bomb/",
+  "source_name": "Alchemist Discovery: Shock Bomb",
+  "sections": [
+    {
+      "id": "shock_bomb",
+      "title": "Shock Bomb",
+      "anchor_heading": "# Shock Bomb",
+      "description": "Rules and description for Shock Bomb.",
+      "keywords": []
+    }
+  ],
+  "category": "Alchemist Discoveries"
+}
