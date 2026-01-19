@@ -1,0 +1,231 @@
+ 0-Level Druid Spells (Orisons) Spell Name 	Comp. 	Description 	Source
+Chameleon Scales 		You temporarily alter the color of your skin, hide, or scales to another option legal for your race. 	PZO9432
+Create Water 		Creates 2 gallons/level of pure water. 	PZO1110
+Detect Magic 		Detects spells and magic items within 60 ft. 	PZO1110
+Detect Poison 		Detects poison in one creature or object. 	PZO1110
+Enhanced Diplomacy 		Touched creature gains +2 on one Diplomacy or Intimidate check. 	PZO9405
+Flare 		Dazzles one creature (–1 penalty on attack rolls). 	PZO1110
+Guidance 		+1 on one attack roll, saving throw, or skill check. 	PZO1110
+Know Direction 		You discern north. 	PZO1110
+Light 		Object shines like a torch. 	PZO1110
+Mending 		Makes minor repairs on an object. 	PZO1110
+Purify Food and Drink 		Purifies 1 cu. ft./level of food or water. 	PZO1110
+Read Magic 		Read scrolls and spellbooks. 	PZO1110
+Resistance 		Subject gains +1 bonus on saving throws. 	PZO1110
+Spark 		Ignites flammable objects. 	PZO1115
+Stabilize 		Cause a dying creature to stabilize. 	PZO1110
+Virtue 		Subject gains 1 temporary hp. 	PZO1110
+
+1st-Level Druid Spells Spell Name 	Comp. 	Description 	Source
+Abstemiousness 		Enhances a small handful of food to feed a creature for a day. 	PZO9418
+Acid Maw 		Your animal companion’s bite attack deals an additional 1d4 points of acid damage, and the acid deals another 1d4 points of acid damage to the target on the next round. 	PZO9451
+Advanced Scurvy 		A living touched target contracts an advanced form of scurvy. 	PAP55:WM
+Air Bubble 		Creates a small pocket of air around your head or an object. 	PZO1118
+Alter Winds 		Increase/decrease strength of natural winds. 	PZO1115
+Ant Haul 		Triples carrying capacity of a creature. 	PZO1115
+Aspect of the Falcon 		Gives bonuses on Perception checks and ranged attacks. 	PZO1115
+Aspect of the Nightingale 		You gain a +2 competence bonus on Perform (sing) checks and a +2 competence bonus on Diplomacy checks. Once per minute, if you are subject to a charm effect that allows a saving throw, you may roll twice and take the more favorable result. 	PZO9267
+Blend 		Gain a bonus to Stealth and make checks without cover or concealment. Elf only. 	PZO1121
+Bristle 		Trade natural armor bonus for a bonus on attacks with natural weapons. 	PZO1115
+Burning Disarm 		A metal object instantly becomes red hot possibly causing the wielder to drop it or take damage. 	CEoD
+Call Animal 		Calls the nearest wild animal of the designated type with CR equal to or less than your caster level. 	PZO1115
+Calm Animals 		Calms 2d4 + level HD of animals. 	PZO1110
+Charm Animal 		Makes one animal your friend. 	PZO1110
+Cheetah’s Sprint 		A wild surge of energy courses through your body and propels you into a sprint. 	PZO9456
+Cloak of Shade 		Reduces effects of sun exposure and heat. 	PZO1115
+Commune with Birds 		You can ask birds a question. 	PZO1121
+Cure Light Wounds 		Cures 1d8 damage + 1/level (max +5). 	PZO1110
+Damp Powder 		Ruins ammunition loaded in the targeted firearm. 	PZO1118
+Deadeye’s Lore 		Gain +4 sacred bonus on all Survival checks and do not have to move at 1/2 speed while traveling through wilderness or while tracking. 	PZO1118
+Decompose Corpse 		Turn a corpse into a clean skeleton. 	PZO1117
+Detect Aberration 		Reveals presence of aberrations. 	PZO1115
+Detect Animals or Plants 		Detects kinds of animals or plants. 	PZO1110
+Detect Snares and Pits 		Reveals natural or primitive traps. 	PZO1110
+Detect the Faithful 		You can detect other worshipers of your deity. 	PZO1134
+Diagnose Disease 		Detect and identify diseases. 	PZO1117
+Dream Feast 		Target awakens from normal rest as if ate and drank a nutritious meal. 	RotR
+Echo 		Cause a sound to repeat itself. 	PZO1140
+Endothermic Touch 	DF/M 	Slow the metabolism and other bodily functions of a creature for a short amount of time. 	PZO1130
+Endure Elements 		Exist comfortably in hot or cold regions. 	PZO1110
+Entangle 		Plants entangle everyone in 40-ft. radius. 	PZO1110
+Expeditious Construction 		You create a low wall or other simple structure of packed earth or loose stone measuring 3 feet thick, 3 feet tall, and 10 feet long per 3 caster levels you possess (minimum 10 feet). 	PPZO9410
+Expeditious Excavation 		Moves 5-ft. cubes of earth. 	PZO1115
+Faerie Fire 		Outlines subjects with light, canceling blur, concealment, and the like. 	PZO1110
+Feather Step 		Ignore movement penalty in difficult terrain. 	PZO1115
+Firebelly 		A magical fire warms your belly, granting you fire resistance 5 and as a standard action, you can breathe a 15-foot cone of flame that deals 1d4 fire damage (Ref half, SR applies). 	PZO9267
+Flare Burst 		As flare, but all creatures within 10 ft. 	PZO1115
+Frostbite 		Target takes cold damage and is fatigued. 	PZO1117
+Gentle Breeze 		Light wind protects one target from clouds, gases, heat, and vapors. 	PZO1129
+Goodberry 		2d4 berries each cure 1 hp (max 8 hp/24 hours). 	PZO1110
+Hairline Fractures 		Reduce the hardness of a stone object or lower the AC of an earth-type creature. 	FoP
+Heightened Awareness 		Your recall and ability to process information improve. 	PZO1129
+Hidden Spring 		Discover a temporary spring of fresh, flowing water. 	PZO1140
+Hide from Animals 		Animals can’t perceive one subject/level. 	PZO1110
+Hydraulic Push 		Wave of water bull rushes an enemy. 	PZO1115
+Ice Armor 		You create a suit of armor made of ice which offers the same protection as a breastplate, except it has hardness 0 and 30 hit points. 	ISG
+Itching Curse 		Curse target with a distracting, unbearable itch. 	PZO9468
+Jump 		Subject gets bonus on Acrobatics checks. 	PZO1110
+Keen Senses 		Gain +2 Perception and low-light vision. 	PZO1110
+Liberating Command 		Target makes an Escape Artist check as an immediate action and gains a bonus on it. 	PZO1118
+Longstrider 		Your speed increases by 10 ft. 	PZO1110
+Magic Fang 		One natural weapon of subject creature gets +1 on attack and damage rolls. 	PZO1110
+Magic Stone 		Three stones gain +1 on attack rolls, deal 1d6+1 damage. 	PZO1110
+Marid’s Mastery 		If target and opponent are touching water +1 bonus on attack and damage rolls, otherwise -4. 	PZO1121
+Mighty Fist of the Earth 	DF 	Make an unarmed strike attack roll against a target at distance. 	PZO1121
+Monkey Fish 		Gain a climb speed and a swim speed of 10 ft. for a time. 	PZO1129
+Mudball 		Range touch attack that cause the target to be blinded. 	PZO1121
+Nature’s Paths 		The target instinctively knows the shortest, easiest, and fastest way through the wilderness. 	PZO9456
+Nauseating Dart 		Poisonous stinger deals 1d2 damage and sickens target. 	PZO1129
+Negate Aroma 		Subject cannot be tracked by scent. 	PZO1115
+Nereid’s Grace 		Gain a deflection bonus to AC and CMD equal to your Cha bonus. 	PZO1121
+Obscuring Mist 		Fog surrounds you. 	PZO1110
+Obscure Poison 		Make it harder to detect a poison or a venomous creature. 	PZO1134
+Pass without Trace 		One subject/level leaves no tracks. 	PZO1110
+Produce Flame 		1d6 damage + 1/level, touch or thrown. 	PZO1110
+Ray of Sickening 		Ray makes the subject sickened. 	PZO1117
+Read Weather 		You can forecast the weather at your location for the next 48 hours. 	PZO9418
+Recharge Innate Magic 		Regain one use of all 0 and 1st-level spell-like abilities of a racial trait. 	PZO1121
+Remove Sickness 		Suppress disease, nausea, and the sickened condition. 	PZO1117
+Restore Corpse 		Skeletal corpse grows flesh. 	PZO1117
+Rite of Bodily Purity 	M 	You energize your body’s immune system, improving your ability to resist toxins and ailments. 	PZO9472
+Rite of Centered Mind 	M 	You heighten your awareness of your own thoughts, allowing you to more easily resist outside influences. 	PZO9472
+Shillelagh 		Cudgel or quarterstaff becomes +1 weapon (2d6 damage) for 1 min./level. 	PZO1110
+Snowball 		Throw a conjured ball of snow at a target. 	PZO1140
+Snow Shape 		As stone shape except with snow. You can create simple weapons composed of ice that last for 24 hours before melting. 	PZO9417
+Speak with Animals 		You can communicate with animals. 	PZO1110
+Spirit Call 		For the duration of the spell, all spells from your domain list that are cast within the affected area have their caster level increased by 1, and all spellcasters casting such spells receive a +4 insight bonus on their concentration checks for those spells only. 	PZO9451
+Stone Fist 		Your unarmed strikes are lethal. 	PZO1115
+Stone Shield 		A 1-inch-thick slab of stone springs up from the ground, interposing itself between you and an opponent of your choice. 	PRG:ARG
+Summon Minor Ally 		Summon 1d3 Tiny animals. 	PZO1117
+Summon Nature’s Ally I 		Summons creature to fight. 	PZO1110
+Tears to Wine 		This spell turns nonmagic liquids into mead or wine of average quality. 	PPZO9410
+Thorn Javelin 		Wield a javelin that sickens opponents when it strikes. 	PZO1129
+Thunderstomp 		Trip one creature within range. 	PZO1129
+Touch of Bloodletting 		This spell causes existing wounds on a target to bleed profusely. 	PZO9267
+Touch of the Sea 		Swim speed becomes 30 ft. 	PZO1115
+Tracking Mark 		You treat the DCs of all Survival checks made to track a target as if 5 lower than normal, and gain a +5 bonus on Perception checks to notice the target if it is using Stealth or to recognize it if it is using Disguise. 	PZO9267
+Twisted Futures 		A creature affected by this spell is unable to benefit from effects that grant the ability to roll multiple times and take the higher result. 	PZO9453
+Underbrush Decoy 		Create a rustling distraction to hide. 	PZO1134
+Wave Shield 		Water blunts one incoming attack or fire effect. 	PZO1129
+Weaken Powder 		Targeted firearm’s ammunition halves the firearm’s range and imposes a –2 penalty on damage rolls. 	PZO1118
+Whispering Lore 		Gain a bonus to Knowledge checks about your environment from the land itself. Elf only. 	PZO1121
+
+2nd-Level Druid Spells Spell Name 	Comp. 	Description 	Source
+Aboleth’s Lung 		Targets gain the ability to breathe water but can no longer breathe air. 	PZO1121
+Accelerate Poison 		Hastens targeted poison’s onset. 	PZO1115
+Alpha Instinct 		Gain bonuses when you’re interacting with animals. 	PZO1140
+Aggressive Thundercloud 		Flying storm cloud deals 3d6 electricity damage. 	PZO1129
+Air Step 		Tread unsteadily on air, with limitations. 	PZO1129
+Alter Summoned Monster 		You swap a creature summoned by a conjuration (summoning) spell for a creature you could summon with a summon monster or summon nature’s ally spell 	PZO9458
+Amplify Stench 		Amplify your natural stench special ability—its save DC increases by 2, and creatures that fail their saving throws against your stench become nauseated rather than sickened. 	PZO1130
+Animal Aspect 		You gain some of the beneficial qualities of an animal. 	PZO1118
+Animal Messenger 		Sends a Tiny animal to a specific place. 	PZO1110
+Animal Purpose Training 		Animal gains a new general purpose. 	PZO1129
+Animal Trance 		Fascinates 2d6 HD of animals. 	PZO1110
+Ant Haul, Communal 		As ant haul, but you may divide the duration among creatures touched. 	PZO1118
+Aquatic Cavalry 		Summon hippocampi to serve as aquatic mounts. 	PZO1140
+Aspect of the Bear 		+2 AC and combat maneuver rolls. 	PZO1115
+Barkskin 		Grants +2 (or higher) enhancement to natural armor. 	PZO1110
+Bear’s Endurance 		Subject gains +4 to Con for 1 min./level. 	PZO1110
+Beastspeak 		Speak normally while in animal form. 	PZO1129
+Binding Earth 	DF 	Target creature treats areas of earth and stone as difficult terrain. 	PZO1121
+Bone Fists 		The bones of your targets’ joints grow thick and sharp, protruding painfully through the skin at the knuckles, elbows, shoulders, spine, and knees. 	PZO9468
+Bull’s Strength 		Subject gains +4 to Str for 1 min./level. 	PZO1110
+Burdened Thoughts 		Target creature gains heavy encumbrance and is cannot fly. 	PZO9453
+Burning Gaze 		Inflict 1d6 fire damage to creature. 	PZO1115
+Burst of Radiance 		Fills area with shimmering light, blinding (or dazzling) creatures for 1d4 rounds and damaging evil creatures. 	PZO9431
+Campfire Wall 		Creates a shelter around a campfire. 	PZO1115
+Carry Companion 		You transform a helpful animal or magical beast into a miniature stone figurine. 	PZO9426
+Cat’s Grace 		Subject gains +4 to Dex for 1 min./level. 	PZO1110
+Certain Grip 		You gain a +4 competence bonus on Acrobatics and Climb checks and to CMD. 	PZO1118
+Chill Metal 		Cold metal damages those who touch it. 	PZO1110
+Climbing Beanstalk 		Create a beanstalk that is easy to climb. 	PZO1129
+Cloud of Seasickness 		As stinking cloud, except as noted and creatures are sickened instead of nauseated. 	PAP55:WM
+Companion Life Link 		Sense whenever your companion is wounded and call out to it in a time of need. 	PZO1129
+Control Vermin 	DF/M 	You and a number of allies less than or equal to your caster level designated upon casting can use Handle Animal and Ride checks to influence or control the targeted vermin as if they were animals and had animal-level intelligence. 	PZO1130
+Curse Terrain, Lesser 	M 	Curse an area with three mild hazards. 	PZO1135
+Defoliate 		You hurl a tiny ball of negative energy, destroying plant life either in a line 60 feet long or a 10-foot-radius spread. 	StLC
+Delay Disease 	DF 	Gain immunity to disease for 24 hours. 	PZO1121
+Delay Poison 		Stops poison from harming subject for 1 hour/level. 	PZO1110
+Detect Magic, Greater 		As detect magic, but learn more information. 	PZO1134
+Determine Depth 		With a touch, you determine the exact thickness of a wall, ceiling, or other solid barrier. 	DHB
+Divine Trident 		You make touch attacks with a spear-like bolt of electricity that deal 1d8 +1 per 2 caster levels (maximum +10)] electricity damage and might ignite combustible materials. 	PZO9202
+Eagle Eye 		Creates a magical sensor high above you. 	PZO1115
+Elemental Speech 		Enables you to speak to elementals and some creatures. 	PZO1115
+Endure Elements, Communal 		As endure elements, but you may divide the duration among creatures touched. 	PZO1118
+Euphoric Cloud 	M 	Fog obscures vision and fascinates living creatures. 	PZO1129
+Fear the Sun 		Targets that fail the saving throw gain light blindness. If you cast this spell in the presence of bright light, any target that fails its save is blinded immediately, and dazzled starting at the beginning of its first turn. 	PZO9466
+Feast of Ashes 		A target starves with an insatiable hunger. 	PZO1115
+Fiery Runes 		You charge a weapon with a magic rune of fire. 	PZO9455
+Fire Sneeze 		Launch flaming, forceful loogies at your enemies. 	PZO9419
+Fire Trap 	M 	Opened object deals 1d4 + 1/level damage. 	PZO1110
+Flame Blade 		Touch attack deals 1d8 + 1/two levels damage. 	PZO1110
+Flaming Sphere 		Rolling ball of fire deals 3d6 fire damage. 	PZO1110
+Flotsam Vessel 		Creates a sturdy raft and oars from driftwood, reeds, and other river detritus. 	PZO9448
+Fog Cloud 		Fog obscures vision. 	PZO1110
+Forest Friend 		Plants in a forested area become helpful instead of hindering you and your allies. 	PZO1118
+Frigid Touch 		Target takes cold damage and is staggered. 	PZO1117
+Frost Fall 		The area is covered in a chilling frost. 	PZO1118
+Full Pouch 		You cast this spell as you draw out a consumable alchemical item to use. The item divides itself into two nearly identical copies and the newly separated one is delivered into your hand. The new item functions as the original in all ways except the copied item suffers a slight reduction in quality. 	PPZO9410
+Fury of the Sun 		Target takes 1d4 nonlethal and suffers from heatstroke (fatigue). 	PZO1121
+Gird Ally 		You create a magical field around summoned creatures you control that deflects attacks made against them. The targets gain a deflection bonus to their AC equal to 1 + 1 for every 6 caster levels you possess (maximum +4 deflection bonus at 18th level) 	PZO9458
+Glide 		You take no falling damage, move 60 ft./round while falling. 	PZO1115
+Greensight 		Grant a target the ability to see through plant matter as if it were transparent. 	PZO1140
+Groundswell 		Enable target to raise the ground he’s standing on five feet, which negates flanking bonuses. 	PZO1121
+Gust of Wind 		Blows away or knocks down smaller creatures. 	PZO1110
+Gusting Sphere 		Ball of wind can bull rush creatures inflicting 1d6 nonlethal damage. 	PZO1121
+Heat Metal 		Makes metal so hot it damages those who touch it. 	PZO1110
+Hold Animal 		Paralyzes one animal for 1 round/level. 	PZO1110
+Ice Slick 		You create a blast of intense cold, coating all solid surfaces in the area with a thin coating of ice. 	PZO1130
+Insect Scouts 		This spell summons one or more vermin to investigate a single location or building you can see. Your scouts must spend 1d6 hours investigating the target location, but need no oversight. 	PZO9469
+Ironskin 	DF/M 	Your skin hardens and takes on the color and texture of rough iron. 	PZO1130
+Lay of the Land 		In a flash of recognition, you learn about the geography of your surroundings within a radius of 1 mile per 2 caster levels (minimum 1 mile). This instant familiarity grants you an insight bonus equal to your caster level (maximum +5) on Knowledge (geography) checks and Survival checks to avoid getting lost so long as you remain in the affected area. 	PZO9436
+Lockjaw 		Creature gains grab ability with natural attack. 	PZO1115
+Magic Boulder 		As magic stone, except you affect up to three boulders (rocks up to two size categories smaller than yourself). 	PZO1130
+Masterwork Transformation 	M 	Make a normal item into a masterwork one. 	PZO1117
+Mud Buddy 		You create a Small minion out of mud, and it obeys your commands. 	PZO1130
+Natural Rhythm 		+1 on damage rolls with each hit (max +5). 	PZO1115
+Owl’s Wisdom 		Subject gains +4 to Wis for 1 min./level. 	PZO1110
+Pernicious Poison 		Target takes a -4 penalty against poison. 	PZO1117
+Plant Voice 		You grant one plant creature the ability to speak, hear, and understand any of the languages you know. 	PZO9457
+Pouncing Fury 		Make a full attack with your claws after a charge. 	PZO1140
+Pox Pustules 		Subject is sickened and has –4 Dex. 	PZO1115
+Quick Change 		Use change shape as a swift action and surprise foes. 	PZO1135
+Recentering Drone 		You emit a calming sound that allows creatures with the dazzled, fatigued, shaken, or sickened conditions to temporarily ignore or reduce the the penalties from those conditions. 	PZO9443
+Reduce Animal 		Shrinks one willing animal. 	PZO1110
+Resist Energy 		Ignores 10 or more points of damage per attack from specified energy type. 	PZO1110
+Restoration, Lesser 		Dispels magical ability penalty or repairs 1d4 ability damage. 	PZO1110
+Riversight 		You can view events transpiring along a natural watercourse you touch. 	PZO9448
+Savage Maw 		Gain a bite attack. 	PZO1121
+Scale Spikes 	DF/M 	When the target is affected by this spell, its scales grow jagged spikes. These spikes act like +1 armor spikes. The subject is automatically considered proficient with these scale spikes. 	PZO1130
+Scamper 		Grant your animal companion astonishing agility. 	PZO1140
+Scent Trail 		Leave trail for allies to follow. 	PZO1115
+Sea Steed 		Your mount adapts to an aquatic environment. 	PZO1140
+Sense Fear 		Perceive nearby creatures that are experiencing fear. 	PZO1135
+Share Language 		Subject understands chosen language. 	PZO1115
+Sickening Entanglement 		As entangle, but plants have sickening sap. 	PZO1129
+Slipstream 		Wave boosts creature’s speed. 	PZO1115
+Soften Earth and Stone 		Turns stone to clay, or dirt to sand or mud. 	PZO1110
+Soothing Word 		Reduces effects of multiple conditions on target. 	Cards
+Spider Climb 		Grants ability to walk on walls and ceilings. 	PZO1110
+Spore Burst 		You cause a willing plant creature’s body to sprout small, puffy mushrooms that remain for 1 round per caster level or until the creature uses them. 	PZO9457
+Stone Call 		2d6 damage to all creatures in area. 	PZO1115
+Stone Discus 		Flying discus deals bludgeoning or slashing damage. 	PZO1129
+Stone Throwing 		The subject gains the rock throwing and rock catching abilities usable with solid, inflexible objects with hardness of at least 5. 	PZO9453
+Summon Nature’s Ally II 		Summons creature to fight. 	PZO1110
+Summon Swarm 		Summons swarm of bats, rats, or spiders. 	PZO1110
+Tar Ball 		Burning tar harms target and penalizes its Dex. 	PZO1117
+Tree Shape 		You look exactly like a tree for 1 hour/level. 	PZO1110
+Unshakable Chill 		Target is afflicted with severe cold. 	PZO1117
+Vine Strike 		Bristles burst from your body, lodging in your opponent and blossoming into entangling vines as you pummel your target. 	PZO9455
+Vine Strike 		Enhance one of your natural or unarmed attacks with thorny vine growth. 	PZO1140
+Visualization of the Body 	M 	You focus your mind on one aspect of your body, aligning the energies within your body to enhance that element. 	PZO9472
+Warp Wood 		Bends wood. 	PZO1110
+Wartrain Mount 		Animal gains the combat training general purpose. 	PZO1117
+Web Shelter 		Create a comfortable shelter made of webbing. 	PZO1117
+Whip of Spiders 		Create a whip made of poisonous spiders. 	PZO1129
+Wilderness Soldiers 		Nearby plants aid you in combat. 	PZO1118
+Winter Grasp 		Create a slippery sheet of ice on the ground. 	PZO1140
+Wild Instinct 		This spell sharpens your senses, allowing you to perceive threats you would otherwise miss. 	PZO9456
+With the Wind 		Protect a target from being blown away by wind of less than windstorm force. 	PZO1140
+Wood Shape 		Reshapes wooden objects to suit you. 	PZO1110

@@ -41,7 +41,7 @@ Your task: Identify self-contained "topics" that should be retrieved together wh
 
 4. **Anchor headings**: Identify the markdown heading that starts each section (include the # symbols exactly as they appear).
 
-5. **Keywords**: List keywords / phrases defined in this section. 
+5. **Keywords**: List keywords / phrases defined in this section.
 
 ## Examples of GOOD chunking:
 

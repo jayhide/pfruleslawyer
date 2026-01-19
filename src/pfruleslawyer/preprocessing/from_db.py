@@ -1,40 +1,40 @@
-#!/usr/bin/env python3
 """Preprocess markdown from database using configuration file."""
 
-import argparse
 import fnmatch
 import json
-import os
 import re
-import sys
 from pathlib import Path
 
 import anthropic
-from dotenv import load_dotenv
 
-from db import HtmlCacheDB
-from preprocess_sections import (
+from pfruleslawyer.core import HtmlCacheDB
+from .processor import (
     process_markdown_full,
     process_markdown_simple,
     process_markdown_template,
     process_markdown_faq,
     process_markdown_class,
-    get_source_name,
 )
 
-load_dotenv()
+# Default paths relative to project root
+DEFAULT_CONFIG_PATH = Path(__file__).parent.parent.parent.parent / "config" / "preprocess_config.json"
+DEFAULT_MANIFESTS_DIR = Path(__file__).parent.parent.parent.parent / "data" / "manifests"
 
-CONFIG_PATH = Path("preprocess_config.json")
-MANIFESTS_DIR = Path("manifests")
 
+def load_config(config_path: Path | None = None) -> dict:
+    """Load configuration from JSON file.
 
-def load_config(config_path: Path = CONFIG_PATH) -> dict:
-    """Load configuration from JSON file."""
-    if not config_path.exists():
-        print(f"Error: Config file '{config_path}' not found", file=sys.stderr)
-        sys.exit(1)
+    Args:
+        config_path: Path to config file, defaults to config/preprocess_config.json
 
-    with open(config_path) as f:
+    Returns:
+        Configuration dictionary
+    """
+    path = config_path or DEFAULT_CONFIG_PATH
+    if not path.exists():
+        raise FileNotFoundError(f"Config file not found: {path}")
+
+    with open(path) as f:
         return json.load(f)
 
 
@@ -112,7 +112,7 @@ def extract_title_from_markdown(content: str) -> str:
 
 
 def process_url(
-    client: anthropic.Anthropic,
+    client: anthropic.Anthropic | None,
     db: HtmlCacheDB,
     url: str,
     mode: str,
@@ -128,10 +128,10 @@ def process_url(
     """Process a single URL and save its manifest.
 
     Args:
-        client: Anthropic client instance
+        client: Anthropic client instance (can be None for template/faq modes)
         db: Database instance for fetching markdown
         url: URL to process
-        mode: Processing mode ("full" or "simple")
+        mode: Processing mode ("full", "simple", "template", "faq", "class")
         output_dir: Directory to save manifest
         source_name: Human-readable name for this source (from config)
         name_prefix: Prefix to prepend to page title (e.g., "Skill" -> "Skill: Acrobatics")
@@ -144,6 +144,8 @@ def process_url(
     Returns:
         True if successful, False otherwise
     """
+    import sys
+
     manifest_filename = url_to_manifest_filename(url)
     output_path = output_dir / manifest_filename
 
@@ -211,106 +213,38 @@ def process_url(
         return False
 
 
-def main():
-    parser = argparse.ArgumentParser(
-        description="Preprocess markdown from database using configuration"
-    )
-    parser.add_argument(
-        "--config",
-        type=Path,
-        default=CONFIG_PATH,
-        help=f"Path to config file (default: {CONFIG_PATH})"
-    )
-    parser.add_argument(
-        "--db",
-        type=Path,
-        default=Path("scraper/html_cache.db"),
-        help="Path to database (default: scraper/html_cache.db)"
-    )
-    parser.add_argument(
-        "--output-dir",
-        type=Path,
-        default=MANIFESTS_DIR,
-        help=f"Output directory for manifests (default: {MANIFESTS_DIR})"
-    )
-    parser.add_argument(
-        "--category",
-        type=str,
-        help="Only process entries matching this category"
-    )
-    parser.add_argument(
-        "--model",
-        default="claude-sonnet-4-20250514",
-        help="Claude model to use (default: claude-sonnet-4-20250514)"
-    )
-    parser.add_argument(
-        "--timeout",
-        type=float,
-        default=300.0,
-        help="API timeout in seconds (default: 300)"
-    )
-    parser.add_argument(
-        "-v", "--verbose",
-        action="store_true",
-        help="Print detailed progress"
-    )
-    parser.add_argument(
-        "--dry-run",
-        action="store_true",
-        help="Show what would be processed without making API calls"
-    )
-    parser.add_argument(
-        "--force",
-        action="store_true",
-        help="Reprocess URLs even if manifest already exists"
-    )
-    parser.add_argument(
-        "--stats",
-        action="store_true",
-        help="Show statistics about what would be processed and exit"
-    )
-    parser.add_argument(
-        "--no-llm",
-        action="store_true",
-        help="Only process entries that don't require LLM calls (template and faq modes)"
-    )
+def get_urls_to_process(
+    config: dict,
+    db: HtmlCacheDB,
+    category_filter: str | None = None,
+    no_llm: bool = False
+) -> dict[str, tuple[str, str, str | None, str | None]]:
+    """Get mapping of URLs to their processing parameters.
 
-    args = parser.parse_args()
+    Args:
+        config: Configuration dictionary
+        db: Database instance
+        category_filter: Only include entries matching this category
+        no_llm: Only include entries that don't require LLM calls
 
-    # Load config
-    config = load_config(args.config)
+    Returns:
+        Dict mapping url -> (mode, category, source_name, name_prefix)
+    """
     entries = config.get("entries", [])
 
-    if not entries:
-        print("No entries in config file")
-        return
-
     # Filter by category if specified
-    if args.category:
-        entries = [e for e in entries if e.get("category") == args.category]
-        if not entries:
-            print(f"No entries found for category: {args.category}")
-            return
+    if category_filter:
+        entries = [e for e in entries if e.get("category") == category_filter]
 
-    # Filter to non-LLM modes if --no-llm specified
+    # Filter to non-LLM modes if requested
     NO_LLM_MODES = {"template", "faq"}
-    if args.no_llm:
+    if no_llm:
         entries = [e for e in entries if e.get("mode") in NO_LLM_MODES]
-        if not entries:
-            print("No entries found with non-LLM modes (template, faq)")
-            return
-        print(f"Filtering to non-LLM modes only: {', '.join(sorted(NO_LLM_MODES))}")
-
-    # Initialize database
-    db = HtmlCacheDB(args.db)
 
     # Get all URLs from database
-    print(f"Loading URLs from database...")
     all_urls = db.get_all_urls_with_markdown()
-    print(f"Found {len(all_urls)} URLs with markdown")
 
     # Resolve URLs for each entry
-    # url -> (mode, category, source_name, name_prefix)
     url_mode_map: dict[str, tuple[str, str, str | None, str | None]] = {}
 
     for entry in entries:
@@ -322,85 +256,4 @@ def main():
             # Later entries can override earlier ones
             url_mode_map[url] = (mode, category, source_name, name_prefix)
 
-    if not url_mode_map:
-        print("No URLs matched any config entries")
-        return
-
-    # Show stats if requested
-    if args.stats:
-        print(f"\nMatched {len(url_mode_map)} URLs:")
-        by_category: dict[str, list[str]] = {}
-        for url, (mode, category, _, _) in url_mode_map.items():
-            if category not in by_category:
-                by_category[category] = []
-            by_category[category].append(url)
-
-        for category, urls in sorted(by_category.items()):
-            print(f"  {category}: {len(urls)} URLs")
-        return
-
-    # Create output directory
-    args.output_dir.mkdir(parents=True, exist_ok=True)
-
-    # Filter out URLs with existing manifests (unless --force)
-    urls_to_process = []
-    skipped = 0
-    for url in url_mode_map:
-        manifest_path = args.output_dir / url_to_manifest_filename(url)
-        if manifest_path.exists() and not args.force:
-            skipped += 1
-        else:
-            urls_to_process.append(url)
-
-    if skipped > 0:
-        print(f"Skipping {skipped} URLs with existing manifests (use --force to reprocess)")
-
-    if not urls_to_process:
-        print("No URLs to process")
-        return
-
-    # Check for API key (unless dry run or no-llm mode)
-    if not args.dry_run and not args.no_llm and not os.environ.get("ANTHROPIC_API_KEY"):
-        print("Error: ANTHROPIC_API_KEY environment variable not set", file=sys.stderr)
-        sys.exit(1)
-
-    # Initialize client (not needed for dry run or no-llm mode)
-    client = None
-    if not args.dry_run and not args.no_llm:
-        client = anthropic.Anthropic()
-
-    print(f"\nProcessing {len(urls_to_process)} URLs...")
-
-    success_count = 0
-    for i, url in enumerate(urls_to_process, 1):
-        mode, category, source_name, name_prefix = url_mode_map[url]
-
-        if args.verbose:
-            print(f"\n[{i}/{len(urls_to_process)}] ({category})")
-
-        success = process_url(
-            client=client,
-            db=db,
-            url=url,
-            mode=mode,
-            output_dir=args.output_dir,
-            source_name=source_name,
-            name_prefix=name_prefix,
-            category=category,
-            model=args.model,
-            timeout=args.timeout,
-            verbose=args.verbose,
-            dry_run=args.dry_run
-        )
-
-        if success:
-            success_count += 1
-
-    print(f"\nCompleted: {success_count}/{len(urls_to_process)} URLs processed successfully")
-
-    if success_count < len(urls_to_process):
-        sys.exit(1)
-
-
-if __name__ == "__main__":
-    main()
+    return url_mode_map

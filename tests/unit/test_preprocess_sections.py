@@ -1,8 +1,14 @@
-"""Unit tests for preprocess_sections.py source name logic."""
+"""Unit tests for preprocessing source name logic."""
 
 import pytest
 
-from preprocess_sections import get_source_name, SOURCE_NAMES, CATEGORY_TEMPLATES, strip_feat_suffix, strip_ability_type_suffix
+from pfruleslawyer.preprocessing.processor import (
+    get_source_name,
+    SOURCE_NAMES,
+    CATEGORY_TEMPLATES,
+    strip_feat_suffix,
+    strip_ability_type_suffix,
+)
 
 
 class TestGetSourceName:

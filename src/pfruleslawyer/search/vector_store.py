@@ -2,36 +2,28 @@
 
 import json
 import re
-import chromadb
-from chromadb.utils import embedding_functions
 from pathlib import Path
 
-import spacy
-from nltk.stem import PorterStemmer
-from sentence_transformers import CrossEncoder
+import chromadb
+from chromadb.utils import embedding_functions
 
-from section_extractor import Section, SectionExtractor
-
+from pfruleslawyer.core import Section
+from pfruleslawyer.extraction import SectionExtractor
+from .lemmatizer import Lemmatizer
+from .reranker import Reranker, RERANK_WEIGHT
 
 # Default embedding model for ChromaDB's default function
 DEFAULT_MODEL = "all-MiniLM-L6-v2"
-
-# Cross-encoder model for re-ranking
-RERANKER_MODEL = "cross-encoder/ms-marco-MiniLM-L-6-v2"
 
 # Score boosts for exact matches
 KEYWORD_MATCH_BOOST = 0.2
 SUBHEADING_MATCH_BOOST = 0.2
 TITLE_MATCH_BOOST = 0.3
 
-# Reranking weights (must sum to 1.0)
-# Higher RERANK_WEIGHT means cross-encoder has more influence on final ranking
-# Higher RETRIEVAL_WEIGHT preserves more of the original semantic + keyword ranking
-RERANK_WEIGHT = 0.4
-RETRIEVAL_WEIGHT = 0.6
-
-# spaCy model for lemmatization
-SPACY_MODEL = "en_core_web_sm"
+# Default paths relative to project root
+DEFAULT_PERSIST_DIR = Path(__file__).parent.parent.parent.parent / "data" / "vectordb"
+DEFAULT_MANIFESTS_DIR = Path(__file__).parent.parent.parent.parent / "data" / "manifests"
+DEFAULT_CONFIG_PATH = Path(__file__).parent.parent.parent.parent / "config" / "preprocess_config.json"
 
 
 def strip_markdown_links(text: str) -> str:
@@ -128,196 +120,13 @@ def extract_headings_from_content(content: str) -> list[tuple[str, str | None]]:
     return headings
 
 
-class Lemmatizer:
-    """Lemmatizer for normalizing words to their base form.
-
-    Uses a hybrid approach: spaCy lemmatization followed by Porter stemming.
-    This handles both common English words (via lemmatization) and domain-specific
-    terms like 'polymorph' that spaCy doesn't recognize (via stemming).
-    """
-
-    _instance: "Lemmatizer | None" = None
-    _nlp: spacy.Language | None = None
-    _stemmer: PorterStemmer | None = None
-
-    def __new__(cls) -> "Lemmatizer":
-        """Singleton pattern to avoid loading model multiple times."""
-        if cls._instance is None:
-            cls._instance = super().__new__(cls)
-        return cls._instance
-
-    def _ensure_model(self) -> spacy.Language:
-        """Lazy load the spaCy model."""
-        if self._nlp is None:
-            # Disable unnecessary pipeline components for speed
-            self._nlp = spacy.load(SPACY_MODEL, disable=["parser", "ner"])
-        return self._nlp
-
-    def _ensure_stemmer(self) -> PorterStemmer:
-        """Lazy load the Porter stemmer."""
-        if self._stemmer is None:
-            self._stemmer = PorterStemmer()
-        return self._stemmer
-
-    def _normalize_word(self, token: spacy.tokens.Token) -> str:
-        """Normalize a single token using lemmatization + stemming.
-
-        Args:
-            token: spaCy token
-
-        Returns:
-            Normalized form (lowercase)
-        """
-        stemmer = self._ensure_stemmer()
-        # First get spaCy's lemma, then apply stemming for domain terms
-        lemma = token.lemma_
-        return stemmer.stem(lemma)
-
-    def lemmatize(self, text: str) -> list[str]:
-        """Lemmatize text and return list of normalized forms.
-
-        Uses spaCy lemmatization followed by Porter stemming to handle
-        both common English and domain-specific terms.
-
-        Args:
-            text: Text to lemmatize
-
-        Returns:
-            List of normalized forms (lowercase)
-        """
-        nlp = self._ensure_model()
-        doc = nlp(text.lower())
-        # Return normalized forms for words (skip punctuation, spaces)
-        return [self._normalize_word(token) for token in doc if token.is_alpha]
-
-    def lemmatize_word(self, word: str) -> str:
-        """Lemmatize a single word.
-
-        Args:
-            word: Word to lemmatize
-
-        Returns:
-            Normalized form (lowercase)
-        """
-        nlp = self._ensure_model()
-        doc = nlp(word.lower())
-        # Return the normalized form of the first token, or the word itself if empty
-        for token in doc:
-            if token.is_alpha:
-                return self._normalize_word(token)
-        return word.lower()
-
-
-class Reranker:
-    """Cross-encoder reranker for improving search result relevance."""
-
-    _instance: "Reranker | None" = None
-    _model: CrossEncoder | None = None
-
-    def __new__(cls) -> "Reranker":
-        """Singleton pattern to avoid loading model multiple times."""
-        if cls._instance is None:
-            cls._instance = super().__new__(cls)
-        return cls._instance
-
-    def _ensure_model(self) -> CrossEncoder:
-        """Lazy load the cross-encoder model."""
-        if self._model is None:
-            self._model = CrossEncoder(RERANKER_MODEL)
-        return self._model
-
-    @staticmethod
-    def _extract_rules_content(content: str) -> str:
-        """Extract just the rules content, stripping metadata header.
-
-        The indexed content has format:
-            Title: ...
-            Description: ...
-            Keywords: ...
-
-            <actual rules content>
-
-        We strip the header to give the cross-encoder cleaner text.
-        """
-        if "\n\n" in content:
-            parts = content.split("\n\n", 1)
-            if len(parts) > 1:
-                return parts[1]
-        return content
-
-    def rerank(
-        self,
-        query: str,
-        results: list[dict],
-        weight_getter: "callable[[str], float] | None" = None
-    ) -> list[dict]:
-        """Rerank results using cross-encoder relevance scores.
-
-        Uses title + description for scoring, which provides cleaner signal
-        than full content (which may contain promotional text, links, etc.).
-
-        Args:
-            query: The search query
-            results: List of result dicts from vector search
-            weight_getter: Optional callable that takes a category name and returns
-                          the rerank_weight for that category. If None, uses global
-                          RERANK_WEIGHT constant.
-
-        Returns:
-            Results sorted by cross-encoder relevance score, with
-            'rerank_score' added to each result
-        """
-        if not results:
-            return results
-
-        model = self._ensure_model()
-
-        # Build query-document pairs for cross-encoder
-        # Use source name + title + description for clean, focused text
-        pairs = []
-        for result in results:
-            source = result.get('source_name', '')
-            title = result.get('title', '')
-            desc = result.get('description', '')
-            doc_text = f"{title} ({source}) - {desc}"
-            pairs.append((query, doc_text))
-
-        # Get relevance scores from cross-encoder
-        scores = model.predict(pairs)
-
-        # Normalize rerank scores to 0-1 range for combining with retrieval score
-        min_score = min(scores)
-        max_score = max(scores)
-        score_range = max_score - min_score if max_score != min_score else 1.0
-
-        # Add rerank scores and compute combined score
-        for result, score in zip(results, scores):
-            result["rerank_score"] = float(score)
-            # Normalize rerank score to 0-1 range
-            normalized_rerank = (score - min_score) / score_range
-
-            # Get category-specific rerank weight or use global default
-            if weight_getter:
-                category = result.get("category", "Uncategorized")
-                rerank_weight = weight_getter(category)
-            else:
-                rerank_weight = RERANK_WEIGHT
-            retrieval_weight = 1.0 - rerank_weight
-
-            # Combine with retrieval score (weighted average)
-            retrieval_score = result.get("score", 0.5)
-            result["combined_score"] = rerank_weight * normalized_rerank + retrieval_weight * retrieval_score
-
-        return sorted(results, key=lambda x: x["combined_score"], reverse=True)
-
-
 class RulesVectorStore:
     """Vector store for Pathfinder rules sections."""
 
     def __init__(
         self,
-        persist_dir: str | Path = "vectordb",
-        manifests_dir: str | Path = "manifests",
+        persist_dir: str | Path | None = None,
+        manifests_dir: str | Path | None = None,
         embedding_model: str = DEFAULT_MODEL,
         collection_name: str = "pf_rules"
     ):
@@ -329,10 +138,13 @@ class RulesVectorStore:
             embedding_model: Sentence-transformers model name for embeddings
             collection_name: Name of the ChromaDB collection
         """
-        self.persist_dir = Path(persist_dir)
-        self.manifests_dir = Path(manifests_dir)
+        self.persist_dir = Path(persist_dir) if persist_dir else DEFAULT_PERSIST_DIR
+        self.manifests_dir = Path(manifests_dir) if manifests_dir else DEFAULT_MANIFESTS_DIR
         self.embedding_model = embedding_model
         self.collection_name = collection_name
+
+        # Ensure persist_dir exists
+        self.persist_dir.mkdir(parents=True, exist_ok=True)
 
         # Initialize ChromaDB with persistence
         self.client = chromadb.PersistentClient(path=str(self.persist_dir))
@@ -358,7 +170,7 @@ class RulesVectorStore:
 
         # Category-specific search weights
         self._category_weights: dict[str, dict[str, float]] | None = None
-        self._config_path = Path("preprocess_config.json")
+        self._config_path = DEFAULT_CONFIG_PATH
 
         # Metadata-only sections (categories with semantic_weight=0)
         # These are not embedded, only stored for title/keyword matching
@@ -549,10 +361,9 @@ class RulesVectorStore:
     def _fallback_source_name(source_path: str) -> str:
         """Generate a display name from source path when source_name is missing.
 
-        Uses the same logic as preprocess_sections.get_source_name() for consistency.
+        Uses the same logic as processor.get_source_name() for consistency.
         """
-        # Import here to avoid circular imports
-        from preprocess_sections import get_source_name
+        from pfruleslawyer.preprocessing import get_source_name
         return get_source_name(source_path)
 
     def resolve_link(self, url: str) -> dict:
@@ -1062,9 +873,9 @@ Keywords: {keywords_str}
 
 
 def build_index(
-    rules_dir: str = "rules",
-    manifests_dir: str = "manifests",
-    persist_dir: str = "vectordb"
+    rules_dir: str | Path | None = None,
+    manifests_dir: str | Path | None = None,
+    persist_dir: str | Path | None = None
 ) -> RulesVectorStore:
     """Build the vector index from sections.
 
@@ -1082,79 +893,10 @@ def build_index(
     print(f"Loaded {len(sections)} sections")
 
     # Create and populate vector store
-    store = RulesVectorStore(persist_dir=persist_dir)
+    store = RulesVectorStore(persist_dir=persist_dir, manifests_dir=manifests_dir)
     store.index_sections(sections)
 
     print(f"\nIndex built successfully!")
     print(f"Stats: {store.get_stats()}")
 
     return store
-
-
-def main():
-    """Build index and run demo queries."""
-    import argparse
-
-    parser = argparse.ArgumentParser(description="Build and query the rules vector store")
-    parser.add_argument("--build", action="store_true", help="Build/rebuild the index")
-    parser.add_argument("--query", "-q", type=str, help="Query to search for")
-    parser.add_argument("--results", "-n", type=int, default=5, help="Number of results")
-    parser.add_argument("--no-rerank", action="store_true", help="Disable cross-encoder reranking")
-
-    args = parser.parse_args()
-
-    if args.build:
-        build_index()
-        print()
-
-    if args.query:
-        store = RulesVectorStore()
-        rerank = not args.no_rerank
-        results = store.query(args.query, n_results=args.results, rerank=rerank)
-
-        print(f"Query: {args.query}")
-        print(f"Found {len(results)} results (rerank={'on' if rerank else 'off'}):\n")
-
-        for i, result in enumerate(results, 1):
-            print(f"{i}. [{result['source_file']}] {result['title']}")
-
-            # Show combined/rerank score if available, otherwise retrieval score
-            if 'combined_score' in result:
-                print(f"   Combined score: {result['combined_score']:.3f} (rerank: {result['rerank_score']:.2f}, retrieval: {result['score']:.3f})")
-            else:
-                print(f"   Score: {result['score']:.3f}")
-
-            # Build retrieval score breakdown
-            components = [f"semantic: {result.get('semantic_score', 0):.3f}"]
-            if result.get('keyword_boost', 0) > 0:
-                components.append(f"keyword: +{result['keyword_boost']:.2f}")
-            if result.get('subheading_boost', 0) > 0:
-                components.append(f"subheading: +{result['subheading_boost']:.2f}")
-            if result.get('title_boost', 0) > 0:
-                components.append(f"title: +{result['title_boost']:.2f}")
-            print(f"   Retrieval breakdown: {', '.join(components)}")
-
-            print(f"   {result['description']}")
-            print()
-
-    if not args.build and not args.query:
-        # Default: show stats or build if needed
-        store = RulesVectorStore()
-        stats = store.get_stats()
-
-        if stats["document_count"] == 0:
-            print("No index found. Building index...")
-            build_index()
-        else:
-            print("Vector store stats:")
-            for key, value in stats.items():
-                print(f"  {key}: {value}")
-
-            print("\nExample queries:")
-            print('  poetry run python vector_store.py -q "how does grappling work"')
-            print('  poetry run python vector_store.py -q "attack of opportunity"')
-            print('  poetry run python vector_store.py -q "what happens when I fall unconscious"')
-
-
-if __name__ == "__main__":
-    main()

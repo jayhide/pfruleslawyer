@@ -1,20 +1,12 @@
-#!/usr/bin/env python3
-"""Preprocess markdown rules files to generate section manifests using Claude."""
+"""Process markdown rules files to generate section manifests using Claude."""
 
-import argparse
 import json
-import os
 import re
-import sys
 from pathlib import Path
 
 import anthropic
-from dotenv import load_dotenv
 
-from chunking_prompt import format_prompt, format_summarize_prompt, format_class_features_prompt
-
-# Load environment variables from .env file
-load_dotenv()
+from .prompts import format_prompt, format_summarize_prompt, format_class_features_prompt
 
 # Mapping of source filenames to descriptive names for context
 # These names help the LLM understand what kind of rules each source contains
@@ -175,64 +167,6 @@ def process_markdown_full(
     manifest["source_name"] = get_source_name(source_path)
 
     return manifest
-
-
-def process_file(
-    client: anthropic.Anthropic,
-    file_path: Path,
-    output_dir: Path,
-    model: str = "claude-sonnet-4-20250514",
-    verbose: bool = False,
-    timeout: float = 300.0
-) -> bool:
-    """Process a single markdown file and generate its section manifest.
-
-    Args:
-        client: Anthropic client instance
-        file_path: Path to the markdown file
-        output_dir: Directory to write manifest files
-        model: Claude model to use
-        verbose: Whether to print detailed progress
-        timeout: Request timeout in seconds (default: 300)
-
-    Returns:
-        True if successful, False otherwise
-    """
-    filename = file_path.name
-    source_path = f"rules/{filename}"
-
-    if verbose:
-        print(f"Processing {filename}...")
-
-    # Read the markdown content
-    content = file_path.read_text(encoding="utf-8")
-
-    try:
-        manifest = process_markdown_full(client, content, source_path, model, timeout)
-
-        # Write manifest to output file
-        output_path = output_dir / f"{file_path.stem}.json"
-        with open(output_path, "w", encoding="utf-8") as f:
-            json.dump(manifest, f, indent=2)
-
-        if verbose:
-            print(f"  -> Generated {len(manifest['sections'])} sections")
-            print(f"  -> Saved to {output_path}")
-
-        return True
-
-    except anthropic.APITimeoutError:
-        print(f"Timeout processing {filename} (exceeded {timeout}s)", file=sys.stderr)
-        return False
-    except anthropic.APIError as e:
-        print(f"API error processing {filename}: {e}", file=sys.stderr)
-        return False
-    except json.JSONDecodeError as e:
-        print(f"JSON parse error for {filename}: {e}", file=sys.stderr)
-        return False
-    except ValueError as e:
-        print(f"Validation error for {filename}: {e}", file=sys.stderr)
-        return False
 
 
 def extract_title_from_markdown(content: str) -> tuple[str, str]:
@@ -564,6 +498,14 @@ def extract_toc_from_markdown(markdown: str) -> str:
     return '\n'.join(toc_lines)
 
 
+def get_heading_level(line: str) -> int | None:
+    """Get heading level from a markdown line."""
+    match = re.match(r'^(#{1,6})\s+', line)
+    if match:
+        return len(match.group(1))
+    return None
+
+
 def extract_class_features(markdown: str, class_name: str) -> list[dict]:
     """Extract individual class features from markdown.
 
@@ -634,14 +576,6 @@ def extract_class_features(markdown: str, class_name: str) -> list[dict]:
             features.append(current_feature)
 
     return features
-
-
-def get_heading_level(line: str) -> int | None:
-    """Get heading level from a markdown line."""
-    match = re.match(r'^(#{1,6})\s+', line)
-    if match:
-        return len(match.group(1))
-    return None
 
 
 def extract_class_overview(markdown: str, class_name: str) -> dict | None:
@@ -782,6 +716,66 @@ def process_markdown_class(
     return manifest
 
 
+def process_file(
+    client: anthropic.Anthropic,
+    file_path: Path,
+    output_dir: Path,
+    model: str = "claude-sonnet-4-20250514",
+    verbose: bool = False,
+    timeout: float = 300.0
+) -> bool:
+    """Process a single markdown file and generate its section manifest.
+
+    Args:
+        client: Anthropic client instance
+        file_path: Path to the markdown file
+        output_dir: Directory to write manifest files
+        model: Claude model to use
+        verbose: Whether to print detailed progress
+        timeout: Request timeout in seconds (default: 300)
+
+    Returns:
+        True if successful, False otherwise
+    """
+    import sys
+
+    filename = file_path.name
+    source_path = f"rules/{filename}"
+
+    if verbose:
+        print(f"Processing {filename}...")
+
+    # Read the markdown content
+    content = file_path.read_text(encoding="utf-8")
+
+    try:
+        manifest = process_markdown_full(client, content, source_path, model, timeout)
+
+        # Write manifest to output file
+        output_path = output_dir / f"{file_path.stem}.json"
+        with open(output_path, "w", encoding="utf-8") as f:
+            json.dump(manifest, f, indent=2)
+
+        if verbose:
+            print(f"  -> Generated {len(manifest['sections'])} sections")
+            print(f"  -> Saved to {output_path}")
+
+        return True
+
+    except anthropic.APITimeoutError:
+        print(f"Timeout processing {filename} (exceeded {timeout}s)", file=sys.stderr)
+        return False
+    except anthropic.APIError as e:
+        print(f"API error processing {filename}: {e}", file=sys.stderr)
+        return False
+    except json.JSONDecodeError as e:
+        print(f"JSON parse error for {filename}: {e}", file=sys.stderr)
+        return False
+    except ValueError as e:
+        print(f"Validation error for {filename}: {e}", file=sys.stderr)
+        return False
+
+
 def process_file_simple(
     client: anthropic.Anthropic,
     file_path: Path,
@@ -805,6 +799,8 @@ def process_file_simple(
     Returns:
         True if successful, False otherwise
     """
+    import sys
+
     filename = file_path.name
     # Compute source_path relative to project root (should start with "rules/")
     try:
@@ -848,131 +844,3 @@ def process_file_simple(
     except ValueError as e:
         print(f"Validation error for {filename}: {e}", file=sys.stderr)
         return False
-
-
-def main():
-    parser = argparse.ArgumentParser(
-        description="Generate section manifests from markdown rules files using Claude"
-    )
-    parser.add_argument(
-        "--rules-dir",
-        type=Path,
-        default=Path("rules"),
-        help="Directory containing markdown rules files (default: rules)"
-    )
-    parser.add_argument(
-        "--output-dir",
-        type=Path,
-        default=Path("manifests"),
-        help="Directory to write manifest files (default: manifests)"
-    )
-    parser.add_argument(
-        "--model",
-        default="claude-sonnet-4-20250514",
-        help="Claude model to use (default: claude-sonnet-4-20250514)"
-    )
-    parser.add_argument(
-        "--file",
-        type=str,
-        help="Process only a specific file (e.g., combat.md)"
-    )
-    parser.add_argument(
-        "-v", "--verbose",
-        action="store_true",
-        help="Print detailed progress"
-    )
-    parser.add_argument(
-        "--timeout",
-        type=float,
-        default=300.0,
-        help="API request timeout in seconds (default: 300)"
-    )
-    parser.add_argument(
-        "--simple",
-        action="store_true",
-        help="Simple mode: treat each file as a single section (for pre-split content like skills)"
-    )
-    parser.add_argument(
-        "--force",
-        action="store_true",
-        help="Force reprocessing of all files, overwriting existing manifests"
-    )
-
-    args = parser.parse_args()
-
-    # Validate directories
-    if not args.rules_dir.exists():
-        print(f"Error: Rules directory '{args.rules_dir}' not found", file=sys.stderr)
-        sys.exit(1)
-
-    args.output_dir.mkdir(parents=True, exist_ok=True)
-
-    # Check for API key
-    if not os.environ.get("ANTHROPIC_API_KEY"):
-        print("Error: ANTHROPIC_API_KEY environment variable not set", file=sys.stderr)
-        print("Set it with: export ANTHROPIC_API_KEY='your-key-here'", file=sys.stderr)
-        sys.exit(1)
-
-    # Initialize Anthropic client
-    client = anthropic.Anthropic()
-
-    # Find markdown files to process
-    if args.file:
-        files = [args.rules_dir / args.file]
-        if not files[0].exists():
-            print(f"Error: File '{files[0]}' not found", file=sys.stderr)
-            sys.exit(1)
-    else:
-        files = sorted(args.rules_dir.glob("*.md"))
-
-    if not files:
-        print("No markdown files found to process", file=sys.stderr)
-        sys.exit(1)
-
-    mode_str = " (simple mode)" if args.simple else ""
-
-    # Filter out files that already have manifests (unless --force)
-    files_to_process = []
-    skipped_count = 0
-    for file_path in files:
-        manifest_path = args.output_dir / f"{file_path.stem}.json"
-        if manifest_path.exists() and not args.force:
-            skipped_count += 1
-            if args.verbose:
-                print(f"Skipping {file_path.name} (manifest exists)")
-        else:
-            files_to_process.append(file_path)
-
-    if skipped_count > 0:
-        print(f"Skipping {skipped_count} file(s) with existing manifests (use --force to overwrite)")
-
-    if not files_to_process:
-        print("No files to process")
-        return
-
-    print(f"Processing {len(files_to_process)} file(s){mode_str}...")
-
-    # Process each file
-    success_count = 0
-    for file_path in files_to_process:
-        if args.simple:
-            success = process_file_simple(
-                client, file_path, args.rules_dir, args.output_dir,
-                args.model, args.verbose, args.timeout
-            )
-        else:
-            success = process_file(
-                client, file_path, args.output_dir,
-                args.model, args.verbose, args.timeout
-            )
-        if success:
-            success_count += 1
-
-    print(f"\nCompleted: {success_count}/{len(files_to_process)} files processed successfully")
-
-    if success_count < len(files_to_process):
-        sys.exit(1)
-
-
-if __name__ == "__main__":
-    main()

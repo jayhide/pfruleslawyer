@@ -2,28 +2,9 @@
 
 import json
 import re
-from dataclasses import dataclass
 from pathlib import Path
 
-from db import HtmlCacheDB
-
-
-@dataclass
-class Section:
-    """A section of rules content extracted from markdown."""
-    id: str
-    title: str
-    description: str
-    keywords: list[str]
-    content: str
-    source_file: str
-    source_name: str
-    anchor_heading: str
-    category: str = "Uncategorized"
-
-    def __repr__(self) -> str:
-        content_preview = self.content[:100] + "..." if len(self.content) > 100 else self.content
-        return f"Section(id={self.id!r}, title={self.title!r}, content={content_preview!r})"
+from pfruleslawyer.core import HtmlCacheDB, Section
 
 
 def strip_anchor_id(text: str) -> tuple[str, str | None]:
@@ -137,13 +118,18 @@ def extract_section_content(
     return content
 
 
+# Default paths relative to project root
+DEFAULT_RULES_DIR = Path(__file__).parent.parent.parent.parent / "rules"
+DEFAULT_MANIFESTS_DIR = Path(__file__).parent.parent.parent.parent / "data" / "manifests"
+
+
 class SectionExtractor:
     """Extracts sections from markdown files using manifest definitions."""
 
     def __init__(
         self,
-        rules_dir: str | Path = "rules",
-        manifests_dir: str | Path = "manifests",
+        rules_dir: str | Path | None = None,
+        manifests_dir: str | Path | None = None,
         db: HtmlCacheDB | None = None
     ):
         """Initialize the extractor.
@@ -153,8 +139,8 @@ class SectionExtractor:
             manifests_dir: Directory containing manifest JSON files
             db: Database instance for fetching markdown from URLs
         """
-        self.rules_dir = Path(rules_dir)
-        self.manifests_dir = Path(manifests_dir)
+        self.rules_dir = Path(rules_dir) if rules_dir else DEFAULT_RULES_DIR
+        self.manifests_dir = Path(manifests_dir) if manifests_dir else DEFAULT_MANIFESTS_DIR
         self.db = db or HtmlCacheDB()
         self._sections: list[Section] | None = None
         self._markdown_cache: dict[str, str] = {}
@@ -313,40 +299,3 @@ class SectionExtractor:
         """
         sections = self.load_all_sections()
         return [s for s in sections if s.source_file == filename]
-
-
-def main():
-    """Demo the section extractor."""
-    extractor = SectionExtractor()
-
-    # Load all sections
-    sections = extractor.load_all_sections()
-    print(f"Loaded {len(sections)} sections from {len(list(extractor.manifests_dir.glob('*.json')))} manifests\n")
-
-    # Show some stats
-    by_file = {}
-    for section in sections:
-        by_file[section.source_file] = by_file.get(section.source_file, 0) + 1
-
-    print("Sections per file:")
-    for filename, count in sorted(by_file.items()):
-        print(f"  {filename}: {count}")
-
-    # Demo search
-    print("\n--- Demo: Searching for 'grapple' ---")
-    results = extractor.search_by_text("grapple")
-    for section in results[:3]:
-        print(f"\n[{section.source_file}] {section.title}")
-        print(f"  {section.description}")
-        print(f"  Content preview: {section.content[:200]}...")
-
-    # Demo get by ID
-    print("\n--- Demo: Get section by ID 'flat_footed_condition' ---")
-    section = extractor.get_section_by_id("flat_footed_condition")
-    if section:
-        print(f"Title: {section.title}")
-        print(f"Content:\n{section.content}")
-
-
-if __name__ == "__main__":
-    main()

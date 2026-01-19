@@ -1,14 +1,14 @@
-"""Tests for vector_store.py search retrieval accuracy.
+"""Tests for vector_store search retrieval accuracy.
 
 This test suite verifies that search queries return expected sections.
 Add new test cases as failing searches are discovered.
 
-Run with: poetry run pytest tests/test_vector_store.py -v
+Run with: poetry run pytest tests/integration/test_vector_store.py -v
 """
 
 import pytest
 
-from vector_store import RulesVectorStore
+from pfruleslawyer.search import RulesVectorStore
 
 
 @pytest.fixture(scope="module")

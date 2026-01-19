@@ -1,0 +1,872 @@
+[
+  {
+    "source_url": "https://www.d20pfsrd.com/classes/core-classes/fighter",
+    "class_name": "Fighter",
+    "secondary_urls": [
+      {
+        "url": "https://www.d20pfsrd.com/classes/core-classes/fighter/archetypes",
+        "title": "Fighter Archetypes"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.d20pfsrd.com/classes/unchained-classes/barbarian-unchained",
+    "class_name": "Unchained Barbarian",
+    "secondary_urls": [
+      {
+        "url": "https://www.d20pfsrd.com/classes/core-classes/barbarian/archetypes/paizo-barbarian-archetypes/",
+        "title": "Barbarian Archetypes"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.d20pfsrd.com/classes/core-classes/bard/",
+    "class_name": "Bard",
+    "secondary_urls": [
+      {
+        "url": "https://www.d20pfsrd.com/classes/core-classes/bard/archetypes/paizo-bard-archetypes/",
+        "title": "Bard Archetypes"
+      },
+      {
+        "url": "https://www.d20pfsrd.com/classes/core-classes/bard/bardic-masterpieces/",
+        "title": "Bardic Masterpieces"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.d20pfsrd.com/classes/core-classes/cleric/",
+    "class_name": "Cleric",
+    "secondary_urls": [
+      {
+        "url": "https://www.d20pfsrd.com/classes/core-classes/cleric/domains",
+        "title": "Cleric Domains"
+      },
+      {
+        "url": "https://www.d20pfsrd.com/classes/core-classes/cleric/archetypes",
+        "title": "Cleric Archetypes"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.d20pfsrd.com/classes/core-classes/druid/",
+    "class_name": "Druid",
+    "secondary_urls": [
+      {
+        "url": "https://www.d20pfsrd.com/classes/core-classes/druid/animal-companions",
+        "title": "Animal Companions"
+      },
+      {
+        "url": "https://www.d20pfsrd.com/classes/core-classes/druid/animal-companions/drake-companions",
+        "title": "Drake Companions"
+      },
+      {
+        "url": "https://www.d20pfsrd.com/classes/core-classes/druid/archetypes/paizo-druid-archetypes/animal-and-terrain-domains",
+        "title": "Animal and Terrain Domains"
+      },
+      {
+        "url": "https://www.d20pfsrd.com/classes/core-classes/druid/archetypes",
+        "title": "Archetypes"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.d20pfsrd.com/classes/unchained-classes/monk-unchained/",
+    "class_name": "Unchained Monk",
+    "secondary_urls": [
+      {
+        "url": "https://www.d20pfsrd.com/classes/unchained-classes/monk-unchained/archetypes/",
+        "title": "Archetypes"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.d20pfsrd.com/classes/core-classes/paladin/",
+    "class_name": "Paladin",
+    "secondary_urls": [
+      {
+        "url": "https://www.d20pfsrd.com/classes/core-classes/paladin/archetypes/",
+        "title": "Paladin Archetypes"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.d20pfsrd.com/classes/core-classes/ranger/",
+    "class_name": "Ranger",
+    "secondary_urls": [
+      {
+        "url": "https://www.d20pfsrd.com/classes/core-classes/ranger/ranger-combat-styles/",
+        "title": "Ranger Combat Styles"
+      },
+      {
+        "url": "https://www.d20pfsrd.com/classes/core-classes/ranger/archetypes/",
+        "title": "Ranger Archetypes"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.d20pfsrd.com/classes/core-classes/sorcerer/",
+    "class_name": "Sorcerer",
+    "secondary_urls": [
+      {
+        "url": "https://www.d20pfsrd.com/classes/core-classes/sorcerer/bloodlines/",
+        "title": "Sorcerer Bloodlines"
+      },
+      {
+        "url": "https://www.d20pfsrd.com/classes/core-classes/sorcerer/bloodlines/bloodline-mutations/",
+        "title": "Bloodline Mutations"
+      },
+      {
+        "url": "https://www.d20pfsrd.com/classes/core-classes/sorcerer/archetypes/",
+        "title": "Sorcerer Archetypes"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.d20pfsrd.com/classes/core-classes/wizard/",
+    "class_name": "Wizard",
+    "secondary_urls": [
+      {
+        "url": "https://www.d20pfsrd.com/classes/core-classes/wizard/familiar",
+        "title": "Familiars"
+      },
+      {
+        "url": "https://www.d20pfsrd.com/classes/core-classes/wizard/archetypes",
+        "title": "Archetypes"
+      },
+      {
+        "url": "https://www.d20pfsrd.com/classes/core-classes/wizard/arcane-discoveries/arcane-discoveries-paizo",
+        "title": "Arcane Discoveries - Paizo"
+      },
+      {
+        "url": "https://www.d20pfsrd.com/classes/core-classes/wizard/arcane-schools/paizo-arcane-schools/classic-arcane-schools/abjuration/",
+        "title": "Abjuration School"
+      },
+      {
+        "url": "https://www.d20pfsrd.com/classes/core-classes/wizard/arcane-schools/paizo-arcane-schools/classic-arcane-schools/abjuration/banishment/",
+        "title": "Banishment Subschool"
+      },
+      {
+        "url": "https://www.d20pfsrd.com/classes/core-classes/wizard/arcane-schools/paizo-arcane-schools/classic-arcane-schools/abjuration/counterspell/",
+        "title": "Counterspell Subschool"
+      },
+      {
+        "url": "https://www.d20pfsrd.com/classes/core-classes/wizard/arcane-schools/paizo-arcane-schools/classic-arcane-schools/conjuration/",
+        "title": "Conjuration School"
+      },
+      {
+        "url": "https://www.d20pfsrd.com/classes/core-classes/wizard/arcane-schools/paizo-arcane-schools/classic-arcane-schools/conjuration/creation/",
+        "title": "Creation Subschool"
+      },
+      {
+        "url": "https://www.d20pfsrd.com/classes/core-classes/wizard/arcane-schools/paizo-arcane-schools/classic-arcane-schools/conjuration/extradimension-school-focused-arcane-school/",
+        "title": "Extradimension Subschool"
+      },
+      {
+        "url": "https://www.d20pfsrd.com/classes/core-classes/wizard/arcane-schools/paizo-arcane-schools/classic-arcane-schools/conjuration/infernal-binder/",
+        "title": "Infernal Binder Subschool"
+      },
+      {
+        "url": "https://www.d20pfsrd.com/classes/core-classes/wizard/arcane-schools/paizo-arcane-schools/classic-arcane-schools/conjuration/teleportation/",
+        "title": "Teleportation Subschool"
+      },
+      {
+        "url": "https://www.d20pfsrd.com/classes/core-classes/wizard/arcane-schools/paizo-arcane-schools/classic-arcane-schools/divination/",
+        "title": "Divination School"
+      },
+      {
+        "url": "https://www.d20pfsrd.com/classes/core-classes/wizard/arcane-schools/paizo-arcane-schools/classic-arcane-schools/divination/prophecy-school-focused-arcane-school/",
+        "title": "Prophecy Subschool"
+      },
+      {
+        "url": "https://www.d20pfsrd.com/classes/core-classes/wizard/arcane-schools/paizo-arcane-schools/classic-arcane-schools/divination/foresight/",
+        "title": "Foresight Subschool"
+      },
+      {
+        "url": "https://www.d20pfsrd.com/classes/core-classes/wizard/arcane-schools/paizo-arcane-schools/classic-arcane-schools/divination/scryer/",
+        "title": "Scryer Subschool"
+      },
+      {
+        "url": "https://www.d20pfsrd.com/classes/core-classes/wizard/arcane-schools/paizo-arcane-schools/classic-arcane-schools/enchantment/",
+        "title": "Enchantment School"
+      },
+      {
+        "url": "https://www.d20pfsrd.com/classes/core-classes/wizard/arcane-schools/paizo-arcane-schools/classic-arcane-schools/enchantment/controller/",
+        "title": "Controller Subschool"
+      },
+      {
+        "url": "https://www.d20pfsrd.com/classes/core-classes/wizard/arcane-schools/paizo-arcane-schools/classic-arcane-schools/enchantment/manipulator/",
+        "title": "Manipulator Subschool"
+      },
+      {
+        "url": "https://www.d20pfsrd.com/classes/core-classes/wizard/arcane-schools/paizo-arcane-schools/classic-arcane-schools/evocation/",
+        "title": "Evocation School"
+      },
+      {
+        "url": "https://www.d20pfsrd.com/classes/core-classes/wizard/arcane-schools/paizo-arcane-schools/classic-arcane-schools/evocation/admixture/",
+        "title": "Admixture Subschool"
+      },
+      {
+        "url": "https://www.d20pfsrd.com/classes/core-classes/wizard/arcane-schools/paizo-arcane-schools/classic-arcane-schools/evocation/generation/",
+        "title": "Generation Subschool"
+      },
+      {
+        "url": "https://www.d20pfsrd.com/classes/core-classes/wizard/arcane-schools/paizo-arcane-schools/classic-arcane-schools/illusion/",
+        "title": "Illusion School"
+      },
+      {
+        "url": "https://www.d20pfsrd.com/classes/core-classes/wizard/arcane-schools/paizo-arcane-schools/classic-arcane-schools/illusion/deception/",
+        "title": "Deception Subschool"
+      },
+      {
+        "url": "https://www.d20pfsrd.com/classes/core-classes/wizard/arcane-schools/paizo-arcane-schools/classic-arcane-schools/illusion/mage-of-the-veil-qadira/",
+        "title": "Mage of the Veil Subschool"
+      },
+      {
+        "url": "https://www.d20pfsrd.com/classes/core-classes/wizard/arcane-schools/paizo-arcane-schools/classic-arcane-schools/illusion/phantasm/",
+        "title": "Phantasm Subschool"
+      },
+      {
+        "url": "https://www.d20pfsrd.com/classes/core-classes/wizard/arcane-schools/paizo-arcane-schools/classic-arcane-schools/illusion/shadow/",
+        "title": "Shadow Subschool"
+      },
+      {
+        "url": "https://www.d20pfsrd.com/classes/core-classes/wizard/arcane-schools/paizo-arcane-schools/classic-arcane-schools/necromancy/",
+        "title": "Necromancy School"
+      },
+      {
+        "url": "https://www.d20pfsrd.com/classes/core-classes/wizard/arcane-schools/paizo-arcane-schools/classic-arcane-schools/necromancy/life/",
+        "title": "Life Subschool"
+      },
+      {
+        "url": "https://www.d20pfsrd.com/classes/core-classes/wizard/arcane-schools/paizo-arcane-schools/classic-arcane-schools/necromancy/undead/",
+        "title": "Undead Subschool"
+      },
+      {
+        "url": "https://www.d20pfsrd.com/classes/core-classes/wizard/arcane-schools/paizo-arcane-schools/classic-arcane-schools/sin-magic-specialist/",
+        "title": "Sin Magic Specialist"
+      },
+      {
+        "url": "https://www.d20pfsrd.com/classes/core-classes/wizard/arcane-schools/paizo-arcane-schools/classic-arcane-schools/transmutation/",
+        "title": "Transmutation School"
+      },
+      {
+        "url": "https://www.d20pfsrd.com/classes/core-classes/wizard/arcane-schools/paizo-arcane-schools/classic-arcane-schools/transmutation/enhancement/",
+        "title": "Enhancement Subschool"
+      },
+      {
+        "url": "https://www.d20pfsrd.com/classes/core-classes/wizard/arcane-schools/paizo-arcane-schools/classic-arcane-schools/transmutation/shapechange/",
+        "title": "Shapechange Subschool"
+      },
+      {
+        "url": "https://www.d20pfsrd.com/classes/core-classes/wizard/arcane-schools/paizo-arcane-schools/classic-arcane-schools/universalist/",
+        "title": "Universalist School"
+      },
+      {
+        "url": "https://www.d20pfsrd.com/classes/core-classes/wizard/arcane-schools/paizo-arcane-schools/classic-arcane-schools/universalist/arcane-crafter/",
+        "title": "Arcane Crafter Subschool"
+      },
+      {
+        "url": "https://www.d20pfsrd.com/classes/core-classes/wizard/arcane-schools/paizo-arcane-schools/elemental-arcane-schools/aether-elemental-school/",
+        "title": "Aether Elemental School"
+      },
+      {
+        "url": "https://www.d20pfsrd.com/classes/core-classes/wizard/arcane-schools/paizo-arcane-schools/elemental-arcane-schools/air/",
+        "title": "Air Elemental School"
+      },
+      {
+        "url": "https://www.d20pfsrd.com/classes/core-classes/wizard/arcane-schools/paizo-arcane-schools/elemental-arcane-schools/air/ice-focused-arcane-school/",
+        "title": "Ice Focused School"
+      },
+      {
+        "url": "https://www.d20pfsrd.com/classes/core-classes/wizard/arcane-schools/paizo-arcane-schools/elemental-arcane-schools/air/smoke-focused-arcane-school/",
+        "title": "Smoke Focused School"
+      },
+      {
+        "url": "https://www.d20pfsrd.com/classes/core-classes/wizard/arcane-schools/paizo-arcane-schools/elemental-arcane-schools/earth/",
+        "title": "Earth Elemental School"
+      },
+      {
+        "url": "https://www.d20pfsrd.com/classes/core-classes/wizard/arcane-schools/paizo-arcane-schools/elemental-arcane-schools/earth/magma-focused-arcane-school/",
+        "title": "Magma Focused School"
+      },
+      {
+        "url": "https://www.d20pfsrd.com/classes/core-classes/wizard/arcane-schools/paizo-arcane-schools/elemental-arcane-schools/earth/mud-focused-arcane-school/",
+        "title": "Mud Focused School"
+      },
+      {
+        "url": "https://www.d20pfsrd.com/classes/core-classes/wizard/arcane-schools/paizo-arcane-schools/elemental-arcane-schools/fire/",
+        "title": "Fire Elemental School"
+      },
+      {
+        "url": "https://www.d20pfsrd.com/classes/core-classes/wizard/arcane-schools/paizo-arcane-schools/elemental-arcane-schools/fire/magma-focused-arcane-school/",
+        "title": "Magma Focused School (Fire)"
+      },
+      {
+        "url": "https://www.d20pfsrd.com/classes/core-classes/wizard/arcane-schools/paizo-arcane-schools/elemental-arcane-schools/fire/smoke-focused-arcane-school/",
+        "title": "Smoke Focused School (Fire)"
+      },
+      {
+        "url": "https://www.d20pfsrd.com/classes/core-classes/wizard/arcane-schools/paizo-arcane-schools/elemental-arcane-schools/metal/",
+        "title": "Metal Elemental School"
+      },
+      {
+        "url": "https://www.d20pfsrd.com/classes/core-classes/wizard/arcane-schools/paizo-arcane-schools/elemental-arcane-schools/void-elemental-school/",
+        "title": "Void Elemental School"
+      },
+      {
+        "url": "https://www.d20pfsrd.com/classes/core-classes/wizard/arcane-schools/paizo-arcane-schools/elemental-arcane-schools/water/",
+        "title": "Water Elemental School"
+      },
+      {
+        "url": "https://www.d20pfsrd.com/classes/core-classes/wizard/arcane-schools/paizo-arcane-schools/elemental-arcane-schools/water/ice-focused-arcane-school/",
+        "title": "Ice Focused School (Water)"
+      },
+      {
+        "url": "https://www.d20pfsrd.com/classes/core-classes/wizard/arcane-schools/paizo-arcane-schools/elemental-arcane-schools/water/mud-focused-arcane-school/",
+        "title": "Mud Focused School (Water)"
+      },
+      {
+        "url": "https://www.d20pfsrd.com/classes/core-classes/wizard/arcane-schools/paizo-arcane-schools/elemental-arcane-schools/wood/",
+        "title": "Wood Elemental School"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.d20pfsrd.com/classes/unchained-classes/rogue-unchained/",
+    "class_name": "Unchained Rogue",
+    "secondary_urls": [
+      {
+        "url": "https://www.d20pfsrd.com/classes/unchained-classes/rogue-unchained/rogue-talents/",
+        "title": "Unchained Rogue Talents"
+      },
+      {
+        "url": "https://www.d20pfsrd.com/classes/unchained-classes/rogue-unchained/rogue-talents-advanced/",
+        "title": "Rogue Advanced Talents"
+      },
+      {
+        "url": "https://www.d20pfsrd.com/classes/unchained-classes/rogue-unchained/archetypes/",
+        "title": "Archetypes"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.d20pfsrd.com/CLASSES/ALTERNATE-CLASSES/antipaladin/",
+    "class_name": "Antipaladin",
+    "secondary_urls": [
+      {
+        "url": "https://www.d20pfsrd.com/classes/alternate-classes/antipaladin/archetypes/",
+        "title": "Archetypes"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.d20pfsrd.com/CLASSES/ALTERNATE-CLASSES/ninja/",
+    "class_name": "Ninja",
+    "secondary_urls": [
+      {
+        "url": "https://www.d20pfsrd.com/classes/alternate-classes/ninja/ninja-tricks",
+        "title": "Ninja Tricks"
+      },
+      {
+        "url": "https://www.d20pfsrd.com/classes/alternate-classes/ninja/archetypes/",
+        "title": "Archetypes"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.d20pfsrd.com/CLASSES/ALTERNATE-CLASSES/samurai/",
+    "class_name": "Samurai",
+    "secondary_urls": [
+      {
+        "url": "https://www.d20pfsrd.com/classes/alternate-classes/samurai/samurai-orders/paizo-samurai-orders/",
+        "title": "Samurai Orders - Paizo"
+      },
+      {
+        "url": "https://www.d20pfsrd.com/classes/base-classes/cavalier/orders/paizo-cavalier-orders/",
+        "title": "Cavalier Orders - Paizo"
+      },
+      {
+        "url": "https://www.d20pfsrd.com/classes/alternate-classes/samurai/archetypes/",
+        "title": "Samurai Archetypes"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.d20pfsrd.com/classes/hybrid-classes/arcanist/",
+    "class_name": "Arcanist",
+    "secondary_urls": [
+      {
+        "url": "https://www.d20pfsrd.com/classes/hybrid-classes/arcanist/arcane-exploits",
+        "title": "Arcanist Exploits"
+      },
+      {
+        "url": "https://www.d20pfsrd.com/classes/hybrid-classes/arcanist/arcanist-greater-exploits/",
+        "title": "Greater Exploits"
+      },
+      {
+        "url": "https://www.d20pfsrd.com/classes/hybrid-classes/arcanist/archetypes",
+        "title": "Archetypes"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.d20pfsrd.com/classes/hybrid-classes/bloodrager/",
+    "class_name": "Bloodrager",
+    "secondary_urls": [
+      {
+        "url": "https://www.d20pfsrd.com/classes/core-classes/sorcerer/bloodlines/bloodline-mutations",
+        "title": "Bloodline Mutations"
+      },
+      {
+        "url": "https://www.d20pfsrd.com/classes/hybrid-classes/bloodrager/bloodrager-bloodlines/paizo-bloodrager-bloodlines/aberrant/",
+        "title": "Aberrant Bloodline"
+      },
+      {
+        "url": "https://www.d20pfsrd.com/classes/hybrid-classes/bloodrager/bloodrager-bloodlines/paizo-bloodrager-bloodlines/abyssal/",
+        "title": "Abyssal Bloodline"
+      },
+      {
+        "url": "https://www.d20pfsrd.com/classes/hybrid-classes/bloodrager/bloodrager-bloodlines/paizo-bloodrager-bloodlines/aquatic-bloodline-bloodrager-bloodline/",
+        "title": "Aquatic Bloodline"
+      },
+      {
+        "url": "https://www.d20pfsrd.com/classes/hybrid-classes/bloodrager/bloodrager-bloodlines/paizo-bloodrager-bloodlines/arcane/",
+        "title": "Arcane Bloodline"
+      },
+      {
+        "url": "https://www.d20pfsrd.com/classes/hybrid-classes/bloodrager/bloodrager-bloodlines/paizo-bloodrager-bloodlines/black-blood-bloodline/",
+        "title": "Black Blood Bloodline"
+      },
+      {
+        "url": "https://www.d20pfsrd.com/classes/hybrid-classes/bloodrager/bloodrager-bloodlines/paizo-bloodrager-bloodlines/celestial/",
+        "title": "Celestial Bloodline"
+      },
+      {
+        "url": "https://www.d20pfsrd.com/classes/hybrid-classes/bloodrager/bloodrager-bloodlines/paizo-bloodrager-bloodlines/destined/",
+        "title": "Destined Bloodline"
+      },
+      {
+        "url": "https://www.d20pfsrd.com/classes/hybrid-classes/bloodrager/bloodrager-bloodlines/paizo-bloodrager-bloodlines/draconic/",
+        "title": "Draconic Bloodline"
+      },
+      {
+        "url": "https://www.d20pfsrd.com/classes/hybrid-classes/bloodrager/bloodrager-bloodlines/paizo-bloodrager-bloodlines/elemental/",
+        "title": "Elemental Bloodline"
+      },
+      {
+        "url": "https://www.d20pfsrd.com/classes/hybrid-classes/bloodrager/bloodrager-bloodlines/paizo-bloodrager-bloodlines/fey/",
+        "title": "Fey Bloodline"
+      },
+      {
+        "url": "https://www.d20pfsrd.com/classes/hybrid-classes/bloodrager/bloodrager-bloodlines/paizo-bloodrager-bloodlines/hag-bloodrager-bloodline/",
+        "title": "Hag Bloodline"
+      },
+      {
+        "url": "https://www.d20pfsrd.com/classes/hybrid-classes/bloodrager/bloodrager-bloodlines/paizo-bloodrager-bloodlines/infernal/",
+        "title": "Infernal Bloodline"
+      },
+      {
+        "url": "https://www.d20pfsrd.com/classes/hybrid-classes/bloodrager/bloodrager-bloodlines/paizo-bloodrager-bloodlines/kyton-bloodline/",
+        "title": "Kyton Bloodline"
+      },
+      {
+        "url": "https://www.d20pfsrd.com/classes/hybrid-classes/bloodrager/bloodrager-bloodlines/paizo-bloodrager-bloodlines/martyred-bloodrager-bloodline/",
+        "title": "Martyred Bloodline"
+      },
+      {
+        "url": "https://www.d20pfsrd.com/classes/hybrid-classes/bloodrager/bloodrager-bloodlines/paizo-bloodrager-bloodlines/medusa-bloodrager-bloodline/",
+        "title": "Medusa Bloodline"
+      },
+      {
+        "url": "https://www.d20pfsrd.com/classes/hybrid-classes/bloodrager/bloodrager-bloodlines/paizo-bloodrager-bloodlines/phoenix-bloodline-bloodrager-bloodline/",
+        "title": "Phoenix Bloodline"
+      },
+      {
+        "url": "https://www.d20pfsrd.com/classes/hybrid-classes/bloodrager/bloodrager-bloodlines/paizo-bloodrager-bloodlines/salamander-bloodrager-bloodline/",
+        "title": "Salamander Bloodline"
+      },
+      {
+        "url": "https://www.d20pfsrd.com/classes/hybrid-classes/bloodrager/bloodrager-bloodlines/paizo-bloodrager-bloodlines/shadow/",
+        "title": "Shadow Bloodline"
+      },
+      {
+        "url": "https://www.d20pfsrd.com/classes/hybrid-classes/bloodrager/bloodrager-bloodlines/paizo-bloodrager-bloodlines/shapechanger-bloodrager-bloodline/",
+        "title": "Shapechanger Bloodline"
+      },
+      {
+        "url": "https://www.d20pfsrd.com/classes/hybrid-classes/bloodrager/bloodrager-bloodlines/paizo-bloodrager-bloodlines/sphinx-bloodrager-bloodline/",
+        "title": "Sphinx Bloodline"
+      },
+      {
+        "url": "https://www.d20pfsrd.com/classes/hybrid-classes/bloodrager/bloodrager-bloodlines/paizo-bloodrager-bloodlines/undead/",
+        "title": "Undead Bloodline"
+      },
+      {
+        "url": "https://www.d20pfsrd.com/classes/hybrid-classes/bloodrager/bloodrager-bloodlines/paizo-bloodrager-bloodlines/verdant-bloodrager-bloodline/",
+        "title": "Verdant Bloodline"
+      },
+      {
+        "url": "https://www.d20pfsrd.com/classes/hybrid-classes/bloodrager/bloodrager-bloodlines/paizo-bloodrager-bloodlines/vestige-bloodrager-bloodline/",
+        "title": "Vestige Bloodline"
+      },
+      {
+        "url": "https://www.d20pfsrd.com/classes/hybrid-classes/bloodrager/bloodrager-bloodlines/paizo-bloodrager-bloodlines/",
+        "title": "Bloodrager Bloodlines - Paizo, Inc."
+      },
+      {
+        "url": "https://www.d20pfsrd.com/magic/spell-lists-and-domains/bloodrager",
+        "title": "Bloodrager Spell List"
+      },
+      {
+        "url": "https://www.d20pfsrd.com/classes/hybrid-classes/bloodrager/archetypes/",
+        "title": "Archetypes"
+      },
+      {
+        "url": "https://www.d20pfsrd.com/classes/hybrid-classes/bloodrager/archetypes/paizo-bloodrager-archetypes/",
+        "title": "Bloodrager Archetypes - Paizo, Inc."
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.d20pfsrd.com/classes/hybrid-classes/brawler/",
+    "class_name": "Brawler",
+    "secondary_urls": [
+      {
+        "url": "https://www.d20pfsrd.com/classes/hybrid-classes/brawler/archetypes/paizo-brawler-archetypes/battle-dancer-brawler-archetype/",
+        "title": "Battle Dancer Archetype"
+      },
+      {
+        "url": "https://www.d20pfsrd.com/classes/hybrid-classes/brawler/archetypes/paizo-brawler-archetypes/beast-wrestler-brawler-archetype/",
+        "title": "Beast-Wrestler Archetype"
+      },
+      {
+        "url": "https://www.d20pfsrd.com/classes/hybrid-classes/brawler/archetypes/paizo-brawler-archetypes/bouncer-brawler-archetype/",
+        "title": "Bouncer Archetype"
+      },
+      {
+        "url": "https://www.d20pfsrd.com/classes/hybrid-classes/brawler/archetypes/paizo-brawler-archetypes/constructed-pugilist-brawler-archetype/",
+        "title": "Constructed Pugilist Archetype"
+      },
+      {
+        "url": "https://www.d20pfsrd.com/classes/hybrid-classes/brawler/archetypes/paizo-brawler-archetypes/exemplar/",
+        "title": "Exemplar Archetype"
+      },
+      {
+        "url": "https://www.d20pfsrd.com/classes/hybrid-classes/brawler/archetypes/paizo-brawler-archetypes/feral-striker-brawler-archetype/",
+        "title": "Feral Striker Archetype"
+      },
+      {
+        "url": "https://www.d20pfsrd.com/classes/hybrid-classes/brawler/archetypes/paizo-brawler-archetypes/hinyasi-brawler-archetype/",
+        "title": "Hinyasi Archetype"
+      },
+      {
+        "url": "https://www.d20pfsrd.com/classes/hybrid-classes/brawler/archetypes/paizo-brawler-archetypes/living-avalanche-brawler-archetype/",
+        "title": "Living Avalanche Archetype"
+      },
+      {
+        "url": "https://www.d20pfsrd.com/classes/hybrid-classes/brawler/archetypes/paizo-brawler-archetypes/mutagenic-mauler/",
+        "title": "Mutagenic Mauler Archetype"
+      },
+      {
+        "url": "https://www.d20pfsrd.com/classes/hybrid-classes/brawler/archetypes/paizo-brawler-archetypes/shield-champion/",
+        "title": "Shield Champion Archetype"
+      },
+      {
+        "url": "https://www.d20pfsrd.com/classes/hybrid-classes/brawler/archetypes/paizo-brawler-archetypes/snakebite-striker/",
+        "title": "Snakebite Striker Archetype"
+      },
+      {
+        "url": "https://www.d20pfsrd.com/classes/hybrid-classes/brawler/archetypes/paizo-brawler-archetypes/steel-breaker/",
+        "title": "Steel-Breaker Archetype"
+      },
+      {
+        "url": "https://www.d20pfsrd.com/classes/hybrid-classes/brawler/archetypes/paizo-brawler-archetypes/strangler/",
+        "title": "Strangler Archetype"
+      },
+      {
+        "url": "https://www.d20pfsrd.com/classes/hybrid-classes/brawler/archetypes/paizo-brawler-archetypes/strong-side-boxer-brawler-archetype/",
+        "title": "Strong-Side Boxer Archetype"
+      },
+      {
+        "url": "https://www.d20pfsrd.com/classes/hybrid-classes/brawler/archetypes/paizo-brawler-archetypes/turfer-brawler-archetype/",
+        "title": "Turfer Archetype"
+      },
+      {
+        "url": "https://www.d20pfsrd.com/classes/hybrid-classes/brawler/archetypes/paizo-brawler-archetypes/venomfist-brawler-archetype/",
+        "title": "Venomfist Archetype"
+      },
+      {
+        "url": "https://www.d20pfsrd.com/classes/hybrid-classes/brawler/archetypes/paizo-brawler-archetypes/verdant-grappler-brawler-archetype/",
+        "title": "Verdant Grappler Archetype"
+      },
+      {
+        "url": "https://www.d20pfsrd.com/classes/hybrid-classes/brawler/archetypes/paizo-brawler-archetypes/wild-child/",
+        "title": "Wild Child Archetype"
+      },
+      {
+        "url": "https://www.d20pfsrd.com/classes/hybrid-classes/brawler/archetypes/paizo-brawler-archetypes/winding-path-renegade-brawler-archetype/",
+        "title": "Winding Path Renegade Archetype"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.d20pfsrd.com/classes/hybrid-classes/hunter/",
+    "class_name": "Hunter",
+    "secondary_urls": [
+      {
+        "url": "https://www.d20pfsrd.com/classes/hybrid-classes/hunter/archetypes/",
+        "title": "Hunter Archetypes"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.d20pfsrd.com/classes/hybrid-classes/investigator/",
+    "class_name": "Investigator",
+    "secondary_urls": [
+      {
+        "url": "https://www.d20pfsrd.com/classes/hybrid-classes/investigator/investigator-talents/",
+        "title": "Investigator Talents"
+      },
+      {
+        "url": "https://www.d20pfsrd.com/classes/hybrid-classes/investigator/archetypes/",
+        "title": "Archetypes"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.d20pfsrd.com/classes/hybrid-classes/shaman/",
+    "class_name": "Shaman",
+    "secondary_urls": [
+      {
+        "url": "https://www.d20pfsrd.com/classes/hybrid-classes/shaman/spirits/",
+        "title": "Spirits"
+      },
+      {
+        "url": "https://www.d20pfsrd.com/classes/hybrid-classes/shaman/archetypes/",
+        "title": "Archetypes"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.d20pfsrd.com/classes/hybrid-classes/skald/",
+    "class_name": "Skald",
+    "secondary_urls": [
+      {
+        "url": "https://www.d20pfsrd.com/classes/hybrid-classes/skald/skald-sagas",
+        "title": "Skald Sagas"
+      },
+      {
+        "url": "https://www.d20pfsrd.com/classes/hybrid-classes/skald/archetypes",
+        "title": "Skald Archetypes"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.d20pfsrd.com/classes/hybrid-classes/slayer/",
+    "class_name": "Slayer",
+    "secondary_urls": [
+      {
+        "url": "https://www.d20pfsrd.com/classes/hybrid-classes/slayer/slayer-talents",
+        "title": "Slayer Talents"
+      },
+      {
+        "url": "https://www.d20pfsrd.com/classes/hybrid-classes/slayer/archetypes/paizo-slayer-archetypes/",
+        "title": "Slayer Archetypes"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.d20pfsrd.com/classes/hybrid-classes/swashbuckler/",
+    "class_name": "Swashbuckler",
+    "secondary_urls": [
+      {
+        "url": "https://www.d20pfsrd.com/classes/hybrid-classes/swashbuckler/archetypes/paizo-swashbuckler-archetypes/",
+        "title": "Swashbuckler Archetypes"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.d20pfsrd.com/classes/hybrid-classes/warpriest/",
+    "class_name": "Warpriest",
+    "secondary_urls": [
+      {
+        "url": "https://www.d20pfsrd.com/classes/hybrid-classes/warpriest/blessings/",
+        "title": "Blessings"
+      },
+      {
+        "url": "https://www.d20pfsrd.com/classes/hybrid-classes/warpriest/archetypes/paizo-warpriest-archetypes/",
+        "title": "Warpriest Archetypes"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.d20pfsrd.com/classes/unchained-classes/summoner-unchained",
+    "class_name": "Unchained Summoner",
+    "secondary_urls": [
+      {
+        "url": "https://www.d20pfsrd.com/magic/spell-lists-and-domains/spell-lists-unchained-summoner/",
+        "title": "Unchained Summoner Spell List"
+      },
+      {
+        "url": "https://www.d20pfsrd.com/classes/unchained-classes/summoner-unchained/eidolons-unchained/",
+        "title": "Eidolons Unchained"
+      },
+      {
+        "url": "https://www.d20pfsrd.com/classes/unchained-classes/summoner-unchained/archetypes/",
+        "title": "Archetypes"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.d20pfsrd.com/classes/base-classes/alchemist/",
+    "class_name": "Alchemist",
+    "secondary_urls": [
+      {
+        "url": "https://www.d20pfsrd.com/classes/base-classes/alchemist/discoveries",
+        "title": "Discoveries"
+      },
+      {
+        "url": "https://www.d20pfsrd.com/classes/base-classes/alchemist/archetypes/paizo-alchemist-archetypes/",
+        "title": "Archetypes"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.d20pfsrd.com/classes/base-classes/cavalier/",
+    "class_name": "Cavalier",
+    "secondary_urls": [
+      {
+        "url": "https://www.d20pfsrd.com/classes/base-classes/cavalier/orders/paizo-cavalier-orders/",
+        "title": "Cavalier Orders - Paizo, Inc."
+      },
+      {
+        "url": "https://www.d20pfsrd.com/classes/base-classes/cavalier/archetypes/paizo-cavalier-archetypes/",
+        "title": "Cavalier Archetypes - Paizo, Inc."
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.d20pfsrd.com/classes/base-classes/gunslinger/",
+    "class_name": "Gunslinger",
+    "secondary_urls": [
+      {
+        "url": "https://www.d20pfsrd.com/classes/base-classes/gunslinger/archetypes/paizo-gunslinger-archetypes/",
+        "title": "Gunslinger Archetypes"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.d20pfsrd.com/classes/base-classes/inquisitor/",
+    "class_name": "Inquisitor",
+    "secondary_urls": [
+      {
+        "url": "https://www.d20pfsrd.com/classes/core-classes/cleric/domains",
+        "title": "Domains"
+      },
+      {
+        "url": "https://www.d20pfsrd.com/classes/base-classes/inquisitor/inquisitions",
+        "title": "Inquisitions"
+      },
+      {
+        "url": "https://www.d20pfsrd.com/classes/base-classes/inquisitor/archetypes/inquisitor-archetypes-paizo/",
+        "title": "Archetypes"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.d20pfsrd.com/classes/base-classes/magus/",
+    "class_name": "Magus",
+    "secondary_urls": [
+      {
+        "url": "https://www.d20pfsrd.com/classes/base-classes/magus/magus-arcana",
+        "title": "Magus Arcana"
+      },
+      {
+        "url": "https://www.d20pfsrd.com/classes/base-classes/magus/archetypes/paizo-magus-archetypes/",
+        "title": "Archetypes"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.d20pfsrd.com/classes/base-classes/oracle/",
+    "class_name": "Oracle",
+    "secondary_urls": [
+      {
+        "url": "https://www.d20pfsrd.com/classes/base-classes/oracle/mysteries/",
+        "title": "Oracle Mysteries"
+      },
+      {
+        "url": "https://www.d20pfsrd.com/classes/base-classes/oracle/oracle-curses",
+        "title": "Oracle Curses"
+      },
+      {
+        "url": "https://www.d20pfsrd.com/classes/base-classes/oracle/archetypes/paizo-oracle-archetypes/",
+        "title": "Oracle Archetypes"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.d20pfsrd.com/classes/base-classes/shifter/",
+    "class_name": "Shifter",
+    "secondary_urls": [
+      {
+        "url": "https://www.d20pfsrd.com/classes/base-classes/shifter/archetypes/",
+        "title": "Archetypes"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.d20pfsrd.com/classes/base-classes/witch/",
+    "class_name": "Witch",
+    "secondary_urls": [
+      {
+        "url": "https://www.d20pfsrd.com/classes/base-classes/witch/witch-patrons",
+        "title": "Witch Patrons"
+      },
+      {
+        "url": "https://www.d20pfsrd.com/classes/base-classes/witch/witch-s-familiar",
+        "title": "Witch's Familiar"
+      },
+      {
+        "url": "https://www.d20pfsrd.com/classes/base-classes/witch/archetypes/paizo-witch-archetypes/",
+        "title": "Witch Archetypes"
+      },
+      {
+        "url": "https://www.d20pfsrd.com/classes/base-classes/witch/hexes",
+        "title": "Hexes"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.d20pfsrd.com/classes/base-classes/vigilante/",
+    "class_name": "Vigilante",
+    "secondary_urls": [
+      {
+        "url": "https://www.d20pfsrd.com/classes/base-classes/vigilante/vigilante-talents/",
+        "title": "Vigilante Talents"
+      },
+      {
+        "url": "https://www.d20pfsrd.com/classes/base-classes/vigilante/social-talents/",
+        "title": "Social Talents"
+      },
+      {
+        "url": "https://www.d20pfsrd.com/classes/base-classes/vigilante/archetypes/vigilante-archetypes-paizo-inc/",
+        "title": "Vigilante Archetypes"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.d20pfsrd.com/classes/base-classes/vampire-hunter/",
+    "class_name": "Vampire Hunter",
+    "secondary_urls": [
+      {
+        "url": "https://www.d20pfsrd.com/classes/base-classes/vampire-hunter/technique-feats/",
+        "title": "Technique Feats"
+      },
+      {
+        "url": "https://www.d20pfsrd.com/classes/base-classes/vampire-hunter/vampiric-foci-paizo-inc/",
+        "title": "Vampiric Foci"
+      }
+    ]
+  }
+]

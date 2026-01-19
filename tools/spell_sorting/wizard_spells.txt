@@ -1,0 +1,632 @@
+0-Level Sorcerer/Wizard Spells (Cantrips) Spell Name 	Comp. 	Description 	Source
+Abjuration
+Resistance 	  	Subject gains +1 on saving throws. 	PZO1110
+Conjuration
+Acid Splash 	  	Orb deals 1d3 acid damage. 	PZO1110
+Drench 	  	A sudden downpour soaks a target creature or object. 	Blog
+Divination
+Detect Fiendish Presence 	  	This spell functions like detect evil, except that it detects only outsiders with the evil subtype, as well as the lingering effects caused by their gifts, presence, and spells. It can also detect clerics and paladins of fiendish deities, including Asmodeus, archdevils, daemonic harbingers, and demon lords. 	PPC:AoE
+Detect Magic 	  	Detects all spells and magic items within 60 ft. 	PZO1110
+Detect Poison 	  	Detects poison in one creature or small object. 	PZO1110
+Grasp 	  	Retry a Climb check as an immediate action. 	PZO9479
+Read Magic 	  	Read scrolls and spellbooks. 	PZO1110
+Enchantment
+Daze 	  	A single humanoid creature with 4 HD or less loses its next action. 	PZO1110
+Evocation
+Breeze 	  	Create a light wind that blows against target from direction of your choice. 	Blog
+Dancing Lights 	  	Creates torches or other lights. 	PZO1110
+Flare 	  	Dazzles one creature (–1 on attack rolls). 	PZO1110
+Light 	  	Object shines like a torch. 	PZO1110
+Penumbra 	  	Protects creature or object touched from bright light. 	Blog
+Ray of Frost 	  	Ray deals 1d3 cold damage. 	PZO1110
+Scoop 	  	Create a scoop of force to pick up or carry liquids. 	Blog
+Spark 	  	Ignites flammable objects. 	PZO1115
+Illusion
+Ghost Sound 	  	Figment sounds. 	PZO1110
+Haunted Fey Aspect 	  	You surround yourself with disturbing illusions. 	PZO1118
+Oath of Anonymity 	  	Cloak yourself in an illusion that hides your true identity. 	PZO9292
+Vacuous Vessel 	  	Make a single container appear empty. 	PZO9462
+Necromancy
+Bleed 	  	Cause a stabilized creature to resume dying. 	PZO1110
+Disrupt Undead 	  	Deals 1d6 damage to one undead. 	PZO1110
+Sotto Voce 	  	Use your dry, rasping whisper to fill a creature with dread. 	PZO9221
+Touch of Fatigue 	  	Touch attack fatigues target. 	PZO1110
+Transmutation
+Chameleon Scales 	  	Change the color of your skin to something else. 	PZO9432
+Jolt 	  	Deal 1d3 electrical damage with a ranged touch attack. 	Blog
+Mage Hand 	  	5-pound telekinesis. 	PZO1110
+Mending 	  	Makes minor repairs on an object. 	PZO1110
+Message 	  	Whisper conversation at distance. 	PZO1110
+Open/Close 	  	Opens or closes small or light things. 	PZO1110
+Root 	  	Reinforces a subjects defense against being moved or tripped. 	Blog
+Scrivener’s Chant 	  	Animate quill to make a copy of writing on another page. 	PC:SoS
+Universal
+Arcane Mark 	  	Inscribes a personal rune on an object or creature (visible or invisible). 	PZO1110
+Prestidigitation 	  	Performs minor tricks. 	PZO1110
+1st-Level Sorcerer/Wizard Spells Spell Name 	Comp. 	Description 	Source
+Abjuration
+Abjuring Step 	  	You can move slowly and safely and still cast spells, until you move quickly, make an attack, or cast a harmful spell. 	PZO1118
+Alarm 	  	Wards an area for 2 hours/level. 	PZO1110
+Endure Elements 	  	Exist comfortably in hot or cold regions. 	PZO1110
+Fastidiousness 	  	Keep yourself and your equipment clean and dry. 	PZO9488
+Hold Portal 	  	Holds door shut. 	PZO1110
+Incendiary Runes 	  	As explosive runes, except it creates a small surge of flames rather than an explosion of force. The runes automatically deal 1d6 points of fire damage to any creatures and objects in adjacent squares, and those creatures and objects catch fire unless they succeed at Reflex saves. 	PPC:BM
+Invisibility Alarm 	  	As alarm, but reacting only to invisible creatures. 	PZO1129
+Line in the Sand 	  	Increase your attacks of opportunity per round. 	PZO1129
+Obscure Poison 	  	Make it harder to detect a poison or a venomous creature. 	PZO1134
+Peace Bond 	  	Create a glowing rune of peace to protect targets from your own magic. 	PZO9460
+Peacebond 	  	Locks a weapon in place on the target’s body. 	PZO1118
+Protection from Chaos/Evil/Good/Law 	  	+2 to AC and saves, plus additional protection against selected alignment. 	PZO1110
+Punishing Armor 	  	Coat yourself with a thin layer of energy that turns back nonlethal damage on your attacker. 	PZO9464
+Rite of Centered Mind 	M 	You heighten your awareness of your own thoughts, allowing you to more easily resist outside influences. 	PZO9472
+Shield 	  	Invisible disc gives +4 to AC, blocks magic missiles. 	PZO1110
+Shield Companion (AA) 	F 	As shield other, but affects the caster’s animal companion or familiar. 	PZO9429
+Shield Speech (3.5) 	  	Speak freely to one creature within 10 feet without being overheard. 	PZO9405
+Shock Shield 	  	A shield of force protects you until you dismiss it in an explosion of electricity. 	PZO1118
+Stunning Barrier 	  	Magical field grants a +1 bonus to AC and on saves, and stuns one creature attacking you. 	PZO1129
+Sunder Breaker 	  	The next weapon that sunders an item belonging to the target takes damage. 	PZO1129
+Theft Ward (Tengu) 	  	Gain a +10 Perception bonus to notice someone trying to take a specific object from you. 	PZO1121
+Waterproof 	  	Target becomes waterproof for the spells duration. 	PZO9483
+Wave Shield 	  	Water blunts one incoming attack or fire effect. 	PZO1129
+Winter Feathers 	  	The target’s feathers thicken and fluff up to ward against winter’s chill. The target suffers no harm from being in a cold environment, and can exist comfortably in conditions as low as –50 degrees Fahrenheit without having to make Fortitude saves. 	PZO1121
+Conjuration
+Abundant Ammunition 	  	Replaces nonmagical ammunition every round. 	PZO1118
+Adhesive Spittle 	  	Spit a tanglefoot bag at a creature. 	PZO1129
+Air Bubble 	  	Creates a small pocket of air around your head or an object. 	PZO1118
+Arcane Pocket 	  	Conjure an extradimensional space inside a pouch or pocket. 	PZO9462
+Burning Sands 	  	Create a field of hot sand that creates difficult terrain and minor fire damage. 	PZO1138
+Celestial Healing 	  	You anoint a wounded creature with the blood of a good outsider. 	PZO9465
+Corrosive Touch 	  	Touch attack deals 1d4 acid/level. 	PZO1117
+Desperate Weapon 	  	Create an improvised weapon. 	PZO1134
+Expeditious Construction 	  	You create a low wall or other simple structure of packed earth or loose stone measuring 3 feet thick, 3 feet tall, and 10 feet long per 3 caster levels you possess (minimum 10 feet). 	PZO9465
+Fumblestep 	  	Target takes -1 penalty to Reflex and Acrobatics, discharge to perform a trip combat maneuver. 	PZO9473
+Glue Seal 	  	Makes one 5-ft. square or one object sticky. 	PZO1129
+Grease 	  	Makes 10-ft. square or one object slippery. 	PZO1110
+Guardian Armor 	  	Teleport armor you are wearing off of you and onto an ally within range. 	PZO9467
+Icicle Dagger 	  	Masterwork ice dagger deals +1 cold damage. 	PZO1117
+Infernal Healing 	  	Touch a creature with devils blood, giving it fast healing 1. 	PZO9226
+Instant Portrait 	  	Create a portrait of a creature on the touched surface. 	PZO1138
+Ki Arrow 	  	Arrow deals damage as your unarmed strike. 	PZO1117
+Mage Armor 	  	Gives subject +4 armor bonus. 	PZO1110
+Mount 	  	Summons riding horse for 2 hours/level. 	PZO1110
+Mudball 	  	Range touch attack that cause the target to be blinded. 	PZO1121
+Murderous Crow (Orc) 	  	Conjure a supernaturally vicious and clever crow to watch over you. 	PZO9280
+Obscuring Mist 	  	Fog surrounds you. 	PZO1110
+Secluded Grimoire 	  	Send a spellbook into a random safe location on the Ethereal Plane, where it remains indefinitely. You can retrieve it later by concentrating as a standard action, causing it to reappear in your hands. 	PZO9468
+Snowball 	  	Ranged touch delivers 1d6/level cold damage (max 5d6) and might stagger a foe. 	PZ09428
+Songbird 	  	Conjure music from a good-aligned plane. 	PRG:PA
+Stone Shield 	  	A 1-inch-thick slab of stone springs up from the ground, interposing itself between you and an opponent of your choice. 	PZO1121
+Stumble Gap 	F 	Small hole trips creatures. 	PZO1115
+Summon Minor Monster 	  	Summon 1d3 Tiny animals. 	PZO1117
+Summon Monster I 	  	Summons extraplanar creature to fight for you. 	PZO1110
+Unseen Servant 	  	Invisible force obeys your commands. 	PZO1110
+Web Bolt 	  	You launch a ball of webbing at a target, which must make a save or be affected as if by a web spell occupying only the creature’s space. 	PZO1121
+Divination
+Anticipate Peril 	  	Target gains a bonus on one initiative check. 	PZO1117
+Authenticating Gaze 	  	Gain a bonus on Appraise/Linguistics checks related to books and scrolls, along with some magical detection abilities. 	PZO9462
+Comprehend Languages 	  	You understand all spoken and written languages. 	PZO1110
+Cultural Adaptation 	  	Adapt to fit the local culture. 	PZO1134
+Detect Charm 	  	As detect magic, except you immediately detect the strength and location of each charm, compulsion, and possession aura on all creatures in the area. 	PC:ASL
+Detect Metal 	  	You detect any metal objects or creatures within a 60-foot cone. 	PZO9448
+Detect Radiation 	  	You detect radiation in the surrounding area. You see radioactive auras as a glowing green shimmer in the air that emanates from radioactive objects; the brighter and more intense the green, the more powerful the radioactivity. This glow does not provide illumination or allow you to see in darkness, apart from being able to see the glow itself. The spell can penetrate barriers, but 3 feet of dirt or wood, 1 foot of stone, 1 inch of common metal, or a thin sheet of lead blocks it—although radiation can seep into such barriers, causing them to become radioactive (and thus visible to the spell) in time. 	PCS:TG
+Detect Secret Doors 	  	Reveals hidden doors within 60 ft. 	PZO1110
+Detect Undead 	  	Reveals undead within 60 ft. 	PZO1110
+Discern Next of Kin 	  	Read the target’s mind to learn about its family. 	PZO1129
+Ears of the City 	  	The target of this spell sees and hears a stream of past scenes and pieces of conversations related to local people and events. 	PZO9460
+Heightened Awareness 	  	Your recall and ability to process information improve. 	PZO1129
+Identify 	  	Gives +10 bonus to identify magic items. 	PZO1110
+Linked Legacy 	  	This spell helps build community and ensure a shared vision for the future. 	PZO9465
+Locksight 	  	Determine from a distance the quality of a lock and whether it is open, closed, or jammed. 	PZO9460
+Mage’s Perusal 	  	Gain a brief understanding from a book as if you had read it for 1 hour. 	PZO9435
+Mindlink 	  	Communicate a great deal of information in an instant. 	PRG:OA
+Pierce Facade 	  	Gain a +5 insight bonus to Perception to see through disguises. 	PZO9476
+Planar Orientation 	  	Locate places of power on your current plane. 	PZO9298
+Rune Trace 	M 	Learn information about a magical rune without triggering it. 	PZO1138
+See Alignment 	  	Pick an alignment; in your sight, creatures and items with that alignment emit a ghostly radiance. 	PZO1118
+Skim 	  	Read four times faster than normal. 	PZO9490
+Speak Local Language 	  	Target gains the ability to speak and understand a regional human language. 	PZO9460
+Speechreader’s Sight 	  	Read lips from a distance. 	PZO9476
+Starsight 	  	Observe the night sky as if it were a clear and unobstructed night. 	PZO9449
+Sure Casting 	  	Treat your CL as 5 higher for the purposes of bypassing SR with the next spell you cast. 	PZO9435
+Technomancy 	  	As detect magic, except detects the presence of technological objects instead of magical objects and grants the Technologist feat for attempting Knowledge (engineering) checks to identify the properties of technological items. If you already possess this feat, you gain a +10 bonus on Knowledge (engineering) checks to identify item properties. 	TG
+True Skill 	  	Gain an insight bonus equal to half your caster level on one skill check. 	PZO9292
+True Strike 	  	+20 on your next attack roll. 	PZO1110
+Enchantment
+Aphasia 	  	Prevent a target from understanding language. 	PZO1134
+Bungle 	  	Target takes a -20 penalty on its next attack roll or check. 	PZO1117
+Charm Fey 	  	As charm person, but targets fey. 	PZO9298
+Charm Person 	  	Makes one person your friend. 	PZO1110
+Coward’s Cowl 	  	Enhance a target’s defensive instincts. 	PZO9464
+Deja Vu 	  	Make a creature repeat its actions. 	PRG:OA
+Delusional Pride 	  	Target is penalized on attacks and checks but gains bonus against charms and compulsions. 	PZO1117
+Hypnotism 	  	Fascinates 2d4 HD of creatures. 	PZO1110
+Implant Urge 	  	Implant a subconscious goal into a creature. 	PZO9292
+Keep Watch 	  	You are treated as having a night’s rest even while staying awake 	PZO9426
+Lock Gaze 	  	You compel the target to only look at you for the duration of the spell. 	PZO1118
+Memorize Page 	F 	Target perfectly memorizes one page of information. 	PZO1129
+Memory Lapse 	  	Subject forgets events back to last turn. 	PZO1115
+Moment of Greatness 	  	Doubles a morale bonus. 	PZO1118
+Reveal Secrets 	  	Target reveals if it has secret knowledge of a topic. 	PZO9296
+Sleep 	  	Puts 4 HD of creatures into magical slumber. 	PZO1110
+Sow Thought (Changeling) 	  	Plant an idea in the mind of the subject. 	PZO1121
+Unprepared Combatant 	  	Target takes -4 on initiative and Reflex saves. 	PZO1117
+Evocation
+Bestow Planar Infusion I 	  	Grant a target the effects of a planar infusion. 	PRG:PA
+Burning Hands 	  	1d4/level fire damage (max 5d4). 	PZO1110
+Dancing Darkness 	  	You create either up to four spheres of darkness that each reduce the illumination level by one step within a 20-foot-radius, or one dimly lit, vaguely humanoid shape. Each sphere of dancing darkness must stay within a 10-foot-radius area of one another but can otherwise move as you desire (no concentration required): forward or back, up or down, straight or turning corners, or the like. 	PZO9466
+Ear-Piercing Scream 	  	Deal sonic damage and daze target. 	PZO1117
+Flare Burst 	  	As flare, but affects all creatures in 10 ft. 	PZO1115
+Floating Disk 	  	Creates 3-ft.-diameter horizontal disk that holds 100 lbs./level. 	PZO1110
+Gentle Breeze 	  	Light wind protects one target from clouds, gases, heat, and vapors. 	PZO1129
+Hydraulic Push 	  	Wave of water bull rushes an enemy. 	PZO1115
+Magic Missile 	  	1d4+1 damage; +1 missile per two levels above 1st (max 5). 	PZO1110
+Shocking Grasp 	  	Touch delivers 1d6/level electricity damage (max 5d6). 	PZO1110
+Snowball 	  	Throw a conjured ball of snow at a target. 	PZO1140
+Thunderstomp 	  	Trip one creature within range. 	PZO1129
+Touch of Combustion 	  	Touched target ignites in flame, suffering 1d6 fire damage and possibly catching on fire 	PZO1121
+Unwelcome Halo 	  	Force a halo around a target, preventing it from hiding in the dark. 	PZO9267
+Illusion
+Alter Musical Instrument 	F 	Make one instrument sound like a different kind of instrument. 	PZO1129
+Auditory Hallucination 	  	Create a phantasm with auditory effects. 	PZO1134
+Blend 	  	Gain a bonus to Stealth and make checks without cover or concealment. Elf only. 	PRG:ARG
+Blend with Surroundings 	  	Change the appearance of a creature to better blend in with its surroundings. 	PZO9459
+Blurred Movement 	  	As blur, but only while you are moving. 	PZO1129
+Clarion Call 	  	Your voice can be heard across great distances 	PZO9426
+Cloak of Secrets 	  	Filter speech from a given area to sound like a different conversation. 	PZO9460
+Color Spray 	  	Knocks unconscious, blinds, and/or stuns weak creatures. 	PZO1110
+Darting Duplicate 	  	You create an illusory duplicate of yourself that opponents might waste an attack of opportunity on. 	PZO9455
+Dazzling Blade 	  	Your weapon becomes shiny, gaining bonuses to several combat maneuvers 	PZO9232
+Decrepit Disguise 	  	Make an object seem worthless. 	PRG:OA
+Disguise Self 	  	Changes your appearance. 	PZO1110
+Disguise Weapon 	  	Changes one weapon’s appearance. 	PZO1129
+Fool’s Gold (VC) 	  	Disguise copper pieces or silver pieces as gold pieces. 	PZO1136
+Hide Bruises 	  	Disguise a creature’s injuries, making them more difficult to heal. 	PZO1136
+Illusion of Calm 	  	You appear to be standing still, even when you take some actions. 	PZO1118
+Incessant Buzzing 	  	Summon illusory wasps to distract creatures. 	PZO9296
+Lose the Trail 	  	Obscure a target’s tracks when fleeing from a pursuer. 	PZO9267
+Magic Aura 	  	Alters object’s magic aura. 	PZO1110
+Mirror Mantis 	  	Creature sees an looming assassin whenever they see their reflection in a mirror. 	PZO1138
+Negative Reaction 	  	Targeted creature may not positively influence anyone. 	PZO1118
+Open and Shut 	  	Obfuscate whether a door is open or closed. 	PZO1134
+Quintessence 	  	Mask any flaws of or damage to a creature or object. 	PRG:OA
+Shadow Trap 	  	You pin the target’s shadow to its current location, causing the target to become entangled and preventing it from moving farther than 5 feet from its original position, as if its shadow were anchored to the terrain. 	PZO9466
+Shadow Weapon 	  	Create a quasi-real masterwork weapon. 	PZO1117
+Shadowfade 	  	Become invisibile to creatures using darkvision. 	PZO9479
+Silent Image 	  	Creates minor Illusion of your design. 	PZO1110
+Vanish 	  	As invisibility for 1 round/level (5 max). 	PZO1115
+Ventriloquism 	  	Throws voice for 1 min./level. 	PZO1110
+Necromancy
+Bed of Iron 	  	You can sleep comfortably in armor without suffering fatigue. 	PZO9426
+Cause Fear 	  	One creature of 5 HD or less flees for 1d4 rounds. 	PZO1110
+Chill Touch 	  	One touch/level deals 1d6 damage and possibly 1 Str damage. 	PZO1110
+Decompose Corpse 	  	Turn a corpse into a clean skeleton. 	PZO1117
+Depilate 	  	Creature takes -2 penalty to Diplomacy, Intimidate, and Perform for 1 week. 	PZO9473
+Grasping Corpse 	M 	Cause a corpse to grab or trip a foe. 	PZO1135
+Interrogation 	  	Target answers questions or suffers pain. 	PZO1117
+Itching Curse 	  	Curse target with a distracting, unbearable itch. 	PZO9468
+Night Blindness 	  	Impair target’s vision as if it were darker. 	PZO9462
+Phantom Blood 	  	Gain temporary hp if Con loss would knock you out or kill you. 	PZO1129
+Positive Pulse 	  	Energy harms undead or bolsters the living. 	PRG:PA
+Preserve 	  	Prevent objects from rotting and spoiling. 	PZO9296
+Ray of Enfeeblement 	  	Ray causes 1d6 Str penalty + 1 per 2 levels. 	PZO1110
+Ray of Sickening 	  	Ray makes the subject sickened. 	PZO1117
+Repair Undead 	  	Heals one undead of 1d8 hp + 1/level (max +5). 	PZO1129
+Restore Corpse 	  	Skeletal corpse grows flesh. 	PZO1117
+Sculpt Corpse 	  	Makes corpse look like another creature. 	PZO1115
+Skin Tag 	M 	Curse food or drink to gain a familar connection to the creature . 	PZO9471
+Touch of Blindness 	  	A touch from your hand, which is engulfed in darkness, disrupts a creature’s vision by coating its eyes in supernatural darkness. 	PZO9466
+Undine’s Curse (Undine) 	  	The target loses it’s body’s natural ability to breathe automatically. 	PZO1121
+Unlock Flesh 	  	Stagger a living creature or deal 1d6 damage/level to a corporeal undead. 	PZO1021
+Transmutation
+Alchemical Tinkering 	  	Transform one firearm or alchemical item into another one. 	PZO1121
+Alter Winds 	  	Increase/decrease strength of natural winds. 	PZO1115
+Animate Rope 	  	Makes a rope move at your command. 	PZO1110
+Ant Haul 	  	Triples carrying capacity of a creature. 	PZO1115
+Blood Money 	  	Use your blood to create material components for spells. 	PZO1002
+Body Capacitance 	  	Store electricity attacks used against you and release the energy as a touch attack. 	PZO1129
+Bouncy Body 	  	The target’s flesh becomes flexible and rubbery. 	PZO1130
+Break 	  	Gives an object the broken condition. 	PZO1115
+Brightest Night 	  	Grant improved low-light vision to several creatures. 	PZO9490
+Burning Disarm 	  	A metal object instantly becomes red hot possibly causing the wielder to drop it or take damage. 	PZO9407
+Chastise 	  	+5 bonus to convince a target to do what you want or get in trouble with their superiors. 	PZO9221
+Coin Shot 	  	Turn coins into deadly projectiles. 	PZO9460
+Crafter’s Curse 	  	Subject takes –5 on Craft skill checks. 	PZO1115
+Crafter’s Fortune 	  	Subject gains +5 on next Craft check. 	PZO1115
+Damp Powder 	  	Ruins ammunition loaded in the targeted firearm. 	PZO1118
+Dancing Lantern 	  	Animates a lantern that follows you. 	PZO1115
+Emblazon Crest 	  	Your coat of arms is magically displayed on any suitable item you carry. 	PZO9426
+Endothermic Touch 	DF/M 	This spell slows the metabolism and other bodily functions of a creature for a short amount of time. 	PZO1130
+Enlarge Person 	  	Humanoid creature doubles in size. 	PZO1110
+Enlarge Tail 	  	Increase the reach and power of your tail. 	PZO9432
+Erase 	  	Mundane or magical writing vanishes. 	PZO1110
+Expeditious Excavation 	  	Moves 5-ft. cubes of earth. 	PZO1115
+Expeditious Retreat 	  	Your base speed increases by 30 ft. 	PZO1110
+Fabricate Bullets 	M 	Converts 1 pound of metal into ammunition. 	PZO1118
+Fabricate Disguise 	  	Create a disguise in an instant. 	PZO1134
+Face of the Devourer 	  	Horribly mutate the target’s face, disfiguring it while granting it a natural attack. 	PZO9267
+False Face 	  	Polymorph into a disguised identity. 	PZO9476
+Feather Fall 	  	Objects or creatures fall slowly. 	PZO1110
+Ferment 	  	Affected liquid becomes alcoholic. 	PZO9296
+Forced Quiet 	  	Target cannot make loud noises. 	PZO1117
+Grappling Scarf 	  	Enchanted scarf functions as grappling hook with 100 ft of rope. 	PZO9481
+Gravity Bow 	  	Arrows do damage as though one size category larger. 	PZO1115
+Handy Grapnel 	  	Transform a ropelike object into a retracting grapple. 	PZO1134
+Hide Weapon 	  	Hide a weapon within your own arm. 	PZO9459
+Hobble 	  	Reduce creature’s speed. 	PZO1136
+Jump 	  	Subject gets bonus on Acrobatics checks. 	PZO1110
+Jury-Rig 	  	Removes the broken condition from the targeted object. 	PZO1118
+Keif Vigor 	M 	Increase target’s strength with consumption of pesh. 	PZO9462
+Keyhole 	  	Create a keyhole in any door or enlarge an existing keyhole. 	PZO90143
+Liberating Command 	  	Target makes an Escape Artist check as an immediate action and gains a bonus on it. 	PZO1118
+Lighten Object 	  	One object weighs half as much as normal 	PZO9418
+Long Arm 	  	Your arms lengthen, giving you extra reach. 	PZO1129
+Longshot 	  	Grants a +10-foot bonus to the range increment for any ranged weapon fired. 	PZO1118
+Lucky Number 	  	Tweak tiny variables in a creature’s immediate future. 	PZO9269
+Magic Weapon 	  	Weapon gains +1 bonus. 	PZO1110
+Marid’s Mastery 	  	If target and opponent are touching water +1 bonus on attack and damage rolls, otherwise -4. 	PZO1121
+Mirror Polish 	  	Polish a metal item until it’s usable as a mirror. 	PZO1129
+Mirror Strike 	  	You may strike multiple opponents with a single attack. 	PZO1118
+Monkey Fish 	  	Gain a climb speed and a swim speed of 10 ft. for a time. 	PZO1129
+Pattern Recognition (3.5) 	  	Gain an insight bonus on Search checks and Survival checks to follow tracks. 	PZO9401
+Poisoned Egg 	  	You transform the contents of a normal egg into a single dose of small centipede poison (injury; save DC 11; frequency 1/round for 4 rounds; effect 1 Dex; cure 1 save). 	PZO9267
+Polypurpose Panacea 	  	Gain a relaxing or entertaining effect. 	PZO1117
+Recharge Innate Magic 	  	Regain one use of all 0 and 1st-level spell-like abilities of a racial trait. 	PZO1121
+Reduce Person 	  	Humanoid creature halves in size. 	PZO1110
+Refine Improvised Weapon 	  	Transform improvised weapon into a masterwork simple or martial weapon. 	PZO1129
+Reinforce Armaments 	  	Temporarily mitigates the fragile quality in targeted weapon or armor. 	PZO1118
+Sculpted Cape 	  	Enchanted cape stiffens and can bear weight. 	PZO9481
+Snapdragon Fireworks 	  	Create 1 dragon firework/level. 	PZO1117
+Spirit Share 	  	Grant beneficial liquids with a touch. 	PZO9296
+Stone Fist 	  	Your unarmed strikes are lethal. 	PZO1115
+Strong Wings 	  	Touched target’s wings grow more powerful, increasing its fly speed by +10 ft. and maneuverability by one category (to a maximum of good). 	PZO1121
+Sundering Shards 	  	Sundered item explodes, dealing 1d6 damage to adjacent creatures. 	PZO1129
+Swift Girding 	  	Your allies are instantly suited up 	PZO9426
+Touch of Gracelessness 	  	Subject loses 1d6 + 1 Dex/two levels and is prone to falling down. 	PZO1115
+Touch of the Sea 	  	Swim speed becomes 30 ft. 	PZO1115
+Transfer Tattoo 	  	Move a magic tattoo from one creature to another. 	PZO9237
+Tripvine 	  	Animate a rope/vine/etc. to trip nearby creatures. 	PZO9221
+Unerring Weapon 	  	Grants a +2 bonus, +1 per four caster levels, on attack rolls to confirm a critical hit. 	PZO1118
+Unhallowed Blows 	  	One natural weapon or unarmed strike of subject undead gets +1 on attack and damage rolls. 	PZO9486
+Urban Grace (Half-Elf) 	  	Move through crowds and urban settings with ease. 	PZO1121
+Vocal Alteration 	  	Disguise target’s voice. 	PZO1117
+Weaken Powder 	  	Targeted firearm’s ammunition halves the firearm’s range and imposes a –2 penalty on damage rolls. 	PZO1118
+Windy Escape 	  	You respond to an attack by briefly becoming vaporous and insubstantial, allowing the attack to pass harmlessly through you. You gain DR 10/magic against this attack and are immune to any poison, sneak attacks, or critical hit effect from that attack. 	PZO1121
+Wizened Appearance 	  	Make a target appear as an older version of itself. 	PZO1134
+Youthful Appearance 	  	Target appears younger. 	PZO1117
+2nd-Level Sorcerer/Wizard Spells Spell Name 	Comp. 	Description 	Source
+Abjuration
+Anti-Summoning Shield 	  	Within the area of effect, this spell impedes the use of spells of the summoning subschool and other effects that summon creatures. 	PZO9437
+Arcane Lock 	M 	Magically locks a portal or chest. 	PZO1110
+Book Ward 	  	As protection from energy, except lasts much longer and only protects against acid and fire damage. 	PZO9211
+Bullet Shield 	  	You gain a +4 deflection bonus to AC against firearm attacks. 	PZO1118
+Bullet Ward 	F 	Adamantine bullets intercept firearm attacks. 	PZO1129
+Crimson Confession 	  	Touching the marked object or area turns one’s skin red. 	PZO1129
+Death from Below 	  	Grant bonus to AC against larger creatures. 	PZO1121
+Diminished Detection 	  	Reduce the areas of divination spells for the purpose of targeting you. 	PZO9292
+Disrupt Link 	  	The target has her link with her bonded creature temporarily severed. 	PZO9454
+Endure Elements, Communal 	  	As endure elements, but you may divide the duration among creatures touched. 	PZO1118
+Escape Alarm 	  	As alarm, but alerts you when a creature leaves the area. 	PZO1136
+Escaping Ward 	  	Move 5 feet away from a larger attacking creature as an immediate action. 	PZO1121
+Gird Ally 	  	You create a magical field around summoned creatures you control that deflects attacks made against them. The targets gain a deflection bonus to their AC equal to 1 + 1 for every 6 caster levels you possess (maximum +4 deflection bonus at 18th level) 	PZO9458
+Influence Wild Magic 	  	Stabilize an area of primal magic. 	PZO9486
+Miserable Pity 	  	Opponents cannot attack a pathetic creature. 	PZO1117
+Nondetection, Lesser 	  	As nondetection, but only protects against spells that target an area. 	PZO9468
+Obscure Object 	  	Masks object against scrying. 	PZO1110
+Painful Revelation 	  	Damage creature who recognizes an illusion for what it is. 	PZO9296
+Protection from Arrows 	  	Subject gains DR 10/magic against ranged attacks. 	PZO1110
+Protection from Chaos, Communal 	  	As protection from chaos, but you may divide the duration among creatures touched. 	PZO1118
+Protection from Evil, Communal 	  	As protection from evil, but you may divide the duration among creatures touched. 	PZO1118
+Protection from Good, Communal 	  	As protection from good, but you may divide the duration among creatures touched. 	PZO1118
+Protection from Law, Communal 	  	As protection from law, but you may divide the duration among creatures touched. 	PZO1118
+Protection from Technology 	  	+2 to AC and saves, plus additional protection against technology. 	PZO9272
+Radiation Ward 	  	Protect a creature against radiation. 	PZO9479
+Resist Energy 	  	Ignores first 10 (or more) points of damage per attack from specified energy type. 	PZO1110
+Suppress Charms and Compulsions 	  	You can grant a bonus to saving throws against charms and compulsions or suppress an existing, in-effect charm or compulsion. 	PRG:AG
+Warding Weapon 	F 	The weapon you use for the focus of this spell defends you, allowing you to cast spells without provoking attacks of opportunity. 	PZO1118
+With the Wind 	  	Protect a target from being blown away by wind of less than windstorm force. 	PZO1140
+Conjuration
+Acid Arrow 	  	Ranged touch attack; 2d4 damage for 1 round + 1 round/three levels. 	PZO1110
+Ally Across Time 	  	Summon a duplicate of yourself from a parallel world to aid another. 	PZO9480
+Alter Summoned Monster 	  	You swap a creature summoned by a Conjuration (summoning) spell for a creature you could summon with a summon monster or summon nature’s ally spell 	PZO9458
+Apport Object 	  	Send or receive a small object via teleportation. 	PRG:OA
+Arrow Eruption 	  	Creates duplicates of killing arrow. 	PZO1115
+Blade Tutor’s Spirit 	  	Attack penalties you choose to suffer are reduced. 	PZO9455
+Callback 	  	If your familiar takes hp damage while within range of this spell, it immediately teleports to your space after the damage is applied. 	PZO9454
+Cloud of Seasickness 	  	As stinking cloud, except as noted and creatures are sickened instead of nauseated. 	PAP55:WM
+Create Pit 	F 	Creates an extradimensional pit. 	PZO1115
+Cushioning Bands 	  	Force bands protect against crushing. 	PZO1117
+Dust of Twilight 	  	Black particles extinguish light sources within area. 	PZO1115
+Euphoric Cloud 	M 	Fog obscures vision and fascinates living creatures. 	PZO1129
+Fiery Shuriken 	M 	Calls forth several fiery projectiles ready to be flung at opponents. 	PZO1118
+Fog Cloud 	  	Fog obscures vision. 	PZO1110
+Garden of Peril 	  	Grow a group of poisonous mushrooms. 	PZO9459
+Glitterdust 	  	Blinds creatures, outlines invisible creatures. 	PZO1110
+Instant Weapon 	  	You create a masterwork melee weapon sized appropriately for you from opaque force. As a force effect, it can strike and damage incorporeal creatures. 	PZO9455
+Lead Plating 	  	Enclose the target in a thin sheath of lead. 	PZO9432
+Mount, Communal 	  	As mount, but you may divide the duration among creatures touched. 	PZO1118
+Mud Buddy 	  	You create a Small minion out of mud, and it obeys your commands. 	PZO1130
+Reloading Hands 	  	Loads a single shot into your weapon every round. 	PZO1118
+Retrieve Item 	  	Call an item instantly to you hand from nearby by speaking a special word and snapping your fingers. The spell fails if the item is in the possession of another creature. 	PZO9220
+Returning Weapon 	  	Grants a weapon the returning special weapon quality. 	PZO1118
+River Whip 	  	Create a whip of water that you wield as a weapon. 	PZO1129
+Rock Whip 	  	Create a whip that passes through unworked stone. 	PZO9479
+Shackle 	  	You summon a set of Small or Medium masterwork restraints into being. 	PZO9293
+Slick Walls 	  	Increase the DC of Climb checks in the area. 	PZO9478
+Slipstream 	  	Wave boosts creature’s speed. 	PZO1115
+Stone Call 	  	2d6 damage to all creatures in area. 	PZO1115
+Stone Discus 	  	Flying discus deals bludgeoning or slashing damage. 	PZO1129
+Storm of Blades 	  	Create swords and propel them towards your target. 	PZO9441
+Summon Cacodaemon 	  	Summon a cacodaemon. 	PZO9239
+Summon Monster II 	  	Summons extraplanar creature to fight for you. 	PZO1110
+Summon Swarm 	  	Summons swarm of bats, rats, or spiders. 	PZO1110
+Vine Strike 	  	Enhance one of your natural or unarmed attacks with thorny vine growth. 	PZO1140
+Web 	  	Fills 20-ft.-radius spread with sticky spiderwebs that can grapple foes and impair movement. 	PZO1110
+Web Shelter 	  	Create a comfortable shelter made of webbing. 	PZO1117
+Whip of Spiders 	  	Create a whip made of poisonous spiders. 	PZO1129
+Divination
+Anticipate Thoughts 	  	Gain increasing bonuses to AC and on attack rolls and damage rolls against one creature. 	PRG:OA
+Blood Transcription 	  	Wizard Only. Learn a spell from the target’s blood. 	PZO1117
+Carrion Compass 	  	You are lead to an undead creature’s most recent controller or the cause of the creature’s undeath. 	PZO9444
+Commune with Birds 	  	You can ask birds a question. 	PZO1121
+Create Treasure Map 	M 	Creates treasure map out of a creature’s corpse. 	PZO1115
+Detect Magic, Greater 	  	As detect magic, but learn more information. 	PZO1134
+Detect Thoughts 	  	Allows “listening” to surface thoughts. 	PZO1110
+Determine Depth 	  	With a touch, you determine the exact thickness of a wall, ceiling, or other solid barrier. 	PZO9430
+Elemental Speech 	  	Enables you to speak to elementals and some creatures. 	PZO1115
+Embrace Destiny 	  	Roll d20; before end of spell, use roll to replace another d20 roll before the die is rolled. 	PZO9246
+Enchantment Sight 	  	See enchantment spells active on creatures. 	PZO9476
+Identifier’s Eye 	  	As per detect magic, except affecting a creature you touch. 	PZO9487
+Know Peerage 	  	Target uses your Knowledge (nobility) ranks. 	PZO1134
+Locate Object 	  	Senses direction toward object (specific or type). 	PZO1110
+Locate Portal 	  	Detect portals within range. 	PZO9298
+Page-Bound Epiphany 	  	Fill an empty book with knowledge on a topic from around the world. 	PZO9435
+Psychic Reading 	  	Read surface thoughts to learn information about a subject. 	PRG:OA
+Reveal True Shape (3.5) 	M 	Reveal the true form of a magically disguised/transformed creature. 	PZO9019
+Secret Speech 	  	Send secret messages to others within normal speech. 	PZO9267
+See Invisibility 	  	Reveals invisible creatures or objects. 	PZO1110
+Sense Vitals 	  	Gain the ability to sneak attack. 	PZO9459
+Share Language 	  	Subject understands chosen language. 	PZO1115
+Share Memory 	  	Share one memory with the target. 	PZO1117
+Spell Gauge 	  	You learn the spells known or prepared by the target. 	PZO9418
+Storm Sight 	  	Spread your senses through a storm, learning about other creatures affected by the weather. 	PZO1138
+Track Ship 	  	Track a ships location and movement with the aid of a nautical chart and a piece of the ship to be tracked. 	PZO9422
+Trapfinder’s Focus 	M 	Grant the trapfinding ability or a +5 Disable Device bonus. 	PCS:PSFG
+Twisted Futures 	  	A creature affected by this spell is unable to benefit from effects that grant the ability to roll multiple times and take the higher result. 	PZO9453
+Undeath Sense 	  	As per detect undead, but affecting a creature you touch. 	PZO9487
+Enchantment
+Adoration 	  	You gain a bonus on Diplomacy checks and performance combat checks. 	PZO1118
+Arcane Disruption 	  	This spell makes it difficult for the subject to cast arcane spells, use spell-like abilities, and use some abilities granted by arcane spellcasting classes. 	ACO
+Aura of Distraction 	  	Aura of psychic noise makes concentration difficult. 	PZO9477
+Bestow Insight 	  	Target gain insight bonus on skill checks and is considered trained in that skill. 	PZO1121
+Bestow Weapon Proficiency 	  	Grants a creature proficiency in a single weapon for short period of time. 	PZO1118
+Compassionate Ally 	  	Target is compelled to help injured ally. 	PZO1117
+Compel Tongue 	  	As share language, but target can only speak and write in the language imparted. 	PZO9462
+Compulsive Liar 	  	Prevent target from speaking the truth. 	PZO1134
+Covetous Urge 	  	Target is compelled to steal valuable objects. 	PZO1136
+Daze Monster 	  	Living creature of 6 HD or less loses its next action. 	PZO1110
+Delay Pain 	  	Ignore pain for 1 hour/level. 	PZO1117
+Demand Offering 	  	Make a creature give you an object it’s holding. 	PRG:OA
+Haunting Reminder 	  	After Intimidating a creature, make it afraid of your retribution. 	PZO1138
+Heckle 	  	You shift the target’s attitude one category toward hostile regarding you and everyone within 30 feet of it at the time the spell is cast. 	PZO9465
+Hidden Presence 	  	Prevent creatures from noticing your presence. 	PZO1134
+Hideous Laughter 	  	Subject loses actions for 1 round/level. 	PZO1110
+Hoodwink 	  	Distort all of the targets senses. 	PZO1136
+Intensify Psyche 	  	Amplify the targets emotions. 	PZO9479
+Investigative Mind 	  	Roll twice and take the higher roll when using certain mental skills. 	PZO1129
+Mortal Terror 	  	Frighten creature with an existential crisis. 	PZO9480
+Oppressive Boredom 	  	Target loses its next action. 	PZO1117
+Passing Fancy 	  	When you cast this spell, you dictate one specific topic or recent event and instill a magical obsession with that subject within the target. 	PZO9469
+Qualm 	  	Target gains penalties on ability checks, skill checks, and concentration checks until it spends an entire round doing nothing. 	PZO1118
+Seducer’s Eyes 	  	You become more attractive to those around you. 	PZO9418
+Sensory Overload 	  	Make concentrating difficult for a creautre, forcing a save to perform standard or full-round actions. 	PZO9477
+Tactical Acumen 	  	You gain an additional +1 on attack rolls or to AC due to battlefield positioning. 	PZO1118
+Touch of Idiocy 	  	Subject takes 1d6 penalty to Int, Wis, and Cha. 	PZO1110
+Touch of Mercy 	  	The target creature deals only nonlethal damage with all of its weapon attacks. 	PZO9431
+Unnatural Lust 	  	Target is compelled to kiss or caress another creature. 	PZO1117
+Evocation
+Admonishing Ray (3.5) 	  	You fire one nonlethal force ray plus one additional ray for every four levels (maximum three rays). Each ray deals 4d6 points of nonlethal damage. 	PZO9405
+Aggressive Thundercloud 	  	Flying storm cloud deals 3d6 electricity damage. 	PZO1129
+Beacon of Guilt 	  	Cursed object highlights creatures that attempt to take it. 	PZO1136
+Burning Arc 	  	Create an arc of flame that burns one target plus one additional target/3 levels for 1d6 fire dmg/CL (maximum 10d6). Reduce the damage by 1/2 (rounded down) for every additional target the discharge arcs to. 	PZO9417
+Burning Gaze 	  	Inflict 1d6 fire damage to creature by looking at it. 	PZO1115
+Burst of Radiance 	  	Fills area with shimmering light, blinding (or dazzling) creatures for 1d4 rounds and damaging evil creatures. 	PZO9431
+Contact Entity I 	M 	Ask eldritch entities to find and converse with you. 	PZO1135
+Continual Flame 	M 	Makes a permanent, heatless light. 	PZO1110
+Darkness 	  	20-ft. radius of supernatural shadow. 	PZO1110
+Defensive Shock 	  	Electricity damages your attackers. 	PZO1117
+Elemental Touch 	  	Gain energy damage touch attack. 	PZO1115
+Fiery Runes 	  	You charge a weapon with a magic rune of fire. 	PZO9455
+Fire Breath 	  	Exhale a cone of flame at will. 	PZO1115
+Fire Sneeze 	  	Launch flaming, forceful phlegm at your enemies. 	PZO9419
+Flaming Sphere 	  	Rolling ball of fire deals 3d6 fire damage. 	PZO1110
+Flickering Lights 	  	Create an area of inconsistent lighting. 	PZO1135
+Flurry of Snowballs 	  	Cone-shaped blast of snowballs deals 4d6 cold damage. 	PZO9428
+Force Sword 	  	You create a longsword of pure force sized appropriately for you that you can wield or give to another creature. 	PZO9465
+Frigid Touch 	  	Target takes cold damage and is staggered. 	PZO1117
+Frost Fall 	  	The area is covered in a chilling frost. 	PZO1118
+Ghost Whip 	  	Create a ghost touch whip that passes through objects. 	PRG:OA
+Gust of Wind 	  	Blows away or knocks down smaller creatures. 	PZO1110
+Gusting Sphere 	  	Ball of wind can bull rush creatures inflicting 1d6 nonlethal damage. 	PZO1121
+Ice Slick 	  	You create a blast of intense cold, coating all solid surfaces in the area with a thin coating of ice. 	PZO1130
+Imbue with Elemental Might 	  	As imbue with spell ability except it transfers the use of elemental assault ability. 	PZO1121
+Light Prison 	  	Surround a creature with a light prison, damaging and blinding it if it attempts to escape. 	PZO9267
+Molten Orb 	  	Molten metal splash weapon deals 2d6 fire damage plus ongoing damage. 	PZO1129
+Pilfering Hand 	  	You may seize an object or manipulate it from afar. 	PZO1118
+Protective Penumbra 	  	Shadow protects the target from light. 	PZO1117
+Revealing Light 	  	As light, but hampers Stealth checks. 	PZO9478
+Ricochet Shot 	  	Imbues a projectile weapon to give its ammunition the ability to ricochet. 	PZO1118
+Scorching Ray 	  	Ranged touch attack deals 4d6 fire damage, + 1 ray/four levels (max 3). 	PZO1110
+Shatter 	  	Sonic energy damages objects or crystalline creatures. 	PZO1110
+Sonic Scream 	  	Create a cone of damaging sound at will. 	PZO1129
+Spontaneous Immolation 	  	Target takes 3d6 points of fire damage and catches on fire. 	PZO1118
+Telekinetic Strikes 	  	Imbue a creature’s limbs with force, adding damage to unarmed strikes. 	PZO9477
+Veil of Ash (3.5) 	  	Conjure a small cloud of burning ash in the target’s face. 	PZO9024
+Illusion
+Assumed Likeness 	  	Cloak yourself in a phantasm that ellicits certain emotions from observing creatures. 	PZO9292
+Blur 	  	Attacks miss subject 20% of the time. 	PZO1110
+Body Double 	  	Change one creature to look and act like another. 	PZO9459
+Dark Whispers 	  	Whisper through the shadows. 	PZO1134
+Disguise Other 	  	As disguise self, but affects you or another. 	PZO1117
+Familiar Figment 	  	Create an illusory duplicate of your familiar to fool enemies. 	PZO9429
+Ghostly Disguise 	  	You look like a ghost of yourself. 	PZO1117
+Haunting Mists 	  	Creatures are shaken and take Wis damage. 	PZO1117
+Hidden Blades 	  	Render a target weapon or up to 50 pieces of ammo invisible, granting the wielder a bonus on Sleight of Hand checks made to conceal the weapon or ammunition and to Bluff checks to feint with the weapon or ammo. 	PZO9468
+Hypnotic Pattern 	  	Fascinates 2d4 + level HD of creatures. 	PZO1110
+Illusory Maze 	  	Create an illusion of an ever-changing maze of glass. 	PZO9283
+Invisibility 	  	Subject is invisible for 1 min./level or until it attacks. 	PZO1110
+Invisibility Bubble 	  	As >invisibility, but altered to work better underwater. 	PZO92102
+Jitterbugs 	  	Targets gets –4 penalty on all Dex and Dex-based skill checks, and cannot take the delay, ready, or total defense actions. 	PZO1121
+Mad Hallucination 	  	Target takes penalties to mental actions. 	PZO1117
+Magic Mouth 	M 	Object speaks once when triggered. 	PZO1110
+Minor Image 	  	As silent image, plus some sound. 	PZO1110
+Mirror Image 	  	Creates decoy duplicates of you. 	PZO1110
+Misdirection 	  	Misleads divinations for 1 creature or object. 	PZO1110
+Obscured Script 	  	Make the text on a page more difficult to decipher. 	PZO1138
+Paranoia 	  	Target becomes hostile to all creatures. 	PRG:OA
+Peerless Integrity 	  	Conceal the alignment of creatures from divination magic. 	PZO9462
+Phantom Trap 	M 	Makes item seem trapped. 	PZO1110
+Planetarium 	  	Project a current image of the nighty sky in places you would normally be unable to view it. 	PZO9449
+Raiment of Command 	  	Cloak yourself in an illusion of authority. 	PZO1002
+Searching Shadows 	  	Shadows search for a creature or object in range. 	PZO9292
+Secret Sign 	  	Invisibly inscribe a small mark or message on a creature or object. 	PZO9462
+Semblance of Flesh 	  	Disguise a construct as a creature of flesh. 	PZO9086
+Shadow Anchor 	  	Target needs to make a bull rush to move more than 5 feet away from his current square. 	PZO1121
+Shadow Claws 	  	Claws of shadow deal slashing damage and Strength damage. 	PZO1136
+Shifted Steps 	  	Make a target sound as if elsewhere. 	PZO1134
+Silent Table 	  	Give yourself privacy by muffling sound leaving the area. 	PZO1129
+Symbol of Mirroring 	M 	Triggered rune creates mirror images. 	PZO1117
+Sympathetic Aura 	  	As magic aura, but affects all similar objects in a 5-foot radius. 	PZO1138
+Twilight Haze 	  	Illusory fog obscures vision. 	PZO1129
+Umbral Weapon 	  	1/rnd wielder of target touched melee weapon can reroll a failed attack roll. If reroll hits, the attacked creature suffers 1d8 cold damage, plus 1 per 2 caster levels (maximum 1d8+10). 	PZO9455
+Necromancy
+Blindness/Deafness 	  	Makes subject blinded or deafened. 	PZO1110
+Blood in the Water 	DF 	While the spell is in effect, all sharks, feeders in the depths, and creatures with the blood frenzy ability in the area gain a +2 bonus to Strength and Constitution and take a –2 penalty to AC. 	PZO1130
+Bloodbath 	F 	Cause yourself and enemies to bleed. 	PZO1135
+Bloody Tears and Jagged Smile 	  	Become more intimidating with black eyes that weep blood and turn your teeth into jagged fangs. 	PZO9071
+Bone Fists 	  	The bones of your targets’ joints grow thick and sharp, protruding painfully through the skin at the knuckles, elbows, shoulders, spine, and knees. 	PZO9468
+Boneshaker 	F 	Momentarily control a living or undead creature’s skeleton. 	PZO1135
+Brow Gasher 	  	Slashing weapon deals bleed damage to an opponent’s head. 	PZO1118
+Command Undead 	  	Undead creature obeys your commands. 	PZO1110
+Companion Life Link 	  	Sense whenever your companion is wounded and call out to it in a time of need. 	PZO1129
+Corpse Lanterns 	  	Create a sickly version of dancing lights. 	PZO9235
+Crafter’s Nightmare 	  	Create a poltergeist to disrupt crafting and spellcasting. 	PZO9471
+Curse Terrain, Lesser 	M 	Curse an area with three mild hazards. 	PZO1135
+Defending Bone 	  	You animate a bone which gives you damage reduction 5/bludgeoning. 	PZO9202
+Defoliate 	  	You hurl a tiny ball of negative energy, destroying plant life either in a line 60 feet long or a 10-foot-radius spread. 	PZO9412
+Drain Construct 	  	Incapacitate a construct by draining its animating force. 	PZO9486
+Dress Corpse 	  	Doctor the evidence on a corpse. 	PZO1134
+False Life 	  	Gain 1d10 temporary hp + 1/level (max +10). 	PZO1110
+Ghoul Hunger 	  	Awaken an unnatural hunger in the target, causing it to seek out humanoid flesh. 	PZO9267
+Ghoul Touch 	  	Paralyzes one subject, which exudes stench that makes those nearby sickened. 	PZO1110
+Languid Venom 	  	Delay a poison’s onset and hide its presence. 	PZO1134
+Life Pact 	  	Affected creatures automatically donate hp to stabilize fallen ally. 	PZO1129
+Limp Lash 	  	Create a magical noose around target’s head, possibly paralyzing them. 	PZO9419
+Lipstitch 	  	Sew the target’s lips together. 	PZO9235
+Mathematical Curse 	  	Use the Path of Numbers to place a mathematical curse on someone. 	PZO9269
+Pernicious Poison 	  	Target takes a -4 penalty against poison. 	PZO1117
+Scare 	  	Frightens creatures of less than 6 HD. 	PZO1110
+Sentry Skull 	M 	Turn a severed head into a magical sentry. 	PZO1121
+Shared Suffering 	F 	Deal damage to another creature by harming yourself. 	PZO9269
+Skinsend 	  	Animate and possess your own skin as if it were a separate creature. 	PZO1117
+Spectral Hand 	  	Creates disembodied glowing hand to deliver touch attacks. 	PZO1110
+Steal Voice 	  	Target gains the croaking spellblight. 	PZO1117
+Stricken Heart 	  	Touch attack deals 2d6 damage and staggers target. 	PZO1129
+Touch of Bloodletting 	  	This spell causes existing wounds on a target to bleed profusely. 	PZO9267
+Unsettling Presence 	  	Inflict creatures with paranoia and be repulsive to others. 	PZO9471
+Unshakable Chill 	  	Target is afflicted with severe cold. 	PZO1117
+Transmutation
+Aboleth’s Lung 	  	Targets gain the ability to breathe water but can no longer breathe air. 	PZO1121
+Accelerate Poison 	  	Hastens targeted poison’s onset. 	PZO1115
+Adhesive Blood 	  	Attackers’ weapons stick to your gluey blood. 	PZO1129
+Air Step 	  	Tread unsteadily on air, with limitations. 	PZO1129
+Alter Self 	  	Assume form of a Small or Medium humanoid. 	PZO1110
+Amplify Stench 	  	You amplify your natural stench special ability—its save DC increases by 2, and creatures that fail their saving throws against your stench become nauseated rather than sickened. 	PZO1130
+Angelic Aspect, Lesser 	  	You gain low-light vision, acid and cold resistance 5, and the benefits of protection from evil. 	PZO9431
+Animal Aspect 	  	You gain some of the beneficial qualities of an animal. 	PZO1118
+Ant Haul, Communal 	  	As ant haul, but you may divide the duration among creatures touched. 	PZO1118
+Ashen Path 	  	Allow one or more creatures to ignore airborne effects and see through magical smoke and fog. 	PZO9490
+Badger’s Ferocity 	  	Weapons are keen while you concentrate. 	PZO1117
+Bear’s Endurance 	  	Subject gains +4 to Con for 1 min./level. 	PZO1110
+Billowing Skirt 	  	Enchanted skirt slows your fall and allows you to hover. 	PZO9481
+Blood Armor 	  	Your blood hardens when you are wounded, increasing your AC. 	PZO1129
+Blood Blaze 	  	Aura that makes injured creatures spray burning blood. 	PZO1121
+Boiling Blood 	  	Targets take fire damage; orcs get +2 Strength. 	PZO1117
+Brittle Portal 	  	Reduce the hardness of objects within the area. 	PZO9267
+Bull’s Strength 	  	Subject gains +4 to Str for 1 min./level. 	PZO1110
+Buoyancy 	  	Several creatures or objects become very buoyant, floating automatically and must struggle to submerge. 	PZO9422
+Carry Companion 	  	Your companion creature is transformed into a miniature statue which you can carry. 	PZO9426
+Cat’s Grace 	  	Subject gains +4 to Dex for 1 min./level. 	PZO1110
+Celestial Companion 	  	Give your companion protections against evil creatures. 	PZO9492
+Certain Grip 	  	You gain a +4 competence bonus on Acrobatics and Climb checks and to CMD. 	PZO1118
+Codespeak 	  	Speak, read, and write a new code language. 	PZO1134
+Darkvision 	  	See 60 ft. in total darkness. 	PZO1110
+Destabilize Powder 	  	Ammunition in the targeted firearm is prone to misfire. 	PZO1118
+Diminish Resistance 	  	Weaken a creature’s resistance to one type of energy. 	PRG:PA
+Disfiguring Touch 	  	Target becomes disfigured. 	PZO1117
+Dragonvoice 	  	Emulate the vocal inflections of dragons. 	PZO9434
+Eagle’s Splendor 	  	Subject gains +4 to Cha for 1 min./level. 	PZO1110
+Eldritch Conduit 	  	Use an enemy as a point of origin for a cone, cylinder, line, or sphere spell. 	PZO9237
+Eroding Ray 	  	Ranged touch attack deals 2d6 to construct or object, +1 ray/four levels (max 3). 	PZO9492
+Extreme Flexibility 	  	Gain a bonus to AC, on Escape Artist checks, and when grappling. 	PZO1129
+False Age 	  	Change to become one age category younger or older. 	PZO9491
+Fear the Sun 	  	Targets that fail the saving throw gain light blindness. If you cast this spell in the presence of bright light, any target that fails its save is blinded immediately, and dazzled starting at the beginning of its first turn. 	PZO9466
+Fleeting Defect 	  	Cause a single object to become broken. Can also disrupt a construct’s animating force. 	PZO9462
+Fleshcurdle 	  	Cause target’s limbs to mutate to hamper attacks, defense, or movement. 	PZO9237
+Fleshy Facade 	  	Alter your appearance to appear living. 	PZO1130
+Fool’s Gold 	  	Those who possess gold pieces you have cast this spell on are more vulnerable to your magics. 	PZO9465
+Fox’s Cunning 	  	Subject gains +4 to Int for 1 min./level. 	PZO1110
+Full Pouch 	  	You cast this spell as you draw out a consumable alchemical item to use. The item divides itself into two nearly identical copies and the newly separated one is delivered into your hand. The new item functions as the original in all ways except the copied item suffers a slight reduction in quality. 	PZO9465
+Fungal Blisters 	  	Develop a small number of fungal growths which burst as you take damage, choking your enemies with harmful spores. 	PZO90119
+Glide 	  	You take no falling damage, move 60 ft./round while falling. 	PZO1115
+Grasping Vine (Vine Leshy) 	  	Sprout a 20-ft long vine that can assist with numerous tasks. 	PZO1140
+Greensight 	  	Grant a target the ability to see through plant matter as if it were transparent. 	PZO1140
+Harmless Form 	  	Transform the target into a “harmless” animal. 	PZO9460
+Hidden Knowledge 	  	You purposely forget some information which is transcribed upon you in the form of a tattoo. 	PC:SDPG
+Human Potential 	  	The target chooses one ability score and gains a +2 enhancement bonus to that ability score. The bonus confers the usual benefit to skills and abilities based on the ability enhanced, but does not affect bonus spells or skill ranks. 	PZO9465
+Kinetic Reverberation 	  	Channels the force of an enemy’s attack back into its weapon. 	PZO1118
+Knock 	  	Opens locked or magically sealed door. 	PZO1110
+Levitate 	  	Subject moves up and down at your direction. 	PZO1110
+Mage’s Crawl Space 	  	Create a personal hideaway in a surface. 	PZO9479
+Magic Siege Engine 	  	Siege gains +1 on targeting and damage rolls. 	PZO1118
+Make Whole 	  	Repairs an object. 	PZO1110
+Mark of Blood 	  	Imbue some of your life force into a creature, being able to permanently detect its location. 	PZO1138
+Masterwork Transformation 	M 	Make a normal item into a masterwork one. 	PZO1117
+Merge with Familiar 	  	Merge the body of your familiar or spirit animal into your own. 	PZO1140
+Mirror Hideaway 	  	As many as eight creatures hide in an extradimensional space. 	PZO1129
+Owl’s Wisdom 	  	Subject gains +4 to Wis for 1 min./level. 	PZO1110
+Pouncing Fury 	  	Make a full attack with your claws after a charge. 	PZO1140
+Pyrotechnics 	  	Turns fire into blinding light or thick smoke. 	PZO1110
+Quick Change 	  	Use change shape as a swift action and surprise foes. 	PZO1135
+Raven’s Flight 	  	You can cast this spell only if it is the first action you take on your turn. In a burst of shadowy feathers, you turn into a Tiny blurred shape reminiscent of a black raven until the beginning of your next turn. 	PZO9456
+Recoil Fire 	  	Ammunition in the targeted firearm generates excessive recoil. 	PZO1118
+Reinforce Armaments, Communal 	  	As reinforce armaments, but you may divide the duration among objects touched. 	PZO1118
+Remarkable Legerdemain 	  	Conceal items with uncanny skill. 	PZO9462
+Rope Trick 	  	As many as eight creatures hide in extradimensional space. 	PZO1110
+Rune of Rule 	M 	Bestow upon a creature one of the seven runes of rule. 	PZO1138
+Scale Spikes 	DF/M 	When the target is affected by this spell, its scales grow jagged spikes. These spikes act like +1 armor spikes. The subject is automatically considered proficient with these scale spikes. 	PZO1130
+Sculpt Simulacrum 	  	Alter a simulacrum’s appearance. 	PZO1117
+Silk To Steel 	  	Use a scarf as a shield or whip. 	PZO1117
+Snow Shape 	  	As stone shape except with snow. You can create simple weapons composed of ice that last for 24 hours before melting. 	PZO9417
+Solidify Earth 	  	Harden earth and stone, impeding burrowing creatures. 	PZO9478
+Spider Climb 	  	Grants ability to walk on walls and ceilings. 	PZO1110
+Splinter Spell Resistance 	  	You create an aura around the target weapon that weakens a foe’s spell resistance with each successful attack. 	PZO9465
+Squeeze (Vishkanya) 	  	Increase the target’s flexibility, allowing it to move through tight spaces and squeeze with ease. 	PZO1121
+Stabilize Powder 	  	Ammunition in the targeted firearm is less likely to misfire. 	PZO1118
+Staggering Fall 	  	Cause additional damage to a falling creature. 	PZO9232
+Steal Breath 	  	You pull the breath from a creature’s lungs, dealing damage and leaving it unable to speak, use breath weapons, or cast spells with verbal components. 	PZO1121
+Steal Size 	  	Reduce one humanoid’s size by one size category (if it is larger than you) and you grow one size category. 	PZO9453
+Stone Throwing 	  	The subject gains the rock throwing and rock catching abilities usable with solid, inflexible objects with hardness of at least 5. 	PZO9453
+Sun’s Disdain 	  	Curse a creature, giving it light blindness and making it susceptible to light spells. 	PZO1138
+Tattoo Potion 	M 	Cause a potion to turn into a spell tattoo when it is drunk. 	PZO9237
+Tears to Wine 	  	This spell turns nonmagic liquids into mead or wine of average quality. 	PZO9465
+Telekinetic Assembly 	F 	Assembles a siege engine using 1 fewer worker for every two caster levels. 	PZO1118
+Telekinetic Volley 	  	Up to one touched object per level weighing up to 5 lbs. each levitates in your space and you can attack with them. 	PZO9452
+Thunder Fire 	  	Ammunition in the targeted firearm deafens opponents. 	PZO1118
+Time Shudder 	  	Nearby creatures are affected by haste or slow each round. 	PZO1129
+Transmute Wine to Blood 	  	Transform a bottle of fine wine into a pint of animal blood. 	PZO9427
+Tremor Blast 	  	You create a minor earthquake that can trip creatures. 	PZO9267
+Twisted Space 	  	Targeted creature’s attacks target a random square instead of the intended target. 	PZO1118
+Visualization of the Body 	M 	You focus your mind on one aspect of your body, aligning the energies within your body to eance that element. 	PZO9472
+Visualization of the Mind 	M 	You enhance a single aspect of your mind, nurturing and empowering it. 	PZO9472
+Whispering Wind 	  	Sends a short message 1 mile/level. 	PZO1110
+Winged Sword 	  	Target weapon grows small feathered wings and acts as if it had the throwing weapon special ability. 	PZO9465

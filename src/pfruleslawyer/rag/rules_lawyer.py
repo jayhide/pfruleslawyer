@@ -1,23 +1,11 @@
-#!/usr/bin/env python3
 """RAG-powered Pathfinder 1e rules assistant."""
 
-import argparse
 import sys
 
 import anthropic
-
-# ANSI color codes for output
-class Colors:
-    CYAN = "\033[36m"      # Search queries, context headers
-    YELLOW = "\033[33m"    # Section titles
-    DIM = "\033[2m"        # Scores, debug info
-    MAGENTA = "\033[35m"   # Model reasoning
-    RED = "\033[31m"       # Warnings
-    GREEN = "\033[32m"     # Success messages
-    RESET = "\033[0m"      # Reset to default
 from dotenv import load_dotenv
 
-from vector_store import RulesVectorStore
+from pfruleslawyer.search import RulesVectorStore
 
 load_dotenv()
 
@@ -83,6 +71,17 @@ USER_PROMPT_TEMPLATE = """## Initial Rules Search Results
 {question}
 
 Please answer the question based on these rules or search for more rules if needed. Reason step-by-step to yourself before you give your final answer."""
+
+
+# ANSI color codes for output
+class Colors:
+    CYAN = "\033[36m"      # Search queries, context headers
+    YELLOW = "\033[33m"    # Section titles
+    DIM = "\033[2m"        # Scores, debug info
+    MAGENTA = "\033[35m"   # Model reasoning
+    RED = "\033[31m"       # Warnings
+    GREEN = "\033[32m"     # Success messages
+    RESET = "\033[0m"      # Reset to default
 
 
 def format_context(results: list[dict], max_sections: int = 5) -> str:
@@ -324,8 +323,22 @@ def ask_rules_question(
         messages.append({"role": "user", "content": tool_results})
 
 
-def interactive_mode(n_results: int = 5, model: str = "sonnet", rerank: bool = True, use_tools: bool = True):
-    """Run in interactive mode, answering questions until user quits."""
+def interactive_mode(
+    n_results: int = 5,
+    model: str = "sonnet",
+    rerank: bool = True,
+    use_tools: bool = True,
+    verbose: bool = False
+):
+    """Run in interactive mode, answering questions until user quits.
+
+    Args:
+        n_results: Number of relevant sections to retrieve
+        model: Model to use ('sonnet' or 'opus')
+        rerank: Whether to use cross-encoder reranking
+        use_tools: Whether to allow model to issue additional searches
+        verbose: Whether to print debug info
+    """
     print("Pathfinder 1e Rules Lawyer")
     if use_tools:
         print("(Model can issue additional searches as needed)")
@@ -348,72 +361,8 @@ def interactive_mode(n_results: int = 5, model: str = "sonnet", rerank: bool = T
         try:
             answer = ask_rules_question(
                 question, n_results=n_results, model=model,
-                rerank=rerank, use_tools=use_tools
+                rerank=rerank, use_tools=use_tools, verbose=verbose
             )
             print(f"\n{answer}\n")
         except Exception as e:
             print(f"{Colors.RED}Error: {e}{Colors.RESET}\n", file=sys.stderr)
-
-
-def main():
-    parser = argparse.ArgumentParser(
-        description="Ask questions about Pathfinder 1e rules using RAG"
-    )
-    parser.add_argument(
-        "question",
-        nargs="?",
-        help="The rules question to ask (omit for interactive mode)"
-    )
-    parser.add_argument(
-        "-n", "--results",
-        type=int,
-        default=3,
-        help="Number of relevant sections to retrieve (default: 3)"
-    )
-    parser.add_argument(
-        "--model",
-        choices=["sonnet", "opus"],
-        default="sonnet",
-        help="Claude model to use: sonnet or opus (default: sonnet)"
-    )
-    parser.add_argument(
-        "-v", "--verbose",
-        action="store_true",
-        help="Print debug information"
-    )
-    parser.add_argument(
-        "--no-rerank",
-        action="store_true",
-        help="Disable cross-encoder reranking"
-    )
-    parser.add_argument(
-        "--no-tools",
-        action="store_true",
-        help="Disable model-initiated searches (use only initial context)"
-    )
-
-    args = parser.parse_args()
-
-    if args.question:
-        # Single question mode
-        answer = ask_rules_question(
-            args.question,
-            n_results=args.results,
-            model=args.model,
-            verbose=args.verbose,
-            rerank=not args.no_rerank,
-            use_tools=not args.no_tools
-        )
-        print(answer)
-    else:
-        # Interactive mode
-        interactive_mode(
-            n_results=args.results,
-            model=args.model,
-            rerank=not args.no_rerank,
-            use_tools=not args.no_tools
-        )
-
-
-if __name__ == "__main__":
-    main()
