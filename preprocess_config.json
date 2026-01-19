@@ -90,6 +90,20 @@
       "subheading_boost": 0.0,
       "title_boost": 1.0,
       "rerank_weight": 0.1
+    },
+    "Sorcerer Bloodlines": {
+      "semantic_weight": 0.0,
+      "keyword_boost": 0.0,
+      "subheading_boost": 0.0,
+      "title_boost": 1.0,
+      "rerank_weight": 0.1
+    },
+    "Bloodrager Bloodlines": {
+      "semantic_weight": 0.0,
+      "keyword_boost": 0.0,
+      "subheading_boost": 0.0,
+      "title_boost": 1.0,
+      "rerank_weight": 0.1
     }
   },
   "entries": [
@@ -222,6 +236,24 @@
       ],
       "mode": "full",
       "category": "Core Rules"
+    },
+    {
+      "url": "https://www.d20pfsrd.com/classes/core-classes/wizard/familiar/",
+      "mode": "full",
+      "category": "Core Rules",
+      "name": "Familiars"
+    },
+    {
+      "url": "https://www.d20pfsrd.com/classes/core-classes/druid/animal-companions/",
+      "mode": "full",
+      "category": "Core Rules",
+      "name": "Animal Companions"
+    },
+    {
+      "url": "https://www.d20pfsrd.com/classes/base-classes/summoner/eidolons/",
+      "mode": "full",
+      "category": "Core Rules",
+      "name": "Eidolons"
     },
     {
       "urls": [
@@ -461,6 +493,24 @@
       "name_prefix": "Rage Power",
       "exclude": [
         "https://www.d20pfsrd.com/classes/core-classes/barbarian/rage-powers/paizo-rage-powers/"
+      ]
+    },
+    {
+      "pattern": "https://www.d20pfsrd.com/classes/core-classes/sorcerer/bloodlines/bloodlines-from-paizo/*",
+      "mode": "template",
+      "category": "Sorcerer Bloodlines",
+      "name_prefix": "Sorcerer Bloodline",
+      "exclude": [
+        "https://www.d20pfsrd.com/classes/core-classes/sorcerer/bloodlines/bloodlines-from-paizo/"
+      ]
+    },
+    {
+      "pattern": "https://www.d20pfsrd.com/classes/hybrid-classes/bloodrager/bloodrager-bloodlines/paizo-bloodrager-bloodlines/*",
+      "mode": "template",
+      "category": "Bloodrager Bloodlines",
+      "name_prefix": "Bloodrager Bloodline",
+      "exclude": [
+        "https://www.d20pfsrd.com/classes/hybrid-classes/bloodrager/bloodrager-bloodlines/paizo-bloodrager-bloodlines/"
       ]
     }
   ]
