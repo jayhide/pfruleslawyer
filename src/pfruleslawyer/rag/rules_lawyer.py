@@ -137,12 +137,34 @@ def format_score_breakdown(result: dict, indent: str = "      ") -> list[str]:
     return lines
 
 
-def print_search_results(results: list[dict], verbose: bool = False) -> None:
-    """Print search results to stderr for debugging."""
-    print(f"  {Colors.DIM}Found {len(results)} sections:{Colors.RESET}", file=sys.stderr)
+def print_search_results(results: list[dict], verbose: bool = False,
+                         seen_ids: set[str] | None = None) -> None:
+    """Print search results to stderr for debugging.
+
+    Duplicates (results in seen_ids) are shown with [DUP] marker but their
+    content is skipped to match what the LLM actually receives.
+    """
+    # Count duplicates if tracking
+    if seen_ids:
+        new_count = sum(1 for r in results if r["id"] not in seen_ids)
+        dup_count = len(results) - new_count
+        if dup_count > 0:
+            print(f"  {Colors.DIM}Found {len(results)} sections ({dup_count} duplicate, {new_count} new):{Colors.RESET}", file=sys.stderr)
+        else:
+            print(f"  {Colors.DIM}Found {len(results)} sections:{Colors.RESET}", file=sys.stderr)
+    else:
+        print(f"  {Colors.DIM}Found {len(results)} sections:{Colors.RESET}", file=sys.stderr)
+
     for r in results:
         source = r.get('source_name', r['source_file'])
-        print(f"    {Colors.YELLOW}- {r['title']}{Colors.RESET} {Colors.DIM}({source}){Colors.RESET}", file=sys.stderr)
+        is_dup = seen_ids and r["id"] in seen_ids
+        dup_marker = f" {Colors.RED}[DUP]{Colors.RESET}" if is_dup else ""
+        print(f"    {Colors.YELLOW}- {r['title']}{Colors.RESET} {Colors.DIM}({source}){Colors.RESET}{dup_marker}", file=sys.stderr)
+
+        # Skip content for duplicates - they're not sent to the LLM
+        if is_dup:
+            continue
+
         if verbose:
             # Show score breakdown
             for line in format_score_breakdown(r, indent="        "):
@@ -160,11 +182,44 @@ def print_search_results(results: list[dict], verbose: bool = False) -> None:
 
 
 def execute_search(query: str, store: RulesVectorStore, n_results: int = 5,
-                   rerank: bool = True, verbose: bool = False) -> str:
-    """Execute a search and return formatted results for tool response."""
+                   rerank: bool = True, verbose: bool = False,
+                   seen_ids: set[str] | None = None) -> tuple[str, list[str]]:
+    """Execute a search and return formatted results for tool response.
+
+    Args:
+        query: Search query string
+        store: Vector store to search
+        n_results: Number of results to retrieve
+        rerank: Whether to use cross-encoder reranking
+        verbose: Whether to print debug info
+        seen_ids: Set of chunk IDs already retrieved this session
+
+    Returns:
+        Tuple of (formatted_context, list_of_new_ids)
+    """
     results = store.query(query, n_results=n_results, rerank=rerank)
-    print_search_results(results, verbose)
-    return format_context(results, max_sections=n_results)
+
+    # Separate new vs already-seen results
+    if seen_ids:
+        new_results = [r for r in results if r["id"] not in seen_ids]
+        duplicate_count = len(results) - len(new_results)
+    else:
+        new_results = results
+        duplicate_count = 0
+
+    # Print search results with dedup status
+    print_search_results(results, verbose, seen_ids=seen_ids)
+
+    # Build response with dedup info
+    if duplicate_count > 0:
+        header = f"*{duplicate_count} of {len(results)} results already retrieved; showing {len(new_results)} new result(s)*\n\n"
+    else:
+        header = ""
+
+    new_ids = [r["id"] for r in new_results]
+    formatted = format_context(new_results, max_sections=n_results)
+
+    return header + formatted, new_ids
 
 
 def ask_rules_question(
@@ -195,6 +250,9 @@ def ask_rules_question(
     # Initial search for relevant sections
     print(f"{Colors.CYAN}[Initial search]{Colors.RESET} \"{question}\"", file=sys.stderr)
     results = store.query(question, n_results=n_results, rerank=rerank)
+
+    # Track seen chunk IDs for deduplication across tool calls
+    seen_ids = {r["id"] for r in results}
 
     # Print retrieved sections info
     print(f"{Colors.CYAN}Found {len(results)} relevant sections:{Colors.RESET}", file=sys.stderr)
@@ -277,11 +335,13 @@ def ask_rules_question(
                 tool_calls += 1
                 print(f"{Colors.CYAN}[Search {tool_calls}]{Colors.RESET} \"{query}\"", file=sys.stderr)
 
-                # Execute the search
-                search_results = execute_search(
+                # Execute the search with deduplication
+                search_results, new_ids = execute_search(
                     query, store, n_results=n_results,
-                    rerank=rerank, verbose=verbose
+                    rerank=rerank, verbose=verbose,
+                    seen_ids=seen_ids
                 )
+                seen_ids.update(new_ids)
 
                 tool_results.append({
                     "type": "tool_result",
@@ -306,6 +366,14 @@ def ask_rules_question(
                     print(f"  {Colors.YELLOW}-> {result['title']}{Colors.RESET} {Colors.DIM}({result['source_name']}){Colors.RESET}", file=sys.stderr)
                     # Format similar to search results
                     content = f"### {result['title']} (from {result['source_name']})\n\n{result['content']}"
+
+                    # Check for duplicate and track
+                    result_id = result.get("id")
+                    if result_id:
+                        if result_id in seen_ids:
+                            content = f"*This section was already retrieved*\n\n{content}"
+                        else:
+                            seen_ids.add(result_id)
 
                     # In verbose mode, print the content
                     if verbose:
