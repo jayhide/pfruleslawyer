@@ -2,8 +2,15 @@
 
 from sentence_transformers import CrossEncoder
 
-# Cross-encoder model for re-ranking
-RERANKER_MODEL = "cross-encoder/ms-marco-MiniLM-L-6-v2"
+# Available reranker models
+RERANKER_MODELS = {
+    "ms-marco": "cross-encoder/ms-marco-MiniLM-L-6-v2",
+    "bge-large": "BAAI/bge-reranker-large",
+}
+DEFAULT_RERANKER = "ms-marco"
+
+# Legacy constant for backward compatibility
+RERANKER_MODEL = RERANKER_MODELS[DEFAULT_RERANKER]
 
 # Reranking weights (must sum to 1.0)
 # Higher RERANK_WEIGHT means cross-encoder has more influence on final ranking
@@ -15,19 +22,26 @@ RETRIEVAL_WEIGHT = 0.6
 class Reranker:
     """Cross-encoder reranker for improving search result relevance."""
 
-    _instance: "Reranker | None" = None
-    _model: CrossEncoder | None = None
+    _instances: dict[str, "Reranker"] = {}
+    _model_name: str
+    _model: CrossEncoder | None
 
-    def __new__(cls) -> "Reranker":
-        """Singleton pattern to avoid loading model multiple times."""
-        if cls._instance is None:
-            cls._instance = super().__new__(cls)
-        return cls._instance
+    def __new__(cls, model: str = DEFAULT_RERANKER) -> "Reranker":
+        """Per-model singleton pattern to avoid loading models multiple times."""
+        if model not in RERANKER_MODELS:
+            raise ValueError(f"Unknown reranker model: {model}. Available: {list(RERANKER_MODELS.keys())}")
+        if model not in cls._instances:
+            instance = super().__new__(cls)
+            instance._model_name = model
+            instance._model = None
+            cls._instances[model] = instance
+        return cls._instances[model]
 
     def _ensure_model(self) -> CrossEncoder:
         """Lazy load the cross-encoder model."""
         if self._model is None:
-            self._model = CrossEncoder(RERANKER_MODEL)
+            model_id = RERANKER_MODELS[self._model_name]
+            self._model = CrossEncoder(model_id)
         return self._model
 
     @staticmethod

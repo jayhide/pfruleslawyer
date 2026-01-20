@@ -39,6 +39,12 @@ def main():
         help="Disable cross-encoder reranking"
     )
     parser.add_argument(
+        "--reranker",
+        choices=["ms-marco", "bge-large"],
+        default="ms-marco",
+        help="Cross-encoder model for reranking (default: ms-marco)"
+    )
+    parser.add_argument(
         "--no-tools",
         action="store_true",
         help="Disable model-initiated searches (use only initial context)"
@@ -55,7 +61,8 @@ def main():
                 model=args.model,
                 verbose=args.verbose,
                 rerank=not args.no_rerank,
-                use_tools=not args.no_tools
+                use_tools=not args.no_tools,
+                reranker_model=args.reranker
             )
             print(answer)
         else:
@@ -65,7 +72,8 @@ def main():
                 model=args.model,
                 rerank=not args.no_rerank,
                 use_tools=not args.no_tools,
-                verbose=args.verbose
+                verbose=args.verbose,
+                reranker_model=args.reranker
             )
     except KeyboardInterrupt:
         print(f"\n{Colors.DIM}Interrupted{Colors.RESET}", file=sys.stderr)

@@ -14,6 +14,12 @@ def main():
     parser.add_argument("--query", "-q", type=str, help="Query to search for")
     parser.add_argument("--results", "-n", type=int, default=5, help="Number of results")
     parser.add_argument("--no-rerank", action="store_true", help="Disable cross-encoder reranking")
+    parser.add_argument(
+        "--reranker",
+        choices=["ms-marco", "bge-large"],
+        default="ms-marco",
+        help="Cross-encoder model for reranking (default: ms-marco)"
+    )
 
     args = parser.parse_args()
 
@@ -24,7 +30,7 @@ def main():
     if args.query:
         store = RulesVectorStore()
         rerank = not args.no_rerank
-        results = store.query(args.query, n_results=args.results, rerank=rerank)
+        results = store.query(args.query, n_results=args.results, rerank=rerank, reranker_model=args.reranker)
 
         print(f"Query: {args.query}")
         print(f"Found {len(results)} results (rerank={'on' if rerank else 'off'}):\n")

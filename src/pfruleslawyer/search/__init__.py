@@ -1,7 +1,14 @@
 """Search module for vector-based rules retrieval."""
 
 from .lemmatizer import Lemmatizer, SPACY_MODEL
-from .reranker import Reranker, RERANKER_MODEL, RERANK_WEIGHT, RETRIEVAL_WEIGHT
+from .reranker import (
+    Reranker,
+    RERANKER_MODEL,
+    RERANKER_MODELS,
+    DEFAULT_RERANKER,
+    RERANK_WEIGHT,
+    RETRIEVAL_WEIGHT,
+)
 from .vector_store import RulesVectorStore
 
 __all__ = [
@@ -11,6 +18,8 @@ __all__ = [
     # Reranker
     "Reranker",
     "RERANKER_MODEL",
+    "RERANKER_MODELS",
+    "DEFAULT_RERANKER",
     "RERANK_WEIGHT",
     "RETRIEVAL_WEIGHT",
     # Vector store

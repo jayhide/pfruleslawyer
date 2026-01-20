@@ -161,15 +161,16 @@ def print_search_results(results: list[dict], verbose: bool = False,
         dup_marker = f" {Colors.RED}[DUP]{Colors.RESET}" if is_dup else ""
         print(f"    {Colors.YELLOW}- {r['title']}{Colors.RESET} {Colors.DIM}({source}){Colors.RESET}{dup_marker}", file=sys.stderr)
 
+        if verbose:
+            # Show score breakdown (even for duplicates)
+            for line in format_score_breakdown(r, indent="        "):
+                print(line, file=sys.stderr)
+
         # Skip content for duplicates - they're not sent to the LLM
         if is_dup:
             continue
 
         if verbose:
-            # Show score breakdown
-            for line in format_score_breakdown(r, indent="        "):
-                print(line, file=sys.stderr)
-
             # Show content
             content = r.get("content", "")
             # Strip the metadata header if present
@@ -183,7 +184,8 @@ def print_search_results(results: list[dict], verbose: bool = False,
 
 def execute_search(query: str, store: RulesVectorStore, n_results: int = 5,
                    rerank: bool = True, verbose: bool = False,
-                   seen_ids: set[str] | None = None) -> tuple[str, list[str]]:
+                   seen_ids: set[str] | None = None,
+                   reranker_model: str | None = None) -> tuple[str, list[str]]:
     """Execute a search and return formatted results for tool response.
 
     Args:
@@ -193,11 +195,12 @@ def execute_search(query: str, store: RulesVectorStore, n_results: int = 5,
         rerank: Whether to use cross-encoder reranking
         verbose: Whether to print debug info
         seen_ids: Set of chunk IDs already retrieved this session
+        reranker_model: Reranker model to use (default: ms-marco)
 
     Returns:
         Tuple of (formatted_context, list_of_new_ids)
     """
-    results = store.query(query, n_results=n_results, rerank=rerank)
+    results = store.query(query, n_results=n_results, rerank=rerank, reranker_model=reranker_model)
 
     # Separate new vs already-seen results
     if seen_ids:
@@ -228,7 +231,8 @@ def ask_rules_question(
     model: str = "sonnet",
     verbose: bool = False,
     rerank: bool = True,
-    use_tools: bool = True
+    use_tools: bool = True,
+    reranker_model: str | None = None
 ) -> str:
     """Ask a question about Pathfinder rules using RAG.
 
@@ -239,6 +243,7 @@ def ask_rules_question(
         verbose: Whether to print debug info
         rerank: Whether to use cross-encoder reranking
         use_tools: Whether to allow model to issue additional searches
+        reranker_model: Reranker model to use (default: ms-marco)
 
     Returns:
         The answer from Claude
@@ -249,7 +254,7 @@ def ask_rules_question(
 
     # Initial search for relevant sections
     print(f"{Colors.CYAN}[Initial search]{Colors.RESET} \"{question}\"", file=sys.stderr)
-    results = store.query(question, n_results=n_results, rerank=rerank)
+    results = store.query(question, n_results=n_results, rerank=rerank, reranker_model=reranker_model)
 
     # Track seen chunk IDs for deduplication across tool calls
     seen_ids = {r["id"] for r in results}
@@ -339,7 +344,7 @@ def ask_rules_question(
                 search_results, new_ids = execute_search(
                     query, store, n_results=n_results,
                     rerank=rerank, verbose=verbose,
-                    seen_ids=seen_ids
+                    seen_ids=seen_ids, reranker_model=reranker_model
                 )
                 seen_ids.update(new_ids)
 
@@ -396,7 +401,8 @@ def interactive_mode(
     model: str = "sonnet",
     rerank: bool = True,
     use_tools: bool = True,
-    verbose: bool = False
+    verbose: bool = False,
+    reranker_model: str | None = None
 ):
     """Run in interactive mode, answering questions until user quits.
 
@@ -406,6 +412,7 @@ def interactive_mode(
         rerank: Whether to use cross-encoder reranking
         use_tools: Whether to allow model to issue additional searches
         verbose: Whether to print debug info
+        reranker_model: Reranker model to use (default: ms-marco)
     """
     print("Pathfinder 1e Rules Lawyer")
     if use_tools:
@@ -429,7 +436,8 @@ def interactive_mode(
         try:
             answer = ask_rules_question(
                 question, n_results=n_results, model=model,
-                rerank=rerank, use_tools=use_tools, verbose=verbose
+                rerank=rerank, use_tools=use_tools, verbose=verbose,
+                reranker_model=reranker_model
             )
             print(f"\n{answer}\n")
         except Exception as e:

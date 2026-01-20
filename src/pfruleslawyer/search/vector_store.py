@@ -10,7 +10,7 @@ from chromadb.utils import embedding_functions
 from pfruleslawyer.core import Section
 from pfruleslawyer.extraction import SectionExtractor
 from .lemmatizer import Lemmatizer
-from .reranker import Reranker, RERANK_WEIGHT
+from .reranker import Reranker, RERANK_WEIGHT, DEFAULT_RERANKER
 
 # Default embedding model for ChromaDB's default function
 DEFAULT_MODEL = "all-MiniLM-L6-v2"
@@ -667,7 +667,8 @@ Keywords: {keywords_str}
         query_text: str,
         n_results: int = 5,
         include_content: bool = True,
-        rerank: bool = True
+        rerank: bool = True,
+        reranker_model: str | None = None
     ) -> list[dict]:
         """Query the vector store for relevant sections.
 
@@ -679,6 +680,7 @@ Keywords: {keywords_str}
             n_results: Maximum number of results to return
             include_content: Whether to include full content in results
             rerank: Whether to use cross-encoder reranking (default True)
+            reranker_model: Reranker model to use (default: ms-marco)
 
         Returns:
             List of result dicts with id, title, description, score, and optionally content.
@@ -844,7 +846,7 @@ Keywords: {keywords_str}
 
         # Apply cross-encoder reranking if requested
         if rerank and candidates:
-            reranker = Reranker()
+            reranker = Reranker(reranker_model or DEFAULT_RERANKER)
 
             # Create weight getter for category-specific rerank weights
             def get_rerank_weight(category: str) -> float:
