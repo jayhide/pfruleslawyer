@@ -18,7 +18,10 @@ dependencies = [
     "spacy (>=3.7.0,<4.0.0)",
     "nltk (>=3.8.0,<4.0.0)",
     "posthog (>=2.4.0,<6.0.0)",
-    "markdownify (>=1.2.2,<2.0.0)"
+    "markdownify (>=1.2.2,<2.0.0)",
+    "fastapi (>=0.115.0,<1.0.0)",
+    "uvicorn[standard] (>=0.34.0,<1.0.0)",
+    "sse-starlette (>=2.0.0,<3.0.0)"
 ]
 
 
@@ -34,6 +37,7 @@ pfrules = "cli.ask:main"
 pfrules-preprocess = "cli.preprocess:main"
 pfrules-vectordb = "cli.vectordb:main"
 pfrules-db = "cli.db:main"
+pfrules-server = "cli.server:main"
 
 [tool.poetry.group.dev.dependencies]
 pytest = "^9.0.2"
