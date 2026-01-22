@@ -186,7 +186,7 @@ def print_search_results(results: list[dict], verbose: bool = False,
 def execute_search(query: str, store: RulesVectorStore, n_results: int = 5,
                    rerank: bool = True, verbose: bool = False,
                    seen_ids: set[str] | None = None,
-                   reranker_model: str | None = None) -> tuple[str, list[str]]:
+                   reranker_model: str | None = None) -> tuple[str, list[str], list[dict]]:
     """Execute a search and return formatted results for tool response.
 
     Args:
@@ -199,7 +199,7 @@ def execute_search(query: str, store: RulesVectorStore, n_results: int = 5,
         reranker_model: Reranker model to use (default: ms-marco)
 
     Returns:
-        Tuple of (formatted_context, list_of_new_ids)
+        Tuple of (formatted_context, list_of_new_ids, list_of_new_results)
     """
     results = store.query(query, n_results=n_results, rerank=rerank, reranker_model=reranker_model)
 
@@ -223,7 +223,7 @@ def execute_search(query: str, store: RulesVectorStore, n_results: int = 5,
     new_ids = [r["id"] for r in new_results]
     formatted = format_context(new_results, max_sections=n_results)
 
-    return header + formatted, new_ids
+    return header + formatted, new_ids, new_results
 
 
 def ask_rules_question(
@@ -361,7 +361,7 @@ def ask_rules_question(
 
                 # Execute the search with deduplication
                 with optional_timing(ctx, f"Tool: search_rules"):
-                    search_results, new_ids = execute_search(
+                    search_results, new_ids, _ = execute_search(
                         query, store, n_results=n_results,
                         rerank=rerank, verbose=verbose,
                         seen_ids=seen_ids, reranker_model=reranker_model

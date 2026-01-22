@@ -4,3 +4,4 @@ export { ChatContainer } from './ChatContainer';
 export { QueryInput } from './QueryInput';
 export { UserMessage } from './UserMessage';
 export { AssistantMessage } from './AssistantMessage';
+export { SourcesList } from './SourcesList';

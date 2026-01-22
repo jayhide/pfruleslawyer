@@ -38,7 +38,7 @@ class TestExecuteSearchDeduplication:
         ]
 
         with patch("pfruleslawyer.rag.rules_lawyer.print_search_results"):
-            result, new_ids = execute_search("test query", mock_store, seen_ids=None)
+            result, new_ids, _ = execute_search("test query", mock_store, seen_ids=None)
 
         assert "section1" not in result or "Section 1" in result  # Content included
         assert "Section 2" in result
@@ -56,7 +56,7 @@ class TestExecuteSearchDeduplication:
         ]
 
         with patch("pfruleslawyer.rag.rules_lawyer.print_search_results"):
-            result, new_ids = execute_search("test query", mock_store, seen_ids=set())
+            result, new_ids, _ = execute_search("test query", mock_store, seen_ids=set())
 
         assert "already retrieved" not in result
         assert len(new_ids) == 2
@@ -73,7 +73,7 @@ class TestExecuteSearchDeduplication:
         seen_ids = {"test.md::section1", "test.md::section3"}
 
         with patch("pfruleslawyer.rag.rules_lawyer.print_search_results"):
-            result, new_ids = execute_search("test query", mock_store, seen_ids=seen_ids)
+            result, new_ids, _ = execute_search("test query", mock_store, seen_ids=seen_ids)
 
         # Only section2 should be in the formatted result
         assert "Section 2" in result
@@ -94,7 +94,7 @@ class TestExecuteSearchDeduplication:
         seen_ids = {"test.md::section1", "test.md::section3"}
 
         with patch("pfruleslawyer.rag.rules_lawyer.print_search_results"):
-            result, new_ids = execute_search("test query", mock_store, seen_ids=seen_ids)
+            result, new_ids, _ = execute_search("test query", mock_store, seen_ids=seen_ids)
 
         assert "2 of 3 results already retrieved" in result
         assert "showing 1 new result" in result
@@ -110,7 +110,7 @@ class TestExecuteSearchDeduplication:
         seen_ids = {"test.md::other_section"}
 
         with patch("pfruleslawyer.rag.rules_lawyer.print_search_results"):
-            result, new_ids = execute_search("test query", mock_store, seen_ids=seen_ids)
+            result, new_ids, _ = execute_search("test query", mock_store, seen_ids=seen_ids)
 
         assert "already retrieved" not in result
         assert len(new_ids) == 2
@@ -126,7 +126,7 @@ class TestExecuteSearchDeduplication:
         seen_ids = {"test.md::section1", "test.md::section2"}
 
         with patch("pfruleslawyer.rag.rules_lawyer.print_search_results"):
-            result, new_ids = execute_search("test query", mock_store, seen_ids=seen_ids)
+            result, new_ids, _ = execute_search("test query", mock_store, seen_ids=seen_ids)
 
         assert "2 of 2 results already retrieved" in result
         assert "showing 0 new result" in result
@@ -145,7 +145,7 @@ class TestExecuteSearchDeduplication:
         seen_ids = {"test.md::a", "test.md::c"}
 
         with patch("pfruleslawyer.rag.rules_lawyer.print_search_results"):
-            result, new_ids = execute_search("test query", mock_store, seen_ids=seen_ids)
+            result, new_ids, _ = execute_search("test query", mock_store, seen_ids=seen_ids)
 
         assert set(new_ids) == {"test.md::b", "test.md::d"}
 

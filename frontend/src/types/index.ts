@@ -44,6 +44,13 @@ export interface StatsResponse {
   index_loaded: boolean;
 }
 
+// Source info for d20pfsrd.com links
+export interface SourceInfo {
+  url: string;
+  name: string;
+  title: string;
+}
+
 // SSE event types
 export interface TextEventData {
   content: string;
@@ -59,6 +66,12 @@ export interface ToolResultData {
   tool: 'search_rules' | 'follow_link';
   sections_found?: number; // for search_rules
   found?: boolean; // for follow_link
+  sources?: SourceInfo[]; // for search_rules
+  source?: SourceInfo; // for follow_link
+}
+
+export interface SourcesEventData {
+  sources: SourceInfo[];
 }
 
 export interface ErrorData {
@@ -73,12 +86,13 @@ export interface TurnCompleteData {
   is_final: boolean;
 }
 
-export type SSEEventType = 'text' | 'tool_call' | 'tool_result' | 'turn_complete' | 'error' | 'done';
+export type SSEEventType = 'text' | 'tool_call' | 'tool_result' | 'sources' | 'turn_complete' | 'error' | 'done';
 
 export type SSEEvent =
   | { event: 'text'; data: TextEventData }
   | { event: 'tool_call'; data: ToolCallData }
   | { event: 'tool_result'; data: ToolResultData }
+  | { event: 'sources'; data: SourcesEventData }
   | { event: 'turn_complete'; data: TurnCompleteData }
   | { event: 'error'; data: ErrorData }
   | { event: 'done'; data: DoneData };
@@ -91,6 +105,7 @@ export interface Message {
   timestamp: Date;
   toolCalls?: ToolCallData[];
   reasoning?: string; // AI's reasoning text before tool calls
+  sources?: SourceInfo[]; // Source URLs for referenced content
   isStreaming?: boolean;
 }
 
@@ -100,6 +115,7 @@ export interface ChatState {
   currentTurnText: string; // Text from current agentic turn
   accumulatedReasoning: string; // Reasoning from previous turns
   currentToolCalls: ToolCallData[];
+  currentSources: SourceInfo[]; // Sources accumulated during streaming
   error: string | null;
 }
 
@@ -109,5 +125,6 @@ export const initialChatState: ChatState = {
   currentTurnText: '',
   accumulatedReasoning: '',
   currentToolCalls: [],
+  currentSources: [],
   error: null,
 };

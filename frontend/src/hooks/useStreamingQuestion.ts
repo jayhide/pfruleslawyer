@@ -1,5 +1,5 @@
 import { useReducer, useCallback, useRef } from 'react';
-import type { ChatState, Settings, Message, ToolCallData } from '../types';
+import type { ChatState, Settings, Message, ToolCallData, SourceInfo } from '../types';
 import { initialChatState } from '../types';
 import { streamQuestion } from '../services/api';
 
@@ -7,6 +7,7 @@ type ChatAction =
   | { type: 'START_STREAMING'; question: string }
   | { type: 'APPEND_TEXT'; text: string }
   | { type: 'ADD_TOOL_CALL'; toolCall: ToolCallData }
+  | { type: 'ADD_SOURCES'; sources: SourceInfo[] }
   | { type: 'TURN_COMPLETE'; isFinal: boolean }
   | { type: 'SET_ERROR'; error: string }
   | { type: 'COMPLETE_STREAMING' }
@@ -33,6 +34,7 @@ function chatReducer(state: ChatState, action: ChatAction): ChatState {
         currentTurnText: '',
         accumulatedReasoning: '',
         currentToolCalls: [],
+        currentSources: [],
         error: null,
       };
     }
@@ -48,6 +50,16 @@ function chatReducer(state: ChatState, action: ChatAction): ChatState {
         ...state,
         currentToolCalls: [...state.currentToolCalls, action.toolCall],
       };
+
+    case 'ADD_SOURCES': {
+      // Deduplicate sources by URL
+      const existingUrls = new Set(state.currentSources.map(s => s.url));
+      const newSources = action.sources.filter(s => !existingUrls.has(s.url));
+      return {
+        ...state,
+        currentSources: [...state.currentSources, ...newSources],
+      };
+    }
 
     case 'TURN_COMPLETE': {
       if (action.isFinal) {
@@ -85,6 +97,10 @@ function chatReducer(state: ChatState, action: ChatAction): ChatState {
             ? state.currentToolCalls
             : undefined,
         reasoning: state.accumulatedReasoning || undefined,
+        sources:
+          state.currentSources.length > 0
+            ? state.currentSources
+            : undefined,
       };
       return {
         ...state,
@@ -93,6 +109,7 @@ function chatReducer(state: ChatState, action: ChatAction): ChatState {
         currentTurnText: '',
         accumulatedReasoning: '',
         currentToolCalls: [],
+        currentSources: [],
       };
     }
 
@@ -118,12 +135,17 @@ function chatReducer(state: ChatState, action: ChatAction): ChatState {
                 state.currentToolCalls.length > 0
                   ? state.currentToolCalls
                   : undefined,
+              sources:
+                state.currentSources.length > 0
+                  ? state.currentSources
+                  : undefined,
             },
           ],
         }),
         currentTurnText: '',
         accumulatedReasoning: '',
         currentToolCalls: [],
+        currentSources: [],
       };
     }
 
@@ -165,8 +187,15 @@ export function useStreamingQuestion() {
               dispatch({ type: 'ADD_TOOL_CALL', toolCall: event.data });
               break;
             case 'tool_result':
-              // Tool results are informational - we could show them in UI
-              // For now, we just track the tool calls
+              // Extract sources from tool results
+              if (event.data.sources) {
+                dispatch({ type: 'ADD_SOURCES', sources: event.data.sources });
+              } else if (event.data.source) {
+                dispatch({ type: 'ADD_SOURCES', sources: [event.data.source] });
+              }
+              break;
+            case 'sources':
+              dispatch({ type: 'ADD_SOURCES', sources: event.data.sources });
               break;
             case 'turn_complete':
               dispatch({ type: 'TURN_COMPLETE', isFinal: event.data.is_final });

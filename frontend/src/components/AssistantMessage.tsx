@@ -1,12 +1,14 @@
 import { useState } from 'react';
 import ReactMarkdown from 'react-markdown';
 import remarkGfm from 'remark-gfm';
-import type { ToolCallData } from '../types';
+import type { ToolCallData, SourceInfo } from '../types';
+import { SourcesList } from './SourcesList';
 
 interface AssistantMessageProps {
   content: string;
   toolCalls?: ToolCallData[];
   reasoning?: string;
+  sources?: SourceInfo[];
   showReasoning?: boolean;
   isStreaming?: boolean;
   isPending?: boolean; // Show with muted styling during streaming
@@ -61,6 +63,7 @@ export function AssistantMessage({
   content,
   toolCalls,
   reasoning,
+  sources,
   showReasoning,
   isStreaming,
   isPending,
@@ -114,6 +117,11 @@ export function AssistantMessage({
         {/* Streaming indicator */}
         {isStreaming && (
           <span className="inline-block w-2 h-4 bg-primary-600 animate-pulse ml-1" />
+        )}
+
+        {/* Sources list (only show when not streaming) */}
+        {!isStreaming && sources && sources.length > 0 && (
+          <SourcesList sources={sources} />
         )}
       </div>
     </div>

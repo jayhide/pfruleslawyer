@@ -61,6 +61,7 @@ export function ChatContainer({ state, showReasoning }: ChatContainerProps) {
                 content={message.content}
                 toolCalls={message.toolCalls}
                 reasoning={message.reasoning}
+                sources={message.sources}
                 showReasoning={showReasoning}
               />
             )

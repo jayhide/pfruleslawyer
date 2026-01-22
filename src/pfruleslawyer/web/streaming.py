@@ -156,6 +156,13 @@ async def stream_rules_question(
 
     seen_ids = {r["id"] for r in results}
 
+    # Emit sources event for initial search results
+    initial_sources = [
+        {"url": r["source_file"], "name": r.get("source_name", r["source_file"]), "title": r["title"]}
+        for r in results
+    ]
+    yield {"event": "sources", "data": {"sources": initial_sources}}
+
     # Log initial search results
     log_initial_search(question, results, verbose=verbose)
 
@@ -282,7 +289,7 @@ async def stream_rules_question(
                 # Execute the search (sync, run in executor)
                 # Note: execute_search already prints results via print_search_results
                 tool_start = time.perf_counter()
-                search_results, new_ids = await loop.run_in_executor(
+                search_results, new_ids, new_results = await loop.run_in_executor(
                     None,
                     lambda q=query: execute_search(
                         q,
@@ -300,9 +307,14 @@ async def stream_rules_question(
                     yield {"event": "timing", "data": {"operation": "tool_search_rules", "duration_ms": round(duration_ms)}}
                 seen_ids.update(new_ids)
 
+                # Extract source info from new results
+                sources = [
+                    {"url": r["source_file"], "name": r.get("source_name", r["source_file"]), "title": r["title"]}
+                    for r in new_results
+                ]
                 yield {
                     "event": "tool_result",
-                    "data": {"tool": "search_rules", "sections_found": len(new_ids)},
+                    "data": {"tool": "search_rules", "sections_found": len(new_ids), "sources": sources},
                 }
 
                 tool_results.append(
@@ -357,7 +369,11 @@ async def stream_rules_question(
 
                     yield {
                         "event": "tool_result",
-                        "data": {"tool": "follow_link", "found": True},
+                        "data": {
+                            "tool": "follow_link",
+                            "found": True,
+                            "source": {"url": url, "name": result["source_name"], "title": result["title"]},
+                        },
                     }
 
                 tool_results.append(
