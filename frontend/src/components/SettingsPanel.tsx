@@ -184,15 +184,16 @@ export function SettingsPanel({
                     'reranker_model',
                     e.target.value === ''
                       ? null
-                      : (e.target.value as 'ms-marco' | 'bge-large')
+                      : (e.target.value as 'ms-marco' | 'bge-large' | 'llm-haiku')
                   )
                 }
                 disabled={!settings.rerank}
                 className="w-full px-3 py-2 text-sm border border-gray-300 rounded-lg focus:outline-none focus:ring-2 focus:ring-primary-500 focus:border-transparent disabled:bg-gray-100 disabled:text-gray-500"
               >
                 <option value="">Auto (default)</option>
-                <option value="ms-marco">MS-MARCO</option>
-                <option value="bge-large">BGE-Large</option>
+                <option value="ms-marco">MS-MARCO (fast)</option>
+                <option value="bge-large">BGE-Large (better)</option>
+                <option value="llm-haiku">LLM Haiku (experimental)</option>
               </select>
             </div>
 

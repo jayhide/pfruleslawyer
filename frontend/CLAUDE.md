@@ -87,7 +87,7 @@ Settings are persisted to localStorage under the key `pf-rules-settings`:
 - **n_results**: 1-20 (default: 7)
 - **rerank**: boolean (default: true)
 - **use_tools**: boolean (default: true)
-- **reranker_model**: "ms-marco" | "bge-large" | null (default: null)
+- **reranker_model**: "ms-marco" | "bge-large" | "llm-haiku" | null (default: null)
 
 ## Component Details
 

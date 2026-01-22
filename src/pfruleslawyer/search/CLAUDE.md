@@ -30,8 +30,16 @@ Hybrid spaCy + Porter stemmer for word normalization.
 - Handles both common English and domain-specific terms (e.g., "polymorph")
 
 ### Reranker
-Cross-encoder model (`ms-marco-MiniLM-L-6-v2`) for reranking search results.
-- Combines retrieval score with cross-encoder relevance
+Reranking models for improving search result relevance.
+
+Available models:
+- `ms-marco` (default): Fast cross-encoder (`cross-encoder/ms-marco-MiniLM-L-6-v2`), ~50-200ms
+- `bge-large`: Higher quality cross-encoder (`BAAI/bge-reranker-large`), ~100-400ms
+- `llm-haiku`: LLM-based reranker using Claude 3.5 Haiku, ~200-500ms
+
+The LLM reranker evaluates passage relevance on a 1-5 scale, which is normalized to 0-1 for compatibility with the weighted scoring system. On API errors or parse failures, it falls back to neutral scores (3).
+
+All rerankers combine their relevance score with the retrieval score using configurable weights (default: 40% rerank, 60% retrieval).
 
 ## Index Types
 

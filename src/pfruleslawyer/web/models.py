@@ -21,7 +21,7 @@ class AskRequest(BaseModel):
     use_tools: bool = Field(
         default=True, description="Whether to allow follow-up searches"
     )
-    reranker_model: Literal["ms-marco", "bge-large"] | None = Field(
+    reranker_model: Literal["ms-marco", "bge-large", "llm-haiku"] | None = Field(
         default=None, description="Reranker model (default: ms-marco)"
     )
     verbose: bool = Field(

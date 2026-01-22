@@ -4,7 +4,7 @@ export interface Settings {
   n_results: number; // 1-20, default 7
   rerank: boolean; // default true
   use_tools: boolean; // default true
-  reranker_model: 'ms-marco' | 'bge-large' | null; // default null
+  reranker_model: 'ms-marco' | 'bge-large' | 'llm-haiku' | null; // default null
   verbose: boolean; // default false - enables server-side debug logging
 }
 
@@ -24,7 +24,7 @@ export interface AskRequest {
   model?: 'sonnet' | 'opus';
   rerank?: boolean;
   use_tools?: boolean;
-  reranker_model?: 'ms-marco' | 'bge-large' | null;
+  reranker_model?: 'ms-marco' | 'bge-large' | 'llm-haiku' | null;
 }
 
 export interface AskResponse {

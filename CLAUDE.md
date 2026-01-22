@@ -77,8 +77,13 @@ pfruleslawyer/
 
 ## Installation
 
+**Prerequisites:**
+- Python 3.10+
+- Poetry
+- Node.js 18+ (for frontend only)
+
 ```bash
-# Install the package in development mode
+# Install Python dependencies
 poetry install
 
 # Install spaCy language model
