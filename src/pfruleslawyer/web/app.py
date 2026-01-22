@@ -11,6 +11,7 @@ from sse_starlette.sse import EventSourceResponse
 
 from pfruleslawyer.rag import ask_rules_question
 from pfruleslawyer.search import RulesVectorStore
+from pfruleslawyer.search.lemmatizer import Lemmatizer
 from pfruleslawyer.web.models import (
     AskRequest,
     AskResponse,
@@ -32,6 +33,9 @@ async def lifespan(app: FastAPI):
     global _store
     # Initialize vector store on startup
     _store = RulesVectorStore()
+    # Warm up lemmatizer and indices to avoid first-query latency
+    Lemmatizer().warmup()
+    _store._load_keyword_index()
     yield
     # Cleanup on shutdown
     _store = None

@@ -38,6 +38,15 @@ class Lemmatizer:
             self._stemmer = PorterStemmer()
         return self._stemmer
 
+    def warmup(self) -> None:
+        """Eagerly load models to avoid first-query latency.
+
+        Call this at application startup to pre-load the spaCy model
+        and Porter stemmer, which would otherwise load lazily on first use.
+        """
+        self._ensure_model()
+        self._ensure_stemmer()
+
     def _normalize_word(self, token: spacy.tokens.Token) -> str:
         """Normalize a single token using lemmatization + stemming.
 

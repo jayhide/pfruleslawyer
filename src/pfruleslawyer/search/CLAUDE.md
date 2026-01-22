@@ -28,6 +28,7 @@ Features:
 ### Lemmatizer
 Hybrid spaCy + Porter stemmer for word normalization.
 - Handles both common English and domain-specific terms (e.g., "polymorph")
+- `warmup()` method eagerly loads spaCy model to avoid first-query latency
 
 ### Reranker
 Reranking models for improving search result relevance.
@@ -46,6 +47,28 @@ All rerankers combine their relevance score with the retrieval score using confi
 Sections are split into two storage types based on category weights:
 - **Semantic sections**: Embedded in ChromaDB (categories with `semantic_weight > 0`)
 - **Metadata-only sections**: Stored in JSON for title matching only (spells, archetypes)
+
+## Precomputed Lemmatized Indices
+
+During `--build`, lemmatized indices are precomputed and saved to `data/vectordb/lemmatized_indices.json`. This eliminates the 600-1400ms latency that would otherwise occur on first query when indices are built dynamically.
+
+**File format** (`lemmatized_indices.json`):
+```json
+{
+  "version": 1,
+  "keyword_index": {"<lemmatized_keyword>": ["<unique_id>", ...]},
+  "title_index": {"<lemmatized_title>": ["<unique_id>", ...]},
+  "subheading_index": {"<lemmatized_subheading>": ["<unique_id>", ...]},
+  "section_metadata": {"<unique_id>": {...}},
+  "url_index": {"<normalized_url>": ["<unique_id>", ...]},
+  "heading_to_section": {"<url>": {"<heading>": "<unique_id>"}},
+  "anchor_id_index": {"<url>": {"<anchor_id>": "<unique_id>"}}
+}
+```
+
+**Server warmup**: The web server (`app.py`) eagerly loads the lemmatizer and keyword indices at startup, so even the first request has minimal latency.
+
+**Backward compatibility**: If `lemmatized_indices.json` is missing (e.g., old builds), indices are built dynamically on first query. A version mismatch prints a warning and also triggers dynamic rebuild.
 
 ## Title Disambiguation
 

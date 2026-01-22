@@ -25,6 +25,10 @@ DEFAULT_PERSIST_DIR = Path(__file__).parent.parent.parent.parent / "data" / "vec
 DEFAULT_MANIFESTS_DIR = Path(__file__).parent.parent.parent.parent / "data" / "manifests"
 DEFAULT_CONFIG_PATH = Path(__file__).parent.parent.parent.parent / "config" / "preprocess_config.json"
 
+# Precomputed lemmatized indices
+LEMMATIZED_INDICES_FILENAME = "lemmatized_indices.json"
+LEMMATIZED_INDICES_VERSION = 1
+
 
 def strip_markdown_links(text: str) -> str:
     """Strip markdown links from text, keeping only the link text.
@@ -180,6 +184,9 @@ class RulesVectorStore:
         self._metadata_only_sections: dict[str, dict] | None = None
         self._metadata_only_path = self.persist_dir / "metadata_only.json"
 
+        # Path to precomputed lemmatized indices
+        self._lemmatized_indices_path = self.persist_dir / LEMMATIZED_INDICES_FILENAME
+
     def _load_category_weights(self) -> None:
         """Load category weights from config file.
 
@@ -253,13 +260,73 @@ class RulesVectorStore:
                 pass  # Start with empty dict if file is invalid
 
     def _load_keyword_index(self) -> None:
-        """Load keyword and subheading indices from manifests.
+        """Load keyword and subheading indices.
 
-        Uses lemmatization to normalize words, so "polymorphed" matches "polymorph".
+        Tries to load precomputed indices from disk first. If not available
+        or version mismatches, falls back to building indices dynamically
+        from manifests using lemmatization.
         """
         if self._keyword_index is not None:
             return
 
+        # Try loading precomputed indices first
+        if self._load_precomputed_indices():
+            return
+
+        # Fall back to building dynamically (slow path)
+        self._build_lemmatized_indices()
+
+    def _load_precomputed_indices(self) -> bool:
+        """Try to load precomputed lemmatized indices from disk.
+
+        Returns:
+            True if successfully loaded, False if file missing or version mismatch.
+        """
+        if not self._lemmatized_indices_path.exists():
+            return False
+
+        try:
+            with open(self._lemmatized_indices_path, encoding="utf-8") as f:
+                data = json.load(f)
+
+            # Check version
+            if data.get("version") != LEMMATIZED_INDICES_VERSION:
+                import sys
+                print(
+                    f"Warning: lemmatized_indices.json version mismatch "
+                    f"(got {data.get('version')}, expected {LEMMATIZED_INDICES_VERSION}). "
+                    f"Rebuilding indices dynamically.",
+                    file=sys.stderr
+                )
+                return False
+
+            # Load all indices from file
+            self._keyword_index = data.get("keyword_index", {})
+            self._title_index = data.get("title_index", {})
+            self._subheading_index = data.get("subheading_index", {})
+            self._section_metadata = data.get("section_metadata", {})
+            self._url_index = data.get("url_index", {})
+            self._heading_to_section = data.get("heading_to_section", {})
+            self._anchor_id_index = data.get("anchor_id_index", {})
+
+            return True
+
+        except (json.JSONDecodeError, IOError) as e:
+            import sys
+            print(
+                f"Warning: Failed to load lemmatized_indices.json: {e}. "
+                f"Rebuilding indices dynamically.",
+                file=sys.stderr
+            )
+            return False
+
+    def _build_lemmatized_indices(self) -> None:
+        """Build lemmatized indices from manifests.
+
+        This is the slow path that lemmatizes all keywords, titles, and
+        subheadings. Called during --build or as fallback when precomputed
+        indices are not available.
+        """
         self._keyword_index = {}  # lemmatized keyword -> list of section unique_ids
         self._subheading_index = {}  # lemmatized subheading -> list of section unique_ids
         self._title_index = {}  # lemmatized title/anchor_heading -> list of section unique_ids
@@ -365,6 +432,25 @@ class RulesVectorStore:
                             if heading_lemma not in self._subheading_index:
                                 self._subheading_index[heading_lemma] = []
                             self._subheading_index[heading_lemma].append(unique_id)
+
+    def _save_lemmatized_indices(self) -> None:
+        """Persist precomputed lemmatized indices to disk.
+
+        Called after index_sections() to save indices for fast loading.
+        """
+        data = {
+            "version": LEMMATIZED_INDICES_VERSION,
+            "keyword_index": self._keyword_index,
+            "title_index": self._title_index,
+            "subheading_index": self._subheading_index,
+            "section_metadata": self._section_metadata,
+            "url_index": self._url_index,
+            "heading_to_section": self._heading_to_section,
+            "anchor_id_index": self._anchor_id_index,
+        }
+
+        with open(self._lemmatized_indices_path, "w", encoding="utf-8") as f:
+            json.dump(data, f)
 
     @staticmethod
     def _fallback_source_name(source_path: str) -> str:
@@ -678,6 +764,12 @@ Keywords: {keywords_str}
         # Persist metadata-only sections to disk
         with open(self._metadata_only_path, "w", encoding="utf-8") as f:
             json.dump(self._metadata_only_sections, f)
+
+        # Build and persist lemmatized indices for fast loading at query time
+        print("Building lemmatized indices...")
+        self._build_lemmatized_indices()
+        self._save_lemmatized_indices()
+        print(f"Saved lemmatized indices to {self._lemmatized_indices_path}")
 
         return len(sections)
 
