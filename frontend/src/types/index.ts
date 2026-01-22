@@ -6,6 +6,7 @@ export interface Settings {
   use_tools: boolean; // default true
   reranker_model: 'ms-marco' | 'bge-large' | 'llm-haiku' | null; // default null
   verbose: boolean; // default false - enables server-side debug logging
+  show_reasoning: boolean; // default false - show AI reasoning in UI
 }
 
 export const DEFAULT_SETTINGS: Settings = {
@@ -15,6 +16,7 @@ export const DEFAULT_SETTINGS: Settings = {
   use_tools: true,
   reranker_model: null,
   verbose: false,
+  show_reasoning: false,
 };
 
 // API request/response types
@@ -67,12 +69,17 @@ export interface DoneData {
   complete: boolean;
 }
 
-export type SSEEventType = 'text' | 'tool_call' | 'tool_result' | 'error' | 'done';
+export interface TurnCompleteData {
+  is_final: boolean;
+}
+
+export type SSEEventType = 'text' | 'tool_call' | 'tool_result' | 'turn_complete' | 'error' | 'done';
 
 export type SSEEvent =
   | { event: 'text'; data: TextEventData }
   | { event: 'tool_call'; data: ToolCallData }
   | { event: 'tool_result'; data: ToolResultData }
+  | { event: 'turn_complete'; data: TurnCompleteData }
   | { event: 'error'; data: ErrorData }
   | { event: 'done'; data: DoneData };
 
@@ -83,13 +90,15 @@ export interface Message {
   content: string;
   timestamp: Date;
   toolCalls?: ToolCallData[];
+  reasoning?: string; // AI's reasoning text before tool calls
   isStreaming?: boolean;
 }
 
 export interface ChatState {
   messages: Message[];
   isStreaming: boolean;
-  currentStreamText: string;
+  currentTurnText: string; // Text from current agentic turn
+  accumulatedReasoning: string; // Reasoning from previous turns
   currentToolCalls: ToolCallData[];
   error: string | null;
 }
@@ -97,7 +106,8 @@ export interface ChatState {
 export const initialChatState: ChatState = {
   messages: [],
   isStreaming: false,
-  currentStreamText: '',
+  currentTurnText: '',
+  accumulatedReasoning: '',
   currentToolCalls: [],
   error: null,
 };

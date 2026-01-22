@@ -1,3 +1,4 @@
+import { useState } from 'react';
 import ReactMarkdown from 'react-markdown';
 import remarkGfm from 'remark-gfm';
 import type { ToolCallData } from '../types';
@@ -5,7 +6,10 @@ import type { ToolCallData } from '../types';
 interface AssistantMessageProps {
   content: string;
   toolCalls?: ToolCallData[];
+  reasoning?: string;
+  showReasoning?: boolean;
   isStreaming?: boolean;
+  isPending?: boolean; // Show with muted styling during streaming
 }
 
 function ToolCallBadge({ toolCall }: { toolCall: ToolCallData }) {
@@ -56,17 +60,49 @@ function ToolCallBadge({ toolCall }: { toolCall: ToolCallData }) {
 export function AssistantMessage({
   content,
   toolCalls,
+  reasoning,
+  showReasoning,
   isStreaming,
+  isPending,
 }: AssistantMessageProps) {
+  const [reasoningExpanded, setReasoningExpanded] = useState(false);
+
   return (
     <div className="flex justify-start mb-4">
-      <div className="max-w-[85%] bg-white border border-gray-200 rounded-2xl rounded-bl-md px-4 py-3 shadow-sm">
+      <div className={`max-w-[85%] bg-white border border-gray-200 rounded-2xl rounded-bl-md px-4 py-3 shadow-sm ${isPending ? 'opacity-60' : ''}`}>
         {/* Tool calls */}
         {toolCalls && toolCalls.length > 0 && (
           <div className="flex flex-wrap gap-2 mb-3">
             {toolCalls.map((tc, i) => (
               <ToolCallBadge key={i} toolCall={tc} />
             ))}
+          </div>
+        )}
+
+        {/* Reasoning section (collapsible) */}
+        {reasoning && showReasoning && (
+          <div className="mb-3 border-l-2 border-gray-300 pl-3">
+            <button
+              onClick={() => setReasoningExpanded(!reasoningExpanded)}
+              className="text-sm text-gray-500 flex items-center gap-1 hover:text-gray-700"
+            >
+              <svg
+                xmlns="http://www.w3.org/2000/svg"
+                fill="none"
+                viewBox="0 0 24 24"
+                strokeWidth={1.5}
+                stroke="currentColor"
+                className={`w-4 h-4 transition-transform ${reasoningExpanded ? 'rotate-90' : ''}`}
+              >
+                <path strokeLinecap="round" strokeLinejoin="round" d="M8.25 4.5l7.5 7.5-7.5 7.5" />
+              </svg>
+              {reasoningExpanded ? 'Hide reasoning' : 'Show reasoning'}
+            </button>
+            {reasoningExpanded && (
+              <div className="mt-2 text-sm text-gray-600 prose prose-sm max-w-none">
+                <ReactMarkdown remarkPlugins={[remarkGfm]}>{reasoning}</ReactMarkdown>
+              </div>
+            )}
           </div>
         )}
 

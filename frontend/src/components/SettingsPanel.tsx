@@ -204,6 +204,32 @@ export function SettingsPanel({
               </p>
             </div>
 
+            {/* Show reasoning toggle */}
+            <div className="flex items-center justify-between">
+              <div>
+                <label className="text-sm font-medium text-gray-700">
+                  Show reasoning
+                </label>
+                <p className="text-xs text-gray-500">
+                  Display AI's thought process
+                </p>
+              </div>
+              <button
+                role="switch"
+                aria-checked={settings.show_reasoning}
+                onClick={() => onUpdateSetting('show_reasoning', !settings.show_reasoning)}
+                className={`relative inline-flex h-6 w-11 items-center rounded-full transition-colors ${
+                  settings.show_reasoning ? 'bg-primary-600' : 'bg-gray-200'
+                }`}
+              >
+                <span
+                  className={`inline-block h-4 w-4 transform rounded-full bg-white transition-transform ${
+                    settings.show_reasoning ? 'translate-x-6' : 'translate-x-1'
+                  }`}
+                />
+              </button>
+            </div>
+
             {/* Verbose logging toggle */}
             <div className="flex items-center justify-between">
               <div>

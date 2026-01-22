@@ -5,6 +5,7 @@ import { AssistantMessage } from './AssistantMessage';
 
 interface ChatContainerProps {
   state: ChatState;
+  showReasoning: boolean;
 }
 
 function WelcomeMessage() {
@@ -35,13 +36,13 @@ function WelcomeMessage() {
   );
 }
 
-export function ChatContainer({ state }: ChatContainerProps) {
+export function ChatContainer({ state, showReasoning }: ChatContainerProps) {
   const messagesEndRef = useRef<HTMLDivElement>(null);
 
   // Auto-scroll to bottom when new content arrives
   useEffect(() => {
     messagesEndRef.current?.scrollIntoView({ behavior: 'smooth' });
-  }, [state.messages, state.currentStreamText]);
+  }, [state.messages, state.currentTurnText, state.accumulatedReasoning]);
 
   const hasMessages = state.messages.length > 0 || state.isStreaming;
 
@@ -59,17 +60,32 @@ export function ChatContainer({ state }: ChatContainerProps) {
                 key={message.id}
                 content={message.content}
                 toolCalls={message.toolCalls}
+                reasoning={message.reasoning}
+                showReasoning={showReasoning}
               />
             )
           )}
 
           {/* Streaming response */}
           {state.isStreaming && (
-            <AssistantMessage
-              content={state.currentStreamText || 'Thinking...'}
-              toolCalls={state.currentToolCalls}
-              isStreaming
-            />
+            <>
+              {/* Show accumulated reasoning as a completed message if enabled */}
+              {showReasoning && state.accumulatedReasoning && (
+                <AssistantMessage
+                  content=""
+                  reasoning={state.accumulatedReasoning}
+                  showReasoning={showReasoning}
+                  toolCalls={state.currentToolCalls}
+                />
+              )}
+              {/* Current turn text with pending styling */}
+              <AssistantMessage
+                content={state.currentTurnText || 'Thinking...'}
+                toolCalls={!state.accumulatedReasoning ? state.currentToolCalls : undefined}
+                isStreaming
+                isPending={state.currentToolCalls.length > 0 || state.accumulatedReasoning.length > 0}
+              />
+            </>
           )}
 
           {/* Error message */}

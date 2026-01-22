@@ -209,8 +209,9 @@ async def stream_rules_question(
             yield {"event": "error", "data": {"message": str(e)}}
             return
 
-        # If no tool use, we're done
+        # If no tool use, we're done - this turn was the final answer
         if final_message.stop_reason != "tool_use" or not tool_uses:
+            yield {"event": "turn_complete", "data": {"is_final": True}}
             yield {"event": "done", "data": {"complete": True}}
             return
 
@@ -221,6 +222,7 @@ async def stream_rules_question(
         # Check tool call limit
         if tool_calls >= max_tool_calls:
             log_max_tool_calls(max_tool_calls)
+            yield {"event": "turn_complete", "data": {"is_final": True}}
             yield {
                 "event": "error",
                 "data": {"message": f"Max tool calls ({max_tool_calls}) reached"},
@@ -337,3 +339,6 @@ async def stream_rules_question(
 
         messages.append({"role": "assistant", "content": assistant_content})
         messages.append({"role": "user", "content": tool_results})
+
+        # Signal that this turn's text was reasoning (not the final answer)
+        yield {"event": "turn_complete", "data": {"is_final": False}}

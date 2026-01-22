@@ -7,6 +7,7 @@ type ChatAction =
   | { type: 'START_STREAMING'; question: string }
   | { type: 'APPEND_TEXT'; text: string }
   | { type: 'ADD_TOOL_CALL'; toolCall: ToolCallData }
+  | { type: 'TURN_COMPLETE'; isFinal: boolean }
   | { type: 'SET_ERROR'; error: string }
   | { type: 'COMPLETE_STREAMING' }
   | { type: 'CLEAR' }
@@ -29,7 +30,8 @@ function chatReducer(state: ChatState, action: ChatAction): ChatState {
         ...state,
         messages: [...state.messages, userMessage],
         isStreaming: true,
-        currentStreamText: '',
+        currentTurnText: '',
+        accumulatedReasoning: '',
         currentToolCalls: [],
         error: null,
       };
@@ -38,7 +40,7 @@ function chatReducer(state: ChatState, action: ChatAction): ChatState {
     case 'APPEND_TEXT':
       return {
         ...state,
-        currentStreamText: state.currentStreamText + action.text,
+        currentTurnText: state.currentTurnText + action.text,
       };
 
     case 'ADD_TOOL_CALL':
@@ -46,6 +48,24 @@ function chatReducer(state: ChatState, action: ChatAction): ChatState {
         ...state,
         currentToolCalls: [...state.currentToolCalls, action.toolCall],
       };
+
+    case 'TURN_COMPLETE': {
+      if (action.isFinal) {
+        // Final turn - current text is the answer, don't move to reasoning
+        return state;
+      }
+      // Not final - this turn's text was reasoning, accumulate it
+      const newReasoning = state.currentTurnText
+        ? state.accumulatedReasoning
+          ? state.accumulatedReasoning + '\n\n---\n\n' + state.currentTurnText
+          : state.currentTurnText
+        : state.accumulatedReasoning;
+      return {
+        ...state,
+        accumulatedReasoning: newReasoning,
+        currentTurnText: '',
+      };
+    }
 
     case 'SET_ERROR':
       return {
@@ -58,18 +78,20 @@ function chatReducer(state: ChatState, action: ChatAction): ChatState {
       const assistantMessage: Message = {
         id: generateId(),
         role: 'assistant',
-        content: state.currentStreamText,
+        content: state.currentTurnText,
         timestamp: new Date(),
         toolCalls:
           state.currentToolCalls.length > 0
             ? state.currentToolCalls
             : undefined,
+        reasoning: state.accumulatedReasoning || undefined,
       };
       return {
         ...state,
         messages: [...state.messages, assistantMessage],
         isStreaming: false,
-        currentStreamText: '',
+        currentTurnText: '',
+        accumulatedReasoning: '',
         currentToolCalls: [],
       };
     }
@@ -77,18 +99,20 @@ function chatReducer(state: ChatState, action: ChatAction): ChatState {
     case 'CLEAR':
       return initialChatState;
 
-    case 'ABORT':
+    case 'ABORT': {
+      // Combine any accumulated reasoning with current turn text for the partial message
+      const partialContent = state.currentTurnText || state.accumulatedReasoning;
       return {
         ...state,
         isStreaming: false,
         // Keep any accumulated text as a partial message
-        ...(state.currentStreamText && {
+        ...(partialContent && {
           messages: [
             ...state.messages,
             {
               id: generateId(),
               role: 'assistant' as const,
-              content: state.currentStreamText + '\n\n*[Response interrupted]*',
+              content: (state.currentTurnText || state.accumulatedReasoning) + '\n\n*[Response interrupted]*',
               timestamp: new Date(),
               toolCalls:
                 state.currentToolCalls.length > 0
@@ -97,9 +121,11 @@ function chatReducer(state: ChatState, action: ChatAction): ChatState {
             },
           ],
         }),
-        currentStreamText: '',
+        currentTurnText: '',
+        accumulatedReasoning: '',
         currentToolCalls: [],
       };
+    }
 
     default:
       return state;
@@ -141,6 +167,9 @@ export function useStreamingQuestion() {
             case 'tool_result':
               // Tool results are informational - we could show them in UI
               // For now, we just track the tool calls
+              break;
+            case 'turn_complete':
+              dispatch({ type: 'TURN_COMPLETE', isFinal: event.data.is_final });
               break;
             case 'error':
               dispatch({ type: 'SET_ERROR', error: event.data.message });

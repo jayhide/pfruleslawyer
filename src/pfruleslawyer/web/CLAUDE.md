@@ -34,8 +34,18 @@ The `/api/ask` endpoint uses Server-Sent Events (SSE) to stream responses as the
 - `text` - Text chunk from Claude
 - `tool_call` - Claude is calling a tool (search_rules or follow_link)
 - `tool_result` - Tool execution completed
+- `turn_complete` - Agentic turn finished, with `is_final` flag indicating if this was the final answer or intermediate reasoning
 - `error` - An error occurred
 - `done` - Response complete
+
+### Turn Complete Event
+
+The `turn_complete` event helps the frontend distinguish between reasoning (text before tool calls) and the final answer. Each agentic turn emits this event:
+
+- `is_final: false` - The text just streamed was reasoning; more tool calls will follow
+- `is_final: true` - The text just streamed was the final answer
+
+This enables the frontend to accumulate reasoning separately and display only the final answer by default.
 
 ## Usage
 

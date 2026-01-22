@@ -76,6 +76,7 @@ The streaming endpoint sends these event types:
 | `text` | `{ content: string }` | Text chunk from Claude |
 | `tool_call` | `{ tool: string, query?: string, url?: string }` | Tool invocation |
 | `tool_result` | `{ tool: string, ... }` | Tool result |
+| `turn_complete` | `{ is_final: boolean }` | Agentic turn finished (reasoning vs final answer) |
 | `error` | `{ message: string }` | Error occurred |
 | `done` | `{ complete: boolean }` | Response complete |
 
@@ -88,12 +89,14 @@ Settings are persisted to localStorage under the key `pf-rules-settings`:
 - **rerank**: boolean (default: true)
 - **use_tools**: boolean (default: true)
 - **reranker_model**: "ms-marco" | "bge-large" | "llm-haiku" | null (default: null)
+- **verbose**: boolean (default: false) - Server-side debug logging
+- **show_reasoning**: boolean (default: false) - Display AI reasoning in UI
 
 ## Component Details
 
 ### ChatContainer
 
-Displays the message list with auto-scroll. Shows a welcome message when empty.
+Displays the message list with auto-scroll. Shows a welcome message when empty. During streaming, shows current turn text with pending styling when tool calls are in progress. Passes `showReasoning` setting to AssistantMessage components.
 
 ### QueryInput
 
@@ -110,6 +113,8 @@ Slide-out drawer with:
 - Reranking toggle
 - Follow-up searches toggle
 - Reranker model dropdown
+- Show reasoning toggle (Debug section)
+- Verbose logging toggle (Debug section)
 - Reset to defaults button
 
 ### AssistantMessage
@@ -117,4 +122,6 @@ Slide-out drawer with:
 Renders AI responses with:
 - Markdown formatting via react-markdown
 - Tool call badges showing searches and links
+- Collapsible reasoning section (when show_reasoning enabled)
+- Pending styling during multi-turn streaming
 - Streaming cursor animation
