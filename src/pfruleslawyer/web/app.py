@@ -2,8 +2,11 @@
 
 import json
 from contextlib import asynccontextmanager
+from pathlib import Path
 
-from fastapi import FastAPI
+from fastapi import FastAPI, HTTPException
+from fastapi.responses import FileResponse
+from fastapi.staticfiles import StaticFiles
 from sse_starlette.sse import EventSourceResponse
 
 from pfruleslawyer.rag import ask_rules_question
@@ -15,6 +18,9 @@ from pfruleslawyer.web.models import (
     StatsResponse,
 )
 from pfruleslawyer.web.streaming import stream_rules_question
+
+# Static files directory (built frontend)
+STATIC_DIR = Path(__file__).parent.parent.parent.parent / "data" / "static"
 
 # Global store reference for stats endpoint
 _store: RulesVectorStore | None = None
@@ -68,6 +74,7 @@ async def ask_streaming(request: AskRequest):
                 rerank=request.rerank,
                 use_tools=request.use_tools,
                 reranker_model=request.reranker_model,
+                verbose=request.verbose,
             ):
                 yield {"event": event["event"], "data": json.dumps(event["data"])}
         except Exception as e:
@@ -100,3 +107,30 @@ async def ask_sync(request: AskRequest) -> AskResponse:
     )
 
     return AskResponse(answer=answer, question=request.question)
+
+
+# Static file serving for frontend
+if STATIC_DIR.exists():
+    # Mount static assets (JS, CSS, etc.)
+    assets_dir = STATIC_DIR / "assets"
+    if assets_dir.exists():
+        app.mount("/assets", StaticFiles(directory=assets_dir), name="assets")
+
+    @app.get("/{full_path:path}")
+    async def serve_spa(full_path: str):
+        """Serve the SPA for all non-API routes."""
+        # Don't serve SPA for API routes (should never reach here, but just in case)
+        if full_path.startswith("api/"):
+            raise HTTPException(status_code=404, detail="Not found")
+
+        # Check if it's a static file that exists
+        file_path = STATIC_DIR / full_path
+        if file_path.is_file():
+            return FileResponse(file_path)
+
+        # Otherwise serve index.html for SPA routing
+        index_path = STATIC_DIR / "index.html"
+        if index_path.exists():
+            return FileResponse(index_path)
+
+        raise HTTPException(status_code=404, detail="Frontend not built")

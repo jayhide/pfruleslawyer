@@ -24,6 +24,9 @@ class AskRequest(BaseModel):
     reranker_model: Literal["ms-marco", "bge-large"] | None = Field(
         default=None, description="Reranker model (default: ms-marco)"
     )
+    verbose: bool = Field(
+        default=False, description="Print verbose debug output to server logs"
+    )
 
 
 class AskResponse(BaseModel):

@@ -1,12 +1,22 @@
 # Web Module
 
-FastAPI REST API for the Pathfinder Rules Lawyer.
+FastAPI REST API for the Pathfinder Rules Lawyer with integrated frontend serving.
 
 ## Files
 
-- `app.py` - FastAPI application with routes
+- `app.py` - FastAPI application with routes and static file serving
 - `models.py` - Pydantic request/response models
 - `streaming.py` - Async streaming logic for agentic loop
+
+## Frontend
+
+The app serves the React frontend from `data/static/` when the build exists. Build the frontend with:
+
+```bash
+cd frontend && npm run build
+```
+
+Then access the web UI at `http://localhost:8000/`.
 
 ## API Endpoints
 
@@ -58,3 +68,16 @@ curl -X POST http://localhost:8000/api/ask/sync \
 - `rerank` (default: true) - Use cross-encoder reranking
 - `use_tools` (default: true) - Allow follow-up searches
 - `reranker_model` (default: null) - Reranker: "ms-marco" or "bge-large"
+- `verbose` (default: false) - Print debug output to server terminal
+
+## Verbose Logging
+
+When `verbose=true`, the server prints detailed debug information to stderr:
+
+- **Initial search**: Query, retrieved sections with titles, sources, and score breakdowns
+- **Context**: Full prompt sent to the model (in verbose mode)
+- **Tool calls**: Search queries and follow_link URLs
+- **Tool results**: Retrieved sections with content (in verbose mode)
+- **Reasoning**: Model's reasoning text before tool calls
+
+This mirrors the CLI's `-v` flag output. Enable via the Settings panel in the frontend or by adding `"verbose": true` to API requests.

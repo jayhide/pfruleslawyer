@@ -1,0 +1,120 @@
+# Frontend
+
+React SPA frontend for the Pathfinder Rules Lawyer web application.
+
+## Technology Stack
+
+- **Framework**: React 18 with TypeScript
+- **Build Tool**: Vite
+- **Styling**: Tailwind CSS v4
+- **Markdown**: react-markdown with remark-gfm
+
+## Project Structure
+
+```
+frontend/
+├── src/
+│   ├── components/           # React components
+│   │   ├── Header.tsx        # App header with settings button
+│   │   ├── SettingsPanel.tsx # Slide-out settings drawer
+│   │   ├── ChatContainer.tsx # Message list container
+│   │   ├── QueryInput.tsx    # Question input textarea
+│   │   ├── UserMessage.tsx   # User message bubble
+│   │   ├── AssistantMessage.tsx # AI response with markdown
+│   │   └── index.ts          # Component exports
+│   ├── hooks/
+│   │   ├── useSettings.ts    # Settings with localStorage persistence
+│   │   └── useStreamingQuestion.ts # SSE consumer and chat state
+│   ├── services/
+│   │   └── api.ts            # API calls and SSE streaming
+│   ├── types/
+│   │   └── index.ts          # TypeScript definitions
+│   ├── App.tsx               # Main application component
+│   ├── main.tsx              # React entry point
+│   └── index.css             # Tailwind imports and base styles
+├── index.html
+├── vite.config.ts
+├── package.json
+└── tsconfig.json
+```
+
+## Development
+
+```bash
+# Install dependencies
+npm install
+
+# Start dev server (proxies /api to localhost:8000)
+npm run dev
+
+# Build for production
+npm run build
+
+# Type check
+npm run type-check
+```
+
+## Build Output
+
+Production builds are output to `../data/static/` which FastAPI serves automatically.
+
+## API Integration
+
+The frontend connects to the FastAPI backend:
+
+- **POST /api/ask** - Streaming SSE endpoint for questions
+- **POST /api/ask/sync** - Synchronous JSON endpoint
+- **GET /api/health** - Health check
+- **GET /api/stats** - Vector store statistics
+
+### SSE Event Types
+
+The streaming endpoint sends these event types:
+
+| Event | Data | Description |
+|-------|------|-------------|
+| `text` | `{ content: string }` | Text chunk from Claude |
+| `tool_call` | `{ tool: string, query?: string, url?: string }` | Tool invocation |
+| `tool_result` | `{ tool: string, ... }` | Tool result |
+| `error` | `{ message: string }` | Error occurred |
+| `done` | `{ complete: boolean }` | Response complete |
+
+## Settings
+
+Settings are persisted to localStorage under the key `pf-rules-settings`:
+
+- **model**: "sonnet" | "opus" (default: "sonnet")
+- **n_results**: 1-20 (default: 7)
+- **rerank**: boolean (default: true)
+- **use_tools**: boolean (default: true)
+- **reranker_model**: "ms-marco" | "bge-large" | null (default: null)
+
+## Component Details
+
+### ChatContainer
+
+Displays the message list with auto-scroll. Shows a welcome message when empty.
+
+### QueryInput
+
+Multi-line textarea with:
+- Auto-resize up to 200px
+- Enter to submit, Shift+Enter for newline
+- Stop button during streaming
+
+### SettingsPanel
+
+Slide-out drawer with:
+- Model selection (radio buttons)
+- Result count slider
+- Reranking toggle
+- Follow-up searches toggle
+- Reranker model dropdown
+- Reset to defaults button
+
+### AssistantMessage
+
+Renders AI responses with:
+- Markdown formatting via react-markdown
+- Tool call badges showing searches and links
+- Streaming cursor animation

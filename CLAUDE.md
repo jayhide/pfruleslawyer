@@ -28,7 +28,19 @@ pfruleslawyer/
 │   │   └── reranker.py          # Reranker singleton
 │   ├── rag/                     # RAG application logic
 │   │   └── rules_lawyer.py      # Q&A logic
-│   └── web/                     # Future Flask web app (placeholder)
+│   └── web/                     # FastAPI web server
+│       ├── app.py               # FastAPI app with frontend serving
+│       ├── models.py            # Request/response models
+│       └── streaming.py         # SSE streaming logic
+│
+├── frontend/                    # React SPA frontend
+│   ├── src/
+│   │   ├── components/          # React components
+│   │   ├── hooks/               # Custom hooks
+│   │   ├── services/            # API service layer
+│   │   └── types/               # TypeScript definitions
+│   ├── vite.config.ts
+│   └── package.json
 │
 ├── cli/                         # CLI entry points
 │   ├── ask.py                   # rules_lawyer CLI
@@ -80,9 +92,22 @@ poetry run pfrules "How does grappling work?"  # Ask a rules question
 poetry run pfrules-vectordb --build            # Build search index
 poetry run pfrules-preprocess -v               # Process markdown to manifests
 poetry run pfrules-db stats                    # Database statistics
+poetry run pfrules-server                      # Start web server
 ```
 
 See `cli/CLAUDE.md` for full command documentation.
+
+## Web Frontend
+
+```bash
+# Build frontend (requires Node.js)
+cd frontend && npm install && npm run build
+
+# Start server (serves frontend at http://localhost:8000)
+poetry run pfrules-server
+```
+
+See `frontend/CLAUDE.md` for frontend development details.
 
 ## Key Components
 
@@ -106,6 +131,8 @@ Each directory contains its own CLAUDE.md with detailed documentation:
 | `src/pfruleslawyer/preprocessing/` | LLM processing modes and functions |
 | `src/pfruleslawyer/search/` | Vector store, lemmatizer, reranker |
 | `src/pfruleslawyer/rag/` | Q&A logic with tool use |
+| `src/pfruleslawyer/web/` | FastAPI server and SSE streaming |
+| `frontend/` | React SPA frontend |
 | `cli/` | CLI entry points and commands |
 | `config/` | Configuration file formats |
 | `data/` | Generated manifests and vector index |
