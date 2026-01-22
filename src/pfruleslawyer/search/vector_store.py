@@ -172,6 +172,9 @@ class RulesVectorStore:
         self._category_weights: dict[str, dict[str, float]] | None = None
         self._config_path = DEFAULT_CONFIG_PATH
 
+        # Disambiguation rules for title matching
+        self._disambiguation_rules: dict[str, dict] | None = None
+
         # Metadata-only sections (categories with semantic_weight=0)
         # These are not embedded, only stored for title/keyword matching
         self._metadata_only_sections: dict[str, dict] | None = None
@@ -206,8 +209,14 @@ class RulesVectorStore:
                     # Merge config weights with defaults
                     for category, weights in config["category_weights"].items():
                         self._category_weights[category] = weights
+                # Load disambiguation rules (keys are lemmatized)
+                self._disambiguation_rules = config.get("disambiguation_rules", {})
             except (json.JSONDecodeError, KeyError):
                 pass  # Use defaults if config is invalid
+
+        # Ensure disambiguation_rules is initialized
+        if self._disambiguation_rules is None:
+            self._disambiguation_rules = {}
 
     def _get_weights_for_category(self, category: str) -> dict[str, float]:
         """Get search weights for a category.
@@ -550,7 +559,17 @@ class RulesVectorStore:
                     _ensure_entry(uid)["subheading_matches"] += 1.0
 
         # Check for title/anchor_heading matches (titles are already lemmatized in the index)
+        # Load disambiguation rules if needed
+        self._load_category_weights()
+        query_lower = query_text.lower()
+
         for title, section_ids in self._title_index.items():
+            # Check disambiguation rules - skip if negative context detected
+            if title in self._disambiguation_rules:
+                negative_contexts = self._disambiguation_rules[title].get("negative_contexts", [])
+                if any(ctx.lower() in query_lower for ctx in negative_contexts):
+                    continue  # Skip this title entirely
+
             if _matches_whole_word(title, query_lemma_text):
                 for uid in section_ids:
                     _ensure_entry(uid)["title_matches"] += 1.0

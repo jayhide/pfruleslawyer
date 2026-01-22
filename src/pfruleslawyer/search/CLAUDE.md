@@ -46,3 +46,17 @@ All rerankers combine their relevance score with the retrieval score using confi
 Sections are split into two storage types based on category weights:
 - **Semantic sections**: Embedded in ChromaDB (categories with `semantic_weight > 0`)
 - **Metadata-only sections**: Stored in JSON for title matching only (spells, archetypes)
+
+## Title Disambiguation
+
+Titles that match common words can cause false positives (e.g., "Medium" archetype matching "medium armor" queries). The `disambiguation_rules` config section defines negative contexts that suppress title matches:
+
+```python
+# In _find_exact_matches(), before title matching:
+if title in self._disambiguation_rules:
+    negative_contexts = self._disambiguation_rules[title].get("negative_contexts", [])
+    if any(ctx.lower() in query_lower for ctx in negative_contexts):
+        continue  # Skip this title
+```
+
+Rules are defined in `config/preprocess_config.json` with lemmatized keys.

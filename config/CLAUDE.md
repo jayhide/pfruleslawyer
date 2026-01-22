@@ -36,3 +36,25 @@ Categories can customize search behavior:
 ```
 
 Setting `semantic_weight: 0` makes sections metadata-only (faster indexing, title-based retrieval).
+
+## Disambiguation Rules
+
+Prevents title matches when ambiguous terms appear in specific contexts:
+```json
+{
+  "disambiguation_rules": {
+    "medium": {
+      "negative_contexts": [
+        "medium armor",
+        "medium size",
+        "size medium"
+      ]
+    }
+  }
+}
+```
+
+- Keys are **lemmatized** (lowercase) to match the title index format
+- When a query contains any `negative_contexts` phrase, the title match is suppressed
+- Matching is case-insensitive against the original query text
+- Use this to prevent false positives like "Medium" archetype matching "medium armor" queries

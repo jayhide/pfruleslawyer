@@ -4,11 +4,19 @@ Fast unit tests that don't require external resources (database, vector store, A
 
 ## Files
 
+- `test_disambiguation.py` - Tests for title disambiguation in vector store
 - `test_preprocess_sections.py` - Tests for source name generation and suffix stripping
 - `test_reranker.py` - Tests for reranker module (LLM and cross-encoder)
 - `test_rules_lawyer_dedup.py` - Tests for search result deduplication
 
 ## Test Coverage
+
+### test_disambiguation.py
+
+Tests for `pfruleslawyer.search.vector_store` disambiguation:
+
+- `TestDisambiguationRules` - Negative context detection suppressing title matches (e.g., "medium armor" query should not match "Medium" archetype)
+- `TestDisambiguationConfigLoading` - Loading disambiguation_rules from config file
 
 ### test_preprocess_sections.py
 

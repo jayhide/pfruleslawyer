@@ -1,4 +1,17 @@
 {
+  "disambiguation_rules": {
+    "medium": {
+      "negative_contexts": [
+        "medium armor",
+        "medium size",
+        "size medium",
+        "medium creature",
+        "medium load",
+        "medium range",
+        "medium-size"
+      ]
+    }
+  },
   "category_weights": {
     "_default": {
       "semantic_weight": 1.0,
