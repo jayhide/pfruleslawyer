@@ -75,6 +75,7 @@ async def ask_streaming(request: AskRequest):
                 use_tools=request.use_tools,
                 reranker_model=request.reranker_model,
                 verbose=request.verbose,
+                timing=request.timing,
             ):
                 yield {"event": event["event"], "data": json.dumps(event["data"])}
         except Exception as e:

@@ -34,6 +34,8 @@ The `/api/ask` endpoint uses Server-Sent Events (SSE) to stream responses as the
 - `text` - Text chunk from Claude
 - `tool_call` - Claude is calling a tool (search_rules or follow_link)
 - `tool_result` - Tool execution completed
+- `timing` - Timing data for an operation (when `timing=true`)
+- `timing_summary` - Final timing summary with all operations
 - `turn_complete` - Agentic turn finished, with `is_final` flag indicating if this was the final answer or intermediate reasoning
 - `error` - An error occurred
 - `done` - Response complete
@@ -79,6 +81,7 @@ curl -X POST http://localhost:8000/api/ask/sync \
 - `use_tools` (default: true) - Allow follow-up searches
 - `reranker_model` (default: null) - Reranker: "ms-marco" or "bge-large"
 - `verbose` (default: false) - Print debug output to server terminal
+- `timing` (default: false) - Include timing events in SSE stream
 
 ## Verbose Logging
 
@@ -91,3 +94,23 @@ When `verbose=true`, the server prints detailed debug information to stderr:
 - **Reasoning**: Model's reasoning text before tool calls
 
 This mirrors the CLI's `-v` flag output. Enable via the Settings panel in the frontend or by adding `"verbose": true` to API requests.
+
+## Timing Events
+
+When `timing=true`, the API emits timing events for performance analysis:
+
+```json
+{"event": "timing", "data": {"operation": "vector_store_init", "duration_ms": 45}}
+{"event": "timing", "data": {"operation": "initial_search", "duration_ms": 312}}
+{"event": "timing", "data": {"operation": "model_call_1", "duration_ms": 2341}}
+{"event": "timing", "data": {"operation": "tool_search_rules", "duration_ms": 287}}
+{"event": "timing", "data": {"operation": "model_call_2", "duration_ms": 1823}}
+{"event": "timing_summary", "data": {"timings": [...], "total_ms": 4808}}
+```
+
+Operations timed:
+- `vector_store_init` - ChromaDB collection initialization
+- `initial_search` - First vector search with reranking
+- `model_call_N` - Each Claude API call
+- `tool_search_rules` - search_rules tool execution
+- `tool_follow_link` - follow_link tool execution

@@ -27,6 +27,9 @@ class AskRequest(BaseModel):
     verbose: bool = Field(
         default=False, description="Print verbose debug output to server logs"
     )
+    timing: bool = Field(
+        default=False, description="Include timing events in SSE stream"
+    )
 
 
 class AskResponse(BaseModel):

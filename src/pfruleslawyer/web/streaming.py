@@ -2,11 +2,13 @@
 
 import asyncio
 import sys
+import time
 from typing import AsyncGenerator
 
 import anthropic
 from dotenv import load_dotenv
 
+from pfruleslawyer.core import TimingContext
 from pfruleslawyer.rag import (
     MODEL_IDS,
     SEARCH_TOOL,
@@ -100,6 +102,7 @@ async def stream_rules_question(
     use_tools: bool = True,
     reranker_model: str | None = None,
     verbose: bool = False,
+    timing: bool = False,
 ) -> AsyncGenerator[dict, None]:
     """Stream a rules question answer, yielding events as they occur.
 
@@ -109,6 +112,7 @@ async def stream_rules_question(
         - text: Text chunk from Claude's response
         - tool_call: Claude is calling a tool
         - tool_result: Tool execution completed
+        - timing: Timing data for an operation (when timing=True)
         - error: An error occurred
         - done: Response complete
 
@@ -120,19 +124,36 @@ async def stream_rules_question(
         use_tools: Whether to allow model to issue searches
         reranker_model: Reranker model to use
         verbose: Whether to print verbose debug output to stderr
+        timing: Whether to emit timing events in the SSE stream
     """
+    # Initialize timing context if requested
+    ctx = TimingContext() if timing else None
+
     # Initialize resources (sync operations run in executor)
     loop = asyncio.get_event_loop()
+
+    start = time.perf_counter()
     store = await loop.run_in_executor(None, RulesVectorStore)
+    if ctx:
+        duration_ms = (time.perf_counter() - start) * 1000
+        ctx.record("Vector store init", duration_ms)
+        yield {"event": "timing", "data": {"operation": "vector_store_init", "duration_ms": round(duration_ms)}}
+
     client = anthropic.AsyncAnthropic()
 
     # Initial search (synchronous - done before streaming starts)
+    start = time.perf_counter()
     results = await loop.run_in_executor(
         None,
         lambda: store.query(
             question, n_results=n_results, rerank=rerank, reranker_model=reranker_model
         ),
     )
+    if ctx:
+        duration_ms = (time.perf_counter() - start) * 1000
+        ctx.record("Initial search", duration_ms)
+        yield {"event": "timing", "data": {"operation": "initial_search", "duration_ms": round(duration_ms)}}
+
     seen_ids = {r["id"] for r in results}
 
     # Log initial search results
@@ -149,6 +170,7 @@ async def stream_rules_question(
     # Agentic loop
     max_tool_calls = 5
     tool_calls = 0
+    model_turn = 0
 
     while True:
         kwargs = {
@@ -165,6 +187,8 @@ async def stream_rules_question(
         tool_uses = []
         current_tool_use = None
         current_tool_input_json = ""
+        model_turn += 1
+        model_start = time.perf_counter()
 
         try:
             async with client.messages.stream(**kwargs) as stream:
@@ -205,12 +229,21 @@ async def stream_rules_question(
                 # Get final message for stop reason
                 final_message = await stream.get_final_message()
 
+                # Record model timing
+                if ctx:
+                    duration_ms = (time.perf_counter() - model_start) * 1000
+                    ctx.record(f"Model call {model_turn}", duration_ms)
+                    yield {"event": "timing", "data": {"operation": f"model_call_{model_turn}", "duration_ms": round(duration_ms)}}
+
         except anthropic.APIError as e:
             yield {"event": "error", "data": {"message": str(e)}}
             return
 
         # If no tool use, we're done - this turn was the final answer
         if final_message.stop_reason != "tool_use" or not tool_uses:
+            # Emit final timing summary
+            if ctx:
+                yield {"event": "timing_summary", "data": ctx.as_dict()}
             yield {"event": "turn_complete", "data": {"is_final": True}}
             yield {"event": "done", "data": {"complete": True}}
             return
@@ -222,6 +255,9 @@ async def stream_rules_question(
         # Check tool call limit
         if tool_calls >= max_tool_calls:
             log_max_tool_calls(max_tool_calls)
+            # Emit final timing summary
+            if ctx:
+                yield {"event": "timing_summary", "data": ctx.as_dict()}
             yield {"event": "turn_complete", "data": {"is_final": True}}
             yield {
                 "event": "error",
@@ -245,6 +281,7 @@ async def stream_rules_question(
 
                 # Execute the search (sync, run in executor)
                 # Note: execute_search already prints results via print_search_results
+                tool_start = time.perf_counter()
                 search_results, new_ids = await loop.run_in_executor(
                     None,
                     lambda q=query: execute_search(
@@ -257,6 +294,10 @@ async def stream_rules_question(
                         reranker_model=reranker_model,
                     ),
                 )
+                if ctx:
+                    duration_ms = (time.perf_counter() - tool_start) * 1000
+                    ctx.record("Tool: search_rules", duration_ms)
+                    yield {"event": "timing", "data": {"operation": "tool_search_rules", "duration_ms": round(duration_ms)}}
                 seen_ids.update(new_ids)
 
                 yield {
@@ -281,9 +322,14 @@ async def stream_rules_question(
                 yield {"event": "tool_call", "data": {"tool": "follow_link", "url": url}}
 
                 # Resolve the link (sync, run in executor)
+                tool_start = time.perf_counter()
                 result = await loop.run_in_executor(
                     None, lambda u=url: store.resolve_link(u)
                 )
+                if ctx:
+                    duration_ms = (time.perf_counter() - tool_start) * 1000
+                    ctx.record("Tool: follow_link", duration_ms)
+                    yield {"event": "timing", "data": {"operation": "tool_follow_link", "duration_ms": round(duration_ms)}}
 
                 # Log the result
                 log_follow_link_result(result, verbose=verbose)

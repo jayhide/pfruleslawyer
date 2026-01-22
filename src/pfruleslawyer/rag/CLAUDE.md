@@ -18,7 +18,8 @@ answer = ask_rules_question(
     model="sonnet",   # or "opus"
     verbose=False,    # Print debug info
     rerank=True,      # Use cross-encoder
-    use_tools=True    # Allow follow-up searches
+    use_tools=True,   # Allow follow-up searches
+    timing=False      # Show timing breakdown
 )
 ```
 

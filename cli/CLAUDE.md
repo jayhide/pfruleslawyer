@@ -17,6 +17,7 @@ Ask rules questions:
 ```bash
 poetry run pfrules "How does grappling work?"
 poetry run pfrules -v                    # verbose
+poetry run pfrules --timing              # show timing breakdown
 poetry run pfrules --no-rerank           # disable reranking
 poetry run pfrules --no-tools            # no follow-up searches
 poetry run pfrules                       # interactive mode

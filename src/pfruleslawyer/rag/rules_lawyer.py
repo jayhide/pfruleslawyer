@@ -5,6 +5,7 @@ import sys
 import anthropic
 from dotenv import load_dotenv
 
+from pfruleslawyer.core import TimingContext, optional_timing
 from pfruleslawyer.search import RulesVectorStore
 
 load_dotenv()
@@ -232,7 +233,8 @@ def ask_rules_question(
     verbose: bool = False,
     rerank: bool = True,
     use_tools: bool = True,
-    reranker_model: str | None = None
+    reranker_model: str | None = None,
+    timing: bool = False
 ) -> str:
     """Ask a question about Pathfinder rules using RAG.
 
@@ -244,17 +246,23 @@ def ask_rules_question(
         rerank: Whether to use cross-encoder reranking
         use_tools: Whether to allow model to issue additional searches
         reranker_model: Reranker model to use (default: ms-marco)
+        timing: Whether to show timing breakdown for operations
 
     Returns:
         The answer from Claude
     """
+    # Initialize timing context if requested
+    ctx = TimingContext() if timing else None
+
     # Initialize vector store and client
-    store = RulesVectorStore()
+    with optional_timing(ctx, "Vector store init"):
+        store = RulesVectorStore()
     client = anthropic.Anthropic()
 
     # Initial search for relevant sections
     print(f"{Colors.CYAN}[Initial search]{Colors.RESET} \"{question}\"", file=sys.stderr)
-    results = store.query(question, n_results=n_results, rerank=rerank, reranker_model=reranker_model)
+    with optional_timing(ctx, "Initial search"):
+        results = store.query(question, n_results=n_results, rerank=rerank, reranker_model=reranker_model)
 
     # Track seen chunk IDs for deduplication across tool calls
     seen_ids = {r["id"] for r in results}
@@ -296,6 +304,7 @@ def ask_rules_question(
     # Agentic loop - allow model to issue additional searches
     max_tool_calls = 5
     tool_calls = 0
+    model_turn = 0
 
     while True:
         # Call Claude (with or without tools)
@@ -308,7 +317,9 @@ def ask_rules_question(
         if use_tools:
             kwargs["tools"] = [SEARCH_TOOL, FOLLOW_LINK_TOOL]
 
-        response = client.messages.create(**kwargs)
+        model_turn += 1
+        with optional_timing(ctx, f"Model call {model_turn}"):
+            response = client.messages.create(**kwargs)
 
         # Process response content blocks
         text_response = ""
@@ -325,11 +336,19 @@ def ask_rules_question(
 
         # If no tool use, we're done
         if response.stop_reason != "tool_use" or not tool_uses:
+            # Print timing summary if enabled
+            if ctx:
+                print(f"\n{Colors.DIM}[Timing]{Colors.RESET}", file=sys.stderr)
+                print(ctx.summary(), file=sys.stderr)
             return text_response
 
         # Check tool call limit
         if tool_calls >= max_tool_calls:
             print(f"{Colors.RED}[Warning] Reached max tool calls ({max_tool_calls}), returning current response{Colors.RESET}", file=sys.stderr)
+            # Print timing summary if enabled
+            if ctx:
+                print(f"\n{Colors.DIM}[Timing]{Colors.RESET}", file=sys.stderr)
+                print(ctx.summary(), file=sys.stderr)
             return text_response if text_response else "I was unable to complete the search. Please try rephrasing your question."
 
         # Process tool calls
@@ -341,11 +360,12 @@ def ask_rules_question(
                 print(f"{Colors.CYAN}[Search {tool_calls}]{Colors.RESET} \"{query}\"", file=sys.stderr)
 
                 # Execute the search with deduplication
-                search_results, new_ids = execute_search(
-                    query, store, n_results=n_results,
-                    rerank=rerank, verbose=verbose,
-                    seen_ids=seen_ids, reranker_model=reranker_model
-                )
+                with optional_timing(ctx, f"Tool: search_rules"):
+                    search_results, new_ids = execute_search(
+                        query, store, n_results=n_results,
+                        rerank=rerank, verbose=verbose,
+                        seen_ids=seen_ids, reranker_model=reranker_model
+                    )
                 seen_ids.update(new_ids)
 
                 tool_results.append({
@@ -360,7 +380,8 @@ def ask_rules_question(
                 print(f"{Colors.CYAN}[Follow link {tool_calls}]{Colors.RESET} {url}", file=sys.stderr)
 
                 # Resolve the link
-                result = store.resolve_link(url)
+                with optional_timing(ctx, f"Tool: follow_link"):
+                    result = store.resolve_link(url)
 
                 if "error" in result:
                     print(f"  {Colors.RED}Error: {result['error']}{Colors.RESET}", file=sys.stderr)
@@ -402,7 +423,8 @@ def interactive_mode(
     rerank: bool = True,
     use_tools: bool = True,
     verbose: bool = False,
-    reranker_model: str | None = None
+    reranker_model: str | None = None,
+    timing: bool = False
 ):
     """Run in interactive mode, answering questions until user quits.
 
@@ -413,6 +435,7 @@ def interactive_mode(
         use_tools: Whether to allow model to issue additional searches
         verbose: Whether to print debug info
         reranker_model: Reranker model to use (default: ms-marco)
+        timing: Whether to show timing breakdown for operations
     """
     print("Pathfinder 1e Rules Lawyer")
     if use_tools:
@@ -437,7 +460,7 @@ def interactive_mode(
             answer = ask_rules_question(
                 question, n_results=n_results, model=model,
                 rerank=rerank, use_tools=use_tools, verbose=verbose,
-                reranker_model=reranker_model
+                reranker_model=reranker_model, timing=timing
             )
             print(f"\n{answer}\n")
         except Exception as e:

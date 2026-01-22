@@ -49,6 +49,11 @@ def main():
         action="store_true",
         help="Disable model-initiated searches (use only initial context)"
     )
+    parser.add_argument(
+        "--timing",
+        action="store_true",
+        help="Show timing breakdown for each operation"
+    )
 
     args = parser.parse_args()
 
@@ -62,7 +67,8 @@ def main():
                 verbose=args.verbose,
                 rerank=not args.no_rerank,
                 use_tools=not args.no_tools,
-                reranker_model=args.reranker
+                reranker_model=args.reranker,
+                timing=args.timing
             )
             print(answer)
         else:
@@ -73,7 +79,8 @@ def main():
                 rerank=not args.no_rerank,
                 use_tools=not args.no_tools,
                 verbose=args.verbose,
-                reranker_model=args.reranker
+                reranker_model=args.reranker,
+                timing=args.timing
             )
     except KeyboardInterrupt:
         print(f"\n{Colors.DIM}Interrupted{Colors.RESET}", file=sys.stderr)
