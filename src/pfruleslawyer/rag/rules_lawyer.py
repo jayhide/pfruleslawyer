@@ -162,25 +162,9 @@ def print_search_results(results: list[dict], verbose: bool = False,
         dup_marker = f" {Colors.RED}[DUP]{Colors.RESET}" if is_dup else ""
         print(f"    {Colors.YELLOW}- {r['title']}{Colors.RESET} {Colors.DIM}({source}){Colors.RESET}{dup_marker}", file=sys.stderr)
 
-        if verbose:
-            # Show score breakdown (even for duplicates)
-            for line in format_score_breakdown(r, indent="        "):
-                print(line, file=sys.stderr)
-
-        # Skip content for duplicates - they're not sent to the LLM
-        if is_dup:
-            continue
-
-        if verbose:
-            # Show content
-            content = r.get("content", "")
-            # Strip the metadata header if present
-            if "\n\n" in content:
-                parts = content.split("\n\n", 1)
-                if len(parts) > 1:
-                    content = parts[1]
-            print(f"\n{Colors.DIM}{content}{Colors.RESET}\n", file=sys.stderr)
-            print(f"{Colors.DIM}---{Colors.RESET}", file=sys.stderr)
+        # Always show score breakdown
+        for line in format_score_breakdown(r, indent="        "):
+            print(line, file=sys.stderr)
 
 
 def execute_search(query: str, store: RulesVectorStore, n_results: int = 5,
@@ -276,26 +260,19 @@ def ask_rules_question(
         # Show score breakdown
         for line in format_score_breakdown(r):
             print(line, file=sys.stderr)
-
-        # In verbose mode, print the full section content
-        if verbose:
-            content = r.get("content", "")
-            # Strip the metadata header if present
-            if "\n\n" in content:
-                parts = content.split("\n\n", 1)
-                if len(parts) > 1:
-                    content = parts[1]
-            print(f"\n{Colors.DIM}{content}{Colors.RESET}\n", file=sys.stderr)
-            print(f"{Colors.DIM}---{Colors.RESET}", file=sys.stderr)
     print(file=sys.stderr)
 
     # Format context and prompt
     context = format_context(results, max_sections=n_results)
     user_prompt = USER_PROMPT_TEMPLATE.format(context=context, question=question)
 
+    # Show context once (as sent to model) in verbose mode
     if verbose:
-        print(f"Context length: {len(context)} chars", file=sys.stderr)
-        print(file=sys.stderr)
+        print(f"{Colors.DIM}{'='*60}{Colors.RESET}", file=sys.stderr)
+        print(f"{Colors.CYAN}[Context sent to model]{Colors.RESET}", file=sys.stderr)
+        print(f"{Colors.DIM}{'='*60}{Colors.RESET}", file=sys.stderr)
+        print(f"{Colors.DIM}{context}{Colors.RESET}", file=sys.stderr)
+        print(f"{Colors.DIM}{'='*60}{Colors.RESET}\n", file=sys.stderr)
 
     # Build messages for the conversation
     messages = [{"role": "user", "content": user_prompt}]
@@ -400,11 +377,6 @@ def ask_rules_question(
                             content = f"*This section was already retrieved*\n\n{content}"
                         else:
                             seen_ids.add(result_id)
-
-                    # In verbose mode, print the content
-                    if verbose:
-                        print(f"\n{Colors.DIM}{result['content']}{Colors.RESET}\n", file=sys.stderr)
-                        print(f"{Colors.DIM}---{Colors.RESET}", file=sys.stderr)
 
                 tool_results.append({
                     "type": "tool_result",

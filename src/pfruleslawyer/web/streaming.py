@@ -38,17 +38,6 @@ def log_initial_search(question: str, results: list[dict], verbose: bool = False
         for line in format_score_breakdown(r):
             print(line, file=sys.stderr)
 
-        # In verbose mode, print the full section content
-        if verbose:
-            content = r.get("content", "")
-            # Strip the metadata header if present
-            if "\n\n" in content:
-                parts = content.split("\n\n", 1)
-                if len(parts) > 1:
-                    content = parts[1]
-            print(f"\n{Colors.DIM}{content}{Colors.RESET}\n", file=sys.stderr)
-            print(f"{Colors.DIM}---{Colors.RESET}", file=sys.stderr)
-
     print(file=sys.stderr)
 
 
@@ -78,10 +67,6 @@ def log_follow_link_result(result: dict, verbose: bool = False) -> None:
         print(f"  {Colors.RED}Error: {result['error']}{Colors.RESET}", file=sys.stderr)
     else:
         print(f"  {Colors.YELLOW}-> {result['title']}{Colors.RESET} {Colors.DIM}({result['source_name']}){Colors.RESET}", file=sys.stderr)
-
-        if verbose:
-            print(f"\n{Colors.DIM}{result['content']}{Colors.RESET}\n", file=sys.stderr)
-            print(f"{Colors.DIM}---{Colors.RESET}", file=sys.stderr)
 
 
 def log_reasoning(text: str) -> None:
