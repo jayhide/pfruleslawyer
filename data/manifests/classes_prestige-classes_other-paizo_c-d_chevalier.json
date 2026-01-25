@@ -1,0 +1,108 @@
+{
+  "file": "chevalier.md",
+  "source_path": "https://www.d20pfsrd.com/classes/prestige-classes/other-paizo/c-d/chevalier/",
+  "source_name": "Prestige Class: Chevalier (3.5e)",
+  "category": "Classes",
+  "toc_content": "Contents\n* [Requirements](#requirements)\n* [Class Skills](#class_skills)\n* [Class Features](#class_features)\n  + [Aura of Courage (Su)](#aura_of_courage_su)\n  + [Recklessness (Ex)](#recklessness_ex)\n  + [Controlled Charge (Ex)](#controlled_charge_ex)\n  + [Stubborn Mind (Ex)](#stubborn_mind_ex)\n  + [Poison Immunity (Ex)](#poison_immunity_ex)\n  + [Smite Evil (Su)](#smite_evil_su)",
+  "sections": [
+    {
+      "id": "chevalier_35e_overview",
+      "title": "Chevalier (3.5e) (Class Overview)",
+      "anchor_heading": "# Chevalier (3.5e)",
+      "end_at_heading": "### Requirements {#requirements}",
+      "description": "Overview of the Chevalier (3.5e) class including role, alignment, hit die, and starting wealth.",
+      "keywords": [
+        "chevalier (3.5e)",
+        "class",
+        "hit die",
+        "role",
+        "alignment"
+      ]
+    },
+    {
+      "id": "chevalier_35e_aura_of_courage_su",
+      "title": "Aura of Courage (Su) (Chevalier (3.5e))",
+      "anchor_heading": "#### Aura of Courage (Su) {#aura_of_courage_su}",
+      "description": "The chevalier projects an aura that provides immunity to fear effects to allies within range, functioning like a 3rd-level paladin's aura of courage.",
+      "keywords": [
+        "aura of courage",
+        "fear immunity",
+        "supernatural ability",
+        "paladin aura",
+        "ally fear protection",
+        "fear effects"
+      ]
+    },
+    {
+      "id": "chevalier_35e_recklessness_ex",
+      "title": "Recklessness (Ex) (Chevalier (3.5e))",
+      "anchor_heading": "#### Recklessness (Ex) {#recklessness_ex}",
+      "description": "The chevalier gains a morale bonus equal to his class level on attack and damage rolls on the first round he enters battle against new opponents, usable once per day per opponent group.",
+      "keywords": [
+        "recklessness",
+        "morale bonus",
+        "first round combat",
+        "attack bonus",
+        "damage bonus",
+        "enter battle",
+        "once per day per opponent"
+      ]
+    },
+    {
+      "id": "chevalier_35e_controlled_charge_ex",
+      "title": "Controlled Charge (Ex) (Chevalier (3.5e))",
+      "anchor_heading": "#### Controlled Charge (Ex) {#controlled_charge_ex}",
+      "description": "The chevalier no longer takes the normal -2 penalty to AC when making a charge attack.",
+      "keywords": [
+        "controlled charge",
+        "charge penalty",
+        "AC penalty",
+        "charging",
+        "charge attack",
+        "armor class penalty"
+      ]
+    },
+    {
+      "id": "chevalier_35e_stubborn_mind_ex",
+      "title": "Stubborn Mind (Ex) (Chevalier (3.5e))",
+      "anchor_heading": "#### Stubborn Mind (Ex) {#stubborn_mind_ex}",
+      "description": "If the chevalier fails a saving throw against an enchantment effect, he gets one additional saving throw attempt against the same DC one round later.",
+      "keywords": [
+        "stubborn mind",
+        "enchantment resistance",
+        "failed saving throw",
+        "second chance",
+        "enchantment effects",
+        "additional save",
+        "reroll save"
+      ]
+    },
+    {
+      "id": "chevalier_35e_poison_immunity_ex",
+      "title": "Poison Immunity (Ex) (Chevalier (3.5e))",
+      "anchor_heading": "#### Poison Immunity (Ex) {#poison_immunity_ex}",
+      "description": "The chevalier becomes completely immune to all poison effects.",
+      "keywords": [
+        "poison immunity",
+        "immune to poison",
+        "poison resistance",
+        "poison effects",
+        "toxin immunity"
+      ]
+    },
+    {
+      "id": "chevalier_35e_smite_evil_su",
+      "title": "Smite Evil (Su) (Chevalier (3.5e))",
+      "anchor_heading": "#### Smite Evil (Su) {#smite_evil_su}",
+      "description": "The chevalier can smite evil once per day as if he were a paladin of his character level, gaining bonuses against evil creatures.",
+      "keywords": [
+        "smite evil",
+        "paladin smite",
+        "evil creatures",
+        "once per day",
+        "supernatural smite",
+        "anti-evil"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,207 @@
+{
+  "file": "hinterlander.md",
+  "source_path": "https://www.d20pfsrd.com/classes/prestige-classes/other-paizo/e-h/hinterlander/",
+  "source_name": "Prestige Class: Hinterlander",
+  "category": "Classes",
+  "toc_content": "Contents\n* [Requirements](#requirements)\n* [Class Skills](#class_skills)\n* [Class Features](#class_features)\n  + [Weapon and Armor Proficiency](#weapon_and_armor_proficiency)\n  + [Favored Enemy (Ex)](#favored_enemy_ex)\n  + [Master Archer (Ex)](#master_archer_ex)\n  + [Fast Movement (Ex)](#fast_movement_ex)\n  + [Favored Terrain (Hinterland) (Ex)](#favored_terrain_hinterland_ex)\n  + [Hinterland Stride (Ex)](#hinterland_stride_ex)\n  + [Chosen Kin (Su)](#chosen_kin_su)\n  + [Defended Hearth (Su)](#defended_hearth_su)\n  + [Imbue Arrow (Su)](#imbue_arrow_su)\n  + [Waymarker Travel (Sp)](#waymarker_travel_sp)",
+  "sections": [
+    {
+      "id": "hinterlander_overview",
+      "title": "Hinterlander (Class Overview)",
+      "anchor_heading": "# Hinterlander",
+      "end_at_heading": "### Requirements {#requirements}",
+      "description": "Overview of the Hinterlander class including role, alignment, hit die, and starting wealth.",
+      "keywords": [
+        "hinterlander",
+        "class",
+        "hit die",
+        "role",
+        "alignment"
+      ]
+    },
+    {
+      "id": "hinterlander_weapon_and_armor_proficiency",
+      "title": "Weapon and Armor Proficiency (Hinterlander)",
+      "anchor_heading": "#### Weapon and Armor Proficiency {#weapon_and_armor_proficiency}",
+      "description": "Grants proficiency with all simple weapons, longbows, light armor, medium armor, and shields (except tower shields).",
+      "keywords": [
+        "weapon proficiency",
+        "armor proficiency",
+        "simple weapons",
+        "longbows",
+        "light armor",
+        "medium armor",
+        "shields",
+        "tower shields",
+        "hinterlander proficiencies"
+      ]
+    },
+    {
+      "id": "hinterlander_favored_enemy_ex",
+      "title": "Favored Enemy (Ex) (Hinterlander)",
+      "anchor_heading": "#### Favored Enemy (Ex) {#favored_enemy_ex}",
+      "description": "Functions like ranger's favored enemy but with unique benefits for each creature type and different progression (additional enemy at 8th level instead of 5th and 10th).",
+      "keywords": [
+        "favored enemy",
+        "aberrations",
+        "constructs",
+        "evil outsiders",
+        "magical beasts",
+        "monstrous humanoids",
+        "undead",
+        "damage reduction",
+        "ghost touch",
+        "wild empathy",
+        "good weapons",
+        "hardness",
+        "incorporeal"
+      ]
+    },
+    {
+      "id": "hinterlander_master_archer_ex",
+      "title": "Master Archer (Ex) (Hinterlander)",
+      "anchor_heading": "#### Master Archer (Ex) {#master_archer_ex}",
+      "description": "Grants bonus archery feats at 1st, 3rd, and 5th levels from a specific list, ignoring prerequisites, but benefits only apply in light, medium, or no armor.",
+      "keywords": [
+        "master archer",
+        "bonus feat",
+        "archery feats",
+        "Deadeye's Blessing",
+        "Far Shot",
+        "Focused Shot",
+        "Point-Blank Shot",
+        "Rapid Shot",
+        "Improved Precise Shot",
+        "Parting Shot",
+        "Point Blank Master",
+        "Manyshot",
+        "Pinpoint Targeting",
+        "Shot on the Run",
+        "armor restriction"
+      ]
+    },
+    {
+      "id": "hinterlander_fast_movement_ex",
+      "title": "Fast Movement (Ex) (Hinterlander)",
+      "anchor_heading": "#### Fast Movement (Ex) {#fast_movement_ex}",
+      "description": "Increases base land speed by 10 feet at 2nd level.",
+      "keywords": [
+        "fast movement",
+        "land speed",
+        "movement speed",
+        "speed increase",
+        "10 feet"
+      ]
+    },
+    {
+      "id": "hinterlander_favored_terrain_hinterland_ex",
+      "title": "Favored Terrain (Hinterland) (Ex) (Hinterlander)",
+      "anchor_heading": "#### Favored Terrain (Hinterland) (Ex) {#favored_terrain_hinterland_ex}",
+      "description": "Provides bonuses to initiative and specific skills when within range of small settlements (2,000 or fewer population), including trackless movement.",
+      "keywords": [
+        "favored terrain",
+        "hinterland",
+        "settlement",
+        "population 2000",
+        "initiative bonus",
+        "Knowledge geography",
+        "Perception",
+        "Stealth",
+        "Survival",
+        "trackless",
+        "no trail",
+        "10 mile radius",
+        "20 mile radius"
+      ]
+    },
+    {
+      "id": "hinterlander_hinterland_stride_ex",
+      "title": "Hinterland Stride (Ex) (Hinterlander)",
+      "anchor_heading": "#### Hinterland Stride (Ex) {#hinterland_stride_ex}",
+      "description": "Functions like woodland stride but also applies to non-magical difficult terrain in settled areas with 2,000 or fewer inhabitants.",
+      "keywords": [
+        "hinterland stride",
+        "woodland stride",
+        "difficult terrain",
+        "natural terrain",
+        "agrarian environments",
+        "settled areas",
+        "population 2000",
+        "farm",
+        "village"
+      ]
+    },
+    {
+      "id": "hinterlander_chosen_kin_su",
+      "title": "Chosen Kin (Su) (Hinterlander)",
+      "anchor_heading": "#### Chosen Kin (Su) {#chosen_kin_su}",
+      "description": "Allows designation of allies as chosen kin who gain half the hinterlander's favored terrain and defended hearth bonuses within range.",
+      "keywords": [
+        "chosen kin",
+        "standard action",
+        "Wisdom modifier",
+        "ally benefits",
+        "favored terrain bonus",
+        "defended hearth bonus",
+        "30 feet",
+        "60 feet",
+        "half bonus"
+      ]
+    },
+    {
+      "id": "hinterlander_defended_hearth_su",
+      "title": "Defended Hearth (Su) (Hinterlander)",
+      "anchor_heading": "#### Defended Hearth (Su) {#defended_hearth_su}",
+      "description": "Designates settlements as defended hearths, granting creature sense within 5 miles and stacking favored terrain bonuses after 24-hour study.",
+      "keywords": [
+        "defended hearth",
+        "settlement",
+        "population 2000",
+        "unnatural creatures",
+        "aberrations",
+        "constructs",
+        "dragons",
+        "magical beasts",
+        "monstrous humanoids",
+        "outsiders",
+        "undead",
+        "5 miles",
+        "24 hours",
+        "favored terrain bonus",
+        "stacking bonus",
+        "Wisdom bonus",
+        "creature sense"
+      ]
+    },
+    {
+      "id": "hinterlander_imbue_arrow_su",
+      "title": "Imbue Arrow (Su) (Hinterlander)",
+      "anchor_heading": "#### Imbue Arrow (Su) {#imbue_arrow_su}",
+      "description": "Allows placing area-effect spells on arrows, functioning exactly like the arcane archer ability of the same name.",
+      "keywords": [
+        "imbue arrow",
+        "arcane archer",
+        "area effect spells",
+        "spell arrow",
+        "area spells on arrows"
+      ]
+    },
+    {
+      "id": "hinterlander_waymarker_travel_sp",
+      "title": "Waymarker Travel (Sp) (Hinterlander)",
+      "anchor_heading": "#### Waymarker Travel (Sp) {#waymarker_travel_sp}",
+      "description": "Creates waymarkers in defended hearths and allows teleportation to them once per day as a move action using word of recall.",
+      "keywords": [
+        "waymarker travel",
+        "waymarker",
+        "defended hearth",
+        "five waymarkers",
+        "word of recall",
+        "teleport",
+        "move action",
+        "once per day",
+        "spell-like ability"
+      ]
+    }
+  ]
+}

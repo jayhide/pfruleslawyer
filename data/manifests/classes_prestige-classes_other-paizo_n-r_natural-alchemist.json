@@ -1,0 +1,169 @@
+{
+  "file": "natural-alchemist.md",
+  "source_path": "https://www.d20pfsrd.com/classes/prestige-classes/other-paizo/n-r/natural-alchemist/",
+  "source_name": "Prestige Class: Natural Alchemist",
+  "category": "Classes",
+  "toc_content": "",
+  "sections": [
+    {
+      "id": "natural_alchemist_overview",
+      "title": "Natural Alchemist (Class Overview)",
+      "anchor_heading": "# Natural Alchemist",
+      "end_at_heading": "### Requirements",
+      "description": "Overview of the Natural Alchemist class including role, alignment, hit die, and starting wealth.",
+      "keywords": [
+        "natural alchemist",
+        "class",
+        "hit die",
+        "role",
+        "alignment"
+      ]
+    },
+    {
+      "id": "natural_alchemist_weapon_and_armor_proficiency",
+      "title": "Weapon and Armor Proficiency (Natural Alchemist)",
+      "anchor_heading": "#### Weapon and Armor Proficiency",
+      "description": "Natural alchemists gain no additional weapon or armor proficiencies beyond what they already possess.",
+      "keywords": [
+        "weapon proficiency",
+        "armor proficiency",
+        "no proficiencies",
+        "natural alchemist proficiencies"
+      ]
+    },
+    {
+      "id": "natural_alchemist_extracts_or_spells_per_day",
+      "title": "Extracts or Spells per Day (Natural Alchemist)",
+      "anchor_heading": "#### Extracts or Spells per Day",
+      "description": "Natural alchemist levels advance extract or spell progression from a previous alchemist or arcane spellcasting class, but do not grant other class features.",
+      "keywords": [
+        "extracts per day",
+        "spells per day",
+        "caster level progression",
+        "spell progression",
+        "extract progression",
+        "spontaneous caster",
+        "spells known",
+        "arcane spellcasting",
+        "prestige class progression"
+      ]
+    },
+    {
+      "id": "natural_alchemist_healing_solution_su",
+      "title": "Healing Solution (Su) (Natural Alchemist)",
+      "anchor_heading": "#### Healing Solution (Su)",
+      "description": "Converts two extracts or spells into curative extracts as a full-round action, starting with cure light wounds and progressing to more powerful healing spells.",
+      "keywords": [
+        "healing solution",
+        "convert extracts",
+        "cure light wounds",
+        "cure moderate wounds",
+        "cure serious wounds",
+        "cure critical wounds",
+        "breath of life",
+        "full-round action",
+        "infused extract",
+        "magical reagents",
+        "curative magic"
+      ]
+    },
+    {
+      "id": "natural_alchemist_natural_discovery",
+      "title": "Natural Discovery (Natural Alchemist)",
+      "anchor_heading": "#### Natural Discovery",
+      "description": "Grants access to specific alchemist discoveries focused on healing, potions, and preservation effects at 2nd, 4th, 6th, and 8th levels.",
+      "keywords": [
+        "natural discovery",
+        "alchemist discovery",
+        "bottled ooze",
+        "combine extracts",
+        "dilution",
+        "elixir of life",
+        "enhance potion",
+        "eternal potion",
+        "extend potion",
+        "healing touch",
+        "infusion",
+        "mummification",
+        "preserve organs",
+        "spontaneous healing",
+        "discovery prerequisites"
+      ]
+    },
+    {
+      "id": "natural_alchemist_shared_infusion_su",
+      "title": "Shared Infusion (Su) (Natural Alchemist)",
+      "anchor_heading": "#### Shared Infusion (Su)",
+      "description": "Allows infusion extracts of multi-target spells to affect multiple creatures equal to Intelligence bonus when consumed within 1 round.",
+      "keywords": [
+        "shared infusion",
+        "infusion discovery",
+        "multiple targets",
+        "Intelligence bonus",
+        "standard action",
+        "imbibe extract",
+        "multi-target spells",
+        "infusion extract"
+      ]
+    },
+    {
+      "id": "natural_alchemist_bombs",
+      "title": "Bombs (Natural Alchemist)",
+      "anchor_heading": "#### Bombs",
+      "description": "Increases bomb damage by 1d6 and grants additional bombs per day every 3 levels, or grants bomb ability to non-alchemists.",
+      "keywords": [
+        "bomb damage",
+        "bombs per day",
+        "alchemist bombs",
+        "bomb discoveries",
+        "1d6 damage",
+        "bomb ability",
+        "alchemist level"
+      ]
+    },
+    {
+      "id": "natural_alchemist_curative_enhancement_su",
+      "title": "Curative Enhancement (Su) (Natural Alchemist)",
+      "anchor_heading": "#### Curative Enhancement (Su)",
+      "description": "Allows healing solutions to remove various conditions by reducing healing potency, with more conditions available at higher levels.",
+      "keywords": [
+        "curative enhancement",
+        "healing solution",
+        "remove conditions",
+        "fatigued",
+        "shaken",
+        "sickened",
+        "dazed",
+        "diseased",
+        "staggered",
+        "cursed",
+        "exhausted",
+        "frightened",
+        "nauseated",
+        "poisoned",
+        "blinded",
+        "deafened",
+        "paralyzed",
+        "stunned",
+        "remove disease",
+        "remove curse",
+        "neutralize poison",
+        "condition removal"
+      ]
+    },
+    {
+      "id": "natural_alchemist_eternal_youth_su",
+      "title": "Eternal Youth (Su) (Natural Alchemist)",
+      "anchor_heading": "#### Eternal Youth (Su)",
+      "description": "Grants the ability to create an imperfect duplicate of the sun orchid elixir that functions as the eternal youth grand discovery.",
+      "keywords": [
+        "eternal youth",
+        "sun orchid elixir",
+        "grand discovery",
+        "eternal youth grand discovery",
+        "aging effects",
+        "imperfect duplicate"
+      ]
+    }
+  ]
+}

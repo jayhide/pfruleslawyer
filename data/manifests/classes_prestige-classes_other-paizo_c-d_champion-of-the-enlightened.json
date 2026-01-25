@@ -1,0 +1,238 @@
+{
+  "file": "champion-of-the-enlightened.md",
+  "source_path": "https://www.d20pfsrd.com/classes/prestige-classes/other-paizo/c-d/champion-of-the-enlightened/",
+  "source_name": "Prestige Class: Champion of the Enlightened",
+  "category": "Classes",
+  "toc_content": "Contents\n* [Requirements](#requirements)\n* [Class Skills](#class_skills)\n* [Class Features](#class_features)\n  + [Weapon and Armor Proficiency](#weapon_and_armor_proficiency)\n  + [Detect Chaos (Sp)](#detect_chaos_sp)\n  + [Martial Artist (Ex)](#martial_artist_ex)\n  + [Smite Chaos (Su)](#smite_chaos_su)\n  + [Ki Pool (Su)](#ki_pool_su)\n  + [Pursuit of Knowledge (Ex)](#pursuit_of_knowledge_ex)\n  + [Sweeping Smite (Ex)](#sweeping_smite_ex)\n  + [Valiant Stand (Su)](#valiant_stand_su)\n  + [Shield the Weak (Su)](#shield_the_weak_su)\n  + [Skill Mastery](#skill_mastery)\n  + [Perfect Opening (Ex)](#perfect_opening_ex)\n  + [One Finger (Su)](#one_finger_su)\n  + [Perfect Strike (Su)](#perfect_strike_su)\n  + [Whirlwind Smite (Ex)](#whirlwind_smite_ex)\n* [Code of Conduct](#code_of_conduct)",
+  "sections": [
+    {
+      "id": "champion_of_the_enlightened_overview",
+      "title": "Champion of the Enlightened (Class Overview)",
+      "anchor_heading": "# Champion of the Enlightened",
+      "end_at_heading": "### Requirements {#requirements}",
+      "description": "Overview of the Champion of the Enlightened class including role, alignment, hit die, and starting wealth.",
+      "keywords": [
+        "champion of the enlightened",
+        "class",
+        "hit die",
+        "role",
+        "alignment"
+      ]
+    },
+    {
+      "id": "champion_of_the_enlightened_weapon_and_armor_proficiency",
+      "title": "Weapon and Armor Proficiency (Champion of the Enlightened)",
+      "anchor_heading": "#### Weapon and Armor Proficiency {#weapon_and_armor_proficiency}",
+      "description": "The champion of the enlightened gains no additional weapon or armor proficiencies beyond their base class.",
+      "keywords": [
+        "weapon proficiency",
+        "armor proficiency",
+        "no additional proficiencies",
+        "champion of the enlightened proficiencies"
+      ]
+    },
+    {
+      "id": "champion_of_the_enlightened_detect_chaos_sp",
+      "title": "Detect Chaos (Sp) (Champion of the Enlightened)",
+      "anchor_heading": "#### Detect Chaos (Sp) {#detect_chaos_sp}",
+      "description": "Functions like a paladin's detect evil ability but detects chaotic alignment instead of evil alignment.",
+      "keywords": [
+        "detect chaos",
+        "spell-like ability",
+        "paladin detect evil",
+        "chaos detection",
+        "alignment detection"
+      ]
+    },
+    {
+      "id": "champion_of_the_enlightened_martial_artist_ex",
+      "title": "Martial Artist ([Ex](https://www.d20pfsrd.com/magic#TOC-Extraordinary-Abilities-Ex-)) (Champion of the Enlightened)",
+      "anchor_heading": "#### Martial Artist ([Ex](https://www.d20pfsrd.com/magic#TOC-Extraordinary-Abilities-Ex-)) {#martial_artist_ex}",
+      "description": "Champion of the enlightened class levels stack with monk levels for AC bonus, flurry of blows, stunning fist, and unarmed strike features.",
+      "keywords": [
+        "martial artist",
+        "monk stacking",
+        "class level stacking",
+        "AC bonus",
+        "flurry of blows",
+        "stunning fist",
+        "unarmed strike",
+        "monk synergy"
+      ]
+    },
+    {
+      "id": "champion_of_the_enlightened_smite_chaos_su",
+      "title": "Smite Chaos (Su) (Champion of the Enlightened)",
+      "anchor_heading": "#### Smite Chaos (Su) {#smite_chaos_su}",
+      "description": "Grants additional smite evil uses and allows using smite against chaotic creatures, dealing extra damage to chaotic outsiders, aberrations, and fey.",
+      "keywords": [
+        "smite chaos",
+        "smite evil",
+        "chaotic outsiders",
+        "chaotic aberrations",
+        "chaotic fey",
+        "additional smite uses",
+        "alignment smiting",
+        "supernatural ability"
+      ]
+    },
+    {
+      "id": "champion_of_the_enlightened_ki_pool_su",
+      "title": "Ki Pool (Su) (Champion of the Enlightened)",
+      "anchor_heading": "#### Ki Pool (Su) {#ki_pool_su}",
+      "description": "Gains a ki pool based on class level and Wisdom modifier, can spend 2 ki points to trigger lay on hands or smite abilities.",
+      "keywords": [
+        "ki pool",
+        "wisdom modifier",
+        "lay on hands",
+        "smite evil",
+        "ki points",
+        "monk ki pool",
+        "class stacking",
+        "supernatural ability"
+      ]
+    },
+    {
+      "id": "champion_of_the_enlightened_pursuit_of_knowledge_ex",
+      "title": "Pursuit of [Knowledge](https://www.d20pfsrd.com/skills/knowledge) ([Ex](https://www.d20pfsrd.com/magic#TOC-Extraordinary-Abilities-Ex-)) (Champion of the Enlightened)",
+      "anchor_heading": "#### Pursuit of [Knowledge](https://www.d20pfsrd.com/skills/knowledge) ([Ex](https://www.d20pfsrd.com/magic#TOC-Extraordinary-Abilities-Ex-)) {#pursuit_of_knowledge_ex}",
+      "description": "Adds half class level to all Knowledge checks and allows making Knowledge skill checks untrained.",
+      "keywords": [
+        "pursuit of knowledge",
+        "knowledge checks",
+        "untrained knowledge",
+        "skill bonus",
+        "extraordinary ability",
+        "knowledge skills"
+      ]
+    },
+    {
+      "id": "champion_of_the_enlightened_sweeping_smite_ex",
+      "title": "Sweeping Smite ([Ex](https://www.d20pfsrd.com/magic#TOC-Extraordinary-Abilities-Ex-)) (Champion of the Enlightened)",
+      "anchor_heading": "#### Sweeping Smite ([Ex](https://www.d20pfsrd.com/magic#TOC-Extraordinary-Abilities-Ex-)) {#sweeping_smite_ex}",
+      "description": "Allows making additional unarmed strikes against adjacent evil or chaotic creatures when using smite abilities, functioning like Cleave.",
+      "keywords": [
+        "sweeping smite",
+        "standard action",
+        "unarmed strike",
+        "smite evil",
+        "smite chaos",
+        "adjacent creatures",
+        "cleave",
+        "great cleave",
+        "threatened area"
+      ]
+    },
+    {
+      "id": "champion_of_the_enlightened_valiant_stand_su",
+      "title": "Valiant Stand (Su) (Champion of the Enlightened)",
+      "anchor_heading": "#### Valiant Stand (Su) {#valiant_stand_su}",
+      "description": "Gains sacred bonuses to attack rolls and AC when adjacent to multiple opponents but no allies.",
+      "keywords": [
+        "valiant stand",
+        "sacred bonus",
+        "attack rolls",
+        "AC bonus",
+        "adjacent opponents",
+        "multiple enemies",
+        "no allies",
+        "supernatural ability"
+      ]
+    },
+    {
+      "id": "champion_of_the_enlightened_shield_the_weak_su",
+      "title": "Shield the Weak (Su) (Champion of the Enlightened)",
+      "anchor_heading": "#### Shield the Weak (Su) {#shield_the_weak_su}",
+      "description": "As an immediate action, can provide improved cover and improved evasion to adjacent allies against area effects by forgoing own saving throw.",
+      "keywords": [
+        "shield the weak",
+        "immediate action",
+        "improved cover",
+        "improved evasion",
+        "reflex save",
+        "burst",
+        "cone",
+        "line",
+        "spread",
+        "area effect",
+        "adjacent allies"
+      ]
+    },
+    {
+      "id": "champion_of_the_enlightened_skill_mastery",
+      "title": "Skill Mastery (Champion of the Enlightened)",
+      "anchor_heading": "#### Skill Mastery {#skill_mastery}",
+      "description": "Functions exactly like the rogue's skill mastery advanced talent, allowing taking 10 on certain skills even under stress.",
+      "keywords": [
+        "skill mastery",
+        "rogue talent",
+        "advanced rogue talent",
+        "take 10",
+        "skill checks",
+        "stress conditions"
+      ]
+    },
+    {
+      "id": "champion_of_the_enlightened_perfect_opening_ex",
+      "title": "Perfect Opening ([Ex](https://www.d20pfsrd.com/magic#TOC-Extraordinary-Abilities-Ex-)) (Champion of the Enlightened)",
+      "anchor_heading": "#### Perfect Opening ([Ex](https://www.d20pfsrd.com/magic#TOC-Extraordinary-Abilities-Ex-)) {#perfect_opening_ex}",
+      "description": "Can make an attack of opportunity when an enemy confirms a critical hit, even if incapacitated, and the attack is automatically a critical threat.",
+      "keywords": [
+        "perfect opening",
+        "attack of opportunity",
+        "critical hit",
+        "critical threat",
+        "unconscious",
+        "incapacitated",
+        "extraordinary ability"
+      ]
+    },
+    {
+      "id": "champion_of_the_enlightened_one_finger_su",
+      "title": "One Finger (Su) (Champion of the Enlightened)",
+      "anchor_heading": "#### One Finger (Su) {#one_finger_su}",
+      "description": "Can resolve a single unarmed attack as a melee touch attack as a standard action.",
+      "keywords": [
+        "one finger",
+        "unarmed attack",
+        "melee touch attack",
+        "standard action",
+        "supernatural ability",
+        "touch AC"
+      ]
+    },
+    {
+      "id": "champion_of_the_enlightened_perfect_strike_su",
+      "title": "Perfect Strike (Su) (Champion of the Enlightened)",
+      "anchor_heading": "#### Perfect Strike (Su) {#perfect_strike_su}",
+      "description": "Can spend 1 ki point as a swift action to roll attack and damage twice for the next unarmed attack, choosing the better result.",
+      "keywords": [
+        "perfect strike",
+        "ki pool",
+        "swift action",
+        "unarmed attack",
+        "roll twice",
+        "attack roll",
+        "damage roll",
+        "supernatural ability"
+      ]
+    },
+    {
+      "id": "champion_of_the_enlightened_whirlwind_smite_ex",
+      "title": "Whirlwind Smite ([Ex](https://www.d20pfsrd.com/magic#TOC-Extraordinary-Abilities-Ex-)) (Champion of the Enlightened)",
+      "anchor_heading": "#### Whirlwind Smite ([Ex](https://www.d20pfsrd.com/magic#TOC-Extraordinary-Abilities-Ex-)) {#whirlwind_smite_ex}",
+      "description": "Can make unarmed strikes against all threatened creatures as a full-round action while applying smite benefits, like Whirlwind Attack.",
+      "keywords": [
+        "whirlwind smite",
+        "full-round action",
+        "unarmed strike",
+        "threatened creatures",
+        "whirlwind attack",
+        "smite evil",
+        "smite chaos",
+        "wisdom bonus",
+        "extraordinary ability"
+      ]
+    }
+  ]
+}

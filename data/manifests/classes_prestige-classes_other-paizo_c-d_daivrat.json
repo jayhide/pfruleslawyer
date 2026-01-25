@@ -1,0 +1,162 @@
+{
+  "file": "daivrat.md",
+  "source_path": "https://www.d20pfsrd.com/classes/prestige-classes/other-paizo/c-d/daivrat/",
+  "source_name": "Prestige Class: Daivrat",
+  "category": "Classes",
+  "toc_content": "Contents\n* [Requirements](#requirements)\n* [Class Skills](#class_skills)\n* [Class Features](#class_features)\n  + [Weapon and Armor Proficiency](#weapon_and_armor_proficiency)\n  + [Spells](#spells)\n  + [Elemental Focus (Su)](#elemental_focus_su)\n  + [Genie-Tongue](#genie-tongue)\n  + [Spell-Fetch (Su)](#spell-fetch_su)\n  + [Genie\u2019s Friend (Su)](#genies_friend_su)\n  + [Elemental Attunement (Ex)](#elemental_attunement_ex)\n  + [Zhyen Familiar](#zhyen_familiar)\n  + [Greater Elemental Focus (Su)](#greater_elemental_focus_su)\n  + [Genie-kin (Ex)](#genie-kin_ex)",
+  "sections": [
+    {
+      "id": "daivrat_overview",
+      "title": "Daivrat (Class Overview)",
+      "anchor_heading": "# Daivrat",
+      "end_at_heading": "### Requirements {#requirements}",
+      "description": "Overview of the Daivrat class including role, alignment, hit die, and starting wealth.",
+      "keywords": [
+        "daivrat",
+        "class",
+        "hit die",
+        "role",
+        "alignment"
+      ]
+    },
+    {
+      "id": "daivrat_weapon_and_armor_proficiency",
+      "title": "Weapon and Armor Proficiency (Daivrat)",
+      "anchor_heading": "#### Weapon and Armor Proficiency {#weapon_and_armor_proficiency}",
+      "description": "A daivrat gains no proficiency with any weapon or armor.",
+      "keywords": [
+        "weapon proficiency",
+        "armor proficiency",
+        "no proficiency",
+        "nonproficient"
+      ]
+    },
+    {
+      "id": "daivrat_spells",
+      "title": "Spells (Daivrat)",
+      "anchor_heading": "#### Spells {#spells}",
+      "description": "The daivrat gains spells per day and increased caster level as if advancing in a previous spellcasting class, but gains no other class benefits.",
+      "keywords": [
+        "spells per day",
+        "spells known",
+        "effective caster level",
+        "spellcasting progression",
+        "spontaneous spellcaster",
+        "prestige class spellcasting"
+      ]
+    },
+    {
+      "id": "daivrat_elemental_focus_su",
+      "title": "Elemental Focus (Su) (Daivrat)",
+      "anchor_heading": "#### Elemental Focus (Su) {#elemental_focus_su}",
+      "description": "The daivrat chooses an elemental descriptor and is treated as having Spell Focus for spells with that descriptor.",
+      "keywords": [
+        "elemental focus",
+        "spell focus",
+        "acid descriptor",
+        "air descriptor",
+        "cold descriptor",
+        "earth descriptor",
+        "electricity descriptor",
+        "fire descriptor",
+        "water descriptor",
+        "spell descriptors"
+      ]
+    },
+    {
+      "id": "daivrat_genie-tongue",
+      "title": "Genie-Tongue (Daivrat)",
+      "anchor_heading": "#### Genie-Tongue {#genie-tongue}",
+      "description": "The daivrat gains bonuses on Charisma-based checks to influence genies and Knowledge checks about genies.",
+      "keywords": [
+        "genie-tongue",
+        "charisma checks",
+        "influence genies",
+        "knowledge checks genies",
+        "genie attitude",
+        "genie allies"
+      ]
+    },
+    {
+      "id": "daivrat_spell-fetch_su",
+      "title": "Spell-Fetch (Su) (Daivrat)",
+      "anchor_heading": "#### Spell-Fetch (Su) {#spell-fetch_su}",
+      "description": "Once per day, the daivrat can conjure a minor genie to temporarily grant access to a spell not normally known, but at increased spell level cost.",
+      "keywords": [
+        "spell-fetch",
+        "conjure genie",
+        "unknown spell",
+        "prohibited school",
+        "spell preparation",
+        "spell level increase",
+        "temporary spell access",
+        "cross-class spells"
+      ]
+    },
+    {
+      "id": "daivrat_genies_friend_su",
+      "title": "Genie\u2019s Friend (Su) (Daivrat)",
+      "anchor_heading": "#### Genie\u2019s Friend (Su) {#genies_friend_su}",
+      "description": "The daivrat gains a bonus to caster level when conjuring genies.",
+      "keywords": [
+        "genie's friend",
+        "caster level bonus",
+        "conjuring genies",
+        "genie conjuration",
+        "summoning genies"
+      ]
+    },
+    {
+      "id": "daivrat_elemental_attunement_ex",
+      "title": "Elemental Attunement (Ex) (Daivrat)",
+      "anchor_heading": "#### Elemental Attunement (Ex) {#elemental_attunement_ex}",
+      "description": "The daivrat gains energy resistance 5 against acid, cold, electricity, or fire.",
+      "keywords": [
+        "elemental attunement",
+        "energy resistance",
+        "acid resistance",
+        "cold resistance",
+        "electricity resistance",
+        "fire resistance"
+      ]
+    },
+    {
+      "id": "daivrat_zhyen_familiar",
+      "title": "Zhyen Familiar (Daivrat)",
+      "anchor_heading": "#### Zhyen Familiar {#zhyen_familiar}",
+      "description": "The daivrat can select a zhyen as a familiar, replacing any existing familiar as if having the Improved Familiar feat.",
+      "keywords": [
+        "zhyen familiar",
+        "improved familiar",
+        "familiar replacement",
+        "outsider familiar"
+      ]
+    },
+    {
+      "id": "daivrat_greater_elemental_focus_su",
+      "title": "Greater Elemental Focus (Su) (Daivrat)",
+      "anchor_heading": "#### Greater Elemental Focus (Su) {#greater_elemental_focus_su}",
+      "description": "The daivrat's elemental focus ability upgrades to Greater Spell Focus for spells with the chosen descriptor.",
+      "keywords": [
+        "greater elemental focus",
+        "greater spell focus",
+        "elemental descriptor upgrade",
+        "spell focus progression"
+      ]
+    },
+    {
+      "id": "daivrat_genie-kin_ex",
+      "title": "Genie-kin (Ex) (Daivrat)",
+      "anchor_heading": "#### Genie-kin (Ex) {#genie-kin_ex}",
+      "description": "The daivrat's type changes to outsider (native) and gains multiple energy resistances and damage reduction.",
+      "keywords": [
+        "genie-kin",
+        "type change",
+        "outsider native",
+        "energy resistance",
+        "damage reduction",
+        "creature type transformation"
+      ]
+    }
+  ]
+}

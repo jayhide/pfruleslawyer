@@ -1,0 +1,94 @@
+{
+  "file": "potions.md",
+  "source_path": "https://www.d20pfsrd.com/magic-items/potions/",
+  "sections": [
+    {
+      "id": "potions_general_rules",
+      "title": "Potions General Rules",
+      "anchor_heading": "# Potions",
+      "description": "Core rules for potions and oils including what they are, spell requirements, random generation tables, physical properties, identification methods, and activation mechanics",
+      "keywords": [
+        "potion",
+        "oil",
+        "magic liquid",
+        "imbibed",
+        "vial",
+        "standard action",
+        "incorporeal",
+        "unconscious",
+        "spell level",
+        "caster level"
+      ]
+    },
+    {
+      "id": "price_of_potions",
+      "title": "Price of Potions",
+      "anchor_heading": "### Price of Potions",
+      "description": "Pricing formulas for potions, how spell level and caster level affect cost, material component costs, and how different casters affect pricing",
+      "keywords": [
+        "price",
+        "cost",
+        "material component",
+        "caster level",
+        "spell level",
+        "brewing"
+      ]
+    },
+    {
+      "id": "potion_and_oil_reference_guide",
+      "title": "Potion and Oil Reference Guide",
+      "anchor_heading": "### Potion and Oil Reference Guide",
+      "description": "Spell requirements for potion creation and comprehensive lists of common potions and oils organized by spell level with prices",
+      "keywords": [
+        "spell requirements",
+        "casting time",
+        "range",
+        "target",
+        "0-level",
+        "1st-level",
+        "2nd-level",
+        "3rd-level"
+      ]
+    },
+    {
+      "id": "table_specific_potions_and_oils",
+      "title": "Table: Specific Potions and Oils",
+      "anchor_heading": "#### Table: Specific Potions and Oils",
+      "description": "Random generation table for determining specific potions and oils by treasure type (minor/medium/major) with market prices",
+      "keywords": [
+        "random generation",
+        "minor",
+        "medium",
+        "major",
+        "treasure",
+        "market price",
+        "specific potions"
+      ]
+    },
+    {
+      "id": "all_paizo_potions",
+      "title": "All Paizo Potions",
+      "anchor_heading": "### All Paizo Potions",
+      "description": "Reference to comprehensive list of potions from Paizo sources",
+      "keywords": [
+        "Paizo",
+        "official",
+        "comprehensive list"
+      ]
+    },
+    {
+      "id": "3rd_party_publisher_potions_oils",
+      "title": "3rd Party Publisher Potions & Oils",
+      "anchor_heading": "### 3rd Party Publisher Potions & Oils",
+      "description": "Reference to potions and oils from third-party publishers",
+      "keywords": [
+        "3rd party",
+        "third party",
+        "publisher",
+        "non-Paizo"
+      ]
+    }
+  ],
+  "source_name": "",
+  "category": "Core Rules"
+}

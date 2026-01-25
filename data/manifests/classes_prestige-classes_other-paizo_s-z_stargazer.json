@@ -1,0 +1,113 @@
+{
+  "file": "stargazer.md",
+  "source_path": "https://www.d20pfsrd.com/classes/prestige-classes/other-paizo/s-z/stargazer/",
+  "source_name": "Prestige Class: Stargazer",
+  "category": "Classes",
+  "toc_content": "Contents\n* [Requirements](#requirements)\n* [Class Skills](#class_skills)\n* [Class Features](#class_features)\n  + [Guiding Light (Su)](#guiding_light_su)\n  + [Mystery Magic (Ex)](#mystery_magic_ex)\n  + [Sidereal Arcana (Su or Sp)](#sidereal_arcana_su_or_sp)\n  + [Stars\u2019 Dance (Ex)](#stars_dance_ex)",
+  "sections": [
+    {
+      "id": "stargazer_overview",
+      "title": "Stargazer (Class Overview)",
+      "anchor_heading": "# Stargazer",
+      "end_at_heading": "### Requirements {#requirements}",
+      "description": "Overview of the Stargazer class including role, alignment, hit die, and starting wealth.",
+      "keywords": [
+        "stargazer",
+        "class",
+        "hit die",
+        "role",
+        "alignment"
+      ]
+    },
+    {
+      "id": "stargazer_guiding_light_su",
+      "title": "Guiding Light (Su) (Stargazer)",
+      "anchor_heading": "#### Guiding Light (Su) {#guiding_light_su}",
+      "description": "The stargazer gains a familiar, treating his stargazer level as his wizard level for familiar purposes.",
+      "keywords": [
+        "guiding light",
+        "familiar",
+        "wizard level",
+        "stargazer familiar",
+        "arcane bond",
+        "treat level as wizard"
+      ]
+    },
+    {
+      "id": "stargazer_mystery_magic_ex",
+      "title": "Mystery Magic (Ex) (Stargazer)",
+      "anchor_heading": "#### Mystery Magic (Ex) {#mystery_magic_ex}",
+      "description": "The stargazer gains witch hexes at 1st and 9th levels, heavens spirit hexes, the Stars subdomain at 3rd level, and specific oracle revelations at 5th and 7th levels, with levels stacking across multiple classes.",
+      "keywords": [
+        "mystery magic",
+        "witch hex",
+        "hexes",
+        "stars subdomain",
+        "heavens spirit",
+        "coat of many stars",
+        "star chart",
+        "oracle revelation",
+        "stars are right",
+        "level stacking",
+        "cleric domain",
+        "spells once per day"
+      ]
+    },
+    {
+      "id": "stargazer_sidereal_arcana_su_or_sp",
+      "title": "Sidereal Arcana (Su or Sp) (Stargazer)",
+      "anchor_heading": "#### Sidereal Arcana (Su or Sp) {#sidereal_arcana_su_or_sp}",
+      "description": "The stargazer gains constellation-based powers called sidereal arcana at 2nd level and every 2 levels thereafter, choosing from specific cosmic caravan constellations.",
+      "keywords": [
+        "sidereal arcana",
+        "cosmic caravan",
+        "constellation",
+        "the bridge",
+        "the daughter",
+        "the follower",
+        "the lantern bearer",
+        "the mother",
+        "the newlyweds",
+        "the pack",
+        "the patriarch",
+        "the rider",
+        "the stargazer",
+        "the stranger",
+        "the thrush",
+        "the wagon",
+        "cold resistance",
+        "darkvision",
+        "morale bonus fear",
+        "death effects immunity",
+        "light radius",
+        "cure spell bonus",
+        "charm save dc",
+        "handle animal",
+        "summoning animals",
+        "navigation bonus",
+        "phantom steed",
+        "sanctuary",
+        "initiative bonus",
+        "cultural adaptation",
+        "diplomacy bonus",
+        "movement speed",
+        "freedom of movement"
+      ]
+    },
+    {
+      "id": "stargazer_stars_dance_ex",
+      "title": "Stars\u2019 Dance (Ex) (Stargazer)",
+      "anchor_heading": "#### Stars\u2019 Dance (Ex) {#stars_dance_ex}",
+      "description": "Once per day at 10th level, the stargazer can replace one of his sidereal arcana with any other sidereal arcana permanently.",
+      "keywords": [
+        "stars dance",
+        "replace sidereal arcana",
+        "swap constellation",
+        "change arcana",
+        "10th level",
+        "once per day",
+        "permanent change"
+      ]
+    }
+  ]
+}

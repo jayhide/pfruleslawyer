@@ -1,0 +1,179 @@
+{
+  "file": "gray-corsair.md",
+  "source_path": "https://www.d20pfsrd.com/classes/prestige-classes/other-paizo/e-h/gray-corsair/",
+  "source_name": "Prestige Class: Gray Corsair",
+  "category": "Classes",
+  "toc_content": "Contents\n* [Requirements](#requirements)\n* [Class Skills](#class_skills)\n* [Class Features](#class_features)\n  + [Favored Port (Ex)](#favored_port_ex)\n  + [Gray Focus](#gray_focus)\n  + [Gray Boon](#gray_boon)\n  + [Know the Ropes (Ex)](#know_the_ropes_ex)\n  + [Slaver Slayer (Ex)](#slaver_slayer_ex)\n  + [Breathe Easy (Sp)](#breathe_easy_sp)\n  + [Grim Resolve (Ex)](#grim_resolve_ex)\n  + [Grant Freedom (Sp)](#grant_freedom_sp)\n  + [Whisk to Freedom (Sp)](#whisk_to_freedom_sp)",
+  "sections": [
+    {
+      "id": "gray_corsair_overview",
+      "title": "Gray Corsair (Class Overview)",
+      "anchor_heading": "# Gray Corsair",
+      "end_at_heading": "### Requirements {#requirements}",
+      "description": "Overview of the Gray Corsair class including role, alignment, hit die, and starting wealth.",
+      "keywords": [
+        "gray corsair",
+        "class",
+        "hit die",
+        "role",
+        "alignment"
+      ]
+    },
+    {
+      "id": "gray_corsair_favored_port_ex",
+      "title": "Favored Port (Ex) (Gray Corsair)",
+      "anchor_heading": "#### Favored Port (Ex) {#favored_port_ex}",
+      "description": "Grants bonuses to social skills, initiative, and Will saves while in chosen coastal settlements or aboard ships from those ports. Also provides free room and board in favored ports.",
+      "keywords": [
+        "favored port",
+        "coastal settlement",
+        "Bluff bonus",
+        "Diplomacy bonus",
+        "Intimidate bonus",
+        "Knowledge local bonus",
+        "initiative bonus",
+        "Will save bonus",
+        "home port",
+        "room and board",
+        "ship bonuses"
+      ]
+    },
+    {
+      "id": "gray_corsair_gray_focus",
+      "title": "Gray Focus (Gray Corsair)",
+      "anchor_heading": "#### Gray Focus {#gray_focus}",
+      "description": "Requires choosing a specific class focus that provides either automatic concentration checks for spellcasters or freedom from attacks of opportunity for non-spellcasters while on ships or swimming.",
+      "keywords": [
+        "gray focus",
+        "class synergy",
+        "concentration checks",
+        "vigorous motion",
+        "violent motion",
+        "attacks of opportunity",
+        "threatened square",
+        "swimming",
+        "ship movement",
+        "spellcasting focus",
+        "non-spellcasting focus"
+      ]
+    },
+    {
+      "id": "gray_corsair_gray_boon",
+      "title": "Gray Boon (Gray Corsair)",
+      "anchor_heading": "#### Gray Boon {#gray_boon}",
+      "description": "Provides class feature progression based on the chosen gray focus, including spell progression for casters, bonus feats for martial classes, or enhanced class abilities for rogues and investigators.",
+      "keywords": [
+        "gray boon",
+        "spells per day",
+        "caster level progression",
+        "bonus combat feat",
+        "studied strike",
+        "sneak attack",
+        "class feature advancement",
+        "spell progression",
+        "martial progression"
+      ]
+    },
+    {
+      "id": "gray_corsair_know_the_ropes_ex",
+      "title": "Know the Ropes (Ex) (Gray Corsair)",
+      "anchor_heading": "#### Know the Ropes (Ex) {#know_the_ropes_ex}",
+      "description": "Provides climbing bonuses when using ropes or rigging, including one-handed climbing, no accelerated climbing penalties, and immunity to falling from damage.",
+      "keywords": [
+        "know the ropes",
+        "rope climbing",
+        "rigging climbing",
+        "Climb check bonus",
+        "circumstance bonus",
+        "one hand climbing",
+        "accelerated climbing",
+        "Dexterity bonus to AC",
+        "falling damage",
+        "ship rigging"
+      ]
+    },
+    {
+      "id": "gray_corsair_slaver_slayer_ex",
+      "title": "Slaver Slayer (Ex) (Gray Corsair)",
+      "anchor_heading": "#### Slaver Slayer (Ex) {#slaver_slayer_ex}",
+      "description": "Grants escalating attack and damage bonuses against slavers and slave owners, plus automatic critical hit confirmation against such targets.",
+      "keywords": [
+        "slaver slayer",
+        "slavers",
+        "slave owners",
+        "attack bonus",
+        "damage bonus",
+        "automatic critical confirmation",
+        "critical hit confirmation",
+        "anti-slaver combat"
+      ]
+    },
+    {
+      "id": "gray_corsair_breathe_easy_sp",
+      "title": "Breathe Easy (Sp) (Gray Corsair)",
+      "anchor_heading": "#### Breathe Easy (Sp) {#breathe_easy_sp}",
+      "description": "Provides water breathing as a spell-like ability that can be used as a move or immediate action with varying ranges and durations.",
+      "keywords": [
+        "breathe easy",
+        "water breathing",
+        "spell-like ability",
+        "move action",
+        "immediate action",
+        "120 feet range",
+        "60 feet range",
+        "drowning rescue",
+        "underwater breathing"
+      ]
+    },
+    {
+      "id": "gray_corsair_grim_resolve_ex",
+      "title": "Grim Resolve (Ex) (Gray Corsair)",
+      "anchor_heading": "#### Grim Resolve (Ex) {#grim_resolve_ex}",
+      "description": "Grants immunity to fear effects and adds Wisdom bonus to stabilization checks when dying.",
+      "keywords": [
+        "grim resolve",
+        "fear immunity",
+        "immune to fear",
+        "stabilize checks",
+        "Wisdom bonus",
+        "dying",
+        "negative hit points",
+        "stabilization",
+        "fear effects"
+      ]
+    },
+    {
+      "id": "gray_corsair_grant_freedom_sp",
+      "title": "Grant Freedom (Sp) (Gray Corsair)",
+      "anchor_heading": "#### Grant Freedom (Sp) {#grant_freedom_sp}",
+      "description": "Provides constant freedom of movement that can be transferred to others via touch as a swift action for a limited duration.",
+      "keywords": [
+        "grant freedom",
+        "freedom of movement",
+        "constant spell-like ability",
+        "touch transfer",
+        "swift action",
+        "movement restriction immunity",
+        "transferable effect",
+        "24 hour cooldown"
+      ]
+    },
+    {
+      "id": "gray_corsair_whisk_to_freedom_sp",
+      "title": "Whisk to Freedom (Sp) (Gray Corsair)",
+      "anchor_heading": "#### Whisk to Freedom (Sp) {#whisk_to_freedom_sp}",
+      "description": "Grants wind walk and word of recall as daily spell-like abilities, with word of recall restricted to returning to Gray Corsair ships.",
+      "keywords": [
+        "whisk to freedom",
+        "wind walk",
+        "word of recall",
+        "spell-like abilities",
+        "Gray Corsair ship",
+        "teleportation",
+        "wind travel",
+        "escape abilities",
+        "daily uses"
+      ]
+    }
+  ]
+}

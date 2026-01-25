@@ -1,0 +1,174 @@
+{
+  "file": "proctor.md",
+  "source_path": "https://www.d20pfsrd.com/classes/prestige-classes/other-paizo/n-r/proctor/",
+  "source_name": "Prestige Class: Proctor",
+  "category": "Classes",
+  "toc_content": "Contents\n* [Requirements](#requirements)\n* [Class Skills](#class_skills)\n* [Class Features](#class_features)\n  + [Weapon and Armor Proficiency](#weapon_and_armor_proficiency)\n  + [Spells per Day](#spells_per_day)\n  + [Monitor Familiar (Ex)](#monitor_familiar_ex)\n  + [Obedience (Ex)](#obedience_ex)\n  + [Soultended (Ex)](#soultended_ex)\n  + [Monitor Expression (Su)](#monitor_expression_su)\n  + [Monitor Boon](#monitor_boon)\n  + [Summon Monitor (Sp)](#summon_monitor_sp)\n  + [Solemn Voice (Su)](#solemn_voice_su)\n  + [Expression Immunities (Su)](#expression_immunities_su)",
+  "sections": [
+    {
+      "id": "proctor_overview",
+      "title": "Proctor (Class Overview)",
+      "anchor_heading": "# Proctor",
+      "end_at_heading": "### Requirements {#requirements}",
+      "description": "Overview of the Proctor class including role, alignment, hit die, and starting wealth.",
+      "keywords": [
+        "proctor",
+        "class",
+        "hit die",
+        "role",
+        "alignment"
+      ]
+    },
+    {
+      "id": "proctor_weapon_and_armor_proficiency",
+      "title": "Weapon and Armor Proficiency (Proctor)",
+      "anchor_heading": "#### Weapon and Armor Proficiency {#weapon_and_armor_proficiency}",
+      "description": "A proctor gains proficiency with her monitor demigod's favored weapon.",
+      "keywords": [
+        "weapon proficiency",
+        "monitor demigod favored weapon",
+        "proctor proficiency",
+        "favored weapon proficiency"
+      ]
+    },
+    {
+      "id": "proctor_spells_per_day",
+      "title": "Spells per Day (Proctor)",
+      "anchor_heading": "#### Spells per Day {#spells_per_day}",
+      "description": "At indicated levels, a proctor gains spells per day and increased caster level as if gaining levels in a previous spellcasting class, but no other class benefits.",
+      "keywords": [
+        "spells per day",
+        "caster level progression",
+        "spellcasting advancement",
+        "prestige class spellcasting",
+        "spontaneous spellcaster",
+        "spells known"
+      ]
+    },
+    {
+      "id": "proctor_monitor_familiar_ex",
+      "title": "Monitor Familiar (Ex) (Proctor)",
+      "anchor_heading": "#### Monitor Familiar (Ex) {#monitor_familiar_ex}",
+      "description": "The proctor gains an arbiter, nosoi, paracletus, or voidworm familiar appropriate to her monitor demigod, functioning as wizard's arcane bond with Improved Familiar feat.",
+      "keywords": [
+        "monitor familiar",
+        "arbiter familiar",
+        "nosoi familiar",
+        "paracletus familiar",
+        "voidworm familiar",
+        "arcane bond",
+        "improved familiar",
+        "familiar stacking"
+      ]
+    },
+    {
+      "id": "proctor_obedience_ex",
+      "title": "Obedience (Ex) (Proctor)",
+      "anchor_heading": "#### Obedience (Ex) {#obedience_ex}",
+      "description": "A proctor must perform daily obedience to her monitor demigod to maintain all abilities granted by the prestige class, including augmented spellcasting.",
+      "keywords": [
+        "daily obedience",
+        "monitor demigod obedience",
+        "maintain abilities",
+        "prestige class requirements",
+        "obedience ritual"
+      ]
+    },
+    {
+      "id": "proctor_soultended_ex",
+      "title": "Soultended (Ex) (Proctor)",
+      "anchor_heading": "#### Soultended (Ex) {#soultended_ex}",
+      "description": "Upon death, a proctor's soul transforms into a monitor outsider on neutral Outer Planes, making resurrection harder but granting +2 Will save bonus.",
+      "keywords": [
+        "soultended",
+        "resurrection difficulty",
+        "caster level check resurrection",
+        "transform into monitor",
+        "will save bonus",
+        "afterlife transformation",
+        "neutral outer planes"
+      ]
+    },
+    {
+      "id": "proctor_monitor_expression_su",
+      "title": "Monitor Expression (Su) (Proctor)",
+      "anchor_heading": "#### Monitor Expression (Su) {#monitor_expression_su}",
+      "description": "At 2nd level, a proctor chooses a specific expression (executor, foster, harmonizer, or impulsive) that provides different supernatural benefits and cannot be changed.",
+      "keywords": [
+        "monitor expression",
+        "executor expression",
+        "foster expression",
+        "harmonizer expression",
+        "impulsive expression",
+        "spiritsense",
+        "semitangible",
+        "deflection bonus",
+        "freedom of movement spell-like"
+      ]
+    },
+    {
+      "id": "proctor_monitor_boon",
+      "title": "Monitor Boon (Proctor)",
+      "anchor_heading": "#### Monitor Boon {#monitor_boon}",
+      "description": "A proctor gains three progressively powerful boons from her monitor demigod at 3rd, 6th, and 9th levels, using total character level for spell-like abilities.",
+      "keywords": [
+        "monitor boon",
+        "monitor demigod boons",
+        "first boon",
+        "second boon",
+        "third boon",
+        "spell-like ability caster level",
+        "early boon access"
+      ]
+    },
+    {
+      "id": "proctor_summon_monitor_sp",
+      "title": "Summon Monitor (Sp) (Proctor)",
+      "anchor_heading": "#### Summon Monitor (Sp) {#summon_monitor_sp}",
+      "description": "At 4th level, cast summon monster VI once per day to conjure monitors based on expression; at 8th level, also gain summon monster VIII once per day.",
+      "keywords": [
+        "summon monitor",
+        "summon monster VI",
+        "summon monster VIII",
+        "axiomite",
+        "mercane",
+        "vanth",
+        "theletos",
+        "naunet",
+        "kolyarut",
+        "expression-based summoning"
+      ]
+    },
+    {
+      "id": "proctor_solemn_voice_su",
+      "title": "Solemn Voice (Su) (Proctor)",
+      "anchor_heading": "#### Solemn Voice (Su) {#solemn_voice_su}",
+      "description": "At 7th level, gain communication abilities based on monitor expression: tongues, speak with dead, or telepathy.",
+      "keywords": [
+        "solemn voice",
+        "tongues ability",
+        "speak with dead at will",
+        "telepathy 30 feet",
+        "expression-based communication",
+        "universal language"
+      ]
+    },
+    {
+      "id": "proctor_expression_immunities_su",
+      "title": "Expression Immunities (Su) (Proctor)",
+      "anchor_heading": "#### Expression Immunities (Su) {#expression_immunities_su}",
+      "description": "At 10th level, gain immunities based on monitor expression: ability damage/drain/energy drain, death/disease/poison, critical hits, or unwilling transmutation.",
+      "keywords": [
+        "expression immunities",
+        "ability damage immunity",
+        "ability drain immunity",
+        "energy drain immunity",
+        "death effects immunity",
+        "disease immunity",
+        "poison immunity",
+        "critical hit immunity",
+        "transmutation immunity"
+      ]
+    }
+  ]
+}

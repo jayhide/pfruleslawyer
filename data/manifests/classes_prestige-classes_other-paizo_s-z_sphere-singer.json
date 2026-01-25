@@ -1,0 +1,112 @@
+{
+  "file": "sphere-singer.md",
+  "source_path": "https://www.d20pfsrd.com/classes/prestige-classes/other-paizo/s-z/sphere-singer/",
+  "source_name": "Prestige Class: Sphere Singer",
+  "category": "Classes",
+  "toc_content": "Contents\n* [Requirements](#requirements)\n* [Class Skills](#class_skills)\n* [Class Features](#class_features)\n  + [Graceful Hand (Ex)](#graceful_hand_ex)\n  + [Starsong (Su)](#starsong_su)\n  + [Versatile Performance (Ex)](#versatile_performance_ex)\n  + [Wandering Dream (Su)](#wandering_dream_su)\n  + [Tapestry Traveler (Ex, Sp)](#tapestry_traveler_ex_sp)",
+  "sections": [
+    {
+      "id": "sphere_singer_overview",
+      "title": "Sphere Singer (Class Overview)",
+      "anchor_heading": "# Sphere Singer",
+      "end_at_heading": "### Requirements {#requirements}",
+      "description": "Overview of the Sphere Singer class including role, alignment, hit die, and starting wealth.",
+      "keywords": [
+        "sphere singer",
+        "class",
+        "hit die",
+        "role",
+        "alignment"
+      ]
+    },
+    {
+      "id": "sphere_singer_graceful_hand_ex",
+      "title": "Graceful Hand (Ex) (Sphere Singer)",
+      "anchor_heading": "#### Graceful Hand (Ex) {#graceful_hand_ex}",
+      "description": "The sphere singer gains Starry Grace as a bonus feat, ignoring its prerequisites.",
+      "keywords": [
+        "graceful hand",
+        "Starry Grace",
+        "bonus feat",
+        "ignore prerequisites",
+        "starknife",
+        "dexterity to damage"
+      ]
+    },
+    {
+      "id": "sphere_singer_starsong_su",
+      "title": "Starsong (Su) (Sphere Singer)",
+      "anchor_heading": "#### Starsong (Su) {#starsong_su}",
+      "description": "The sphere singer can use Perform (sing) to create magical effects similar to bardic performance, with various abilities that scale with level. Starsong performances are move actions to start and free actions to maintain, cannot be disrupted, and include abilities like Wanderer's Hymn, Sweet Dreams, Butterfly, Guide My Steps, and Fortune's Favor.",
+      "keywords": [
+        "starsong",
+        "bardic performance",
+        "Perform sing",
+        "move action",
+        "free action",
+        "cannot be disrupted",
+        "Wanderer's Hymn",
+        "Sweet Dreams",
+        "Butterfly",
+        "Guide My Steps",
+        "Fortune's Favor",
+        "enhancement bonus speed",
+        "nightmare immunity",
+        "dream feast",
+        "fly",
+        "overland flight",
+        "find the path",
+        "roll twice",
+        "audible components",
+        "swift action"
+      ]
+    },
+    {
+      "id": "sphere_singer_versatile_performance_ex",
+      "title": "Versatile Performance (Ex) (Sphere Singer)",
+      "anchor_heading": "#### Versatile Performance (Ex) {#versatile_performance_ex}",
+      "description": "At 2nd and 6th levels, the sphere singer gains versatile performance like a bard, but is limited to Perform (sing) or Perform (dance) initially.",
+      "keywords": [
+        "versatile performance",
+        "Perform sing",
+        "Perform dance",
+        "retrain skill ranks",
+        "bard versatile performance"
+      ]
+    },
+    {
+      "id": "sphere_singer_wandering_dream_su",
+      "title": "Wandering Dream (Su) (Sphere Singer)",
+      "anchor_heading": "#### Wandering Dream (Su) {#wandering_dream_su}",
+      "description": "Starting at 4th level, the sphere singer gains Lucid Dreamer as a bonus feat and can contact familiar people through dreams each night, with abilities scaling to allow dream council and dream-based suggestions.",
+      "keywords": [
+        "wandering dream",
+        "Lucid Dreamer",
+        "dream",
+        "dream council",
+        "demand",
+        "suggestion",
+        "very familiar",
+        "dreamscape",
+        "sleep"
+      ]
+    },
+    {
+      "id": "sphere_singer_tapestry_traveler_ex_sp",
+      "title": "Tapestry Traveler (Ex, Sp) (Sphere Singer)",
+      "anchor_heading": "#### Tapestry Traveler (Ex, Sp) {#tapestry_traveler_ex_sp}",
+      "description": "At 10th level, the sphere singer's type changes to fey, gains butterfly wings with 50-foot fly speed, becomes immune to cold, and gains the no breath ability.",
+      "keywords": [
+        "tapestry traveler",
+        "type change",
+        "fey type",
+        "butterfly wings",
+        "fly speed",
+        "cold immunity",
+        "no breath",
+        "transcend mortality",
+        "stardust"
+      ]
+    }
+  ]
+}

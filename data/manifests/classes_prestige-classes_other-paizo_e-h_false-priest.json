@@ -1,0 +1,174 @@
+{
+  "file": "false-priest.md",
+  "source_path": "https://www.d20pfsrd.com/classes/prestige-classes/other-paizo/e-h/false-priest/",
+  "source_name": "Prestige Class: False Priest",
+  "category": "Classes",
+  "toc_content": "",
+  "sections": [
+    {
+      "id": "false_priest_overview",
+      "title": "False Priest (Class Overview)",
+      "anchor_heading": "# False Priest",
+      "end_at_heading": "### Requirements",
+      "description": "Overview of the False Priest class including role, alignment, hit die, and starting wealth.",
+      "keywords": [
+        "false priest",
+        "class",
+        "hit die",
+        "role",
+        "alignment"
+      ]
+    },
+    {
+      "id": "false_priest_weapon_and_armor_proficiency",
+      "title": "Weapon and Armor Proficiency (False Priest)",
+      "anchor_heading": "#### Weapon and Armor Proficiency",
+      "description": "False Priests gain no additional weapon or armor proficiencies beyond their base class.",
+      "keywords": [
+        "weapon proficiency",
+        "armor proficiency",
+        "no proficiencies",
+        "false priest proficiencies"
+      ]
+    },
+    {
+      "id": "false_priest_domain",
+      "title": "Domain (False Priest)",
+      "anchor_heading": "#### Domain",
+      "description": "False Priests can select from Charm, Evil, Law, or Trickery domains, gaining domain powers but not domain spells, using Intelligence or Charisma instead of Wisdom.",
+      "keywords": [
+        "domain",
+        "charm domain",
+        "evil domain",
+        "law domain",
+        "trickery domain",
+        "domain powers",
+        "granted powers",
+        "arcane spellcaster level",
+        "intelligence modifier",
+        "charisma modifier",
+        "second domain",
+        "5th level domain"
+      ]
+    },
+    {
+      "id": "false_priest_first_ritual_su",
+      "title": "First Ritual (Su) (False Priest)",
+      "anchor_heading": "#### First Ritual (Su)",
+      "description": "Adds bless and cure light wounds as 2nd-level arcane spells, with cure light wounds healing temporary hit points instead of real damage, and provides +10 circumstance bonus to False Casting Bluff checks.",
+      "keywords": [
+        "first ritual",
+        "bless",
+        "cure light wounds",
+        "temporary hit points",
+        "false casting",
+        "bluff check",
+        "circumstance bonus",
+        "2nd-level spells",
+        "arcane spell list",
+        "spontaneous caster",
+        "spells known"
+      ]
+    },
+    {
+      "id": "false_priest_false_channel_su",
+      "title": "False Channel (Su) (False Priest)",
+      "anchor_heading": "#### False Channel (Su)",
+      "description": "Channel positive energy like a cleric but heals temporary hit points instead of real damage, scaling with class level and using Intelligence or Charisma modifier for uses per day.",
+      "keywords": [
+        "false channel",
+        "channel positive energy",
+        "temporary hit points",
+        "1d6 healing",
+        "intelligence modifier",
+        "charisma modifier",
+        "uses per day",
+        "channel energy prerequisites",
+        "undead"
+      ]
+    },
+    {
+      "id": "false_priest_master_of_lies_exhttpswwwd20pfsrdcommagictocextraordinaryabi",
+      "title": "Master of Lies ([Ex](https://www.d20pfsrd.com/magic#TOC-Extraordinary-Abilities-Ex-)) (False Priest)",
+      "anchor_heading": "#### Master of Lies ([Ex](https://www.d20pfsrd.com/magic#TOC-Extraordinary-Abilities-Ex-))",
+      "description": "Adds class level to Bluff checks for lies and deceptions, and automatically detects when subject to truth-discerning magic.",
+      "keywords": [
+        "master of lies",
+        "bluff check",
+        "lie",
+        "deception",
+        "class level",
+        "truth detection",
+        "discern lies",
+        "zone of truth",
+        "detect lies"
+      ]
+    },
+    {
+      "id": "false_priest_second_ritual_su",
+      "title": "Second Ritual (Su) (False Priest)",
+      "anchor_heading": "#### Second Ritual (Su)",
+      "description": "Adds cure moderate wounds and spiritual weapon as 3rd-level arcane spells, with cure spells granting temporary hit points, and improves False Casting bonus for higher level spells.",
+      "keywords": [
+        "second ritual",
+        "cure moderate wounds",
+        "spiritual weapon",
+        "3rd-level spells",
+        "temporary hit points",
+        "false casting",
+        "2nd-level spells",
+        "3rd-level spells",
+        "bluff check"
+      ]
+    },
+    {
+      "id": "false_priest_conversion_su",
+      "title": "Conversion (Su) (False Priest)",
+      "anchor_heading": "#### Conversion (Su)",
+      "description": "When using false channel on himself, the effect heals real damage instead of granting temporary hit points.",
+      "keywords": [
+        "conversion",
+        "false channel",
+        "heal damage",
+        "temporary hit points",
+        "self-healing",
+        "7th level"
+      ]
+    },
+    {
+      "id": "false_priest_third_ritual_su",
+      "title": "Third Ritual (Su) (False Priest)",
+      "anchor_heading": "#### Third Ritual (Su)",
+      "description": "Adds cure serious wounds and prayer as 4th-level arcane spells, with cure spells granting temporary hit points, and extends False Casting bonus to 4th and 5th level spells.",
+      "keywords": [
+        "third ritual",
+        "cure serious wounds",
+        "prayer",
+        "4th-level spells",
+        "temporary hit points",
+        "false casting",
+        "4th-level spells",
+        "5th-level spells",
+        "bluff check"
+      ]
+    },
+    {
+      "id": "false_priest_true_pretender_su",
+      "title": "True Pretender (Su) (False Priest)",
+      "anchor_heading": "#### True Pretender (Su)",
+      "description": "Can spend two false channel uses to heal real damage to all creatures, and can use cleric spell trigger and completion items without Use Magic Device checks.",
+      "keywords": [
+        "true pretender",
+        "false channel",
+        "heal damage",
+        "two uses",
+        "spell trigger items",
+        "spell completion items",
+        "use magic device",
+        "cleric spells",
+        "magic items",
+        "10th level"
+      ]
+    }
+  ]
+}

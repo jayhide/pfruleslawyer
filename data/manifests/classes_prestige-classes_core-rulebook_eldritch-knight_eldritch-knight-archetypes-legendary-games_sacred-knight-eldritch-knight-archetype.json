@@ -1,0 +1,71 @@
+{
+  "file": "sacred-knight-eldritch-knight-archetype.md",
+  "source_path": "https://www.d20pfsrd.com/classes/prestige-classes/core-rulebook/eldritch-knight/eldritch-knight-archetypes-legendary-games/sacred-knight-eldritch-knight-archetype/",
+  "source_name": "Prestige Class: Sacred Knight (Eldritch Knight Archetype)",
+  "category": "Classes",
+  "toc_content": "Contents\n* [Requirements](#requirements)\n  + [Religious Training](#religious_training)\n  + [Spells per Day](#spells_per_day)\n  + [Holy Critical (Su)](#holy_critical_su)",
+  "sections": [
+    {
+      "id": "sacred_knight_eldritch_knight_archetype_overview",
+      "title": "Sacred Knight (Eldritch Knight Archetype) (Class Overview)",
+      "anchor_heading": "# Sacred Knight (Eldritch Knight Archetype)",
+      "end_at_heading": "### Requirements {#requirements}",
+      "description": "Overview of the Sacred Knight (Eldritch Knight Archetype) class including role, alignment, hit die, and starting wealth.",
+      "keywords": [
+        "sacred knight (eldritch knight archetype)",
+        "class",
+        "hit die",
+        "role",
+        "alignment"
+      ]
+    },
+    {
+      "id": "sacred_knight_eldritch_knight_archetype_religious_training",
+      "title": "Religious Training (Sacred Knight (Eldritch Knight Archetype))",
+      "anchor_heading": "#### Religious Training {#religious_training}",
+      "description": "Adds sacred knight levels to fighter and divine spellcasting class levels for the purpose of meeting feat prerequisites. Treats eldritch knight levels as fighter levels if the character has no actual fighter levels.",
+      "keywords": [
+        "religious training",
+        "feat prerequisites",
+        "divine spellcasting class levels",
+        "fighter levels",
+        "eldritch knight levels",
+        "diverse training",
+        "prerequisite requirements"
+      ]
+    },
+    {
+      "id": "sacred_knight_eldritch_knight_archetype_spells_per_day",
+      "title": "Spells per Day (Sacred Knight (Eldritch Knight Archetype))",
+      "anchor_heading": "#### Spells per Day {#spells_per_day}",
+      "description": "Advances divine spellcasting progression at indicated levels, granting spells per day, spells known, and increased caster level. Must choose which divine class to advance if multiclassed.",
+      "keywords": [
+        "spells per day",
+        "divine spellcasting",
+        "caster level progression",
+        "spells known",
+        "spontaneous spellcaster",
+        "effective caster level",
+        "divine spellcasting class"
+      ]
+    },
+    {
+      "id": "sacred_knight_eldritch_knight_archetype_holy_critical_su",
+      "title": "Holy Critical (Su) (Sacred Knight (Eldritch Knight Archetype))",
+      "anchor_heading": "#### Holy Critical (Su) {#holy_critical_su}",
+      "description": "On confirmed critical hits, can deliver blessing, domain power, revelation, shaman hex, or spirit power through weapon without provoking attacks of opportunity. Replaces spell critical ability.",
+      "keywords": [
+        "holy critical",
+        "critical hit",
+        "confirmed critical",
+        "blessing",
+        "domain power",
+        "revelation",
+        "shaman hex",
+        "spirit power",
+        "spell critical",
+        "attack of opportunity"
+      ]
+    }
+  ]
+}

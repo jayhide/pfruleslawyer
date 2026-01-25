@@ -1,0 +1,184 @@
+{
+  "file": "death-slayer.md",
+  "source_path": "https://www.d20pfsrd.com/classes/prestige-classes/other-paizo/c-d/death-slayer/",
+  "source_name": "Prestige Class: Death Slayer",
+  "category": "Classes",
+  "toc_content": "Contents\n* [Requirements](#requirements)\n* [Class Skills](#class_skills)\n* [Class Features](#class_features)\n  + [Channel Energy (Su)](#channel_energy_su)\n  + [Channel Smite](#channel_smite)\n  + [Gravegaze (Su)](#gravegaze_su)\n  + [Bonus Feats](#bonus_feats)\n  + [Favored Enemy (Ex)](#favored_enemy_ex)\n  + [Swift Smite (Su)](#swift_smite_su)\n  + [Infuse Sabre (Su)](#infuse_sabre_su)\n  + [Deadly Conviction (Su)](#deadly_conviction_su)\n  + [Undead Bane](#undead_bane)\n  + [Aura of Life (Su)](#aura_of_life_su)",
+  "sections": [
+    {
+      "id": "death_slayer_overview",
+      "title": "Death Slayer (Class Overview)",
+      "anchor_heading": "# Death Slayer",
+      "end_at_heading": "### Requirements {#requirements}",
+      "description": "Overview of the Death Slayer class including role, alignment, hit die, and starting wealth.",
+      "keywords": [
+        "death slayer",
+        "class",
+        "hit die",
+        "role",
+        "alignment"
+      ]
+    },
+    {
+      "id": "death_slayer_channel_energy_su",
+      "title": "Channel Energy (Su) (Death Slayer)",
+      "anchor_heading": "#### Channel Energy (Su) {#channel_energy_su}",
+      "description": "Grants the ability to channel positive energy to harm undead creatures, functioning like a cleric's channel energy but only for damage. Uses Charisma modifier and class level for determining uses per day and save DC.",
+      "keywords": [
+        "channel energy",
+        "channel positive energy",
+        "positive energy",
+        "undead damage",
+        "Will save",
+        "holy symbol",
+        "sawtooth sabre",
+        "Charisma modifier",
+        "effective cleric level",
+        "1d6 damage",
+        "level stacking"
+      ]
+    },
+    {
+      "id": "death_slayer_channel_smite",
+      "title": "Channel Smite (Death Slayer)",
+      "anchor_heading": "#### Channel Smite {#channel_smite}",
+      "description": "Automatically grants the Channel Smite feat as a bonus feat at 1st level. If already possessed, allows selection of a different bonus feat from the 2nd level list.",
+      "keywords": [
+        "Channel Smite",
+        "bonus feat",
+        "combat feat",
+        "channel energy feat",
+        "automatic feat"
+      ]
+    },
+    {
+      "id": "death_slayer_gravegaze_su",
+      "title": "Gravegaze (Su) (Death Slayer)",
+      "anchor_heading": "#### Gravegaze (Su) {#gravegaze_su}",
+      "description": "Provides constant deathwatch benefits, allowing the death slayer to see the health status of creatures at all times.",
+      "keywords": [
+        "gravegaze",
+        "deathwatch",
+        "constant effect",
+        "health status",
+        "creature condition",
+        "always active"
+      ]
+    },
+    {
+      "id": "death_slayer_bonus_feats",
+      "title": "Bonus Feats (Death Slayer)",
+      "anchor_heading": "#### Bonus Feats {#bonus_feats}",
+      "description": "Grants additional bonus feats at 2nd level and every 3 levels thereafter, selected from a specific list of channel energy and undead-focused feats.",
+      "keywords": [
+        "bonus feats",
+        "Extra Channel",
+        "Greater Channel Smite",
+        "Guided Hand",
+        "Improved Channel",
+        "Life Lure",
+        "Quick Channel",
+        "Shatter Control",
+        "Thanatopic Spell",
+        "Threnodic Spell",
+        "Turn Undead",
+        "feat prerequisites"
+      ]
+    },
+    {
+      "id": "death_slayer_favored_enemy_ex",
+      "title": "Favored Enemy (Ex) (Death Slayer)",
+      "anchor_heading": "#### Favored Enemy (Ex) {#favored_enemy_ex}",
+      "description": "Grants undead as a favored enemy with standard ranger bonuses, stacking with other favored enemy abilities. The bonus increases to +4 at 6th level.",
+      "keywords": [
+        "favored enemy",
+        "undead favored enemy",
+        "ranger ability",
+        "stacking bonuses",
+        "+2 bonus",
+        "+4 bonus",
+        "attack bonus",
+        "damage bonus",
+        "skill bonus"
+      ]
+    },
+    {
+      "id": "death_slayer_swift_smite_su",
+      "title": "Swift Smite (Su) (Death Slayer)",
+      "anchor_heading": "#### Swift Smite (Su) {#swift_smite_su}",
+      "description": "Allows additional uses of Channel Smite per day equal to death slayer level without expending channel energy uses, and enables activating Channel Smite as an immediate action after rolling attack.",
+      "keywords": [
+        "swift smite",
+        "Channel Smite",
+        "additional uses",
+        "immediate action",
+        "attack roll",
+        "melee attack",
+        "channel energy conservation"
+      ]
+    },
+    {
+      "id": "death_slayer_infuse_sabre_su",
+      "title": "Infuse Sabre (Su) (Death Slayer)",
+      "anchor_heading": "#### Infuse Sabre (Su) {#infuse_sabre_su}",
+      "description": "Infuses a sawtooth sabre with positive energy as a swift action, increasing channeled energy damage by 50% and imposing -2 penalty on undead saves for 3 rounds.",
+      "keywords": [
+        "infuse sabre",
+        "sawtooth sabre",
+        "positive energy infusion",
+        "swift action",
+        "+50% damage",
+        "channeled energy bonus",
+        "-2 save penalty",
+        "3 rounds duration",
+        "spell save penalty"
+      ]
+    },
+    {
+      "id": "death_slayer_deadly_conviction_su",
+      "title": "Deadly Conviction (Su) (Death Slayer)",
+      "anchor_heading": "#### Deadly Conviction (Su) {#deadly_conviction_su}",
+      "description": "Provides +4 morale bonus on saves against undead effects and allows ignoring one negative level once per day.",
+      "keywords": [
+        "deadly conviction",
+        "+4 morale bonus",
+        "saving throws",
+        "undead effects",
+        "negative level",
+        "ignore negative level",
+        "level drain resistance"
+      ]
+    },
+    {
+      "id": "death_slayer_undead_bane",
+      "title": "Undead Bane (Death Slayer)",
+      "anchor_heading": "#### Undead Bane {#undead_bane}",
+      "description": "Makes one wielded sawtooth sabre function as a bane weapon against undead creatures while wielded by the death slayer.",
+      "keywords": [
+        "undead bane",
+        "bane weapon",
+        "sawtooth sabre",
+        "weapon enhancement",
+        "undead damage",
+        "weapon property"
+      ]
+    },
+    {
+      "id": "death_slayer_aura_of_life_su",
+      "title": "Aura of Life (Su) (Death Slayer)",
+      "anchor_heading": "#### Aura of Life (Su) {#aura_of_life_su}",
+      "description": "Creates a 10-foot aura that deals 4d6 positive energy damage to undead at the start of their turn and grants the death slayer fast healing 10.",
+      "keywords": [
+        "aura of life",
+        "10-foot aura",
+        "positive energy damage",
+        "4d6 damage",
+        "fast healing 10",
+        "swift action",
+        "10 rounds per day",
+        "crimson glow",
+        "undead damage aura"
+      ]
+    }
+  ]
+}

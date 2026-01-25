@@ -1,0 +1,295 @@
+{
+  "file": "diabolist-botd-vol-1.md",
+  "source_path": "https://www.d20pfsrd.com/classes/prestige-classes/other-paizo/c-d/diabolist-botd-vol-1/",
+  "source_name": "Prestige Class: Diabolist (PZO9213)",
+  "category": "Classes",
+  "toc_content": "Contents\n+ [Requirements](#requirements)\n+ [Class Skills](#class_skills)\n+ [Class Features](#class_features)\n  - [Weapon and Armor Proficiency](#weapon_and_armor_proficiency)\n  - [Spells per Day](#spells_per_day)\n  - [Damned](#damned)\n  - [Imp Companion](#imp_companion)\n  - [Infernal Charisma](#infernal_charisma)\n  - [Channel Hellfire](#channel_hellfire)\n  - [Infernal Bargain](#infernal_bargain)\n  - [Augment Summoning](#augment_summoning)\n  - [Heresy](#heresy)\n  - [Hellish Soul](#hellish_soul)\n  - [Infernal Transport (Sp)](#infernal_transport_sp)\n  - [Hellfire Ray (Sp)](#hellfire_ray_sp)\n  - [Master Conjurer](#master_conjurer)\n* [The Imp Companion](#the_imp_companion)",
+  "sections": [
+    {
+      "id": "diabolist_pzo9213_overview",
+      "title": "Diabolist (PZO9213) (Class Overview)",
+      "anchor_heading": "# Diabolist (PZO9213)",
+      "end_at_heading": "### Requirements {#requirements}",
+      "description": "Overview of the Diabolist (PZO9213) class including role, alignment, hit die, and starting wealth.",
+      "keywords": [
+        "diabolist (pzo9213)",
+        "class",
+        "hit die",
+        "role",
+        "alignment"
+      ]
+    },
+    {
+      "id": "diabolist_pzo9213_weapon_and_armor_proficiency",
+      "title": "Weapon and Armor Proficiency (Diabolist (PZO9213))",
+      "anchor_heading": "#### Weapon and Armor Proficiency {#weapon_and_armor_proficiency}",
+      "description": "Diabolists gain no proficiency with any weapon or armor.",
+      "keywords": [
+        "weapon proficiency",
+        "armor proficiency",
+        "no proficiency",
+        "diabolist proficiency"
+      ]
+    },
+    {
+      "id": "diabolist_pzo9213_spells_per_day",
+      "title": "**Spells per Day** (Diabolist (PZO9213))",
+      "anchor_heading": "#### **Spells per Day** {#spells_per_day}",
+      "description": "Diabolist levels advance spellcasting progression from a previous class but grant no other class benefits.",
+      "keywords": [
+        "spells per day",
+        "spellcasting progression",
+        "prestige class spellcasting",
+        "caster level advancement"
+      ]
+    },
+    {
+      "id": "diabolist_pzo9213_damned",
+      "title": "**Damned** (Diabolist (PZO9213))",
+      "anchor_heading": "#### **Damned** {#damned}",
+      "description": "When killed, the diabolist's soul goes to Hell and resurrection requires a caster level check (DC 10 + diabolist level).",
+      "keywords": [
+        "damned",
+        "resurrection difficulty",
+        "caster level check",
+        "soul to Hell",
+        "raise dead penalty"
+      ]
+    },
+    {
+      "id": "diabolist_pzo9213_imp_companion",
+      "title": "**Imp Companion** (Diabolist (PZO9213))",
+      "anchor_heading": "#### **Imp Companion** {#imp_companion}",
+      "description": "The diabolist gains an imp companion that advances like an animal companion and can be replaced through a 24-hour ritual if slain.",
+      "keywords": [
+        "imp companion",
+        "animal companion",
+        "familiar",
+        "imp advancement",
+        "24-hour ritual",
+        "conjure imp"
+      ]
+    },
+    {
+      "id": "diabolist_pzo9213_infernal_charisma",
+      "title": "**Infernal Charisma** (Diabolist (PZO9213))",
+      "anchor_heading": "#### **Infernal Charisma** {#infernal_charisma}",
+      "description": "The diabolist gains a bonus on Charisma checks when interacting with devils that increases with level (+2/+4/+6).",
+      "keywords": [
+        "infernal charisma",
+        "devil interaction",
+        "charisma check bonus",
+        "diplomacy with devils"
+      ]
+    },
+    {
+      "id": "diabolist_pzo9213_channel_hellfire",
+      "title": "**Channel Hellfire** (Diabolist (PZO9213))",
+      "anchor_heading": "#### **Channel Hellfire** {#channel_hellfire}",
+      "description": "As a free action, the diabolist can alter energy damage spells to deal hellfire damage (lawful and evil descriptors) a number of times per day equal to Charisma modifier.",
+      "keywords": [
+        "channel hellfire",
+        "hellfire damage",
+        "energy damage conversion",
+        "lawful evil descriptor",
+        "free action spell modification"
+      ]
+    },
+    {
+      "id": "diabolist_pzo9213_infernal_bargain",
+      "title": "**Infernal Bargain** (Diabolist (PZO9213))",
+      "anchor_heading": "#### **Infernal Bargain** {#infernal_bargain}",
+      "description": "When using planar ally spells, the diabolist can make an opposed Charisma check to halve a called devil's service price.",
+      "keywords": [
+        "infernal bargain",
+        "planar ally",
+        "devil negotiation",
+        "opposed charisma check",
+        "reduce service cost"
+      ]
+    },
+    {
+      "id": "diabolist_pzo9213_augment_summoning",
+      "title": "**Augment Summoning** (Diabolist (PZO9213))",
+      "anchor_heading": "#### **Augment Summoning** {#augment_summoning}",
+      "description": "The diabolist gains the Augment Summoning feat without meeting prerequisites.",
+      "keywords": [
+        "augment summoning",
+        "bonus feat",
+        "summoning enhancement",
+        "prerequisite bypass"
+      ]
+    },
+    {
+      "id": "diabolist_pzo9213_heresy",
+      "title": "**Heresy** (Diabolist (PZO9213))",
+      "anchor_heading": "#### **Heresy** {#heresy}",
+      "description": "The diabolist gains a bonus on checks to research devils' true names or sigils (+2, increasing to +4 at 9th level).",
+      "keywords": [
+        "heresy",
+        "true name research",
+        "devil sigil",
+        "research bonus",
+        "true names"
+      ]
+    },
+    {
+      "id": "diabolist_pzo9213_hellish_soul",
+      "title": "**Hellish Soul** (Diabolist (PZO9213))",
+      "anchor_heading": "#### **Hellish Soul** {#hellish_soul}",
+      "description": "The diabolist can be resurrected normally if killed by means other than the will of Asmodeus or other Hell authorities.",
+      "keywords": [
+        "hellish soul",
+        "resurrection exception",
+        "Asmodeus",
+        "archdevil protection",
+        "damnation respite"
+      ]
+    },
+    {
+      "id": "diabolist_pzo9213_infernal_transport_sp",
+      "title": "**Infernal Transport (Sp)** (Diabolist (PZO9213))",
+      "anchor_heading": "#### **Infernal Transport (Sp)** {#infernal_transport_sp}",
+      "description": "The diabolist can transport through Hell twice per day as dimension door, or expend both uses for teleport, but cannot enter areas warded against evil.",
+      "keywords": [
+        "infernal transport",
+        "dimension door",
+        "teleport",
+        "brimstone travel",
+        "evil ward restriction"
+      ]
+    },
+    {
+      "id": "diabolist_pzo9213_hellfire_ray_sp",
+      "title": "**Hellfire Ray (Sp)** (Diabolist (PZO9213))",
+      "anchor_heading": "#### **Hellfire Ray (Sp)** {#hellfire_ray_sp}",
+      "description": "The diabolist can use hellfire ray twice per day as a spell-like ability.",
+      "keywords": [
+        "hellfire ray",
+        "spell-like ability",
+        "hellfire damage ray"
+      ]
+    },
+    {
+      "id": "diabolist_pzo9213_master_conjurer",
+      "title": "**Master Conjurer** (Diabolist (PZO9213))",
+      "anchor_heading": "#### **Master Conjurer** {#master_conjurer}",
+      "description": "The diabolist can cast calling spells as a standard action and bargain as a move action, adding half of a social skill modifier to bargaining checks.",
+      "keywords": [
+        "master conjurer",
+        "standard action calling",
+        "move action bargaining",
+        "bluff diplomacy intimidate bonus",
+        "devil calling"
+      ]
+    },
+    {
+      "id": "diabolist_pzo9213_class_level",
+      "title": "Class Level (Diabolist (PZO9213))",
+      "anchor_heading": "#### Class Level {#class_level}",
+      "description": "The imp companion's effective level equals the diabolist's class level plus highest caster level, not stacking with other animal companion classes.",
+      "keywords": [
+        "imp companion level",
+        "effective class level",
+        "animal companion stacking",
+        "companion advancement"
+      ]
+    },
+    {
+      "id": "diabolist_pzo9213_hd",
+      "title": "HD (Diabolist (PZO9213))",
+      "anchor_heading": "#### HD {#hd}",
+      "description": "Imp companions use d10 Hit Dice for advancement.",
+      "keywords": [
+        "imp hit dice",
+        "d10 hit dice",
+        "companion hit points"
+      ]
+    },
+    {
+      "id": "diabolist_pzo9213_bab",
+      "title": "BAB (Diabolist (PZO9213))",
+      "anchor_heading": "#### BAB {#bab}",
+      "description": "The imp companion's base attack bonus advances normally but doesn't grant additional natural attacks.",
+      "keywords": [
+        "imp base attack bonus",
+        "natural weapon attacks",
+        "companion BAB"
+      ]
+    },
+    {
+      "id": "diabolist_pzo9213_saving_throws",
+      "title": "Saving Throws (Diabolist (PZO9213))",
+      "anchor_heading": "#### Saving Throws {#saving_throws}",
+      "description": "Imp companions have good Reflex and Will saves.",
+      "keywords": [
+        "imp saving throws",
+        "good reflex save",
+        "good will save",
+        "companion saves"
+      ]
+    },
+    {
+      "id": "diabolist_pzo9213_skills",
+      "title": "Skills (Diabolist (PZO9213))",
+      "anchor_heading": "#### Skills {#skills}",
+      "description": "Imp companions gain skill ranks (multiply listed value by 3) with specific class skills and cannot exceed ranks equal to Hit Dice.",
+      "keywords": [
+        "imp skills",
+        "skill ranks calculation",
+        "imp class skills",
+        "companion skill progression"
+      ]
+    },
+    {
+      "id": "diabolist_pzo9213_feats",
+      "title": "Feats (Diabolist (PZO9213))",
+      "anchor_heading": "#### Feats {#feats}",
+      "description": "Imp companions may select any feat for which they qualify.",
+      "keywords": [
+        "imp feats",
+        "companion feat selection",
+        "feat qualification"
+      ]
+    },
+    {
+      "id": "diabolist_pzo9213_bonus_tricks",
+      "title": "Bonus Tricks (Diabolist (PZO9213))",
+      "anchor_heading": "#### Bonus Tricks {#bonus_tricks}",
+      "description": "Imp companions can choose additional alternate forms, spell-like abilities, or telepathy as bonus tricks.",
+      "keywords": [
+        "imp bonus tricks",
+        "alternate form",
+        "spell-like abilities",
+        "telepathy",
+        "beast shape",
+        "companion abilities"
+      ]
+    },
+    {
+      "id": "diabolist_pzo9213_link_su",
+      "title": "Link (Su) (Diabolist (PZO9213))",
+      "anchor_heading": "#### Link (Su) {#link_su}",
+      "description": "The diabolist has an empathic link with her imp within 1 mile, sharing general emotions and connections to items or places.",
+      "keywords": [
+        "empathic link",
+        "imp communication",
+        "1 mile range",
+        "emotional connection",
+        "companion bond"
+      ]
+    },
+    {
+      "id": "diabolist_pzo9213_share_spells",
+      "title": "Share Spells (Diabolist (PZO9213))",
+      "anchor_heading": "#### Share Spells {#share_spells}",
+      "description": "The diabolist can cast spells with target \"You\" on her imp as touch spells, even if they don't normally affect outsiders.",
+      "keywords": [
+        "share spells",
+        "touch spell casting",
+        "outsider spell targeting",
+        "companion spell sharing"
+      ]
+    }
+  ]
+}

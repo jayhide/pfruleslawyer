@@ -1,0 +1,168 @@
+{
+  "file": "crimson-templar.md",
+  "source_path": "https://www.d20pfsrd.com/classes/prestige-classes/other-paizo/c-d/crimson-templar/",
+  "source_name": "Prestige Class: Crimson Templar",
+  "category": "Classes",
+  "toc_content": "Contents\n+ [Requirements](#requirements)\n+ [Class Skills](#class_skills)\n+ [Class Features](#class_features)\n  - [Fiendish Studies (Ex)](#fiendish_studies_ex)\n  - [Obedience](#obedience)\n  - [Shield of Wings (Su)](#shield_of_wings_su)\n  - [Ruthlessness (Ex)](#ruthlessness_ex)\n  - [Sneak Attack (Ex)](#sneak_attack_ex)\n  - [Bonus Feat](#bonus_feat)\n  - [Divine Boon](#divine_boon)\n  - [Heavenly Fire (Su)](#heavenly_fire_su)\n  - [Immolate (Su)](#immolate_su)\n* [Ex-Crimson Templars](#ex-crimson_templars)",
+  "sections": [
+    {
+      "id": "crimson_templar_overview",
+      "title": "Crimson Templar (Class Overview)",
+      "anchor_heading": "# Crimson Templar",
+      "end_at_heading": "### Requirements {#requirements}",
+      "description": "Overview of the Crimson Templar class including role, alignment, hit die, and starting wealth.",
+      "keywords": [
+        "crimson templar",
+        "class",
+        "hit die",
+        "role",
+        "alignment"
+      ]
+    },
+    {
+      "id": "crimson_templar_fiendish_studies_ex",
+      "title": "Fiendish Studies (Ex) (Crimson Templar)",
+      "anchor_heading": "#### Fiendish Studies (Ex) {#fiendish_studies_ex}",
+      "description": "Allows the crimson templar to study evil outsiders as a move action, granting bonuses to skill checks, attack rolls, damage rolls, and class ability DCs against the studied target. Can be triggered as an immediate action when dealing sneak attack damage.",
+      "keywords": [
+        "fiendish studies",
+        "study target",
+        "evil outsider",
+        "move action",
+        "swift action",
+        "immediate action",
+        "sneak attack trigger",
+        "attack bonus",
+        "damage bonus",
+        "skill bonus",
+        "DC bonus",
+        "studied target stacking",
+        "favored enemy stacking",
+        "multiple targets"
+      ]
+    },
+    {
+      "id": "crimson_templar_obedience",
+      "title": "Obedience (Crimson Templar)",
+      "anchor_heading": "#### Obedience {#obedience}",
+      "description": "Grants Deific Obedience as a bonus feat at 1st level, or a bonus combat feat if the crimson templar already has Deific Obedience or Celestial Obedience.",
+      "keywords": [
+        "deific obedience",
+        "celestial obedience",
+        "bonus feat",
+        "combat feat",
+        "obedience feat"
+      ]
+    },
+    {
+      "id": "crimson_templar_shield_of_wings_su",
+      "title": "Shield of Wings (Su) (Crimson Templar)",
+      "anchor_heading": "#### Shield of Wings (Su) {#shield_of_wings_su}",
+      "description": "Provides escalating fire resistance that becomes fire immunity at 9th level, and allows manifesting burning wings for flight as a swift action. Fire protection is lost while wings are active and for an equal duration afterward.",
+      "keywords": [
+        "shield of wings",
+        "fire resistance",
+        "fire immunity",
+        "burning wings",
+        "fly speed",
+        "flight",
+        "swift action",
+        "wing manifestation",
+        "wing dismissal",
+        "fire protection loss",
+        "wing duration"
+      ]
+    },
+    {
+      "id": "crimson_templar_ruthlessness_ex",
+      "title": "Ruthlessness (Ex) (Crimson Templar)",
+      "anchor_heading": "#### Ruthlessness (Ex) {#ruthlessness_ex}",
+      "description": "Allows the crimson templar to perform a coup de grace with a bastard sword as a standard action instead of a full-round action.",
+      "keywords": [
+        "ruthlessness",
+        "coup de grace",
+        "bastard sword",
+        "standard action",
+        "helpless opponent",
+        "coup de grace timing"
+      ]
+    },
+    {
+      "id": "crimson_templar_sneak_attack_ex",
+      "title": "Sneak Attack (Ex) (Crimson Templar)",
+      "anchor_heading": "#### Sneak Attack (Ex) {#sneak_attack_ex}",
+      "description": "Functions like the rogue's sneak attack ability, starting at 1d6 at 2nd level and increasing by 1d6 every 3 levels thereafter. Stacks with sneak attack from other sources.",
+      "keywords": [
+        "sneak attack",
+        "sneak attack damage",
+        "sneak attack stacking",
+        "rogue sneak attack",
+        "flanking",
+        "denied dexterity"
+      ]
+    },
+    {
+      "id": "crimson_templar_bonus_feat",
+      "title": "Bonus Feat (Crimson Templar)",
+      "anchor_heading": "#### Bonus Feat {#bonus_feat}",
+      "description": "Grants bonus combat feats at 3rd, 6th, and 9th levels, with normal prerequisite requirements still applying.",
+      "keywords": [
+        "bonus feat",
+        "combat feat",
+        "feat prerequisites",
+        "bonus combat feat"
+      ]
+    },
+    {
+      "id": "crimson_templar_divine_boon",
+      "title": "Divine Boon (Crimson Templar)",
+      "anchor_heading": "#### Divine Boon {#divine_boon}",
+      "description": "Grants access to the associated deity's boons at 4th, 7th, and 10th levels, allowing earlier access than normal obedience feats provide.",
+      "keywords": [
+        "divine boon",
+        "deity boon",
+        "obedience boon",
+        "first boon",
+        "second boon",
+        "third boon",
+        "early boon access"
+      ]
+    },
+    {
+      "id": "crimson_templar_heavenly_fire_su",
+      "title": "Heavenly Fire (Su) (Crimson Templar)",
+      "anchor_heading": "#### Heavenly Fire (Su) {#heavenly_fire_su}",
+      "description": "Deals additional divine fire damage when delivering sneak attacks to creatures affected by fiendish studies, requiring a Fortitude save to avoid extra damage that is half fire and half divine energy.",
+      "keywords": [
+        "heavenly fire",
+        "sneak attack enhancement",
+        "fiendish studies requirement",
+        "divine fire damage",
+        "fortitude save",
+        "fire damage",
+        "divine damage",
+        "fire resistance bypass",
+        "fire immunity bypass",
+        "daily uses"
+      ]
+    },
+    {
+      "id": "crimson_templar_immolate_su",
+      "title": "Immolate (Su) (Crimson Templar)",
+      "anchor_heading": "#### Immolate (Su) {#immolate_su}",
+      "description": "Causes evil creatures reduced to negative hit points by sneak attacks or coup de grace to potentially disintegrate entirely, with no save if reduced by heavenly fire.",
+      "keywords": [
+        "immolate",
+        "disintegration",
+        "evil alignment",
+        "negative hit points",
+        "sneak attack kill",
+        "coup de grace kill",
+        "fortitude save",
+        "heavenly fire interaction",
+        "disintegrate effect",
+        "fine ash"
+      ]
+    }
+  ]
+}

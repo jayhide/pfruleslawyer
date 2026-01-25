@@ -1,0 +1,204 @@
+{
+  "file": "winter-witch.md",
+  "source_path": "https://www.d20pfsrd.com/classes/prestige-classes/other-paizo/s-z/winter-witch/",
+  "source_name": "Prestige Class: Winter Witch",
+  "category": "Classes",
+  "toc_content": "Contents\n* [Requirements](#requirements)\n* [Class Skills](#class_skills)\n* [Class Features](#class_features)\n  + [Weapon and Armor Proficiency](#weapon_and_armor_proficiency)\n  + [Spells per Day](#spells_per_day)\n  + [Hyperboreal Patronage](#hyperboreal_patronage)\n  + [Winter Witchcraft](#winter_witchcraft)\n  + [Freeze and Thaw (Su)](#freeze_and_thaw_su)\n  + [Unnatural Cold (Su)](#unnatural_cold_su)\n  + [Sculpt Ice and Snow (Sp)](#sculpt_ice_and_snow_sp)\n  + [Winter Hex](#winter_hex)\n  + [Blizzard Sight (Su)](#blizzard_sight_su)\n  + [Unearthly Cold (Su)](#unearthly_cold_su)\n  + [Iceglide (Su)](#iceglide_su)\n  + [Inexorable Cold (Su)](#inexorable_cold_su)",
+  "sections": [
+    {
+      "id": "winter_witch_overview",
+      "title": "Winter Witch (Class Overview)",
+      "anchor_heading": "# Winter Witch",
+      "end_at_heading": "### Requirements {#requirements}",
+      "description": "Overview of the Winter Witch class including role, alignment, hit die, and starting wealth.",
+      "keywords": [
+        "winter witch",
+        "class",
+        "hit die",
+        "role",
+        "alignment"
+      ]
+    },
+    {
+      "id": "winter_witch_weapon_and_armor_proficiency",
+      "title": "Weapon and Armor Proficiency (Winter Witch)",
+      "anchor_heading": "#### Weapon and Armor Proficiency {#weapon_and_armor_proficiency}",
+      "description": "Winter witches gain no additional weapon or armor proficiencies beyond their base class.",
+      "keywords": [
+        "weapon proficiency",
+        "armor proficiency",
+        "winter witch proficiencies",
+        "no additional proficiencies"
+      ]
+    },
+    {
+      "id": "winter_witch_spells_per_day",
+      "title": "Spells per Day (Winter Witch)",
+      "anchor_heading": "#### Spells per Day {#spells_per_day}",
+      "description": "Winter witch levels stack with witch levels for spells per day and patron spells, but grant no other class benefits.",
+      "keywords": [
+        "spells per day",
+        "patron spells",
+        "effective caster level",
+        "witch level stacking",
+        "spellcasting progression"
+      ]
+    },
+    {
+      "id": "winter_witch_hyperboreal_patronage",
+      "title": "Hyperboreal Patronage (Winter Witch)",
+      "anchor_heading": "#### Hyperboreal Patronage {#hyperboreal_patronage}",
+      "description": "The winter witch's patron gains an icy aspect, adding specific ice-themed spells to her spell list at certain levels.",
+      "keywords": [
+        "hyperboreal patronage",
+        "patron",
+        "wall of ice",
+        "icy prison",
+        "freezing sphere",
+        "spell list",
+        "ice spells"
+      ]
+    },
+    {
+      "id": "winter_witch_winter_witchcraft",
+      "title": "Winter Witchcraft (Winter Witch)",
+      "anchor_heading": "#### Winter Witchcraft {#winter_witchcraft}",
+      "description": "Winter witch levels stack with witch levels for determining hex progression, hex effects, familiar abilities, and major/grand hex access.",
+      "keywords": [
+        "winter witchcraft",
+        "hex progression",
+        "witch level stacking",
+        "familiar abilities",
+        "major hex",
+        "grand hex",
+        "witch archetype abilities"
+      ]
+    },
+    {
+      "id": "winter_witch_freeze_and_thaw_su",
+      "title": "Freeze and Thaw (Su) (Winter Witch)",
+      "anchor_heading": "#### Freeze and Thaw (Su) {#freeze_and_thaw_su}",
+      "description": "As a standard action, the winter witch can freeze water into ice or melt ice and snow by touch in specific volumes.",
+      "keywords": [
+        "freeze and thaw",
+        "standard action",
+        "freeze water",
+        "melt ice",
+        "melt snow",
+        "5-foot cube",
+        "supernatural ability",
+        "water manipulation"
+      ]
+    },
+    {
+      "id": "winter_witch_unnatural_cold_su",
+      "title": "Unnatural Cold (Su) (Winter Witch)",
+      "anchor_heading": "#### Unnatural Cold (Su) {#unnatural_cold_su}",
+      "description": "Creatures affected by the winter witch's cold damage abilities are treated as having half their normal cold resistance.",
+      "keywords": [
+        "unnatural cold",
+        "cold resistance",
+        "cold damage",
+        "spell-like ability",
+        "supernatural ability",
+        "resistance reduction"
+      ]
+    },
+    {
+      "id": "winter_witch_sculpt_ice_and_snow_sp",
+      "title": "Sculpt Ice and Snow (Sp) (Winter Witch)",
+      "anchor_heading": "#### Sculpt Ice and Snow (Sp) {#sculpt_ice_and_snow_sp}",
+      "description": "The winter witch can shape ice and snow like stone shape, and at 7th level can fabricate items from ultra-hard ice.",
+      "keywords": [
+        "sculpt ice and snow",
+        "stone shape",
+        "fabricate",
+        "ultra-hard ice",
+        "hardness 5",
+        "craft checks",
+        "spell-like ability",
+        "ice crafting"
+      ]
+    },
+    {
+      "id": "winter_witch_winter_hex",
+      "title": "Winter Hex (Winter Witch)",
+      "anchor_heading": "#### Winter Hex {#winter_hex}",
+      "description": "When choosing major hexes, the winter witch must first select from three specific winter-themed hexes including the new numbing chill hex.",
+      "keywords": [
+        "winter hex",
+        "major hex",
+        "ice tomb",
+        "hoarfrost",
+        "numbing chill",
+        "dexterity damage",
+        "staggered",
+        "swift action",
+        "cold effect"
+      ]
+    },
+    {
+      "id": "winter_witch_blizzard_sight_su",
+      "title": "Blizzard Sight (Su) (Winter Witch)",
+      "anchor_heading": "#### Blizzard Sight (Su) {#blizzard_sight_su}",
+      "description": "The winter witch can see normally in all forms of weather conditions including rain, snow, fog, and blizzards.",
+      "keywords": [
+        "blizzard sight",
+        "see through weather",
+        "rain",
+        "sleet",
+        "hail",
+        "fog",
+        "snowstorm",
+        "blizzard",
+        "weather conditions"
+      ]
+    },
+    {
+      "id": "winter_witch_unearthly_cold_su",
+      "title": "Unearthly Cold (Su) (Winter Witch)",
+      "anchor_heading": "#### Unearthly Cold (Su) {#unearthly_cold_su}",
+      "description": "Half the cold damage from the winter witch's abilities comes from otherworldly power and bypasses cold resistance and immunity.",
+      "keywords": [
+        "unearthly cold",
+        "otherworldly power",
+        "bypass cold resistance",
+        "bypass cold immunity",
+        "cold damage",
+        "spell-like abilities"
+      ]
+    },
+    {
+      "id": "winter_witch_iceglide_su",
+      "title": "Iceglide (Su) (Winter Witch)",
+      "anchor_heading": "#### Iceglide (Su) {#iceglide_su}",
+      "description": "The winter witch can move through ice and snow at base speed without leaving traces, usable 10 minutes per day in 1-minute increments.",
+      "keywords": [
+        "iceglide",
+        "move through ice",
+        "move through snow",
+        "no tunnel",
+        "no traces",
+        "swift action",
+        "control water vulnerability",
+        "fortitude save"
+      ]
+    },
+    {
+      "id": "winter_witch_inexorable_cold_su",
+      "title": "Inexorable Cold (Su) (Winter Witch)",
+      "anchor_heading": "#### Inexorable Cold (Su) {#inexorable_cold_su}",
+      "description": "Cold spells gain +1 caster level and bonuses to caster level checks, while becoming harder to counterspell or dispel.",
+      "keywords": [
+        "inexorable cold",
+        "cold descriptor",
+        "caster level bonus",
+        "counterspell",
+        "dispel",
+        "spell resistance",
+        "penetration bonus",
+        "dispel DC"
+      ]
+    }
+  ]
+}

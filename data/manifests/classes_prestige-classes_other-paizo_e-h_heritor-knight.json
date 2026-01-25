@@ -1,0 +1,232 @@
+{
+  "file": "heritor-knight.md",
+  "source_path": "https://www.d20pfsrd.com/classes/prestige-classes/other-paizo/e-h/heritor-knight/",
+  "source_name": "Prestige Class: Heritor Knight",
+  "category": "Classes",
+  "toc_content": "Contents\n* [Requirements](#requirements)\n* [Class Skills](#class_skills)\n* [Class Features](#class_features)\n  + [Skill and Heart as One (Ex)](#skill_and_heart_as_one_ex)\n  + [Savior of the Swallowed (Ex)](#savior_of_the_swallowed_ex)\n  + [Heritor\u2019s Honor (Su)](#heritors_honor_su)\n  + [Witches\u2019 Woe (Sp, Su)](#witches_woe_sp_su)\n  + [Skyreaver (Su)](#skyreaver_su)\n  + [Wraithwall (Su)](#wraithwall_su)\n  + [Mohrgbreaker (Su)](#mohrgbreaker_su)\n  + [Mighty Strike (Ex)](#mighty_strike_ex)\n  + [Reforged Heart (Su/Sp)](#reforged_heart_susp)\n  + [Image of Divinity (Su)](#image_of_divinity_su)\n  + [Redeemer of Undeath (Su)](#redeemer_of_undeath_su)\n  + [Freed by Blood (Su)](#freed_by_blood_su)\n  + [Sky Stride (Su)](#sky_stride_su)\n  + [Unveiling Mistress (Su)](#unveiling_mistress_su)",
+  "sections": [
+    {
+      "id": "heritor_knight_overview",
+      "title": "Heritor Knight (Class Overview)",
+      "anchor_heading": "# Heritor Knight",
+      "end_at_heading": "### Requirements {#requirements}",
+      "description": "Overview of the Heritor Knight class including role, alignment, hit die, and starting wealth.",
+      "keywords": [
+        "heritor knight",
+        "class",
+        "hit die",
+        "role",
+        "alignment"
+      ]
+    },
+    {
+      "id": "heritor_knight_skill_and_heart_as_one_ex",
+      "title": "Skill and Heart as One (Ex) (Heritor Knight)",
+      "anchor_heading": "#### Skill and Heart as One (Ex) {#skill_and_heart_as_one_ex}",
+      "description": "Heritor knight levels stack with fighter levels for weapon training and feat prerequisites.",
+      "keywords": [
+        "skill and heart as one",
+        "weapon training",
+        "feat prerequisites",
+        "fighter levels",
+        "level stacking",
+        "multiclass progression"
+      ]
+    },
+    {
+      "id": "heritor_knight_savior_of_the_swallowed_ex",
+      "title": "Savior of the Swallowed (Ex) (Heritor Knight)",
+      "anchor_heading": "#### Savior of the Swallowed (Ex) {#savior_of_the_swallowed_ex}",
+      "description": "Make a longsword attack as a standard action against creatures restraining allies, automatically freeing them if the attack roll meets their CMD.",
+      "keywords": [
+        "savior of the swallowed",
+        "grappling",
+        "swallowing whole",
+        "restraining effects",
+        "longsword attack",
+        "CMD",
+        "free ally",
+        "standard action"
+      ]
+    },
+    {
+      "id": "heritor_knight_heritors_honor_su",
+      "title": "Heritor\u2019s Honor (Su) (Heritor Knight)",
+      "anchor_heading": "#### Heritor\u2019s Honor (Su) {#heritors_honor_su}",
+      "description": "Gains a bonus on Will saves equal to Charisma modifier.",
+      "keywords": [
+        "heritor's honor",
+        "will saves",
+        "charisma modifier",
+        "sacred bonus",
+        "mental resistance"
+      ]
+    },
+    {
+      "id": "heritor_knight_witches_woe_sp_su",
+      "title": "Witches\u2019 Woe (Sp, Su) (Heritor Knight)",
+      "anchor_heading": "#### Witches\u2019 Woe (Sp, Su) {#witches_woe_sp_su}",
+      "description": "Gains bonus to saves against hexes and curses, plus daily remove curse spell-like ability.",
+      "keywords": [
+        "witches' woe",
+        "hexes",
+        "curse effects",
+        "remove curse",
+        "spell-like ability",
+        "hex resistance",
+        "curse resistance"
+      ]
+    },
+    {
+      "id": "heritor_knight_skyreaver_su",
+      "title": "Skyreaver (Su) (Heritor Knight)",
+      "anchor_heading": "#### Skyreaver (Su) {#skyreaver_su}",
+      "description": "Make a longsword attack against flying creatures that forces them to land and penalizes Fly checks.",
+      "keywords": [
+        "skyreaver",
+        "flying creatures",
+        "forced landing",
+        "fly checks",
+        "longsword attack",
+        "CMD",
+        "flight removal",
+        "standard action"
+      ]
+    },
+    {
+      "id": "heritor_knight_wraithwall_su",
+      "title": "Wraithwall (Su) (Heritor Knight)",
+      "anchor_heading": "#### Wraithwall (Su) {#wraithwall_su}",
+      "description": "Inspire allies within 30 feet to gain ghost touch armor and bonuses against ability damage, drain, and negative levels.",
+      "keywords": [
+        "wraithwall",
+        "ghost touch",
+        "ability damage",
+        "ability drain",
+        "negative levels",
+        "sacred bonus",
+        "inspire allies",
+        "standard action"
+      ]
+    },
+    {
+      "id": "heritor_knight_mohrgbreaker_su",
+      "title": "Mohrgbreaker (Su) (Heritor Knight)",
+      "anchor_heading": "#### Mohrgbreaker (Su) {#mohrgbreaker_su}",
+      "description": "Make a longsword attack against undead that removes their special natural weapon and touch attacks on a failed Will save.",
+      "keywords": [
+        "mohrgbreaker",
+        "undead",
+        "natural weapons",
+        "touch attacks",
+        "special attacks",
+        "will save",
+        "longsword attack",
+        "standard action"
+      ]
+    },
+    {
+      "id": "heritor_knight_mighty_strike_ex",
+      "title": "Mighty Strike (Ex) (Heritor Knight)",
+      "anchor_heading": "#### Mighty Strike (Ex) {#mighty_strike_ex}",
+      "description": "Gains Vital Strike and Improved Vital Strike as bonus feats and can apply Improved Vital Strike to standard action attacks.",
+      "keywords": [
+        "mighty strike",
+        "vital strike",
+        "improved vital strike",
+        "greater vital strike",
+        "bonus feats",
+        "standard action attacks"
+      ]
+    },
+    {
+      "id": "heritor_knight_reforged_heart_susp",
+      "title": "Reforged Heart (Su/Sp) (Heritor Knight)",
+      "anchor_heading": "#### Reforged Heart (Su/Sp) {#reforged_heart_susp}",
+      "description": "Can cast greater make whole once per day as a spell-like ability.",
+      "keywords": [
+        "reforged heart",
+        "greater make whole",
+        "spell-like ability",
+        "repair",
+        "restoration"
+      ]
+    },
+    {
+      "id": "heritor_knight_image_of_divinity_su",
+      "title": "Image of Divinity (Su) (Heritor Knight)",
+      "anchor_heading": "#### Image of Divinity (Su) {#image_of_divinity_su}",
+      "description": "Appearance changes to resemble the Inheritor and gains touch healing for good creatures or damage for evil creatures.",
+      "keywords": [
+        "image of divinity",
+        "touch healing",
+        "alignment-based effects",
+        "restoration",
+        "staggered condition",
+        "swift action",
+        "good alignment",
+        "evil alignment"
+      ]
+    },
+    {
+      "id": "heritor_knight_redeemer_of_undeath_su",
+      "title": "Redeemer of Undeath (Su) (Heritor Knight)",
+      "anchor_heading": "#### Redeemer of Undeath (Su) {#redeemer_of_undeath_su}",
+      "description": "Make a longsword attack against good-aligned undead that can destroy and redeem them on a failed Will save.",
+      "keywords": [
+        "redeemer of undeath",
+        "good-aligned undead",
+        "destroy undead",
+        "redeem undead",
+        "will save",
+        "longsword attack",
+        "standard action"
+      ]
+    },
+    {
+      "id": "heritor_knight_freed_by_blood_su",
+      "title": "Freed by Blood (Su) (Heritor Knight)",
+      "anchor_heading": "#### Freed by Blood (Su) {#freed_by_blood_su}",
+      "description": "Take damage as an immediate action to grant an ally a sacred bonus on saves against death, paralysis, or compulsion effects.",
+      "keywords": [
+        "freed by blood",
+        "death effects",
+        "paralysis",
+        "compulsion",
+        "sacred bonus",
+        "immediate action",
+        "ally saves",
+        "damage taken"
+      ]
+    },
+    {
+      "id": "heritor_knight_sky_stride_su",
+      "title": "Sky Stride (Su) (Heritor Knight)",
+      "anchor_heading": "#### Sky Stride (Su) {#sky_stride_su}",
+      "description": "Constantly under the effects of air walk with crimson cloth appearing beneath feet.",
+      "keywords": [
+        "sky stride",
+        "air walk",
+        "constant effect",
+        "flight",
+        "crimson cloth",
+        "free action activation"
+      ]
+    },
+    {
+      "id": "heritor_knight_unveiling_mistress_su",
+      "title": "Unveiling Mistress (Su) (Heritor Knight)",
+      "anchor_heading": "#### Unveiling Mistress (Su) {#unveiling_mistress_su}",
+      "description": "Emit an aura that reveals the true form of all creatures within 30 feet for 1 minute.",
+      "keywords": [
+        "unveiling mistress",
+        "true form",
+        "reveal illusions",
+        "polymorph effects",
+        "aura",
+        "free action",
+        "true sight"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,81 @@
+{
+  "file": "mystic-theurge.md",
+  "source_path": "https://www.d20pfsrd.com/classes/prestige-classes/core-rulebook/mystic-theurge/",
+  "source_name": "Prestige Class: Mystic Theurge",
+  "category": "Classes",
+  "toc_content": "Contents\n* [Requirements](#requirements)\n* [Class Skills](#class_skills)\n* [Class Features](#class_features)\n  + [Weapon and Armor Proficiency](#weapon_and_armor_proficiency)\n  + [Spells per Day](#spells_per_day)\n  + [Combined Spells (Su)](#combined_spells_su)\n  + [Spell Synthesis (Su)](#spell_synthesis_su)",
+  "sections": [
+    {
+      "id": "mystic_theurge_overview",
+      "title": "Mystic Theurge (Class Overview)",
+      "anchor_heading": "# Mystic Theurge",
+      "end_at_heading": "### Requirements {#requirements}",
+      "description": "Overview of the Mystic Theurge class including role, alignment, hit die, and starting wealth.",
+      "keywords": [
+        "mystic theurge",
+        "class",
+        "hit die",
+        "role",
+        "alignment"
+      ]
+    },
+    {
+      "id": "mystic_theurge_weapon_and_armor_proficiency",
+      "title": "Weapon and Armor Proficiency (Mystic Theurge)",
+      "anchor_heading": "#### Weapon and Armor Proficiency {#weapon_and_armor_proficiency}",
+      "description": "Mystic theurges gain no proficiency with any weapon or armor when taking levels in this prestige class.",
+      "keywords": [
+        "weapon proficiency",
+        "armor proficiency",
+        "no proficiency",
+        "mystic theurge proficiency"
+      ]
+    },
+    {
+      "id": "mystic_theurge_spells_per_day",
+      "title": "Spells per Day (Mystic Theurge)",
+      "anchor_heading": "#### Spells per Day {#spells_per_day}",
+      "description": "When gaining a mystic theurge level, the character advances spellcasting in one arcane and one divine class, gaining spells per day and caster level but no other class features.",
+      "keywords": [
+        "spells per day",
+        "spellcasting progression",
+        "caster level",
+        "arcane spellcasting class",
+        "divine spellcasting class",
+        "spells known",
+        "spellbook",
+        "bonus spells"
+      ]
+    },
+    {
+      "id": "mystic_theurge_combined_spells_su",
+      "title": "Combined Spells (Su) (Mystic Theurge)",
+      "anchor_heading": "#### Combined Spells (Su) {#combined_spells_su}",
+      "description": "Allows preparation and casting of spells from one spellcasting class using spell slots from another class, with the spell occupying a slot one level higher.",
+      "keywords": [
+        "combined spells",
+        "spell slot",
+        "one level higher",
+        "spontaneous spellcasters",
+        "prepared spells",
+        "spell components",
+        "cross-class casting"
+      ]
+    },
+    {
+      "id": "mystic_theurge_spell_synthesis_su",
+      "title": "Spell Synthesis (Su) (Mystic Theurge)",
+      "anchor_heading": "#### Spell Synthesis (Su) {#spell_synthesis_su}",
+      "description": "At 10th level, allows casting two spells simultaneously (one from each spellcasting class) with one action, imposing -2 save penalties on targets affected by both spells.",
+      "keywords": [
+        "spell synthesis",
+        "cast two spells",
+        "same casting time",
+        "save penalty",
+        "spell resistance",
+        "caster level check",
+        "once per day"
+      ]
+    }
+  ]
+}

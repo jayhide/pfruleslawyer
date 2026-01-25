@@ -1,0 +1,237 @@
+{
+  "file": "duelist.md",
+  "source_path": "https://www.d20pfsrd.com/classes/prestige-classes/core-rulebook/duelist/",
+  "source_name": "Prestige Class: Duelist",
+  "category": "Classes",
+  "toc_content": "Contents\n* [Requirements](#requirements)\n* [Class Skills](#class_skills)\n* [Class Features](#class_features)\n  + [Weapon and Armor Proficiency](#weapon_and_armor_proficiency)\n  + [Canny Defense (Ex)](#canny_defense_ex)\n  + [Precise Strike (Ex)](#precise_strike_ex)\n  + [Improved Reaction (Ex)](#improved_reaction_ex)\n  + [Parry (Ex)](#parry_ex)\n  + [Enhanced Mobility (Ex)](#enhanced_mobility_ex)\n  + [Combat Reflexes](#combat_reflexes)\n  + [Grace (Ex)](#grace_ex)\n  + [Riposte (Ex)](#riposte_ex)\n  + [Acrobatic Charge (Ex)](#acrobatic_charge_ex)\n  + [Elaborate Defense (Ex)](#elaborate_defense_ex)\n  + [Deflect Arrows](#deflect_arrows)\n  + [No Retreat (Ex)](#no_retreat_ex)\n  + [Crippling Critical (Ex)](#crippling_critical_ex)",
+  "sections": [
+    {
+      "id": "duelist_overview",
+      "title": "Duelist (Class Overview)",
+      "anchor_heading": "# Duelist",
+      "end_at_heading": "### Requirements {#requirements}",
+      "description": "Overview of the Duelist class including role, alignment, hit die, and starting wealth.",
+      "keywords": [
+        "duelist",
+        "class",
+        "hit die",
+        "role",
+        "alignment"
+      ]
+    },
+    {
+      "id": "duelist_weapon_and_armor_proficiency",
+      "title": "Weapon and Armor Proficiency (Duelist)",
+      "anchor_heading": "#### Weapon and Armor Proficiency {#weapon_and_armor_proficiency}",
+      "description": "Duelists are proficient with all simple and martial weapons, light armor, but not shields.",
+      "keywords": [
+        "weapon proficiency",
+        "armor proficiency",
+        "simple weapons",
+        "martial weapons",
+        "light armor",
+        "no shields",
+        "duelist proficiency"
+      ]
+    },
+    {
+      "id": "duelist_canny_defense_ex",
+      "title": "Canny Defense (Ex) (Duelist)",
+      "anchor_heading": "#### Canny Defense (Ex) {#canny_defense_ex}",
+      "description": "Adds Intelligence bonus per duelist level as a dodge bonus to AC when wearing light/no armor, not using a shield, and wielding a melee weapon.",
+      "keywords": [
+        "canny defense",
+        "intelligence to ac",
+        "dodge bonus",
+        "flat-footed",
+        "light armor",
+        "no armor",
+        "intelligence bonus",
+        "armor class bonus",
+        "melee weapon"
+      ]
+    },
+    {
+      "id": "duelist_precise_strike_ex",
+      "title": "Precise Strike (Ex) (Duelist)",
+      "anchor_heading": "#### Precise Strike (Ex) {#precise_strike_ex}",
+      "description": "Adds duelist level to damage when using light or one-handed piercing weapons, but cannot attack with off-hand or use a shield.",
+      "keywords": [
+        "precise strike",
+        "piercing weapon",
+        "damage bonus",
+        "one-handed piercing",
+        "light piercing",
+        "living creatures",
+        "critical hit immunity",
+        "anatomies",
+        "off-hand restriction"
+      ]
+    },
+    {
+      "id": "duelist_improved_reaction_ex",
+      "title": "Improved Reaction (Ex) (Duelist)",
+      "anchor_heading": "#### Improved Reaction (Ex) {#improved_reaction_ex}",
+      "description": "Gains +2 bonus to initiative at 2nd level, increasing to +4 at 8th level, stacking with Improved Initiative feat.",
+      "keywords": [
+        "improved reaction",
+        "initiative bonus",
+        "improved initiative",
+        "stacks with feat",
+        "+2 initiative",
+        "+4 initiative"
+      ]
+    },
+    {
+      "id": "duelist_parry_ex",
+      "title": "Parry (Ex) (Duelist)",
+      "anchor_heading": "#### Parry (Ex) {#parry_ex}",
+      "description": "Can forgo an attack during full attack to parry attacks against self or adjacent allies as an immediate action by making an opposed attack roll.",
+      "keywords": [
+        "parry",
+        "full attack action",
+        "immediate action",
+        "attack roll",
+        "adjacent ally",
+        "size penalty",
+        "forgo attack",
+        "opposed roll",
+        "automatic miss"
+      ]
+    },
+    {
+      "id": "duelist_enhanced_mobility_ex",
+      "title": "Enhanced Mobility (Ex) (Duelist)",
+      "anchor_heading": "#### Enhanced Mobility (Ex) {#enhanced_mobility_ex}",
+      "description": "Gains additional +4 AC bonus against attacks of opportunity when moving out of threatened squares while wearing light/no armor and not using a shield.",
+      "keywords": [
+        "enhanced mobility",
+        "attacks of opportunity",
+        "threatened square",
+        "movement",
+        "+4 ac bonus",
+        "light armor",
+        "no armor",
+        "mobility"
+      ]
+    },
+    {
+      "id": "duelist_combat_reflexes",
+      "title": "Combat Reflexes (Duelist)",
+      "anchor_heading": "#### Combat Reflexes {#combat_reflexes}",
+      "description": "Gains the Combat Reflexes feat benefit when using light or one-handed piercing weapons.",
+      "keywords": [
+        "combat reflexes",
+        "piercing weapon",
+        "one-handed piercing",
+        "light piercing",
+        "additional attacks of opportunity"
+      ]
+    },
+    {
+      "id": "duelist_grace_ex",
+      "title": "Grace (Ex) (Duelist)",
+      "anchor_heading": "#### Grace (Ex) {#grace_ex}",
+      "description": "Gains +2 competence bonus on Reflex saves when wearing light/no armor and not using a shield.",
+      "keywords": [
+        "grace",
+        "reflex saving throws",
+        "competence bonus",
+        "+2 reflex",
+        "light armor",
+        "no armor",
+        "reflex saves"
+      ]
+    },
+    {
+      "id": "duelist_riposte_ex",
+      "title": "Riposte (Ex) (Duelist)",
+      "anchor_heading": "#### Riposte (Ex) {#riposte_ex}",
+      "description": "Can make an attack of opportunity against any creature whose attack was successfully parried, if within reach.",
+      "keywords": [
+        "riposte",
+        "attack of opportunity",
+        "successful parry",
+        "parry",
+        "within reach",
+        "counterattack"
+      ]
+    },
+    {
+      "id": "duelist_acrobatic_charge_ex",
+      "title": "Acrobatic Charge (Ex) (Duelist)",
+      "anchor_heading": "#### Acrobatic Charge (Ex) {#acrobatic_charge_ex}",
+      "description": "Can charge over difficult terrain that normally slows movement, though appropriate checks may still be required.",
+      "keywords": [
+        "acrobatic charge",
+        "charge",
+        "difficult terrain",
+        "movement",
+        "terrain checks",
+        "charge over obstacles"
+      ]
+    },
+    {
+      "id": "duelist_elaborate_defense_ex",
+      "title": "Elaborate Defense (Ex) (Duelist)",
+      "anchor_heading": "#### Elaborate Defense (Ex) {#elaborate_defense_ex}",
+      "description": "Gains additional +1 dodge bonus to AC per 3 duelist levels when fighting defensively or using total defense in melee.",
+      "keywords": [
+        "elaborate defense",
+        "fight defensively",
+        "total defense",
+        "dodge bonus",
+        "melee combat",
+        "+1 per 3 levels",
+        "defensive fighting"
+      ]
+    },
+    {
+      "id": "duelist_deflect_arrows",
+      "title": "Deflect Arrows (Duelist)",
+      "anchor_heading": "#### Deflect Arrows {#deflect_arrows}",
+      "description": "Gains Deflect Arrows feat benefit when using light or one-handed piercing weapons without needing a free hand.",
+      "keywords": [
+        "deflect arrows",
+        "piercing weapon",
+        "ranged attacks",
+        "no free hand",
+        "one-handed piercing",
+        "light piercing",
+        "deflect projectiles"
+      ]
+    },
+    {
+      "id": "duelist_no_retreat_ex",
+      "title": "No Retreat (Ex) (Duelist)",
+      "anchor_heading": "#### No Retreat (Ex) {#no_retreat_ex}",
+      "description": "Adjacent enemies that take a withdraw action provoke an attack of opportunity from the duelist.",
+      "keywords": [
+        "no retreat",
+        "withdraw action",
+        "attack of opportunity",
+        "adjacent enemies",
+        "provoke",
+        "withdrawal"
+      ]
+    },
+    {
+      "id": "duelist_crippling_critical_ex",
+      "title": "Crippling Critical (Ex) (Duelist)",
+      "anchor_heading": "#### Crippling Critical (Ex) {#crippling_critical_ex}",
+      "description": "On confirmed critical hits with light or one-handed piercing weapons, can apply additional penalties like speed reduction, ability damage, or bleed.",
+      "keywords": [
+        "crippling critical",
+        "critical hit",
+        "confirm critical",
+        "piercing weapon",
+        "speed reduction",
+        "ability damage",
+        "bleed damage",
+        "saving throw penalty",
+        "ac penalty",
+        "additional penalties"
+      ]
+    }
+  ]
+}

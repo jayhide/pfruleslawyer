@@ -1,0 +1,145 @@
+{
+  "file": "group-leader.md",
+  "source_path": "https://www.d20pfsrd.com/classes/prestige-classes/other-paizo/e-h/group-leader/",
+  "source_name": "Prestige Class: Group Leader",
+  "category": "Classes",
+  "toc_content": "",
+  "sections": [
+    {
+      "id": "group_leader_overview",
+      "title": "Group Leader (Class Overview)",
+      "anchor_heading": "# Group Leader",
+      "end_at_heading": "### Requirements",
+      "description": "Overview of the Group Leader class including role, alignment, hit die, and starting wealth.",
+      "keywords": [
+        "group leader",
+        "class",
+        "hit die",
+        "role",
+        "alignment"
+      ]
+    },
+    {
+      "id": "group_leader_weapon_and_armor_proficiency",
+      "title": "Weapon and Armor Proficiency (Group Leader)",
+      "anchor_heading": "#### Weapon and Armor Proficiency",
+      "description": "Group Leaders gain no additional weapon or armor proficiencies beyond their base proficiencies.",
+      "keywords": [
+        "weapon proficiency",
+        "armor proficiency",
+        "no additional proficiencies",
+        "starting proficiencies"
+      ]
+    },
+    {
+      "id": "group_leader_close_group_exhttpswwwd20pfsrdcommagictocextraordinaryabilit",
+      "title": "Close Group ([Ex](https://www.d20pfsrd.com/magic#TOC-Extraordinary-Abilities-Ex-)) (Group Leader)",
+      "anchor_heading": "#### Close Group ([Ex](https://www.d20pfsrd.com/magic#TOC-Extraordinary-Abilities-Ex-))",
+      "description": "Designates up to 3 + Charisma modifier allies as a group who must stay within 30 feet (60 feet at 7th level) to benefit from class abilities.",
+      "keywords": [
+        "close group",
+        "standard action",
+        "charisma modifier",
+        "30 feet range",
+        "60 feet range",
+        "group designation",
+        "ally benefits"
+      ]
+    },
+    {
+      "id": "group_leader_swift_traveler_exhttpswwwd20pfsrdcommagictocextraordinaryabi",
+      "title": "Swift Traveler ([Ex](https://www.d20pfsrd.com/magic#TOC-Extraordinary-Abilities-Ex-)) (Group Leader)",
+      "anchor_heading": "#### Swift Traveler ([Ex](https://www.d20pfsrd.com/magic#TOC-Extraordinary-Abilities-Ex-))",
+      "description": "Increases overland travel speed by +10 feet (+20 feet at 6th level) for the Group Leader and allows group members to use her speed if better.",
+      "keywords": [
+        "swift traveler",
+        "overland travel speed",
+        "base land speed",
+        "long distance travel",
+        "outside combat",
+        "+10 feet",
+        "+20 feet"
+      ]
+    },
+    {
+      "id": "group_leader_group_guardian_exhttpswwwd20pfsrdcommagictocextraordinaryabi",
+      "title": "Group Guardian ([Ex](https://www.d20pfsrd.com/magic#TOC-Extraordinary-Abilities-Ex-)) (Group Leader)",
+      "anchor_heading": "#### Group Guardian ([Ex](https://www.d20pfsrd.com/magic#TOC-Extraordinary-Abilities-Ex-))",
+      "description": "When using aid another for group members, grants a +3 bonus instead of the normal +2 bonus.",
+      "keywords": [
+        "group guardian",
+        "aid another",
+        "+3 bonus",
+        "+2 bonus",
+        "aid another action"
+      ]
+    },
+    {
+      "id": "group_leader_group_defense_exhttpswwwd20pfsrdcommagictocextraordinaryabil",
+      "title": "Group Defense ([Ex](https://www.d20pfsrd.com/magic#TOC-Extraordinary-Abilities-Ex-)) (Group Leader)",
+      "anchor_heading": "#### Group Defense ([Ex](https://www.d20pfsrd.com/magic#TOC-Extraordinary-Abilities-Ex-))",
+      "description": "Provides escalating morale bonuses on attack and damage rolls against creatures that threaten group members, starting at +1 and reaching +5 at 10th level.",
+      "keywords": [
+        "group defense",
+        "morale bonus",
+        "attack rolls",
+        "damage rolls",
+        "threaten",
+        "+1 bonus",
+        "+5 bonus",
+        "every two levels"
+      ]
+    },
+    {
+      "id": "group_leader_teamwork_feat",
+      "title": "Teamwork Feat (Group Leader)",
+      "anchor_heading": "#### Teamwork Feat",
+      "description": "Grants bonus teamwork feats at 2nd, 6th, and 10th levels, requiring the Group Leader to meet prerequisites.",
+      "keywords": [
+        "teamwork feat",
+        "bonus feat",
+        "teamwork feats",
+        "prerequisites",
+        "2nd level",
+        "6th level",
+        "10th level"
+      ]
+    },
+    {
+      "id": "group_leader_sneak_attack",
+      "title": "Sneak Attack (Group Leader)",
+      "anchor_heading": "#### Sneak Attack",
+      "description": "Functions like rogue sneak attack, dealing +1d6 extra damage every two levels (3rd, 6th, 9th), stacking with other sneak attack sources.",
+      "keywords": [
+        "sneak attack",
+        "rogue ability",
+        "+1d6 damage",
+        "every two levels",
+        "stack",
+        "3rd level",
+        "6th level",
+        "9th level"
+      ]
+    },
+    {
+      "id": "group_leader_favored_community_exhttpswwwd20pfsrdcommagictocextraordinary",
+      "title": "Favored Community ([Ex](https://www.d20pfsrd.com/magic#TOC-Extraordinary-Abilities-Ex-)) (Group Leader)",
+      "anchor_heading": "#### Favored Community ([Ex](https://www.d20pfsrd.com/magic#TOC-Extraordinary-Abilities-Ex-))",
+      "description": "Provides bonuses to initiative and specific skills within chosen communities, safe rest locations, and prevents tracking, with additional communities selectable at higher levels.",
+      "keywords": [
+        "favored community",
+        "initiative bonus",
+        "knowledge local",
+        "perception",
+        "stealth",
+        "survival",
+        "+2 bonus",
+        "safe rest",
+        "no trail",
+        "cannot be tracked",
+        "settlement",
+        "100 individuals"
+      ]
+    }
+  ]
+}

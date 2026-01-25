@@ -1,0 +1,159 @@
+{
+  "file": "sacred-sentinel.md",
+  "source_path": "https://www.d20pfsrd.com/classes/prestige-classes/other-paizo/s-z/sacred-sentinel/",
+  "source_name": "Prestige Class: Sacred Sentinel",
+  "category": "Classes",
+  "toc_content": "Contents\n* [Requirements](#requirements)\n* [Class Skills](#class_skills)\n* [Class Features](#class_features)\n  + [Code of the Creator (Su)](#code_of_the_creator_su)\n  + [Strategic Protection (Su)](#strategic_protection_su)\n  + [Renewed Bonds (Ex)](#renewed_bonds_ex)\n  + [Healing Touch (Su)](#healing_touch_su)\n  + [Tempering Touch (Su)](#tempering_touch_su)\n  + [Uncanny Dodge (Ex)](#uncanny_dodge_ex)\n  + [Swift Shield Other (Sp)](#swift_shield_other_sp)\n  + [Unyielding (Su)](#unyielding_su)",
+  "sections": [
+    {
+      "id": "sacred_sentinel_overview",
+      "title": "Sacred Sentinel (Class Overview)",
+      "anchor_heading": "# Sacred Sentinel",
+      "end_at_heading": "### Requirements {#requirements}",
+      "description": "Overview of the Sacred Sentinel class including role, alignment, hit die, and starting wealth.",
+      "keywords": [
+        "sacred sentinel",
+        "class",
+        "hit die",
+        "role",
+        "alignment"
+      ]
+    },
+    {
+      "id": "sacred_sentinel_code_of_the_creator_su",
+      "title": "Code of the Creator (Su) (Sacred Sentinel)",
+      "anchor_heading": "#### Code of the Creator (Su) {#code_of_the_creator_su}",
+      "description": "Sacred sentinels must follow the paladin's code of the Creator, with violations causing loss of all class features except skills for 24 hours. Cavaliers treat this code as their order's edict.",
+      "keywords": [
+        "code of the Creator",
+        "paladin code",
+        "code violation",
+        "cavalier edict",
+        "lose class features",
+        "24 hours",
+        "code of conduct"
+      ]
+    },
+    {
+      "id": "sacred_sentinel_strategic_protection_su",
+      "title": "Strategic Protection (Su) (Sacred Sentinel)",
+      "anchor_heading": "#### Strategic Protection (Su) {#strategic_protection_su}",
+      "description": "As a move action, establishes a protective aura affecting allies within range, granting scaling bonuses to CMD and Constitution checks to stabilize. The aura lasts until the beginning of the sacred sentinel's next turn.",
+      "keywords": [
+        "strategic protection",
+        "move action",
+        "protective aura",
+        "CMD bonus",
+        "stabilize bonus",
+        "Constitution check",
+        "Charisma bonus allies",
+        "20 feet",
+        "30 feet",
+        "beginning of next turn"
+      ]
+    },
+    {
+      "id": "sacred_sentinel_renewed_bonds_ex",
+      "title": "Renewed Bonds (Ex) (Sacred Sentinel)",
+      "anchor_heading": "#### Renewed Bonds (Ex) {#renewed_bonds_ex}",
+      "description": "Maintains bonds from previous classes by stacking sacred sentinel levels with animal companion, familiar, or bond class features, and enhances specific class features from cavalier, paladin, or warpriest classes.",
+      "keywords": [
+        "renewed bonds",
+        "animal companion",
+        "familiar",
+        "arcane bond",
+        "divine bond",
+        "sacred bond",
+        "level stacking",
+        "challenge",
+        "smite evil",
+        "blessings",
+        "cavalier",
+        "paladin",
+        "warpriest"
+      ]
+    },
+    {
+      "id": "sacred_sentinel_healing_touch_su",
+      "title": "Healing Touch (Su) (Sacred Sentinel)",
+      "anchor_heading": "#### Healing Touch (Su) {#healing_touch_su}",
+      "description": "Heals wounds by touch for 3d8 hit points (scaling to 5d8), usable on strategic protection allies within aura range without requiring touch attacks. Qualifies as lay on hands for prerequisites and abilities.",
+      "keywords": [
+        "healing touch",
+        "touch attack",
+        "3d8 healing",
+        "4d8 healing",
+        "5d8 healing",
+        "strategic protection range",
+        "lay on hands",
+        "mercies",
+        "hit points",
+        "daily uses"
+      ]
+    },
+    {
+      "id": "sacred_sentinel_tempering_touch_su",
+      "title": "Tempering Touch (Su) (Sacred Sentinel)",
+      "anchor_heading": "#### Tempering Touch (Su) {#tempering_touch_su}",
+      "description": "When healing an ally with spells or class features, grants them scaling deflection and sacred bonuses when fighting defensively, using full defense, or Combat Expertise for a number of rounds equal to class level.",
+      "keywords": [
+        "tempering touch",
+        "healing bonus",
+        "fighting defensively",
+        "full defense action",
+        "Combat Expertise",
+        "deflection bonus",
+        "sacred bonus",
+        "defensive bonus",
+        "spell healing",
+        "class feature healing"
+      ]
+    },
+    {
+      "id": "sacred_sentinel_uncanny_dodge_ex",
+      "title": "Uncanny Dodge (Ex) (Sacred Sentinel)",
+      "anchor_heading": "#### Uncanny Dodge (Ex) {#uncanny_dodge_ex}",
+      "description": "Gains uncanny dodge as per the rogue class feature, or improved uncanny dodge if already possessing uncanny dodge from another class.",
+      "keywords": [
+        "uncanny dodge",
+        "improved uncanny dodge",
+        "rogue class feature",
+        "react to danger",
+        "Dexterity bonus",
+        "flat-footed"
+      ]
+    },
+    {
+      "id": "sacred_sentinel_swift_shield_other_sp",
+      "title": "Swift Shield Other (Sp) (Sacred Sentinel)",
+      "anchor_heading": "#### Swift Shield Other (Sp) {#swift_shield_other_sp}",
+      "description": "Can use shield other as a quickened spell-like ability a number of times per day equal to Charisma bonus (minimum once per day).",
+      "keywords": [
+        "swift shield other",
+        "quickened spell-like ability",
+        "shield other",
+        "Charisma bonus",
+        "daily uses",
+        "spell-like ability",
+        "quickened"
+      ]
+    },
+    {
+      "id": "sacred_sentinel_unyielding_su",
+      "title": "Unyielding (Su) (Sacred Sentinel)",
+      "anchor_heading": "#### Unyielding (Su) {#unyielding_su}",
+      "description": "When killed while strategic protection is active, remains alive and functional until the beginning of next turn, during which only breath of life can save them.",
+      "keywords": [
+        "unyielding",
+        "strategic protection active",
+        "killed",
+        "death",
+        "beginning of next turn",
+        "breath of life",
+        "healing effects",
+        "hit points",
+        "temporary death"
+      ]
+    }
+  ]
+}

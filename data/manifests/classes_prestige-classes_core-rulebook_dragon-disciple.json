@@ -1,0 +1,179 @@
+{
+  "file": "dragon-disciple.md",
+  "source_path": "https://www.d20pfsrd.com/classes/prestige-classes/core-rulebook/dragon-disciple/",
+  "source_name": "Prestige Class: Dragon Disciple",
+  "category": "Classes",
+  "toc_content": "Contents\n* [Requirements](#requirements)\n* [Class Skills](#class_skills)\n* [Class Features](#class_features)\n  + [Weapon and Armor Proficiency](#weapon_and_armor_proficiency)\n  + [Spells per Day](#spells_per_day)\n  + [Blood of Dragons](#blood_of_dragons)\n  + [Natural Armor Increase (Ex)](#natural_armor_increase_ex)\n  + [Ability Boost (Ex)](#ability_boost_ex)\n  + [Bloodline Feat](#bloodline_feat)\n  + [Dragon Bite (Ex)](#dragon_bite_ex)\n  + [Breath Weapon (Su)](#breath_weapon_su)\n  + [Blindsense (Ex)](#blindsense_ex)\n  + [Dragon Form (Sp)](#dragon_form_sp)\n  + [Wings (Su)](#wings_su)",
+  "sections": [
+    {
+      "id": "dragon_disciple_overview",
+      "title": "Dragon Disciple (Class Overview)",
+      "anchor_heading": "# Dragon Disciple",
+      "end_at_heading": "### Requirements {#requirements}",
+      "description": "Overview of the Dragon Disciple class including role, alignment, hit die, and starting wealth.",
+      "keywords": [
+        "dragon disciple",
+        "class",
+        "hit die",
+        "role",
+        "alignment"
+      ]
+    },
+    {
+      "id": "dragon_disciple_weapon_and_armor_proficiency",
+      "title": "Weapon and Armor Proficiency (Dragon Disciple)",
+      "anchor_heading": "#### Weapon and Armor Proficiency {#weapon_and_armor_proficiency}",
+      "description": "Dragon disciples gain no proficiency with any weapon or armor.",
+      "keywords": [
+        "dragon disciple proficiency",
+        "no weapon proficiency",
+        "no armor proficiency",
+        "weapon and armor proficiency"
+      ]
+    },
+    {
+      "id": "dragon_disciple_spells_per_day",
+      "title": "Spells per Day (Dragon Disciple)",
+      "anchor_heading": "#### Spells per Day {#spells_per_day}",
+      "description": "At indicated levels, dragon disciple gains new spells per day as if gaining a level in a previous arcane spellcasting class, but no other class benefits.",
+      "keywords": [
+        "dragon disciple spells per day",
+        "arcane spellcasting progression",
+        "prestige class spellcasting",
+        "effective caster level",
+        "spells known",
+        "spontaneous caster",
+        "spellbook bonus spells"
+      ]
+    },
+    {
+      "id": "dragon_disciple_blood_of_dragons",
+      "title": "Blood of Dragons (Dragon Disciple)",
+      "anchor_heading": "#### Blood of Dragons {#blood_of_dragons}",
+      "description": "Adds dragon disciple level to sorcerer levels for bloodline powers, or grants draconic bloodline powers if no sorcerer levels exist.",
+      "keywords": [
+        "blood of dragons",
+        "draconic bloodline",
+        "bloodline powers",
+        "sorcerer level",
+        "dragon type",
+        "bloodrager bloodline",
+        "bonus spells",
+        "spell slots"
+      ]
+    },
+    {
+      "id": "dragon_disciple_natural_armor_increase_ex",
+      "title": "Natural Armor Increase (Ex) (Dragon Disciple)",
+      "anchor_heading": "#### Natural Armor Increase (Ex) {#natural_armor_increase_ex}",
+      "description": "Gains stacking increases to natural armor at 1st, 4th, and 7th level as skin thickens and takes on draconic aspects.",
+      "keywords": [
+        "natural armor increase",
+        "dragon disciple natural armor",
+        "stacking natural armor",
+        "draconic aspect",
+        "skin thickening"
+      ]
+    },
+    {
+      "id": "dragon_disciple_ability_boost_ex",
+      "title": "Ability Boost (Ex) (Dragon Disciple)",
+      "anchor_heading": "#### Ability Boost (Ex) {#ability_boost_ex}",
+      "description": "Ability scores increase at certain levels as shown on the class table, stacking and gained as through level advancement.",
+      "keywords": [
+        "ability boost",
+        "ability score increase",
+        "dragon disciple ability scores",
+        "level advancement",
+        "stacking ability increases"
+      ]
+    },
+    {
+      "id": "dragon_disciple_bloodline_feat",
+      "title": "Bloodline Feat (Dragon Disciple)",
+      "anchor_heading": "#### Bloodline Feat {#bloodline_feat}",
+      "description": "Receives bonus feats from the draconic bloodline feat list at 2nd level and every three levels thereafter.",
+      "keywords": [
+        "bloodline feat",
+        "draconic bloodline feat",
+        "bonus feat",
+        "dragon disciple feat",
+        "bloodline bonus feat list"
+      ]
+    },
+    {
+      "id": "dragon_disciple_dragon_bite_ex",
+      "title": "Dragon Bite (Ex) (Dragon Disciple)",
+      "anchor_heading": "#### Dragon Bite (Ex) {#dragon_bite_ex}",
+      "description": "Gains a primary bite attack when bloodline claws are active, dealing 1d6 damage plus Strength modifier, and energy damage at 6th level.",
+      "keywords": [
+        "dragon bite",
+        "bite attack",
+        "primary natural attack",
+        "bloodline claws",
+        "energy damage",
+        "dragon disciple bite",
+        "natural weapon"
+      ]
+    },
+    {
+      "id": "dragon_disciple_breath_weapon_su",
+      "title": "Breath Weapon (Su) (Dragon Disciple)",
+      "anchor_heading": "#### Breath Weapon (Su) {#breath_weapon_su}",
+      "description": "Gains breath weapon bloodline power at 3rd level regardless of actual bloodline level, with additional daily use once bloodline level catches up.",
+      "keywords": [
+        "breath weapon",
+        "dragon disciple breath weapon",
+        "draconic bloodline breath weapon",
+        "additional use",
+        "breath weapon type",
+        "breath weapon shape"
+      ]
+    },
+    {
+      "id": "dragon_disciple_blindsense_ex",
+      "title": "Blindsense (Ex) (Dragon Disciple)",
+      "anchor_heading": "#### Blindsense (Ex) {#blindsense_ex}",
+      "description": "Gains blindsense 30 feet at 5th level (60 feet at 10th level), allowing detection of creatures without sight but retaining concealment mechanics.",
+      "keywords": [
+        "blindsense",
+        "dragon disciple blindsense",
+        "non-visual senses",
+        "blindsense range",
+        "concealment",
+        "miss chance",
+        "line of effect",
+        "perception checks"
+      ]
+    },
+    {
+      "id": "dragon_disciple_dragon_form_sp",
+      "title": "Dragon Form (Sp) (Dragon Disciple)",
+      "anchor_heading": "#### Dragon Form (Sp) {#dragon_form_sp}",
+      "description": "Can transform into dragon form as form of the dragon I at 7th level, upgrading to form of the dragon II with twice daily use at 10th level.",
+      "keywords": [
+        "dragon form",
+        "form of the dragon",
+        "dragon transformation",
+        "spell-like ability",
+        "dragon disciple polymorph",
+        "draconic bloodline form",
+        "effective sorcerer level"
+      ]
+    },
+    {
+      "id": "dragon_disciple_wings_su",
+      "title": "Wings (Su) (Dragon Disciple)",
+      "anchor_heading": "#### Wings (Su) {#wings_su}",
+      "description": "Gains wings bloodline power at 9th level regardless of bloodline level, with flight speed increasing to 90 feet once bloodline level catches up.",
+      "keywords": [
+        "dragon disciple wings",
+        "wings bloodline power",
+        "flight speed",
+        "90 feet flight",
+        "supernatural flight",
+        "draconic wings"
+      ]
+    }
+  ]
+}

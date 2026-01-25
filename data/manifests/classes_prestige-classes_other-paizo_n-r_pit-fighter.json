@@ -1,0 +1,171 @@
+{
+  "file": "pit-fighter.md",
+  "source_path": "https://www.d20pfsrd.com/classes/prestige-classes/other-paizo/n-r/pit-fighter/",
+  "source_name": "Prestige Class: Pit Fighter",
+  "category": "Classes",
+  "toc_content": "",
+  "sections": [
+    {
+      "id": "pit_fighter_overview",
+      "title": "Pit Fighter (Class Overview)",
+      "anchor_heading": "# Pit Fighter",
+      "end_at_heading": "### Requirements",
+      "description": "Overview of the Pit Fighter class including role, alignment, hit die, and starting wealth.",
+      "keywords": [
+        "pit fighter",
+        "class",
+        "hit die",
+        "role",
+        "alignment"
+      ]
+    },
+    {
+      "id": "pit_fighter_weapon_and_armor_proficiency",
+      "title": "Weapon and Armor Proficiency (Pit Fighter)",
+      "anchor_heading": "#### Weapon and Armor Proficiency",
+      "description": "Pit fighters are proficient with simple and martial weapons that have the performance quality, plus light and medium armor and shields (excluding tower shields).",
+      "keywords": [
+        "weapon proficiency",
+        "armor proficiency",
+        "performance quality",
+        "performance weapon",
+        "martial weapons",
+        "simple weapons",
+        "light armor",
+        "medium armor",
+        "shields",
+        "tower shield exclusion"
+      ]
+    },
+    {
+      "id": "pit_fighter_poor_equipment_exhttpswwwd20pfsrdcommagictocextraordinaryabi",
+      "title": "Poor Equipment ([Ex](https://www.d20pfsrd.com/magic#TOC-Extraordinary-Abilities-Ex-)) (Pit Fighter)",
+      "anchor_heading": "#### Poor Equipment ([Ex](https://www.d20pfsrd.com/magic#TOC-Extraordinary-Abilities-Ex-))",
+      "description": "As a swift action, the pit fighter can ignore the broken condition on one weapon or armor piece for the remainder of the encounter, though only one item can be affected at a time.",
+      "keywords": [
+        "poor equipment",
+        "broken condition",
+        "swift action",
+        "ignore broken",
+        "broken weapon",
+        "broken armor",
+        "encounter duration",
+        "single item limitation"
+      ]
+    },
+    {
+      "id": "pit_fighter_showmanship_exhttpswwwd20pfsrdcommagictocextraordinaryabilit",
+      "title": "Showmanship ([Ex](https://www.d20pfsrd.com/magic#TOC-Extraordinary-Abilities-Ex-)) (Pit Fighter)",
+      "anchor_heading": "#### Showmanship ([Ex](https://www.d20pfsrd.com/magic#TOC-Extraordinary-Abilities-Ex-))",
+      "description": "The pit fighter can treat regular combat as performance combat a limited number of times per day, making performance checks against DCs based on encounter CR.",
+      "keywords": [
+        "showmanship",
+        "performance combat",
+        "performance checks",
+        "crowd attitude",
+        "performance feats",
+        "swift action activation",
+        "encounter CR",
+        "indifferent attitude",
+        "times per day"
+      ]
+    },
+    {
+      "id": "pit_fighter_arena_weapon_expertise_exhttpswwwd20pfsrdcommagictocextraord",
+      "title": "Arena Weapon Expertise ([Ex](https://www.d20pfsrd.com/magic#TOC-Extraordinary-Abilities-Ex-)) (Pit Fighter)",
+      "anchor_heading": "#### Arena Weapon Expertise ([Ex](https://www.d20pfsrd.com/magic#TOC-Extraordinary-Abilities-Ex-))",
+      "description": "When using performance quality weapons, the pit fighter gains scaling bonuses to damage rolls and critical hit confirmation rolls.",
+      "keywords": [
+        "arena weapon expertise",
+        "performance quality",
+        "damage bonus",
+        "critical hit confirmation",
+        "attack rolls",
+        "scaling bonus",
+        "weapon expertise"
+      ]
+    },
+    {
+      "id": "pit_fighter_weapon_trick_exhttpswwwd20pfsrdcommagictocextraordinaryabili",
+      "title": "Weapon Trick ([Ex](https://www.d20pfsrd.com/magic#TOC-Extraordinary-Abilities-Ex-)) (Pit Fighter)",
+      "anchor_heading": "#### Weapon Trick ([Ex](https://www.d20pfsrd.com/magic#TOC-Extraordinary-Abilities-Ex-))",
+      "description": "Grants Improved Dirty Trick as a bonus feat and allows using performance weapons for dirty trick maneuvers that also deal normal melee damage once per round.",
+      "keywords": [
+        "weapon trick",
+        "Improved Dirty Trick",
+        "bonus feat",
+        "dirty trick maneuver",
+        "performance weapon",
+        "combat maneuver",
+        "melee damage",
+        "once per round",
+        "free hand required"
+      ]
+    },
+    {
+      "id": "pit_fighter_roar_of_the_crowd_exhttpswwwd20pfsrdcommagictocextraordinary",
+      "title": "Roar of the Crowd ([Ex](https://www.d20pfsrd.com/magic#TOC-Extraordinary-Abilities-Ex-)) (Pit Fighter)",
+      "anchor_heading": "#### Roar of the Crowd ([Ex](https://www.d20pfsrd.com/magic#TOC-Extraordinary-Abilities-Ex-))",
+      "description": "During performance combat, the pit fighter can rage when the crowd's attitude is helpful, but becomes fatigued if the crowd turns unfriendly or hostile.",
+      "keywords": [
+        "roar of the crowd",
+        "performance combat",
+        "rage",
+        "crowd attitude",
+        "helpful attitude",
+        "barbarian rage",
+        "fatigued condition",
+        "unfriendly attitude",
+        "hostile attitude"
+      ]
+    },
+    {
+      "id": "pit_fighter_tricky_assault_exhttpswwwd20pfsrdcommagictocextraordinaryabi",
+      "title": "Tricky Assault ([Ex](https://www.d20pfsrd.com/magic#TOC-Extraordinary-Abilities-Ex-)) (Pit Fighter)",
+      "anchor_heading": "#### Tricky Assault ([Ex](https://www.d20pfsrd.com/magic#TOC-Extraordinary-Abilities-Ex-))",
+      "description": "Grants Quick Dirty Trick as a bonus feat, allowing dirty trick combat maneuvers to replace melee attacks using the highest base attack bonus.",
+      "keywords": [
+        "tricky assault",
+        "Quick Dirty Trick",
+        "bonus feat",
+        "dirty trick maneuver",
+        "melee attack replacement",
+        "highest base attack bonus",
+        "combat maneuver"
+      ]
+    },
+    {
+      "id": "pit_fighter_brutal_trick_exhttpswwwd20pfsrdcommagictocextraordinaryabili",
+      "title": "Brutal Trick ([Ex](https://www.d20pfsrd.com/magic#TOC-Extraordinary-Abilities-Ex-)) (Pit Fighter)",
+      "anchor_heading": "#### Brutal Trick ([Ex](https://www.d20pfsrd.com/magic#TOC-Extraordinary-Abilities-Ex-))",
+      "description": "Grants Greater Dirty Trick as a bonus feat and causes creatures removing dirty trick conditions to provoke attacks of opportunity from the pit fighter.",
+      "keywords": [
+        "brutal trick",
+        "Greater Dirty Trick",
+        "bonus feat",
+        "attack of opportunity",
+        "standard action removal",
+        "dirty trick condition",
+        "provoke opportunity"
+      ]
+    },
+    {
+      "id": "pit_fighter_greater_roar_of_the_crowd_exhttpswwwd20pfsrdcommagictocextra",
+      "title": "Greater Roar of the Crowd ([Ex](https://www.d20pfsrd.com/magic#TOC-Extraordinary-Abilities-Ex-)) (Pit Fighter)",
+      "anchor_heading": "#### Greater Roar of the Crowd ([Ex](https://www.d20pfsrd.com/magic#TOC-Extraordinary-Abilities-Ex-))",
+      "description": "Allows rage at friendly or better crowd attitudes, provides enhanced bonuses when crowd is helpful, and reduces fatigue penalties to only occur when crowd becomes hostile.",
+      "keywords": [
+        "greater roar of the crowd",
+        "friendly attitude",
+        "helpful attitude",
+        "enhanced rage bonuses",
+        "morale bonus",
+        "Strength bonus",
+        "Constitution bonus",
+        "Will save bonus",
+        "hostile fatigue",
+        "enhanced crowd effects"
+      ]
+    }
+  ]
+}

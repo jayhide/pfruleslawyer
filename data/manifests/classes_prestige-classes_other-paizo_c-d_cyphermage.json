@@ -1,0 +1,86 @@
+{
+  "file": "cyphermage.md",
+  "source_path": "https://www.d20pfsrd.com/classes/prestige-classes/other-paizo/c-d/cyphermage/",
+  "source_name": "Prestige Class: Cyphermage",
+  "category": "Classes",
+  "toc_content": "Contents\n* [Requirements](#requirements)\n* [Class Skills](#class_skills)\n* [Class Features](#class_features)\n  + [Cypher Lore](#cypher_lore)\n  + [Cypherlord (Su)](#cypherlord_su)",
+  "sections": [
+    {
+      "id": "cyphermage_overview",
+      "title": "Cyphermage (Class Overview)",
+      "anchor_heading": "# Cyphermage",
+      "end_at_heading": "### Requirements {#requirements}",
+      "description": "Overview of the Cyphermage class including role, alignment, hit die, and starting wealth.",
+      "keywords": [
+        "cyphermage",
+        "class",
+        "hit die",
+        "role",
+        "alignment"
+      ]
+    },
+    {
+      "id": "cyphermage_cypher_lore",
+      "title": "Cypher Lore (Cyphermage)",
+      "anchor_heading": "#### Cypher Lore {#cypher_lore}",
+      "description": "A collection of magical discoveries that enhance the Cyphermage's mastery of written magic like scrolls, glyphs, and symbols, with one discovery learned at each level except 10th.",
+      "keywords": [
+        "cypher lore",
+        "written magic",
+        "scroll enhancement",
+        "glyph mastery",
+        "symbol magic",
+        "Sin magic",
+        "magical writing",
+        "analyze scroll",
+        "bypass symbol",
+        "defensive scrollcaster",
+        "enhance scroll",
+        "extended scroll",
+        "focused scroll",
+        "giants master",
+        "glyph finder",
+        "insightful scroll",
+        "rune trap",
+        "swift scrivener",
+        "swift scroll",
+        "sin focus",
+        "sin incantation",
+        "sin summoning",
+        "scroll casting",
+        "magical traps",
+        "caster level checks",
+        "Use Magic Device",
+        "Spellcraft",
+        "concentration checks",
+        "immediate action",
+        "swift action",
+        "free action",
+        "sinspawn",
+        "lamias",
+        "shining children"
+      ]
+    },
+    {
+      "id": "cyphermage_cypherlord_su",
+      "title": "Cypherlord (Su) (Cyphermage)",
+      "anchor_heading": "#### Cypherlord (Su) {#cypherlord_su}",
+      "description": "At 10th level, grants a +5 insight bonus on saves against writing-based magical effects and allows one swift action cypher lore ability to be used as a free action instead.",
+      "keywords": [
+        "cypherlord",
+        "10th level",
+        "insight bonus",
+        "saving throws",
+        "magical symbols",
+        "glyphs",
+        "sigils",
+        "writing-based spells",
+        "writing-based traps",
+        "swift action",
+        "free action",
+        "cypher lore upgrade",
+        "action economy improvement"
+      ]
+    }
+  ]
+}

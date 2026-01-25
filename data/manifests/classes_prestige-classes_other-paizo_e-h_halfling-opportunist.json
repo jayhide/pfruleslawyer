@@ -1,0 +1,144 @@
+{
+  "file": "halfling-opportunist.md",
+  "source_path": "https://www.d20pfsrd.com/classes/prestige-classes/other-paizo/e-h/halfling-opportunist/",
+  "source_name": "Prestige Class: Halfling Opportunist",
+  "category": "Classes",
+  "toc_content": "",
+  "sections": [
+    {
+      "id": "halfling_opportunist_overview",
+      "title": "Halfling Opportunist (Class Overview)",
+      "anchor_heading": "# Halfling Opportunist",
+      "end_at_heading": "### Requirements",
+      "description": "Overview of the Halfling Opportunist class including role, alignment, hit die, and starting wealth.",
+      "keywords": [
+        "halfling opportunist",
+        "class",
+        "hit die",
+        "role",
+        "alignment"
+      ]
+    },
+    {
+      "id": "halfling_opportunist_weapon_and_armor_proficiency",
+      "title": "Weapon and Armor Proficiency (Halfling Opportunist)",
+      "anchor_heading": "#### Weapon and Armor Proficiency",
+      "description": "Halfling opportunists gain no proficiency with any weapon or armor.",
+      "keywords": [
+        "weapon proficiency",
+        "armor proficiency",
+        "no proficiency",
+        "halfling opportunist proficiencies"
+      ]
+    },
+    {
+      "id": "halfling_opportunist_exploitive_maneuver_ex",
+      "title": "Exploitive Maneuver (Ex) (Halfling Opportunist)",
+      "anchor_heading": "#### Exploitive Maneuver (Ex)",
+      "description": "As an immediate action, the opportunist can make a combat maneuver check to use an enemy's action to gain an aid another bonus on her next skill check, attack roll, or AC while penalizing the enemy's roll.",
+      "keywords": [
+        "exploitive maneuver",
+        "immediate action",
+        "combat maneuver check",
+        "aid another",
+        "CMD",
+        "ability score substitution",
+        "enemy actions",
+        "hijack enemy action"
+      ]
+    },
+    {
+      "id": "halfling_opportunist_trap_spotter_ex",
+      "title": "Trap Spotter (Ex) (Halfling Opportunist)",
+      "anchor_heading": "#### Trap Spotter (Ex)",
+      "description": "The halfling opportunist gains the trap spotter rogue talent, allowing automatic Perception checks to notice traps.",
+      "keywords": [
+        "trap spotter",
+        "rogue talent",
+        "automatic Perception",
+        "notice traps",
+        "passive trap detection"
+      ]
+    },
+    {
+      "id": "halfling_opportunist_excellent_aid_ex",
+      "title": "Excellent Aid (Ex) (Halfling Opportunist)",
+      "anchor_heading": "#### Excellent Aid (Ex)",
+      "description": "The bonus received from aid another increases by +1, improving to +2 at 3rd level and +3 at 5th level when others aid the opportunist.",
+      "keywords": [
+        "excellent aid",
+        "aid another bonus",
+        "increased aid bonus",
+        "aid another improvement",
+        "receiving aid"
+      ]
+    },
+    {
+      "id": "halfling_opportunist_exceptionally_lucky_ex",
+      "title": "Exceptionally Lucky (Ex) (Halfling Opportunist)",
+      "anchor_heading": "#### Exceptionally Lucky (Ex)",
+      "description": "The halfling's racial saving throw bonus increases to +2 at 2nd level and +3 at 4th level.",
+      "keywords": [
+        "exceptionally lucky",
+        "halfling racial bonus",
+        "saving throw bonus",
+        "improved luck",
+        "racial bonus increase"
+      ]
+    },
+    {
+      "id": "halfling_opportunist_sneak_attack_ex",
+      "title": "Sneak Attack (Ex) (Halfling Opportunist)",
+      "anchor_heading": "#### Sneak Attack (Ex)",
+      "description": "Functions like the rogue's sneak attack, dealing +1d6 extra damage at even levels (2nd and 4th) and stacking with other sneak attack sources.",
+      "keywords": [
+        "sneak attack",
+        "extra damage",
+        "even levels",
+        "sneak attack stacking",
+        "rogue ability"
+      ]
+    },
+    {
+      "id": "halfling_opportunist_improved_trap_spotter_ex",
+      "title": "Improved Trap Spotter (Ex) (Halfling Opportunist)",
+      "anchor_heading": "#### Improved Trap Spotter (Ex)",
+      "description": "The range of the trap spotter ability increases from 10 feet to 20 feet at 2nd level.",
+      "keywords": [
+        "improved trap spotter",
+        "trap spotter range",
+        "20 feet range",
+        "extended detection range"
+      ]
+    },
+    {
+      "id": "halfling_opportunist_fit_in_ex",
+      "title": "Fit In (Ex) (Halfling Opportunist)",
+      "anchor_heading": "#### Fit In (Ex)",
+      "description": "The opportunist can use Disguise checks in place of Diplomacy checks to influence NPC attitudes by acting like she belongs in any situation without changing appearance.",
+      "keywords": [
+        "fit in",
+        "Disguise check",
+        "Diplomacy substitute",
+        "influence attitudes",
+        "nonverbal cues",
+        "belonging",
+        "infiltration"
+      ]
+    },
+    {
+      "id": "halfling_opportunist_opportunity_attacker_ex",
+      "title": "Opportunity Attacker (Ex) (Halfling Opportunist)",
+      "anchor_heading": "#### Opportunity Attacker (Ex)",
+      "description": "When making attacks of opportunity, the opportunist deals sneak attack damage even if the target is not flat-footed or denied Dexterity to AC.",
+      "keywords": [
+        "opportunity attacker",
+        "attack of opportunity",
+        "sneak attack damage",
+        "not flat-footed",
+        "AoO sneak attack",
+        "vulnerable strikes"
+      ]
+    }
+  ]
+}

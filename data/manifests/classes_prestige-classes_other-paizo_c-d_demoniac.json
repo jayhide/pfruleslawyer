@@ -1,0 +1,169 @@
+{
+  "file": "demoniac.md",
+  "source_path": "https://www.d20pfsrd.com/classes/prestige-classes/other-paizo/c-d/demoniac/",
+  "source_name": "Prestige Class: Demoniac",
+  "category": "Classes",
+  "toc_content": "Contents\n+ [Requirements](#requirements)\n+ [Class Skills](#class_skills)\n+ [Class Features](#class_features)\n  - [Weapon and Armor Proficiency](#weapon_and_armor_proficiency)\n  - [Spells per Day/Spells Known](#spells_per_dayspells_known)\n  - [Damned (Ex)](#damned_ex)\n  - [Demonic Mark (Ex)](#demonic_mark_ex)\n  - [Obedience (Ex)](#obedience_ex)\n  - [Energumen (Su)](#energumen_su)\n  - [Demonic Boon](#demonic_boon)\n  - [Summon Demon (Sp)](#summon_demon_sp)\n  - [Demonic Form (Ex)](#demonic_form_ex)\n* [Ex-Demoniacs](#ex-demoniacs)",
+  "sections": [
+    {
+      "id": "demoniac_overview",
+      "title": "Demoniac (Class Overview)",
+      "anchor_heading": "# Demoniac",
+      "end_at_heading": "### Requirements {#requirements}",
+      "description": "Overview of the Demoniac class including role, alignment, hit die, and starting wealth.",
+      "keywords": [
+        "demoniac",
+        "class",
+        "hit die",
+        "role",
+        "alignment"
+      ]
+    },
+    {
+      "id": "demoniac_weapon_and_armor_proficiency",
+      "title": "Weapon and Armor Proficiency (Demoniac)",
+      "anchor_heading": "#### Weapon and Armor Proficiency {#weapon_and_armor_proficiency}",
+      "description": "Grants proficiency with all simple weapons and the demonic patron's favored weapon, but no additional armor or shield proficiencies.",
+      "keywords": [
+        "weapon proficiency",
+        "armor proficiency",
+        "simple weapons",
+        "demonic patron",
+        "favored weapon",
+        "demon lord favored weapon",
+        "demoniac proficiencies"
+      ]
+    },
+    {
+      "id": "demoniac_spells_per_dayspells_known",
+      "title": "Spells per Day/Spells Known (Demoniac)",
+      "anchor_heading": "#### Spells per Day/Spells Known {#spells_per_dayspells_known}",
+      "description": "Advances spellcasting progression from a previous class, gaining spells per day, spells known, and effective caster level without other class benefits.",
+      "keywords": [
+        "spellcasting progression",
+        "prestige class spellcasting",
+        "spells per day",
+        "spells known",
+        "effective caster level",
+        "spontaneous spellcaster",
+        "multiple spellcasting classes"
+      ]
+    },
+    {
+      "id": "demoniac_damned_ex",
+      "title": "Damned (Ex) (Demoniac)",
+      "anchor_heading": "#### Damned (Ex) {#damned_ex}",
+      "description": "Upon death, the demoniac's soul is claimed by the Abyss and resurrection requires a caster level check (DC 10 + demoniac level).",
+      "keywords": [
+        "damned",
+        "resurrection difficulty",
+        "caster level check",
+        "Abyss",
+        "soul claimed",
+        "resurrection failure",
+        "demon transformation",
+        "raise dead"
+      ]
+    },
+    {
+      "id": "demoniac_demonic_mark_ex",
+      "title": "Demonic Mark (Ex) (Demoniac)",
+      "anchor_heading": "#### Demonic Mark (Ex) {#demonic_mark_ex}",
+      "description": "Once per day, can cast a spell without expending it by adding chaotic and evil descriptors through the demonic patron's mark.",
+      "keywords": [
+        "demonic mark",
+        "spell not expended",
+        "chaotic descriptor",
+        "evil descriptor",
+        "demon lord brand",
+        "spell descriptors",
+        "tattoo brand",
+        "free spell"
+      ]
+    },
+    {
+      "id": "demoniac_obedience_ex",
+      "title": "Obedience (Ex) (Demoniac)",
+      "anchor_heading": "#### Obedience (Ex) {#obedience_ex}",
+      "description": "Must perform daily obedience to the demon lord to maintain all demoniac abilities, incorporated into spellcasting preparation routine.",
+      "keywords": [
+        "daily obedience",
+        "demon lord obedience",
+        "maintain abilities",
+        "spellcasting preparation",
+        "lose abilities",
+        "demonic ceremony",
+        "prayer meditation"
+      ]
+    },
+    {
+      "id": "demoniac_energumen_su",
+      "title": "Energumen (Su) (Demoniac)",
+      "anchor_heading": "#### Energumen (Su) {#energumen_su}",
+      "description": "Allows demonic possession as a free action, granting profane bonuses and resistances but causing confusion afterward.",
+      "keywords": [
+        "energumen",
+        "demonic possession",
+        "profane bonus",
+        "electricity resistance",
+        "poison immunity",
+        "confused condition",
+        "possession effect",
+        "protection from evil",
+        "protection from chaos",
+        "free action"
+      ]
+    },
+    {
+      "id": "demoniac_demonic_boon",
+      "title": "Demonic Boon (Demoniac)",
+      "anchor_heading": "#### Demonic Boon {#demonic_boon}",
+      "description": "Grants three increasingly powerful boons from the demon lord at 3rd, 6th, and 9th levels, accessed earlier than normal progression.",
+      "keywords": [
+        "demonic boon",
+        "demon lord boons",
+        "demonic obedience feat",
+        "spell-like ability",
+        "caster level equals character level",
+        "early access boons"
+      ]
+    },
+    {
+      "id": "demoniac_summon_demon_sp",
+      "title": "Summon Demon (Sp) (Demoniac)",
+      "anchor_heading": "#### Summon Demon (Sp) {#summon_demon_sp}",
+      "description": "Can use summon monster VI at 4th level and summon monster VIII at 8th level to conjure specific demons once per day each.",
+      "keywords": [
+        "summon demon",
+        "summon monster VI",
+        "summon monster VIII",
+        "succubus",
+        "babau",
+        "brimorak",
+        "hezrou",
+        "vrock",
+        "conjure demons"
+      ]
+    },
+    {
+      "id": "demoniac_demonic_form_ex",
+      "title": "Demonic Form (Ex) (Demoniac)",
+      "anchor_heading": "#### Demonic Form (Ex) {#demonic_form_ex}",
+      "description": "Transforms into a unique demon with outsider type, damage reduction, energy resistances, telepathy, and chosen physical modifications for limited duration.",
+      "keywords": [
+        "demonic form",
+        "outsider type",
+        "demon subtype",
+        "damage reduction 10/good and cold iron",
+        "energy resistance",
+        "telepathy",
+        "wings",
+        "gills",
+        "natural attack",
+        "chaotic evil weapons",
+        "type change",
+        "minutes per day"
+      ]
+    }
+  ]
+}

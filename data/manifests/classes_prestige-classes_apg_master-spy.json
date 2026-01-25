@@ -1,0 +1,281 @@
+{
+  "file": "master-spy.md",
+  "source_path": "https://www.d20pfsrd.com/classes/prestige-classes/apg/master-spy/",
+  "source_name": "Prestige Class: Master Spy",
+  "category": "Classes",
+  "toc_content": "Contents\n* [Requirements](#requirements)\n* [Class Skills](#class_skills)\n  + [Table: Master Spy](#table_master_spy)\n* [Class Features](#class_features)\n  + [Weapon and Armor Proficiency](#weapon_and_armor_proficiency)\n  + [Art of Deception (Ex)](#art_of_deception_ex)\n  + [Master of Disguise (Ex)](#master_of_disguise_ex)\n  + [Sneak Attack (Ex)](#sneak_attack_ex)\n  + [Glib Lie (Su)](#glib_lie_su)\n  + [Mask Alignment (Su)](#mask_alignment_su)\n  + [Nonmagical Aura (Sp)](#nonmagical_aura_sp)\n  + [Superficial Knowledge (Ex)](#superficial_knowledge_ex)\n  + [Concealed Thoughts (Su)](#concealed_thoughts_su)\n  + [Quick Change (Ex)](#quick_change_ex)\n  + [Elude Detection (Sp)](#elude_detection_sp)\n  + [Slippery Mind (Su)](#slippery_mind_su)\n  + [Shift Alignment (Su)](#shift_alignment_su)\n  + [Death Attack (Ex)](#death_attack_ex)\n  + [Fool Casting (Su)](#fool_casting_su)\n  + [Hidden Mind (Sp)](#hidden_mind_sp)\n  + [Assumption (Su)](#assumption_su)",
+  "sections": [
+    {
+      "id": "master_spy_overview",
+      "title": "Master Spy (Class Overview)",
+      "anchor_heading": "# Master Spy",
+      "end_at_heading": "### Requirements {#requirements}",
+      "description": "Overview of the Master Spy class including role, alignment, hit die, and starting wealth.",
+      "keywords": [
+        "master spy",
+        "class",
+        "hit die",
+        "role",
+        "alignment"
+      ]
+    },
+    {
+      "id": "master_spy_table_master_spy",
+      "title": "Table: Master Spy (Master Spy)",
+      "anchor_heading": "#### Table: Master Spy {#table_master_spy}",
+      "description": "Class progression table showing base attack bonus, saves, and special abilities gained at each level for the Master Spy prestige class.",
+      "keywords": [
+        "master spy table",
+        "class progression",
+        "level advancement",
+        "base attack bonus",
+        "fort save",
+        "ref save",
+        "will save",
+        "special abilities"
+      ]
+    },
+    {
+      "id": "master_spy_weapon_and_armor_proficiency",
+      "title": "Weapon and Armor Proficiency (Master Spy)",
+      "anchor_heading": "#### Weapon and Armor Proficiency {#weapon_and_armor_proficiency}",
+      "description": "Master spies gain no additional weapon or armor proficiencies beyond what they already possess.",
+      "keywords": [
+        "weapon proficiency",
+        "armor proficiency",
+        "no proficiency",
+        "master spy proficiencies"
+      ]
+    },
+    {
+      "id": "master_spy_art_of_deception_ex",
+      "title": "Art of Deception (Ex) (Master Spy)",
+      "anchor_heading": "#### Art of Deception (Ex) {#art_of_deception_ex}",
+      "description": "Adds master spy class level as a bonus to all Bluff, Disguise, and Sense Motive checks.",
+      "keywords": [
+        "art of deception",
+        "bluff bonus",
+        "disguise bonus",
+        "sense motive bonus",
+        "deception skills",
+        "class level bonus"
+      ]
+    },
+    {
+      "id": "master_spy_master_of_disguise_ex",
+      "title": "Master of Disguise (Ex) (Master Spy)",
+      "anchor_heading": "#### Master of Disguise (Ex) {#master_of_disguise_ex}",
+      "description": "Allows creating disguises in half the normal time and reduces penalties for disguising as different gender, race, age, or size by 1.",
+      "keywords": [
+        "master of disguise",
+        "disguise time",
+        "half time",
+        "disguise penalties",
+        "gender disguise",
+        "race disguise",
+        "age disguise",
+        "size disguise"
+      ]
+    },
+    {
+      "id": "master_spy_sneak_attack_ex",
+      "title": "Sneak Attack (Ex) (Master Spy)",
+      "anchor_heading": "#### Sneak Attack (Ex) {#sneak_attack_ex}",
+      "description": "Functions like rogue sneak attack, dealing +1d6 extra damage at 1st, 4th, 7th, and 10th levels, stacking with other sneak attack sources.",
+      "keywords": [
+        "sneak attack",
+        "extra damage",
+        "sneak attack dice",
+        "rogue ability",
+        "stacking sneak attack",
+        "precision damage"
+      ]
+    },
+    {
+      "id": "master_spy_glib_lie_su",
+      "title": "Glib Lie (Su) (Master Spy)",
+      "anchor_heading": "#### Glib Lie (Su) {#glib_lie_su}",
+      "description": "Allows the master spy to deceive truth-detecting magic by forcing a caster level check against DC 15 + class level.",
+      "keywords": [
+        "glib lie",
+        "truth detection",
+        "detect lies",
+        "zone of truth",
+        "caster level check",
+        "glibness",
+        "deceive magic"
+      ]
+    },
+    {
+      "id": "master_spy_mask_alignment_su",
+      "title": "Mask Alignment (Su) (Master Spy)",
+      "anchor_heading": "#### Mask Alignment (Su) {#mask_alignment_su}",
+      "description": "Allows altering alignment aura as a standard action to appear as any alignment or no alignment to detection spells.",
+      "keywords": [
+        "mask alignment",
+        "alignment aura",
+        "detect alignment",
+        "detect evil",
+        "detect good",
+        "alignment detection",
+        "standard action"
+      ]
+    },
+    {
+      "id": "master_spy_nonmagical_aura_sp",
+      "title": "Nonmagical Aura (Sp) (Master Spy)",
+      "anchor_heading": "#### Nonmagical Aura (Sp) {#nonmagical_aura_sp}",
+      "description": "Can use magic aura twice per day, but only to make objects appear nonmagical to detection spells.",
+      "keywords": [
+        "nonmagical aura",
+        "magic aura",
+        "detect magic",
+        "hide magic",
+        "magical detection",
+        "spell-like ability"
+      ]
+    },
+    {
+      "id": "master_spy_superficial_knowledge_ex",
+      "title": "Superficial [Knowledge](https://www.d20pfsrd.com/skills/knowledge) (Ex) (Master Spy)",
+      "anchor_heading": "#### Superficial [Knowledge](https://www.d20pfsrd.com/skills/knowledge) (Ex) {#superficial_knowledge_ex}",
+      "description": "Can make untrained Knowledge and Profession checks related to cover identity as if trained, with a bonus equal to half level.",
+      "keywords": [
+        "superficial knowledge",
+        "untrained knowledge",
+        "profession checks",
+        "cover identity",
+        "knowledge skills",
+        "untrained bonus"
+      ]
+    },
+    {
+      "id": "master_spy_concealed_thoughts_su",
+      "title": "Concealed Thoughts (Su) (Master Spy)",
+      "anchor_heading": "#### Concealed Thoughts (Su) {#concealed_thoughts_su}",
+      "description": "Allows controlling what surface thoughts are detected by detect thoughts and similar mind-reading magic.",
+      "keywords": [
+        "concealed thoughts",
+        "detect thoughts",
+        "mind reading",
+        "surface thoughts",
+        "telepathy",
+        "thought detection"
+      ]
+    },
+    {
+      "id": "master_spy_quick_change_ex",
+      "title": "Quick Change (Ex) (Master Spy)",
+      "anchor_heading": "#### Quick Change (Ex) {#quick_change_ex}",
+      "description": "Can assume a disguise in 2d4 rounds with a -10 penalty (-5 at 8th level) to the Disguise check.",
+      "keywords": [
+        "quick change",
+        "fast disguise",
+        "disguise time",
+        "disguise penalty",
+        "rapid disguise",
+        "2d4 rounds"
+      ]
+    },
+    {
+      "id": "master_spy_elude_detection_sp",
+      "title": "Elude Detection (Sp) (Master Spy)",
+      "anchor_heading": "#### Elude Detection (Sp) {#elude_detection_sp}",
+      "description": "Functions as a nondetection spell with caster level equal to character level, suppressible as a standard action.",
+      "keywords": [
+        "elude detection",
+        "nondetection",
+        "divination protection",
+        "scrying protection",
+        "suppress detection",
+        "standard action"
+      ]
+    },
+    {
+      "id": "master_spy_slippery_mind_su",
+      "title": "Slippery Mind (Su) (Master Spy)",
+      "anchor_heading": "#### Slippery Mind (Su) {#slippery_mind_su}",
+      "description": "Functions as the rogue advanced talent, allowing a second save against mental control effects, stacking with other sources.",
+      "keywords": [
+        "slippery mind",
+        "mental control",
+        "second save",
+        "charm resistance",
+        "dominate resistance",
+        "rogue talent"
+      ]
+    },
+    {
+      "id": "master_spy_shift_alignment_su",
+      "title": "Shift Alignment (Su) (Master Spy)",
+      "anchor_heading": "#### Shift Alignment (Su) {#shift_alignment_su}",
+      "description": "Improves mask alignment to actually function as the false alignment for all spells and magic items, including harmful effects.",
+      "keywords": [
+        "shift alignment",
+        "false alignment",
+        "alignment effects",
+        "holy smite",
+        "alignment damage",
+        "alignment items"
+      ]
+    },
+    {
+      "id": "master_spy_death_attack_ex",
+      "title": "Death Attack (Ex) (Master Spy)",
+      "anchor_heading": "#### Death Attack (Ex) {#death_attack_ex}",
+      "description": "Functions as the assassin's death attack ability, with levels stacking to determine save DC.",
+      "keywords": [
+        "death attack",
+        "assassin ability",
+        "kill attack",
+        "paralyze attack",
+        "fortitude save",
+        "stacking levels"
+      ]
+    },
+    {
+      "id": "master_spy_fool_casting_su",
+      "title": "Fool Casting (Su) (Master Spy)",
+      "anchor_heading": "#### Fool Casting (Su) {#fool_casting_su}",
+      "description": "When succeeding on saves against control effects, can pretend to fail and appear controlled while remaining free.",
+      "keywords": [
+        "fool casting",
+        "fake charm",
+        "fake dominate",
+        "pretend controlled",
+        "charm person",
+        "dominate person",
+        "telepathic link"
+      ]
+    },
+    {
+      "id": "master_spy_hidden_mind_sp",
+      "title": "Hidden Mind (Sp) (Master Spy)",
+      "anchor_heading": "#### Hidden Mind (Sp) {#hidden_mind_sp}",
+      "description": "Gains constant mind blank protection at character level, suppressible as a standard action.",
+      "keywords": [
+        "hidden mind",
+        "mind blank",
+        "mental protection",
+        "telepathy immunity",
+        "divination immunity",
+        "constant effect"
+      ]
+    },
+    {
+      "id": "master_spy_assumption_su",
+      "title": "Assumption (Su) (Master Spy)",
+      "anchor_heading": "#### Assumption (Su) {#assumption_su}",
+      "description": "As a full-round action, can touch a helpless creature to assume their identity for divination purposes, confusing location spells.",
+      "keywords": [
+        "assumption",
+        "assume identity",
+        "helpless creature",
+        "divination confusion",
+        "discern location",
+        "full-round action",
+        "touch attack"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,158 @@
+{
+  "file": "evangelist.md",
+  "source_path": "https://www.d20pfsrd.com/classes/prestige-classes/other-paizo/e-h/evangelist/",
+  "source_name": "Prestige Class: Evangelist",
+  "category": "Classes",
+  "toc_content": "Contents\n* [Requirements](#requirements)\n* [Alternate Requirements:](#alternate_requirements)\n* [Class Skills](#class_skills)\n* [Class Features](#class_features)\n  + [Weapon and Armor Proficiency](#weapon_and_armor_proficiency)\n  + [Obedience (Ex)](#obedience_ex)\n  + [Skilled](#skilled)\n  + [Aligned Class (Ex)](#aligned_class_ex)\n  + [Protective Grace (Su)](#protective_grace_su)\n  + [Divine Boon](#divine_boon)\n  + [Gift of Tongues](#gift_of_tongues)\n  + [Multitude of Talents (Ex)](#multitude_of_talents_ex)\n  + [Spiritual Form (Su)](#spiritual_form_su)",
+  "sections": [
+    {
+      "id": "evangelist_overview",
+      "title": "Evangelist (Class Overview)",
+      "anchor_heading": "# Evangelist",
+      "end_at_heading": "### Requirements {#requirements}",
+      "description": "Overview of the Evangelist class including role, alignment, hit die, and starting wealth.",
+      "keywords": [
+        "evangelist",
+        "class",
+        "hit die",
+        "role",
+        "alignment"
+      ]
+    },
+    {
+      "id": "evangelist_weapon_and_armor_proficiency",
+      "title": "Weapon and Armor Proficiency (Evangelist)",
+      "anchor_heading": "#### Weapon and Armor Proficiency {#weapon_and_armor_proficiency}",
+      "description": "Grants proficiency with simple weapons, light armor, and the chosen deity's favored weapon.",
+      "keywords": [
+        "weapon proficiency",
+        "armor proficiency",
+        "simple weapons",
+        "light armor",
+        "favored weapon",
+        "deity favored weapon"
+      ]
+    },
+    {
+      "id": "evangelist_obedience_ex",
+      "title": "Obedience (Ex) (Evangelist)",
+      "anchor_heading": "#### Obedience (Ex) {#obedience_ex}",
+      "description": "Requires daily obedience to chosen deity to maintain all evangelist abilities including aligned class features.",
+      "keywords": [
+        "obedience",
+        "daily obedience",
+        "maintain abilities",
+        "aligned class abilities",
+        "deity obedience",
+        "lose abilities"
+      ]
+    },
+    {
+      "id": "evangelist_skilled",
+      "title": "Skilled (Evangelist)",
+      "anchor_heading": "#### Skilled {#skilled}",
+      "description": "Allows selection of two additional skills to add permanently to the evangelist's class skill list.",
+      "keywords": [
+        "skilled",
+        "class skills",
+        "additional class skills",
+        "skill selection",
+        "two skills"
+      ]
+    },
+    {
+      "id": "evangelist_aligned_class_ex",
+      "title": "Aligned Class (Ex) (Evangelist)",
+      "anchor_heading": "#### Aligned Class (Ex) {#aligned_class_ex}",
+      "description": "Continues progression in a previously held class, gaining its class features while retaining evangelist's BAB, saves, and hit dice.",
+      "keywords": [
+        "aligned class",
+        "class progression",
+        "dual progression",
+        "class features",
+        "base attack bonus retention",
+        "saving throw retention",
+        "hit dice retention"
+      ]
+    },
+    {
+      "id": "evangelist_protective_grace_su",
+      "title": "Protective Grace (Su) (Evangelist)",
+      "anchor_heading": "#### Protective Grace (Su) {#protective_grace_su}",
+      "description": "Grants a +1 dodge bonus to AC that increases to +2 at 7th level, lost when denied Dexterity bonus.",
+      "keywords": [
+        "protective grace",
+        "dodge bonus",
+        "AC bonus",
+        "dexterity bonus dependency",
+        "+1 dodge",
+        "+2 dodge"
+      ]
+    },
+    {
+      "id": "evangelist_divine_boon",
+      "title": "Divine Boon (Evangelist)",
+      "anchor_heading": "#### Divine Boon {#divine_boon}",
+      "description": "Grants three increasingly powerful deity-specific boons at 3rd, 6th, and 9th levels with spell-like abilities using character level as caster level.",
+      "keywords": [
+        "divine boon",
+        "deity boons",
+        "deific obedience",
+        "spell-like abilities",
+        "caster level equals character level",
+        "first boon",
+        "second boon",
+        "third boon"
+      ]
+    },
+    {
+      "id": "evangelist_gift_of_tongues",
+      "title": "Gift of Tongues (Evangelist)",
+      "anchor_heading": "#### Gift of Tongues {#gift_of_tongues}",
+      "description": "Grants fluent knowledge of one new language at 4th level and another at 8th level as permanent divine gifts.",
+      "keywords": [
+        "gift of tongues",
+        "language acquisition",
+        "new language",
+        "speak fluently",
+        "write fluently",
+        "divine gift",
+        "permanent language"
+      ]
+    },
+    {
+      "id": "evangelist_multitude_of_talents_ex",
+      "title": "Multitude of Talents (Ex) (Evangelist)",
+      "anchor_heading": "#### Multitude of Talents (Ex) {#multitude_of_talents_ex}",
+      "description": "Provides a +4 sacred or profane bonus on untrained skill checks for skills with no ranks.",
+      "keywords": [
+        "multitude of talents",
+        "untrained skill checks",
+        "skill bonus",
+        "no ranks",
+        "sacred bonus",
+        "profane bonus",
+        "+4 bonus"
+      ]
+    },
+    {
+      "id": "evangelist_spiritual_form_su",
+      "title": "Spiritual Form (Su) (Evangelist)",
+      "anchor_heading": "#### Spiritual Form (Su) {#spiritual_form_su}",
+      "description": "Grants the ability to assume a spiritual form with telepathy, chosen ability score bonus, and selected physical transformation for minutes per day equal to character level.",
+      "keywords": [
+        "spiritual form",
+        "standard action transformation",
+        "telepathy 100 feet",
+        "ability score bonus",
+        "wings",
+        "gills",
+        "natural attack",
+        "fly speed",
+        "swim speed",
+        "minutes per day",
+        "free action return"
+      ]
+    }
+  ]
+}

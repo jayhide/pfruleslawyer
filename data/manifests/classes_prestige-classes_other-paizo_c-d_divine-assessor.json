@@ -1,0 +1,142 @@
+{
+  "file": "divine-assessor.md",
+  "source_path": "https://www.d20pfsrd.com/classes/prestige-classes/other-paizo/c-d/divine-assessor/",
+  "source_name": "Prestige Class: Divine Assessor",
+  "category": "Classes",
+  "toc_content": "Contents\n* [Requirements](#requirements)\n* [Class Skills](#class_skills)\n* [Class Features](#class_features)\n  + [Spellcasting](#spellcasting)\n  + [Bypass Ward (Ex)](#bypass_ward_ex)\n  + [Appraising Eye (Ex)](#appraising_eye_ex)\n  + [Bottomless Bag (Su)](#bottomless_bag_su)\n  + [Eloquent Bargainer (Ex)](#eloquent_bargainer_ex)\n  + [Access the Vault (Su)](#access_the_vault_su)\n  + [Vault Jump (Sp)](#vault_jump_sp)",
+  "sections": [
+    {
+      "id": "divine_assessor_overview",
+      "title": "Divine Assessor (Class Overview)",
+      "anchor_heading": "# Divine Assessor",
+      "end_at_heading": "### Requirements {#requirements}",
+      "description": "Overview of the Divine Assessor class including role, alignment, hit die, and starting wealth.",
+      "keywords": [
+        "divine assessor",
+        "class",
+        "hit die",
+        "role",
+        "alignment"
+      ]
+    },
+    {
+      "id": "divine_assessor_spellcasting",
+      "title": "Spellcasting (Divine Assessor)",
+      "anchor_heading": "#### Spellcasting {#spellcasting}",
+      "description": "Divine assessor levels 2-6 stack with existing divine spellcasting class for spells per day and caster level determination.",
+      "keywords": [
+        "divine assessor spellcasting",
+        "spells per day",
+        "caster level",
+        "divine spellcasting class",
+        "spellcasting progression",
+        "stacking caster levels"
+      ]
+    },
+    {
+      "id": "divine_assessor_bypass_ward_ex",
+      "title": "Bypass Ward (Ex) (Divine Assessor)",
+      "anchor_heading": "#### Bypass Ward (Ex) {#bypass_ward_ex}",
+      "description": "Allows picking locks on magically sealed doors and disabling magical traps temporarily, with bonuses to Disable Device checks.",
+      "keywords": [
+        "bypass ward",
+        "arcane lock",
+        "hold portal",
+        "magically locked doors",
+        "disable device",
+        "magical traps",
+        "glyph of warding",
+        "full-round action",
+        "sacred bonus",
+        "disable magical trap"
+      ]
+    },
+    {
+      "id": "divine_assessor_appraising_eye_ex",
+      "title": "Appraising Eye (Ex) (Divine Assessor)",
+      "anchor_heading": "#### Appraising Eye (Ex) {#appraising_eye_ex}",
+      "description": "Provides bonuses to Appraise checks and allows faster appraisal of items with a penalty option.",
+      "keywords": [
+        "appraising eye",
+        "appraise",
+        "appraise checks",
+        "sacred bonus",
+        "full-round action appraisal",
+        "fast appraisal",
+        "item valuation"
+      ]
+    },
+    {
+      "id": "divine_assessor_bottomless_bag_su",
+      "title": "Bottomless Bag (Su) (Divine Assessor)",
+      "anchor_heading": "#### Bottomless Bag (Su) {#bottomless_bag_su}",
+      "description": "Transforms ordinary containers into temporary bags of holding that cannot be overloaded or ruptured.",
+      "keywords": [
+        "bottomless bag",
+        "bag of holding",
+        "bag of holding type II",
+        "bag of holding type III",
+        "extradimensional spaces",
+        "container transformation",
+        "cannot be overloaded",
+        "cannot be ruptured"
+      ]
+    },
+    {
+      "id": "divine_assessor_eloquent_bargainer_ex",
+      "title": "Eloquent Bargainer (Ex) (Divine Assessor)",
+      "anchor_heading": "#### Eloquent Bargainer (Ex) {#eloquent_bargainer_ex}",
+      "description": "Grants bonuses to Diplomacy when offering bribes and to Charisma checks for compelling bound creatures in planar binding spells.",
+      "keywords": [
+        "eloquent bargainer",
+        "diplomacy",
+        "bribes",
+        "planar binding",
+        "lesser planar binding",
+        "greater planar binding",
+        "charisma checks",
+        "bound creatures",
+        "compel service"
+      ]
+    },
+    {
+      "id": "divine_assessor_access_the_vault_su",
+      "title": "Access the Vault (Su) (Divine Assessor)",
+      "anchor_heading": "#### Access the Vault (Su) {#access_the_vault_su}",
+      "description": "Summons temporary copies of non-magical or magical items from a divine repository, with items automatically returning after duration expires.",
+      "keywords": [
+        "access the vault",
+        "divine vault",
+        "summon items",
+        "planar repository",
+        "temporary items",
+        "market price limit",
+        "caster level",
+        "cubic foot",
+        "magic items",
+        "fully charged",
+        "items return",
+        "items vanish"
+      ]
+    },
+    {
+      "id": "divine_assessor_vault_jump_sp",
+      "title": "Vault Jump (Sp) (Divine Assessor)",
+      "anchor_heading": "#### Vault Jump (Sp) {#vault_jump_sp}",
+      "description": "Creates portal through divine vault functioning as dimension door or word of recall, causing nausea upon arrival.",
+      "keywords": [
+        "vault jump",
+        "dimension door",
+        "word of recall",
+        "portal",
+        "one-way portal",
+        "divine vault",
+        "nauseated",
+        "fortitude save",
+        "temple",
+        "sanctuary",
+        "travel through vault"
+      ]
+    }
+  ]
+}

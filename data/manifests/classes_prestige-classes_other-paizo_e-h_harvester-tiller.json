@@ -1,0 +1,136 @@
+{
+  "file": "harvester-tiller.md",
+  "source_path": "https://www.d20pfsrd.com/classes/prestige-classes/other-paizo/e-h/harvester-tiller/",
+  "source_name": "Prestige Class: Harvester Tiller",
+  "category": "Classes",
+  "toc_content": "Contents\n* [Requirements](#requirements)\n* [Class Skills](#class_skills)\n* [Class Features](#class_features)\n  + [Harvester Crop (Ex)](#harvester_crop_ex)\n  + [Swift Sower (Ex)](#swift_sower_ex)\n  + [Crop Guardian (Ex)](#crop_guardian_ex)\n  + [Scarecrow (Ex)](#scarecrow_ex)\n  + [Teamwork Feat](#teamwork_feat)\n  + [Sneak Attack](#sneak_attack)\n  + [Favored Barn (Ex)](#favored_barn_ex)",
+  "sections": [
+    {
+      "id": "harvester_tiller_overview",
+      "title": "Harvester Tiller (Class Overview)",
+      "anchor_heading": "# Harvester Tiller",
+      "end_at_heading": "### Requirements {#requirements}",
+      "description": "Overview of the Harvester Tiller class including role, alignment, hit die, and starting wealth.",
+      "keywords": [
+        "harvester tiller",
+        "class",
+        "hit die",
+        "role",
+        "alignment"
+      ]
+    },
+    {
+      "id": "harvester_tiller_harvester_crop_ex",
+      "title": "Harvester Crop (Ex) (Harvester Tiller)",
+      "anchor_heading": "#### Harvester Crop (Ex) {#harvester_crop_ex}",
+      "description": "Designates up to 3 + Charisma modifier allies as part of a harvester crop who must stay within 30 feet (60 feet at 7th level) to gain benefits from harvester abilities.",
+      "keywords": [
+        "harvester crop",
+        "designate allies",
+        "standard action",
+        "30 feet range",
+        "60 feet range",
+        "charisma modifier",
+        "crop members",
+        "harvester abilities"
+      ]
+    },
+    {
+      "id": "harvester_tiller_swift_sower_ex",
+      "title": "Swift Sower (Ex) (Harvester Tiller)",
+      "anchor_heading": "#### Swift Sower (Ex) {#swift_sower_ex}",
+      "description": "Increases overland travel speed by +10 feet (+20 feet at 6th level) outside combat, with harvester crop members able to use the better travel speed.",
+      "keywords": [
+        "swift sower",
+        "overland travel",
+        "land speed",
+        "travel speed",
+        "outside combat",
+        "+10 feet",
+        "+20 feet",
+        "long distance travel"
+      ]
+    },
+    {
+      "id": "harvester_tiller_crop_guardian_ex",
+      "title": "Crop Guardian (Ex) (Harvester Tiller)",
+      "anchor_heading": "#### Crop Guardian (Ex) {#crop_guardian_ex}",
+      "description": "Grants +3 bonus instead of +2 when using aid another on harvester crop members, and stacks harvester tiller levels with vigilante levels for crop vigilance.",
+      "keywords": [
+        "crop guardian",
+        "aid another",
+        "+3 bonus",
+        "harvester crop",
+        "crop vigilance",
+        "vigilante levels",
+        "stack levels"
+      ]
+    },
+    {
+      "id": "harvester_tiller_scarecrow_ex",
+      "title": "Scarecrow (Ex) (Harvester Tiller)",
+      "anchor_heading": "#### Scarecrow (Ex) {#scarecrow_ex}",
+      "description": "Provides escalating morale bonuses on attack and damage rolls against creatures threatening attacks of opportunity against harvester crop members.",
+      "keywords": [
+        "scarecrow",
+        "morale bonus",
+        "attack rolls",
+        "damage rolls",
+        "attacks of opportunity",
+        "threaten",
+        "escalating bonus",
+        "+1 to +5"
+      ]
+    },
+    {
+      "id": "harvester_tiller_teamwork_feat",
+      "title": "Teamwork Feat (Harvester Tiller)",
+      "anchor_heading": "#### Teamwork Feat {#teamwork_feat}",
+      "description": "Gains bonus teamwork feats at 2nd, 6th, and 10th levels that must meet normal prerequisites.",
+      "keywords": [
+        "teamwork feat",
+        "bonus feat",
+        "prerequisites",
+        "2nd level",
+        "6th level",
+        "10th level"
+      ]
+    },
+    {
+      "id": "harvester_tiller_sneak_attack",
+      "title": "Sneak Attack (Harvester Tiller)",
+      "anchor_heading": "#### Sneak Attack {#sneak_attack}",
+      "description": "Gains sneak attack damage starting at 1d6 at 3rd level, increasing by 1d6 every 3 levels, stacking with other sneak attack sources.",
+      "keywords": [
+        "sneak attack",
+        "1d6 damage",
+        "every 3 levels",
+        "stack",
+        "rogue ability",
+        "extra damage",
+        "3rd level"
+      ]
+    },
+    {
+      "id": "harvester_tiller_favored_barn_ex",
+      "title": "Favored Barn (Ex) (Harvester Tiller)",
+      "anchor_heading": "#### Favored Barn (Ex) {#favored_barn_ex}",
+      "description": "Provides skill bonuses and special benefits within chosen communities, including safe rest locations and untraceable travel.",
+      "keywords": [
+        "favored barn",
+        "community",
+        "initiative bonus",
+        "knowledge local",
+        "perception",
+        "stealth",
+        "survival",
+        "no trail",
+        "cannot be tracked",
+        "safe rest",
+        "heal bonus",
+        "settlement",
+        "skill bonuses"
+      ]
+    }
+  ]
+}

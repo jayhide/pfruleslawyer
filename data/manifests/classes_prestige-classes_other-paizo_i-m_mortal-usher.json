@@ -1,0 +1,168 @@
+{
+  "file": "mortal-usher.md",
+  "source_path": "https://www.d20pfsrd.com/classes/prestige-classes/other-paizo/i-m/mortal-usher/",
+  "source_name": "Prestige Class: Mortal Usher",
+  "category": "Classes",
+  "toc_content": "Contents\n* [Requirements](#requirements)\n* [Class Skills](#class_skills)\n* [Class Features](#class_features)\n  + [Weapon and Armor Proficiency](#weapon_and_armor_proficiency)\n  + [Reaping Strike (Su)](#reaping_strike_su)\n  + [Vital Strike](#vital_strike)\n  + [Mortal Talents](#mortal_talents)\n  + [Nosoi Plague Mask (Su)](#nosoi_plague_mask_su)\n  + [Calming Aura (Su)](#calming_aura_su)\n  + [Dedicated Wrappings (Su)](#dedicated_wrappings_su)\n  + [Vanth Wings (Ex)](#vanth_wings_ex)\n  + [Yamaraj-Feather Cloak (Su)](#yamaraj-feather_cloak_su)",
+  "sections": [
+    {
+      "id": "mortal_usher_overview",
+      "title": "Mortal Usher (Class Overview)",
+      "anchor_heading": "# Mortal Usher",
+      "end_at_heading": "### Requirements {#requirements}",
+      "description": "Overview of the Mortal Usher class including role, alignment, hit die, and starting wealth.",
+      "keywords": [
+        "mortal usher",
+        "class",
+        "hit die",
+        "role",
+        "alignment"
+      ]
+    },
+    {
+      "id": "mortal_usher_weapon_and_armor_proficiency",
+      "title": "Weapon and Armor Proficiency (Mortal Usher)",
+      "anchor_heading": "#### Weapon and Armor Proficiency {#weapon_and_armor_proficiency}",
+      "description": "Grants proficiency with whips and scythes specifically for mortal ushers.",
+      "keywords": [
+        "weapon proficiency",
+        "armor proficiency",
+        "whip proficiency",
+        "scythe proficiency",
+        "mortal usher proficiency"
+      ]
+    },
+    {
+      "id": "mortal_usher_reaping_strike_su",
+      "title": "Reaping Strike (Su) (Mortal Usher)",
+      "anchor_heading": "#### Reaping Strike (Su) {#reaping_strike_su}",
+      "description": "Adds scaling bonus damage (positive energy to undead, negative energy to living) when using attack actions, single-target spells, or alchemical items as standard actions.",
+      "keywords": [
+        "reaping strike",
+        "bonus damage",
+        "positive energy damage",
+        "negative energy damage",
+        "standard action attack",
+        "single target spell",
+        "alchemical item",
+        "attack action",
+        "supernatural ability"
+      ]
+    },
+    {
+      "id": "mortal_usher_vital_strike",
+      "title": "Vital Strike (Mortal Usher)",
+      "anchor_heading": "#### Vital Strike {#vital_strike}",
+      "description": "Grants Vital Strike feat at 1st level and Improved Vital Strike at 6th level, using class level as base attack bonus for feat prerequisites.",
+      "keywords": [
+        "vital strike",
+        "improved vital strike",
+        "bonus feat",
+        "class level as BAB",
+        "base attack bonus substitute",
+        "feat prerequisites",
+        "feat swap"
+      ]
+    },
+    {
+      "id": "mortal_usher_mortal_talents",
+      "title": "Mortal Talents (Mortal Usher)",
+      "anchor_heading": "#### Mortal Talents {#mortal_talents}",
+      "description": "Allows continued advancement in a chosen previous class, gaining class features every 2 levels while retaining prestige class HD, BAB, saves, and skill ranks.",
+      "keywords": [
+        "mortal talents",
+        "class advancement",
+        "prestige class advancement",
+        "class feature progression",
+        "chosen class",
+        "caster level advancement",
+        "spells per day"
+      ]
+    },
+    {
+      "id": "mortal_usher_nosoi_plague_mask_su",
+      "title": "Nosoi Plague Mask (Su) (Mortal Usher)",
+      "anchor_heading": "#### Nosoi Plague Mask (Su) {#nosoi_plague_mask_su}",
+      "description": "Conjures a supernatural plague mask that grants invisibility and a fascinate ability affecting both living and undead creatures.",
+      "keywords": [
+        "nosoi plague mask",
+        "conjure mask",
+        "dismiss mask",
+        "free action",
+        "invisibility",
+        "fascinate",
+        "mind-affecting undead",
+        "sonic effect",
+        "Will save",
+        "antimagic field suppression"
+      ]
+    },
+    {
+      "id": "mortal_usher_calming_aura_su",
+      "title": "Calming Aura (Su) (Mortal Usher)",
+      "anchor_heading": "#### Calming Aura (Su) {#calming_aura_su}",
+      "description": "Emits a 30-foot aura that functions as calm emotions, suppressible as a swift action.",
+      "keywords": [
+        "calming aura",
+        "calm emotions",
+        "30-foot radius",
+        "aura suppression",
+        "swift action",
+        "Will save",
+        "24-hour immunity"
+      ]
+    },
+    {
+      "id": "mortal_usher_dedicated_wrappings_su",
+      "title": "Dedicated Wrappings (Su) (Mortal Usher)",
+      "anchor_heading": "#### Dedicated Wrappings (Su) {#dedicated_wrappings_su}",
+      "description": "Designates clothing as magical wrappings that provide natural armor and function as an enchantable whip with various weapon properties.",
+      "keywords": [
+        "dedicated wrappings",
+        "natural armor bonus",
+        "magic whip",
+        "enhancement bonus",
+        "weapon properties",
+        "brilliant energy",
+        "disruption",
+        "flaming",
+        "frost",
+        "holy",
+        "unholy",
+        "vorpal",
+        "hands full wielding"
+      ]
+    },
+    {
+      "id": "mortal_usher_vanth_wings_ex",
+      "title": "Vanth Wings (Ex) (Mortal Usher)",
+      "anchor_heading": "#### Vanth Wings (Ex) {#vanth_wings_ex}",
+      "description": "Grants 60-foot fly speed with good maneuverability, cold resistance, and bonuses to Acrobatics and concentration checks.",
+      "keywords": [
+        "vanth wings",
+        "fly speed",
+        "good maneuverability",
+        "cold resistance",
+        "circumstance bonus",
+        "Acrobatics bonus",
+        "concentration check bonus",
+        "flight"
+      ]
+    },
+    {
+      "id": "mortal_usher_yamaraj-feather_cloak_su",
+      "title": "Yamaraj-Feather Cloak (Su) (Mortal Usher)",
+      "anchor_heading": "#### Yamaraj-Feather Cloak (Su) {#yamaraj-feather_cloak_su}",
+      "description": "Provides immunity to electricity and death effects, converting electricity damage into healing and temporary hit points.",
+      "keywords": [
+        "yamaraj-feather cloak",
+        "electricity immunity",
+        "death effect immunity",
+        "electricity healing",
+        "temporary hit points",
+        "damage conversion",
+        "hit point maximum"
+      ]
+    }
+  ]
+}

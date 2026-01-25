@@ -1,0 +1,195 @@
+{
+  "file": "brightness-seeker.md",
+  "source_path": "https://www.d20pfsrd.com/classes/prestige-classes/other-paizo/a-b/brightness-seeker/",
+  "source_name": "Prestige Class: Brightness Seeker (3.5E)",
+  "category": "Classes",
+  "toc_content": "Contents\n* [Requirements](#requirements)\n* [Class Skills](#class_skills)\n* [Class Features](#class_features)\n  + [Discover Omen (Su)](#discover_omen_su)\n  + [Favored Pilgrim (Ex)](#favored_pilgrim_ex)\n  + [Channel Past Incarnation (Su)](#channel_past_incarnation_su)\n  + [Tranquility (Ex)](#tranquility_ex)\n  + [Common Ground (Ex)](#common_ground_ex)\n  + [Wild Shape (Su)](#wild_shape_su)\n  + [One With Nature (Sp)](#one_with_nature_sp)\n  + [Tranquility Aura (Ex)](#tranquility_aura_ex)\n  + [Rebirth (Su)](#rebirth_su)",
+  "sections": [
+    {
+      "id": "brightness_seeker_35e_overview",
+      "title": "Brightness Seeker (3.5E) (Class Overview)",
+      "anchor_heading": "# Brightness Seeker (3.5E)",
+      "end_at_heading": "### Requirements {#requirements}",
+      "description": "Overview of the Brightness Seeker (3.5E) class including role, alignment, hit die, and starting wealth.",
+      "keywords": [
+        "brightness seeker (3.5e)",
+        "class",
+        "hit die",
+        "role",
+        "alignment"
+      ]
+    },
+    {
+      "id": "brightness_seeker_35e_discover_omen_su",
+      "title": "**Discover Omen (Su)** (Brightness Seeker (3.5E))",
+      "anchor_heading": "#### **Discover Omen (Su)** {#discover_omen_su}",
+      "description": "Allows the Brightness Seeker to spend 1 hour meditating to forecast omens for creatures within 30 feet, granting them a one-time insight bonus equal to class level that can be applied to rolls or AC.",
+      "keywords": [
+        "discover omen",
+        "omen check",
+        "forecast future",
+        "insight bonus",
+        "meditation",
+        "charisma modifier",
+        "true name",
+        "birthday",
+        "birth month",
+        "attack roll",
+        "ability check",
+        "skill check",
+        "saving throw",
+        "armor class",
+        "flat-footed",
+        "24 hours",
+        "uninterrupted meditation"
+      ]
+    },
+    {
+      "id": "brightness_seeker_35e_favored_pilgrim_ex",
+      "title": "**Favored Pilgrim (Ex)** (Brightness Seeker (3.5E))",
+      "anchor_heading": "#### **Favored Pilgrim (Ex)** {#favored_pilgrim_ex}",
+      "description": "Improves initial attitudes of elves who believe in the Brightness, moving hostile, unfriendly, or indifferent elves one step closer to friendly.",
+      "keywords": [
+        "favored pilgrim",
+        "elf attitude",
+        "initial attitude",
+        "hostile",
+        "unfriendly",
+        "indifferent",
+        "friendly",
+        "elf relations",
+        "brightness believers",
+        "attitude adjustment"
+      ]
+    },
+    {
+      "id": "brightness_seeker_35e_channel_past_incarnation_su",
+      "title": "**Channel Past Incarnation (Su)** (Brightness Seeker (3.5E))",
+      "anchor_heading": "#### **Channel Past Incarnation (Su)** {#channel_past_incarnation_su}",
+      "description": "Allows the Brightness Seeker to manifest animal qualities from past incarnations for 1 day after 1 hour of meditation, choosing from options like natural attacks, senses, or movement abilities.",
+      "keywords": [
+        "channel past incarnation",
+        "bite and claws",
+        "blindsense",
+        "darkvision",
+        "scent",
+        "endure elements",
+        "natural armor",
+        "swim speed",
+        "fly speed",
+        "wings",
+        "waterborn",
+        "thick hide",
+        "temperature-adapted",
+        "special qualities",
+        "animal form",
+        "manifestation"
+      ]
+    },
+    {
+      "id": "brightness_seeker_35e_tranquility_ex",
+      "title": "**Tranquility (Ex)** (Brightness Seeker (3.5E))",
+      "anchor_heading": "#### **Tranquility (Ex)** {#tranquility_ex}",
+      "description": "Grants a +10 resistance bonus on saving throws against fear effects due to understanding death as merely a threshold to another existence.",
+      "keywords": [
+        "tranquility",
+        "fear resistance",
+        "resistance bonus",
+        "fear effects",
+        "fear immunity",
+        "death understanding",
+        "past incarnations",
+        "fear saves"
+      ]
+    },
+    {
+      "id": "brightness_seeker_35e_common_ground_ex",
+      "title": "**Common Ground (Ex)** (Brightness Seeker (3.5E))",
+      "anchor_heading": "#### **Common Ground (Ex)** {#common_ground_ex}",
+      "description": "Grants the wild empathy ability using class level and Charisma bonus, allowing influence over natural creatures and stacking with other sources of wild empathy.",
+      "keywords": [
+        "common ground",
+        "wild empathy",
+        "natural creatures",
+        "charisma bonus",
+        "kindred spirits",
+        "animal influence",
+        "empathy stacking",
+        "druid ability"
+      ]
+    },
+    {
+      "id": "brightness_seeker_35e_wild_shape_su",
+      "title": "**Wild Shape (Su)** (Brightness Seeker (3.5E))",
+      "anchor_heading": "#### **Wild Shape (Su)** {#wild_shape_su}",
+      "description": "Grants the ability to wild shape as a druid once per day (twice at 5th level), with uses and effective levels stacking with other wild shape sources.",
+      "keywords": [
+        "wild shape",
+        "animal form",
+        "druid wild shape",
+        "shape change",
+        "animal incarnation",
+        "transformation",
+        "wild shape stacking",
+        "size and type",
+        "uses per day"
+      ]
+    },
+    {
+      "id": "brightness_seeker_35e_one_with_nature_sp",
+      "title": "**One With Nature (Sp)** (Brightness Seeker (3.5E))",
+      "anchor_heading": "#### **One With Nature (Sp)** {#one_with_nature_sp}",
+      "description": "Allows casting commune with nature as a spell-like ability at will, requiring 10 minutes of uninterrupted concentration like the normal spell.",
+      "keywords": [
+        "one with nature",
+        "commune with nature",
+        "spell-like ability",
+        "at will",
+        "uninterrupted concentration",
+        "10 minutes",
+        "living world",
+        "nature communion"
+      ]
+    },
+    {
+      "id": "brightness_seeker_35e_tranquility_aura_ex",
+      "title": "**Tranquility Aura (Ex)** (Brightness Seeker (3.5E))",
+      "anchor_heading": "#### **Tranquility Aura (Ex)** {#tranquility_aura_ex}",
+      "description": "Extends the fear resistance as an aura, granting all friendly creatures within 10 feet a +10 resistance bonus on saves against fear effects.",
+      "keywords": [
+        "tranquility aura",
+        "fear aura",
+        "friendly creatures",
+        "10-foot radius",
+        "aura effect",
+        "fear resistance aura",
+        "resistance bonus aura",
+        "area fear protection"
+      ]
+    },
+    {
+      "id": "brightness_seeker_35e_rebirth_su",
+      "title": "**Rebirth (Su)** (Brightness Seeker (3.5E))",
+      "anchor_heading": "#### **Rebirth (Su)** {#rebirth_su}",
+      "description": "Allows reincarnation as a healthy adult animal after violent death, retaining abilities but gaining animal traits and a negative level until gaining experience or dying again.",
+      "keywords": [
+        "rebirth",
+        "reincarnation",
+        "violent death",
+        "animal form",
+        "negative level",
+        "unnatural death",
+        "adult animal",
+        "will save",
+        "original form",
+        "death effect immunity",
+        "undead immunity",
+        "miracle",
+        "wish",
+        "experience level",
+        "natural attacks",
+        "natural armor"
+      ]
+    }
+  ]
+}

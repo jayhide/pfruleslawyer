@@ -1,0 +1,161 @@
+{
+  "file": "ritualist.md",
+  "source_path": "https://www.d20pfsrd.com/classes/prestige-classes/other-paizo/n-r/ritualist/",
+  "source_name": "Prestige Class: Ritualist",
+  "category": "Classes",
+  "toc_content": "Contents\n* [Requirements](#requirements)\n* [Class Skills](#class_skills)\n* [Class Features](#class_features)\n  + [Spells per Day](#spells_per_day)\n  + [Esoteric Discovery (Ex)](#esoteric_discovery_ex)\n  + [Student of Mysteries (Ex)](#student_of_mysteries_ex)\n  + [Stabilize Ritual (Su)](#stabilize_ritual_su)\n  + [Occult Expertise (Ex)](#occult_expertise_ex)\n  + [Cautious Rituals (Su)](#cautious_rituals_su)\n  + [Expedited Rituals (Su)](#expedited_rituals_su)\n  + [Independent Rituals (Su)](#independent_rituals_su)\n  + [Focused Rituals (Su)](#focused_rituals_su)\n  + [Master of Mysteries (Su)](#master_of_mysteries_su)",
+  "sections": [
+    {
+      "id": "ritualist_overview",
+      "title": "Ritualist (Class Overview)",
+      "anchor_heading": "# Ritualist",
+      "end_at_heading": "### Requirements {#requirements}",
+      "description": "Overview of the Ritualist class including role, alignment, hit die, and starting wealth.",
+      "keywords": [
+        "ritualist",
+        "class",
+        "hit die",
+        "role",
+        "alignment"
+      ]
+    },
+    {
+      "id": "ritualist_spells_per_day",
+      "title": "Spells per Day (Ritualist)",
+      "anchor_heading": "#### Spells per Day {#spells_per_day}",
+      "description": "Ritualist levels advance spellcasting progression from a previous class, gaining spells per day, spells known, and increased caster level without other class benefits.",
+      "keywords": [
+        "spells per day",
+        "spellcasting progression",
+        "caster level",
+        "spells known",
+        "spontaneous spellcaster",
+        "prestige class spellcasting"
+      ]
+    },
+    {
+      "id": "ritualist_esoteric_discovery_ex",
+      "title": "Esoteric Discovery (Ex) (Ritualist)",
+      "anchor_heading": "#### Esoteric Discovery (Ex) {#esoteric_discovery_ex}",
+      "description": "Allows the ritualist to take 10 on skill checks for selected skills when casting occult rituals, usable once per skill per ritual.",
+      "keywords": [
+        "esoteric discovery",
+        "take 10",
+        "skill checks",
+        "occult rituals",
+        "ritual casting",
+        "skill selection"
+      ]
+    },
+    {
+      "id": "ritualist_student_of_mysteries_ex",
+      "title": "Student of Mysteries (Ex) (Ritualist)",
+      "anchor_heading": "#### Student of Mysteries (Ex) {#student_of_mysteries_ex}",
+      "description": "Adds half ritualist level as a bonus to Intelligence checks made to learn new occult rituals.",
+      "keywords": [
+        "student of mysteries",
+        "learn occult rituals",
+        "intelligence checks",
+        "ritual learning",
+        "occult ritual acquisition"
+      ]
+    },
+    {
+      "id": "ritualist_stabilize_ritual_su",
+      "title": "Stabilize Ritual (Su) (Ritualist)",
+      "anchor_heading": "#### Stabilize Ritual (Su) {#stabilize_ritual_su}",
+      "description": "Once per day as a full-round action, removes DC increases that have accumulated from pausing a ritual.",
+      "keywords": [
+        "stabilize ritual",
+        "full-round action",
+        "paused ritual",
+        "ritual DC increases",
+        "ritual refocus",
+        "ritual interruption"
+      ]
+    },
+    {
+      "id": "ritualist_occult_expertise_ex",
+      "title": "Occult Expertise (Ex) (Ritualist)",
+      "anchor_heading": "#### Occult Expertise (Ex) {#occult_expertise_ex}",
+      "description": "Adds half class level as bonus to occult skill unlock checks and allows taking 10 on occult skill unlocks with esoteric discovery skills.",
+      "keywords": [
+        "occult expertise",
+        "occult skill unlocks",
+        "skill unlock checks",
+        "take 10 skill unlocks",
+        "esoteric discovery skills"
+      ]
+    },
+    {
+      "id": "ritualist_cautious_rituals_su",
+      "title": "Cautious Rituals (Su) (Ritualist)",
+      "anchor_heading": "#### Cautious Rituals (Su) {#cautious_rituals_su}",
+      "description": "Allows casting rituals with increased DCs but reduced chance of failure effects, with improvements at higher levels removing backlash and DC penalties.",
+      "keywords": [
+        "cautious rituals",
+        "ritual failure effects",
+        "ritual backlash",
+        "primary caster",
+        "secondary casters",
+        "ritual skill check DCs"
+      ]
+    },
+    {
+      "id": "ritualist_expedited_rituals_su",
+      "title": "Expedited Rituals (Su) (Ritualist)",
+      "anchor_heading": "#### Expedited Rituals (Su) {#expedited_rituals_su}",
+      "description": "Allows casting rituals that complete upon successful skill checks rather than waiting for full casting time, with DC penalties that are eventually removed.",
+      "keywords": [
+        "expedited rituals",
+        "ritual casting time",
+        "skill check success",
+        "ritual completion",
+        "casting time reduction",
+        "ritual skill check DCs"
+      ]
+    },
+    {
+      "id": "ritualist_independent_rituals_su",
+      "title": "Independent Rituals (Su) (Ritualist)",
+      "anchor_heading": "#### Independent Rituals (Su) {#independent_rituals_su}",
+      "description": "Allows casting rituals without secondary casters, gaining skill check bonuses and guaranteed take 10 on esoteric discovery skills.",
+      "keywords": [
+        "independent rituals",
+        "secondary casters",
+        "primary caster",
+        "ritual without help",
+        "solo ritual casting",
+        "esoteric discovery take 10"
+      ]
+    },
+    {
+      "id": "ritualist_focused_rituals_su",
+      "title": "Focused Rituals (Su) (Ritualist)",
+      "anchor_heading": "#### Focused Rituals (Su) {#focused_rituals_su}",
+      "description": "Allows continuing ritual casting even if secondary casters are incapacitated, killed, or moved out of range.",
+      "keywords": [
+        "focused rituals",
+        "secondary caster incapacitated",
+        "secondary caster killed",
+        "ritual range",
+        "ritual interruption",
+        "maintaining ritual focus"
+      ]
+    },
+    {
+      "id": "ritualist_master_of_mysteries_su",
+      "title": "Master of Mysteries (Su) (Ritualist)",
+      "anchor_heading": "#### Master of Mysteries (Su) {#master_of_mysteries_su}",
+      "description": "Once per day, dramatically reduces ritual casting time from 10 minutes per level to 1 round per level, or 1 hour per level to 1 minute per level.",
+      "keywords": [
+        "master of mysteries",
+        "ritual casting time reduction",
+        "10 minutes to 1 round",
+        "1 hour to 1 minute",
+        "rapid ritual casting",
+        "accelerated rituals"
+      ]
+    }
+  ]
+}

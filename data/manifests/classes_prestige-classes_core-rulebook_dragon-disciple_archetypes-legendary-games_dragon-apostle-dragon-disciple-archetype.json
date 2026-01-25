@@ -1,0 +1,132 @@
+{
+  "file": "dragon-apostle-dragon-disciple-archetype.md",
+  "source_path": "https://www.d20pfsrd.com/classes/prestige-classes/core-rulebook/dragon-disciple/archetypes-legendary-games/dragon-apostle-dragon-disciple-archetype/",
+  "source_name": "Prestige Class: Dragon Apostle (Dragon Disciple Archetype)",
+  "category": "Classes",
+  "toc_content": "Contents\n* [Requirements](#requirements)\n  + [Spellcasting](#spellcasting)\n  + [Spirit of the Dragon](#spirit_of_the_dragon)\n  + [Dragon Bite (Su)](#dragon_bite_su)\n  + [Breath Weapon (Su)](#breath_weapon_su)\n  + [Blindsense (Ex)](#blindsense_ex)\n  + [Dragon Form (Su)](#dragon_form_su)\n  + [Wings (Su)](#wings_su)",
+  "sections": [
+    {
+      "id": "dragon_apostle_dragon_disciple_archetype_overview",
+      "title": "Dragon Apostle (Dragon Disciple Archetype) (Class Overview)",
+      "anchor_heading": "# Dragon Apostle (Dragon Disciple Archetype)",
+      "end_at_heading": "### Requirements {#requirements}",
+      "description": "Overview of the Dragon Apostle (Dragon Disciple Archetype) class including role, alignment, hit die, and starting wealth.",
+      "keywords": [
+        "dragon apostle (dragon disciple archetype)",
+        "class",
+        "hit die",
+        "role",
+        "alignment"
+      ]
+    },
+    {
+      "id": "dragon_apostle_dragon_disciple_archetype_spellcasting",
+      "title": "Spellcasting (Dragon Apostle (Dragon Disciple Archetype))",
+      "anchor_heading": "#### Spellcasting {#spellcasting}",
+      "description": "Requires ability to cast 1st-level divine spells and Dragon mystery for oracles, advances divine spellcasting progression at indicated levels without granting other class benefits.",
+      "keywords": [
+        "spellcasting progression",
+        "divine spells",
+        "Dragon mystery",
+        "oracle levels",
+        "spells per day",
+        "spontaneous spellcaster",
+        "spells known",
+        "effective caster level",
+        "prestige class spellcasting"
+      ]
+    },
+    {
+      "id": "dragon_apostle_dragon_disciple_archetype_spirit_of_the_dragon",
+      "title": "Spirit of the Dragon (Dragon Apostle (Dragon Disciple Archetype))",
+      "anchor_heading": "#### Spirit of the Dragon {#spirit_of_the_dragon}",
+      "description": "Dragon apostle levels stack with oracle levels for oracle revelations, domain powers, and curse effects, and grants Dragon mystery revelations at 2nd, 5th, and 8th level.",
+      "keywords": [
+        "level stacking",
+        "oracle revelations",
+        "Dragon mystery",
+        "Scalykind domain",
+        "Dragon subdomain",
+        "oracle curse",
+        "mystery spells",
+        "bloodline feats replacement",
+        "blood of dragons replacement"
+      ]
+    },
+    {
+      "id": "dragon_apostle_dragon_disciple_archetype_dragon_bite_su",
+      "title": "Dragon Bite (Su) (Dragon Apostle (Dragon Disciple Archetype))",
+      "anchor_heading": "#### Dragon Bite (Su) {#dragon_bite_su}",
+      "description": "At 2nd level, can use dragon bite ability when using talons of the dragon revelation, or for rounds per day equal to 3 + Charisma modifier if lacking the revelation.",
+      "keywords": [
+        "dragon bite",
+        "talons of the dragon",
+        "natural attack",
+        "rounds per day",
+        "Charisma modifier",
+        "bite attack",
+        "supernatural ability"
+      ]
+    },
+    {
+      "id": "dragon_apostle_dragon_disciple_archetype_breath_weapon_su",
+      "title": "Breath Weapon (Su) (Dragon Apostle (Dragon Disciple Archetype))",
+      "anchor_heading": "#### Breath Weapon (Su) {#breath_weapon_su}",
+      "description": "At 3rd level, gains breath weapon revelation from Dragon mystery or an additional daily use if already possessed, with type and shape based on selected dragon type.",
+      "keywords": [
+        "breath weapon",
+        "Dragon mystery",
+        "dragonbreath power",
+        "Dragon subdomain",
+        "additional use",
+        "dragon type",
+        "breath weapon shape",
+        "supernatural ability"
+      ]
+    },
+    {
+      "id": "dragon_apostle_dragon_disciple_archetype_blindsense_ex",
+      "title": "Blindsense (Ex) (Dragon Apostle (Dragon Disciple Archetype))",
+      "anchor_heading": "#### Blindsense (Ex) {#blindsense_ex}",
+      "description": "At 5th level, adds 30 feet to blindsense range if already possessed through dragon senses revelation.",
+      "keywords": [
+        "blindsense",
+        "dragon senses revelation",
+        "blindsense range",
+        "30 feet",
+        "sensory ability",
+        "extraordinary ability"
+      ]
+    },
+    {
+      "id": "dragon_apostle_dragon_disciple_archetype_dragon_form_su",
+      "title": "Dragon Form (Su) (Dragon Apostle (Dragon Disciple Archetype))",
+      "anchor_heading": "#### Dragon Form (Su) {#dragon_form_su}",
+      "description": "At 7th level, gains form of the dragon revelation or an additional daily use if already possessed.",
+      "keywords": [
+        "dragon form",
+        "form of the dragon",
+        "Dragon mystery",
+        "additional use",
+        "twice per day",
+        "supernatural ability",
+        "polymorph"
+      ]
+    },
+    {
+      "id": "dragon_apostle_dragon_disciple_archetype_wings_su",
+      "title": "Wings (Su) (Dragon Apostle (Dragon Disciple Archetype))",
+      "anchor_heading": "#### Wings (Su) {#wings_su}",
+      "description": "At 9th level, gains wings of the dragon revelation or increases flight speed to 90 feet if already possessed.",
+      "keywords": [
+        "wings",
+        "wings of the dragon",
+        "Dragon mystery",
+        "flight speed",
+        "90 feet",
+        "fly speed",
+        "supernatural ability"
+      ]
+    }
+  ]
+}

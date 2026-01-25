@@ -1,0 +1,161 @@
+{
+  "file": "arcane-archer.md",
+  "source_path": "https://www.d20pfsrd.com/classes/prestige-classes/core-rulebook/arcane-archer/",
+  "source_name": "Prestige Class: Arcane Archer",
+  "category": "Classes",
+  "toc_content": "Contents\n* [Requirements](#requirements)\n* [Class Skills](#class_skills)\n* [Class Features](#class_features)\n  + [Weapon and Armor Proficiency](#weapon_and_armor_proficiency)\n  + [Spells per Day](#spells_per_day)\n  + [Enhance Arrows (Su)](#enhance_arrows_su)\n  + [Imbue Arrow (Su)](#imbue_arrow_su)\n  + [Seeker Arrow (Su)](#seeker_arrow_su)\n  + [Phase Arrow (Su)](#phase_arrow_su)\n  + [Hail of Arrows (Su)](#hail_of_arrows_su)\n  + [Arrow of Death (Su)](#arrow_of_death_su)",
+  "sections": [
+    {
+      "id": "arcane_archer_overview",
+      "title": "Arcane Archer (Class Overview)",
+      "anchor_heading": "# Arcane Archer",
+      "end_at_heading": "### Requirements {#requirements}",
+      "description": "Overview of the Arcane Archer class including role, alignment, hit die, and starting wealth.",
+      "keywords": [
+        "arcane archer",
+        "class",
+        "hit die",
+        "role",
+        "alignment"
+      ]
+    },
+    {
+      "id": "arcane_archer_weapon_and_armor_proficiency",
+      "title": "Weapon and Armor Proficiency (Arcane Archer)",
+      "anchor_heading": "#### Weapon and Armor Proficiency {#weapon_and_armor_proficiency}",
+      "description": "Grants proficiency with all simple and martial weapons, light armor, medium armor, and shields.",
+      "keywords": [
+        "weapon proficiency",
+        "armor proficiency",
+        "simple weapons",
+        "martial weapons",
+        "light armor",
+        "medium armor",
+        "shields",
+        "proficient"
+      ]
+    },
+    {
+      "id": "arcane_archer_spells_per_day",
+      "title": "Spells per Day (Arcane Archer)",
+      "anchor_heading": "#### Spells per Day {#spells_per_day}",
+      "description": "Advances spellcasting progression from a previous arcane spellcasting class, gaining spells per day and caster level but no other class features.",
+      "keywords": [
+        "spells per day",
+        "spellcasting progression",
+        "caster level",
+        "arcane spellcasting",
+        "spells known",
+        "spontaneous caster",
+        "spellbook",
+        "prestige class spellcasting"
+      ]
+    },
+    {
+      "id": "arcane_archer_enhance_arrows_su",
+      "title": "Enhance Arrows (Su) (Arcane Archer)",
+      "anchor_heading": "#### Enhance Arrows (Su) {#enhance_arrows_su}",
+      "description": "Makes nonmagical arrows magical with enhancement bonuses and special weapon properties that scale with level, including elemental, distance, burst, and alignment qualities.",
+      "keywords": [
+        "enhance arrows",
+        "magical arrows",
+        "enhancement bonus",
+        "flaming",
+        "frost",
+        "shock",
+        "distance",
+        "flaming burst",
+        "icy burst",
+        "shocking burst",
+        "anarchic",
+        "axiomatic",
+        "holy",
+        "unholy",
+        "weapon qualities",
+        "elemental damage"
+      ]
+    },
+    {
+      "id": "arcane_archer_imbue_arrow_su",
+      "title": "Imbue Arrow ([Su](https://www.d20pfsrd.com/magic#TOC-Supernatural-Abilities-Su-)) (Arcane Archer)",
+      "anchor_heading": "#### Imbue Arrow ([Su](https://www.d20pfsrd.com/magic#TOC-Supernatural-Abilities-Su-)) {#imbue_arrow_su}",
+      "description": "Allows casting area spells through arrows, centering the spell's area where the arrow lands regardless of the spell's normal range or targeting restrictions.",
+      "keywords": [
+        "imbue arrow",
+        "area spell",
+        "spell through arrow",
+        "casting time",
+        "spell range",
+        "area effect",
+        "arrow delivery",
+        "spell wasted on miss"
+      ]
+    },
+    {
+      "id": "arcane_archer_seeker_arrow_su",
+      "title": "Seeker Arrow ([Su](https://www.d20pfsrd.com/magic#TOC-Supernatural-Abilities-Su-)) (Arcane Archer)",
+      "anchor_heading": "#### Seeker Arrow ([Su](https://www.d20pfsrd.com/magic#TOC-Supernatural-Abilities-Su-)) {#seeker_arrow_su}",
+      "description": "Fires arrows that travel around corners to known targets within range, negating cover and concealment modifiers with limited daily uses.",
+      "keywords": [
+        "seeker arrow",
+        "around corners",
+        "cover negation",
+        "concealment negation",
+        "standard action",
+        "known target",
+        "daily uses",
+        "unavoidable obstacle"
+      ]
+    },
+    {
+      "id": "arcane_archer_phase_arrow_su",
+      "title": "Phase Arrow ([Su](https://www.d20pfsrd.com/magic#TOC-Supernatural-Abilities-Su-)) (Arcane Archer)",
+      "anchor_heading": "#### Phase Arrow ([Su](https://www.d20pfsrd.com/magic#TOC-Supernatural-Abilities-Su-)) {#phase_arrow_su}",
+      "description": "Shoots arrows that pass through nonmagical barriers in straight lines, negating cover, concealment, armor, and shield modifiers with limited daily uses.",
+      "keywords": [
+        "phase arrow",
+        "pass through walls",
+        "nonmagical barrier",
+        "magical barrier",
+        "cover negation",
+        "concealment negation",
+        "armor negation",
+        "shield negation",
+        "standard action",
+        "daily uses"
+      ]
+    },
+    {
+      "id": "arcane_archer_hail_of_arrows_su",
+      "title": "Hail of Arrows ([Su](https://www.d20pfsrd.com/magic#TOC-Supernatural-Abilities-Su-)) (Arcane Archer)",
+      "anchor_heading": "#### Hail of Arrows ([Su](https://www.d20pfsrd.com/magic#TOC-Supernatural-Abilities-Su-)) {#hail_of_arrows_su}",
+      "description": "Fires one arrow at every target within range using primary attack bonus, with a maximum number of targets equal to arcane archer level.",
+      "keywords": [
+        "hail of arrows",
+        "multiple targets",
+        "primary attack bonus",
+        "one target per level",
+        "regular attacks",
+        "every target",
+        "within range"
+      ]
+    },
+    {
+      "id": "arcane_archer_arrow_of_death_su",
+      "title": "Arrow of Death ([Su](https://www.d20pfsrd.com/magic#TOC-Supernatural-Abilities-Su-)) (Arcane Archer)",
+      "anchor_heading": "#### Arrow of Death ([Su](https://www.d20pfsrd.com/magic#TOC-Supernatural-Abilities-Su-)) {#arrow_of_death_su}",
+      "description": "Creates a special slaying arrow that forces damaged targets to make a Fortitude save or die instantly, with specific crafting time and duration limits.",
+      "keywords": [
+        "arrow of death",
+        "slaying arrow",
+        "fortitude save",
+        "death effect",
+        "instant death",
+        "charisma modifier",
+        "crafting time",
+        "one year duration",
+        "one arrow limit"
+      ]
+    }
+  ]
+}

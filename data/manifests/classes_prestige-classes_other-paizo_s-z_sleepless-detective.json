@@ -1,0 +1,218 @@
+{
+  "file": "sleepless-detective.md",
+  "source_path": "https://www.d20pfsrd.com/classes/prestige-classes/other-paizo/s-z/sleepless-detective/",
+  "source_name": "Prestige Class: Sleepless Detective",
+  "category": "Classes",
+  "toc_content": "Contents\n* [Requirements](#requirements)\n* [Class Skills](#class_skills)\n* [Class Features](#class_features)\n  + [Weapon and Armor Proficiency](#weapon_and_armor_proficiency)\n  + [Canny Sleuth (Ex)](#canny_sleuth_ex)\n  + [Forensic Thaumaturgy (Su)](#forensic_thaumaturgy_su)\n  + [Sneak Attack (Ex)](#sneak_attack_ex)\n  + [Follow Clues (Ex)](#follow_clues_ex)\n  + [Deductive Examination (Sp)](#deductive_examination_sp)\n  + [Eye for Detail (Ex)](#eye_for_detail_ex)\n  + [Hematomancy (Sp)](#hematomancy_sp)\n  + [Thoughtful Reexamining (Ex)](#thoughtful_reexamining_ex)\n  + [Discern Lies (Sp)](#discern_lies_sp)\n  + [Predictive Riposte (Ex)](#predictive_riposte_ex)\n  + [Pierce Deception (Sp)](#pierce_deception_sp)\n  + [Reconstruction (Su)](#reconstruction_su)",
+  "sections": [
+    {
+      "id": "sleepless_detective_overview",
+      "title": "Sleepless Detective (Class Overview)",
+      "anchor_heading": "# Sleepless Detective",
+      "end_at_heading": "### Requirements {#requirements}",
+      "description": "Overview of the Sleepless Detective class including role, alignment, hit die, and starting wealth.",
+      "keywords": [
+        "sleepless detective",
+        "class",
+        "hit die",
+        "role",
+        "alignment"
+      ]
+    },
+    {
+      "id": "sleepless_detective_weapon_and_armor_proficiency",
+      "title": "Weapon and Armor Proficiency (Sleepless Detective)",
+      "anchor_heading": "#### Weapon and Armor Proficiency {#weapon_and_armor_proficiency}",
+      "description": "Sleepless detectives gain no additional weapon or armor proficiencies beyond their base class or race.",
+      "keywords": [
+        "weapon proficiency",
+        "armor proficiency",
+        "no proficiencies",
+        "sleepless detective proficiencies"
+      ]
+    },
+    {
+      "id": "sleepless_detective_canny_sleuth_ex",
+      "title": "Canny Sleuth ([Ex](https://www.d20pfsrd.com/magic#TOC-Extraordinary-Abilities-Ex-)) (Sleepless Detective)",
+      "anchor_heading": "#### Canny Sleuth ([Ex](https://www.d20pfsrd.com/magic#TOC-Extraordinary-Abilities-Ex-)) {#canny_sleuth_ex}",
+      "description": "Adds Intelligence bonus to Perception, Sense Motive, and Diplomacy checks to gather information, in addition to normal ability modifiers.",
+      "keywords": [
+        "canny sleuth",
+        "intelligence bonus",
+        "perception",
+        "sense motive",
+        "diplomacy",
+        "gather information",
+        "skill bonus",
+        "multiple ability modifiers"
+      ]
+    },
+    {
+      "id": "sleepless_detective_forensic_thaumaturgy_su",
+      "title": "Forensic Thaumaturgy (Su) (Sleepless Detective)",
+      "anchor_heading": "#### Forensic Thaumaturgy (Su) {#forensic_thaumaturgy_su}",
+      "description": "Casts detect magic at will and can determine when lingering magical auras were created or destroyed by treating them as one category stronger.",
+      "keywords": [
+        "forensic thaumaturgy",
+        "detect magic",
+        "at will",
+        "spell-like ability",
+        "lingering aura",
+        "magical investigation",
+        "arcane sight",
+        "aura duration",
+        "when spell cast"
+      ]
+    },
+    {
+      "id": "sleepless_detective_sneak_attack_ex",
+      "title": "Sneak Attack ([Ex](https://www.d20pfsrd.com/magic#TOC-Extraordinary-Abilities-Ex-)) (Sleepless Detective)",
+      "anchor_heading": "#### Sneak Attack ([Ex](https://www.d20pfsrd.com/magic#TOC-Extraordinary-Abilities-Ex-)) {#sneak_attack_ex}",
+      "description": "Functions exactly like rogue sneak attack, dealing +1d6 damage every three levels and stacking with other sneak attack bonuses.",
+      "keywords": [
+        "sneak attack",
+        "extra damage",
+        "1d6 per three levels",
+        "stacking sneak attack",
+        "rogue ability",
+        "precision damage"
+      ]
+    },
+    {
+      "id": "sleepless_detective_follow_clues_ex",
+      "title": "Follow Clues ([Ex](https://www.d20pfsrd.com/magic#TOC-Extraordinary-Abilities-Ex-)) (Sleepless Detective)",
+      "anchor_heading": "#### Follow Clues ([Ex](https://www.d20pfsrd.com/magic#TOC-Extraordinary-Abilities-Ex-)) {#follow_clues_ex}",
+      "description": "Use Perception to track like Survival skill, or move at normal speed while tracking with Perception without penalty if already possessing this ability.",
+      "keywords": [
+        "follow clues",
+        "perception tracking",
+        "survival skill",
+        "tracking",
+        "normal speed tracking",
+        "no penalty tracking",
+        "rogue talent"
+      ]
+    },
+    {
+      "id": "sleepless_detective_deductive_examination_sp",
+      "title": "Deductive Examination (Sp) (Sleepless Detective)",
+      "anchor_heading": "#### Deductive Examination (Sp) {#deductive_examination_sp}",
+      "description": "Can use residual tracking spell three times per day as a spell-like ability.",
+      "keywords": [
+        "deductive examination",
+        "residual tracking",
+        "three times per day",
+        "spell-like ability",
+        "tracking spell"
+      ]
+    },
+    {
+      "id": "sleepless_detective_eye_for_detail_ex",
+      "title": "Eye for Detail ([Ex](https://www.d20pfsrd.com/magic#TOC-Extraordinary-Abilities-Ex-)) (Sleepless Detective)",
+      "anchor_heading": "#### Eye for Detail ([Ex](https://www.d20pfsrd.com/magic#TOC-Extraordinary-Abilities-Ex-)) {#eye_for_detail_ex}",
+      "description": "Automatically receives Perception checks to notice traps, doors, and clues within 10 feet, rolling twice if already having similar abilities.",
+      "keywords": [
+        "eye for detail",
+        "automatic perception",
+        "passive perception",
+        "trap detection",
+        "hidden doors",
+        "10 feet",
+        "trap spotter",
+        "roll twice"
+      ]
+    },
+    {
+      "id": "sleepless_detective_hematomancy_sp",
+      "title": "Hematomancy (Sp) (Sleepless Detective)",
+      "anchor_heading": "#### Hematomancy (Sp) {#hematomancy_sp}",
+      "description": "Can use blood biography spell three times per day, accepting any bodily fluid or body part in place of blood.",
+      "keywords": [
+        "hematomancy",
+        "blood biography",
+        "three times per day",
+        "bodily fluids",
+        "body parts",
+        "blood analysis",
+        "creature information"
+      ]
+    },
+    {
+      "id": "sleepless_detective_thoughtful_reexamining_ex",
+      "title": "Thoughtful Reexamining ([Ex](https://www.d20pfsrd.com/magic#TOC-Extraordinary-Abilities-Ex-)) (Sleepless Detective)",
+      "anchor_heading": "#### Thoughtful Reexamining ([Ex](https://www.d20pfsrd.com/magic#TOC-Extraordinary-Abilities-Ex-)) {#thoughtful_reexamining_ex}",
+      "description": "Functions as the advanced rogue talent thoughtful reexamining, or grants one additional daily use if already possessed.",
+      "keywords": [
+        "thoughtful reexamining",
+        "advanced rogue talent",
+        "reexamine facts",
+        "investigation",
+        "additional use",
+        "rogue talent"
+      ]
+    },
+    {
+      "id": "sleepless_detective_discern_lies_sp",
+      "title": "Discern Lies (Sp) (Sleepless Detective)",
+      "anchor_heading": "#### Discern Lies (Sp) {#discern_lies_sp}",
+      "description": "Can use discern lies spell for rounds per day equal to class level, activated as an immediate action.",
+      "keywords": [
+        "discern lies",
+        "rounds per day",
+        "immediate action",
+        "lie detection",
+        "truth detection",
+        "class level rounds"
+      ]
+    },
+    {
+      "id": "sleepless_detective_predictive_riposte_ex",
+      "title": "Predictive Riposte ([Ex](https://www.d20pfsrd.com/magic#TOC-Extraordinary-Abilities-Ex-)) (Sleepless Detective)",
+      "anchor_heading": "#### Predictive Riposte ([Ex](https://www.d20pfsrd.com/magic#TOC-Extraordinary-Abilities-Ex-)) {#predictive_riposte_ex}",
+      "description": "Designates target for +4 insight bonus to AC and can make sneak attack ripostes when their melee attacks miss.",
+      "keywords": [
+        "predictive riposte",
+        "insight bonus to AC",
+        "designated target",
+        "riposte attack",
+        "missed attack",
+        "immediate action",
+        "attack of opportunity",
+        "sneak attack riposte",
+        "30 feet"
+      ]
+    },
+    {
+      "id": "sleepless_detective_pierce_deception_sp",
+      "title": "Pierce Deception (Sp) (Sleepless Detective)",
+      "anchor_heading": "#### Pierce Deception (Sp) {#pierce_deception_sp}",
+      "description": "Can see with true seeing for rounds per day equal to class level, activated as a free action.",
+      "keywords": [
+        "pierce deception",
+        "true seeing",
+        "rounds per day",
+        "free action",
+        "see through illusions",
+        "class level rounds"
+      ]
+    },
+    {
+      "id": "sleepless_detective_reconstruction_su",
+      "title": "Reconstruction (Su) (Sleepless Detective)",
+      "anchor_heading": "#### Reconstruction (Su) {#reconstruction_su}",
+      "description": "Once per day, examines area or item for 10 minutes to view past 24 hours of events within 60 feet as if scrying was present.",
+      "keywords": [
+        "reconstruction",
+        "once per day",
+        "10 minute examination",
+        "past 24 hours",
+        "scrying sensor",
+        "60 feet",
+        "mental reconstruction",
+        "arcane sight",
+        "true seeing",
+        "magical investigation"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,134 @@
+{
+  "file": "genie-binder.md",
+  "source_path": "https://www.d20pfsrd.com/classes/prestige-classes/other-paizo/e-h/genie-binder/",
+  "source_name": "Prestige Class: Genie Binder",
+  "category": "Classes",
+  "toc_content": "Contents\n* [Requirements](#requirements)\n* [Class Skills](#class_skills)\n* [Class Features](#class_features)\n  + [Weapon and Armor Proficiency](#weapon_and_armor_proficiency)\n  + [Binding Pool (Su)](#binding_pool_su)\n  + [Elemental Seal (Sp)](#elemental_seal_sp)\n  + [Genie Mastery (Su)](#genie_mastery_su)\n  + [Genie Summoner (Su)](#genie_summoner_su)\n  + [Extra Seal (Su)](#extra_seal_su)\n  + [Unstoppable Seal (Su)](#unstoppable_seal_su)",
+  "sections": [
+    {
+      "id": "genie_binder_overview",
+      "title": "Genie Binder (Class Overview)",
+      "anchor_heading": "# Genie Binder",
+      "end_at_heading": "### Requirements {#requirements}",
+      "description": "Overview of the Genie Binder class including role, alignment, hit die, and starting wealth.",
+      "keywords": [
+        "genie binder",
+        "class",
+        "hit die",
+        "role",
+        "alignment"
+      ]
+    },
+    {
+      "id": "genie_binder_weapon_and_armor_proficiency",
+      "title": "Weapon and Armor Proficiency (Genie Binder)",
+      "anchor_heading": "#### Weapon and Armor Proficiency {#weapon_and_armor_proficiency}",
+      "description": "Genie binders gain no additional weapon or armor proficiencies beyond their base class.",
+      "keywords": [
+        "weapon proficiency",
+        "armor proficiency",
+        "no additional proficiencies",
+        "genie binder proficiencies"
+      ]
+    },
+    {
+      "id": "genie_binder_binding_pool_su",
+      "title": "Binding Pool (Su) (Genie Binder)",
+      "anchor_heading": "#### Binding Pool (Su) {#binding_pool_su}",
+      "description": "A supernatural resource pool equal to twice class level that recharges daily, used to enhance Charisma checks against genies and power other class features.",
+      "keywords": [
+        "binding pool",
+        "supernatural",
+        "free action",
+        "Charisma check",
+        "genie interaction",
+        "1d6 bonus",
+        "daily recharge",
+        "class resource"
+      ]
+    },
+    {
+      "id": "genie_binder_elemental_seal_sp",
+      "title": "Elemental Seal (Sp) (Genie Binder)",
+      "anchor_heading": "#### Elemental Seal (Sp) {#elemental_seal_sp}",
+      "description": "A spell-like ability to create magical runes that charm genies, grant elemental benefits to allies, or function as explosive glyphs when placed on surfaces.",
+      "keywords": [
+        "elemental seal",
+        "spell-like ability",
+        "standard action",
+        "melee touch attack",
+        "air seal",
+        "earth seal",
+        "fire seal",
+        "water seal",
+        "charm monster",
+        "energy resistance",
+        "glyph of warding",
+        "24 hour duration",
+        "writing-based magical effect"
+      ]
+    },
+    {
+      "id": "genie_binder_genie_mastery_su",
+      "title": "Genie Mastery (Su) (Genie Binder)",
+      "anchor_heading": "#### Genie Mastery (Su) {#genie_mastery_su}",
+      "description": "At 1st level, choose between gaining a genie eidolon companion or advancing spellcasting progression from a previous class.",
+      "keywords": [
+        "genie mastery",
+        "eidolon",
+        "genie subtype",
+        "summoner level",
+        "spellcasting progression",
+        "spells per day",
+        "aligned spellcasting",
+        "prestige class advancement"
+      ]
+    },
+    {
+      "id": "genie_binder_genie_summoner_su",
+      "title": "Genie Summoner (Su) (Genie Binder)",
+      "anchor_heading": "#### Genie Summoner (Su) {#genie_summoner_su}",
+      "description": "Adds specific genies to summon monster spell lists, requiring binding pool expenditure and preventing summoned genies from casting wish.",
+      "keywords": [
+        "genie summoner",
+        "summon monster",
+        "djinni",
+        "efreeti",
+        "shaitan",
+        "marid",
+        "summon monster V",
+        "summon monster VI",
+        "summon monster VII",
+        "binding pool cost",
+        "wish restriction"
+      ]
+    },
+    {
+      "id": "genie_binder_extra_seal_su",
+      "title": "Extra Seal (Su) (Genie Binder)",
+      "anchor_heading": "#### Extra Seal (Su) {#extra_seal_su}",
+      "description": "Increases the number of elemental seals that can be maintained simultaneously from one to two at 3rd level, and three at 5th level.",
+      "keywords": [
+        "extra seal",
+        "multiple seals",
+        "simultaneous seals",
+        "seal limit",
+        "maintain seals"
+      ]
+    },
+    {
+      "id": "genie_binder_unstoppable_seal_su",
+      "title": "Unstoppable Seal (Su) (Genie Binder)",
+      "anchor_heading": "#### Unstoppable Seal (Su) {#unstoppable_seal_su}",
+      "description": "At 5th level, spend a binding pool point when placing an elemental seal on a genie to increase the save DC by 2.",
+      "keywords": [
+        "unstoppable seal",
+        "save DC increase",
+        "binding pool cost",
+        "elemental seal enhancement",
+        "genie targeting",
+        "+2 DC bonus"
+      ]
+    }
+  ]
+}

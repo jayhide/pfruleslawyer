@@ -1,0 +1,190 @@
+{
+  "file": "sun-seeker.md",
+  "source_path": "https://www.d20pfsrd.com/classes/prestige-classes/other-paizo/s-z/sun-seeker/",
+  "source_name": "Prestige Class: Sun Seeker",
+  "category": "Classes",
+  "toc_content": "Contents\n* [Requirements](#requirements)\n* [Class Skills](#class_skills)\n* [Class Features](#class_features)\n  + [Weapon and Armor Proficiency](#weapon_and_armor_proficiency)\n  + [Ancestral Weapon (Su)](#ancestral_weapon_su)\n  + [Find Citadel (Sp)](#find_citadel_sp)\n  + [Rune-Carved Armor (Su)](#rune-carved_armor_su)\n  + [Commune (Sp)](#commune_sp)\n  + [Dwarven Armor Training (Ex)](#dwarven_armor_training_ex)\n  + [Darkvision (Ex)](#darkvision_ex)\n  + [Runes of Resistance (Su)](#runes_of_resistance_su)\n  + [Paths of the Ancients (Ex)](#paths_of_the_ancients_ex)\n  + [Stalwart (Ex)](#stalwart_ex)\n  + [Call to Arms (Sp)](#call_to_arms_sp)",
+  "sections": [
+    {
+      "id": "sun_seeker_overview",
+      "title": "Sun Seeker (Class Overview)",
+      "anchor_heading": "# Sun Seeker",
+      "end_at_heading": "### Requirements {#requirements}",
+      "description": "Overview of the Sun Seeker class including role, alignment, hit die, and starting wealth.",
+      "keywords": [
+        "sun seeker",
+        "class",
+        "hit die",
+        "role",
+        "alignment"
+      ]
+    },
+    {
+      "id": "sun_seeker_weapon_and_armor_proficiency",
+      "title": "Weapon and Armor Proficiency (Sun Seeker)",
+      "anchor_heading": "#### Weapon and Armor Proficiency {#weapon_and_armor_proficiency}",
+      "description": "Grants proficiency with all simple and martial weapons, light and medium armor, and all shields including tower shields.",
+      "keywords": [
+        "weapon proficiency",
+        "armor proficiency",
+        "simple weapons",
+        "martial weapons",
+        "light armor",
+        "medium armor",
+        "shields",
+        "tower shields"
+      ]
+    },
+    {
+      "id": "sun_seeker_ancestral_weapon_su",
+      "title": "Ancestral Weapon (Su) (Sun Seeker)",
+      "anchor_heading": "#### Ancestral Weapon (Su) {#ancestral_weapon_su}",
+      "description": "Inscribes dwarven runes on a weapon to deal extra damage against giants, goblins, and orcs, and provides Intimidate bonuses against these creatures.",
+      "keywords": [
+        "ancestral weapon",
+        "dwarven runes",
+        "giant subtype",
+        "goblin subtype",
+        "orc subtype",
+        "extra damage",
+        "intimidate bonus",
+        "competence bonus",
+        "24-hour ritual",
+        "free action"
+      ]
+    },
+    {
+      "id": "sun_seeker_find_citadel_sp",
+      "title": "Find Citadel (Sp) (Sun Seeker)",
+      "anchor_heading": "#### Find Citadel (Sp) {#find_citadel_sp}",
+      "description": "Determines the direction to the nearest known dwarven citadel at will, functioning like the know direction spell.",
+      "keywords": [
+        "find citadel",
+        "know direction",
+        "dwarven citadel",
+        "at will",
+        "spell-like ability",
+        "direction"
+      ]
+    },
+    {
+      "id": "sun_seeker_rune-carved_armor_su",
+      "title": "Rune-Carved Armor (Su) (Sun Seeker)",
+      "anchor_heading": "#### Rune-Carved Armor (Su) {#rune-carved_armor_su}",
+      "description": "Provides a deflection bonus to touch AC against spells and spell-like abilities equal to armor bonus, capped by class level.",
+      "keywords": [
+        "rune-carved armor",
+        "deflection bonus",
+        "touch AC",
+        "spells",
+        "spell-like abilities",
+        "armor bonus",
+        "magical resistance"
+      ]
+    },
+    {
+      "id": "sun_seeker_commune_sp",
+      "title": "Commune (Sp) (Sun Seeker)",
+      "anchor_heading": "#### Commune (Sp) {#commune_sp}",
+      "description": "Allows the use of commune spell once per week as a spell-like ability to contact ancestral spirits.",
+      "keywords": [
+        "commune",
+        "spell-like ability",
+        "once per week",
+        "ancestral spirits",
+        "caster level"
+      ]
+    },
+    {
+      "id": "sun_seeker_dwarven_armor_training_ex",
+      "title": "Dwarven Armor Training ([Ex](https://www.d20pfsrd.com/magic#TOC-Extraordinary-Abilities-Ex-)) (Sun Seeker)",
+      "anchor_heading": "#### Dwarven Armor Training ([Ex](https://www.d20pfsrd.com/magic#TOC-Extraordinary-Abilities-Ex-)) {#dwarven_armor_training_ex}",
+      "description": "Grants heavy armor proficiency and allows ranger combat style benefits while wearing heavy armor.",
+      "keywords": [
+        "dwarven armor training",
+        "heavy armor proficiency",
+        "ranger combat style",
+        "heavy armor",
+        "combat style"
+      ]
+    },
+    {
+      "id": "sun_seeker_darkvision_ex",
+      "title": "Darkvision ([Ex](https://www.d20pfsrd.com/magic#TOC-Extraordinary-Abilities-Ex-)) (Sun Seeker)",
+      "anchor_heading": "#### Darkvision ([Ex](https://www.d20pfsrd.com/magic#TOC-Extraordinary-Abilities-Ex-)) {#darkvision_ex}",
+      "description": "Grants darkvision with 60-foot range, or increases existing darkvision range by 30 feet, with additional improvements at 7th level.",
+      "keywords": [
+        "darkvision",
+        "60 feet",
+        "range increase",
+        "30 feet",
+        "lightless depths",
+        "underground vision"
+      ]
+    },
+    {
+      "id": "sun_seeker_runes_of_resistance_su",
+      "title": "Runes of Resistance (Su) (Sun Seeker)",
+      "anchor_heading": "#### Runes of Resistance (Su) {#runes_of_resistance_su}",
+      "description": "Activates as a move action to gain spell resistance based on armor type for a limited number of rounds per day.",
+      "keywords": [
+        "runes of resistance",
+        "spell resistance",
+        "move action",
+        "swift action",
+        "light armor",
+        "medium armor",
+        "heavy armor",
+        "rounds per day"
+      ]
+    },
+    {
+      "id": "sun_seeker_paths_of_the_ancients_ex",
+      "title": "Paths of the Ancients ([Ex](https://www.d20pfsrd.com/magic#TOC-Extraordinary-Abilities-Ex-)) (Sun Seeker)",
+      "anchor_heading": "#### Paths of the Ancients ([Ex](https://www.d20pfsrd.com/magic#TOC-Extraordinary-Abilities-Ex-)) {#paths_of_the_ancients_ex}",
+      "description": "Grants immunity to maze spells and prevents becoming lost in subterranean environments.",
+      "keywords": [
+        "paths of the ancients",
+        "maze immunity",
+        "subterranean",
+        "cannot become lost",
+        "underground navigation",
+        "maze spell"
+      ]
+    },
+    {
+      "id": "sun_seeker_stalwart_ex",
+      "title": "Stalwart ([Ex](https://www.d20pfsrd.com/magic#TOC-Extraordinary-Abilities-Ex-)) (Sun Seeker)",
+      "anchor_heading": "#### Stalwart ([Ex](https://www.d20pfsrd.com/magic#TOC-Extraordinary-Abilities-Ex-)) {#stalwart_ex}",
+      "description": "Avoids effects entirely on successful Fortitude or Will saves when wearing light/medium armor or no armor.",
+      "keywords": [
+        "stalwart",
+        "fortitude save",
+        "will save",
+        "reduced effect",
+        "avoid effect entirely",
+        "light armor",
+        "medium armor",
+        "helpless"
+      ]
+    },
+    {
+      "id": "sun_seeker_call_to_arms_sp",
+      "title": "Call to Arms (Sp) (Sun Seeker)",
+      "anchor_heading": "#### Call to Arms (Sp) {#call_to_arms_sp}",
+      "description": "Summons 1d4+1 ghostly dwarven allies once per day as a full-round action, functioning like spiritual ally with shared bonuses.",
+      "keywords": [
+        "call to arms",
+        "summon",
+        "ghostly dwarven allies",
+        "spiritual ally",
+        "full-round action",
+        "once per day",
+        "favored enemy",
+        "favored terrain",
+        "swift action",
+        "move action"
+      ]
+    }
+  ]
+}

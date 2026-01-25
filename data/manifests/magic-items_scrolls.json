@@ -1,0 +1,25 @@
+{
+  "file": "scrolls.md",
+  "source_path": "https://www.d20pfsrd.com/magic-items/scrolls/",
+  "sections": [
+    {
+      "id": "scrolls_complete",
+      "title": "Scrolls",
+      "anchor_heading": "# Scrolls",
+      "description": "Complete rules for scrolls including creation costs, physical properties, activation requirements, mishaps, and pricing tables for all spell levels and caster classes",
+      "keywords": [
+        "scroll",
+        "scroll activation",
+        "scroll mishaps",
+        "caster level check",
+        "decipher",
+        "spellcraft",
+        "read magic",
+        "arcane spell failure",
+        "scroll costs"
+      ]
+    }
+  ],
+  "source_name": "",
+  "category": "Core Rules"
+}

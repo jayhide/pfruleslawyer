@@ -1,0 +1,221 @@
+{
+  "file": "rage-prophet.md",
+  "source_path": "https://www.d20pfsrd.com/classes/prestige-classes/apg/rage-prophet/",
+  "source_name": "Prestige Class: Rage Prophet",
+  "category": "Classes",
+  "toc_content": "Contents\n* [Requirements](#requirements)\n* [Class Skills](#class_skills)\n* [Class Features](#class_features)\n  + [Weapon and Armor Proficiency](#weapon_and_armor_proficiency)\n  + [Spells per Day](#spells_per_day)\n  + [Savage Seer](#savage_seer)\n  + [Spirit Guide (Sp)](#spirit_guide_sp)\n  + [Rage Prophet Mystery](#rage_prophet_mystery)\n  + [Raging Healer (Su)](#raging_healer_su)\n  + [Indomitable Caster (Ex)](#indomitable_caster_ex)\n  + [Ragecaster (Su)](#ragecaster_su)\n  + [Spirit Guardian (Sp)](#spirit_guardian_sp)\n  + [Enduring Rage (Su)](#enduring_rage_su)\n  + [Raging Spellstrength (Su)](#raging_spellstrength_su)\n  + [Spirit Warrior (Su)](#spirit_warrior_su)\n  + [Greater Rage (Ex)](#greater_rage_ex)",
+  "sections": [
+    {
+      "id": "rage_prophet_overview",
+      "title": "Rage Prophet (Class Overview)",
+      "anchor_heading": "# Rage Prophet",
+      "end_at_heading": "### Requirements {#requirements}",
+      "description": "Overview of the Rage Prophet class including role, alignment, hit die, and starting wealth.",
+      "keywords": [
+        "rage prophet",
+        "class",
+        "hit die",
+        "role",
+        "alignment"
+      ]
+    },
+    {
+      "id": "rage_prophet_weapon_and_armor_proficiency",
+      "title": "Weapon and Armor Proficiency (Rage Prophet)",
+      "anchor_heading": "#### Weapon and Armor Proficiency {#weapon_and_armor_proficiency}",
+      "description": "Rage prophets gain no proficiency with any weapon or armor.",
+      "keywords": [
+        "weapon proficiency",
+        "armor proficiency",
+        "no proficiency",
+        "rage prophet proficiencies"
+      ]
+    },
+    {
+      "id": "rage_prophet_spells_per_day",
+      "title": "Spells per Day (Rage Prophet)",
+      "anchor_heading": "#### Spells per Day {#spells_per_day}",
+      "description": "At indicated levels, a rage prophet gains new spells per day as if gaining a level in a previous divine spellcasting class, but gains no other class benefits.",
+      "keywords": [
+        "spells per day",
+        "divine spellcasting",
+        "prestige class spellcasting",
+        "caster level progression",
+        "spells known",
+        "spontaneous caster"
+      ]
+    },
+    {
+      "id": "rage_prophet_savage_seer",
+      "title": "Savage Seer (Rage Prophet)",
+      "anchor_heading": "#### Savage Seer {#savage_seer}",
+      "description": "Rage prophet class levels stack with barbarian levels for determining the effect of rage powers, oracle revelations, and oracle curses, but grant no additional abilities.",
+      "keywords": [
+        "savage seer",
+        "class level stacking",
+        "rage powers",
+        "oracle revelations",
+        "oracle curse",
+        "barbarian levels"
+      ]
+    },
+    {
+      "id": "rage_prophet_spirit_guide_sp",
+      "title": "Spirit Guide (Sp) (Rage Prophet)",
+      "anchor_heading": "#### Spirit Guide (Sp) {#spirit_guide_sp}",
+      "description": "The rage prophet gains a spirit guide that provides guidance spell benefits during rage and grants dancing lights, ghost sound, and mage hand as spell-like abilities once per day.",
+      "keywords": [
+        "spirit guide",
+        "guidance spell",
+        "dancing lights",
+        "ghost sound",
+        "mage hand",
+        "spell-like abilities",
+        "charisma-based DC",
+        "rage benefits"
+      ]
+    },
+    {
+      "id": "rage_prophet_rage_prophet_mystery",
+      "title": "Rage Prophet Mystery (Rage Prophet)",
+      "anchor_heading": "#### Rage Prophet Mystery {#rage_prophet_mystery}",
+      "description": "At 2nd level and every even level, the rage prophet learns additional spells from a specific list provided by their spirit guide, treating them as oracle spells.",
+      "keywords": [
+        "rage prophet mystery",
+        "additional spells",
+        "spirit guide spells",
+        "oracle spells known",
+        "mystery spells",
+        "arcane eye",
+        "augury",
+        "divination",
+        "dream",
+        "find the path",
+        "helping hand",
+        "see invisibility",
+        "shadow walk",
+        "speak with dead",
+        "spectral hand",
+        "spiritual weapon",
+        "unseen servant",
+        "vision",
+        "whispering wind"
+      ]
+    },
+    {
+      "id": "rage_prophet_raging_healer_su",
+      "title": "Raging Healer (Su) (Rage Prophet)",
+      "anchor_heading": "#### Raging Healer (Su) {#raging_healer_su}",
+      "description": "At 2nd level, the rage prophet can cast cure spells on himself while raging without needing to use clarity of mind.",
+      "keywords": [
+        "raging healer",
+        "cure spells",
+        "casting while raging",
+        "clarity of mind",
+        "healing during rage"
+      ]
+    },
+    {
+      "id": "rage_prophet_indomitable_caster_ex",
+      "title": "Indomitable Caster (Ex) (Rage Prophet)",
+      "anchor_heading": "#### Indomitable Caster (Ex) {#indomitable_caster_ex}",
+      "description": "At 3rd level, the rage prophet adds his Constitution bonus to concentration checks.",
+      "keywords": [
+        "indomitable caster",
+        "constitution bonus",
+        "concentration checks",
+        "spellcasting concentration"
+      ]
+    },
+    {
+      "id": "rage_prophet_ragecaster_su",
+      "title": "Ragecaster (Su) (Rage Prophet)",
+      "anchor_heading": "#### Ragecaster (Su) {#ragecaster_su}",
+      "description": "Starting at 4th level, the rage prophet adds barbarian level to caster level when using moment of clarity, and at 7th level adds Constitution bonus to spell save DCs while raging.",
+      "keywords": [
+        "ragecaster",
+        "moment of clarity",
+        "barbarian level",
+        "caster level",
+        "constitution bonus",
+        "spell save DC",
+        "casting while raging"
+      ]
+    },
+    {
+      "id": "rage_prophet_spirit_guardian_sp",
+      "title": "Spirit Guardian (Sp) (Rage Prophet)",
+      "anchor_heading": "#### Spirit Guardian (Sp) {#spirit_guardian_sp}",
+      "description": "At 5th level, the spirit guide's guidance bonus increases to half class level against certain creature types, and the rage prophet can spend rage rounds to grant ghost touch to weapons and armor.",
+      "keywords": [
+        "spirit guardian",
+        "guidance bonus",
+        "fey",
+        "outsider",
+        "undead",
+        "incorporeal creature",
+        "ghost touch",
+        "swift action",
+        "spend rage rounds"
+      ]
+    },
+    {
+      "id": "rage_prophet_enduring_rage_su",
+      "title": "Enduring Rage (Su) (Rage Prophet)",
+      "anchor_heading": "#### Enduring Rage (Su) {#enduring_rage_su}",
+      "description": "At 6th level, the rage prophet can sacrifice spell slots as a free action to extend rage duration by rounds equal to the spell slot level.",
+      "keywords": [
+        "enduring rage",
+        "extend rage duration",
+        "sacrifice spell slot",
+        "free action",
+        "rage rounds"
+      ]
+    },
+    {
+      "id": "rage_prophet_raging_spellstrength_su",
+      "title": "Raging Spellstrength (Su) (Rage Prophet)",
+      "anchor_heading": "#### Raging Spellstrength (Su) {#raging_spellstrength_su}",
+      "description": "At 8th level, the rage prophet can cast spells with personal range on himself while raging without needing clarity of mind.",
+      "keywords": [
+        "raging spellstrength",
+        "personal range spells",
+        "casting while raging",
+        "clarity of mind",
+        "self-targeting spells"
+      ]
+    },
+    {
+      "id": "rage_prophet_spirit_warrior_su",
+      "title": "Spirit Warrior (Su) (Rage Prophet)",
+      "anchor_heading": "#### Spirit Warrior (Su) {#spirit_warrior_su}",
+      "description": "At 9th level, the guidance bonus increases to full class level against certain creature types, and granting ghost touch becomes an immediate action.",
+      "keywords": [
+        "spirit warrior",
+        "guidance bonus",
+        "class level",
+        "fey",
+        "outsider",
+        "undead",
+        "incorporeal creature",
+        "ghost touch",
+        "immediate action"
+      ]
+    },
+    {
+      "id": "rage_prophet_greater_rage_ex",
+      "title": "Greater Rage (Ex) (Rage Prophet)",
+      "anchor_heading": "#### Greater Rage (Ex) {#greater_rage_ex}",
+      "description": "At 10th level, the rage prophet's rage provides +6 morale bonus to Strength and Constitution and +3 morale bonus on Will saves.",
+      "keywords": [
+        "greater rage",
+        "morale bonus",
+        "strength bonus",
+        "constitution bonus",
+        "will save bonus",
+        "+6 bonus",
+        "+3 bonus"
+      ]
+    }
+  ]
+}

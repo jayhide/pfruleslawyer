@@ -1,0 +1,99 @@
+{
+  "file": "eldritch-knight.md",
+  "source_path": "https://www.d20pfsrd.com/classes/prestige-classes/core-rulebook/eldritch-knight/",
+  "source_name": "Prestige Class: Eldritch Knight",
+  "category": "Classes",
+  "toc_content": "Contents\n* [Requirements](#requirements)\n* [Class Skills](#class_skills)\n* [Class Features](#class_features)\n  + [Weapon and Armor Proficiency](#weapon_and_armor_proficiency)\n  + [Bonus Feat](#bonus_feat)\n  + [Diverse Training](#diverse_training)\n  + [Spells per Day](#spells_per_day)\n  + [Spell Critical (Su)](#spell_critical_su)",
+  "sections": [
+    {
+      "id": "eldritch_knight_overview",
+      "title": "Eldritch Knight (Class Overview)",
+      "anchor_heading": "# Eldritch Knight",
+      "end_at_heading": "### Requirements {#requirements}",
+      "description": "Overview of the Eldritch Knight class including role, alignment, hit die, and starting wealth.",
+      "keywords": [
+        "eldritch knight",
+        "class",
+        "hit die",
+        "role",
+        "alignment"
+      ]
+    },
+    {
+      "id": "eldritch_knight_weapon_and_armor_proficiency",
+      "title": "Weapon and Armor Proficiency (Eldritch Knight)",
+      "anchor_heading": "#### Weapon and Armor Proficiency {#weapon_and_armor_proficiency}",
+      "description": "Eldritch knights gain no proficiency with any weapon or armor when taking levels in this prestige class.",
+      "keywords": [
+        "weapon proficiency",
+        "armor proficiency",
+        "no proficiency",
+        "eldritch knight proficiency",
+        "prestige class proficiency"
+      ]
+    },
+    {
+      "id": "eldritch_knight_bonus_feat",
+      "title": "Bonus Feat (Eldritch Knight)",
+      "anchor_heading": "#### Bonus Feat {#bonus_feat}",
+      "description": "Eldritch knights gain bonus combat feats at 1st, 5th, and 9th level, still requiring prerequisites to be met.",
+      "keywords": [
+        "bonus feat",
+        "combat feat",
+        "eldritch knight feat",
+        "prerequisites",
+        "bonus combat feat",
+        "1st level",
+        "5th level",
+        "9th level"
+      ]
+    },
+    {
+      "id": "eldritch_knight_diverse_training",
+      "title": "Diverse Training (Eldritch Knight)",
+      "anchor_heading": "#### Diverse Training {#diverse_training}",
+      "description": "Eldritch knight levels count as fighter levels and arcane spellcasting class levels for the purpose of meeting feat prerequisites.",
+      "keywords": [
+        "diverse training",
+        "feat prerequisites",
+        "fighter levels",
+        "arcane spellcasting class",
+        "level stacking",
+        "prerequisite calculation"
+      ]
+    },
+    {
+      "id": "eldritch_knight_spells_per_day",
+      "title": "Spells per Day (Eldritch Knight)",
+      "anchor_heading": "#### Spells per Day {#spells_per_day}",
+      "description": "At indicated levels, eldritch knights advance spellcasting progression of a previous arcane class, gaining spells per day, spells known, and caster level increases.",
+      "keywords": [
+        "spells per day",
+        "spellcasting progression",
+        "arcane spellcasting",
+        "caster level",
+        "spells known",
+        "spontaneous spellcaster",
+        "spellbook",
+        "prestige class spellcasting"
+      ]
+    },
+    {
+      "id": "eldritch_knight_spell_critical_su",
+      "title": "Spell Critical (Su) (Eldritch Knight)",
+      "anchor_heading": "#### Spell Critical (Su) {#spell_critical_su}",
+      "description": "At 10th level, when confirming a critical hit, the eldritch knight can cast a spell as a swift action targeting the attack's target without provoking attacks of opportunity.",
+      "keywords": [
+        "spell critical",
+        "critical hit",
+        "swift action",
+        "spell casting",
+        "attack of opportunity",
+        "spell components",
+        "arcane spell failure",
+        "10th level",
+        "target"
+      ]
+    }
+  ]
+}

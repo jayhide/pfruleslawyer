@@ -1,0 +1,166 @@
+{
+  "file": "umbral-agent.md",
+  "source_path": "https://www.d20pfsrd.com/classes/prestige-classes/other-paizo/s-z/umbral-agent/",
+  "source_name": "Prestige Class: Umbral Agent",
+  "category": "Classes",
+  "toc_content": "Contents\n* [Requirements](#requirements)\n* [Class Skills](#class_skills)\n* [Class Features](#class_features)\n  + [Weapon and Armor Proficiency](#weapon_and_armor_proficiency)\n  + [Blessings of Darkness](#blessings_of_darkness)\n  + [Tenebrous Magic](#tenebrous_magic)\n  + [Umbral Courtier (Ex)](#umbral_courtier_ex)\n  + [Darkvision (Ex)](#darkvision_ex)\n  + [Shadow Chains (Sp)](#shadow_chains_sp)\n  + [Shadow Jump (Su)](#shadow_jump_su)\n  + [Unnerving Gaze (Su)](#unnerving_gaze_su)\n  + [Grasping Darkness (Sp)](#grasping_darkness_sp)\n  + [Crushing Umbra (Sp)](#crushing_umbra_sp)",
+  "sections": [
+    {
+      "id": "umbral_agent_overview",
+      "title": "Umbral Agent (Class Overview)",
+      "anchor_heading": "# Umbral Agent",
+      "end_at_heading": "### Requirements {#requirements}",
+      "description": "Overview of the Umbral Agent class including role, alignment, hit die, and starting wealth.",
+      "keywords": [
+        "umbral agent",
+        "class",
+        "hit die",
+        "role",
+        "alignment"
+      ]
+    },
+    {
+      "id": "umbral_agent_weapon_and_armor_proficiency",
+      "title": "Weapon and Armor Proficiency (Umbral Agent)",
+      "anchor_heading": "#### Weapon and Armor Proficiency {#weapon_and_armor_proficiency}",
+      "description": "Grants proficiency with the spiked chain weapon.",
+      "keywords": [
+        "weapon proficiency",
+        "spiked chain",
+        "proficiency"
+      ]
+    },
+    {
+      "id": "umbral_agent_blessings_of_darkness",
+      "title": "Blessings of Darkness (Umbral Agent)",
+      "anchor_heading": "#### Blessings of Darkness {#blessings_of_darkness}",
+      "description": "Grants the Darkness domain using class level as effective cleric level for domain powers, but without bonus spells or domain spell slots.",
+      "keywords": [
+        "Darkness domain",
+        "domain powers",
+        "effective cleric level",
+        "domain spell slots",
+        "bonus spells",
+        "stacking levels"
+      ]
+    },
+    {
+      "id": "umbral_agent_tenebrous_magic",
+      "title": "Tenebrous Magic (Umbral Agent)",
+      "anchor_heading": "#### Tenebrous Magic {#tenebrous_magic}",
+      "description": "Grants Tenebrous Spell as a bonus feat without increasing spell level or casting time, and provides enhanced bonuses for darkness, shadow, and illusion (shadow) spells.",
+      "keywords": [
+        "Tenebrous Spell",
+        "metamagic",
+        "darkness descriptor",
+        "shadow descriptor",
+        "illusion shadow subschool",
+        "caster level",
+        "save DC",
+        "dispel check",
+        "dim light"
+      ]
+    },
+    {
+      "id": "umbral_agent_umbral_courtier_ex",
+      "title": "Umbral Courtier ([Ex](https://www.d20pfsrd.com/magic#TOC-Extraordinary-Abilities-Ex-)) (Umbral Agent)",
+      "anchor_heading": "#### Umbral Courtier ([Ex](https://www.d20pfsrd.com/magic#TOC-Extraordinary-Abilities-Ex-)) {#umbral_courtier_ex}",
+      "description": "Provides a competence bonus equal to class level on Bluff, Diplomacy, and Knowledge (nobility) checks.",
+      "keywords": [
+        "competence bonus",
+        "Bluff",
+        "Diplomacy",
+        "Knowledge nobility",
+        "class level bonus"
+      ]
+    },
+    {
+      "id": "umbral_agent_darkvision_ex",
+      "title": "Darkvision ([Ex](https://www.d20pfsrd.com/magic#TOC-Extraordinary-Abilities-Ex-)) (Umbral Agent)",
+      "anchor_heading": "#### Darkvision ([Ex](https://www.d20pfsrd.com/magic#TOC-Extraordinary-Abilities-Ex-)) {#darkvision_ex}",
+      "description": "Grants darkvision with 60-foot range at 2nd level, extending existing darkvision by 30 feet, with additional range increases at 7th level.",
+      "keywords": [
+        "darkvision",
+        "vision range",
+        "60 feet",
+        "30 feet increase",
+        "stacking darkvision"
+      ]
+    },
+    {
+      "id": "umbral_agent_shadow_chains_sp",
+      "title": "Shadow Chains (Sp) (Umbral Agent)",
+      "anchor_heading": "#### Shadow Chains (Sp) {#shadow_chains_sp}",
+      "description": "Enhances touch of darkness with additional daily use, 5-foot reach extension via shadowy chains, and potential entanglement on failed Reflex save.",
+      "keywords": [
+        "touch of darkness",
+        "shadow chains",
+        "reach extension",
+        "melee touch attack",
+        "entangled condition",
+        "Reflex save"
+      ]
+    },
+    {
+      "id": "umbral_agent_shadow_jump_su",
+      "title": "Shadow Jump (Su) (Umbral Agent)",
+      "anchor_heading": "#### Shadow Jump (Su) {#shadow_jump_su}",
+      "description": "Grants the supernatural ability to travel between shadows, functioning identically to the shadowdancer ability.",
+      "keywords": [
+        "shadow jump",
+        "shadowdancer",
+        "supernatural travel",
+        "teleportation",
+        "shadows"
+      ]
+    },
+    {
+      "id": "umbral_agent_unnerving_gaze_su",
+      "title": "Unnerving Gaze (Su) (Umbral Agent)",
+      "anchor_heading": "#### Unnerving Gaze (Su) {#unnerving_gaze_su}",
+      "description": "Provides a gaze attack that causes shaken condition within 30 feet, with increasing potency at higher levels and immunity to kyton unnerving gaze.",
+      "keywords": [
+        "unnerving gaze",
+        "gaze attack",
+        "shaken condition",
+        "kyton immunity",
+        "Will save",
+        "mind-affecting",
+        "fear effect",
+        "swift action",
+        "staggered condition"
+      ]
+    },
+    {
+      "id": "umbral_agent_grasping_darkness_sp",
+      "title": "Grasping Darkness (Sp) (Umbral Agent)",
+      "anchor_heading": "#### Grasping Darkness (Sp) {#grasping_darkness_sp}",
+      "description": "Enhances shadow chains with additional daily use, extended reach, and grappling ability using Wisdom modifier for CMB with bonuses in dim light.",
+      "keywords": [
+        "grasping darkness",
+        "grapple attempt",
+        "CMB",
+        "Wisdom modifier",
+        "dim light bonus",
+        "grappled condition",
+        "combat maneuver"
+      ]
+    },
+    {
+      "id": "umbral_agent_crushing_umbra_sp",
+      "title": "Crushing Umbra (Sp) (Umbral Agent)",
+      "anchor_heading": "#### Crushing Umbra (Sp) {#crushing_umbra_sp}",
+      "description": "Allows at-will use of touch of darkness with maximum reach extension, and adds constriction damage plus strangling effects to grappled targets.",
+      "keywords": [
+        "crushing umbra",
+        "at-will",
+        "constriction",
+        "strangling",
+        "5d6 damage",
+        "verbal components",
+        "free action",
+        "20 foot reach"
+      ]
+    }
+  ]
+}

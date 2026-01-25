@@ -1,0 +1,201 @@
+{
+  "file": "exalted.md",
+  "source_path": "https://www.d20pfsrd.com/classes/prestige-classes/other-paizo/e-h/exalted/",
+  "source_name": "Prestige Class: Exalted",
+  "category": "Classes",
+  "toc_content": "Contents\n* [Requirements](#requirements)\n* [Alternate Requirements:](#alternate_requirements)\n* [Class Skills](#class_skills)\n* [Class Features](#class_features)\n  + [Weapon and Armor Proficiency](#weapon_and_armor_proficiency)\n  + [Spells per Day/Spells Known](#spells_per_dayspells_known)\n  + [Divine Brand (Su)](#divine_brand_su)\n  + [Obedience (Ex)](#obedience_ex)\n  + [Scholar (Ex)](#scholar_ex)\n  + [Vitality (Su)](#vitality_su)\n  + [Divine Boon](#divine_boon)\n  + [Religious Speaker (Ex)](#religious_speaker_ex)\n  + [Expanded Portfolio (Su)](#expanded_portfolio_su)\n  + [Aspect of Divinity (Su)](#aspect_of_divinity_su)\n  + [Ardent Vision (Sp)](#ardent_vision_sp)\n  + [Perform Miracle (Su)](#perform_miracle_su)",
+  "sections": [
+    {
+      "id": "exalted_overview",
+      "title": "Exalted (Class Overview)",
+      "anchor_heading": "# Exalted",
+      "end_at_heading": "### Requirements {#requirements}",
+      "description": "Overview of the Exalted class including role, alignment, hit die, and starting wealth.",
+      "keywords": [
+        "exalted",
+        "class",
+        "hit die",
+        "role",
+        "alignment"
+      ]
+    },
+    {
+      "id": "exalted_weapon_and_armor_proficiency",
+      "title": "Weapon and Armor Proficiency (Exalted)",
+      "anchor_heading": "#### Weapon and Armor Proficiency {#weapon_and_armor_proficiency}",
+      "description": "Grants weapon proficiency with the exalted's chosen deity's favored weapon.",
+      "keywords": [
+        "weapon proficiency",
+        "deity favored weapon",
+        "favored weapon proficiency",
+        "divine weapon proficiency"
+      ]
+    },
+    {
+      "id": "exalted_spells_per_dayspells_known",
+      "title": "Spells per Day/Spells Known (Exalted)",
+      "anchor_heading": "#### Spells per Day/Spells Known {#spells_per_dayspells_known}",
+      "description": "Advances spellcasting in a previous divine spellcasting class, gaining spells per day, spells known, and increased caster level without other class benefits.",
+      "keywords": [
+        "spellcasting progression",
+        "spells per day",
+        "spells known",
+        "effective caster level",
+        "divine spellcasting",
+        "prestige class spellcasting",
+        "spontaneous spellcaster"
+      ]
+    },
+    {
+      "id": "exalted_divine_brand_su",
+      "title": "Divine Brand (Su) (Exalted)",
+      "anchor_heading": "#### Divine Brand (Su) {#divine_brand_su}",
+      "description": "A permanent mark representing the deity appears on the exalted's body and functions as a silver holy or unholy symbol when uncovered.",
+      "keywords": [
+        "divine brand",
+        "holy symbol",
+        "unholy symbol",
+        "silver holy symbol",
+        "deity mark",
+        "divine mark",
+        "supernatural ability"
+      ]
+    },
+    {
+      "id": "exalted_obedience_ex",
+      "title": "Obedience (Ex) (Exalted)",
+      "anchor_heading": "#### Obedience (Ex) {#obedience_ex}",
+      "description": "The exalted must perform daily obedience to her deity to maintain all abilities granted by the prestige class.",
+      "keywords": [
+        "daily obedience",
+        "deific obedience",
+        "maintain abilities",
+        "prestige class requirements",
+        "deity worship"
+      ]
+    },
+    {
+      "id": "exalted_scholar_ex",
+      "title": "Scholar (Ex) (Exalted)",
+      "anchor_heading": "#### Scholar (Ex) {#scholar_ex}",
+      "description": "Allows the exalted to add one Knowledge skill of her choice to her list of class skills.",
+      "keywords": [
+        "Knowledge skill",
+        "class skills",
+        "scholar",
+        "additional class skill",
+        "knowledge bonus"
+      ]
+    },
+    {
+      "id": "exalted_vitality_su",
+      "title": "Vitality (Su) (Exalted)",
+      "anchor_heading": "#### Vitality (Su) {#vitality_su}",
+      "description": "Provides a +2 sacred or profane bonus on Fortitude saves and Constitution checks to stabilize due to divine energy infusion.",
+      "keywords": [
+        "vitality",
+        "sacred bonus",
+        "profane bonus",
+        "Fortitude saves",
+        "Constitution checks",
+        "stabilize",
+        "divine energy",
+        "supernatural ability"
+      ]
+    },
+    {
+      "id": "exalted_divine_boon",
+      "title": "Divine Boon (Exalted)",
+      "anchor_heading": "#### Divine Boon {#divine_boon}",
+      "description": "Grants access to three progressive divine boons from the chosen deity at 3rd, 6th, and 9th levels, using character level as caster level for spell-like abilities.",
+      "keywords": [
+        "divine boon",
+        "deity boons",
+        "spell-like ability",
+        "Deific Obedience",
+        "character level",
+        "caster level",
+        "divine powers"
+      ]
+    },
+    {
+      "id": "exalted_religious_speaker_ex",
+      "title": "Religious Speaker (Ex) (Exalted)",
+      "anchor_heading": "#### Religious Speaker (Ex) {#religious_speaker_ex}",
+      "description": "Grants a +2 competence bonus on Bluff, Diplomacy, and Perform (oratory) checks while the divine brand is visible.",
+      "keywords": [
+        "religious speaker",
+        "competence bonus",
+        "Bluff",
+        "Diplomacy",
+        "Perform oratory",
+        "divine brand visible",
+        "social skills"
+      ]
+    },
+    {
+      "id": "exalted_expanded_portfolio_su",
+      "title": "Expanded Portfolio (Su) (Exalted)",
+      "anchor_heading": "#### Expanded Portfolio (Su) {#expanded_portfolio_su}",
+      "description": "Grants access to one domain of the chosen deity and allows daily use of domain spells as spell-like abilities with exalted level as caster level.",
+      "keywords": [
+        "expanded portfolio",
+        "domain access",
+        "domain spells",
+        "spell-like ability",
+        "cleric level",
+        "domain powers",
+        "supernatural ability"
+      ]
+    },
+    {
+      "id": "exalted_aspect_of_divinity_su",
+      "title": "Aspect of Divinity (Su) (Exalted)",
+      "anchor_heading": "#### Aspect of Divinity (Su) {#aspect_of_divinity_su}",
+      "description": "Grants physical divine traits and permanent protection from an opposed alignment with -4 penalty to Disguise checks.",
+      "keywords": [
+        "aspect of divinity",
+        "physical traits",
+        "protection from alignment",
+        "Disguise penalty",
+        "permanent protection",
+        "divine appearance",
+        "supernatural ability"
+      ]
+    },
+    {
+      "id": "exalted_ardent_vision_sp",
+      "title": "Ardent Vision (Sp) (Exalted)",
+      "anchor_heading": "#### Ardent Vision (Sp) {#ardent_vision_sp}",
+      "description": "Allows at-will casting of detect alignment spells against one chosen opposed alignment with character level as caster level.",
+      "keywords": [
+        "ardent vision",
+        "detect alignment",
+        "detect chaos",
+        "detect evil",
+        "detect good",
+        "detect law",
+        "at will",
+        "spell-like ability"
+      ]
+    },
+    {
+      "id": "exalted_perform_miracle_su",
+      "title": "Perform Miracle (Su) (Exalted)",
+      "anchor_heading": "#### Perform Miracle (Su) {#perform_miracle_su}",
+      "description": "Once per day, duplicates cleric spells up to 6th level, other spells up to 5th level, undoes harmful effects, or makes deity requests with material costs.",
+      "keywords": [
+        "perform miracle",
+        "duplicate spell",
+        "cleric spell",
+        "caster level check",
+        "miracle effect",
+        "deity request",
+        "material component",
+        "supernatural ability",
+        "feeblemind",
+        "insanity"
+      ]
+    }
+  ]
+}

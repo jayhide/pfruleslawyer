@@ -1,0 +1,69 @@
+{
+  "file": "vates-chronicler-archetype.md",
+  "source_path": "https://www.d20pfsrd.com/classes/prestige-classes/core-rulebook/chronicler/vates-chronicler-archetype/",
+  "source_name": "Prestige Class: Vates (Chronicler Archetype)",
+  "category": "Classes",
+  "toc_content": "Contents\n* [Requirement(s)](#requirements)\n* [Class Skills](#class_skills)\n  + [Spellcasting](#spellcasting)\n  + [Holy Narrator](#holy_narrator)\n  + [The Way to Follow (Ex)](#the_way_to_follow_ex)",
+  "sections": [
+    {
+      "id": "vates_chronicler_archetype_overview",
+      "title": "Vates (Chronicler Archetype) (Class Overview)",
+      "anchor_heading": "# Vates (Chronicler Archetype)",
+      "end_at_heading": "### Requirement(s) {#requirements}",
+      "description": "Overview of the Vates (Chronicler Archetype) class including role, alignment, hit die, and starting wealth.",
+      "keywords": [
+        "vates (chronicler archetype)",
+        "class",
+        "hit die",
+        "role",
+        "alignment"
+      ]
+    },
+    {
+      "id": "vates_chronicler_archetype_spellcasting",
+      "title": "Spellcasting (Vates (Chronicler Archetype))",
+      "anchor_heading": "#### Spellcasting {#spellcasting}",
+      "description": "At even-numbered levels, the vates advances spellcasting in a previous divine spellcasting class, gaining spells per day and known but no other class features.",
+      "keywords": [
+        "spellcasting progression",
+        "divine spellcasting",
+        "even-numbered levels",
+        "spells per day",
+        "spells known",
+        "spontaneous spellcaster",
+        "effective caster level",
+        "multiple divine classes"
+      ]
+    },
+    {
+      "id": "vates_chronicler_archetype_holy_narrator",
+      "title": "Holy Narrator (Vates (Chronicler Archetype))",
+      "anchor_heading": "#### Holy Narrator {#holy_narrator}",
+      "description": "Vates levels stack with oracle levels for revelation effects, and the vates can use Spellsong feat to cast oracle spells as if they were bard spells.",
+      "keywords": [
+        "holy narrator",
+        "oracle level stacking",
+        "revelations",
+        "Spellsong feat",
+        "oracle spells as bard spells",
+        "mystery spells",
+        "bardic casting"
+      ]
+    },
+    {
+      "id": "vates_chronicler_archetype_the_way_to_follow_ex",
+      "title": "The Way to Follow (Ex) (Vates (Chronicler Archetype))",
+      "anchor_heading": "#### The Way to Follow (Ex) {#the_way_to_follow_ex}",
+      "description": "When using Spellsong to cast mystery spells, the vates uses her character level as caster level for duration and effects.",
+      "keywords": [
+        "the way to follow",
+        "Spellsong mystery spells",
+        "character level as caster level",
+        "spell duration",
+        "spell effects",
+        "mystery spells",
+        "enhanced caster level"
+      ]
+    }
+  ]
+}

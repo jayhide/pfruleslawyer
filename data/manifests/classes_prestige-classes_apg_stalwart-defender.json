@@ -1,0 +1,171 @@
+{
+  "file": "stalwart-defender.md",
+  "source_path": "https://www.d20pfsrd.com/classes/prestige-classes/apg/stalwart-defender/",
+  "source_name": "Prestige Class: Stalwart Defender",
+  "category": "Classes",
+  "toc_content": "Contents\n* [Requirements](#requirements)\n* [Class Skills](#class_skills)\n* [Class Features](#class_features)\n  + [Weapon and Armor Proficiency](#weapon_and_armor_proficiency)\n  + [AC Bonus (Ex)](#ac_bonus_ex)\n  + [Defensive Stance (Ex)](#defensive_stance_ex)\n  + [Defensive Powers (Ex)](#defensive_powers_ex)\n  + [Uncanny Dodge (Ex)](#uncanny_dodge_ex)\n  + [Damage Reduction (Ex)](#damage_reduction_ex)\n  + [Improved Uncanny Dodge (Ex)](#improved_uncanny_dodge_ex)\n  + [Mobile Defense (Ex)](#mobile_defense_ex)\n  + [Last Word (Ex)](#last_word_ex)",
+  "sections": [
+    {
+      "id": "stalwart_defender_overview",
+      "title": "Stalwart Defender (Class Overview)",
+      "anchor_heading": "# Stalwart Defender",
+      "end_at_heading": "### Requirements {#requirements}",
+      "description": "Overview of the Stalwart Defender class including role, alignment, hit die, and starting wealth.",
+      "keywords": [
+        "stalwart defender",
+        "class",
+        "hit die",
+        "role",
+        "alignment"
+      ]
+    },
+    {
+      "id": "stalwart_defender_weapon_and_armor_proficiency",
+      "title": "Weapon and Armor Proficiency (Stalwart Defender)",
+      "anchor_heading": "#### Weapon and Armor Proficiency {#weapon_and_armor_proficiency}",
+      "description": "Grants proficiency with all simple and martial weapons, all armor types, and all shields including tower shields.",
+      "keywords": [
+        "weapon proficiency",
+        "armor proficiency",
+        "shield proficiency",
+        "tower shield",
+        "simple weapons",
+        "martial weapons"
+      ]
+    },
+    {
+      "id": "stalwart_defender_ac_bonus_ex",
+      "title": "AC Bonus (Ex) (Stalwart Defender)",
+      "anchor_heading": "#### AC Bonus (Ex) {#ac_bonus_ex}",
+      "description": "Provides a dodge bonus to AC that starts at +1 and improves to +4 at 10th level.",
+      "keywords": [
+        "AC bonus",
+        "dodge bonus",
+        "armor class",
+        "defensive bonus",
+        "level scaling"
+      ]
+    },
+    {
+      "id": "stalwart_defender_defensive_stance_ex",
+      "title": "Defensive Stance (Ex) (Stalwart Defender)",
+      "anchor_heading": "#### Defensive Stance (Ex) {#defensive_stance_ex}",
+      "description": "Allows entering a defensive stance as a free action that provides bonuses to AC, Strength, Constitution, and Will saves but prevents voluntary movement.",
+      "keywords": [
+        "defensive stance",
+        "free action",
+        "dodge bonus",
+        "morale bonus",
+        "strength bonus",
+        "constitution bonus",
+        "will save bonus",
+        "movement restriction",
+        "fatigued",
+        "unconscious",
+        "rage incompatible",
+        "rounds per day",
+        "temporary hit points"
+      ]
+    },
+    {
+      "id": "stalwart_defender_defensive_powers_ex",
+      "title": "Defensive Powers (Ex) (Stalwart Defender)",
+      "anchor_heading": "#### Defensive Powers (Ex) {#defensive_powers_ex}",
+      "description": "Grants special abilities usable only during defensive stance, gained at 2nd level and every two levels thereafter.",
+      "keywords": [
+        "defensive powers",
+        "bulwark",
+        "clear mind",
+        "enduring reservoir",
+        "fearless defense",
+        "halting blow",
+        "immobile",
+        "increased damage reduction",
+        "intercept",
+        "internal fortitude",
+        "mighty resilience",
+        "rage power",
+        "regenerative defense",
+        "renewed defense",
+        "roused defense",
+        "smash",
+        "unexpected strike",
+        "will save reroll",
+        "critical hit immunity",
+        "sneak attack immunity",
+        "CMD bonus",
+        "combat maneuvers",
+        "attack of opportunity",
+        "fast healing"
+      ]
+    },
+    {
+      "id": "stalwart_defender_uncanny_dodge_ex",
+      "title": "Uncanny Dodge (Ex) (Stalwart Defender)",
+      "anchor_heading": "#### Uncanny Dodge (Ex) {#uncanny_dodge_ex}",
+      "description": "Prevents being caught flat-footed and retains Dexterity bonus to AC against invisible attackers, but vulnerable to feints.",
+      "keywords": [
+        "uncanny dodge",
+        "flat-footed",
+        "invisible",
+        "dexterity bonus",
+        "feint",
+        "surprise"
+      ]
+    },
+    {
+      "id": "stalwart_defender_damage_reduction_ex",
+      "title": "Damage Reduction (Ex) (Stalwart Defender)",
+      "anchor_heading": "#### Damage Reduction (Ex) {#damage_reduction_ex}",
+      "description": "Grants damage reduction that scales from 1/\u2014 at 5th level to 5/\u2014 at 10th level, with special stacking rules for armor DR.",
+      "keywords": [
+        "damage reduction",
+        "DR",
+        "adamantine armor",
+        "armor stacking",
+        "DR stacking"
+      ]
+    },
+    {
+      "id": "stalwart_defender_improved_uncanny_dodge_ex",
+      "title": "Improved Uncanny Dodge (Ex) (Stalwart Defender)",
+      "anchor_heading": "#### Improved Uncanny Dodge (Ex) {#improved_uncanny_dodge_ex}",
+      "description": "Prevents flanking and sneak attacks except from rogues at least four levels higher than the stalwart defender.",
+      "keywords": [
+        "improved uncanny dodge",
+        "flanking",
+        "sneak attack",
+        "rogue levels",
+        "class stacking"
+      ]
+    },
+    {
+      "id": "stalwart_defender_mobile_defense_ex",
+      "title": "Mobile Defense (Ex) (Stalwart Defender)",
+      "anchor_heading": "#### Mobile Defense (Ex) {#mobile_defense_ex}",
+      "description": "Allows taking one 5-foot step per round while maintaining defensive stance without losing stance benefits.",
+      "keywords": [
+        "mobile defense",
+        "5-foot step",
+        "defensive stance",
+        "movement"
+      ]
+    },
+    {
+      "id": "stalwart_defender_last_word_ex",
+      "title": "Last Word (Ex) (Stalwart Defender)",
+      "anchor_heading": "#### Last Word (Ex) {#last_word_ex}",
+      "description": "Once per day while in defensive stance, allows making a double-damage melee attack when reduced to negative hit points, unconsciousness, or death.",
+      "keywords": [
+        "last word",
+        "negative hit points",
+        "unconscious",
+        "death",
+        "double damage",
+        "melee attack",
+        "critical hit",
+        "damage dice"
+      ]
+    }
+  ]
+}

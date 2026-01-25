@@ -1,0 +1,198 @@
+{
+  "file": "sentinel.md",
+  "source_path": "https://www.d20pfsrd.com/classes/prestige-classes/other-paizo/s-z/sentinel/",
+  "source_name": "Prestige Class: Sentinel",
+  "category": "Classes",
+  "toc_content": "Contents\n* [Requirements](#requirements)\n* [Alternate Requirements:](#alternate_requirements)\n* [Class Skills](#class_skills)\n* [Class Features](#class_features)\n  + [Weapon and Armor Proficiency](#weapon_and_armor_proficiency)\n  + [Obedience (Ex)](#obedience_ex)\n  + [Symbolic Weapon (Su)](#symbolic_weapon_su)\n  + [Bonus Feat](#bonus_feat)\n  + [Divine Boon](#divine_boon)\n  + [Divine Quickness (Ex)](#divine_quickness_ex)\n  + [Aligned Strike (Su)](#aligned_strike_su)\n  + [Stalwart (Su)](#stalwart_su)\n  + [Practiced Combatant (Ex)](#practiced_combatant_ex)\n  + [Righteous Leader (Ex)](#righteous_leader_ex)\n  + [Unstoppable Warrior (Su)](#unstoppable_warrior_su)",
+  "sections": [
+    {
+      "id": "sentinel_overview",
+      "title": "Sentinel (Class Overview)",
+      "anchor_heading": "# Sentinel",
+      "end_at_heading": "### Requirements {#requirements}",
+      "description": "Overview of the Sentinel class including role, alignment, hit die, and starting wealth.",
+      "keywords": [
+        "sentinel",
+        "class",
+        "hit die",
+        "role",
+        "alignment"
+      ]
+    },
+    {
+      "id": "sentinel_weapon_and_armor_proficiency",
+      "title": "Weapon and Armor Proficiency (Sentinel)",
+      "anchor_heading": "#### Weapon and Armor Proficiency {#weapon_and_armor_proficiency}",
+      "description": "Grants proficiency with all simple and martial weapons, all armor types, and shields except tower shields.",
+      "keywords": [
+        "weapon proficiency",
+        "armor proficiency",
+        "simple weapons",
+        "martial weapons",
+        "heavy armor",
+        "medium armor",
+        "light armor",
+        "shields",
+        "tower shields"
+      ]
+    },
+    {
+      "id": "sentinel_obedience_ex",
+      "title": "Obedience (Ex) (Sentinel)",
+      "anchor_heading": "#### Obedience (Ex) {#obedience_ex}",
+      "description": "Requires daily obedience to chosen deity to maintain prestige class abilities.",
+      "keywords": [
+        "obedience",
+        "daily obedience",
+        "deity",
+        "prestige class abilities",
+        "maintain abilities",
+        "chosen deity"
+      ]
+    },
+    {
+      "id": "sentinel_symbolic_weapon_su",
+      "title": "Symbolic Weapon (Su) (Sentinel)",
+      "anchor_heading": "#### Symbolic Weapon (Su) {#symbolic_weapon_su}",
+      "description": "Grants scaling sacred or profane bonuses to attack and damage rolls when wielding deity's favored weapon, which also functions as a holy symbol.",
+      "keywords": [
+        "symbolic weapon",
+        "favored weapon",
+        "deity's favored weapon",
+        "sacred bonus",
+        "profane bonus",
+        "attack rolls",
+        "damage rolls",
+        "holy symbol",
+        "unholy symbol"
+      ]
+    },
+    {
+      "id": "sentinel_bonus_feat",
+      "title": "Bonus Feat (Sentinel)",
+      "anchor_heading": "#### Bonus Feat {#bonus_feat}",
+      "description": "Grants bonus combat feats at 2nd and 7th level, with sentinel levels stacking with fighter levels for prerequisites.",
+      "keywords": [
+        "bonus feat",
+        "combat feats",
+        "fighter levels",
+        "stack with fighter",
+        "feat prerequisites",
+        "Greater Weapon Focus",
+        "favored weapon selection"
+      ]
+    },
+    {
+      "id": "sentinel_divine_boon",
+      "title": "Divine Boon (Sentinel)",
+      "anchor_heading": "#### Divine Boon {#divine_boon}",
+      "description": "Grants three progressive divine boons from chosen deity at 3rd, 6th, and 9th levels, allowing earlier access than Deific Obedience feat alone.",
+      "keywords": [
+        "divine boon",
+        "boons",
+        "Deific Obedience",
+        "spell-like ability",
+        "caster level",
+        "character level",
+        "first boon",
+        "second boon",
+        "third boon"
+      ]
+    },
+    {
+      "id": "sentinel_divine_quickness_ex",
+      "title": "Divine Quickness (Ex) (Sentinel)",
+      "anchor_heading": "#### Divine Quickness (Ex) {#divine_quickness_ex}",
+      "description": "Provides scaling sacred or profane bonus to initiative checks while carrying deity's favored weapon.",
+      "keywords": [
+        "divine quickness",
+        "initiative",
+        "initiative checks",
+        "sacred bonus",
+        "profane bonus",
+        "favored weapon",
+        "move action",
+        "carry weapon"
+      ]
+    },
+    {
+      "id": "sentinel_aligned_strike_su",
+      "title": "Aligned Strike (Su) (Sentinel)",
+      "anchor_heading": "#### Aligned Strike (Su) {#aligned_strike_su}",
+      "description": "Allows weapon to bypass specific damage reduction types based on deity's alignment when wielding favored weapon.",
+      "keywords": [
+        "aligned strike",
+        "damage reduction",
+        "bypass damage reduction",
+        "axiomatic",
+        "anarchic",
+        "holy",
+        "unholy",
+        "alignment",
+        "favored weapon"
+      ]
+    },
+    {
+      "id": "sentinel_stalwart_su",
+      "title": "Stalwart (Su) (Sentinel)",
+      "anchor_heading": "#### Stalwart (Su) {#stalwart_su}",
+      "description": "Grants sacred or profane bonus on saving throws against divine spells through mental fortitude.",
+      "keywords": [
+        "stalwart",
+        "saving throws",
+        "divine spells",
+        "sacred bonus",
+        "profane bonus",
+        "mental fortitude",
+        "resist divine spells"
+      ]
+    },
+    {
+      "id": "sentinel_practiced_combatant_ex",
+      "title": "Practiced Combatant (Ex) (Sentinel)",
+      "anchor_heading": "#### Practiced Combatant (Ex) {#practiced_combatant_ex}",
+      "description": "Provides sacred or profane bonus on combat maneuvers performed with deity's favored weapon.",
+      "keywords": [
+        "practiced combatant",
+        "combat maneuvers",
+        "favored weapon",
+        "sacred bonus",
+        "profane bonus",
+        "combat training"
+      ]
+    },
+    {
+      "id": "sentinel_righteous_leader_ex",
+      "title": "Righteous Leader (Ex) (Sentinel)",
+      "anchor_heading": "#### Righteous Leader (Ex) {#righteous_leader_ex}",
+      "description": "Grants Leadership feat with special modifiers, including no penalty for moving but double penalty for different alignment cohorts.",
+      "keywords": [
+        "righteous leader",
+        "Leadership",
+        "leadership score",
+        "cohort",
+        "alignment penalty",
+        "moving penalty",
+        "special power",
+        "leadership modifier"
+      ]
+    },
+    {
+      "id": "sentinel_unstoppable_warrior_su",
+      "title": "Unstoppable Warrior (Su) (Sentinel)",
+      "anchor_heading": "#### Unstoppable Warrior (Su) {#unstoppable_warrior_su}",
+      "description": "Grants alignment-based damage reduction, ability to act while at negative hit points, and daily self-targeted cure critical wounds.",
+      "keywords": [
+        "unstoppable warrior",
+        "damage reduction",
+        "negative hit points",
+        "unconscious",
+        "cure critical wounds",
+        "swift action",
+        "stabilized",
+        "standard action",
+        "move action"
+      ]
+    }
+  ]
+}

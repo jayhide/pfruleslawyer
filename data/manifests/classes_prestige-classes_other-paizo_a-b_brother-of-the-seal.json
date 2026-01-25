@@ -1,0 +1,226 @@
+{
+  "file": "brother-of-the-seal.md",
+  "source_path": "https://www.d20pfsrd.com/classes/prestige-classes/other-paizo/a-b/brother-of-the-seal/",
+  "source_name": "Prestige Class: Brother of the Seal",
+  "category": "Classes",
+  "toc_content": "Contents\n* [Requirements](#requirements)\n* [Class Skills](#class_skills)\n* [Class Features](#class_features)\n  + [Weapon and Armor Proficiency](#weapon_and_armor_proficiency)\n  + [Unarmed Combat (Ex)](#unarmed_combat_ex)\n  + [Water Splitting Stone (Ex)](#water_splitting_stone_ex)\n  + [Gatekeeper (Sp)](#gatekeeper_sp)\n  + [Trapfinding (Ex)](#trapfinding_ex)\n  + [Runefinding (Ex)](#runefinding_ex)\n  + [Awesome Blow (Ex)](#awesome_blow_ex)\n  + [Unsealing (Su)](#unsealing_su)\n  + [Domino Strike (Ex)](#domino_strike_ex)\n  + [Hands of Stone (Su)](#hands_of_stone_su)\n  + [Rapid Slam (Ex)](#rapid_slam_ex)\n  + [Cascading Strike (Ex)](#cascading_strike_ex)\n  + [Unraveling (Su)](#unraveling_su)",
+  "sections": [
+    {
+      "id": "brother_of_the_seal_overview",
+      "title": "Brother of the Seal (Class Overview)",
+      "anchor_heading": "# Brother of the Seal",
+      "end_at_heading": "### Requirements {#requirements}",
+      "description": "Overview of the Brother of the Seal class including role, alignment, hit die, and starting wealth.",
+      "keywords": [
+        "brother of the seal",
+        "class",
+        "hit die",
+        "role",
+        "alignment"
+      ]
+    },
+    {
+      "id": "brother_of_the_seal_weapon_and_armor_proficiency",
+      "title": "Weapon and Armor Proficiency (Brother of the Seal)",
+      "anchor_heading": "#### Weapon and Armor Proficiency {#weapon_and_armor_proficiency}",
+      "description": "Brother of the Seal gains no additional weapon or armor proficiencies beyond their base class.",
+      "keywords": [
+        "weapon proficiency",
+        "armor proficiency",
+        "no additional proficiencies",
+        "Brother of the Seal proficiencies"
+      ]
+    },
+    {
+      "id": "brother_of_the_seal_unarmed_combat_ex",
+      "title": "Unarmed Combat ([Ex](https://www.d20pfsrd.com/magic#TOC-Extraordinary-Abilities-Ex-)) (Brother of the Seal)",
+      "anchor_heading": "#### Unarmed Combat ([Ex](https://www.d20pfsrd.com/magic#TOC-Extraordinary-Abilities-Ex-)) {#unarmed_combat_ex}",
+      "description": "Brother of the Seal class levels stack with monk levels for flurry of blows, stunning fist, and unarmed strike damage calculations.",
+      "keywords": [
+        "unarmed combat",
+        "monk level stacking",
+        "flurry of blows",
+        "stunning fist",
+        "unarmed strike damage",
+        "class level stacking",
+        "multiclassing monk"
+      ]
+    },
+    {
+      "id": "brother_of_the_seal_water_splitting_stone_ex",
+      "title": "Water Splitting Stone ([Ex](https://www.d20pfsrd.com/magic#TOC-Extraordinary-Abilities-Ex-)) (Brother of the Seal)",
+      "anchor_heading": "#### Water Splitting Stone ([Ex](https://www.d20pfsrd.com/magic#TOC-Extraordinary-Abilities-Ex-)) {#water_splitting_stone_ex}",
+      "description": "When attacking objects, the Brother of the Seal ignores 1 point of hardness per class level.",
+      "keywords": [
+        "water splitting stone",
+        "hardness",
+        "ignore hardness",
+        "attacking objects",
+        "object damage",
+        "sunder",
+        "breaking objects"
+      ]
+    },
+    {
+      "id": "brother_of_the_seal_gatekeeper_sp",
+      "title": "Gatekeeper (Sp) (Brother of the Seal)",
+      "anchor_heading": "#### Gatekeeper (Sp) {#gatekeeper_sp}",
+      "description": "Brother of the Seal can cast either hold portal or arcane lock a limited number of times per day, with uses increasing at higher levels.",
+      "keywords": [
+        "gatekeeper",
+        "hold portal",
+        "arcane lock",
+        "spell-like ability",
+        "door blocking",
+        "portal sealing",
+        "once per day",
+        "additional uses"
+      ]
+    },
+    {
+      "id": "brother_of_the_seal_trapfinding_ex",
+      "title": "Trapfinding ([Ex](https://www.d20pfsrd.com/magic#TOC-Extraordinary-Abilities-Ex-)) (Brother of the Seal)",
+      "anchor_heading": "#### Trapfinding ([Ex](https://www.d20pfsrd.com/magic#TOC-Extraordinary-Abilities-Ex-)) {#trapfinding_ex}",
+      "description": "Adds half class level to Perception and Disable Device checks for traps, and can disarm magical traps with Disable Device.",
+      "keywords": [
+        "trapfinding",
+        "Perception bonus",
+        "Disable Device bonus",
+        "magical traps",
+        "disarm magical traps",
+        "trap detection",
+        "half class level bonus"
+      ]
+    },
+    {
+      "id": "brother_of_the_seal_runefinding_ex",
+      "title": "Runefinding ([Ex](https://www.d20pfsrd.com/magic#TOC-Extraordinary-Abilities-Ex-)) (Brother of the Seal)",
+      "anchor_heading": "#### Runefinding ([Ex](https://www.d20pfsrd.com/magic#TOC-Extraordinary-Abilities-Ex-)) {#runefinding_ex}",
+      "description": "Gains full class level bonus on trapfinding checks against magical writings and automatically notices trapped magical writings.",
+      "keywords": [
+        "runefinding",
+        "magical glyphs",
+        "magical symbols",
+        "magical runes",
+        "magical writings",
+        "trap spotter",
+        "full class level bonus",
+        "automatic trap detection"
+      ]
+    },
+    {
+      "id": "brother_of_the_seal_awesome_blow_ex",
+      "title": "Awesome Blow ([Ex](https://www.d20pfsrd.com/magic#TOC-Extraordinary-Abilities-Ex-)) (Brother of the Seal)",
+      "anchor_heading": "#### Awesome Blow ([Ex](https://www.d20pfsrd.com/magic#TOC-Extraordinary-Abilities-Ex-)) {#awesome_blow_ex}",
+      "description": "Gains Awesome Blow feat as bonus feat with Wisdom modifier added to combat maneuver checks and deals unarmed strike damage, with ki point or stunning fist expenditure to affect larger creatures.",
+      "keywords": [
+        "awesome blow",
+        "bonus feat",
+        "Wisdom modifier",
+        "combat maneuver",
+        "ki point",
+        "stunning fist",
+        "size categories",
+        "unarmed strike damage",
+        "hardness applies"
+      ]
+    },
+    {
+      "id": "brother_of_the_seal_unsealing_su",
+      "title": "Unsealing (Su) (Brother of the Seal)",
+      "anchor_heading": "#### Unsealing (Su) {#unsealing_su}",
+      "description": "Can touch magical wards and protections to attempt dispelling them by expending a stunning fist use, functioning as dispel magic.",
+      "keywords": [
+        "unsealing",
+        "magical wards",
+        "abjurations",
+        "glyphs",
+        "symbols",
+        "magical writings",
+        "touch attack",
+        "dispel magic",
+        "stunning fist use",
+        "caster level"
+      ]
+    },
+    {
+      "id": "brother_of_the_seal_domino_strike_ex",
+      "title": "Domino Strike ([Ex](https://www.d20pfsrd.com/magic#TOC-Extraordinary-Abilities-Ex-)) (Brother of the Seal)",
+      "anchor_heading": "#### Domino Strike ([Ex](https://www.d20pfsrd.com/magic#TOC-Extraordinary-Abilities-Ex-)) {#domino_strike_ex}",
+      "description": "When awesome blow knocks a target into an obstacle, adds class level to the 1d6 damage dealt to both target and obstacle.",
+      "keywords": [
+        "domino strike",
+        "awesome blow",
+        "obstacle damage",
+        "class level damage",
+        "knocked into obstacle",
+        "additional damage",
+        "1d6 damage"
+      ]
+    },
+    {
+      "id": "brother_of_the_seal_hands_of_stone_su",
+      "title": "Hands of Stone (Su) (Brother of the Seal)",
+      "anchor_heading": "#### Hands of Stone (Su) {#hands_of_stone_su}",
+      "description": "Increases unarmed strike damage as if the Brother of the Seal were one size category larger.",
+      "keywords": [
+        "hands of stone",
+        "unarmed strike damage",
+        "size category larger",
+        "damage increase",
+        "effective size"
+      ]
+    },
+    {
+      "id": "brother_of_the_seal_rapid_slam_ex",
+      "title": "Rapid Slam ([Ex](https://www.d20pfsrd.com/magic#TOC-Extraordinary-Abilities-Ex-)) (Brother of the Seal)",
+      "anchor_heading": "#### Rapid Slam ([Ex](https://www.d20pfsrd.com/magic#TOC-Extraordinary-Abilities-Ex-)) {#rapid_slam_ex}",
+      "description": "Can use Awesome Blow once per round as part of flurry of blows, charge, or with other combat feats as a standard action.",
+      "keywords": [
+        "rapid slam",
+        "awesome blow",
+        "flurry of blows",
+        "charge",
+        "standard action",
+        "combat feats",
+        "cleave",
+        "vital strike",
+        "once per round"
+      ]
+    },
+    {
+      "id": "brother_of_the_seal_cascading_strike_ex",
+      "title": "Cascading Strike ([Ex](https://www.d20pfsrd.com/magic#TOC-Extraordinary-Abilities-Ex-)) (Brother of the Seal)",
+      "anchor_heading": "#### Cascading Strike ([Ex](https://www.d20pfsrd.com/magic#TOC-Extraordinary-Abilities-Ex-)) {#cascading_strike_ex}",
+      "description": "When awesome blow knocks a target into another creature, can attempt additional awesome blow maneuvers in a straight line with cumulative penalties.",
+      "keywords": [
+        "cascading strike",
+        "awesome blow",
+        "chain reaction",
+        "straight line",
+        "cumulative penalty",
+        "multiple targets",
+        "unarmed strike damage",
+        "10 feet knockback"
+      ]
+    },
+    {
+      "id": "brother_of_the_seal_unraveling_su",
+      "title": "Unraveling (Su) (Brother of the Seal)",
+      "anchor_heading": "#### Unraveling (Su) {#unraveling_su}",
+      "description": "Unsealing ability can now destroy force effects and stationary magical barriers that normally cannot be dispelled.",
+      "keywords": [
+        "unraveling",
+        "force effects",
+        "stationary barriers",
+        "prismatic sphere",
+        "tiny hut",
+        "wall of ice",
+        "cannot be dispelled",
+        "abjuration",
+        "conjuration",
+        "evocation"
+      ]
+    }
+  ]
+}

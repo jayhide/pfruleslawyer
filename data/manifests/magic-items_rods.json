@@ -1,0 +1,115 @@
+{
+  "file": "rods.md",
+  "source_path": "https://www.d20pfsrd.com/magic-items/rods/",
+  "sections": [
+    {
+      "id": "rods_overview",
+      "title": "Rods Overview",
+      "anchor_heading": "# Rods",
+      "description": "General rules for rods including physical description, activation mechanics, special qualities, and basic mechanics for how rods function",
+      "keywords": [
+        "rods",
+        "scepter",
+        "activation",
+        "intelligent items",
+        "special qualities"
+      ]
+    },
+    {
+      "id": "metamagic_rods",
+      "title": "Metamagic Rods",
+      "anchor_heading": "### Metamagic Rods",
+      "description": "Complete rules for metamagic rods including how they work, limitations, spell level restrictions, and the differences between lesser, normal, and greater versions",
+      "keywords": [
+        "metamagic rods",
+        "metamagic feat",
+        "spell slot",
+        "lesser",
+        "greater",
+        "sorcerer",
+        "full-round action"
+      ]
+    },
+    {
+      "id": "lesser_medium_rods_table",
+      "title": "Lesser Medium Rods Table",
+      "anchor_heading": "#### Table: Lesser Medium Rods",
+      "description": "Random generation table for lesser medium rods with percentile rolls, rod names, prices, and source references",
+      "keywords": [
+        "lesser medium rods",
+        "random generation",
+        "treasure",
+        "prices"
+      ]
+    },
+    {
+      "id": "metamagic_rods_plus1_table",
+      "title": "Metamagic Rods (+1 Spell Level) Table",
+      "anchor_heading": "#### Table: Metamagic Rods (+1 Spell Level)",
+      "description": "Random generation table for metamagic rods that increase spell level by +1, including bouncing, disruptive, enlarge, extend, silent, and other rod types",
+      "keywords": [
+        "metamagic rods",
+        "+1 spell level",
+        "bouncing",
+        "disruptive",
+        "enlarge",
+        "extend",
+        "silent",
+        "selective"
+      ]
+    },
+    {
+      "id": "metamagic_rods_plus2_table",
+      "title": "Metamagic Rods (+2 Spell Level) Table",
+      "anchor_heading": "#### Table: Metamagic Rods (+2 Spell Level)",
+      "description": "Random generation table for metamagic rods that increase spell level by +2, including burning, empower, persistent, sickening, and thundering rod types",
+      "keywords": [
+        "metamagic rods",
+        "+2 spell level",
+        "burning",
+        "empower",
+        "persistent",
+        "sickening",
+        "thundering"
+      ]
+    },
+    {
+      "id": "metamagic_rods_plus3_table",
+      "title": "Metamagic Rods (+3 Spell Level) Table",
+      "anchor_heading": "#### Table: Metamagic Rods (+3 Spell Level)",
+      "description": "Random generation table for metamagic rods that increase spell level by +3, including dazing, echoing, maximize, and widen spell rod types",
+      "keywords": [
+        "metamagic rods",
+        "+3 spell level",
+        "dazing",
+        "echoing",
+        "maximize",
+        "widen"
+      ]
+    },
+    {
+      "id": "all_paizo_rods",
+      "title": "All Paizo Rods",
+      "anchor_heading": "### All Paizo Rods",
+      "description": "Comprehensive list of all rod magic items from official Paizo sources with links to individual rod descriptions",
+      "keywords": [
+        "paizo rods",
+        "rod list",
+        "magic items"
+      ]
+    },
+    {
+      "id": "third_party_rods",
+      "title": "3rd Party Publisher Rods",
+      "anchor_heading": "### 3rd Party Publisher Rods",
+      "description": "Reference to rod magic items from third-party publishers",
+      "keywords": [
+        "3rd party rods",
+        "third party",
+        "publisher rods"
+      ]
+    }
+  ],
+  "source_name": "",
+  "category": "Core Rules"
+}

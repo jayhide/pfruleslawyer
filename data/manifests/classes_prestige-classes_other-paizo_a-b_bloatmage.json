@@ -1,0 +1,133 @@
+{
+  "file": "bloatmage.md",
+  "source_path": "https://www.d20pfsrd.com/classes/prestige-classes/other-paizo/a-b/bloatmage/",
+  "source_name": "Prestige Class: Bloatmage",
+  "category": "Classes",
+  "toc_content": "Contents\n* [Requirements](#requirements)\n* [Class Skills](#class_skills)\n* [Class Features](#class_features)\n  + [Weapon and Armor Proficiency](#weapon_and_armor_proficiency)\n  + [Spells per Day/Spells Known](#spells_per_dayspells_known)\n  + [Blood Pool](#blood_pool)\n  + [Bloodsurge](#bloodsurge)\n  + [Hemophilia](#hemophilia)\n  + [Corpulence](#corpulence)\n  + [Absorb Bloodline](#absorb_bloodline)",
+  "sections": [
+    {
+      "id": "bloatmage_overview",
+      "title": "Bloatmage (Class Overview)",
+      "anchor_heading": "# Bloatmage",
+      "end_at_heading": "### Requirements {#requirements}",
+      "description": "Overview of the Bloatmage class including role, alignment, hit die, and starting wealth.",
+      "keywords": [
+        "bloatmage",
+        "class",
+        "hit die",
+        "role",
+        "alignment"
+      ]
+    },
+    {
+      "id": "bloatmage_weapon_and_armor_proficiency",
+      "title": "Weapon and Armor Proficiency (Bloatmage)",
+      "anchor_heading": "#### Weapon and Armor Proficiency {#weapon_and_armor_proficiency}",
+      "description": "Bloatmages gain no proficiency with any weapon or armor.",
+      "keywords": [
+        "weapon proficiency",
+        "armor proficiency",
+        "no proficiency",
+        "bloatmage proficiencies"
+      ]
+    },
+    {
+      "id": "bloatmage_spells_per_dayspells_known",
+      "title": "Spells per Day/Spells Known (Bloatmage)",
+      "anchor_heading": "#### Spells per Day/Spells Known {#spells_per_dayspells_known}",
+      "description": "When gaining a bloatmage level, the character gains new spells as if she had also gained a level in a previous arcane spellcasting class, but gains no other class benefits except spells per day, spells known, and increased caster level.",
+      "keywords": [
+        "spells per day",
+        "spells known",
+        "caster level progression",
+        "arcane spellcasting",
+        "prestige class spellcasting",
+        "spellbook bonus spells",
+        "spontaneous caster"
+      ]
+    },
+    {
+      "id": "bloatmage_blood_pool",
+      "title": "Blood Pool (Bloatmage)",
+      "anchor_heading": "#### Blood Pool {#blood_pool}",
+      "description": "A pool of blood points equal to bloatmage level that can be spent to cast spells without using spell slots, with dangerous consequences for exceeding the normal pool size.",
+      "keywords": [
+        "blood pool",
+        "blood points",
+        "spell slot",
+        "sickened condition",
+        "homicidal rage",
+        "dying condition",
+        "exsanguination rituals",
+        "leeches",
+        "Constitution penalty"
+      ]
+    },
+    {
+      "id": "bloatmage_bloodsurge",
+      "title": "Bloodsurge (Bloatmage)",
+      "anchor_heading": "#### Bloodsurge {#bloodsurge}",
+      "description": "A free action ability that allows the bloatmage to instantly gain extra blood points by rolling dice, usable a limited number of times per day with increasing potency.",
+      "keywords": [
+        "bloodsurge",
+        "free action",
+        "1d4 blood points",
+        "1d8 blood points",
+        "1d12 blood points",
+        "surge per day",
+        "extra blood points"
+      ]
+    },
+    {
+      "id": "bloatmage_hemophilia",
+      "title": "Hemophilia (Bloatmage)",
+      "anchor_heading": "#### Hemophilia {#hemophilia}",
+      "description": "Bloatmages are more susceptible to bleed effects, with higher Heal check DCs to stop bleeding and losing blood points when suffering bleed attacks.",
+      "keywords": [
+        "hemophilia",
+        "bleed effects",
+        "Heal check DC",
+        "bleeding wound",
+        "blood point loss",
+        "bleed damage"
+      ]
+    },
+    {
+      "id": "bloatmage_corpulence",
+      "title": "Corpulence (Bloatmage)",
+      "anchor_heading": "#### Corpulence {#corpulence}",
+      "description": "The bloatmage's massive size grants natural armor bonuses but reduces movement speed at higher levels.",
+      "keywords": [
+        "corpulence",
+        "natural armor bonus",
+        "speed reduction",
+        "fatty flesh",
+        "movement penalty",
+        "Bloatmage Initiate feat",
+        "magical flying"
+      ]
+    },
+    {
+      "id": "bloatmage_absorb_bloodline",
+      "title": "Absorb Bloodline (Bloatmage)",
+      "anchor_heading": "#### Absorb Bloodline {#absorb_bloodline}",
+      "description": "By consuming fresh blood from sorcerers or bloodline-affiliated creatures, the bloatmage temporarily gains access to sorcerer bloodline powers for one hour.",
+      "keywords": [
+        "absorb bloodline",
+        "sorcerer bloodline",
+        "bloodline powers",
+        "Constitution damage",
+        "fresh blood",
+        "Brew Potion feat",
+        "standard action",
+        "aberrant bloodline",
+        "draconic bloodline",
+        "elemental bloodline",
+        "fey bloodline",
+        "infernal bloodline",
+        "undead bloodline",
+        "arcane caster level"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,121 @@
+{
+  "file": "devoted-muse.md",
+  "source_path": "https://www.d20pfsrd.com/classes/prestige-classes/other-paizo/c-d/devoted-muse/",
+  "source_name": "Prestige Class: Devoted Muse",
+  "category": "Classes",
+  "toc_content": "Contents\n* [Requirements](#requirements)\n* [Class Skills](#class_skills)\n* [Class Features](#class_features)\n  + [Artful Defense (Ex)](#artful_defense_ex)\n  + [Deeds (Ex)](#deeds_ex)\n  + [Panache (Ex)](#panache_ex)\n  + [Artistic Flourish (Su)](#artistic_flourish_su)\n  + [Harmonious Strike (Su)](#harmonious_strike_su)\n  + [Limitless Art (Ex)](#limitless_art_ex)",
+  "sections": [
+    {
+      "id": "devoted_muse_overview",
+      "title": "Devoted Muse (Class Overview)",
+      "anchor_heading": "# Devoted Muse",
+      "end_at_heading": "### Requirements {#requirements}",
+      "description": "Overview of the Devoted Muse class including role, alignment, hit die, and starting wealth.",
+      "keywords": [
+        "devoted muse",
+        "class",
+        "hit die",
+        "role",
+        "alignment"
+      ]
+    },
+    {
+      "id": "devoted_muse_artful_defense_ex",
+      "title": "Artful Defense (Ex) (Devoted Muse)",
+      "anchor_heading": "#### Artful Defense (Ex) {#artful_defense_ex}",
+      "description": "Adds Charisma modifier per class level as a dodge bonus to AC when wearing light or no armor and not using a shield. Lost when flat-footed or denied Dexterity bonus.",
+      "keywords": [
+        "artful defense",
+        "charisma to ac",
+        "dodge bonus",
+        "light armor",
+        "no shield",
+        "flat-footed",
+        "dexterity bonus denied",
+        "charisma modifier",
+        "armor class"
+      ]
+    },
+    {
+      "id": "devoted_muse_deeds_ex",
+      "title": "Deeds (Ex) (Devoted Muse)",
+      "anchor_heading": "#### Deeds (Ex) {#deeds_ex}",
+      "description": "Functions as swashbuckler deeds but qualifies as if 3 levels lower (minimum 1), and opportune parry and riposte is delayed until 4th level. Stacks with other deed-granting classes.",
+      "keywords": [
+        "deeds",
+        "swashbuckler deeds",
+        "effective level",
+        "opportune parry",
+        "riposte",
+        "deed level",
+        "stacking levels",
+        "swashbuckler abilities"
+      ]
+    },
+    {
+      "id": "devoted_muse_panache_ex",
+      "title": "Panache (Ex) (Devoted Muse)",
+      "anchor_heading": "#### Panache (Ex) {#panache_ex}",
+      "description": "Functions exactly as the swashbuckler panache ability and stacks with levels from other panache-granting classes.",
+      "keywords": [
+        "panache",
+        "panache points",
+        "swashbuckler panache",
+        "stacking levels",
+        "panache pool",
+        "grit points"
+      ]
+    },
+    {
+      "id": "devoted_muse_artistic_flourish_su",
+      "title": "Artistic Flourish (Su) (Devoted Muse)",
+      "anchor_heading": "#### Artistic Flourish (Su) {#artistic_flourish_su}",
+      "description": "When feinting with at least 1 panache point, can create mind-affecting effects instead of denying Dexterity bonus. Effects include distracted, confused, staggered, or dazed with Will saves to resist.",
+      "keywords": [
+        "artistic flourish",
+        "feint",
+        "mind-affecting",
+        "distracted",
+        "confused",
+        "staggered",
+        "dazed",
+        "will save",
+        "miss chance",
+        "concealment",
+        "panache point required"
+      ]
+    },
+    {
+      "id": "devoted_muse_harmonious_strike_su",
+      "title": "Harmonious Strike (Su) (Devoted Muse)",
+      "anchor_heading": "#### Harmonious Strike (Su) {#harmonious_strike_su}",
+      "description": "When hitting a creature affected by artistic flourish, can spend 1 panache point for special attack effects like circling strike, deadly strike, inspirational strike, or masterful strike.",
+      "keywords": [
+        "harmonious strike",
+        "artistic flourish target",
+        "circling strike",
+        "deadly strike",
+        "inspirational strike",
+        "masterful strike",
+        "precision damage",
+        "critical multiplier",
+        "competence bonus",
+        "free movement"
+      ]
+    },
+    {
+      "id": "devoted_muse_limitless_art_ex",
+      "title": "Limitless Art (Ex) (Devoted Muse)",
+      "anchor_heading": "#### Limitless Art (Ex) {#limitless_art_ex}",
+      "description": "Increases starting and maximum panache points by 1 at 4th level, with additional increases at 7th and 10th levels.",
+      "keywords": [
+        "limitless art",
+        "additional panache",
+        "maximum panache",
+        "starting panache",
+        "panache increase",
+        "daily panache"
+      ]
+    }
+  ]
+}

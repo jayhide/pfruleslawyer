@@ -1,0 +1,225 @@
+{
+  "file": "diabolist.md",
+  "source_path": "https://www.d20pfsrd.com/classes/prestige-classes/other-paizo/c-d/diabolist/",
+  "source_name": "Prestige Class: Diabolist",
+  "category": "Classes",
+  "toc_content": "Contents\n* [Requirements](#requirements)\n* [Class Skills](#class_skills)\n* [Class Features](#class_features)\n  + [Spells per Day/Spells Known](#spells_per_dayspells_known)\n  + [Damned (Ex)](#damned_ex)\n  + [Imp Familiar (Ex)](#imp_familiar_ex)\n  + [Infernal Charisma (Ex)](#infernal_charisma_ex)\n  + [Obedience (Ex)](#obedience_ex)\n  + [Channel Hellfire (Su)](#channel_hellfire_su)\n  + [Infernal Bargain (Ex)](#infernal_bargain_ex)\n  + [Augment Summoning (Ex)](#augment_summoning_ex)\n  + [Diabolic Boon (Ex, Sp, or Su)](#diabolic_boon_ex_sp_or_su)\n  + [Heresy (Ex)](#heresy_ex)\n  + [Hellish Soul (Ex)](#hellish_soul_ex)\n  + [Infernal Transport (Sp)](#infernal_transport_sp)\n  + [Hellfire Ray (Sp)](#hellfire_ray_sp)\n  + [Master Conjurer (Ex)](#master_conjurer_ex)",
+  "sections": [
+    {
+      "id": "diabolist_overview",
+      "title": "Diabolist (Class Overview)",
+      "anchor_heading": "# Diabolist",
+      "end_at_heading": "### Requirements {#requirements}",
+      "description": "Overview of the Diabolist class including role, alignment, hit die, and starting wealth.",
+      "keywords": [
+        "diabolist",
+        "class",
+        "hit die",
+        "role",
+        "alignment"
+      ]
+    },
+    {
+      "id": "diabolist_spells_per_dayspells_known",
+      "title": "Spells per Day/Spells Known (Diabolist)",
+      "anchor_heading": "#### Spells per Day/Spells Known {#spells_per_dayspells_known}",
+      "description": "Advances spellcasting progression from a previous class, gaining spells per day, spells known, and increased caster level without other class benefits.",
+      "keywords": [
+        "spells per day",
+        "spells known",
+        "spellcasting progression",
+        "caster level advancement",
+        "spontaneous spellcaster",
+        "prestige class spellcasting"
+      ]
+    },
+    {
+      "id": "diabolist_damned_ex",
+      "title": "Damned (Ex) (Diabolist)",
+      "anchor_heading": "#### Damned (Ex) {#damned_ex}",
+      "description": "When killed, soul goes to Hell and resurrection requires a caster level check (DC 10 + diabolist level) or the spell fails.",
+      "keywords": [
+        "damned",
+        "soul to hell",
+        "resurrection difficulty",
+        "caster level check",
+        "resurrection failure",
+        "24 hour wait",
+        "death penalty"
+      ]
+    },
+    {
+      "id": "diabolist_imp_familiar_ex",
+      "title": "Imp Familiar (Ex) (Diabolist)",
+      "anchor_heading": "#### Imp Familiar (Ex) {#imp_familiar_ex}",
+      "description": "Gains an imp familiar as per arcane bond with Improved Familiar, which gains additional spell-like abilities and telepathy range as levels increase.",
+      "keywords": [
+        "imp familiar",
+        "arcane bond",
+        "improved familiar",
+        "familiar stacking",
+        "telepathy",
+        "spell-like abilities",
+        "at-will spells",
+        "familiar telepathy range"
+      ]
+    },
+    {
+      "id": "diabolist_infernal_charisma_ex",
+      "title": "Infernal [Charisma](https://www.d20pfsrd.com/basics-ability-scores/ability-scores/#Charisma_Cha) (Ex) (Diabolist)",
+      "anchor_heading": "#### Infernal [Charisma](https://www.d20pfsrd.com/basics-ability-scores/ability-scores/#Charisma_Cha) (Ex) {#infernal_charisma_ex}",
+      "description": "Provides escalating bonuses to Charisma checks when interacting with devils, starting at +2 and reaching +6 at 7th level.",
+      "keywords": [
+        "charisma bonus",
+        "devil interaction",
+        "infernal charisma",
+        "devil diplomacy",
+        "charisma checks",
+        "devil negotiation"
+      ]
+    },
+    {
+      "id": "diabolist_obedience_ex",
+      "title": "Obedience (Ex) (Diabolist)",
+      "anchor_heading": "#### Obedience (Ex) {#obedience_ex}",
+      "description": "Must perform daily obedience ritual during spell preparation to maintain class abilities, choosing evangelist, exalted, or sentinel path for boons.",
+      "keywords": [
+        "daily obedience",
+        "spell preparation",
+        "evangelist",
+        "exalted",
+        "sentinel",
+        "diabolic patron",
+        "maintain abilities",
+        "obedience ritual"
+      ]
+    },
+    {
+      "id": "diabolist_channel_hellfire_su",
+      "title": "Channel Hellfire (Su) (Diabolist)",
+      "anchor_heading": "#### Channel Hellfire (Su) {#channel_hellfire_su}",
+      "description": "Can alter energy damage spells to deal hellfire damage as a free action, adding lawful and evil descriptors, uses per day equal to Charisma modifier.",
+      "keywords": [
+        "channel hellfire",
+        "hellfire damage",
+        "energy damage conversion",
+        "free action",
+        "lawful descriptor",
+        "evil descriptor",
+        "charisma modifier uses"
+      ]
+    },
+    {
+      "id": "diabolist_infernal_bargain_ex",
+      "title": "Infernal Bargain (Ex) (Diabolist)",
+      "anchor_heading": "#### Infernal Bargain (Ex) {#infernal_bargain_ex}",
+      "description": "When using planar ally on called devils, can make opposed Charisma check to halve the devil's service price.",
+      "keywords": [
+        "infernal bargain",
+        "planar ally",
+        "called devil",
+        "opposed charisma check",
+        "halve price",
+        "devil service cost",
+        "planar binding"
+      ]
+    },
+    {
+      "id": "diabolist_augment_summoning_ex",
+      "title": "Augment Summoning (Ex) (Diabolist)",
+      "anchor_heading": "#### Augment Summoning (Ex) {#augment_summoning_ex}",
+      "description": "Automatically gains the Augment Summoning feat even without meeting prerequisites.",
+      "keywords": [
+        "augment summoning",
+        "bonus feat",
+        "ignore prerequisites",
+        "summoning enhancement"
+      ]
+    },
+    {
+      "id": "diabolist_diabolic_boon_ex_sp_or_su",
+      "title": "Diabolic Boon (Ex, Sp, or Su) (Diabolist)",
+      "anchor_heading": "#### Diabolic Boon (Ex, Sp, or Su) {#diabolic_boon_ex_sp_or_su}",
+      "description": "Gains three progressive boons from diabolic patron at 3rd, 6th, and 9th levels based on chosen obedience path (evangelist, exalted, or sentinel).",
+      "keywords": [
+        "diabolic boon",
+        "patron boons",
+        "fiendish obedience",
+        "archdevil boons",
+        "infernal duke",
+        "malebranche",
+        "spell-like ability caster level"
+      ]
+    },
+    {
+      "id": "diabolist_heresy_ex",
+      "title": "Heresy (Ex) (Diabolist)",
+      "anchor_heading": "#### Heresy (Ex) {#heresy_ex}",
+      "description": "Provides bonuses to research devil sigils and true names, starting at +2 and increasing to +4 at 9th level.",
+      "keywords": [
+        "heresy",
+        "devil sigils",
+        "true names",
+        "devil research",
+        "sigil research",
+        "true name research"
+      ]
+    },
+    {
+      "id": "diabolist_hellish_soul_ex",
+      "title": "Hellish Soul (Ex) (Diabolist)",
+      "anchor_heading": "#### Hellish Soul (Ex) {#hellish_soul_ex}",
+      "description": "Allows normal resurrection if killed by means other than the will of Asmodeus, archdevils, or other Hell authorities.",
+      "keywords": [
+        "hellish soul",
+        "resurrection protection",
+        "asmodeus exception",
+        "archdevil exception",
+        "hell authority",
+        "normal resurrection"
+      ]
+    },
+    {
+      "id": "diabolist_infernal_transport_sp",
+      "title": "Infernal Transport (Sp) (Diabolist)",
+      "anchor_heading": "#### Infernal Transport (Sp) {#infernal_transport_sp}",
+      "description": "Can dimension door twice per day or expend both uses for teleport, traveling through Hell but cannot enter areas warded against evil.",
+      "keywords": [
+        "infernal transport",
+        "dimension door",
+        "teleport",
+        "hell travel",
+        "evil ward restriction",
+        "twice per day"
+      ]
+    },
+    {
+      "id": "diabolist_hellfire_ray_sp",
+      "title": "Hellfire Ray (Sp) (Diabolist)",
+      "anchor_heading": "#### Hellfire Ray (Sp) {#hellfire_ray_sp}",
+      "description": "Can cast hellfire ray as a spell-like ability twice per day.",
+      "keywords": [
+        "hellfire ray",
+        "spell-like ability",
+        "twice per day"
+      ]
+    },
+    {
+      "id": "diabolist_master_conjurer_ex",
+      "title": "Master Conjurer (Ex) (Diabolist)",
+      "anchor_heading": "#### Master Conjurer (Ex) {#master_conjurer_ex}",
+      "description": "Can cast calling spells as standard action and bargain as move action when calling known devils, adding half social skill modifier to bargaining checks.",
+      "keywords": [
+        "master conjurer",
+        "calling spell",
+        "standard action",
+        "move action bargaining",
+        "known devil",
+        "bluff modifier",
+        "diplomacy modifier",
+        "intimidate modifier",
+        "bargaining bonus"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,192 @@
+{
+  "file": "pain-taster.md",
+  "source_path": "https://www.d20pfsrd.com/classes/prestige-classes/other-paizo/n-r/pain-taster/",
+  "source_name": "Prestige Class: Pain Taster",
+  "category": "Classes",
+  "toc_content": "Contents\n* [Requirements](#requirements)\n* [Class Skills](#class_skills)\n* [Class Features](#class_features)\n  + [Weapon and Armor Proficiency](#weapon_and_armor_proficiency)\n  + [Disciple of Pain (Su)](#disciple_of_pain_su)\n  + [Masochism (Ex)](#masochism_ex)\n  + [Scourge (Ex)](#scourge_ex)\n  + [Cruelty (Ex)](#cruelty_ex)\n  + [Damage Reduction (Ex)](#damage_reduction_ex)\n  + [Blood Control (Ex)](#blood_control_ex)\n  + [Torturer\u2019s Mettle (Ex)](#torturer8217s_mettle_ex)\n  + [Pain Mastery (Ex)](#pain_mastery_ex)\n  + [Exquisite Lash (Ex)](#exquisite_lash_ex)\n  + [Sadism (Ex)](#sadism_ex)",
+  "sections": [
+    {
+      "id": "pain_taster_overview",
+      "title": "Pain Taster (Class Overview)",
+      "anchor_heading": "# Pain Taster",
+      "end_at_heading": "### Requirements {#requirements}",
+      "description": "Overview of the Pain Taster class including role, alignment, hit die, and starting wealth.",
+      "keywords": [
+        "pain taster",
+        "class",
+        "hit die",
+        "role",
+        "alignment"
+      ]
+    },
+    {
+      "id": "pain_taster_weapon_and_armor_proficiency",
+      "title": "Weapon and Armor Proficiency (Pain Taster)",
+      "anchor_heading": "#### Weapon and Armor Proficiency {#weapon_and_armor_proficiency}",
+      "description": "Grants proficiency with all simple weapons, martial weapons, and whips, but provides no armor or shield proficiencies.",
+      "keywords": [
+        "weapon proficiency",
+        "armor proficiency",
+        "simple weapons",
+        "martial weapons",
+        "whip proficiency",
+        "no armor",
+        "unarmored"
+      ]
+    },
+    {
+      "id": "pain_taster_disciple_of_pain_su",
+      "title": "Disciple of Pain (Su) (Pain Taster)",
+      "anchor_heading": "#### Disciple of Pain (Su) {#disciple_of_pain_su}",
+      "description": "Allows selection of one of six torture routines that grant +2 enhancement bonuses to different ability scores for 24 hours, requiring initial 2000 gp investment and 1-hour ritual.",
+      "keywords": [
+        "disciple of pain",
+        "torture routines",
+        "enhancement bonus",
+        "ability score bonus",
+        "disciple of acuity",
+        "disciple of flexibility",
+        "disciple of insight",
+        "disciple of spirit",
+        "disciple of torment",
+        "disciple of vigor",
+        "intelligence bonus",
+        "dexterity bonus",
+        "wisdom bonus",
+        "charisma bonus",
+        "constitution bonus",
+        "strength bonus",
+        "ritual",
+        "2000 gp cost"
+      ]
+    },
+    {
+      "id": "pain_taster_masochism_ex",
+      "title": "Masochism (Ex) (Pain Taster)",
+      "anchor_heading": "#### Masochism (Ex) {#masochism_ex}",
+      "description": "Provides +4 bonus on saves against pain effects and allows swift action self-harm for attack and damage bonuses that scale with level.",
+      "keywords": [
+        "masochism",
+        "pain effects",
+        "swift action",
+        "self-harm",
+        "morale bonus",
+        "attack rolls",
+        "damage rolls",
+        "lethal damage",
+        "bypasses damage reduction"
+      ]
+    },
+    {
+      "id": "pain_taster_scourge_ex",
+      "title": "Scourge (Ex) (Pain Taster)",
+      "anchor_heading": "#### Scourge (Ex) {#scourge_ex}",
+      "description": "Grants Weapon Focus (whip) as a bonus feat, or Whip Mastery if already possessing Weapon Focus (whip).",
+      "keywords": [
+        "scourge",
+        "weapon focus",
+        "whip mastery",
+        "bonus feat",
+        "whip specialist"
+      ]
+    },
+    {
+      "id": "pain_taster_cruelty_ex",
+      "title": "Cruelty (Ex) (Pain Taster)",
+      "anchor_heading": "#### Cruelty (Ex) {#cruelty_ex}",
+      "description": "Grants sneak attack damage that only applies when using a whip, increasing by 1d6 every 2 levels and stacking with other sneak attack sources.",
+      "keywords": [
+        "cruelty",
+        "sneak attack",
+        "whip only",
+        "1d6 damage",
+        "stacking sneak attack",
+        "precision damage"
+      ]
+    },
+    {
+      "id": "pain_taster_damage_reduction_ex",
+      "title": "Damage Reduction (Ex) (Pain Taster)",
+      "anchor_heading": "#### Damage Reduction (Ex) {#damage_reduction_ex}",
+      "description": "Provides damage reduction that increases by 1 every 2 levels and doubles effectiveness against nonlethal damage, stacking with other DR sources.",
+      "keywords": [
+        "damage reduction",
+        "DR",
+        "nonlethal damage",
+        "stacking damage reduction",
+        "weapon damage",
+        "natural attack"
+      ]
+    },
+    {
+      "id": "pain_taster_blood_control_ex",
+      "title": "Blood Control (Ex) (Pain Taster)",
+      "anchor_heading": "#### Blood Control (Ex) {#blood_control_ex}",
+      "description": "Reduces bleed and Constitution damage from blood loss, and allows delaying poison effects as an immediate action with a Will save.",
+      "keywords": [
+        "blood control",
+        "bleed damage",
+        "constitution damage",
+        "blood loss",
+        "poison delay",
+        "immediate action",
+        "will save",
+        "stirge",
+        "vampire bite"
+      ]
+    },
+    {
+      "id": "pain_taster_torturer8217s_mettle_ex",
+      "title": "Torturer\u2019s Mettle (Ex) (Pain Taster)",
+      "anchor_heading": "#### Torturer\u2019s Mettle (Ex) {#torturer8217s_mettle_ex}",
+      "description": "Grants temporary hit points equal to class level as a swift action lasting 1 minute, usable once per day plus additional uses every 3 levels.",
+      "keywords": [
+        "torturer's mettle",
+        "temporary hit points",
+        "swift action",
+        "1 minute duration",
+        "daily uses"
+      ]
+    },
+    {
+      "id": "pain_taster_pain_mastery_ex",
+      "title": "Pain Mastery (Ex) (Pain Taster)",
+      "anchor_heading": "#### Pain Mastery (Ex) {#pain_mastery_ex}",
+      "description": "Allows combining two torture routines simultaneously for dual enhancement bonuses, requiring damage from both routines but only 1 hour total time.",
+      "keywords": [
+        "pain mastery",
+        "combine routines",
+        "dual enhancement bonuses",
+        "simultaneous routines",
+        "paired routines"
+      ]
+    },
+    {
+      "id": "pain_taster_exquisite_lash_ex",
+      "title": "Exquisite Lash (Ex) (Pain Taster)",
+      "anchor_heading": "#### Exquisite Lash (Ex) {#exquisite_lash_ex}",
+      "description": "Grants Whip Mastery as a bonus feat, or Improved Whip Mastery if already possessing Whip Mastery.",
+      "keywords": [
+        "exquisite lash",
+        "whip mastery",
+        "improved whip mastery",
+        "bonus feat",
+        "whip expertise"
+      ]
+    },
+    {
+      "id": "pain_taster_sadism_ex",
+      "title": "Sadism (Ex) (Pain Taster)",
+      "anchor_heading": "#### Sadism (Ex) {#sadism_ex}",
+      "description": "Reduces masochism self-damage cost by half until end of next turn when dealing cruelty sneak attack damage to targets.",
+      "keywords": [
+        "sadism",
+        "masochism cost reduction",
+        "cruelty damage",
+        "sneak attack trigger",
+        "self-damage reduction",
+        "damage frenzy"
+      ]
+    }
+  ]
+}

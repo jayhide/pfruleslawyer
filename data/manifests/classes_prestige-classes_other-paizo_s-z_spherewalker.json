@@ -1,0 +1,161 @@
+{
+  "file": "spherewalker.md",
+  "source_path": "https://www.d20pfsrd.com/classes/prestige-classes/other-paizo/s-z/spherewalker/",
+  "source_name": "Prestige Class: Spherewalker",
+  "category": "Classes",
+  "toc_content": "Contents\n* [Requirements](#requirements)\n* [Class Skills](#class_skills)\n* [Class Features](#class_features)\n  + [Landmark (Su)](#landmark_su)\n  + [Longstrider (Sp)](#longstrider_sp)\n  + [Spells per Day](#spells_per_day)\n  + [Efficient Sleep (Su)](#efficient_sleep_su)\n  + [Star Slinger (Ex)](#star_slinger_ex)\n  + [Dream Link (Sp)](#dream_link_sp)\n  + [Divine Luck (Su)](#divine_luck_su)\n  + [Swarm Form (Su)](#swarm_form_su)",
+  "sections": [
+    {
+      "id": "spherewalker_overview",
+      "title": "Spherewalker (Class Overview)",
+      "anchor_heading": "# Spherewalker",
+      "end_at_heading": "### Requirements {#requirements}",
+      "description": "Overview of the Spherewalker class including role, alignment, hit die, and starting wealth.",
+      "keywords": [
+        "spherewalker",
+        "class",
+        "hit die",
+        "role",
+        "alignment"
+      ]
+    },
+    {
+      "id": "spherewalker_landmark_su",
+      "title": "Landmark (Su) (Spherewalker)",
+      "anchor_heading": "#### Landmark (Su) {#landmark_su}",
+      "description": "Creates mental landmarks that provide directional awareness and improve teleportation familiarity, functioning as a scrying effect that can be shared with other spherewalkers.",
+      "keywords": [
+        "landmark",
+        "mental landmark",
+        "scrying effect",
+        "teleportation familiarity",
+        "full-round action",
+        "standard action",
+        "studied carefully",
+        "very familiar",
+        "plane detection",
+        "share landmark"
+      ]
+    },
+    {
+      "id": "spherewalker_longstrider_sp",
+      "title": "Longstrider (Sp) (Spherewalker)",
+      "anchor_heading": "#### Longstrider (Sp) {#longstrider_sp}",
+      "description": "Grants the ability to use the longstrider spell once per day with caster level equal to character level.",
+      "keywords": [
+        "longstrider",
+        "spell-like ability",
+        "once per day",
+        "caster level",
+        "character level",
+        "movement speed"
+      ]
+    },
+    {
+      "id": "spherewalker_spells_per_day",
+      "title": "Spells per Day (Spherewalker)",
+      "anchor_heading": "#### Spells per Day {#spells_per_day}",
+      "description": "Advances spellcasting progression of an existing class, or grants domain spell slots based on Wisdom if no spellcasting class exists.",
+      "keywords": [
+        "spells per day",
+        "spellcasting progression",
+        "prestige class spellcasting",
+        "domain spell slots",
+        "caster level",
+        "cleric domains",
+        "wisdom modifier",
+        "spell save DC",
+        "bonus spells"
+      ]
+    },
+    {
+      "id": "spherewalker_efficient_sleep_su",
+      "title": "Efficient Sleep (Su) (Spherewalker)",
+      "anchor_heading": "#### Efficient Sleep (Su) {#efficient_sleep_su}",
+      "description": "Provides a +4 sacred bonus against sleep effects and reduces required rest time from 8 hours to 4 hours.",
+      "keywords": [
+        "efficient sleep",
+        "sacred bonus",
+        "sleep effects",
+        "sleep resistance",
+        "4 hours rest",
+        "restful calm",
+        "reduced sleep requirement"
+      ]
+    },
+    {
+      "id": "spherewalker_star_slinger_ex",
+      "title": "Star Slinger (Ex) (Spherewalker)",
+      "anchor_heading": "#### Star Slinger (Ex) {#star_slinger_ex}",
+      "description": "Grants any starknife used in combat the returning weapon property without providing additional enhancement bonuses.",
+      "keywords": [
+        "star slinger",
+        "starknife",
+        "returning weapon",
+        "magic weapon property",
+        "enhancement bonus",
+        "thrown weapon"
+      ]
+    },
+    {
+      "id": "spherewalker_dream_link_sp",
+      "title": "Dream Link (Sp) (Spherewalker)",
+      "anchor_heading": "#### Dream Link (Sp) {#dream_link_sp}",
+      "description": "Creates a permanent telepathic bond with a willing creature after sleeping near them for 4 hours, causing stunning effects if the link partner dies.",
+      "keywords": [
+        "dream link",
+        "telepathic bond",
+        "mental bond",
+        "4 hours sleeping",
+        "10 feet",
+        "permanent link",
+        "standard action",
+        "stunned",
+        "staggered",
+        "death feedback",
+        "willing target"
+      ]
+    },
+    {
+      "id": "spherewalker_divine_luck_su",
+      "title": "Divine Luck (Su) (Spherewalker)",
+      "anchor_heading": "#### Divine Luck (Su) {#divine_luck_su}",
+      "description": "Adds a luck bonus equal to class level to attack rolls, skill checks, or saving throws after rolling but before knowing the result.",
+      "keywords": [
+        "divine luck",
+        "luck bonus",
+        "class level bonus",
+        "attack roll",
+        "skill check",
+        "saving throw",
+        "charisma modifier",
+        "after rolling",
+        "before result",
+        "retroactive bonus"
+      ]
+    },
+    {
+      "id": "spherewalker_swarm_form_su",
+      "title": "Swarm Form (Su) (Spherewalker)",
+      "anchor_heading": "#### Swarm Form (Su) {#swarm_form_su}",
+      "description": "Transforms into a swarm of butterflies with flight, nauseating aura, immunity to weapon damage, but vulnerability to fire and energy weapon effects.",
+      "keywords": [
+        "swarm form",
+        "diminutive butterflies",
+        "10 feet space",
+        "contiguous squares",
+        "squeeze",
+        "40 feet fly",
+        "good maneuverability",
+        "fortitude save",
+        "nauseated",
+        "weapon immunity",
+        "fire vulnerability",
+        "energy weapon damage",
+        "material components",
+        "free action extend",
+        "one minute duration"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,178 @@
+{
+  "file": "agent-of-the-grave.md",
+  "source_path": "https://www.d20pfsrd.com/classes/prestige-classes/other-paizo/a-b/agent-of-the-grave/",
+  "source_name": "Prestige Class: Agent of the Grave",
+  "category": "Classes",
+  "toc_content": "Contents\n* [Requirements](#requirements)\n* [Class Skills](#class_skills)\n* [Class Features](#class_features)\n  + [Weapon and Armor Proficiency](#weapon_and_armor_proficiency)\n  + [Spells per Day/Spells Known](#spells_per_dayspells_known)\n  + [Inspired Necromancy (Ex)](#inspired_necromancy_ex)\n  + [Lich\u2019s Touch (Su)](#lichs_touch_su)\n  + [Unholy Fortitude (Su)](#unholy_fortitude_su)\n  + [Undead Manipulator (Ex)](#undead_manipulator_ex)\n  + [Negative Energy Conduit (Ex)](#negative_energy_conduit_ex)\n  + [Death\u2019s Shroud (Su)](#deaths_shroud_su)\n  + [Negative Energy Affinity (Ex)](#negative_energy_affinity_ex)\n  + [Secrets of Death (Ex)](#secrets_of_death_ex)\n  + [Undeath Initiate (Ex)](#undeath_initiate_ex)",
+  "sections": [
+    {
+      "id": "agent_of_the_grave_overview",
+      "title": "Agent of the Grave (Class Overview)",
+      "anchor_heading": "# Agent of the Grave",
+      "end_at_heading": "### Requirements {#requirements}",
+      "description": "Overview of the Agent of the Grave class including role, alignment, hit die, and starting wealth.",
+      "keywords": [
+        "agent of the grave",
+        "class",
+        "hit die",
+        "role",
+        "alignment"
+      ]
+    },
+    {
+      "id": "agent_of_the_grave_weapon_and_armor_proficiency",
+      "title": "Weapon and Armor Proficiency (Agent of the Grave)",
+      "anchor_heading": "#### Weapon and Armor Proficiency {#weapon_and_armor_proficiency}",
+      "description": "Agents of the Grave gain no proficiency with any weapons or armor.",
+      "keywords": [
+        "weapon proficiency",
+        "armor proficiency",
+        "no proficiency",
+        "proficiencies"
+      ]
+    },
+    {
+      "id": "agent_of_the_grave_spells_per_dayspells_known",
+      "title": "Spells per Day/Spells Known (Agent of the Grave)",
+      "anchor_heading": "#### Spells per Day/Spells Known {#spells_per_dayspells_known}",
+      "description": "Agent of the Grave levels advance spellcasting from a previous class, gaining spells per day, spells known, and increased caster level but no other class benefits.",
+      "keywords": [
+        "spells per day",
+        "spells known",
+        "spellcasting advancement",
+        "caster level",
+        "prestige class spellcasting",
+        "spontaneous spellcaster"
+      ]
+    },
+    {
+      "id": "agent_of_the_grave_inspired_necromancy_ex",
+      "title": "Inspired Necromancy (Ex) (Agent of the Grave)",
+      "anchor_heading": "#### Inspired Necromancy (Ex) {#inspired_necromancy_ex}",
+      "description": "Agent of the Grave levels count twice when determining the maximum Hit Dice of undead that can be controlled with spells like animate dead.",
+      "keywords": [
+        "inspired necromancy",
+        "undead control",
+        "animate dead",
+        "hit dice",
+        "undead hit dice",
+        "maximum undead"
+      ]
+    },
+    {
+      "id": "agent_of_the_grave_lichs_touch_su",
+      "title": "Lich\u2019s Touch (Su) (Agent of the Grave)",
+      "anchor_heading": "#### Lich\u2019s Touch (Su) {#lichs_touch_su}",
+      "description": "A melee touch attack that deals 1d6 negative energy damage per Agent of the Grave level, usable 3 + Charisma modifier times per day and can heal undead.",
+      "keywords": [
+        "lich's touch",
+        "touch attack",
+        "negative energy damage",
+        "heal undead",
+        "charisma modifier",
+        "uses per day"
+      ]
+    },
+    {
+      "id": "agent_of_the_grave_unholy_fortitude_su",
+      "title": "Unholy [Fortitude](https://www.d20pfsrd.com/gamemastering/combat/#TOC-Fortitude) (Su) (Agent of the Grave)",
+      "anchor_heading": "#### Unholy [Fortitude](https://www.d20pfsrd.com/gamemastering/combat/#TOC-Fortitude) (Su) {#unholy_fortitude_su}",
+      "description": "When gaining levels, the character can choose to add either Constitution or Charisma bonus to hit points gained instead of only Constitution.",
+      "keywords": [
+        "unholy fortitude",
+        "hit points",
+        "constitution bonus",
+        "charisma bonus",
+        "level advancement",
+        "hp calculation"
+      ]
+    },
+    {
+      "id": "agent_of_the_grave_undead_manipulator_ex",
+      "title": "Undead Manipulator (Ex) (Agent of the Grave)",
+      "anchor_heading": "#### Undead Manipulator (Ex) {#undead_manipulator_ex}",
+      "description": "Mind-affecting spells and spell-like abilities treat undead creatures as their original creature type instead of being immune.",
+      "keywords": [
+        "undead manipulator",
+        "mind-affecting",
+        "undead immunity",
+        "original type",
+        "charm person",
+        "confusion",
+        "undead creatures"
+      ]
+    },
+    {
+      "id": "agent_of_the_grave_negative_energy_conduit_ex",
+      "title": "Negative Energy Conduit (Ex) (Agent of the Grave)",
+      "anchor_heading": "#### Negative Energy Conduit (Ex) {#negative_energy_conduit_ex}",
+      "description": "As a standard action, manifests a desecrate-like aura for 10 minutes per level once per day, and all created undead are treated as if created within desecrate.",
+      "keywords": [
+        "negative energy conduit",
+        "desecrate",
+        "aura",
+        "standard action",
+        "undead creation",
+        "10 minutes per level",
+        "once per day"
+      ]
+    },
+    {
+      "id": "agent_of_the_grave_deaths_shroud_su",
+      "title": "Death\u2019s Shroud (Su) (Agent of the Grave)",
+      "anchor_heading": "#### Death\u2019s Shroud (Su) {#deaths_shroud_su}",
+      "description": "Grants the ability to use nondetection or undetectable alignment once per day at the Agent's highest caster level.",
+      "keywords": [
+        "death's shroud",
+        "nondetection",
+        "undetectable alignment",
+        "once per day",
+        "caster level",
+        "infiltration"
+      ]
+    },
+    {
+      "id": "agent_of_the_grave_negative_energy_affinity_ex",
+      "title": "Negative Energy Affinity (Ex) (Agent of the Grave)",
+      "anchor_heading": "#### Negative Energy Affinity (Ex) {#negative_energy_affinity_ex}",
+      "description": "The Agent is healed by negative energy and harmed by positive energy, as if they were an undead creature.",
+      "keywords": [
+        "negative energy affinity",
+        "healed by negative energy",
+        "harmed by positive energy",
+        "undead healing",
+        "energy affinity"
+      ]
+    },
+    {
+      "id": "agent_of_the_grave_secrets_of_death_ex",
+      "title": "Secrets of Death (Ex) (Agent of the Grave)",
+      "anchor_heading": "#### Secrets of Death (Ex) {#secrets_of_death_ex}",
+      "description": "Allows adding a number of necromancy spells equal to Intelligence modifier from outside the character's normal spell list to their spell list.",
+      "keywords": [
+        "secrets of death",
+        "necromancy spells",
+        "spell list",
+        "intelligence modifier",
+        "add spells",
+        "spell access"
+      ]
+    },
+    {
+      "id": "agent_of_the_grave_undeath_initiate_ex",
+      "title": "Undeath Initiate (Ex) (Agent of the Grave)",
+      "anchor_heading": "#### Undeath Initiate (Ex) {#undeath_initiate_ex}",
+      "description": "Grants a +5 bonus on checks related to becoming undead and retains Intelligence and free will when killed by undead with create spawn abilities.",
+      "keywords": [
+        "undeath initiate",
+        "undead transformation",
+        "create spawn",
+        "intelligence retention",
+        "free will",
+        "lich transformation",
+        "vampire transformation",
+        "+5 bonus"
+      ]
+    }
+  ]
+}

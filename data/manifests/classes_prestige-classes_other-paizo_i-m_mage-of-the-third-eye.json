@@ -1,0 +1,180 @@
+{
+  "file": "mage-of-the-third-eye.md",
+  "source_path": "https://www.d20pfsrd.com/classes/prestige-classes/other-paizo/i-m/mage-of-the-third-eye/",
+  "source_name": "Prestige Class: Mage of the Third Eye",
+  "category": "Classes",
+  "toc_content": "Contents\n* [Requirements](#requirements)\n* [Class Skills](#class_skills)\n* [Class Features](#class_features)\n  + [Weapon and Armor Proficiency](#weapon_and_armor_proficiency)\n  + [Mystic Pedagogue (Ex)](#mystic_pedagogue_ex)\n  + [Third Eye (Su)](#third_eye_su)\n  + [Artificer\u2019s Touch (Sp)](#artificer8217s_touch_sp)\n  + [Scholiast (Sp)](#scholiast_sp)\n  + [Arcane Architect (Ex)](#arcane_architect_ex)\n  + [Improved Third Eye (Sp)](#improved_third_eye_sp)\n  + [Extradimensional Extension (Su)](#extradimensional_extension_su)\n  + [Call for Aid (Su)](#call_for_aid_su)\n  + [Greater Third Eye (Sp)](#greater_third_eye_sp)",
+  "sections": [
+    {
+      "id": "mage_of_the_third_eye_overview",
+      "title": "Mage of the Third Eye (Class Overview)",
+      "anchor_heading": "# Mage of the Third Eye",
+      "end_at_heading": "### Requirements {#requirements}",
+      "description": "Overview of the Mage of the Third Eye class including role, alignment, hit die, and starting wealth.",
+      "keywords": [
+        "mage of the third eye",
+        "class",
+        "hit die",
+        "role",
+        "alignment"
+      ]
+    },
+    {
+      "id": "mage_of_the_third_eye_weapon_and_armor_proficiency",
+      "title": "Weapon and Armor Proficiency (Mage of the Third Eye)",
+      "anchor_heading": "#### Weapon and Armor Proficiency {#weapon_and_armor_proficiency}",
+      "description": "Mages of the third eye gain no additional weapon or armor proficiencies beyond their base class.",
+      "keywords": [
+        "weapon proficiency",
+        "armor proficiency",
+        "no proficiencies",
+        "mage of the third eye proficiencies"
+      ]
+    },
+    {
+      "id": "mage_of_the_third_eye_mystic_pedagogue_ex",
+      "title": "Mystic Pedagogue ([Ex](https://www.d20pfsrd.com/magic#TOC-Extraordinary-Abilities-Ex-)) (Mage of the Third Eye)",
+      "anchor_heading": "#### Mystic Pedagogue ([Ex](https://www.d20pfsrd.com/magic#TOC-Extraordinary-Abilities-Ex-)) {#mystic_pedagogue_ex}",
+      "description": "Adds half class level as bonus to Spellcraft checks for learning wizard spells or crafting magical items.",
+      "keywords": [
+        "mystic pedagogue",
+        "spellcraft bonus",
+        "learn wizard spells",
+        "craft magical items",
+        "spellcraft check",
+        "half class level bonus"
+      ]
+    },
+    {
+      "id": "mage_of_the_third_eye_third_eye_su",
+      "title": "Third Eye (Su) (Mage of the Third Eye)",
+      "anchor_heading": "#### Third Eye (Su) {#third_eye_su}",
+      "description": "Grants additional daily uses of Eldritch Eye feat and allows using aid another to boost adjacent wizard's caster level and concentration checks while the eye is open.",
+      "keywords": [
+        "third eye",
+        "eldritch eye",
+        "aid another",
+        "caster level bonus",
+        "concentration check bonus",
+        "adjacent wizard",
+        "circumstance bonus"
+      ]
+    },
+    {
+      "id": "mage_of_the_third_eye_artificer8217s_touch_sp",
+      "title": "Artificer\u2019s Touch (Sp) (Mage of the Third Eye)",
+      "anchor_heading": "#### Artificer\u2019s Touch (Sp) {#artificer8217s_touch_sp}",
+      "description": "Expends hand of the apprentice use to activate the Artifice domain's artificer's touch power using caster level as cleric level.",
+      "keywords": [
+        "artificer's touch",
+        "hand of the apprentice",
+        "artifice domain",
+        "cleric level",
+        "domain power",
+        "expend use"
+      ]
+    },
+    {
+      "id": "mage_of_the_third_eye_scholiast_sp",
+      "title": "Scholiast (Sp) (Mage of the Third Eye)",
+      "anchor_heading": "#### Scholiast (Sp) {#scholiast_sp}",
+      "description": "Allows access to wizard school powers from other schools by expending hand of the apprentice uses, with additional schools gained at higher levels.",
+      "keywords": [
+        "scholiast",
+        "wizard school powers",
+        "arcane school",
+        "spell-like ability",
+        "hand of the apprentice",
+        "intelligence modifier",
+        "specialist wizard",
+        "school access"
+      ]
+    },
+    {
+      "id": "mage_of_the_third_eye_arcane_architect_ex",
+      "title": "Arcane Architect ([Ex](https://www.d20pfsrd.com/magic#TOC-Extraordinary-Abilities-Ex-)) (Mage of the Third Eye)",
+      "anchor_heading": "#### Arcane Architect ([Ex](https://www.d20pfsrd.com/magic#TOC-Extraordinary-Abilities-Ex-)) {#arcane_architect_ex}",
+      "description": "Creates constructs in half time and can apply Extend Spell and Widen Spell metamagic to conjuration creation spells with reduced or eliminated level increases.",
+      "keywords": [
+        "arcane architect",
+        "craft construct",
+        "half time",
+        "extend spell",
+        "widen spell",
+        "conjuration creation",
+        "metamagic feats",
+        "level increase",
+        "construct creation"
+      ]
+    },
+    {
+      "id": "mage_of_the_third_eye_improved_third_eye_sp",
+      "title": "Improved Third Eye (Sp) (Mage of the Third Eye)",
+      "anchor_heading": "#### Improved Third Eye (Sp) {#improved_third_eye_sp}",
+      "description": "Activates Eldritch Eye as move action and can add arcane sight or see invisibility effects by expending hand of the apprentice uses.",
+      "keywords": [
+        "improved third eye",
+        "move action",
+        "eldritch eye",
+        "arcane sight",
+        "see invisibility",
+        "hand of the apprentice",
+        "activation time"
+      ]
+    },
+    {
+      "id": "mage_of_the_third_eye_extradimensional_extension_su",
+      "title": "Extradimensional Extension (Su) (Mage of the Third Eye)",
+      "anchor_heading": "#### Extradimensional Extension (Su) {#extradimensional_extension_su}",
+      "description": "Doubles duration of spells creating extradimensional spaces or moving through Ethereal Plane without increasing spell level, like permanent Extend Spell.",
+      "keywords": [
+        "extradimensional extension",
+        "extradimensional space",
+        "demiplane",
+        "ethereal plane",
+        "extend spell",
+        "duration doubled",
+        "spell level",
+        "non-stacking"
+      ]
+    },
+    {
+      "id": "mage_of_the_third_eye_call_for_aid_su",
+      "title": "Call for Aid (Su) (Mage of the Third Eye)",
+      "anchor_heading": "#### Call for Aid (Su) {#call_for_aid_su}",
+      "description": "Sacrifices prepared spell to teleport bound creatures (familiars, constructs, dominated creatures, etc.) with range based on spell level sacrificed.",
+      "keywords": [
+        "call for aid",
+        "sacrifice spell",
+        "bound creature",
+        "animal companion",
+        "eidolon",
+        "familiar",
+        "construct",
+        "undead",
+        "telepathic bond",
+        "dominate person",
+        "dominate monster",
+        "planar binding",
+        "greater teleport",
+        "range limit"
+      ]
+    },
+    {
+      "id": "mage_of_the_third_eye_greater_third_eye_sp",
+      "title": "Greater Third Eye (Sp) (Mage of the Third Eye)",
+      "anchor_heading": "#### Greater Third Eye (Sp) {#greater_third_eye_sp}",
+      "description": "Activates Eldritch Eye as swift action and can gain greater arcane sight or true seeing effects by expending multiple hand of the apprentice uses.",
+      "keywords": [
+        "greater third eye",
+        "swift action",
+        "eldritch eye",
+        "greater arcane sight",
+        "true seeing",
+        "hand of the apprentice",
+        "four uses",
+        "eight uses"
+      ]
+    }
+  ]
+}

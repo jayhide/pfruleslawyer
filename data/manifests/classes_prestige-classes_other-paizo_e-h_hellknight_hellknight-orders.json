@@ -1,0 +1,23 @@
+{
+  "file": "hellknight-orders.md",
+  "source_path": "https://www.d20pfsrd.com/classes/prestige-classes/other-paizo/e-h/hellknight/hellknight-orders/",
+  "source_name": "Prestige Class: Hell Knight Orders",
+  "category": "Classes",
+  "toc_content": "Contents\n* [Hell Knight Tenets](#hell_knight_tenets)\n  + [The Measure and the Chain](#the_measure_and_the_chain)\n  + [Reckonings](#reckonings)\n  + [The Test](#the_test)\n* [Major Orders](#major_orders)\n  + [Order of the Chain](#order_of_the_chain)\n  + [Order of the Gate](#order_of_the_gate)\n  + [Order of the Godclaw](#order_of_the_godclaw)\n  + [Order of the Nail](#order_of_the_nail)\n  + [Order of the Pyre](#order_of_the_pyre)\n  + [Order of the Rack](#order_of_the_rack)\n  + [Order of the Scourge](#order_of_the_scourge)\n* [Lesser Orders](#lesser_orders)\n  + [Order of the Coil](#order_of_the_coil)\n  + [Order of the Crux](#order_of_the_crux)\n  + [Order of the Glyph](#order_of_the_glyph)\n  + [Order of the Pike](#order_of_the_pike)\n  + [Order of the Scar](#order_of_the_scar)\n  + [Order of the Torrent](#order_of_the_torrent)\n  + [Order of the Wall](#order_of_the_wall)",
+  "sections": [
+    {
+      "id": "hell_knight_orders_overview",
+      "title": "Hell Knight Orders (Class Overview)",
+      "anchor_heading": "# Hell Knight Orders",
+      "end_at_heading": "### The Measure and the Chain {#the_measure_and_the_chain}",
+      "description": "Overview of the Hell Knight Orders class including role, alignment, hit die, and starting wealth.",
+      "keywords": [
+        "hell knight orders",
+        "class",
+        "hit die",
+        "role",
+        "alignment"
+      ]
+    }
+  ]
+}

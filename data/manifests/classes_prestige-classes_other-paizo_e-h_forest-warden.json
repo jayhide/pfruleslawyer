@@ -1,0 +1,171 @@
+{
+  "file": "forest-warden.md",
+  "source_path": "https://www.d20pfsrd.com/classes/prestige-classes/other-paizo/e-h/forest-warden/",
+  "source_name": "Prestige Class: Forest Warden",
+  "category": "Classes",
+  "toc_content": "Contents\n* [Requirements](#requirements)\n* [Class Skills](#class_skills)\n* [Class Features](#class_features)\n  + [Weapon and Armor Proficiency](#weapon_and_armor_proficiency)\n  + [Forest Magic (Sp)](#forest_magic_sp)\n  + [Unchained Heart (Ex)](#unchained_heart_ex)\n  + [Aligned Class (Ex)](#aligned_class_ex)\n  + [Bonus Feats](#bonus_feats)\n  + [Guerrilla Tactics (Ex)](#guerrilla_tactics_ex)\n  + [Advanced Tactics (Ex)](#advanced_tactics_ex)\n  + [Second Tactic (Ex)](#second_tactic_ex)\n  + [Phantom Strike (Ex)](#phantom_strike_ex)",
+  "sections": [
+    {
+      "id": "forest_warden_overview",
+      "title": "Forest Warden (Class Overview)",
+      "anchor_heading": "# Forest Warden",
+      "end_at_heading": "### Requirements {#requirements}",
+      "description": "Overview of the Forest Warden class including role, alignment, hit die, and starting wealth.",
+      "keywords": [
+        "forest warden",
+        "class",
+        "hit die",
+        "role",
+        "alignment"
+      ]
+    },
+    {
+      "id": "forest_warden_weapon_and_armor_proficiency",
+      "title": "Weapon and Armor Proficiency (Forest Warden)",
+      "anchor_heading": "#### Weapon and Armor Proficiency {#weapon_and_armor_proficiency}",
+      "description": "Forest wardens are proficient with all simple and martial weapons, light armor, and bucklers.",
+      "keywords": [
+        "weapon proficiency",
+        "armor proficiency",
+        "simple weapons",
+        "martial weapons",
+        "light armor",
+        "bucklers",
+        "proficient"
+      ]
+    },
+    {
+      "id": "forest_warden_forest_magic_sp",
+      "title": "Forest Magic (Sp) (Forest Warden)",
+      "anchor_heading": "#### Forest Magic (Sp) {#forest_magic_sp}",
+      "description": "Forest wardens gain spell-like abilities from nature-themed spell lists, with usage frequency increasing as they level and new spell options unlocking at specific levels.",
+      "keywords": [
+        "forest magic",
+        "spell-like abilities",
+        "caster level",
+        "once per day",
+        "three times per day",
+        "five times per day",
+        "alarm",
+        "entangle",
+        "barkskin",
+        "tree stride",
+        "commune with nature",
+        "arboreal affinity"
+      ]
+    },
+    {
+      "id": "forest_warden_unchained_heart_ex",
+      "title": "Unchained Heart (Ex) (Forest Warden)",
+      "anchor_heading": "#### Unchained Heart (Ex) {#unchained_heart_ex}",
+      "description": "Forest wardens gain increasing bonuses on Will saves against compulsions and mind-affecting effects, and receive attack bonuses against the source when they succeed.",
+      "keywords": [
+        "unchained heart",
+        "Will saving throws",
+        "compulsions",
+        "mind-affecting effects",
+        "free spirit",
+        "attack bonus against source"
+      ]
+    },
+    {
+      "id": "forest_warden_aligned_class_ex",
+      "title": "Aligned Class (Ex) (Forest Warden)",
+      "anchor_heading": "#### Aligned Class (Ex) {#aligned_class_ex}",
+      "description": "Forest wardens choose a previous class as their aligned class and gain additional levels in that class while retaining prestige class progression.",
+      "keywords": [
+        "aligned class",
+        "class features",
+        "additional level",
+        "prestige class",
+        "previous class",
+        "Hit Dice",
+        "base attack bonus",
+        "saving throw bonuses"
+      ]
+    },
+    {
+      "id": "forest_warden_bonus_feats",
+      "title": "Bonus Feats (Forest Warden)",
+      "anchor_heading": "#### Bonus Feats {#bonus_feats}",
+      "description": "Forest wardens gain bonus feats from a specific list focused on combat tactics, metamagic, and battlefield control at certain levels.",
+      "keywords": [
+        "bonus feats",
+        "Combat Expertise",
+        "Combat Patrol",
+        "metamagic feats",
+        "Overwatch Style",
+        "Spring Attack",
+        "Whirlwind Attack",
+        "teamwork feats",
+        "feat prerequisites"
+      ]
+    },
+    {
+      "id": "forest_warden_guerrilla_tactics_ex",
+      "title": "Guerrilla Tactics (Ex) (Forest Warden)",
+      "anchor_heading": "#### Guerrilla Tactics (Ex) {#guerrilla_tactics_ex}",
+      "description": "Forest wardens can activate different tactical stances as swift actions, each providing unique combat benefits like sneak attack or improved flanking maneuvers.",
+      "keywords": [
+        "guerrilla tactics",
+        "swift action",
+        "exploit weakness",
+        "sneak attack",
+        "sniping prowess",
+        "sprite step",
+        "flanking",
+        "combat maneuvers",
+        "Stealth penalty",
+        "wooded terrain"
+      ]
+    },
+    {
+      "id": "forest_warden_advanced_tactics_ex",
+      "title": "Advanced Tactics (Ex) (Forest Warden)",
+      "anchor_heading": "#### Advanced Tactics (Ex) {#advanced_tactics_ex}",
+      "description": "Forest wardens gain access to additional tactical options including improved surprise round actions and ranged dirty trick attempts.",
+      "keywords": [
+        "advanced tactics",
+        "preemptive strike",
+        "trick shot",
+        "surprise round",
+        "move action",
+        "standard action",
+        "dirty trick",
+        "ranged weapon",
+        "combat maneuver checks"
+      ]
+    },
+    {
+      "id": "forest_warden_second_tactic_ex",
+      "title": "Second Tactic (Ex) (Forest Warden)",
+      "anchor_heading": "#### Second Tactic (Ex) {#second_tactic_ex}",
+      "description": "Forest wardens can benefit from two guerrilla tactics simultaneously and change one of them as a swift action.",
+      "keywords": [
+        "second tactic",
+        "two tactics",
+        "simultaneous tactics",
+        "swift action",
+        "multiple guerrilla tactics"
+      ]
+    },
+    {
+      "id": "forest_warden_phantom_strike_ex",
+      "title": "Phantom Strike (Ex) (Forest Warden)",
+      "anchor_heading": "#### Phantom Strike (Ex) {#phantom_strike_ex}",
+      "description": "Forest wardens ignore movement penalties and can deal bonus precision damage or cause cowering against unaware opponents a limited number of times per day.",
+      "keywords": [
+        "phantom strike",
+        "full speed",
+        "difficult terrain",
+        "poor visibility",
+        "unaware opponent",
+        "precision damage",
+        "cower",
+        "Will save",
+        "Intelligence modifier",
+        "battlefield master"
+      ]
+    }
+  ]
+}

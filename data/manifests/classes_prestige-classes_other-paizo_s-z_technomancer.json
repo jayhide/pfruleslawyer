@@ -1,0 +1,206 @@
+{
+  "file": "technomancer.md",
+  "source_path": "https://www.d20pfsrd.com/classes/prestige-classes/other-paizo/s-z/technomancer/",
+  "source_name": "Prestige Class: Technomancer",
+  "category": "Classes",
+  "toc_content": "Contents\n* [Requirements](#requirements)\n* [Class Skills](#class_skills)\n* [Class Features](#class_features)\n  + [Weapon and Armor Proficiency](#weapon_and_armor_proficiency)\n  + [Recondition (Su)](#recondition_su)\n  + [Technical Expertise (Ex)](#technical_expertise_ex)\n  + [Efficient Construction (Ex)](#efficient_construction_ex)\n  + [Technic Spell Mastery (Ex)](#technic_spell_mastery_ex)\n  + [Arcane Battery (Su)](#arcane_battery_su)\n  + [Study Technology (Ex)](#study_technology_ex)\n  + [Recycle Technology (Ex)](#recycle_technology_ex)\n  + [Command Robot (Sp)](#command_robot_sp)\n  + [Unified Energy (Su)](#unified_energy_su)\n  + [Applied Learning (Ex)](#applied_learning_ex)\n  + [Field Improvisation (Ex)](#field_improvisation_ex)",
+  "sections": [
+    {
+      "id": "technomancer_overview",
+      "title": "Technomancer (Class Overview)",
+      "anchor_heading": "# Technomancer",
+      "end_at_heading": "### Requirements {#requirements}",
+      "description": "Overview of the Technomancer class including role, alignment, hit die, and starting wealth.",
+      "keywords": [
+        "technomancer",
+        "class",
+        "hit die",
+        "role",
+        "alignment"
+      ]
+    },
+    {
+      "id": "technomancer_weapon_and_armor_proficiency",
+      "title": "Weapon and Armor Proficiency (Technomancer)",
+      "anchor_heading": "#### Weapon and Armor Proficiency {#weapon_and_armor_proficiency}",
+      "description": "A technomancer gains proficiency with all firearms, allowing them to use these technological weapons without penalty.",
+      "keywords": [
+        "weapon proficiency",
+        "armor proficiency",
+        "firearms",
+        "firearm proficiency",
+        "technomancer proficiencies"
+      ]
+    },
+    {
+      "id": "technomancer_recondition_su",
+      "title": "Recondition (Su) (Technomancer)",
+      "anchor_heading": "#### Recondition (Su) {#recondition_su}",
+      "description": "A technomancer can maintain timeworn technology to prevent glitching and allow normal recharging through 8 hours of work and daily maintenance.",
+      "keywords": [
+        "recondition",
+        "timeworn technology",
+        "glitch",
+        "glitching",
+        "technological maintenance",
+        "recharge timeworn",
+        "8 hours maintenance",
+        "daily maintenance"
+      ]
+    },
+    {
+      "id": "technomancer_technical_expertise_ex",
+      "title": "Technical Expertise (Ex) (Technomancer)",
+      "anchor_heading": "#### Technical Expertise (Ex) {#technical_expertise_ex}",
+      "description": "A technomancer adds their class level to Craft, Disable Device, Knowledge (engineering), and Linguistics checks related to technology.",
+      "keywords": [
+        "technical expertise",
+        "craft technology",
+        "disable device technology",
+        "knowledge engineering",
+        "linguistics technology",
+        "class level bonus",
+        "technology skills"
+      ]
+    },
+    {
+      "id": "technomancer_efficient_construction_ex",
+      "title": "Efficient Construction (Ex) (Technomancer)",
+      "anchor_heading": "#### Efficient Construction (Ex) {#efficient_construction_ex}",
+      "description": "A technomancer reduces energy expenditure of technological crafting labs by 25% at 2nd level and 50% at 10th level.",
+      "keywords": [
+        "efficient construction",
+        "technological crafting lab",
+        "energy expenditure",
+        "25% reduction",
+        "50% reduction",
+        "crafting energy cost"
+      ]
+    },
+    {
+      "id": "technomancer_technic_spell_mastery_ex",
+      "title": "Technic Spell Mastery (Ex) (Technomancer)",
+      "anchor_heading": "#### Technic Spell Mastery (Ex) {#technic_spell_mastery_ex}",
+      "description": "A technomancer selects technology-related spells to add to their spell list and can prepare or cast them additional times per day.",
+      "keywords": [
+        "technic spell mastery",
+        "technology spells",
+        "antitech field",
+        "destroy robot",
+        "detect radiation",
+        "discharge",
+        "recharge",
+        "technomancy",
+        "bonus spell preparation",
+        "bonus spell known"
+      ]
+    },
+    {
+      "id": "technomancer_arcane_battery_su",
+      "title": "Arcane Battery (Su) (Technomancer)",
+      "anchor_heading": "#### Arcane Battery (Su) {#arcane_battery_su}",
+      "description": "A technomancer can expend spell slots as a swift action to provide charges to technological devices at 1 charge per spell level.",
+      "keywords": [
+        "arcane battery",
+        "swift action",
+        "expend spell slot",
+        "power device",
+        "spell level to charges",
+        "1 charge per level",
+        "timeworn power"
+      ]
+    },
+    {
+      "id": "technomancer_study_technology_ex",
+      "title": "Study Technology (Ex) (Technomancer)",
+      "anchor_heading": "#### Study Technology (Ex) {#study_technology_ex}",
+      "description": "A technomancer can study robots, technological objects, or traps as a move action to gain competence bonuses against them.",
+      "keywords": [
+        "study technology",
+        "move action",
+        "knowledge engineering",
+        "competence bonus",
+        "robot study",
+        "technological trap",
+        "dodge bonus",
+        "intelligence modifier duration"
+      ]
+    },
+    {
+      "id": "technomancer_recycle_technology_ex",
+      "title": "Recycle Technology (Ex) (Technomancer)",
+      "anchor_heading": "#### Recycle Technology (Ex) {#recycle_technology_ex}",
+      "description": "A technomancer can dismantle technological items for crafting potential based on their condition, creating new timeworn items from the parts.",
+      "keywords": [
+        "recycle technology",
+        "dismantle technology",
+        "crafting potential",
+        "timeworn creation",
+        "100% functioning",
+        "75% reconditioned",
+        "50% timeworn",
+        "10% broken",
+        "double crafting speed"
+      ]
+    },
+    {
+      "id": "technomancer_command_robot_sp",
+      "title": "Command Robot (Sp) (Technomancer)",
+      "anchor_heading": "#### Command Robot (Sp) {#command_robot_sp}",
+      "description": "A technomancer can issue commands to robots within 30 feet as a standard action, functioning like suggestion but affecting robot constructs.",
+      "keywords": [
+        "command robot",
+        "standard action",
+        "30 feet",
+        "will save",
+        "suggestion effect",
+        "robot constructs",
+        "not mind-affecting",
+        "charisma or intelligence"
+      ]
+    },
+    {
+      "id": "technomancer_unified_energy_su",
+      "title": "Unified Energy (Su) (Technomancer)",
+      "anchor_heading": "#### Unified Energy (Su) {#unified_energy_su}",
+      "description": "A technomancer can consume charges from technological devices to cast spells without expending spell slots, using 2 charges per spell level.",
+      "keywords": [
+        "unified energy",
+        "consume charges",
+        "cast without spell slot",
+        "2 charges per level",
+        "metamagic with charges",
+        "twice technomancer level daily limit"
+      ]
+    },
+    {
+      "id": "technomancer_applied_learning_ex",
+      "title": "Applied Learning (Ex) (Technomancer)",
+      "anchor_heading": "#### Applied Learning (Ex) {#applied_learning_ex}",
+      "description": "A technomancer completely avoids technological effects on successful saving throws instead of taking reduced effects.",
+      "keywords": [
+        "applied learning",
+        "technological effects",
+        "successful save",
+        "avoid entirely",
+        "evasion against technology",
+        "not helpless",
+        "not flat-footed"
+      ]
+    },
+    {
+      "id": "technomancer_field_improvisation_ex",
+      "title": "Field Improvisation (Ex) (Technomancer)",
+      "anchor_heading": "#### Field Improvisation (Ex) {#field_improvisation_ex}",
+      "description": "A technomancer can recycle technology at incredible speed, with each hour counting as 8 hours of crafting and temporary reconditioning.",
+      "keywords": [
+        "field improvisation",
+        "fast recycling",
+        "1 hour equals 8 hours",
+        "8 hours daily limit",
+        "temporary reconditioned",
+        "same day reconditioning"
+      ]
+    }
+  ]
+}

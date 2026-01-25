@@ -1,0 +1,197 @@
+{
+  "file": "dark-delver.md",
+  "source_path": "https://www.d20pfsrd.com/classes/prestige-classes/other-paizo/c-d/dark-delver/",
+  "source_name": "Prestige Class: Dark Delver",
+  "category": "Classes",
+  "toc_content": "Contents\n* [Requirements](#requirements)\n* [Class Skills](#class_skills)\n* [Class Features](#class_features)\n  + [Bardic Knowledge (Ex)](#bardic_knowledge_ex)\n  + [Master Explorer (Ex)](#master_explorer_ex)\n  + [Surefooted (Ex)](#surefooted_ex)\n  + [Trap Sense (Ex)](#trap_sense_ex)\n  + [Thrilling Escape (Ex)](#thrilling_escape_ex)\n  + [Guardbreaker (Ex)](#guardbreaker_ex)\n  + [Resourceful Disabler (Ex)](#resourceful_disabler_ex)\n  + [Vigilant Combatant (Ex)](#vigilant_combatant_ex)\n  + [Left for Dead (Su)](#left_for_dead_su)\n  + [Fortunate Soul (Su)](#fortunate_soul_su)\n  + [True Seeing (Sp)](#true_seeing_sp)\n  + [Nick of Time (Ex)](#nick_of_time_ex)",
+  "sections": [
+    {
+      "id": "dark_delver_overview",
+      "title": "Dark Delver (Class Overview)",
+      "anchor_heading": "# Dark Delver",
+      "end_at_heading": "### Requirements {#requirements}",
+      "description": "Overview of the Dark Delver class including role, alignment, hit die, and starting wealth.",
+      "keywords": [
+        "dark delver",
+        "class",
+        "hit die",
+        "role",
+        "alignment"
+      ]
+    },
+    {
+      "id": "dark_delver_bardic_knowledge_ex",
+      "title": "Bardic Knowledge (Ex) (Dark Delver)",
+      "anchor_heading": "#### Bardic Knowledge (Ex) {#bardic_knowledge_ex}",
+      "description": "Grants knowledge checks using Intelligence modifier and class level, identical to the bard ability and stacking with other bardic knowledge sources.",
+      "keywords": [
+        "bardic knowledge",
+        "knowledge check",
+        "intelligence modifier",
+        "class level stacking",
+        "bard ability",
+        "dark delver knowledge"
+      ]
+    },
+    {
+      "id": "dark_delver_master_explorer_ex",
+      "title": "Master Explorer (Ex) (Dark Delver)",
+      "anchor_heading": "#### Master Explorer (Ex) {#master_explorer_ex}",
+      "description": "Adds half class level to Disable Device and Perception checks, allows taking 10 on Disable Device and Stealth when distracted, and reduces trap disabling time while enabling magical trap disarmament.",
+      "keywords": [
+        "master explorer",
+        "disable device bonus",
+        "perception bonus",
+        "take 10",
+        "stealth take 10",
+        "magical trap disarmament",
+        "trap disabling time",
+        "lock opening standard action",
+        "half class level bonus"
+      ]
+    },
+    {
+      "id": "dark_delver_surefooted_ex",
+      "title": "Surefooted (Ex) (Dark Delver)",
+      "anchor_heading": "#### Surefooted (Ex) {#surefooted_ex}",
+      "description": "Allows movement through difficult terrain at normal speed, though magically manipulated ground still impedes movement normally.",
+      "keywords": [
+        "surefooted",
+        "difficult terrain",
+        "normal speed movement",
+        "magical terrain",
+        "movement speed",
+        "terrain navigation"
+      ]
+    },
+    {
+      "id": "dark_delver_trap_sense_ex",
+      "title": "Trap Sense (Ex) (Dark Delver)",
+      "anchor_heading": "#### Trap Sense (Ex) {#trap_sense_ex}",
+      "description": "Functions as rogue trap sense but gained at 2nd level and increases every 3 levels, stacking with other sources of trap sense.",
+      "keywords": [
+        "trap sense",
+        "rogue ability stacking",
+        "reflex save bonus",
+        "ac bonus against traps",
+        "trap sense progression",
+        "dark delver trap sense"
+      ]
+    },
+    {
+      "id": "dark_delver_thrilling_escape_ex",
+      "title": "Thrilling Escape (Ex) (Dark Delver)",
+      "anchor_heading": "#### Thrilling Escape (Ex) {#thrilling_escape_ex}",
+      "description": "Allows delaying a triggered trap's activation until end of next turn by making an immediate action Disable Device check, usable 1-3 times per day based on level.",
+      "keywords": [
+        "thrilling escape",
+        "trap delay",
+        "immediate action",
+        "disable device check",
+        "trap activation delay",
+        "triggered trap",
+        "daily uses"
+      ]
+    },
+    {
+      "id": "dark_delver_guardbreaker_ex",
+      "title": "Guardbreaker (Ex) (Dark Delver)",
+      "anchor_heading": "#### Guardbreaker (Ex) {#guardbreaker_ex}",
+      "description": "Treats trap sense bonus as favored enemy bonus against constructs, oozes, and undead, stacking with actual favored enemy bonuses.",
+      "keywords": [
+        "guardbreaker",
+        "favored enemy bonus",
+        "constructs",
+        "oozes",
+        "undead",
+        "trap sense bonus",
+        "tomb guardians",
+        "favored enemy stacking"
+      ]
+    },
+    {
+      "id": "dark_delver_resourceful_disabler_ex",
+      "title": "Resourceful Disabler (Ex) (Dark Delver)",
+      "anchor_heading": "#### Resourceful Disabler (Ex) {#resourceful_disabler_ex}",
+      "description": "Allows using Disable Device skill without tools at no penalty.",
+      "keywords": [
+        "resourceful disabler",
+        "disable device without tools",
+        "no penalty",
+        "improvised tools",
+        "disable device skill"
+      ]
+    },
+    {
+      "id": "dark_delver_vigilant_combatant_ex",
+      "title": "Vigilant Combatant (Ex) (Dark Delver)",
+      "anchor_heading": "#### Vigilant Combatant (Ex) {#vigilant_combatant_ex}",
+      "description": "Adds half class level as a bonus to initiative checks.",
+      "keywords": [
+        "vigilant combatant",
+        "initiative bonus",
+        "half class level",
+        "initiative check",
+        "combat readiness"
+      ]
+    },
+    {
+      "id": "dark_delver_left_for_dead_su",
+      "title": "Left for Dead (Su) (Dark Delver)",
+      "anchor_heading": "#### Left for Dead (Su) {#left_for_dead_su}",
+      "description": "Once per day, when killed by an attack or failed save, instead becomes unconscious at -1 hp but stable, appearing dead for 1 minute before awakening.",
+      "keywords": [
+        "left for dead",
+        "cheat death",
+        "unconscious",
+        "stable",
+        "appear dead",
+        "death avoidance",
+        "supernatural ability",
+        "heal check DC 25"
+      ]
+    },
+    {
+      "id": "dark_delver_fortunate_soul_su",
+      "title": "Fortunate Soul (Su) (Dark Delver)",
+      "anchor_heading": "#### Fortunate Soul (Su) {#fortunate_soul_su}",
+      "description": "Allows rerolling a saving throw once per day (twice at 10th level), must take the second result even if worse.",
+      "keywords": [
+        "fortunate soul",
+        "reroll saving throw",
+        "saving throw reroll",
+        "daily reroll",
+        "supernatural luck",
+        "second result"
+      ]
+    },
+    {
+      "id": "dark_delver_true_seeing_sp",
+      "title": "True Seeing (Sp) (Dark Delver)",
+      "anchor_heading": "#### True Seeing (Sp) {#true_seeing_sp}",
+      "description": "Grants the ability to use true seeing spell once per day with caster level equal to class level.",
+      "keywords": [
+        "true seeing",
+        "spell-like ability",
+        "caster level",
+        "daily use",
+        "illusion detection",
+        "true form"
+      ]
+    },
+    {
+      "id": "dark_delver_nick_of_time_ex",
+      "title": "Nick of Time (Ex) (Dark Delver)",
+      "anchor_heading": "#### Nick of Time (Ex) {#nick_of_time_ex}",
+      "description": "Once per day, can use an immediate action to perform an action that normally requires a standard action.",
+      "keywords": [
+        "nick of time",
+        "immediate action",
+        "standard action",
+        "action economy",
+        "daily use",
+        "quick action"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,137 @@
+{
+  "file": "student-of-perfection.md",
+  "source_path": "https://www.d20pfsrd.com/classes/prestige-classes/other-paizo/s-z/student-of-perfection/",
+  "source_name": "Prestige Class: Student of Perfection",
+  "category": "Classes",
+  "toc_content": "Contents\n* [Requirements](#requirements)\n* [Class Skills](#class_skills)\n* [Class Features](#class_features)\n  + [Weapon Proficiency](#weapon_proficiency)\n  + [AC Bonus (Ex)](#ac_bonus_ex)\n  + [Ki Pool (Su)](#ki_pool_su)\n  + [Martial Artist (Ex)](#martial_artist_ex)\n  + [Ki Powers (Su)](#ki_powers_su)\n  + [Bonus Feat](#bonus_feat)\n  + [Perfection (Ex)](#perfection_ex)",
+  "sections": [
+    {
+      "id": "student_of_perfection_overview",
+      "title": "Student of Perfection (Class Overview)",
+      "anchor_heading": "# Student of Perfection",
+      "end_at_heading": "### Requirements {#requirements}",
+      "description": "Overview of the Student of Perfection class including role, alignment, hit die, and starting wealth.",
+      "keywords": [
+        "student of perfection",
+        "class",
+        "hit die",
+        "role",
+        "alignment"
+      ]
+    },
+    {
+      "id": "student_of_perfection_weapon_proficiency",
+      "title": "Weapon Proficiency (Student of Perfection)",
+      "anchor_heading": "#### Weapon Proficiency {#weapon_proficiency}",
+      "description": "Grants proficiency with all weapons that have the monk special weapon quality.",
+      "keywords": [
+        "weapon proficiency",
+        "monk weapons",
+        "monk special quality",
+        "student of perfection proficiency"
+      ]
+    },
+    {
+      "id": "student_of_perfection_ac_bonus_ex",
+      "title": "AC Bonus (Ex) (Student of Perfection)",
+      "anchor_heading": "#### AC Bonus (Ex) {#ac_bonus_ex}",
+      "description": "Provides a scaling dodge bonus to AC and CMD when wearing light or no armor, which is lost when immobilized, helpless, or encumbered.",
+      "keywords": [
+        "AC bonus",
+        "dodge bonus",
+        "CMD bonus",
+        "light armor",
+        "no armor",
+        "immobilized",
+        "helpless",
+        "medium load",
+        "heavy load"
+      ]
+    },
+    {
+      "id": "student_of_perfection_ki_pool_su",
+      "title": "*Ki* Pool (Su) (Student of Perfection)",
+      "anchor_heading": "#### *Ki* Pool (Su) {#ki_pool_su}",
+      "description": "Stacks with existing ki pool levels and grants ki strike abilities equal to class level, with Perfect Style adding Wisdom modifier to ki points.",
+      "keywords": [
+        "ki pool",
+        "ki points",
+        "ki strike",
+        "Perfect Style",
+        "Wisdom modifier",
+        "stacking levels",
+        "monk levels"
+      ]
+    },
+    {
+      "id": "student_of_perfection_martial_artist_ex",
+      "title": "Martial Artist (Ex) (Student of Perfection)",
+      "anchor_heading": "#### Martial Artist (Ex) {#martial_artist_ex}",
+      "description": "Stacks with existing martial artist abilities or grants flurry of blows and unarmed strike as a monk of equal level, counting as monk levels for feat prerequisites.",
+      "keywords": [
+        "martial artist",
+        "brawler's flurry",
+        "fast movement",
+        "flurry of blows",
+        "stunning fist",
+        "unarmed strike",
+        "monk levels",
+        "stacking levels",
+        "Stunning Fist feat"
+      ]
+    },
+    {
+      "id": "student_of_perfection_ki_powers_su",
+      "title": "*Ki* Powers (Su) (Student of Perfection)",
+      "anchor_heading": "#### *Ki* Powers (Su) {#ki_powers_su}",
+      "description": "Grants selection of ki powers from unchained monk options or school-specific powers every 2 levels starting at 2nd level.",
+      "keywords": [
+        "ki powers",
+        "unchained monk",
+        "elemental fury",
+        "elemental burst",
+        "genie's blade",
+        "Monastery of Unblinking Flame",
+        "Monastery of Unfolding Wind",
+        "Monastery of Untwisting Iron",
+        "inner fire",
+        "iron chain strike",
+        "ki missile",
+        "master of riddles",
+        "still air",
+        "transmute metal"
+      ]
+    },
+    {
+      "id": "student_of_perfection_bonus_feat",
+      "title": "Bonus Feat (Student of Perfection)",
+      "anchor_heading": "#### Bonus Feat {#bonus_feat}",
+      "description": "Grants House of Perfection-specific combat style feats at 3rd and 7th levels without prerequisites, or allows selection from other class bonus feat lists.",
+      "keywords": [
+        "bonus feat",
+        "House of Perfection",
+        "Unblinking Flame Feint",
+        "Unfolding Wind Strike",
+        "Untwisting Iron Strength",
+        "Unblinking Flame Fist",
+        "Unfolding Wind Rush",
+        "Untwisting Iron Skin",
+        "combat style feats",
+        "no prerequisites"
+      ]
+    },
+    {
+      "id": "student_of_perfection_perfection_ex",
+      "title": "Perfection (Ex) (Student of Perfection)",
+      "anchor_heading": "#### Perfection (Ex) {#perfection_ex}",
+      "description": "At 10th level, permanently increases one ability score of choice by 2 points.",
+      "keywords": [
+        "perfection",
+        "ability score increase",
+        "permanent bonus",
+        "capstone ability",
+        "10th level"
+      ]
+    }
+  ]
+}

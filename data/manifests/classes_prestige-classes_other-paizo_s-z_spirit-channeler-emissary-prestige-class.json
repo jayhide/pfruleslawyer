@@ -1,0 +1,147 @@
+{
+  "file": "spirit-channeler-emissary-prestige-class.md",
+  "source_path": "https://www.d20pfsrd.com/classes/prestige-classes/other-paizo/s-z/spirit-channeler-emissary-prestige-class/",
+  "source_name": "Prestige Class: Spirit Channeler Emissary",
+  "category": "Classes",
+  "toc_content": "Contents\n* [Requirements](#requirements)\n* [Class Skills](#class_skills)\n* [Class Features](#class_features)\n  + [Spirit Animal (Ex)](#spirit_animal_ex)\n  + [Spirit Bond (Su)](#spirit_bond_su)\n  + [Sixth Sense (Sp)](#sixth_sense_sp)\n  + [Animus (Sp)](#animus_sp)\n  + [Manifest Will (Su)](#manifest_will_su)\n  + [Parley (Sp)](#parley_sp)\n  + [Spirit Conduit (Su)](#spirit_conduit_su)",
+  "sections": [
+    {
+      "id": "spirit_channeler_emissary_overview",
+      "title": "Spirit Channeler Emissary (Class Overview)",
+      "anchor_heading": "# Spirit Channeler Emissary",
+      "end_at_heading": "### Requirements {#requirements}",
+      "description": "Overview of the Spirit Channeler Emissary class including role, alignment, hit die, and starting wealth.",
+      "keywords": [
+        "spirit channeler emissary",
+        "class",
+        "hit die",
+        "role",
+        "alignment"
+      ]
+    },
+    {
+      "id": "spirit_channeler_emissary_spirit_animal_ex",
+      "title": "Spirit Animal (Ex) (Spirit Channeler Emissary)",
+      "anchor_heading": "#### Spirit Animal (Ex) {#spirit_animal_ex}",
+      "description": "Enhances familiars or spirit animals by granting shaman spirit abilities to non-spirit familiars, or evolution points and eidolon evolutions to existing spirit animals.",
+      "keywords": [
+        "spirit animal",
+        "familiar enhancement",
+        "evolution points",
+        "eidolon evolutions",
+        "shaman spirit",
+        "basic magic",
+        "flight",
+        "improved natural armor",
+        "magic attacks",
+        "unnatural aura",
+        "burrow",
+        "damage reduction",
+        "major magic"
+      ]
+    },
+    {
+      "id": "spirit_channeler_emissary_spirit_bond_su",
+      "title": "Spirit Bond (Su) (Spirit Channeler Emissary)",
+      "anchor_heading": "#### Spirit Bond (Su) {#spirit_bond_su}",
+      "description": "Creates a powerful bond with a specific spirit, stacking Spirit Channeler emissary levels with shaman levels for spirit abilities, hexes, and spirit magic.",
+      "keywords": [
+        "spirit bond",
+        "level stacking",
+        "shaman levels",
+        "spirit class ability",
+        "spirit magic",
+        "hex qualification",
+        "spirit ability",
+        "greater spirit ability",
+        "wandering spirit"
+      ]
+    },
+    {
+      "id": "spirit_channeler_emissary_sixth_sense_sp",
+      "title": "Sixth Sense (Sp) (Spirit Channeler Emissary)",
+      "anchor_heading": "#### Sixth Sense (Sp) {#sixth_sense_sp}",
+      "description": "Grants detect undead as a spell-like ability that expands to detect fey at 2nd level and outsiders at 3rd level, requiring concentration to distinguish aura types.",
+      "keywords": [
+        "sixth sense",
+        "detect undead",
+        "detect fey",
+        "detect outsider",
+        "spell-like ability",
+        "concentration",
+        "aura detection",
+        "creature type detection"
+      ]
+    },
+    {
+      "id": "spirit_channeler_emissary_animus_sp",
+      "title": "Animus (Sp) (Spirit Channeler Emissary)",
+      "anchor_heading": "#### Animus (Sp) {#animus_sp}",
+      "description": "Summons creatures using the spirit animal as a conduit, functioning as summon monster IV with the summoned creature replacing and gaining the spirit animal's abilities temporarily.",
+      "keywords": [
+        "animus",
+        "summon monster",
+        "spirit animal conduit",
+        "hybrid creature",
+        "summoning",
+        "spirit animal ability",
+        "familiar replacement",
+        "30 feet range",
+        "caster level duration"
+      ]
+    },
+    {
+      "id": "spirit_channeler_emissary_manifest_will_su",
+      "title": "Manifest Will (Su) (Spirit Channeler Emissary)",
+      "anchor_heading": "#### Manifest Will (Su) {#manifest_will_su}",
+      "description": "Allows substituting Wisdom modifier for a chosen physical ability modifier on checks as an immediate action, expanding to more ability scores as levels increase.",
+      "keywords": [
+        "manifest will",
+        "wisdom substitution",
+        "immediate action",
+        "ability modifier",
+        "strength substitute",
+        "dexterity substitute",
+        "constitution substitute",
+        "attack roll",
+        "saving throw",
+        "skill check",
+        "ability check"
+      ]
+    },
+    {
+      "id": "spirit_channeler_emissary_parley_sp",
+      "title": "Parley (Sp) (Spirit Channeler Emissary)",
+      "anchor_heading": "#### Parley (Sp) {#parley_sp}",
+      "description": "Grants calm spirit as a spell-like ability three times per day, expanding to affect undead, outsiders, and fey as levels increase.",
+      "keywords": [
+        "parley",
+        "calm spirit",
+        "spell-like ability",
+        "corporeal undead",
+        "outsider type",
+        "fey type",
+        "three times per day",
+        "character level caster level"
+      ]
+    },
+    {
+      "id": "spirit_channeler_emissary_spirit_conduit_su",
+      "title": "Spirit Conduit (Su) (Spirit Channeler Emissary)",
+      "anchor_heading": "#### Spirit Conduit (Su) {#spirit_conduit_su}",
+      "description": "Enhances animus summons with Augment Summoning bonuses, allows repositioning the spirit animal when animus vanishes, and grants commune-like questions at higher levels.",
+      "keywords": [
+        "spirit conduit",
+        "augment summoning",
+        "enhancement bonus",
+        "strength bonus",
+        "constitution bonus",
+        "spirit animal repositioning",
+        "commune",
+        "yes-or-no question",
+        "animus enhancement",
+        "parting insight"
+      ]
+    }
+  ]
+}

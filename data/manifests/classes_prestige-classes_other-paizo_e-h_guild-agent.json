@@ -1,0 +1,163 @@
+{
+  "file": "guild-agent.md",
+  "source_path": "https://www.d20pfsrd.com/classes/prestige-classes/other-paizo/e-h/guild-agent/",
+  "source_name": "Prestige Class: Guild Agent",
+  "category": "Classes",
+  "toc_content": "Contents\n* [Requirements](#requirements)\n* [Class Skills](#class_skills)\n* [Class Features](#class_features)\n  + [Trap Sense (Ex)](#trap_sense_ex)\n  + [Trapfinding (Ex)](#trapfinding_ex)\n  + [Agency Secrets](#agency_secrets)\n  + [Mask Alignment (Su)](#mask_alignment_su)\n  + [Ambush Trap (Ex)](#ambush_trap_ex)\n  + [Sneak Attack (Ex)](#sneak_attack_ex)\n  + [Crucial Taunt (Ex)](#crucial_taunt_ex)\n  + [Improved Trap Sense (Ex)](#improved_trap_sense_ex)\n  + [Remote Activation (Ex)](#remote_activation_ex)",
+  "sections": [
+    {
+      "id": "guild_agent_overview",
+      "title": "Guild Agent (Class Overview)",
+      "anchor_heading": "# Guild Agent",
+      "end_at_heading": "### Requirements {#requirements}",
+      "description": "Overview of the Guild Agent class including role, alignment, hit die, and starting wealth.",
+      "keywords": [
+        "guild agent",
+        "class",
+        "hit die",
+        "role",
+        "alignment"
+      ]
+    },
+    {
+      "id": "guild_agent_trap_sense_ex",
+      "title": "Trap Sense (Ex) (Guild Agent)",
+      "anchor_heading": "#### Trap Sense (Ex) {#trap_sense_ex}",
+      "description": "Grants a stacking bonus to AC and Reflex saves against traps that increases with level. This bonus stacks with trap sense from other classes.",
+      "keywords": [
+        "trap sense",
+        "reflex save bonus",
+        "AC bonus against traps",
+        "stacking trap sense",
+        "trap avoidance",
+        "trap defense"
+      ]
+    },
+    {
+      "id": "guild_agent_trapfinding_ex",
+      "title": "Trapfinding (Ex) (Guild Agent)",
+      "anchor_heading": "#### Trapfinding (Ex) {#trapfinding_ex}",
+      "description": "Functions as the rogue trapfinding ability, with Guild agent levels stacking with other classes for determining total trapfinding bonus. Allows detection and disabling of magical traps.",
+      "keywords": [
+        "trapfinding",
+        "disable device magical traps",
+        "perception traps",
+        "stacking trapfinding",
+        "rogue trapfinding",
+        "detect traps"
+      ]
+    },
+    {
+      "id": "guild_agent_agency_secrets",
+      "title": "Agency Secrets (Guild Agent)",
+      "anchor_heading": "#### Agency Secrets {#agency_secrets}",
+      "description": "Special abilities gained every 2 levels starting at 2nd level, including options like bonus feats, rogue talents, spell-like abilities, and unique infiltration powers. Each secret can only be selected once unless specified otherwise.",
+      "keywords": [
+        "agency secrets",
+        "bluster intimidate",
+        "bonus feat selection",
+        "conceal thoughts",
+        "exotic performance",
+        "hidden stash",
+        "master caster",
+        "rogue talent selection",
+        "shrunken smuggle",
+        "vigilante agent",
+        "sleight of hand bonus",
+        "magic aura",
+        "caster level increase"
+      ]
+    },
+    {
+      "id": "guild_agent_mask_alignment_su",
+      "title": "Mask Alignment (Su) (Guild Agent)",
+      "anchor_heading": "#### Mask Alignment (Su) {#mask_alignment_su}",
+      "description": "Allows altering alignment aura to deceive detection effects as a standard action, with improved versions allowing immediate action responses and full protection from alignment-based effects. At 10th level, the false alignment is treated as real for all magical effects.",
+      "keywords": [
+        "mask alignment",
+        "alignment aura",
+        "detect alignment",
+        "alignment detection",
+        "false alignment",
+        "immediate action alignment",
+        "alignment-based effects",
+        "forbiddance",
+        "unholy weapon",
+        "alignment traps"
+      ]
+    },
+    {
+      "id": "guild_agent_ambush_trap_ex",
+      "title": "Ambush Trap (Ex) (Guild Agent)",
+      "anchor_heading": "#### Ambush Trap (Ex) {#ambush_trap_ex}",
+      "description": "Allows rigging of mechanical traps for remote triggering as a move action, adding trap sense and sneak attack bonuses to the trap's effectiveness. Requires exceeding the trap's Disable Device DC by 10.",
+      "keywords": [
+        "ambush trap",
+        "rig traps",
+        "trigger traps",
+        "move action trap",
+        "disable device DC",
+        "trap perception DC",
+        "trap attack rolls",
+        "sneak attack trap damage",
+        "mechanical trap modification"
+      ]
+    },
+    {
+      "id": "guild_agent_sneak_attack_ex",
+      "title": "Sneak Attack (Ex) (Guild Agent)",
+      "anchor_heading": "#### Sneak Attack (Ex) {#sneak_attack_ex}",
+      "description": "Grants sneak attack damage starting at 1d6 and increasing to 3d6 by 9th level. Stacks with sneak attack bonuses from other sources.",
+      "keywords": [
+        "sneak attack",
+        "sneak attack damage",
+        "stacking sneak attack",
+        "precision damage",
+        "flat-footed",
+        "denied dexterity bonus"
+      ]
+    },
+    {
+      "id": "guild_agent_crucial_taunt_ex",
+      "title": "Crucial Taunt (Ex) (Guild Agent)",
+      "anchor_heading": "#### Crucial Taunt (Ex) {#crucial_taunt_ex}",
+      "description": "Provides a bonus to feint, demoralize, and dirty trick checks equal to half class level, with the ability to delay the effect for up to 1 day per level. Language-dependent and requires proximity to trigger.",
+      "keywords": [
+        "crucial taunt",
+        "feint checks",
+        "intimidate demoralize",
+        "dirty trick combat maneuver",
+        "delayed effect",
+        "language-dependent",
+        "bluff feint",
+        "immediate action trigger"
+      ]
+    },
+    {
+      "id": "guild_agent_improved_trap_sense_ex",
+      "title": "Improved Trap Sense (Ex) (Guild Agent)",
+      "anchor_heading": "#### Improved Trap Sense (Ex) {#improved_trap_sense_ex}",
+      "description": "Extends trap sense bonus to apply to all saving throws against trap effects, not just Reflex saves and AC.",
+      "keywords": [
+        "improved trap sense",
+        "trap saving throws",
+        "all saves against traps",
+        "enhanced trap defense",
+        "trap effects resistance"
+      ]
+    },
+    {
+      "id": "guild_agent_remote_activation_ex",
+      "title": "Remote Activation (Ex) (Guild Agent)",
+      "anchor_heading": "#### Remote Activation (Ex) {#remote_activation_ex}",
+      "description": "Extends ambush trap ability to work on traps up to 30 feet away instead of requiring adjacency.",
+      "keywords": [
+        "remote activation",
+        "ambush trap range",
+        "distant trap triggering",
+        "30 feet trap activation",
+        "ranged trap control"
+      ]
+    }
+  ]
+}

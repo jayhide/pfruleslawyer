@@ -1,0 +1,121 @@
+{
+  "file": "darechaser.md",
+  "source_path": "https://www.d20pfsrd.com/classes/prestige-classes/other-paizo/c-d/darechaser/",
+  "source_name": "Prestige Class: Darechaser",
+  "category": "Classes",
+  "toc_content": "Contents\n* [Requirements](#requirements)\n* [Class Skills](#class_skills)\n* [Class Features](#class_features)\n  + [Adrenaline Rush (Ex)](#adrenaline_rush_ex)\n  + [Dare (Ex)](#dare_ex)\n  + [Adrenaline Deed (Ex)](#adrenaline_deed_ex)\n  + [Record Breaker (Ex)](#record_breaker_ex)",
+  "sections": [
+    {
+      "id": "darechaser_overview",
+      "title": "Darechaser (Class Overview)",
+      "anchor_heading": "# Darechaser",
+      "end_at_heading": "### Requirements {#requirements}",
+      "description": "Overview of the Darechaser class including role, alignment, hit die, and starting wealth.",
+      "keywords": [
+        "darechaser",
+        "class",
+        "hit die",
+        "role",
+        "alignment"
+      ]
+    },
+    {
+      "id": "darechaser_adrenaline_rush_ex",
+      "title": "Adrenaline Rush (Ex) (Darechaser)",
+      "anchor_heading": "#### Adrenaline Rush (Ex) {#adrenaline_rush_ex}",
+      "description": "Grants bonuses to physical skill checks and ability checks for a limited number of rounds per day as a free action, followed by fatigue. Can be sustained using rage rounds if the darechaser has the rage class feature.",
+      "keywords": [
+        "adrenaline rush",
+        "free action",
+        "Constitution modifier",
+        "rounds per day",
+        "Acrobatics",
+        "Climb",
+        "Escape Artist",
+        "Ride",
+        "Swim",
+        "fatigued",
+        "exhausted",
+        "unconscious",
+        "rage rounds",
+        "physical skills",
+        "ability checks"
+      ]
+    },
+    {
+      "id": "darechaser_dare_ex",
+      "title": "Dare (Ex) (Darechaser)",
+      "anchor_heading": "#### Dare (Ex) {#dare_ex}",
+      "description": "Allows spending adrenaline rush rounds as a swift action to add exploding dice to rolls that fulfill declared objectives, with additional benefits if the dice are necessary for success. Die type increases with level (d6/d8/d10) and explodes on maximum results.",
+      "keywords": [
+        "dare",
+        "swift action",
+        "expend round",
+        "1d6",
+        "1d8",
+        "1d10",
+        "natural 6",
+        "natural 8",
+        "natural 10",
+        "exploding dice",
+        "Constitution modifier",
+        "daring endurance",
+        "daring finish",
+        "daring persistence",
+        "temporary hit points",
+        "attack roll",
+        "saving throw",
+        "confused",
+        "dazed",
+        "stunned",
+        "panicked",
+        "audible components",
+        "silence"
+      ]
+    },
+    {
+      "id": "darechaser_adrenaline_deed_ex",
+      "title": "Adrenaline Deed (Ex) (Darechaser)",
+      "anchor_heading": "#### Adrenaline Deed (Ex) {#adrenaline_deed_ex}",
+      "description": "Provides additional benefits while using adrenaline rush, chosen from a list of specialized abilities that enhance movement, combat, or skill use. Gained every 2 levels starting at 2nd level.",
+      "keywords": [
+        "adrenaline deed",
+        "dare-driven",
+        "diehard performer",
+        "impossible speed",
+        "mounted adrenaline",
+        "powerful climber",
+        "powerful leaper",
+        "powerful swimmer",
+        "unstoppable",
+        "untouchable",
+        "climb speed",
+        "swim speed",
+        "dodge bonus",
+        "running start",
+        "Perform checks",
+        "performance combat",
+        "temporary hit points",
+        "stabilize",
+        "dying"
+      ]
+    },
+    {
+      "id": "darechaser_record_breaker_ex",
+      "title": "Record Breaker (Ex) (Darechaser)",
+      "anchor_heading": "#### Record Breaker (Ex) {#record_breaker_ex}",
+      "description": "Once per day enhancement to the dare ability that doubles or triples the number of bonus dice added to a single d20 roll, representing surpassing mortal limits. Enhanced effect when combined with adrenaline rush.",
+      "keywords": [
+        "record breaker",
+        "once per day",
+        "dare ability",
+        "bonus dice",
+        "2x normal",
+        "3x normal",
+        "d20 roll",
+        "mortal limits",
+        "adrenaline rush check"
+      ]
+    }
+  ]
+}

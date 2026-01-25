@@ -1,0 +1,160 @@
+{
+  "file": "coastal-pirate.md",
+  "source_path": "https://www.d20pfsrd.com/classes/prestige-classes/other-paizo/c-d/coastal-pirate/",
+  "source_name": "Prestige Class: Coastal Pirate",
+  "category": "Classes",
+  "toc_content": "Contents\n* [Requirements](#requirements)\n* [Class Skills](#class_skills)\n* [Class Features](#class_features)\n  + [Quick Appraise (Ex)](#quick_appraise_ex)\n  + [Sodden Stealth (Ex)](#sodden_stealth_ex)\n  + [Bogstep (Ex)](#bogstep_ex)\n  + [Deep Breath (Ex)](#deep_breath_ex)\n  + [Sneak Attack (Ex)](#sneak_attack_ex)\n  + [Navigate Storm (Su)](#navigate_storm_su)\n  + [Grapple Ship (Su)](#grapple_ship_su)\n  + [Shipmind (Su)](#shipmind_su)\n  + [Fogcraft (Su)](#fogcraft_su)",
+  "sections": [
+    {
+      "id": "coastal_pirate_overview",
+      "title": "Coastal Pirate (Class Overview)",
+      "anchor_heading": "# Coastal Pirate",
+      "end_at_heading": "### Requirements {#requirements}",
+      "description": "Overview of the Coastal Pirate class including role, alignment, hit die, and starting wealth.",
+      "keywords": [
+        "coastal pirate",
+        "class",
+        "hit die",
+        "role",
+        "alignment"
+      ]
+    },
+    {
+      "id": "coastal_pirate_quick_appraise_ex",
+      "title": "Quick Appraise (Ex) (Coastal Pirate)",
+      "anchor_heading": "#### Quick Appraise (Ex) {#quick_appraise_ex}",
+      "description": "Allows the coastal pirate to appraise the value of an item in just 1 round instead of the normal time required.",
+      "keywords": [
+        "quick appraise",
+        "appraise",
+        "1 round",
+        "item value",
+        "treasure identification",
+        "fast appraisal"
+      ]
+    },
+    {
+      "id": "coastal_pirate_sodden_stealth_ex",
+      "title": "Sodden Stealth (Ex) (Coastal Pirate)",
+      "anchor_heading": "#### Sodden Stealth (Ex) {#sodden_stealth_ex}",
+      "description": "Grants an increasing competence bonus to Stealth checks made in marshes, bogs, or swamps, starting at +2 and scaling to +6 at 10th level.",
+      "keywords": [
+        "sodden stealth",
+        "stealth bonus",
+        "marsh stealth",
+        "bog stealth",
+        "swamp stealth",
+        "competence bonus",
+        "wetland terrain"
+      ]
+    },
+    {
+      "id": "coastal_pirate_bogstep_ex",
+      "title": "Bogstep (Ex) (Coastal Pirate)",
+      "anchor_heading": "#### Bogstep (Ex) {#bogstep_ex}",
+      "description": "Allows normal movement through shallow bogs and reduces deep bog movement cost to 2 squares, with modified Acrobatics penalties for tumbling through bog terrain.",
+      "keywords": [
+        "bogstep",
+        "bog movement",
+        "shallow bog",
+        "deep bog",
+        "marsh terrain",
+        "difficult terrain",
+        "acrobatics tumble",
+        "swamp movement"
+      ]
+    },
+    {
+      "id": "coastal_pirate_deep_breath_ex",
+      "title": "Deep Breath (Ex) (Coastal Pirate)",
+      "anchor_heading": "#### Deep Breath (Ex) {#deep_breath_ex}",
+      "description": "Extends breath holding capacity to three times Constitution score in rounds before requiring Constitution checks.",
+      "keywords": [
+        "deep breath",
+        "hold breath",
+        "constitution score",
+        "breath holding",
+        "drowning",
+        "underwater",
+        "constitution checks"
+      ]
+    },
+    {
+      "id": "coastal_pirate_sneak_attack_ex",
+      "title": "Sneak Attack (Ex) (Coastal Pirate)",
+      "anchor_heading": "#### Sneak Attack (Ex) {#sneak_attack_ex}",
+      "description": "Functions identically to the rogue's sneak attack ability and stacks with sneak attack damage from other sources.",
+      "keywords": [
+        "sneak attack",
+        "precision damage",
+        "flanking",
+        "flat-footed",
+        "stack sneak attack",
+        "rogue ability"
+      ]
+    },
+    {
+      "id": "coastal_pirate_navigate_storm_su",
+      "title": "Navigate Storm (Su) (Coastal Pirate)",
+      "anchor_heading": "#### Navigate Storm (Su) {#navigate_storm_su}",
+      "description": "Treats all storms as one category less severe for sailing and navigation purposes, reducing powerful storms to inclement weather effects.",
+      "keywords": [
+        "navigate storm",
+        "storm navigation",
+        "sailing",
+        "weather navigation",
+        "powerful storm",
+        "inclement weather",
+        "storm category"
+      ]
+    },
+    {
+      "id": "coastal_pirate_grapple_ship_su",
+      "title": "Grapple Ship (Su) (Coastal Pirate)",
+      "anchor_heading": "#### Grapple Ship (Su) {#grapple_ship_su}",
+      "description": "Allows using a grappling hook to halt enemy ships through an opposed Strength check, with duration based on the margin of success.",
+      "keywords": [
+        "grapple ship",
+        "grappling hook",
+        "ship combat",
+        "opposed strength check",
+        "halt ship",
+        "naval combat",
+        "range increment"
+      ]
+    },
+    {
+      "id": "coastal_pirate_shipmind_su",
+      "title": "Shipmind (Su) (Coastal Pirate)",
+      "anchor_heading": "#### Shipmind (Su) {#shipmind_su}",
+      "description": "Grants mental control of a ship for 1 round per level as a standard action, allowing telepathic navigation while the pirate's body becomes helpless.",
+      "keywords": [
+        "shipmind",
+        "ship control",
+        "mental control",
+        "telepathic navigation",
+        "helpless condition",
+        "standard action",
+        "immediate action",
+        "ship movement"
+      ]
+    },
+    {
+      "id": "coastal_pirate_fogcraft_su",
+      "title": "Fogcraft (Su) (Coastal Pirate)",
+      "anchor_heading": "#### Fogcraft (Su) {#fogcraft_su}",
+      "description": "Creates a temporary ship made of fog that can move over land or water, with size options trading duration and stealth for capacity and durability.",
+      "keywords": [
+        "fogcraft",
+        "fog ship",
+        "temporary vessel",
+        "land movement",
+        "ship creation",
+        "stealth bonus",
+        "carrying capacity",
+        "ship duration",
+        "competence bonus sailing"
+      ]
+    }
+  ]
+}

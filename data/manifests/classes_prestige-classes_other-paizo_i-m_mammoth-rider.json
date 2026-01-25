@@ -1,0 +1,252 @@
+{
+  "file": "mammoth-rider.md",
+  "source_path": "https://www.d20pfsrd.com/classes/prestige-classes/other-paizo/i-m/mammoth-rider/",
+  "source_name": "Prestige Class: Mammoth Rider",
+  "category": "Classes",
+  "toc_content": "Contents\n* [Requirements](#requirements)\n* [Class Skills](#class_skills)\n* [Class Features](#class_features)\n  + [Gigantic Steed (Ex)](#gigantic_steed_ex)\n  + [Steed (Ex)](#steed_ex)\n  + [Wild Coercion (Ex)](#wild_coercion_ex)\n  + [Born Survivor (Ex)](#born_survivor_ex)\n  + [Colossus Hunter (Ex)](#colossus_hunter_ex)\n  + [Rapid Straddle (Ex)](#rapid_straddle_ex)\n  + [Rugged Steed (Ex)](#rugged_steed_ex)\n  + [Mistrust of Magic (Ex)](#mistrust_of_magic_ex)\n  + [Undaunted (Ex)](#undaunted_ex)\n  + [Valiant Devotion (Ex)](#valiant_devotion_ex)\n  + [Hunter\u2019s Instinct (Ex)](#hunter8217s_instinct_ex)\n  + [Steed\u2019s Reach (Ex)](#steed8217s_reach_ex)\n  + [Combined Might (Ex)](#combined_might_ex)\n  + [Pulverizing Assault (Ex)](#pulverizing_assault_ex)\n  + [Mammoth Lord (Ex)](#mammoth_lord_ex)",
+  "sections": [
+    {
+      "id": "mammoth_rider_overview",
+      "title": "Mammoth Rider (Class Overview)",
+      "anchor_heading": "# Mammoth Rider",
+      "end_at_heading": "### Requirements {#requirements}",
+      "description": "Overview of the Mammoth Rider class including role, alignment, hit die, and starting wealth.",
+      "keywords": [
+        "mammoth rider",
+        "class",
+        "hit die",
+        "role",
+        "alignment"
+      ]
+    },
+    {
+      "id": "mammoth_rider_gigantic_steed_ex",
+      "title": "Gigantic Steed (Ex) (Mammoth Rider)",
+      "anchor_heading": "#### Gigantic Steed (Ex) {#gigantic_steed_ex}",
+      "description": "Increases the mammoth rider's steed to Huge size with associated penalties and bonuses, and provides scaling Strength and Constitution bonuses as the rider levels up.",
+      "keywords": [
+        "gigantic steed",
+        "huge size",
+        "steed size increase",
+        "size bonus",
+        "strength bonus",
+        "constitution bonus",
+        "reach increase",
+        "damage size category"
+      ]
+    },
+    {
+      "id": "mammoth_rider_steed_ex",
+      "title": "Steed (Ex) (Mammoth Rider)",
+      "anchor_heading": "#### Steed (Ex) {#steed_ex}",
+      "description": "Grants the mammoth rider an animal companion steed from a specific list of large creatures that functions as a druid's animal companion and stacks with other animal companion levels.",
+      "keywords": [
+        "mammoth rider steed",
+        "animal companion",
+        "druid level stacking",
+        "mastodon",
+        "woolly mammoth",
+        "triceratops",
+        "aurochs",
+        "rhinoceros",
+        "effective druid level"
+      ]
+    },
+    {
+      "id": "mammoth_rider_wild_coercion_ex",
+      "title": "Wild Coercion (Ex) (Mammoth Rider)",
+      "anchor_heading": "#### Wild Coercion (Ex) {#wild_coercion_ex}",
+      "description": "Functions as wild empathy but can also demoralize animals and magical beasts using Intimidate mechanics, adding both Strength and Charisma modifiers to the check.",
+      "keywords": [
+        "wild coercion",
+        "wild empathy",
+        "demoralize animal",
+        "intimidate animals",
+        "magical beast intimidate",
+        "strength modifier",
+        "charisma modifier",
+        "force friendly"
+      ]
+    },
+    {
+      "id": "mammoth_rider_born_survivor_ex",
+      "title": "Born Survivor (Ex) (Mammoth Rider)",
+      "anchor_heading": "#### Born Survivor (Ex) {#born_survivor_ex}",
+      "description": "Grants bonus feats from a list of save-improving feats at 2nd and 6th levels, requiring normal prerequisites to be met.",
+      "keywords": [
+        "born survivor",
+        "bonus feat",
+        "great fortitude",
+        "iron will",
+        "lightning reflexes",
+        "improved saves",
+        "fortitude bonus",
+        "will bonus",
+        "reflex bonus"
+      ]
+    },
+    {
+      "id": "mammoth_rider_colossus_hunter_ex",
+      "title": "Colossus Hunter (Ex) (Mammoth Rider)",
+      "anchor_heading": "#### Colossus Hunter (Ex) {#colossus_hunter_ex}",
+      "description": "Provides escalating attack and damage bonuses against creatures based on their size, with larger bonuses against bigger opponents.",
+      "keywords": [
+        "colossus hunter",
+        "large creature bonus",
+        "huge creature bonus",
+        "gargantuan bonus",
+        "colossal bonus",
+        "size-based damage",
+        "attack bonus vs large"
+      ]
+    },
+    {
+      "id": "mammoth_rider_rapid_straddle_ex",
+      "title": "Rapid Straddle (Ex) (Mammoth Rider)",
+      "anchor_heading": "#### Rapid Straddle (Ex) {#rapid_straddle_ex}",
+      "description": "Allows fast mounting and dismounting of steeds more than one size category larger, provided a move action is still available.",
+      "keywords": [
+        "rapid straddle",
+        "fast mount",
+        "fast dismount",
+        "ride check",
+        "size category larger",
+        "move action",
+        "mounting huge steed"
+      ]
+    },
+    {
+      "id": "mammoth_rider_rugged_steed_ex",
+      "title": "Rugged Steed (Ex) (Mammoth Rider)",
+      "anchor_heading": "#### Rugged Steed (Ex) {#rugged_steed_ex}",
+      "description": "Increases the steed's natural armor bonus by 1 at 3rd level and every 2 levels thereafter.",
+      "keywords": [
+        "rugged steed",
+        "natural armor bonus",
+        "steed armor",
+        "natural armor increase",
+        "armor class bonus"
+      ]
+    },
+    {
+      "id": "mammoth_rider_mistrust_of_magic_ex",
+      "title": "Mistrust of Magic (Ex) (Mammoth Rider)",
+      "anchor_heading": "#### Mistrust of Magic (Ex) {#mistrust_of_magic_ex}",
+      "description": "Grants morale bonuses on saving throws against arcane, divine, or psychic spells based on which spellcasting classes the rider lacks.",
+      "keywords": [
+        "mistrust of magic",
+        "arcane spell saves",
+        "divine spell saves",
+        "psychic spell saves",
+        "morale bonus",
+        "anti-magic",
+        "spellcasting immunity"
+      ]
+    },
+    {
+      "id": "mammoth_rider_undaunted_ex",
+      "title": "Undaunted (Ex) (Mammoth Rider)",
+      "anchor_heading": "#### Undaunted (Ex) {#undaunted_ex}",
+      "description": "Adds Strength bonus to Intimidate DC against the rider and prevents size bonuses from affecting intimidation attempts against her.",
+      "keywords": [
+        "undaunted",
+        "intimidate dc",
+        "strength bonus intimidate",
+        "size bonus immunity",
+        "intimidation resistance",
+        "fear resistance"
+      ]
+    },
+    {
+      "id": "mammoth_rider_valiant_devotion_ex",
+      "title": "Valiant Devotion (Ex) (Mammoth Rider)",
+      "anchor_heading": "#### Valiant Devotion (Ex) {#valiant_devotion_ex}",
+      "description": "Grants the steed a +4 morale bonus on saves against charm, compulsion, and fear effects.",
+      "keywords": [
+        "valiant devotion",
+        "steed morale bonus",
+        "charm resistance",
+        "compulsion resistance",
+        "fear resistance",
+        "steed saves"
+      ]
+    },
+    {
+      "id": "mammoth_rider_hunter8217s_instinct_ex",
+      "title": "Hunter\u2019s Instinct (Ex) (Mammoth Rider)",
+      "anchor_heading": "#### Hunter\u2019s Instinct (Ex) {#hunter8217s_instinct_ex}",
+      "description": "Grants the ranger's quarry ability usable on any creature type, or improved quarry if the rider already has quarry from another class.",
+      "keywords": [
+        "hunter's instinct",
+        "quarry ability",
+        "improved quarry",
+        "ranger quarry",
+        "favored enemy",
+        "tracking bonus",
+        "any creature type"
+      ]
+    },
+    {
+      "id": "mammoth_rider_steed8217s_reach_ex",
+      "title": "Steed\u2019s Reach (Ex) (Mammoth Rider)",
+      "anchor_heading": "#### Steed\u2019s Reach (Ex) {#steed8217s_reach_ex}",
+      "description": "Increases the steed's reach to 15 feet at 7th level.",
+      "keywords": [
+        "steed's reach",
+        "15 feet reach",
+        "reach increase",
+        "steed reach improvement",
+        "natural reach"
+      ]
+    },
+    {
+      "id": "mammoth_rider_combined_might_ex",
+      "title": "Combined Might (Ex) (Mammoth Rider)",
+      "anchor_heading": "#### Combined Might (Ex) {#combined_might_ex}",
+      "description": "Once per round during a mounted charge, adds half the steed's Strength bonus to the rider's melee damage roll.",
+      "keywords": [
+        "combined might",
+        "mounted charge",
+        "steed strength bonus",
+        "charge damage",
+        "melee damage bonus",
+        "free action requirement"
+      ]
+    },
+    {
+      "id": "mammoth_rider_pulverizing_assault_ex",
+      "title": "Pulverizing Assault (Ex) (Mammoth Rider)",
+      "anchor_heading": "#### Pulverizing Assault (Ex) {#pulverizing_assault_ex}",
+      "description": "When directing the steed to charge or use special attacks, the first damage dealt forces a Fortitude save or the target becomes staggered for 1d4 rounds.",
+      "keywords": [
+        "pulverizing assault",
+        "staggered condition",
+        "fortitude save",
+        "charge attack",
+        "constrict attack",
+        "powerful charge",
+        "trample attack",
+        "steed damage"
+      ]
+    },
+    {
+      "id": "mammoth_rider_mammoth_lord_ex",
+      "title": "Mammoth Lord (Ex) (Mammoth Rider)",
+      "anchor_heading": "#### Mammoth Lord (Ex) {#mammoth_lord_ex}",
+      "description": "Grants immunity to multiple conditions, improved evasion for Fort/Will saves, and a stunning effect when both rider and steed hit the same target.",
+      "keywords": [
+        "mammoth lord",
+        "condition immunity",
+        "dazed immunity",
+        "fatigued immunity",
+        "shaken immunity",
+        "sickened immunity",
+        "staggered immunity",
+        "stunned immunity",
+        "improved evasion",
+        "stunning attack",
+        "fortitude save"
+      ]
+    }
+  ]
+}

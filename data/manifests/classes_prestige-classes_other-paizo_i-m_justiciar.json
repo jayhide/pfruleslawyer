@@ -1,0 +1,122 @@
+{
+  "file": "justiciar.md",
+  "source_path": "https://www.d20pfsrd.com/classes/prestige-classes/other-paizo/i-m/justiciar/",
+  "source_name": "Prestige Class: Justiciar",
+  "category": "Classes",
+  "toc_content": "Contents\n* [Requirements](#requirements)\n* [Class Skills](#class_skills)\n* [Class Features](#class_features)\n  + [Weapon and Armor Proficiency](#weapon_and_armor_proficiency)\n  + [Aura of Law (Ex)](#aura_of_law_ex)\n  + [Authority (Su)](#authority_su)\n  + [Lawkeeper](#lawkeeper)\n  + [Sure Shot](#sure_shot)\n  + [Oathmark (Su)](#oathmark_su)",
+  "sections": [
+    {
+      "id": "justiciar_overview",
+      "title": "Justiciar (Class Overview)",
+      "anchor_heading": "# Justiciar",
+      "end_at_heading": "### Requirements {#requirements}",
+      "description": "Overview of the Justiciar class including role, alignment, hit die, and starting wealth.",
+      "keywords": [
+        "justiciar",
+        "class",
+        "hit die",
+        "role",
+        "alignment"
+      ]
+    },
+    {
+      "id": "justiciar_weapon_and_armor_proficiency",
+      "title": "Weapon and Armor Proficiency (Justiciar)",
+      "anchor_heading": "#### Weapon and Armor Proficiency {#weapon_and_armor_proficiency}",
+      "description": "Justiciars gain no additional weapon or armor proficiencies beyond their base class.",
+      "keywords": [
+        "weapon proficiency",
+        "armor proficiency",
+        "no additional proficiencies",
+        "justiciar proficiencies"
+      ]
+    },
+    {
+      "id": "justiciar_aura_of_law_ex",
+      "title": "Aura of Law (Ex) (Justiciar)",
+      "anchor_heading": "#### Aura of Law (Ex) {#aura_of_law_ex}",
+      "description": "The justiciar radiates an aura of law detectable by detect law spells, with power equal to character level or character level +4 if she has cleric or paladin levels.",
+      "keywords": [
+        "aura of law",
+        "detect law",
+        "character level",
+        "cleric levels",
+        "paladin levels",
+        "aura power",
+        "law detection"
+      ]
+    },
+    {
+      "id": "justiciar_authority_su",
+      "title": "Authority (Su) (Justiciar)",
+      "anchor_heading": "#### Authority (Su) {#authority_su}",
+      "description": "The justiciar has legal authority to enforce her code, gains +4 bonus on Diplomacy and Intimidate checks regarding law and authority, has perfect knowledge of her legal code, and can always take 10 on Knowledge checks about the code.",
+      "keywords": [
+        "authority",
+        "legal authority",
+        "diplomacy bonus",
+        "intimidate bonus",
+        "perfect knowledge",
+        "code of laws",
+        "take 10",
+        "knowledge checks",
+        "deputize",
+        "jurisdiction"
+      ]
+    },
+    {
+      "id": "justiciar_lawkeeper",
+      "title": "Lawkeeper (Justiciar)",
+      "anchor_heading": "#### Lawkeeper {#lawkeeper}",
+      "description": "Justiciars cannot violate their code or willingly agreed oaths and contracts, losing all class abilities if they do so until receiving atonement or official pardon.",
+      "keywords": [
+        "lawkeeper",
+        "code violation",
+        "oath breaking",
+        "contract violation",
+        "lose class abilities",
+        "atonement",
+        "official pardon",
+        "spirit of the law"
+      ]
+    },
+    {
+      "id": "justiciar_sure_shot",
+      "title": "Sure Shot (Justiciar)",
+      "anchor_heading": "#### Sure Shot {#sure_shot}",
+      "description": "The justiciar can add her Charisma bonus to crossbow attack rolls and deal 1 extra damage per justiciar level, usable a number of times per day equal to class level.",
+      "keywords": [
+        "sure shot",
+        "crossbow",
+        "charisma bonus",
+        "attack roll",
+        "extra damage",
+        "times per day",
+        "class level",
+        "crossbow attack"
+      ]
+    },
+    {
+      "id": "justiciar_oathmark_su",
+      "title": "Oathmark (Su) (Justiciar)",
+      "anchor_heading": "#### Oathmark (Su) {#oathmark_su}",
+      "description": "The justiciar can magically link two willing creatures in an agreement, marking oathbreakers with a physical curse that penalizes Diplomacy checks and alerting the other party of betrayal.",
+      "keywords": [
+        "oathmark",
+        "magical link",
+        "willing creatures",
+        "agreement",
+        "oathbreaker",
+        "physical mark",
+        "diplomacy penalty",
+        "betrayal detection",
+        "curse",
+        "standard action",
+        "three times per day",
+        "divination effect",
+        "remove curse",
+        "caster level check"
+      ]
+    }
+  ]
+}

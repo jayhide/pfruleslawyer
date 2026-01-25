@@ -1,0 +1,110 @@
+{
+  "file": "deep-sea-pirate.md",
+  "source_path": "https://www.d20pfsrd.com/classes/prestige-classes/other-paizo/c-d/deep-sea-pirate/",
+  "source_name": "Prestige Class: Deep Sea Pirate",
+  "category": "Classes",
+  "toc_content": "Contents\n* [Requirements](#requirements)\n* [Class Skills](#class_skills)\n* [Class Features](#class_features)\n  + [Weapon and Armor Proficiency](#weapon_and_armor_proficiency)\n  + [Sneak Attack (Ex)](#sneak_attack_ex)\n  + [Pirate Trick](#pirate_trick)\n  + [Advanced Tricks](#advanced_tricks)",
+  "sections": [
+    {
+      "id": "deep_sea_pirate_overview",
+      "title": "Deep Sea Pirate (Class Overview)",
+      "anchor_heading": "# Deep Sea Pirate",
+      "end_at_heading": "### Requirements {#requirements}",
+      "description": "Overview of the Deep Sea Pirate class including role, alignment, hit die, and starting wealth.",
+      "keywords": [
+        "deep sea pirate",
+        "class",
+        "hit die",
+        "role",
+        "alignment"
+      ]
+    },
+    {
+      "id": "deep_sea_pirate_weapon_and_armor_proficiency",
+      "title": "Weapon and Armor Proficiency (Deep Sea Pirate)",
+      "anchor_heading": "#### Weapon and Armor Proficiency {#weapon_and_armor_proficiency}",
+      "description": "Grants proficiency with cutlass, hook hand, rapier, and short sword but no armor proficiency.",
+      "keywords": [
+        "weapon proficiency",
+        "armor proficiency",
+        "cutlass",
+        "hook hand",
+        "rapier",
+        "short sword",
+        "no armor"
+      ]
+    },
+    {
+      "id": "deep_sea_pirate_sneak_attack_ex",
+      "title": "Sneak Attack (Ex) (Deep Sea Pirate)",
+      "anchor_heading": "#### Sneak Attack (Ex) {#sneak_attack_ex}",
+      "description": "Functions like rogue sneak attack, dealing +1d6 extra damage that increases every three levels starting at 4th level.",
+      "keywords": [
+        "sneak attack",
+        "rogue ability",
+        "extra damage",
+        "1d6",
+        "flanking",
+        "flat-footed",
+        "precision damage",
+        "sneak attack stacking"
+      ]
+    },
+    {
+      "id": "deep_sea_pirate_pirate_trick",
+      "title": "Pirate Trick (Deep Sea Pirate)",
+      "anchor_heading": "#### Pirate Trick {#pirate_trick}",
+      "description": "Grants special tricks starting at 4th level and every three levels thereafter, with some tricks modifying sneak attacks.",
+      "keywords": [
+        "pirate trick",
+        "classic duelist",
+        "deep breath",
+        "drink for free",
+        "farseer",
+        "hand stab",
+        "quick appraise",
+        "rigging monkey",
+        "storm sailor",
+        "windrigger",
+        "competence bonus",
+        "disarm bonus",
+        "climb bonus",
+        "appraise",
+        "move action",
+        "standard action",
+        "perception checks",
+        "constitution checks",
+        "diplomacy bonus",
+        "intimidate bonus",
+        "acrobatics checks",
+        "profession sailor"
+      ]
+    },
+    {
+      "id": "deep_sea_pirate_advanced_tricks",
+      "title": "Advanced Tricks (Deep Sea Pirate)",
+      "anchor_heading": "#### Advanced Tricks {#advanced_tricks}",
+      "description": "Higher-level trick options available at 6th, 8th, and 9th level that replace regular pirate tricks.",
+      "keywords": [
+        "advanced tricks",
+        "burst of speed",
+        "defensive climber",
+        "fearsome advance",
+        "foot sweep",
+        "shipboard authority",
+        "dexterity bonus to AC",
+        "climbing",
+        "immediate action",
+        "intimidate check",
+        "demoralize",
+        "trip attack",
+        "full-round action",
+        "morale bonus",
+        "attack rolls",
+        "skill check bonus",
+        "ship movement",
+        "profession sailor"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,197 @@
+{
+  "file": "grand-marshal.md",
+  "source_path": "https://www.d20pfsrd.com/classes/prestige-classes/other-paizo/e-h/grand-marshal/",
+  "source_name": "Prestige Class: Grand Marshal",
+  "category": "Classes",
+  "toc_content": "",
+  "sections": [
+    {
+      "id": "grand_marshal_overview",
+      "title": "Grand Marshal (Class Overview)",
+      "anchor_heading": "# Grand Marshal",
+      "end_at_heading": "### Requirements",
+      "description": "Overview of the Grand Marshal class including role, alignment, hit die, and starting wealth.",
+      "keywords": [
+        "grand marshal",
+        "class",
+        "hit die",
+        "role",
+        "alignment"
+      ]
+    },
+    {
+      "id": "grand_marshal_weapon_and_armor_proficiency",
+      "title": "Weapon and Armor Proficiency (Grand Marshal)",
+      "anchor_heading": "#### Weapon and Armor Proficiency",
+      "description": "Grand marshals gain no additional weapon or armor proficiencies beyond their base class.",
+      "keywords": [
+        "weapon proficiency",
+        "armor proficiency",
+        "no additional proficiencies",
+        "grand marshal proficiency"
+      ]
+    },
+    {
+      "id": "grand_marshal_eye_for_detail_exhttpswwwd20pfsrdcommagictocextraordinaryabi",
+      "title": "Eye for Detail ([Ex](https://www.d20pfsrd.com/magic#TOC-Extraordinary-Abilities-Ex-)) (Grand Marshal)",
+      "anchor_heading": "#### Eye for Detail ([Ex](https://www.d20pfsrd.com/magic#TOC-Extraordinary-Abilities-Ex-))",
+      "description": "Adds Intelligence and Wisdom bonuses to Perception and Sense Motive checks, plus half level bonus against Disguise and Sleight of Hand.",
+      "keywords": [
+        "eye for detail",
+        "intelligence bonus perception",
+        "wisdom bonus sense motive",
+        "perception check",
+        "sense motive check",
+        "disguise opposed",
+        "sleight of hand opposed",
+        "double ability bonus"
+      ]
+    },
+    {
+      "id": "grand_marshal_legal_judgment_exhttpswwwd20pfsrdcommagictocextraordinaryabi",
+      "title": "Legal Judgment ([Ex](https://www.d20pfsrd.com/magic#TOC-Extraordinary-Abilities-Ex-)) (Grand Marshal)",
+      "anchor_heading": "#### Legal Judgment ([Ex](https://www.d20pfsrd.com/magic#TOC-Extraordinary-Abilities-Ex-))",
+      "description": "Swift action ability providing combat bonuses similar to inquisitor judgment, with multiple judgment types including bulletproof, destruction, evasive, justice, lucky dodge, quick recovery, sharpshooter, and sure shot.",
+      "keywords": [
+        "legal judgment",
+        "swift action judgment",
+        "bulletproof judgment",
+        "destruction judgment",
+        "evasive judgment",
+        "justice judgment",
+        "lucky dodge judgment",
+        "quick recovery judgment",
+        "sharpshooter judgment",
+        "sure shot judgment",
+        "inquisitor judgment equivalent",
+        "damage reduction ranged",
+        "competence bonus firearms",
+        "light blades",
+        "evasion",
+        "uncanny dodge",
+        "fast healing",
+        "cover ignore",
+        "concealment miss chance"
+      ]
+    },
+    {
+      "id": "grand_marshal_danger_sense_exhttpswwwd20pfsrdcommagictocextraordinaryabili",
+      "title": "Danger Sense ([Ex](https://www.d20pfsrd.com/magic#TOC-Extraordinary-Abilities-Ex-)) (Grand Marshal)",
+      "anchor_heading": "#### Danger Sense ([Ex](https://www.d20pfsrd.com/magic#TOC-Extraordinary-Abilities-Ex-))",
+      "description": "Grants initiative bonus equal to half level and allows acting in surprise rounds even when unaware of opponents.",
+      "keywords": [
+        "danger sense",
+        "initiative bonus",
+        "surprise round",
+        "act in surprise",
+        "unaware opponents",
+        "half level initiative"
+      ]
+    },
+    {
+      "id": "grand_marshal_gunmarshal_exhttpswwwd20pfsrdcommagictocextraordinaryabiliti",
+      "title": "Gunmarshal ([Ex](https://www.d20pfsrd.com/magic#TOC-Extraordinary-Abilities-Ex-)) (Grand Marshal)",
+      "anchor_heading": "#### Gunmarshal ([Ex](https://www.d20pfsrd.com/magic#TOC-Extraordinary-Abilities-Ex-))",
+      "description": "Grants gunslinger deeds at half level (stacking with gunslinger levels) and Charisma-based skill bonuses when displaying badge in region.",
+      "keywords": [
+        "gunmarshal",
+        "gunslinger deeds",
+        "half level deeds",
+        "gunslinger levels stack",
+        "charisma skill bonus",
+        "grand marshal badge",
+        "badge display",
+        "regional authority"
+      ]
+    },
+    {
+      "id": "grand_marshal_labyrinthine_cunning_exhttpswwwd20pfsrdcommagictocextraordin",
+      "title": "Labyrinthine Cunning ([Ex](https://www.d20pfsrd.com/magic#TOC-Extraordinary-Abilities-Ex-)) (Grand Marshal)",
+      "anchor_heading": "#### Labyrinthine Cunning ([Ex](https://www.d20pfsrd.com/magic#TOC-Extraordinary-Abilities-Ex-))",
+      "description": "Prevents being lost in urban terrain, negates movement penalties from poor visibility, and allows opening/closing doors as swift actions.",
+      "keywords": [
+        "labyrinthine cunning",
+        "never lost urban",
+        "urban terrain",
+        "poor visibility",
+        "no movement penalties",
+        "blinded urban",
+        "doors swift action",
+        "open door swift",
+        "close door swift"
+      ]
+    },
+    {
+      "id": "grand_marshal_urban_commando_exhttpswwwd20pfsrdcommagictocextraordinaryabi",
+      "title": "Urban Commando ([Ex](https://www.d20pfsrd.com/magic#TOC-Extraordinary-Abilities-Ex-)) (Grand Marshal)",
+      "anchor_heading": "#### Urban Commando ([Ex](https://www.d20pfsrd.com/magic#TOC-Extraordinary-Abilities-Ex-))",
+      "description": "Treats urban areas as favored terrain like a ranger, with bonuses increasing at 10th level and stacking with existing favored terrain bonuses.",
+      "keywords": [
+        "urban commando",
+        "favored terrain urban",
+        "ranger favored terrain",
+        "urban terrain bonus",
+        "favored terrain stack",
+        "urban areas"
+      ]
+    },
+    {
+      "id": "grand_marshal_gunhunter_exhttpswwwd20pfsrdcommagictocextraordinaryabilitie",
+      "title": "Gunhunter ([Ex](https://www.d20pfsrd.com/magic#TOC-Extraordinary-Abilities-Ex-)) (Grand Marshal)",
+      "anchor_heading": "#### Gunhunter ([Ex](https://www.d20pfsrd.com/magic#TOC-Extraordinary-Abilities-Ex-))",
+      "description": "Allows movement through crowds and difficult terrain in urban areas, plus enhanced Stealth capabilities including hiding without cover or concealment.",
+      "keywords": [
+        "gunhunter",
+        "crowds movement",
+        "difficult terrain urban",
+        "stealth without cover",
+        "stealth without concealment",
+        "stealth bonus urban",
+        "covert operations",
+        "half level stealth bonus"
+      ]
+    },
+    {
+      "id": "grand_marshal_double_jeopardy_exhttpswwwd20pfsrdcommagictocextraordinaryab",
+      "title": "Double Jeopardy ([Ex](https://www.d20pfsrd.com/magic#TOC-Extraordinary-Abilities-Ex-)) (Grand Marshal)",
+      "anchor_heading": "#### Double Jeopardy ([Ex](https://www.d20pfsrd.com/magic#TOC-Extraordinary-Abilities-Ex-))",
+      "description": "Allows selecting two different judgments simultaneously when using legal judgment ability, consuming only one daily use.",
+      "keywords": [
+        "double jeopardy",
+        "two judgments",
+        "multiple judgments",
+        "legal judgment two",
+        "swift action change judgment"
+      ]
+    },
+    {
+      "id": "grand_marshal_quarry_exhttpswwwd20pfsrdcommagictocextraordinaryabilitiesex",
+      "title": "Quarry ([Ex](https://www.d20pfsrd.com/magic#TOC-Extraordinary-Abilities-Ex-)) (Grand Marshal)",
+      "anchor_heading": "#### Quarry ([Ex](https://www.d20pfsrd.com/magic#TOC-Extraordinary-Abilities-Ex-))",
+      "description": "Can declare one target within line of sight as quarry, functioning exactly like the ranger ability of the same name.",
+      "keywords": [
+        "quarry",
+        "declare quarry",
+        "line of sight quarry",
+        "ranger quarry",
+        "quarry target"
+      ]
+    },
+    {
+      "id": "grand_marshal_high_grand_marshal_exhttpswwwd20pfsrdcommagictocextraordinar",
+      "title": "High Grand marshal ([Ex](https://www.d20pfsrd.com/magic#TOC-Extraordinary-Abilities-Ex-)) (Grand Marshal)",
+      "anchor_heading": "#### High Grand marshal ([Ex](https://www.d20pfsrd.com/magic#TOC-Extraordinary-Abilities-Ex-))",
+      "description": "Capstone ability allowing expenditure of legal judgment uses to create discern lies effects or take 20 on initiative or Charisma-based skill checks.",
+      "keywords": [
+        "high grand marshal",
+        "discern lies",
+        "take 20",
+        "legal judgment expend",
+        "initiative take 20",
+        "charisma skill take 20",
+        "non-magical discern lies",
+        "capstone ability"
+      ]
+    }
+  ]
+}

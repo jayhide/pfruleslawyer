@@ -1,0 +1,219 @@
+{
+  "file": "arcane-savant.md",
+  "source_path": "https://www.d20pfsrd.com/classes/prestige-classes/other-paizo/a-b/arcane-savant/",
+  "source_name": "Prestige Class: Arcane Savant",
+  "category": "Classes",
+  "toc_content": "Contents\n* [Requirements](#requirements)\n* [Class Skills](#class_skills)\n* [Class Features](#class_features)\n  + [Adept Activation (Ex)](#adept_activation_ex)\n  + [Master Scholar (Ex)](#master_scholar_ex)\n  + [Esoteric Magic (Ex)](#esoteric_magic_ex)\n  + [Glyph-Finding (Ex)](#glyph-finding_ex)\n  + [Scroll Master (Su)](#scroll_master_su)\n  + [Quick Identification (Sp)](#quick_identification_sp)\n  + [Sigil Master (Su)](#sigil_master_su)\n  + [Analyze Dweomer (Sp)](#analyze_dweomer_sp)\n  + [Silence Master (Su)](#silence_master_su)\n  + [Dispelling Master (Su)](#dispelling_master_su)\n  + [Symbol Master (Su)](#symbol_master_su)\n  + [Spellcasting Master (Ex)](#spellcasting_master_ex)\n  + [Item Master (Su)](#item_master_su)",
+  "sections": [
+    {
+      "id": "arcane_savant_overview",
+      "title": "Arcane Savant (Class Overview)",
+      "anchor_heading": "# Arcane Savant",
+      "end_at_heading": "### Requirements {#requirements}",
+      "description": "Overview of the Arcane Savant class including role, alignment, hit die, and starting wealth.",
+      "keywords": [
+        "arcane savant",
+        "class",
+        "hit die",
+        "role",
+        "alignment"
+      ]
+    },
+    {
+      "id": "arcane_savant_adept_activation_ex",
+      "title": "Adept Activation (Ex) (Arcane Savant)",
+      "anchor_heading": "#### Adept Activation (Ex) {#adept_activation_ex}",
+      "description": "Allows taking 10 on Use Magic Device checks (except when activating blindly) and prevents automatic failure on natural 1s.",
+      "keywords": [
+        "adept activation",
+        "use magic device",
+        "take 10",
+        "natural 1",
+        "automatic failure",
+        "UMD",
+        "magic item activation"
+      ]
+    },
+    {
+      "id": "arcane_savant_master_scholar_ex",
+      "title": "Master Scholar (Ex) (Arcane Savant)",
+      "anchor_heading": "#### Master Scholar (Ex) {#master_scholar_ex}",
+      "description": "Adds half class level as bonus to Knowledge (arcana), Spellcraft, and Use Magic Device checks, and allows taking 10 on Knowledge (arcana) and Spellcraft even when distracted.",
+      "keywords": [
+        "master scholar",
+        "knowledge arcana",
+        "spellcraft",
+        "use magic device",
+        "take 10",
+        "distracted",
+        "endangered",
+        "skill bonus"
+      ]
+    },
+    {
+      "id": "arcane_savant_esoteric_magic_ex",
+      "title": "Esoteric Magic (Ex) (Arcane Savant)",
+      "anchor_heading": "#### Esoteric Magic (Ex) {#esoteric_magic_ex}",
+      "description": "Allows choosing spells from any class list and adding them to base spellcasting class, potentially at one level higher if normally unavailable.",
+      "keywords": [
+        "esoteric magic",
+        "spell list",
+        "base spellcasting class",
+        "spell level increase",
+        "arcane",
+        "divine",
+        "psychic",
+        "spell type conversion"
+      ]
+    },
+    {
+      "id": "arcane_savant_glyph-finding_ex",
+      "title": "Glyph-Finding (Ex) (Arcane Savant)",
+      "anchor_heading": "#### Glyph-Finding (Ex) {#glyph-finding_ex}",
+      "description": "Allows using Spellcraft to find writing-based magical traps like glyphs, runes, sigils, and symbols.",
+      "keywords": [
+        "glyph-finding",
+        "spellcraft",
+        "magical traps",
+        "glyphs",
+        "runes",
+        "sigils",
+        "symbols",
+        "writing-based traps",
+        "trap detection"
+      ]
+    },
+    {
+      "id": "arcane_savant_scroll_master_su",
+      "title": "Scroll Master (Su) (Arcane Savant)",
+      "anchor_heading": "#### Scroll Master (Su) {#scroll_master_su}",
+      "description": "Allows using own caster level instead of item's caster level when using scrolls or spell-completion items.",
+      "keywords": [
+        "scroll master",
+        "caster level",
+        "spell-completion item",
+        "scrolls",
+        "item caster level override"
+      ]
+    },
+    {
+      "id": "arcane_savant_quick_identification_sp",
+      "title": "Quick Identification (Sp) (Arcane Savant)",
+      "anchor_heading": "#### Quick Identification (Sp) {#quick_identification_sp}",
+      "description": "Can use identify as a swift action once per day per 2 class levels at character level caster level.",
+      "keywords": [
+        "quick identification",
+        "identify",
+        "swift action",
+        "spell-like ability",
+        "magic item identification"
+      ]
+    },
+    {
+      "id": "arcane_savant_sigil_master_su",
+      "title": "Sigil Master (Su) (Arcane Savant)",
+      "anchor_heading": "#### Sigil Master (Su) {#sigil_master_su}",
+      "description": "Provides class level bonus on saves against writing-based magical traps and prevents triggering them on successful saves.",
+      "keywords": [
+        "sigil master",
+        "writing-based magical traps",
+        "saving throw bonus",
+        "trap triggering",
+        "glyphs",
+        "runes",
+        "sigils",
+        "symbols"
+      ]
+    },
+    {
+      "id": "arcane_savant_analyze_dweomer_sp",
+      "title": "Analyze Dweomer (Sp) (Arcane Savant)",
+      "anchor_heading": "#### Analyze Dweomer (Sp) {#analyze_dweomer_sp}",
+      "description": "Can use analyze dweomer for up to 1 round per class level per day in 1-round increments.",
+      "keywords": [
+        "analyze dweomer",
+        "spell-like ability",
+        "magic analysis",
+        "1-round increments",
+        "daily usage"
+      ]
+    },
+    {
+      "id": "arcane_savant_silence_master_su",
+      "title": "Silence Master (Su) (Arcane Savant)",
+      "anchor_heading": "#### Silence Master (Su) {#silence_master_su}",
+      "description": "Can activate magic items silently using gestures and cast spells as if using silent metamagic rod three times per day.",
+      "keywords": [
+        "silence master",
+        "silent activation",
+        "spell-trigger",
+        "spell-completion",
+        "command-word items",
+        "silent spell",
+        "metamagic rod",
+        "somatic components"
+      ]
+    },
+    {
+      "id": "arcane_savant_dispelling_master_su",
+      "title": "Dispelling Master (Su) (Arcane Savant)",
+      "anchor_heading": "#### Dispelling Master (Su) {#dispelling_master_su}",
+      "description": "Can spontaneously convert prepared spells into dispel magic or add dispel spells to known list, healing when successfully dispelling.",
+      "keywords": [
+        "dispelling master",
+        "spontaneous conversion",
+        "dispel magic",
+        "greater dispel magic",
+        "targeted dispel",
+        "counterspell",
+        "healing",
+        "prepared spells",
+        "spontaneous casting"
+      ]
+    },
+    {
+      "id": "arcane_savant_symbol_master_su",
+      "title": "Symbol Master (Su) (Arcane Savant)",
+      "anchor_heading": "#### Symbol Master (Su) {#symbol_master_su}",
+      "description": "Increases symbol spell DCs by 2, can double sigil master bonus as immediate action, and never automatically fails symbol saves on natural 1.",
+      "keywords": [
+        "symbol master",
+        "symbol spells",
+        "save DC increase",
+        "perception DC",
+        "disable device DC",
+        "sigil master bonus",
+        "immediate action",
+        "natural 1"
+      ]
+    },
+    {
+      "id": "arcane_savant_spellcasting_master_ex",
+      "title": "Spellcasting Master (Ex) (Arcane Savant)",
+      "anchor_heading": "#### Spellcasting Master (Ex) {#spellcasting_master_ex}",
+      "description": "Can focus as swift action to cast spells without provoking attacks of opportunity and extend concentration spell duration.",
+      "keywords": [
+        "spellcasting master",
+        "swift action focus",
+        "attacks of opportunity",
+        "concentration spells",
+        "spell duration extension",
+        "mental focus"
+      ]
+    },
+    {
+      "id": "arcane_savant_item_master_su",
+      "title": "Item Master (Su) (Arcane Savant)",
+      "anchor_heading": "#### Item Master (Su) {#item_master_su}",
+      "description": "Can attune to one non-charged magic item per hour ritual, allowing it to use the arcane savant's caster level instead of its own.",
+      "keywords": [
+        "item master",
+        "attunement",
+        "non-charged magic item",
+        "caster level override",
+        "one hour ritual",
+        "magic item enhancement"
+      ]
+    }
+  ]
+}

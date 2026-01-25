@@ -1,0 +1,212 @@
+{
+  "file": "hellknight.md",
+  "source_path": "https://www.d20pfsrd.com/classes/prestige-classes/other-paizo/e-h/hellknight/",
+  "source_name": "Prestige Class: Hell Knight",
+  "category": "Classes",
+  "toc_content": "",
+  "sections": [
+    {
+      "id": "hell_knight_overview",
+      "title": "Hell Knight (Class Overview)",
+      "anchor_heading": "# Hell Knight",
+      "end_at_heading": "### Requirements",
+      "description": "Overview of the Hell Knight class including role, alignment, hit die, and starting wealth.",
+      "keywords": [
+        "hell knight",
+        "class",
+        "hit die",
+        "role",
+        "alignment"
+      ]
+    },
+    {
+      "id": "hell_knight_weapon_and_armor_proficiency",
+      "title": "Weapon and Armor Proficiency (Hell Knight)",
+      "anchor_heading": "#### Weapon and Armor Proficiency",
+      "description": "Hell Knights gain no proficiency with any weapon or armor upon taking the class.",
+      "keywords": [
+        "weapon proficiency",
+        "armor proficiency",
+        "no proficiency",
+        "hell knight proficiency"
+      ]
+    },
+    {
+      "id": "hell_knight_aura_of_law_ex",
+      "title": "Aura of Law (Ex) (Hell Knight)",
+      "anchor_heading": "#### Aura of Law (Ex)",
+      "description": "A Hell Knight radiates a lawful aura detectable by detect law spells, with strength equal to a cleric of the same character level.",
+      "keywords": [
+        "aura of law",
+        "detect law",
+        "lawful aura",
+        "cleric level",
+        "alignment aura"
+      ]
+    },
+    {
+      "id": "hell_knight_detect_chaos_sp",
+      "title": "Detect Chaos (Sp) (Hell Knight)",
+      "anchor_heading": "#### Detect Chaos (Sp)",
+      "description": "Functions like a paladin's detect evil ability but allows the use of detect chaos instead.",
+      "keywords": [
+        "detect chaos",
+        "spell-like ability",
+        "paladin detect evil",
+        "chaos detection"
+      ]
+    },
+    {
+      "id": "hell_knight_order",
+      "title": "Order (Hell Knight)",
+      "anchor_heading": "#### Order",
+      "description": "A Hell Knight must choose a specific Hell Knight order at 1st level, which determines available disciplines later.",
+      "keywords": [
+        "hell knight order",
+        "order selection",
+        "discipline access",
+        "order choice"
+      ]
+    },
+    {
+      "id": "hell_knight_smite_chaos_su",
+      "title": "Smite Chaos (Su) (Hell Knight)",
+      "anchor_heading": "#### Smite Chaos (Su)",
+      "description": "Functions as a paladin's smite evil but targets chaotic creatures, with double effectiveness against chaotic outsiders, aberrations, and fey.",
+      "keywords": [
+        "smite chaos",
+        "chaotic creatures",
+        "chaotic outsiders",
+        "chaotic aberrations",
+        "chaotic fey",
+        "double effectiveness",
+        "paladin smite"
+      ]
+    },
+    {
+      "id": "hell_knight_discern_lies_sp",
+      "title": "Discern Lies (Sp) (Hell Knight)",
+      "anchor_heading": "#### Discern Lies (Sp)",
+      "description": "Allows the use of discern lies as a spell-like ability a number of times per day equal to 3 + Charisma modifier.",
+      "keywords": [
+        "discern lies",
+        "spell-like ability",
+        "charisma modifier",
+        "lie detection",
+        "truth telling"
+      ]
+    },
+    {
+      "id": "hell_knight_hell_knight_armor_ex",
+      "title": "Hell Knight Armor (Ex) (Hell Knight)",
+      "anchor_heading": "#### Hell Knight Armor (Ex)",
+      "description": "Grants the right to wear Hell Knight plate without speed reduction and provides increasing armor check penalty reduction and max Dex bonus improvements.",
+      "keywords": [
+        "hell knight plate",
+        "armor check penalty",
+        "max dexterity bonus",
+        "no speed reduction",
+        "armor mastery"
+      ]
+    },
+    {
+      "id": "hell_knight_disciplines",
+      "title": "Disciplines (Hell Knight)",
+      "anchor_heading": "#### Disciplines",
+      "description": "Hell Knights gain access to special supernatural and spell-like abilities called disciplines, with usage per day equal to total disciplines known.",
+      "keywords": [
+        "disciplines",
+        "order disciplines",
+        "brand",
+        "call armor",
+        "censor",
+        "command",
+        "dispel chaos",
+        "favored quarry",
+        "fearsomeness",
+        "mental intrusion",
+        "onslaught",
+        "pentamic faith",
+        "shackle",
+        "shadow step",
+        "summon devil",
+        "summon servant of law",
+        "trace",
+        "tracker",
+        "versatile intimidation",
+        "vigilance",
+        "wrack",
+        "mark of justice",
+        "move action",
+        "will save",
+        "greater command",
+        "intimidate",
+        "touch attack",
+        "charisma modifier"
+      ]
+    },
+    {
+      "id": "hell_knight_force_of_will_ex",
+      "title": "Force of Will (Ex) (Hell Knight)",
+      "anchor_heading": "#### Force of Will (Ex)",
+      "description": "Provides increasing Will save bonuses against spells with specific subschools or descriptors like charm, compulsion, fear, etc.",
+      "keywords": [
+        "force of will",
+        "will save bonus",
+        "charm",
+        "compulsion",
+        "glamer",
+        "fear",
+        "figment",
+        "pattern",
+        "phantasm",
+        "mind affecting"
+      ]
+    },
+    {
+      "id": "hell_knight_lawbringer_ex",
+      "title": "Lawbringer (Ex) (Hell Knight)",
+      "anchor_heading": "#### Lawbringer (Ex)",
+      "description": "All of the Hell Knight's attacks are treated as lawful-aligned for the purpose of overcoming damage reduction.",
+      "keywords": [
+        "lawbringer",
+        "lawful attacks",
+        "damage reduction",
+        "alignment damage reduction",
+        "lawful alignment"
+      ]
+    },
+    {
+      "id": "hell_knight_infernal_armor_su",
+      "title": "Infernal Armor (Su) (Hell Knight)",
+      "anchor_heading": "#### Infernal Armor (Su)",
+      "description": "While wearing Hell Knight armor, grants Charisma bonuses with lawful creatures, perfect darkvision, and energy resistances.",
+      "keywords": [
+        "infernal armor",
+        "charisma bonus",
+        "lawful creatures",
+        "perfect darkvision",
+        "fire resistance",
+        "acid resistance",
+        "cold resistance",
+        "hell knight armor"
+      ]
+    },
+    {
+      "id": "hell_knight_hells_knight_su",
+      "title": "Hell\u2019s Knight (Su) (Hell Knight)",
+      "anchor_heading": "#### Hell\u2019s Knight (Su)",
+      "description": "Allows granting axiomatic, flaming burst, or unholy weapon properties to touched weapons and provides fire immunity while wearing Hell Knight plate.",
+      "keywords": [
+        "hell's knight",
+        "axiomatic",
+        "flaming burst",
+        "unholy",
+        "weapon enhancement",
+        "fire immunity",
+        "hell knight plate",
+        "weapon special ability"
+      ]
+    }
+  ]
+}

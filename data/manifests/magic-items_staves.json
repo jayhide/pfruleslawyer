@@ -1,0 +1,59 @@
+{
+  "file": "staves.md",
+  "source_path": "https://www.d20pfsrd.com/magic-items/staves/",
+  "sections": [
+    {
+      "id": "staves_general_rules",
+      "title": "Staves General Rules and Mechanics",
+      "anchor_heading": "# Staves",
+      "description": "Complete rules for staves including physical description, activation, usage, recharging, caster level requirements, and how they interact with wielder abilities",
+      "keywords": [
+        "staves",
+        "staff",
+        "charges",
+        "spell trigger",
+        "recharging",
+        "caster level",
+        "physical description",
+        "activation"
+      ]
+    },
+    {
+      "id": "staff_treasure_tables",
+      "title": "Staff Random Generation Tables",
+      "anchor_heading": "### Table: Staffs",
+      "description": "Random treasure tables for generating staves by rarity tier (Lesser Medium, Greater Medium, Lesser Major, Greater Major) with prices and sources",
+      "keywords": [
+        "random generation",
+        "treasure table",
+        "staff prices",
+        "medium staves",
+        "major staves"
+      ]
+    },
+    {
+      "id": "paizo_staves_index",
+      "title": "Paizo Staves Index",
+      "anchor_heading": "### All Paizo Staves",
+      "description": "Complete alphabetical index of all official Paizo staves with links to individual descriptions",
+      "keywords": [
+        "paizo staves",
+        "staff list",
+        "official staves"
+      ]
+    },
+    {
+      "id": "third_party_staves_index",
+      "title": "3rd Party Publisher Staves Index",
+      "anchor_heading": "### 3rd Party Publisher Staves",
+      "description": "Index and link to staves from third-party publishers outside of Paizo sources",
+      "keywords": [
+        "3rd party staves",
+        "third party",
+        "publisher staves"
+      ]
+    }
+  ],
+  "source_name": "",
+  "category": "Core Rules"
+}

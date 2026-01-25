@@ -1,0 +1,159 @@
+{
+  "file": "brewkeeper.md",
+  "source_path": "https://www.d20pfsrd.com/classes/prestige-classes/other-paizo/a-b/brewkeeper/",
+  "source_name": "Prestige Class: Brewkeeper",
+  "category": "Classes",
+  "toc_content": "Contents\n* [Requirements](#requirements)\n* [Class Skills](#class_skills)\n* [Class Features](#class_features)\n  + [Distilled Spells (Su)](#distilled_spells_su)\n  + [Faithful Drinker (Ex)](#faithful_drinker_ex)\n  + [Brew Reservoir (Su)](#brew_reservoir_su)\n  + [Helpful Homebrew (Su)](#helpful_homebrew_su)\n  + [Harmful Homebrew (Su)](#harmful_homebrew_su)\n  + [Potion Master (Ex)](#potion_master_ex)\n  + [Brew Specialization (Su)](#brew_specialization_su)\n  + [Quick Brewing (Su)](#quick_brewing_su)\n  + [True Brewkeeper (Su)](#true_brewkeeper_su)",
+  "sections": [
+    {
+      "id": "brewkeeper_overview",
+      "title": "Brewkeeper (Class Overview)",
+      "anchor_heading": "# Brewkeeper",
+      "end_at_heading": "### Requirements {#requirements}",
+      "description": "Overview of the Brewkeeper class including role, alignment, hit die, and starting wealth.",
+      "keywords": [
+        "brewkeeper",
+        "class",
+        "hit die",
+        "role",
+        "alignment"
+      ]
+    },
+    {
+      "id": "brewkeeper_distilled_spells_su",
+      "title": "Distilled Spells (Su) (Brewkeeper)",
+      "anchor_heading": "#### Distilled Spells (Su) {#distilled_spells_su}",
+      "description": "Allows the brewkeeper to spend 1 minute converting prepared extracts or spells into draughts that function as potions or oils usable by anyone, lasting 24 hours before becoming inert.",
+      "keywords": [
+        "distilled spells",
+        "draught creation",
+        "infusion discovery",
+        "potion conversion",
+        "extract infusion",
+        "spell distillation",
+        "24 hour duration",
+        "spell slot recovery"
+      ]
+    },
+    {
+      "id": "brewkeeper_faithful_drinker_ex",
+      "title": "Faithful Drinker (Ex) (Brewkeeper)",
+      "anchor_heading": "#### Faithful Drinker (Ex) {#faithful_drinker_ex}",
+      "description": "Grants a +2 sacred bonus on Will saves for 1 round when drinking any magical beverage including potions, elixirs, mutagens, or draughts.",
+      "keywords": [
+        "faithful drinker",
+        "sacred bonus Will saves",
+        "potion drinking",
+        "mutagen consumption",
+        "magical beverage bonus",
+        "elixir drinking",
+        "draught consumption"
+      ]
+    },
+    {
+      "id": "brewkeeper_brew_reservoir_su",
+      "title": "Brew Reservoir (Su) (Brewkeeper)",
+      "anchor_heading": "#### Brew Reservoir (Su) {#brew_reservoir_su}",
+      "description": "Provides a pool of brew points equal to 3 + brewkeeper level that replenishes when preparing spells/extracts, used to power homebrew effects on draughts, extracts, and spells.",
+      "keywords": [
+        "brew reservoir",
+        "brew points",
+        "homebrew effects",
+        "spell preparation",
+        "extract preparation",
+        "supernatural pool",
+        "daily resource"
+      ]
+    },
+    {
+      "id": "brewkeeper_helpful_homebrew_su",
+      "title": "Helpful Homebrew (Su) (Brewkeeper)",
+      "anchor_heading": "#### Helpful Homebrew (Su) {#helpful_homebrew_su}",
+      "description": "Allows spending brew points as a swift action to apply metamagic effects to spells, extracts, or draughts without needing the metamagic feat prerequisites.",
+      "keywords": [
+        "helpful homebrew",
+        "metamagic without prerequisites",
+        "swift action metamagic",
+        "empower spell",
+        "extend spell",
+        "maximize spell",
+        "silent spell",
+        "metamagic application",
+        "brew point cost"
+      ]
+    },
+    {
+      "id": "brewkeeper_harmful_homebrew_su",
+      "title": "Harmful Homebrew (Su) (Brewkeeper)",
+      "anchor_heading": "#### Harmful Homebrew (Su) {#harmful_homebrew_su}",
+      "description": "Enhances splash weapons and touch spells with additional condition effects by spending 1 brew point, with targets making Fortitude saves or suffering conditions like entangled, fatigued, or confused.",
+      "keywords": [
+        "harmful homebrew",
+        "splash weapon enhancement",
+        "touch spell enhancement",
+        "fortitude save",
+        "condition application",
+        "entangled condition",
+        "fatigued condition",
+        "confused condition",
+        "dazed condition",
+        "nauseated condition"
+      ]
+    },
+    {
+      "id": "brewkeeper_potion_master_ex",
+      "title": "Potion Master (Ex) (Brewkeeper)",
+      "anchor_heading": "#### Potion Master (Ex) {#potion_master_ex}",
+      "description": "As a move action when drinking or administering potions, uses the brewkeeper's caster level instead of the potion's and can apply helpful homebrew effects.",
+      "keywords": [
+        "potion master",
+        "caster level substitution",
+        "move action potion",
+        "potion administration",
+        "helpful homebrew on potions",
+        "alcohol chaser"
+      ]
+    },
+    {
+      "id": "brewkeeper_brew_specialization_su",
+      "title": "Brew Specialization (Su) (Brewkeeper)",
+      "anchor_heading": "#### Brew Specialization (Su) {#brew_specialization_su}",
+      "description": "Allows applying two helpful or harmful homebrew effects simultaneously when taking a swift action, paying full brew point costs for both effects.",
+      "keywords": [
+        "brew specialization",
+        "multiple homebrew effects",
+        "swift action enhancement",
+        "dual homebrew application",
+        "brew point combination"
+      ]
+    },
+    {
+      "id": "brewkeeper_quick_brewing_su",
+      "title": "Quick Brewing (Su) (Brewkeeper)",
+      "anchor_heading": "#### Quick Brewing (Su) {#quick_brewing_su}",
+      "description": "Reduces draught creation time from 1 minute to a full-round action, allowing faster conversion of spells and extracts into draughts.",
+      "keywords": [
+        "quick brewing",
+        "full-round action draught",
+        "faster draught creation",
+        "combat brewing",
+        "reduced brewing time"
+      ]
+    },
+    {
+      "id": "brewkeeper_true_brewkeeper_su",
+      "title": "True Brewkeeper (Su) (Brewkeeper)",
+      "anchor_heading": "#### True Brewkeeper (Su) {#true_brewkeeper_su}",
+      "description": "Creates draughts as part of normal casting time or extract drawing, applies up to three homebrew effects at once, and extends faithful drinker bonus to all saves.",
+      "keywords": [
+        "true brewkeeper",
+        "spontaneous draught creation",
+        "casting time brewing",
+        "triple homebrew effects",
+        "all saves bonus",
+        "faithful drinker enhancement",
+        "capstone ability"
+      ]
+    }
+  ]
+}

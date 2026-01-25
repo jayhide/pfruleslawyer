@@ -1,0 +1,140 @@
+{
+  "file": "arcane-trickster.md",
+  "source_path": "https://www.d20pfsrd.com/classes/prestige-classes/core-rulebook/arcane-trickster/",
+  "source_name": "Prestige Class: Arcane Trickster",
+  "category": "Classes",
+  "toc_content": "Contents\n* [Requirements](#requirements)\n* [Class Skills](#class_skills)\n* [Class Features](#class_features)\n  + [Weapon and Armor Proficiency](#weapon_and_armor_proficiency)\n  + [Spells per Day](#spells_per_day)\n  + [Ranged Legerdemain (Su)](#ranged_legerdemain_su)\n  + [Sneak Attack](#sneak_attack)\n  + [Impromptu Sneak Attack (Ex)](#impromptu_sneak_attack_ex)\n  + [Tricky Spells (Su)](#tricky_spells_su)\n  + [Invisible Thief (Su)](#invisible_thief_su)\n  + [Surprise Spells](#surprise_spells)",
+  "sections": [
+    {
+      "id": "arcane_trickster_overview",
+      "title": "Arcane Trickster (Class Overview)",
+      "anchor_heading": "# Arcane Trickster",
+      "end_at_heading": "### Requirements {#requirements}",
+      "description": "Overview of the Arcane Trickster class including role, alignment, hit die, and starting wealth.",
+      "keywords": [
+        "arcane trickster",
+        "class",
+        "hit die",
+        "role",
+        "alignment"
+      ]
+    },
+    {
+      "id": "arcane_trickster_weapon_and_armor_proficiency",
+      "title": "Weapon and Armor Proficiency (Arcane Trickster)",
+      "anchor_heading": "#### Weapon and Armor Proficiency {#weapon_and_armor_proficiency}",
+      "description": "Arcane tricksters gain no proficiency with any weapon or armor when taking levels in this prestige class.",
+      "keywords": [
+        "weapon proficiency",
+        "armor proficiency",
+        "no proficiency",
+        "arcane trickster proficiency"
+      ]
+    },
+    {
+      "id": "arcane_trickster_spells_per_day",
+      "title": "Spells per Day (Arcane Trickster)",
+      "anchor_heading": "#### Spells per Day {#spells_per_day}",
+      "description": "Arcane trickster levels advance spellcasting progression from a previous class, granting spells per day, spells known, and increased caster level but no other class benefits.",
+      "keywords": [
+        "spells per day",
+        "spellcasting progression",
+        "caster level",
+        "spells known",
+        "spontaneous spellcaster",
+        "spellbook bonus spells",
+        "prestige class spellcasting"
+      ]
+    },
+    {
+      "id": "arcane_trickster_ranged_legerdemain_su",
+      "title": "Ranged Legerdemain (Su) (Arcane Trickster)",
+      "anchor_heading": "#### Ranged Legerdemain (Su) {#ranged_legerdemain_su}",
+      "description": "Allows use of Disable Device and Sleight of Hand skills at 30 feet range with a +5 DC increase, affecting objects weighing 5 pounds or less.",
+      "keywords": [
+        "ranged legerdemain",
+        "disable device at range",
+        "sleight of hand at range",
+        "30 feet range",
+        "cannot take 10",
+        "5 pounds weight limit",
+        "+5 DC increase"
+      ]
+    },
+    {
+      "id": "arcane_trickster_sneak_attack",
+      "title": "Sneak Attack (Arcane Trickster)",
+      "anchor_heading": "#### Sneak Attack {#sneak_attack}",
+      "description": "Functions like rogue sneak attack, dealing +1d6 extra damage every other level and stacking with sneak attack from other sources.",
+      "keywords": [
+        "sneak attack",
+        "sneak attack stacking",
+        "+1d6 damage",
+        "every other level",
+        "sneak attack bonus"
+      ]
+    },
+    {
+      "id": "arcane_trickster_impromptu_sneak_attack_ex",
+      "title": "Impromptu Sneak Attack (Ex) (Arcane Trickster)",
+      "anchor_heading": "#### Impromptu Sneak Attack (Ex) {#impromptu_sneak_attack_ex}",
+      "description": "Once per day (twice at 7th level), declare any attack within 30 feet to be a sneak attack, causing the target to lose Dex bonus to AC for that attack.",
+      "keywords": [
+        "impromptu sneak attack",
+        "declare sneak attack",
+        "lose dex bonus",
+        "30 feet range",
+        "once per day",
+        "twice per day",
+        "critical hit immunity"
+      ]
+    },
+    {
+      "id": "arcane_trickster_tricky_spells_su",
+      "title": "Tricky Spells (Su) (Arcane Trickster)",
+      "anchor_heading": "#### Tricky Spells (Su) {#tricky_spells_su}",
+      "description": "Cast spells without somatic or verbal components as if using Still Spell and Silent Spell metamagic feats, without increasing spell level or casting time.",
+      "keywords": [
+        "tricky spells",
+        "still spell",
+        "silent spell",
+        "no somatic components",
+        "no verbal components",
+        "no spell level increase",
+        "no casting time increase",
+        "3 times per day"
+      ]
+    },
+    {
+      "id": "arcane_trickster_invisible_thief_su",
+      "title": "Invisible Thief (Su) (Arcane Trickster)",
+      "anchor_heading": "#### Invisible Thief (Su) {#invisible_thief_su}",
+      "description": "Become invisible as greater invisibility as a free action for a number of rounds per day equal to arcane trickster level.",
+      "keywords": [
+        "invisible thief",
+        "greater invisibility",
+        "free action invisibility",
+        "rounds per day",
+        "arcane trickster level rounds",
+        "non-consecutive rounds"
+      ]
+    },
+    {
+      "id": "arcane_trickster_surprise_spells",
+      "title": "Surprise Spells (Arcane Trickster)",
+      "anchor_heading": "#### Surprise Spells {#surprise_spells}",
+      "description": "Add sneak attack damage to spells that deal hit point damage against flat-footed targets, with the same damage type as the spell.",
+      "keywords": [
+        "surprise spells",
+        "sneak attack damage to spells",
+        "flat-footed targets",
+        "spell damage",
+        "saving throw halves",
+        "magic missile",
+        "fireball",
+        "once per spell",
+        "same damage type"
+      ]
+    }
+  ]
+}

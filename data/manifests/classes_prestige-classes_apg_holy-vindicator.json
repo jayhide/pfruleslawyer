@@ -1,0 +1,219 @@
+{
+  "file": "holy-vindicator.md",
+  "source_path": "https://www.d20pfsrd.com/classes/prestige-classes/apg/holy-vindicator/",
+  "source_name": "Prestige Class: Holy Vindicator",
+  "category": "Classes",
+  "toc_content": "Contents\n* [Requirements](#requirements)\n* [Class Skills](#class_skills)\n* [Class Features](#class_features)\n  + [Weapon and Armor Proficiencies](#weapon_and_armor_proficiencies)\n  + [Spells per Day](#spells_per_day)\n  + [Channel Energy (Su)](#channel_energy_su)\n  + [Vindicator\u2019s Shield (Su)](#vindicators_shield_su)\n  + [Stigmata (Su)](#stigmata_su)\n  + [Faith Healing (Su)](#faith_healing_su)\n  + [Divine Wrath (Sp)](#divine_wrath_sp)\n  + [Bloodfire (Su)](#bloodfire_su)\n  + [Channel Smite](#channel_smite)\n  + [Versatile Channel (Su)](#versatile_channel_su)\n  + [Divine Judgment (Sp)](#divine_judgment_sp)\n  + [Bloodrain (Su)](#bloodrain_su)\n  + [Divine Retribution (Sp)](#divine_retribution_sp)",
+  "sections": [
+    {
+      "id": "holy_vindicator_overview",
+      "title": "Holy Vindicator (Class Overview)",
+      "anchor_heading": "# Holy Vindicator",
+      "end_at_heading": "### Requirements {#requirements}",
+      "description": "Overview of the Holy Vindicator class including role, alignment, hit die, and starting wealth.",
+      "keywords": [
+        "holy vindicator",
+        "class",
+        "hit die",
+        "role",
+        "alignment"
+      ]
+    },
+    {
+      "id": "holy_vindicator_weapon_and_armor_proficiencies",
+      "title": "Weapon and Armor Proficiencies (Holy Vindicator)",
+      "anchor_heading": "#### Weapon and Armor Proficiencies {#weapon_and_armor_proficiencies}",
+      "description": "Grants proficiency with all simple and martial weapons, plus all armor and shields except tower shields.",
+      "keywords": [
+        "weapon proficiency",
+        "armor proficiency",
+        "simple weapons",
+        "martial weapons",
+        "shields",
+        "tower shield",
+        "proficient"
+      ]
+    },
+    {
+      "id": "holy_vindicator_spells_per_day",
+      "title": "Spells per Day (Holy Vindicator)",
+      "anchor_heading": "#### Spells per Day {#spells_per_day}",
+      "description": "Advances spellcasting progression from a previous divine spellcasting class at indicated levels, gaining spells per day and caster level but no other class features.",
+      "keywords": [
+        "spells per day",
+        "divine spellcasting",
+        "caster level",
+        "spellcasting progression",
+        "spells known",
+        "prestige class spellcasting"
+      ]
+    },
+    {
+      "id": "holy_vindicator_channel_energy_su",
+      "title": "Channel Energy (Su) (Holy Vindicator)",
+      "anchor_heading": "#### Channel Energy (Su) {#channel_energy_su}",
+      "description": "Holy vindicator levels stack with other classes that grant channel energy for determining channel energy dice and uses per day.",
+      "keywords": [
+        "channel energy",
+        "class level stacking",
+        "channel dice",
+        "channel uses",
+        "supernatural ability"
+      ]
+    },
+    {
+      "id": "holy_vindicator_vindicators_shield_su",
+      "title": "Vindicator\u2019s Shield (Su) (Holy Vindicator)",
+      "anchor_heading": "#### Vindicator\u2019s Shield (Su) {#vindicators_shield_su}",
+      "description": "Channel energy into a shield as a standard action to grant sacred or profane AC bonus equal to channel dice for 24 hours or until struck in combat.",
+      "keywords": [
+        "vindicator's shield",
+        "channel energy",
+        "sacred bonus",
+        "profane bonus",
+        "armor class",
+        "AC bonus",
+        "standard action",
+        "shield enhancement"
+      ]
+    },
+    {
+      "id": "holy_vindicator_stigmata_su",
+      "title": "Stigmata (Su) (Holy Vindicator)",
+      "anchor_heading": "#### Stigmata (Su) {#stigmata_su}",
+      "description": "Activate bleeding wounds that cause bleed damage but grant sacred/profane bonuses to various rolls, with activation time improving at higher levels.",
+      "keywords": [
+        "stigmata",
+        "bleed damage",
+        "sacred bonus",
+        "profane bonus",
+        "attack rolls",
+        "weapon damage",
+        "caster level checks",
+        "saving throws",
+        "standard action",
+        "move action",
+        "swift action",
+        "blood drain immunity"
+      ]
+    },
+    {
+      "id": "holy_vindicator_faith_healing_su",
+      "title": "Faith Healing (Su) (Holy Vindicator)",
+      "anchor_heading": "#### Faith Healing (Su) {#faith_healing_su}",
+      "description": "Cure wounds spells cast on self are automatically empowered at 3rd level and maximized at 8th level without using higher spell slots.",
+      "keywords": [
+        "faith healing",
+        "cure wounds",
+        "empower spell",
+        "maximize spell",
+        "self-healing",
+        "metamagic",
+        "healing spells"
+      ]
+    },
+    {
+      "id": "holy_vindicator_divine_wrath_sp",
+      "title": "Divine Wrath (Sp) (Holy Vindicator)",
+      "anchor_heading": "#### Divine Wrath (Sp) {#divine_wrath_sp}",
+      "description": "Upon confirming a critical hit, sacrifice a 1st-level spell to cast doom as an immediate action with DC bonuses based on weapon critical multiplier.",
+      "keywords": [
+        "divine wrath",
+        "critical hit",
+        "doom spell",
+        "immediate action",
+        "spell sacrifice",
+        "critical multiplier",
+        "save DC",
+        "spell-like ability"
+      ]
+    },
+    {
+      "id": "holy_vindicator_bloodfire_su",
+      "title": "Bloodfire (Su) (Holy Vindicator)",
+      "anchor_heading": "#### Bloodfire (Su) {#bloodfire_su}",
+      "description": "While stigmata bleed, Channel Smite deals +1d6 damage and inflicts sickened condition plus bleed damage on failed saves.",
+      "keywords": [
+        "bloodfire",
+        "channel smite",
+        "stigmata",
+        "sickened condition",
+        "bleed damage",
+        "channel energy enhancement"
+      ]
+    },
+    {
+      "id": "holy_vindicator_channel_smite",
+      "title": "Channel Smite (Holy Vindicator)",
+      "anchor_heading": "#### Channel Smite {#channel_smite}",
+      "description": "Gains Channel Smite as a bonus feat at 5th level.",
+      "keywords": [
+        "channel smite",
+        "bonus feat",
+        "channel energy",
+        "melee attack",
+        "combat feat"
+      ]
+    },
+    {
+      "id": "holy_vindicator_versatile_channel_su",
+      "title": "Versatile Channel (Su) (Holy Vindicator)",
+      "anchor_heading": "#### Versatile Channel (Su) {#versatile_channel_su}",
+      "description": "Channel energy can be shaped into a 30-foot cone or 120-foot line instead of the normal radius.",
+      "keywords": [
+        "versatile channel",
+        "channel energy",
+        "cone",
+        "line",
+        "area of effect",
+        "channel shape"
+      ]
+    },
+    {
+      "id": "holy_vindicator_divine_judgment_sp",
+      "title": "Divine Judgment (Sp) (Holy Vindicator)",
+      "anchor_heading": "#### Divine Judgment (Sp) {#divine_judgment_sp}",
+      "description": "When reducing a creature to negative hit points with melee attack, sacrifice a 2nd-level spell to cast death knell as an immediate action.",
+      "keywords": [
+        "divine judgment",
+        "death knell",
+        "negative hit points",
+        "melee attack",
+        "immediate action",
+        "spell sacrifice",
+        "critical multiplier"
+      ]
+    },
+    {
+      "id": "holy_vindicator_bloodrain_su",
+      "title": "Bloodrain (Su) (Holy Vindicator)",
+      "anchor_heading": "#### Bloodrain (Su) {#bloodrain_su}",
+      "description": "While stigmata bleed, harmful channel energy deals +1d6 damage and inflicts sickened condition plus bleed on failed saves.",
+      "keywords": [
+        "bloodrain",
+        "stigmata",
+        "channel energy",
+        "harmful channel",
+        "sickened condition",
+        "bleed damage",
+        "channeled energy enhancement"
+      ]
+    },
+    {
+      "id": "holy_vindicator_divine_retribution_sp",
+      "title": "Divine Retribution (Sp) (Holy Vindicator)",
+      "anchor_heading": "#### Divine Retribution (Sp) {#divine_retribution_sp}",
+      "description": "Upon confirming a critical hit, sacrifice a 3rd-level spell to cast bestow curse as an immediate action, usable even when incapacitated.",
+      "keywords": [
+        "divine retribution",
+        "critical hit",
+        "bestow curse",
+        "immediate action",
+        "spell sacrifice",
+        "critical multiplier",
+        "incapacitated",
+        "retaliation"
+      ]
+    }
+  ]
+}

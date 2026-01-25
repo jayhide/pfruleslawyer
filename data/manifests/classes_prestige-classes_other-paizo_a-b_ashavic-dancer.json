@@ -1,0 +1,178 @@
+{
+  "file": "ashavic-dancer.md",
+  "source_path": "https://www.d20pfsrd.com/classes/prestige-classes/other-paizo/a-b/ashavic-dancer/",
+  "source_name": "Prestige Class: Ashavic Dancer",
+  "category": "Classes",
+  "toc_content": "Contents\n* [Requirements](#requirements)\n* [Class Skills](#class_skills)\n* [Class Features](#class_features)\n  + [Ashavic Performance (Su)](#ashavic_performance_su)\n  + [Deathwaking Dance (Su)](#deathwaking_dance_su)\n  + [Untethering Steps (Su)](#untethering_steps_su)\n  + [Soothing Performance (Su)](#soothing_performance_su)\n  + [Exorcist\u2019s Waltz (Su)](#exorcists_waltz_su)\n  + [True Spark\u2019s Guidance (Su)](#true_sparks_guidance_su)\n  + [Ashavic Rites (Su)](#ashavic_rites_su)\n  + [Peerless Dancer (Ex)](#peerless_dancer_ex)\n  + [Ghostly Grace (Su)](#ghostly_grace_su)",
+  "sections": [
+    {
+      "id": "ashavic_dancer_overview",
+      "title": "Ashavic Dancer (Class Overview)",
+      "anchor_heading": "# Ashavic Dancer",
+      "end_at_heading": "### Requirements {#requirements}",
+      "description": "Overview of the Ashavic Dancer class including role, alignment, hit die, and starting wealth.",
+      "keywords": [
+        "ashavic dancer",
+        "class",
+        "hit die",
+        "role",
+        "alignment"
+      ]
+    },
+    {
+      "id": "ashavic_dancer_ashavic_performance_su",
+      "title": "Ashavic Performance (Su) (Ashavic Dancer)",
+      "anchor_heading": "#### Ashavic Performance (Su) {#ashavic_performance_su}",
+      "description": "Allows the use of Perform (dance) to create magical effects similar to bardic performance, starting as a move action and maintaining as a free action. Performance has visual components only and can be disrupted by certain conditions.",
+      "keywords": [
+        "ashavic performance",
+        "perform dance",
+        "bardic performance",
+        "move action",
+        "free action",
+        "swift action",
+        "visual components",
+        "charisma modifier",
+        "performance rounds",
+        "cannot be disrupted",
+        "paralyzed",
+        "stunned",
+        "unconscious"
+      ]
+    },
+    {
+      "id": "ashavic_dancer_deathwaking_dance_su",
+      "title": "Deathwaking Dance (Su) (Ashavic Dancer)",
+      "anchor_heading": "#### Deathwaking Dance (Su) {#deathwaking_dance_su}",
+      "description": "Deals positive energy damage to all undead and haunts within 30 feet each round the performance is maintained. Damage equals 1d6 + Charisma modifier, Will save negates.",
+      "keywords": [
+        "deathwaking dance",
+        "positive energy damage",
+        "undead",
+        "haunts",
+        "30 feet",
+        "1d6",
+        "charisma modifier",
+        "will save",
+        "each round"
+      ]
+    },
+    {
+      "id": "ashavic_dancer_untethering_steps_su",
+      "title": "Untethering Steps (Su) (Ashavic Dancer)",
+      "anchor_heading": "#### Untethering Steps (Su) {#untethering_steps_su}",
+      "description": "Uses Perform (dance) checks against CMD to inflict sickened condition on undead targets, with staggered condition if the check exceeds CMD by 10 or more. Can target multiple undead based on class level.",
+      "keywords": [
+        "untethering steps",
+        "perform dance check",
+        "CMD",
+        "sickened",
+        "staggered",
+        "undead",
+        "line of sight",
+        "30 feet",
+        "multiple targets",
+        "exceed by 10"
+      ]
+    },
+    {
+      "id": "ashavic_dancer_soothing_performance_su",
+      "title": "Soothing Performance (Su) (Ashavic Dancer)",
+      "anchor_heading": "#### Soothing Performance (Su) {#soothing_performance_su}",
+      "description": "Gains the soothing performance bardic performance ability at 6th level.",
+      "keywords": [
+        "soothing performance",
+        "bardic performance",
+        "6th level"
+      ]
+    },
+    {
+      "id": "ashavic_dancer_exorcists_waltz_su",
+      "title": "Exorcist\u2019s Waltz (Su) (Ashavic Dancer)",
+      "anchor_heading": "#### Exorcist\u2019s Waltz (Su) {#exorcists_waltz_su}",
+      "description": "Requires 4 consecutive rounds of performance to end compulsion or possession effects, functioning like break enchantment or granting new saves against possession. Prevents re-possession for 24 hours.",
+      "keywords": [
+        "exorcist's waltz",
+        "4 consecutive rounds",
+        "compulsion",
+        "possession",
+        "break enchantment",
+        "new saving throw",
+        "cast out",
+        "24 hours",
+        "30 feet",
+        "see dancer"
+      ]
+    },
+    {
+      "id": "ashavic_dancer_true_sparks_guidance_su",
+      "title": "True Spark\u2019s Guidance (Su) (Ashavic Dancer)",
+      "anchor_heading": "#### True Spark\u2019s Guidance (Su) {#true_sparks_guidance_su}",
+      "description": "Targets one undead per round within 60 feet, dealing massive damage and applying staggered condition on failed Will saves, or halving speed on successful saves. Penalties apply near consecrated areas or origin points.",
+      "keywords": [
+        "true spark's guidance",
+        "60 feet",
+        "will save",
+        "10 damage per level",
+        "staggered",
+        "speed halved",
+        "hallow",
+        "consecrate",
+        "-4 penalty",
+        "24 hours",
+        "open grave"
+      ]
+    },
+    {
+      "id": "ashavic_dancer_ashavic_rites_su",
+      "title": "Ashavic Rites (Su) (Ashavic Dancer)",
+      "anchor_heading": "#### Ashavic Rites (Su) {#ashavic_rites_su}",
+      "description": "Allows mind-affecting Ashavic performances and spells to overcome undead immunity to mind-affecting effects, including mindless undead. Requires spending additional performance rounds for spells.",
+      "keywords": [
+        "ashavic rites",
+        "mind-affecting",
+        "undead immunity",
+        "mindless undead",
+        "overcome immunity",
+        "additional round",
+        "mind-affecting spells"
+      ]
+    },
+    {
+      "id": "ashavic_dancer_peerless_dancer_ex",
+      "title": "Peerless Dancer (Ex) (Ashavic Dancer)",
+      "anchor_heading": "#### Peerless Dancer (Ex) {#peerless_dancer_ex}",
+      "description": "Gains versatile performance with Perform (dance) and can add additional skills to versatile performance at higher levels. Grants Skill Focus as bonus feat if already possessing dance versatile performance.",
+      "keywords": [
+        "peerless dancer",
+        "versatile performance",
+        "perform dance",
+        "skill focus",
+        "bonus feat",
+        "bluff",
+        "diplomacy",
+        "intimidate",
+        "sense motive",
+        "additional skills"
+      ]
+    },
+    {
+      "id": "ashavic_dancer_ghostly_grace_su",
+      "title": "Ghostly Grace (Su) (Ashavic Dancer)",
+      "anchor_heading": "#### Ghostly Grace (Su) {#ghostly_grace_su}",
+      "description": "During Ashavic performance, weapons gain ghost touch and spells affect incorporeal creatures fully. At 9th level, allies within 30 feet also gain these benefits.",
+      "keywords": [
+        "ghostly grace",
+        "ghost touch",
+        "incorporeal",
+        "ectoplasmic spell",
+        "weapon attacks",
+        "spells",
+        "allies",
+        "30 feet",
+        "9th level",
+        "ashavic performance"
+      ]
+    }
+  ]
+}

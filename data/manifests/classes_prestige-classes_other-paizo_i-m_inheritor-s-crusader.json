@@ -1,0 +1,110 @@
+{
+  "file": "inheritor-s-crusader.md",
+  "source_path": "https://www.d20pfsrd.com/classes/prestige-classes/other-paizo/i-m/inheritor-s-crusader/",
+  "source_name": "Prestige Class: Inheritor\u2019s Crusader",
+  "category": "Classes",
+  "toc_content": "Contents\n* [Requirements](#requirements)\n* [Class Skills\\*](#class_skills)\n* [Class Features](#class_features)\n  + [Weapon and Armor Proficiency](#weapon_and_armor_proficiency)\n  + [Spells per Day](#spells_per_day)\n  + [Champion of Honor](#champion_of_honor)\n  + [Aura of Great Courage (Su)](#aura_of_great_courage_su)\n  + [Destroyer of Tyranny (Su)](#destroyer_of_tyranny_su)\n  + [Sword Against Injustice (Su)](#sword_against_injustice_su)",
+  "sections": [
+    {
+      "id": "inheritors_crusader_overview",
+      "title": "Inheritor\u2019s Crusader (Class Overview)",
+      "anchor_heading": "# Inheritor\u2019s Crusader",
+      "end_at_heading": "### Requirements {#requirements}",
+      "description": "Overview of the Inheritor\u2019s Crusader class including role, alignment, hit die, and starting wealth.",
+      "keywords": [
+        "inheritor\u2019s crusader",
+        "class",
+        "hit die",
+        "role",
+        "alignment"
+      ]
+    },
+    {
+      "id": "inheritors_crusader_weapon_and_armor_proficiency",
+      "title": "Weapon and Armor Proficiency (Inheritor\u2019s Crusader)",
+      "anchor_heading": "#### Weapon and Armor Proficiency {#weapon_and_armor_proficiency}",
+      "description": "Inheritor's crusaders gain no additional proficiency in weapons or armor beyond their base classes.",
+      "keywords": [
+        "weapon proficiency",
+        "armor proficiency",
+        "no additional proficiency",
+        "inheritors crusader proficiency"
+      ]
+    },
+    {
+      "id": "inheritors_crusader_spells_per_day",
+      "title": "Spells per Day (Inheritor\u2019s Crusader)",
+      "anchor_heading": "#### Spells per Day {#spells_per_day}",
+      "description": "Crusader levels advance spellcasting progression for cleric or paladin spells per day and effective caster level, but grant no other class features.",
+      "keywords": [
+        "spells per day",
+        "spellcasting progression",
+        "effective caster level",
+        "cleric spells",
+        "paladin spells",
+        "prestige class spellcasting"
+      ]
+    },
+    {
+      "id": "inheritors_crusader_champion_of_honor",
+      "title": "Champion of Honor (Inheritor\u2019s Crusader)",
+      "anchor_heading": "#### Champion of Honor {#champion_of_honor}",
+      "description": "The crusader follows the paladin code of conduct with same penalties, and crusader levels stack with paladin levels for smite evil effects.",
+      "keywords": [
+        "code of conduct",
+        "paladin code",
+        "smite evil",
+        "class level stacking",
+        "champion of honor",
+        "conduct penalties"
+      ]
+    },
+    {
+      "id": "inheritors_crusader_aura_of_great_courage_su",
+      "title": "Aura of Great Courage (Su) (Inheritor\u2019s Crusader)",
+      "anchor_heading": "#### Aura of Great Courage (Su) {#aura_of_great_courage_su}",
+      "description": "Grants aura of courage equivalent to a 3rd-level paladin, or increases existing aura range to 20 feet.",
+      "keywords": [
+        "aura of courage",
+        "aura of great courage",
+        "fear immunity",
+        "20 feet range",
+        "supernatural ability",
+        "aura enhancement"
+      ]
+    },
+    {
+      "id": "inheritors_crusader_destroyer_of_tyranny_su",
+      "title": "Destroyer of Tyranny (Su) (Inheritor\u2019s Crusader)",
+      "anchor_heading": "#### Destroyer of Tyranny (Su) {#destroyer_of_tyranny_su}",
+      "description": "Channel energy or lay on hands grants new saves against charm and compulsion effects, and crusader can use swift action to attempt saves against such effects on themselves.",
+      "keywords": [
+        "destroyer of tyranny",
+        "charm effects",
+        "compulsion effects",
+        "new saving throw",
+        "channel energy",
+        "lay on hands",
+        "swift action",
+        "break enchantment"
+      ]
+    },
+    {
+      "id": "inheritors_crusader_sword_against_injustice_su",
+      "title": "Sword Against Injustice (Su) (Inheritor\u2019s Crusader)",
+      "anchor_heading": "#### Sword Against Injustice (Su) {#sword_against_injustice_su}",
+      "description": "Divine judgment ability that automatically hits guilty targets or stops short for innocent ones, usable once per day as a standard action with fatigue for additional uses.",
+      "keywords": [
+        "sword against injustice",
+        "divine judgment",
+        "automatic hit",
+        "guilt detection",
+        "innocence detection",
+        "standard action",
+        "fatigue",
+        "divination immunity",
+        "mind blank"
+      ]
+    }
+  ]
+}

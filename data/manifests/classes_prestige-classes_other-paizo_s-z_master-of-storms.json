@@ -1,0 +1,193 @@
+{
+  "file": "master-of-storms.md",
+  "source_path": "https://www.d20pfsrd.com/classes/prestige-classes/other-paizo/s-z/master-of-storms/",
+  "source_name": "Prestige Class: Storm Kindler",
+  "category": "Classes",
+  "toc_content": "Contents\n* [Requirements](#requirements)\n* [Class Skills](#class_skills)\n* [Class Features](#class_features)\n  + [Oceanic Spirit (Su)](#oceanic_spirit_su)\n  + [Seasight (Su)](#seasight_su)\n  + [Storm Shape (Su)](#storm_shape_su)\n  + [Aura of Calm (Su)](#aura_of_calm_su)\n  + [Wave Breaker (Su)](#wave_breaker_su)\n  + [Thunderstruck (Su)](#thunderstruck_su)\n  + [Weather\u2019s Fury (Su)](#weather8217s_fury_su)\n  + [Eye of the Storm (Su)](#eye_of_the_storm_su)\n  + [Fickle Winds (Sp)](#fickle_winds_sp)\n  + [Echoing Thunder (Su)](#echoing_thunder_su)\n  + [Storm Mastery (Su)](#storm_mastery_su)",
+  "sections": [
+    {
+      "id": "storm_kindler_overview",
+      "title": "Storm Kindler (Class Overview)",
+      "anchor_heading": "# Storm Kindler",
+      "end_at_heading": "### Requirements {#requirements}",
+      "description": "Overview of the Storm Kindler class including role, alignment, hit die, and starting wealth.",
+      "keywords": [
+        "storm kindler",
+        "class",
+        "hit die",
+        "role",
+        "alignment"
+      ]
+    },
+    {
+      "id": "storm_kindler_oceanic_spirit_su",
+      "title": "Oceanic Spirit (Su) (Storm Kindler)",
+      "anchor_heading": "#### Oceanic Spirit (Su) {#oceanic_spirit_su}",
+      "description": "Provides bonuses to Fly and Swim checks equal to class level, immunity to concentration checks from natural weather, and scaling electricity and sonic resistance.",
+      "keywords": [
+        "oceanic spirit",
+        "fly check bonus",
+        "swim check bonus",
+        "concentration check immunity",
+        "natural weather immunity",
+        "electricity resistance",
+        "sonic resistance",
+        "weather concentration"
+      ]
+    },
+    {
+      "id": "storm_kindler_seasight_su",
+      "title": "Seasight (Su) (Storm Kindler)",
+      "anchor_heading": "#### Seasight (Su) {#seasight_su}",
+      "description": "Allows seeing through fog, smoke, obscuring vapors, and underwater silt as if they don't exist.",
+      "keywords": [
+        "seasight",
+        "see through fog",
+        "see through smoke",
+        "obscuring vapor",
+        "underwater vision",
+        "silt vision",
+        "fog immunity",
+        "smoke vision"
+      ]
+    },
+    {
+      "id": "storm_kindler_storm_shape_su",
+      "title": "Storm Shape (Su) (Storm Kindler)",
+      "anchor_heading": "#### Storm Shape (Su) {#storm_shape_su}",
+      "description": "Transform into a whirlwind (or vortex underwater) as a standard action, with variable height and ability to damage and trap creatures of specific sizes.",
+      "keywords": [
+        "storm shape",
+        "whirlwind form",
+        "vortex form",
+        "standard action transformation",
+        "swift action height change",
+        "creature trapping",
+        "reflex save",
+        "unarmed strike damage",
+        "fly speed",
+        "swim speed"
+      ]
+    },
+    {
+      "id": "storm_kindler_aura_of_calm_su",
+      "title": "Aura of Calm (Su) (Storm Kindler)",
+      "anchor_heading": "#### Aura of Calm (Su) {#aura_of_calm_su}",
+      "description": "Provides allies within range increased effective size against wind effects and competence bonuses on saves against air and water descriptor spells.",
+      "keywords": [
+        "aura of calm",
+        "wind effects size",
+        "competence bonus saves",
+        "air descriptor",
+        "water descriptor",
+        "ally protection aura",
+        "storm-lashed stacking"
+      ]
+    },
+    {
+      "id": "storm_kindler_wave_breaker_su",
+      "title": "Wave Breaker (Su) (Storm Kindler)",
+      "anchor_heading": "#### Wave Breaker (Su) {#wave_breaker_su}",
+      "description": "Grants a swim speed equal to twice base land speed and the ability to breathe water for a limited time per day.",
+      "keywords": [
+        "wave breaker",
+        "swim speed",
+        "breathe water",
+        "underwater breathing",
+        "aquatic movement",
+        "twice land speed"
+      ]
+    },
+    {
+      "id": "storm_kindler_thunderstruck_su",
+      "title": "Thunderstruck (Su) (Storm Kindler)",
+      "anchor_heading": "#### Thunderstruck (Su) {#thunderstruck_su}",
+      "description": "Provides complete immunity to the deafened condition.",
+      "keywords": [
+        "thunderstruck",
+        "deafened immunity",
+        "deaf immunity",
+        "hearing protection",
+        "sound immunity"
+      ]
+    },
+    {
+      "id": "storm_kindler_weather8217s_fury_su",
+      "title": "Weather\u2019s Fury (Su) (Storm Kindler)",
+      "anchor_heading": "#### Weather\u2019s Fury (Su) {#weather8217s_fury_su}",
+      "description": "Adds scaling electricity damage (whirlwind) or cold damage (vortex) to storm shape attacks against creatures that fail their Reflex saves.",
+      "keywords": [
+        "weather's fury",
+        "storm shape damage",
+        "electricity damage whirlwind",
+        "cold damage vortex",
+        "additional damage",
+        "reflex save damage",
+        "3d6 damage",
+        "4d6 damage",
+        "5d6 damage"
+      ]
+    },
+    {
+      "id": "storm_kindler_eye_of_the_storm_su",
+      "title": "Eye of the Storm (Su) (Storm Kindler)",
+      "anchor_heading": "#### Eye of the Storm (Su) {#eye_of_the_storm_su}",
+      "description": "Grants immunity to non-magical wind and wave damage, plus insight bonuses to AC and saves against air and water descriptor effects.",
+      "keywords": [
+        "eye of the storm",
+        "non-magical wind immunity",
+        "wave damage immunity",
+        "insight bonus AC",
+        "insight bonus saves",
+        "air descriptor protection",
+        "water descriptor protection"
+      ]
+    },
+    {
+      "id": "storm_kindler_fickle_winds_sp",
+      "title": "Fickle Winds (Sp) (Storm Kindler)",
+      "anchor_heading": "#### Fickle Winds (Sp) {#fickle_winds_sp}",
+      "description": "Activates fickle winds spell protection as a swift action for a limited number of rounds per day.",
+      "keywords": [
+        "fickle winds",
+        "swift action protection",
+        "spell-like ability",
+        "ranged attack protection",
+        "wind defense",
+        "projectile deflection"
+      ]
+    },
+    {
+      "id": "storm_kindler_echoing_thunder_su",
+      "title": "Echoing Thunder (Su) (Storm Kindler)",
+      "anchor_heading": "#### Echoing Thunder (Su) {#echoing_thunder_su}",
+      "description": "Redirects resisted electricity or sonic damage to another creature within 30 feet as an immediate action.",
+      "keywords": [
+        "echoing thunder",
+        "redirect damage",
+        "immediate action",
+        "resisted damage",
+        "electricity redirect",
+        "sonic redirect",
+        "reflex save redirect",
+        "damage reflection"
+      ]
+    },
+    {
+      "id": "storm_kindler_storm_mastery_su",
+      "title": "Storm Mastery (Su) (Storm Kindler)",
+      "anchor_heading": "#### Storm Mastery (Su) {#storm_mastery_su}",
+      "description": "Grants at-will storm shape, permanent fly speed, aquatic subtype, amphibious quality, and eliminates underwater combat penalties.",
+      "keywords": [
+        "storm mastery",
+        "at-will storm shape",
+        "permanent fly speed",
+        "aquatic subtype",
+        "amphibious quality",
+        "underwater combat",
+        "no underwater penalties",
+        "double land speed fly"
+      ]
+    }
+  ]
+}

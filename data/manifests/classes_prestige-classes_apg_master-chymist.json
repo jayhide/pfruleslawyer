@@ -1,0 +1,136 @@
+{
+  "file": "master-chymist.md",
+  "source_path": "https://www.d20pfsrd.com/classes/prestige-classes/apg/master-chymist/",
+  "source_name": "Prestige Class: Master Chymist",
+  "category": "Classes",
+  "toc_content": "Contents\n* [Requirements](#requirements)\n* [Class Skills](#class_skills)\n* [Class Features](#class_features)\n  + [Weapon and Armor Proficiency](#weapon_and_armor_proficiency)\n  + [Extracts per Day](#extracts_per_day)\n  + [Bomb-Thrower (Ex)](#bomb-thrower_ex)\n  + [Mutagenic Form (Ex)](#mutagenic_form_ex)\n  + [Mutate (Su)](#mutate_su)\n  + [Advanced Mutagen (Su)](#advanced_mutagen_su)\n  + [Brutality (Ex)](#brutality_ex)",
+  "sections": [
+    {
+      "id": "master_chymist_overview",
+      "title": "Master Chymist (Class Overview)",
+      "anchor_heading": "# Master Chymist",
+      "end_at_heading": "### Requirements {#requirements}",
+      "description": "Overview of the Master Chymist class including role, alignment, hit die, and starting wealth.",
+      "keywords": [
+        "master chymist",
+        "class",
+        "hit die",
+        "role",
+        "alignment"
+      ]
+    },
+    {
+      "id": "master_chymist_weapon_and_armor_proficiency",
+      "title": "Weapon and Armor Proficiency (Master Chymist)",
+      "anchor_heading": "#### Weapon and Armor Proficiency {#weapon_and_armor_proficiency}",
+      "description": "Master chymists gain no proficiency with any weapon or armor beyond what they already possess.",
+      "keywords": [
+        "weapon proficiency",
+        "armor proficiency",
+        "no proficiency",
+        "master chymist proficiency"
+      ]
+    },
+    {
+      "id": "master_chymist_extracts_per_day",
+      "title": "Extracts per Day (Master Chymist)",
+      "anchor_heading": "#### Extracts per Day {#extracts_per_day}",
+      "description": "At certain levels, master chymists gain additional extracts per day and increased caster level as if gaining alchemist levels, but no other alchemist benefits.",
+      "keywords": [
+        "extracts per day",
+        "caster level",
+        "alchemist level",
+        "extract progression",
+        "spellcasting progression"
+      ]
+    },
+    {
+      "id": "master_chymist_bomb-thrower_ex",
+      "title": "Bomb-Thrower (Ex) (Master Chymist)",
+      "anchor_heading": "#### Bomb-Thrower (Ex) {#bomb-thrower_ex}",
+      "description": "Master chymists add their alchemist and master chymist levels together to determine bomb damage.",
+      "keywords": [
+        "bomb-thrower",
+        "bomb damage",
+        "level stacking",
+        "alchemist bomb",
+        "destructive power"
+      ]
+    },
+    {
+      "id": "master_chymist_mutagenic_form_ex",
+      "title": "Mutagenic Form (Ex) (Master Chymist)",
+      "anchor_heading": "#### Mutagenic Form (Ex) {#mutagenic_form_ex}",
+      "description": "The master chymist's alternate personality and form that manifests during mutation, with different alignment, appearance, and goals from the normal form.",
+      "keywords": [
+        "mutagenic form",
+        "alter ego",
+        "different alignment",
+        "personality change",
+        "different appearance",
+        "mutagen form"
+      ]
+    },
+    {
+      "id": "master_chymist_mutate_su",
+      "title": "Mutate (Su) (Master Chymist)",
+      "anchor_heading": "#### Mutate (Su) {#mutate_su}",
+      "description": "Allows the master chymist to assume mutagenic form multiple times per day without consuming a mutagen, with forced transformation possible under stress.",
+      "keywords": [
+        "mutate",
+        "mutagenic form",
+        "transform",
+        "critical hit transformation",
+        "fortitude save transformation",
+        "will save",
+        "standard action",
+        "antimagic field"
+      ]
+    },
+    {
+      "id": "master_chymist_advanced_mutagen_su",
+      "title": "Advanced Mutagen (Su) (Master Chymist)",
+      "anchor_heading": "#### Advanced Mutagen (Su) {#advanced_mutagen_su}",
+      "description": "Special powers that modify or enhance the master chymist's mutagenic form, selected at specific levels.",
+      "keywords": [
+        "advanced mutagen",
+        "burly",
+        "disguise",
+        "draconic mutagen",
+        "dual mind",
+        "evasion",
+        "extended mutagen",
+        "feral mutagen",
+        "furious mutagen",
+        "grand mutagen",
+        "greater mutagen",
+        "growth mutagen",
+        "night vision",
+        "nimble",
+        "restoring change",
+        "scent",
+        "breath weapon",
+        "darkvision",
+        "enlarge person",
+        "size increase",
+        "natural attacks",
+        "dragon type"
+      ]
+    },
+    {
+      "id": "master_chymist_brutality_ex",
+      "title": "Brutality (Ex) (Master Chymist)",
+      "anchor_heading": "#### Brutality (Ex) {#brutality_ex}",
+      "description": "Provides bonus damage when attacking with simple weapons and natural attacks while in mutagenic form, increasing at higher levels.",
+      "keywords": [
+        "brutality",
+        "simple weapons",
+        "natural attacks",
+        "bonus damage",
+        "mutagenic form",
+        "violence",
+        "bestial mind"
+      ]
+    }
+  ]
+}

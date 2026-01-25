@@ -1,0 +1,135 @@
+{
+  "file": "scar-seeker.md",
+  "source_path": "https://www.d20pfsrd.com/classes/prestige-classes/other-paizo/s-z/scar-seeker/",
+  "source_name": "Prestige Class: Scar Seeker",
+  "category": "Classes",
+  "toc_content": "Contents\n* [Requirements](#requirements)\n* [Class Skills](#class_skills)\n* [Class Features](#class_features)\n  + [Enduring Scar (Su)](#enduring_scar_su)\n  + [Painful Purification (Su)](#painful_purification_su)\n  + [Lay on Hands (Su)](#lay_on_hands_su)\n  + [Smite Evil (Su)](#smite_evil_su)\n  + [Sanguine Sacrifice (Su)](#sanguine_sacrifice_su)\n  + [True Martyr (Su)](#true_martyr_su)",
+  "sections": [
+    {
+      "id": "scar_seeker_overview",
+      "title": "Scar Seeker (Class Overview)",
+      "anchor_heading": "# Scar Seeker",
+      "end_at_heading": "### Requirements {#requirements}",
+      "description": "Overview of the Scar Seeker class including role, alignment, hit die, and starting wealth.",
+      "keywords": [
+        "scar seeker",
+        "class",
+        "hit die",
+        "role",
+        "alignment"
+      ]
+    },
+    {
+      "id": "scar_seeker_enduring_scar_su",
+      "title": "Enduring Scar (Su) (Scar Seeker)",
+      "anchor_heading": "#### Enduring Scar (Su) {#enduring_scar_su}",
+      "description": "Grants supernatural scars that can be activated a limited number of times per day, providing various effects like weapon enhancement, healing enhancement, damage sharing, and protective abilities. New scars are gained every 2 levels with different prerequisites and upgrade options.",
+      "keywords": [
+        "enduring scar",
+        "blood scar",
+        "healing scar",
+        "martyr scar",
+        "mercy scar",
+        "sacrifice scar",
+        "suffering scar",
+        "tenacity scar",
+        "vicious weapon",
+        "swift action",
+        "immediate action",
+        "lay on hands",
+        "shield other",
+        "damage reduction",
+        "morale bonus",
+        "critical hit",
+        "sneak attack",
+        "charisma modifier",
+        "30-foot radius",
+        "will save",
+        "holy power"
+      ]
+    },
+    {
+      "id": "scar_seeker_painful_purification_su",
+      "title": "Painful Purification (Su) (Scar Seeker)",
+      "anchor_heading": "#### Painful Purification (Su) {#painful_purification_su}",
+      "description": "Allows activation of enduring scar abilities beyond daily limits by taking 1 point of damage per Hit Die, which can only be healed by a full night's rest. This damage cannot be reduced, ignored, or redirected.",
+      "keywords": [
+        "painful purification",
+        "hit die damage",
+        "activate scar",
+        "full night rest",
+        "cannot be healed",
+        "cannot be reduced",
+        "enduring scar activation",
+        "daily uses",
+        "unreduceable damage"
+      ]
+    },
+    {
+      "id": "scar_seeker_lay_on_hands_su",
+      "title": "Lay on Hands (Su) (Scar Seeker)",
+      "anchor_heading": "#### Lay on Hands (Su) {#lay_on_hands_su}",
+      "description": "Functions as the paladin lay on hands ability starting at 2nd level. Class levels stack with other classes that grant lay on hands for determining the ability's effectiveness.",
+      "keywords": [
+        "lay on hands",
+        "paladin ability",
+        "class level stacking",
+        "healing ability",
+        "2nd level"
+      ]
+    },
+    {
+      "id": "scar_seeker_smite_evil_su",
+      "title": "Smite Evil (Su) (Scar Seeker)",
+      "anchor_heading": "#### Smite Evil (Su) {#smite_evil_su}",
+      "description": "Functions like paladin smite evil but with effective paladin level equal to class level minus 3 (minimum 1). Class levels stack with other smite evil granting classes, with additional uses gained at 8th level.",
+      "keywords": [
+        "smite evil",
+        "paladin level minus 3",
+        "class level stacking",
+        "effective paladin level",
+        "8th level",
+        "additional use",
+        "minimum 1"
+      ]
+    },
+    {
+      "id": "scar_seeker_sanguine_sacrifice_su",
+      "title": "Sanguine Sacrifice (Su) (Scar Seeker)",
+      "anchor_heading": "#### Sanguine Sacrifice (Su) {#sanguine_sacrifice_su}",
+      "description": "Grants a stacking +1 morale bonus on attack rolls, skill checks, ability checks, and saving throws for 1 hour when using painful purification. Maximum bonus equals one-third class level.",
+      "keywords": [
+        "sanguine sacrifice",
+        "painful purification",
+        "morale bonus",
+        "stacking bonus",
+        "1 hour duration",
+        "one-third class level",
+        "attack rolls",
+        "skill checks",
+        "ability checks",
+        "saving throws"
+      ]
+    },
+    {
+      "id": "scar_seeker_true_martyr_su",
+      "title": "True Martyr (Su) (Scar Seeker)",
+      "anchor_heading": "#### True Martyr (Su) {#true_martyr_su}",
+      "description": "As an immediate action, absorbs half the damage from a single effect affecting all allies within 60 feet, and if this kills the scar seeker, creates a monadic deva that fights for 1 minute. Usable once per week.",
+      "keywords": [
+        "true martyr",
+        "immediate action",
+        "half damage",
+        "60 feet",
+        "single effect",
+        "breath weapon",
+        "monadic deva",
+        "lawful good",
+        "1 minute",
+        "once per week",
+        "cave-in",
+        "melee attack"
+      ]
+    }
+  ]
+}

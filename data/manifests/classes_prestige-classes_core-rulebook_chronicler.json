@@ -1,0 +1,428 @@
+{
+  "file": "chronicler.md",
+  "source_path": "https://www.d20pfsrd.com/classes/prestige-classes/core-rulebook/chronicler/",
+  "source_name": "Prestige Class: Chronicler",
+  "category": "Classes",
+  "toc_content": "Contents",
+  "sections": [
+    {
+      "id": "chronicler_overview",
+      "title": "Chronicler (Class Overview)",
+      "anchor_heading": "# Chronicler",
+      "end_at_heading": "### Requirements {#requirements}",
+      "description": "Overview of the Chronicler class including role, alignment, hit die, and starting wealth.",
+      "keywords": [
+        "chronicler",
+        "class",
+        "hit die",
+        "role",
+        "alignment"
+      ]
+    },
+    {
+      "id": "chronicler_bardic_knowledge_ex",
+      "title": "Bardic Knowledge (Ex) (Chronicler)",
+      "anchor_heading": "#### Bardic Knowledge (Ex) {#bardic_knowledge_ex}",
+      "description": "Grants the bardic knowledge ability identical to the bard class feature, with levels stacking across classes that grant similar abilities.",
+      "keywords": [
+        "bardic knowledge",
+        "knowledge check",
+        "untrained knowledge",
+        "class level bonus",
+        "stacking levels"
+      ]
+    },
+    {
+      "id": "chronicler_deep_pockets_ex",
+      "title": "Deep Pockets (Ex) (Chronicler)",
+      "anchor_heading": "#### Deep Pockets (Ex) {#deep_pockets_ex}",
+      "description": "Allows carrying unspecified gear worth 100 gp per level that can be retrieved as a full-round action, plus provides encumbrance and concealment bonuses.",
+      "keywords": [
+        "deep pockets",
+        "unspecified equipment",
+        "full-round action",
+        "retrieve item",
+        "light encumbrance",
+        "sleight of hand",
+        "concealment bonus",
+        "carrying capacity"
+      ]
+    },
+    {
+      "id": "chronicler_master_scribe_ex",
+      "title": "Master Scribe (Ex) (Chronicler)",
+      "anchor_heading": "#### Master Scribe (Ex) {#master_scribe_ex}",
+      "description": "Adds class level bonus to Linguistics, Profession (scribe), and Use Magic Device checks involving written items, plus allows taking 10 and faster deciphering.",
+      "keywords": [
+        "master scribe",
+        "linguistics",
+        "profession scribe",
+        "use magic device",
+        "scrolls",
+        "decipher text",
+        "take 10",
+        "class level bonus"
+      ]
+    },
+    {
+      "id": "chronicler_live_to_tell_the_tale_ex",
+      "title": "Live to Tell the Tale (Ex) (Chronicler)",
+      "anchor_heading": "#### Live to Tell the Tale (Ex) {#live_to_tell_the_tale_ex}",
+      "description": "Allows retrying failed saving throws against ongoing conditions a limited number of times per day.",
+      "keywords": [
+        "live to tell the tale",
+        "retry saving throw",
+        "ongoing condition",
+        "failed save",
+        "permanent effect",
+        "new saving throw"
+      ]
+    },
+    {
+      "id": "chronicler_pathfinding_ex",
+      "title": "Pathfinding (Ex) (Chronicler)",
+      "anchor_heading": "#### Pathfinding (Ex) {#pathfinding_ex}",
+      "description": "Provides bonuses to avoid getting lost and escape mazes, plus grants road movement speed in any terrain.",
+      "keywords": [
+        "pathfinding",
+        "survival check",
+        "avoid lost",
+        "maze spell",
+        "overland movement",
+        "trackless terrain",
+        "road movement",
+        "companion benefit"
+      ]
+    },
+    {
+      "id": "chronicler_bardic_performance_su",
+      "title": "Bardic Performance (Su) (Chronicler)",
+      "anchor_heading": "#### Bardic Performance (Su) {#bardic_performance_su}",
+      "description": "Grants bardic performance ability like a bard but at an effective level 2 lower, with levels stacking across similar classes.",
+      "keywords": [
+        "bardic performance",
+        "effective bard level",
+        "stacking levels",
+        "performance rounds",
+        "bardic music"
+      ]
+    },
+    {
+      "id": "chronicler_improved_aid_ex",
+      "title": "Improved Aid (Ex) (Chronicler)",
+      "anchor_heading": "#### Improved Aid (Ex) {#improved_aid_ex}",
+      "description": "Increases the bonus provided by the aid another action from +2 to +4.",
+      "keywords": [
+        "improved aid",
+        "aid another",
+        "aid bonus",
+        "+4 bonus",
+        "helping action"
+      ]
+    },
+    {
+      "id": "chronicler_epic_tales_su",
+      "title": "Epic Tales (Su) (Chronicler)",
+      "anchor_heading": "#### Epic Tales (Su) {#epic_tales_su}",
+      "description": "Creates written works that grant bardic performance benefits to readers, expending performance rounds and using Profession (scribe) for checks.",
+      "keywords": [
+        "epic tales",
+        "written bardic performance",
+        "profession scribe",
+        "performance rounds",
+        "supernatural potency",
+        "inscribe tale",
+        "activate epic tale"
+      ]
+    },
+    {
+      "id": "chronicler_whispering_campaign_ex",
+      "title": "Whispering Campaign (Ex) (Chronicler)",
+      "anchor_heading": "#### Whispering Campaign (Ex) {#whispering_campaign_ex}",
+      "description": "Uses bardic music to create doom effects when denouncing in person, or enthrall effects that shift attitudes when denouncing to others.",
+      "keywords": [
+        "whispering campaign",
+        "doom spell",
+        "enthrall spell",
+        "denounce",
+        "shift attitude",
+        "language-dependent",
+        "bardic music"
+      ]
+    },
+    {
+      "id": "chronicler_inspire_action_su",
+      "title": "Inspire Action (Su) (Chronicler)",
+      "anchor_heading": "#### Inspire Action (Su) {#inspire_action_su}",
+      "description": "Grants an ally an immediate extra move action at 6th level, upgraded to a standard action at 9th level.",
+      "keywords": [
+        "inspire action",
+        "extra move action",
+        "extra standard action",
+        "immediate action",
+        "ally benefit",
+        "bardic music"
+      ]
+    },
+    {
+      "id": "chronicler_call_down_the_legends_su",
+      "title": "Call Down the Legends (Su) (Chronicler)",
+      "anchor_heading": "#### Call Down the Legends (Su) {#call_down_the_legends_su}",
+      "description": "Summons 2d4 4th-level barbarian constructs once per week that serve with complete loyalty, functioning like a bronze horn of Valhalla.",
+      "keywords": [
+        "call down the legends",
+        "summon barbarians",
+        "horn of valhalla",
+        "barbarian constructs",
+        "once per week",
+        "complete loyalty"
+      ]
+    },
+    {
+      "id": "chronicler_greater_epic_tales_su",
+      "title": "Greater Epic Tales (Su) (Chronicler)",
+      "anchor_heading": "#### Greater Epic Tales (Su) {#greater_epic_tales_su}",
+      "description": "Enhances epic tales so they can be read aloud by others to activate bardic music effects using the reader's Charisma.",
+      "keywords": [
+        "greater epic tales",
+        "read aloud",
+        "reader charisma",
+        "bardic music effects",
+        "enhanced epic tales"
+      ]
+    },
+    {
+      "id": "chronicler_lay_of_the_exalted_dead_su",
+      "title": "Lay of the Exalted Dead (Su) (Chronicler)",
+      "anchor_heading": "#### Lay of the Exalted Dead (Su) {#lay_of_the_exalted_dead_su}",
+      "description": "Summons 1d4+1 5th-level incorporeal barbarian constructs once per week with ghost touch weapons that cause fear in enemies.",
+      "keywords": [
+        "lay of the exalted dead",
+        "incorporeal barbarians",
+        "ghost touch",
+        "iron horn of valhalla",
+        "shaken condition",
+        "spectral warriors"
+      ]
+    },
+    {
+      "id": "chronicler_announcement_of_victory_su",
+      "title": "Announcement of Victory (Su) (Chronicler)",
+      "anchor_heading": "#### Announcement of Victory (Su) {#announcement_of_victory_su}",
+      "description": "Creates a cone effect that damages designated enemies with shout while granting inspire courage to allies.",
+      "keywords": [
+        "announcement of victory",
+        "shout spell",
+        "inspire courage",
+        "60-foot cone",
+        "designate targets",
+        "defiance shout"
+      ]
+    },
+    {
+      "id": "chronicler_lift_the_spirits_su",
+      "title": "Lift the Spirits (Su) (Chronicler)",
+      "anchor_heading": "#### Lift the Spirits (Su) {#lift_the_spirits_su}",
+      "description": "Upgrades announcement of victory to use greater shout and increases the inspire courage bonus by 1.",
+      "keywords": [
+        "lift the spirits",
+        "greater shout",
+        "enhanced inspire courage",
+        "improved announcement",
+        "courage bonus increase"
+      ]
+    },
+    {
+      "id": "chronicler_unbound_satire_su",
+      "title": "Unbound Satire (Su) (Chronicler)",
+      "anchor_heading": "#### Unbound Satire (Su) {#unbound_satire_su}",
+      "description": "Grants hideous laughter three times per day and allows causing rage in a target once per day through verbal mockery.",
+      "keywords": [
+        "unbound satire",
+        "hideous laughter",
+        "rage spell",
+        "verbal tirade",
+        "brutal mockery",
+        "enrage target"
+      ]
+    },
+    {
+      "id": "chronicler_ultimate_ridicule_su",
+      "title": "Ultimate Ridicule (Su) (Chronicler)",
+      "anchor_heading": "#### Ultimate Ridicule (Su) {#ultimate_ridicule_su}",
+      "description": "When using unbound satire to enrage a target, causes all other nearby enemies to suffer hideous laughter.",
+      "keywords": [
+        "ultimate ridicule",
+        "area hideous laughter",
+        "enraged target",
+        "30 feet",
+        "uncontrollable laughter",
+        "enhanced satire"
+      ]
+    },
+    {
+      "id": "chronicler_unfettered_movement_su",
+      "title": "Unfettered Movement (Su) (Chronicler)",
+      "anchor_heading": "#### Unfettered Movement (Su) {#unfettered_movement_su}",
+      "description": "Allows 5-foot steps in difficult terrain and provides dimension door three times per day for self-only teleportation.",
+      "keywords": [
+        "unfettered movement",
+        "difficult terrain",
+        "5-foot step",
+        "dimension door",
+        "light footfalls",
+        "teleportation"
+      ]
+    },
+    {
+      "id": "chronicler_dance_through_space_su",
+      "title": "Dance Through Space (Su) (Chronicler)",
+      "anchor_heading": "#### Dance Through Space (Su) {#dance_through_space_su}",
+      "description": "Enhances unfettered movement to allow taking other creatures when using dimension door teleportation.",
+      "keywords": [
+        "dance through space",
+        "dimension door others",
+        "teleport companions",
+        "enhanced unfettered movement"
+      ]
+    },
+    {
+      "id": "chronicler_shifting_tempo_su",
+      "title": "Shifting Tempo (Su) (Chronicler)",
+      "anchor_heading": "#### Shifting Tempo (Su) {#shifting_tempo_su}",
+      "description": "Grants haste effects to up to 5 creatures, affecting up to 25 creatures per day total.",
+      "keywords": [
+        "shifting tempo",
+        "haste spell",
+        "5 creatures",
+        "25 per day",
+        "tempo effects"
+      ]
+    },
+    {
+      "id": "chronicler_overwhelming_rhythm_su",
+      "title": "Overwhelming Rhythm (Su) (Chronicler)",
+      "anchor_heading": "#### Overwhelming Rhythm (Su) {#overwhelming_rhythm_su}",
+      "description": "Expands shifting tempo to affect 25 creatures per day with either haste or slow effects.",
+      "keywords": [
+        "overwhelming rhythm",
+        "haste or slow",
+        "25 creatures",
+        "rhythm effects",
+        "declare effect"
+      ]
+    },
+    {
+      "id": "chronicler_master_impersonator_su",
+      "title": "Master Impersonator (Su) (Chronicler)",
+      "anchor_heading": "#### Master Impersonator (Su) {#master_impersonator_su}",
+      "description": "Allows assuming another creature's appearance after 1 minute of study, granting veil effects with +20 Disguise bonus but as mirror images.",
+      "keywords": [
+        "master impersonator",
+        "veil spell",
+        "disguise bonus",
+        "mirror image",
+        "study creature",
+        "appearance assumption",
+        "memorized subjects"
+      ]
+    },
+    {
+      "id": "chronicler_troupe_of_thespians_su",
+      "title": "Troupe of Thespians (Su) (Chronicler)",
+      "anchor_heading": "#### Troupe of Thespians (Su) {#troupe_of_thespians_su}",
+      "description": "Extends master impersonator benefits to a number of creatures equal to Charisma bonus.",
+      "keywords": [
+        "troupe of thespians",
+        "group impersonation",
+        "charisma bonus",
+        "multiple disguises",
+        "thespian troupe"
+      ]
+    },
+    {
+      "id": "chronicler_move_the_rocks_su",
+      "title": "Move the Rocks (Su) (Chronicler)",
+      "anchor_heading": "#### Move the Rocks (Su) {#move_the_rocks_su}",
+      "description": "Magic song that protects construction from attacks and accelerates building work equivalent to multiple workers.",
+      "keywords": [
+        "move the rocks",
+        "construction protection",
+        "building acceleration",
+        "siege weapon negation",
+        "worker equivalent",
+        "magic construction"
+      ]
+    },
+    {
+      "id": "chronicler_wall_of_song_su",
+      "title": "Wall of Song (Su) (Chronicler)",
+      "anchor_heading": "#### Wall of Song (Su) {#wall_of_song_su}",
+      "description": "Doubles the duration and effectiveness of move the rocks protection and construction abilities.",
+      "keywords": [
+        "wall of song",
+        "enhanced construction",
+        "doubled protection",
+        "6 workers",
+        "1 hour duration",
+        "improved building"
+      ]
+    },
+    {
+      "id": "chronicler_vision_of_the_organist_su",
+      "title": "Vision of the Organist (Su) (Chronicler)",
+      "anchor_heading": "#### Vision of the Organist (Su) {#vision_of_the_organist_su}",
+      "description": "Grants once per day use of legend lore, scrying, or divination spells for information gathering.",
+      "keywords": [
+        "vision of the organist",
+        "legend lore",
+        "scrying",
+        "divination",
+        "information gathering",
+        "magical investigation"
+      ]
+    },
+    {
+      "id": "chronicler_fateful_tune_su",
+      "title": "Fateful Tune (Su) (Chronicler)",
+      "anchor_heading": "#### Fateful Tune (Su) {#fateful_tune_su}",
+      "description": "Enhances vision of the organist to include greater scrying, vision, and foresight once per day each.",
+      "keywords": [
+        "fateful tune",
+        "greater scrying",
+        "vision spell",
+        "foresight",
+        "enhanced divination",
+        "improved organist"
+      ]
+    },
+    {
+      "id": "chronicler_harmonies_of_perfect_peace_su",
+      "title": "Harmonies of Perfect Peace (Su) (Chronicler)",
+      "anchor_heading": "#### Harmonies of Perfect Peace (Su) {#harmonies_of_perfect_peace_su}",
+      "description": "Targets multiple creatures with lullaby in a 30-foot radius and grants soothing performance ability once per day.",
+      "keywords": [
+        "harmonies of perfect peace",
+        "area lullaby",
+        "soothing performance",
+        "30-foot radius",
+        "peaceful effects",
+        "sleep magic"
+      ]
+    },
+    {
+      "id": "chronicler_melody_of_renewal_su",
+      "title": "Melody of Renewal (Su) (Chronicler)",
+      "anchor_heading": "#### Melody of Renewal (Su) {#melody_of_renewal_su}",
+      "description": "Enhances harmonies of perfect peace to provide mass healing effects through soothing performance.",
+      "keywords": [
+        "melody of renewal",
+        "mass cure critical wounds",
+        "mass heal",
+        "enhanced soothing",
+        "healing performance",
+        "renewal magic"
+      ]
+    }
+  ]
+}

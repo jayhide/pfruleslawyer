@@ -1,0 +1,173 @@
+{
+  "file": "celestial-knight.md",
+  "source_path": "https://www.d20pfsrd.com/classes/prestige-classes/other-paizo/c-d/celestial-knight/",
+  "source_name": "Prestige Class: Celestial Knight",
+  "category": "Classes",
+  "toc_content": "Contents\n* [Requirements](#requirements)\n* [Class Skills](#class_skills)\n* [Class Features](#class_features)\n  + [Weapon and Armor Proficiency](#weapon_and_armor_proficiency)\n  + [Sentinel Against Undeath (Ex)](#sentinel_against_undeath_ex)\n  + [Teamwork Feat (Ex)](#teamwork_feat_ex)\n  + [Aegis Feat (Ex)](#aegis_feat_ex)\n  + [Favored Enemy (Ex)](#favored_enemy_ex)\n  + [Thwart Foul Magic (Ex)](#thwart_foul_magic_ex)\n  + [Blessed Conviction (Su)](#blessed_conviction_su)\n  + [Purge Malevolence (Su)](#purge_malevolence_su)\n  + [Foil Deathcaster (Ex)](#foil_deathcaster_ex)\n  + [Raiment of Righteousness (Su)](#raiment_of_righteousness_su)",
+  "sections": [
+    {
+      "id": "celestial_knight_overview",
+      "title": "Celestial Knight (Class Overview)",
+      "anchor_heading": "# Celestial Knight",
+      "end_at_heading": "### Requirements {#requirements}",
+      "description": "Overview of the Celestial Knight class including role, alignment, hit die, and starting wealth.",
+      "keywords": [
+        "celestial knight",
+        "class",
+        "hit die",
+        "role",
+        "alignment"
+      ]
+    },
+    {
+      "id": "celestial_knight_weapon_and_armor_proficiency",
+      "title": "Weapon and Armor Proficiency (Celestial Knight)",
+      "anchor_heading": "#### Weapon and Armor Proficiency {#weapon_and_armor_proficiency}",
+      "description": "Celestial knights gain no additional weapon or armor proficiencies beyond their base class.",
+      "keywords": [
+        "weapon proficiency",
+        "armor proficiency",
+        "no additional proficiencies",
+        "celestial knight proficiencies"
+      ]
+    },
+    {
+      "id": "celestial_knight_sentinel_against_undeath_ex",
+      "title": "Sentinel Against Undeath ([Ex](https://www.d20pfsrd.com/magic#TOC-Extraordinary-Abilities-Ex-)) (Celestial Knight)",
+      "anchor_heading": "#### Sentinel Against Undeath ([Ex](https://www.d20pfsrd.com/magic#TOC-Extraordinary-Abilities-Ex-)) {#sentinel_against_undeath_ex}",
+      "description": "Grants scaling bonuses to Perception, Sense Motive, AC, and CMD when dealing with undead creatures.",
+      "keywords": [
+        "sentinel against undeath",
+        "undead bonus",
+        "perception bonus",
+        "sense motive bonus",
+        "dodge bonus",
+        "CMD bonus",
+        "anti-undead",
+        "1/3 class level"
+      ]
+    },
+    {
+      "id": "celestial_knight_teamwork_feat_ex",
+      "title": "Teamwork Feat ([Ex](https://www.d20pfsrd.com/magic#TOC-Extraordinary-Abilities-Ex-)) (Celestial Knight)",
+      "anchor_heading": "#### Teamwork Feat ([Ex](https://www.d20pfsrd.com/magic#TOC-Extraordinary-Abilities-Ex-)) {#teamwork_feat_ex}",
+      "description": "Grants bonus teamwork feats at regular intervals and allows swapping known teamwork feats for new ones.",
+      "keywords": [
+        "teamwork feat",
+        "bonus feat",
+        "feat swapping",
+        "teamwork feat replacement",
+        "every three levels",
+        "2nd level"
+      ]
+    },
+    {
+      "id": "celestial_knight_aegis_feat_ex",
+      "title": "Aegis Feat ([Ex](https://www.d20pfsrd.com/magic#TOC-Extraordinary-Abilities-Ex-)) (Celestial Knight)",
+      "anchor_heading": "#### Aegis Feat ([Ex](https://www.d20pfsrd.com/magic#TOC-Extraordinary-Abilities-Ex-)) {#aegis_feat_ex}",
+      "description": "Grants bonus shield-focused combat feats, treating class levels as fighter levels for prerequisites.",
+      "keywords": [
+        "aegis feat",
+        "shield feat",
+        "shield focus",
+        "shield specialization",
+        "shield bash",
+        "covering defense",
+        "fighter levels",
+        "bonus feat"
+      ]
+    },
+    {
+      "id": "celestial_knight_favored_enemy_ex",
+      "title": "Favored Enemy ([Ex](https://www.d20pfsrd.com/magic#TOC-Extraordinary-Abilities-Ex-)) (Celestial Knight)",
+      "anchor_heading": "#### Favored Enemy ([Ex](https://www.d20pfsrd.com/magic#TOC-Extraordinary-Abilities-Ex-)) {#favored_enemy_ex}",
+      "description": "Grants or improves favored enemy bonus against undead creatures, functioning like the ranger ability.",
+      "keywords": [
+        "favored enemy",
+        "favored enemy undead",
+        "+2 bonus",
+        "ranger ability",
+        "undead bonus",
+        "stacking favored enemy"
+      ]
+    },
+    {
+      "id": "celestial_knight_thwart_foul_magic_ex",
+      "title": "Thwart Foul Magic ([Ex](https://www.d20pfsrd.com/magic#TOC-Extraordinary-Abilities-Ex-)) (Celestial Knight)",
+      "anchor_heading": "#### Thwart Foul Magic ([Ex](https://www.d20pfsrd.com/magic#TOC-Extraordinary-Abilities-Ex-)) {#thwart_foul_magic_ex}",
+      "description": "Disrupts undead spellcasters and increases concentration DCs for necromancy, death, and evil spells.",
+      "keywords": [
+        "thwart foul magic",
+        "disruptive",
+        "spellbreaker",
+        "concentration check",
+        "necromancy",
+        "death descriptor",
+        "evil descriptor",
+        "undead spellcaster",
+        "threatens"
+      ]
+    },
+    {
+      "id": "celestial_knight_blessed_conviction_su",
+      "title": "Blessed Conviction (Su) (Celestial Knight)",
+      "anchor_heading": "#### Blessed Conviction (Su) {#blessed_conviction_su}",
+      "description": "Provides a +4 morale bonus on saving throws against spells and effects created by undead creatures.",
+      "keywords": [
+        "blessed conviction",
+        "+4 morale bonus",
+        "saving throws",
+        "undead effects",
+        "undead spells",
+        "morale bonus"
+      ]
+    },
+    {
+      "id": "celestial_knight_purge_malevolence_su",
+      "title": "Purge Malevolence (Su) (Celestial Knight)",
+      "anchor_heading": "#### Purge Malevolence (Su) {#purge_malevolence_su}",
+      "description": "Allows targeted dispel magic against necromancy, death, or evil descriptor effects as part of a melee attack.",
+      "keywords": [
+        "purge malevolence",
+        "dispel magic",
+        "melee attack",
+        "necromancy",
+        "death descriptor",
+        "evil descriptor",
+        "targeted dispel",
+        "once per round"
+      ]
+    },
+    {
+      "id": "celestial_knight_foil_deathcaster_ex",
+      "title": "Foil Deathcaster ([Ex](https://www.d20pfsrd.com/magic#TOC-Extraordinary-Abilities-Ex-)) (Celestial Knight)",
+      "anchor_heading": "#### Foil Deathcaster ([Ex](https://www.d20pfsrd.com/magic#TOC-Extraordinary-Abilities-Ex-)) {#foil_deathcaster_ex}",
+      "description": "Forces an undead spellcaster to reroll a concentration check as an immediate action once per day.",
+      "keywords": [
+        "foil deathcaster",
+        "concentration reroll",
+        "immediate action",
+        "undead spellcaster",
+        "once per day",
+        "threatens",
+        "take lower result"
+      ]
+    },
+    {
+      "id": "celestial_knight_raiment_of_righteousness_su",
+      "title": "Raiment of Righteousness (Su) (Celestial Knight)",
+      "anchor_heading": "#### Raiment of Righteousness (Su) {#raiment_of_righteousness_su}",
+      "description": "Transforms equipment into magical versions with enhanced properties including adamantine armor, glowing shield, resistance cloak, and holy sword effects.",
+      "keywords": [
+        "raiment of righteousness",
+        "adamantine armor",
+        "blinding shield",
+        "cloak of resistance +5",
+        "holy sword",
+        "standard action",
+        "1 minute duration",
+        "equipment transformation"
+      ]
+    }
+  ]
+}

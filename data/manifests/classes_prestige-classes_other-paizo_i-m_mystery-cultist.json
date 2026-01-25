@@ -1,0 +1,200 @@
+{
+  "file": "mystery-cultist.md",
+  "source_path": "https://www.d20pfsrd.com/classes/prestige-classes/other-paizo/i-m/mystery-cultist/",
+  "source_name": "Prestige Class: Mystery Cultist",
+  "category": "Classes",
+  "toc_content": "Contents\n+ [Requirements](#requirements)\n+ [Class Skills](#class_skills)\n+ [Class Features](#class_features)\n  - [Weapon and Armor Proficiency](#weapon_and_armor_proficiency)\n  - [Spells per Day/Spells Known](#spells_per_dayspells_known)\n  - [Blessed (Ex)](#blessed_ex)\n  - [Obedience (Ex)](#obedience_ex)\n  - [Glorious Aura (Su)](#glorious_aura_su)\n  - [Celestial Boon](#celestial_boon)\n  - [Brand of Healing (Sp)](#brand_of_healing_sp)\n  - [Summon Celestial (Sp)](#summon_celestial_sp)\n  - [Fervor (Su)](#fervor_su)\n  - [Incorruptible (Su)](#incorruptible_su)\n  - [Sacred Haven (Su)](#sacred_haven_su)\n* [Ex-Mystery Cultists](#ex-mystery_cultists)",
+  "sections": [
+    {
+      "id": "mystery_cultist_overview",
+      "title": "Mystery Cultist (Class Overview)",
+      "anchor_heading": "# Mystery Cultist",
+      "end_at_heading": "### Requirements {#requirements}",
+      "description": "Overview of the Mystery Cultist class including role, alignment, hit die, and starting wealth.",
+      "keywords": [
+        "mystery cultist",
+        "class",
+        "hit die",
+        "role",
+        "alignment"
+      ]
+    },
+    {
+      "id": "mystery_cultist_weapon_and_armor_proficiency",
+      "title": "Weapon and Armor Proficiency (Mystery Cultist)",
+      "anchor_heading": "#### Weapon and Armor Proficiency {#weapon_and_armor_proficiency}",
+      "description": "Mystery cultists gain proficiency with all simple weapons and their celestial patron's favored weapon, but gain no armor or shield proficiencies.",
+      "keywords": [
+        "weapon proficiency",
+        "armor proficiency",
+        "simple weapons",
+        "favored weapon",
+        "celestial patron",
+        "mystery cultist proficiency"
+      ]
+    },
+    {
+      "id": "mystery_cultist_spells_per_dayspells_known",
+      "title": "Spells per Day/Spells Known (Mystery Cultist)",
+      "anchor_heading": "#### Spells per Day/Spells Known {#spells_per_dayspells_known}",
+      "description": "Mystery cultist levels advance spellcasting progression from a previous spellcasting class, granting additional spells per day and known without other class benefits.",
+      "keywords": [
+        "spellcasting progression",
+        "prestige class spellcasting",
+        "spells per day",
+        "spells known",
+        "spontaneous spellcaster",
+        "effective caster level",
+        "mystery cultist spellcasting"
+      ]
+    },
+    {
+      "id": "mystery_cultist_blessed_ex",
+      "title": "Blessed (Ex) (Mystery Cultist)",
+      "anchor_heading": "#### Blessed (Ex) {#blessed_ex}",
+      "description": "Upon death, the mystery cultist's soul goes to good outer planes to become a celestial outsider, and if resurrected can gain knowledge as if using contact other plane to reach their empyreal lord patron.",
+      "keywords": [
+        "blessed",
+        "resurrection benefit",
+        "contact other plane",
+        "empyreal lord",
+        "agathion",
+        "angel",
+        "archon",
+        "azata",
+        "outer planes",
+        "afterlife",
+        "intelligence check"
+      ]
+    },
+    {
+      "id": "mystery_cultist_obedience_ex",
+      "title": "Obedience (Ex) (Mystery Cultist)",
+      "anchor_heading": "#### Obedience (Ex) {#obedience_ex}",
+      "description": "Mystery cultists must perform daily obedience to their empyreal lord patron to maintain all class abilities including spellcasting.",
+      "keywords": [
+        "obedience",
+        "daily obedience",
+        "empyreal lord",
+        "maintain abilities",
+        "prestige class requirement",
+        "spellcasting requirement"
+      ]
+    },
+    {
+      "id": "mystery_cultist_glorious_aura_su",
+      "title": "Glorious Aura (Su) (Mystery Cultist)",
+      "anchor_heading": "#### Glorious Aura (Su) {#glorious_aura_su}",
+      "description": "The mystery cultist can activate an aura that grants +4 sacred bonus to Charisma and causes a 10-foot fear aura that can frighten enemies for 1d4 rounds.",
+      "keywords": [
+        "glorious aura",
+        "sacred bonus",
+        "charisma bonus",
+        "fear aura",
+        "frightened condition",
+        "will save",
+        "awe effect",
+        "10-foot aura",
+        "fear effect"
+      ]
+    },
+    {
+      "id": "mystery_cultist_celestial_boon",
+      "title": "Celestial Boon (Mystery Cultist)",
+      "anchor_heading": "#### Celestial Boon {#celestial_boon}",
+      "description": "Mystery cultists gain three increasingly powerful boons from their empyreal lord patron at 3rd, 6th, and 9th levels, accessing them earlier than normal.",
+      "keywords": [
+        "celestial boon",
+        "empyreal lord boons",
+        "celestial obedience",
+        "spell-like ability",
+        "character level",
+        "hit dice",
+        "boon progression"
+      ]
+    },
+    {
+      "id": "mystery_cultist_brand_of_healing_sp",
+      "title": "Brand of Healing (Sp) (Mystery Cultist)",
+      "anchor_heading": "#### Brand of Healing (Sp) {#brand_of_healing_sp}",
+      "description": "Once per day, the mystery cultist can cast heal as a spell-like ability, which brands the target with an incandescent holy symbol tattoo that lasts 24 hours.",
+      "keywords": [
+        "brand of healing",
+        "heal spell-like ability",
+        "holy symbol",
+        "incandescent tattoo",
+        "brand duration",
+        "visible brand"
+      ]
+    },
+    {
+      "id": "mystery_cultist_summon_celestial_sp",
+      "title": "Summon Celestial (Sp) (Mystery Cultist)",
+      "anchor_heading": "#### Summon Celestial (Sp) {#summon_celestial_sp}",
+      "description": "Mystery cultists can summon good outsiders using summon monster VI at 4th level and summon monster VIII at 8th level to conjure celestial creatures like lillends, bralanis, and archons.",
+      "keywords": [
+        "summon celestial",
+        "summon monster VI",
+        "summon monster VIII",
+        "lillend",
+        "bralani",
+        "hound archon",
+        "monadic deva",
+        "avoral agathion",
+        "good outsiders"
+      ]
+    },
+    {
+      "id": "mystery_cultist_fervor_su",
+      "title": "Fervor (Su) (Mystery Cultist)",
+      "anchor_heading": "#### Fervor (Su) {#fervor_su}",
+      "description": "Mystery cultists can enter a religious fervor granting combat bonuses, DR 5/evil, increased caster level, and speed, but suffer Charisma penalties afterward.",
+      "keywords": [
+        "fervor",
+        "religious fervor",
+        "sacred bonus",
+        "attack bonus",
+        "damage bonus",
+        "DR 5/evil",
+        "caster level bonus",
+        "speed increase",
+        "charisma penalty",
+        "free action"
+      ]
+    },
+    {
+      "id": "mystery_cultist_incorruptible_su",
+      "title": "Incorruptible (Su) (Mystery Cultist)",
+      "anchor_heading": "#### Incorruptible (Su) {#incorruptible_su}",
+      "description": "Grants +2 bonus on saves vs disease and poison, prevents body decomposition like gentle repose, and prevents undead transformation except by wish or miracle.",
+      "keywords": [
+        "incorruptible",
+        "disease resistance",
+        "poison resistance",
+        "gentle repose",
+        "raise dead",
+        "undead immunity",
+        "body preservation",
+        "wish",
+        "miracle"
+      ]
+    },
+    {
+      "id": "mystery_cultist_sacred_haven_su",
+      "title": "Sacred Haven (Su) (Mystery Cultist)",
+      "anchor_heading": "#### Sacred Haven (Su) {#sacred_haven_su}",
+      "description": "The mystery cultist gains a personal room on the celestial planes that can be accessed once per day via plane shift with allies, equipped with beds, library, shrine, and portable hole storage.",
+      "keywords": [
+        "sacred haven",
+        "celestial planes",
+        "plane shift",
+        "teleport",
+        "portable hole",
+        "research library",
+        "shrine",
+        "willing creatures",
+        "planar travel"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,250 @@
+{
+  "file": "asavir.md",
+  "source_path": "https://www.d20pfsrd.com/classes/prestige-classes/other-paizo/a-b/asavir/",
+  "source_name": "Prestige Class: Asavir",
+  "category": "Classes",
+  "toc_content": "Contents\n* [Requirements](#requirements)\n* [Class Skills](#class_skills)\n* [Class Features](#class_features)\n  + [Weapon and Armor Proficiency](#weapon_and_armor_proficiency)\n  + [Camaraderie (Ex)](#camaraderie_ex)\n  + [Equine Bond (Ex)](#equine_bond_ex)\n  + [Shaitan\u2019s Blessing (Su)](#shaitan8217s_blessing_su)\n  + [Thunderous Charge (Su)](#thunderous_charge_su)\n  + [Aura of Courage (Su)](#aura_of_courage_su)\n  + [Flank Breaker (Ex)](#flank_breaker_ex)\n  + [Controlled Charge (Ex)](#controlled_charge_ex)\n  + [Djinni\u2019s Blessing (Su)](#djinni8217s_blessing_su)\n  + [Marid\u2019s Blessing (Su)](#marid8217s_blessing_su)\n  + [Trampling Gallop (Ex)](#trampling_gallop_ex)\n  + [All Eyes on Me (Su)](#all_eyes_on_me_su)\n  + [Efreeti\u2019s Blessing (Su)](#efreeti8217s_blessing_su)\n  + [Inspiring Leader (Su)](#inspiring_leader_su)\n  + [Janni\u2019s Blessing (Su)](#janni8217s_blessing_su)",
+  "sections": [
+    {
+      "id": "asavir_overview",
+      "title": "Asavir (Class Overview)",
+      "anchor_heading": "# Asavir",
+      "end_at_heading": "### Requirements {#requirements}",
+      "description": "Overview of the Asavir class including role, alignment, hit die, and starting wealth.",
+      "keywords": [
+        "asavir",
+        "class",
+        "hit die",
+        "role",
+        "alignment"
+      ]
+    },
+    {
+      "id": "asavir_weapon_and_armor_proficiency",
+      "title": "Weapon and Armor Proficiency (Asavir)",
+      "anchor_heading": "#### Weapon and Armor Proficiency {#weapon_and_armor_proficiency}",
+      "description": "Asavirs are proficient with simple weapons, martial weapons, and all forms of armor and shields except tower shields.",
+      "keywords": [
+        "weapon proficiency",
+        "armor proficiency",
+        "simple weapons",
+        "martial weapons",
+        "shield proficiency",
+        "tower shield",
+        "asavir proficiencies"
+      ]
+    },
+    {
+      "id": "asavir_camaraderie_ex",
+      "title": "Camaraderie (Ex) (Asavir)",
+      "anchor_heading": "#### Camaraderie (Ex) {#camaraderie_ex}",
+      "description": "Enhances the aid another action by increasing the bonus granted to allies within 30 feet, scaling from +1 at 1st level to +3 at 9th level.",
+      "keywords": [
+        "camaraderie",
+        "aid another",
+        "teamwork",
+        "ally bonus",
+        "combat aid",
+        "speaking aloud",
+        "30 feet",
+        "aid another enhancement"
+      ]
+    },
+    {
+      "id": "asavir_equine_bond_ex",
+      "title": "Equine Bond (Ex) (Asavir)",
+      "anchor_heading": "#### Equine Bond (Ex) {#equine_bond_ex}",
+      "description": "Grants a horse mount that functions as an animal companion using asavir level + 2 as effective druid level, with special bonuses including no armor check penalty on Ride checks.",
+      "keywords": [
+        "equine bond",
+        "horse mount",
+        "animal companion",
+        "effective druid level",
+        "mount statistics",
+        "ride checks",
+        "armor check penalty",
+        "combat trained",
+        "light armor proficiency",
+        "stacking levels"
+      ]
+    },
+    {
+      "id": "asavir_shaitan8217s_blessing_su",
+      "title": "Shaitan\u2019s Blessing (Su) (Asavir)",
+      "anchor_heading": "#### Shaitan\u2019s Blessing (Su) {#shaitan8217s_blessing_su}",
+      "description": "Grants the asavir's mount a +2 racial bonus on saves against mind-affecting and fear effects, increasing to +4 at 9th level.",
+      "keywords": [
+        "shaitan's blessing",
+        "mount blessing",
+        "mind-affecting immunity",
+        "fear immunity",
+        "racial bonus",
+        "saving throws",
+        "genie blessing"
+      ]
+    },
+    {
+      "id": "asavir_thunderous_charge_su",
+      "title": "Thunderous Charge (Su) (Asavir)",
+      "anchor_heading": "#### Thunderous Charge (Su) {#thunderous_charge_su}",
+      "description": "Allows a special charge that moves at normal speed but creates an area effect that knocks creatures prone within a radius that scales with level.",
+      "keywords": [
+        "thunderous charge",
+        "mounted charge",
+        "prone condition",
+        "reflex save",
+        "area effect",
+        "full-round action",
+        "ground shake",
+        "charge radius",
+        "exclude creatures"
+      ]
+    },
+    {
+      "id": "asavir_aura_of_courage_su",
+      "title": "Aura of Courage (Su) (Asavir)",
+      "anchor_heading": "#### Aura of Courage (Su) {#aura_of_courage_su}",
+      "description": "Grants an aura of courage identical to a 3rd-level paladin's ability, providing immunity to fear effects to nearby allies.",
+      "keywords": [
+        "aura of courage",
+        "fear immunity",
+        "paladin ability",
+        "aura effect",
+        "ally protection"
+      ]
+    },
+    {
+      "id": "asavir_flank_breaker_ex",
+      "title": "Flank Breaker (Ex) (Asavir)",
+      "anchor_heading": "#### Flank Breaker (Ex) {#flank_breaker_ex}",
+      "description": "After damaging a flanking enemy, allows a swift action combat maneuver to prevent that foe from flanking for 1 round.",
+      "keywords": [
+        "flank breaker",
+        "flanking",
+        "combat maneuver",
+        "swift action",
+        "CMD",
+        "flanking prevention",
+        "tactical combat"
+      ]
+    },
+    {
+      "id": "asavir_controlled_charge_ex",
+      "title": "Controlled Charge (Ex) (Asavir)",
+      "anchor_heading": "#### Controlled Charge (Ex) {#controlled_charge_ex}",
+      "description": "Improves mounted charge attacks by granting +4 attack bonus instead of +2 and eliminating the AC penalty after charging.",
+      "keywords": [
+        "controlled charge",
+        "mounted combat",
+        "charge attack",
+        "attack bonus",
+        "AC penalty",
+        "mounted charge accuracy"
+      ]
+    },
+    {
+      "id": "asavir_djinni8217s_blessing_su",
+      "title": "Djinni\u2019s Blessing (Su) (Asavir)",
+      "anchor_heading": "#### Djinni\u2019s Blessing (Su) {#djinni8217s_blessing_su}",
+      "description": "Increases mount's speed by 10 feet, removes barding movement penalties, and allows carrying a second rider without penalty.",
+      "keywords": [
+        "djinni's blessing",
+        "mount speed",
+        "barding penalties",
+        "second rider",
+        "movement enhancement",
+        "genie blessing"
+      ]
+    },
+    {
+      "id": "asavir_marid8217s_blessing_su",
+      "title": "Marid\u2019s Blessing (Su) (Asavir)",
+      "anchor_heading": "#### Marid\u2019s Blessing (Su) {#marid8217s_blessing_su}",
+      "description": "Eliminates concentration checks for riders due to mount movement and grants the mount a +2 racial bonus on Reflex saves.",
+      "keywords": [
+        "marid's blessing",
+        "concentration checks",
+        "mount movement",
+        "reflex saves",
+        "riding concentration",
+        "genie blessing"
+      ]
+    },
+    {
+      "id": "asavir_trampling_gallop_ex",
+      "title": "Trampling Gallop (Ex) (Asavir)",
+      "anchor_heading": "#### Trampling Gallop (Ex) {#trampling_gallop_ex}",
+      "description": "Grants the mount the trample universal monster ability when commanded as a full-round action by the asavir.",
+      "keywords": [
+        "trampling gallop",
+        "trample ability",
+        "universal monster ability",
+        "full-round action",
+        "hoof attack",
+        "mount trample"
+      ]
+    },
+    {
+      "id": "asavir_all_eyes_on_me_su",
+      "title": "All Eyes on Me (Su) (Asavir)",
+      "anchor_heading": "#### All Eyes on Me (Su) {#all_eyes_on_me_su}",
+      "description": "Creates a challenge effect that makes enemies flat-footed and gives them -2 AC against the asavir's allies' attacks.",
+      "keywords": [
+        "all eyes on me",
+        "challenge effect",
+        "flat-footed",
+        "will save",
+        "mind-affecting",
+        "visual effect",
+        "swift action",
+        "ally AC bonus"
+      ]
+    },
+    {
+      "id": "asavir_efreeti8217s_blessing_su",
+      "title": "Efreeti\u2019s Blessing (Su) (Asavir)",
+      "anchor_heading": "#### Efreeti\u2019s Blessing (Su) {#efreeti8217s_blessing_su}",
+      "description": "Grants the mount fire resistance 5 and adds 1d6 fire damage to its hoof attacks.",
+      "keywords": [
+        "efreeti's blessing",
+        "fire resistance",
+        "fire damage",
+        "hoof attacks",
+        "elemental damage",
+        "genie blessing"
+      ]
+    },
+    {
+      "id": "asavir_inspiring_leader_su",
+      "title": "Inspiring Leader (Su) (Asavir)",
+      "anchor_heading": "#### Inspiring Leader (Su) {#inspiring_leader_su}",
+      "description": "Provides allies within 60 feet a morale bonus equal to Charisma bonus on attack and damage rolls for 1 round as a move action.",
+      "keywords": [
+        "inspiring leader",
+        "morale bonus",
+        "attack bonus",
+        "damage bonus",
+        "move action",
+        "charisma bonus",
+        "mind-affecting",
+        "language-dependent",
+        "ally encouragement"
+      ]
+    },
+    {
+      "id": "asavir_janni8217s_blessing_su",
+      "title": "Janni\u2019s Blessing (Su) (Asavir)",
+      "anchor_heading": "#### Janni\u2019s Blessing (Su) {#janni8217s_blessing_su}",
+      "description": "Allows rerolling d20s once per day for both asavir and mount, plus grants +1 luck bonus on all saving throws.",
+      "keywords": [
+        "janni's blessing",
+        "reroll d20",
+        "luck bonus",
+        "saving throws",
+        "mount reroll",
+        "genie blessing",
+        "roll twice"
+      ]
+    }
+  ]
+}

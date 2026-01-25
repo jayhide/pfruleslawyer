@@ -1,0 +1,244 @@
+{
+  "file": "steel-falcon.md",
+  "source_path": "https://www.d20pfsrd.com/classes/prestige-classes/other-paizo/s-z/steel-falcon/",
+  "source_name": "Prestige Class: Steel Falcon",
+  "category": "Classes",
+  "toc_content": "Contents\n* [Requirements](#requirements)\n* [Class Skills](#class_skills)\n* [Class Features](#class_features)\n  + [Enemy of Slavers (Ex)](#enemy_of_slavers_ex)\n  + [Heart of Freedom (Ex)](#heart_of_freedom_ex)\n  + [Sailor and Survivalist (Ex)](#sailor_and_survivalist_ex)\n  + [Luck of the Eagle (Ex)](#luck_of_the_eagle_ex)\n  + [Heroic Speech (Su)](#heroic_speech_su)\n  + [Natural Traps (Ex)](#natural_traps_ex)\n  + [Comrade\u2019s Bond (Ex)](#comrade8217s_bond_ex)\n  + [Superior Aid (Ex)](#superior_aid_ex)\n  + [Subtle Manipulator (Ex)](#subtle_manipulator_ex)\n  + [Sky\u2019s Blessing (Su)](#sky8217s_blessing_su)\n  + [Chainbreaker (Ex)](#chainbreaker_ex)\n  + [Sky\u2019s Fury (Su)](#sky8217s_fury_su)",
+  "sections": [
+    {
+      "id": "steel_falcon_overview",
+      "title": "Steel Falcon (Class Overview)",
+      "anchor_heading": "# Steel Falcon",
+      "end_at_heading": "### Requirements {#requirements}",
+      "description": "Overview of the Steel Falcon class including role, alignment, hit die, and starting wealth.",
+      "keywords": [
+        "steel falcon",
+        "class",
+        "hit die",
+        "role",
+        "alignment"
+      ]
+    },
+    {
+      "id": "steel_falcon_enemy_of_slavers_ex",
+      "title": "Enemy of Slavers (Ex) (Steel Falcon)",
+      "anchor_heading": "#### Enemy of Slavers (Ex) {#enemy_of_slavers_ex}",
+      "description": "Grants scaling bonuses on skill checks and attack/damage rolls against slavers and slave owners, functioning as a favored enemy bonus that increases at 5th and 9th levels.",
+      "keywords": [
+        "enemy of slavers",
+        "favored enemy",
+        "slaver",
+        "slave owner",
+        "bluff against slavers",
+        "knowledge against slavers",
+        "perception against slavers",
+        "sense motive against slavers",
+        "survival against slavers",
+        "attack bonus against slavers",
+        "damage bonus against slavers",
+        "favored enemy stacking"
+      ]
+    },
+    {
+      "id": "steel_falcon_heart_of_freedom_ex",
+      "title": "Heart of Freedom (Ex) (Steel Falcon)",
+      "anchor_heading": "#### Heart of Freedom (Ex) {#heart_of_freedom_ex}",
+      "description": "Provides a +4 morale bonus on saving throws against charm and compulsion effects and attempts to possess the character's body or mind.",
+      "keywords": [
+        "heart of freedom",
+        "morale bonus",
+        "charm effects",
+        "compulsion effects",
+        "possession",
+        "mental control",
+        "charm and compulsion",
+        "mind control resistance",
+        "body possession",
+        "mind possession"
+      ]
+    },
+    {
+      "id": "steel_falcon_sailor_and_survivalist_ex",
+      "title": "Sailor and Survivalist (Ex) (Steel Falcon)",
+      "anchor_heading": "#### Sailor and Survivalist (Ex) {#sailor_and_survivalist_ex}",
+      "description": "Adds class level to Profession (sailor) checks and Survival checks for getting along in the wild and navigating wilderness.",
+      "keywords": [
+        "sailor and survivalist",
+        "profession sailor",
+        "survival checks",
+        "wilderness navigation",
+        "get along in wild",
+        "class level bonus",
+        "sailing skills",
+        "wilderness survival"
+      ]
+    },
+    {
+      "id": "steel_falcon_luck_of_the_eagle_ex",
+      "title": "Luck of the Eagle (Ex) (Steel Falcon)",
+      "anchor_heading": "#### Luck of the Eagle (Ex) {#luck_of_the_eagle_ex}",
+      "description": "Allows rerolling d20 rolls a limited number of times per day, with uses increasing at 6th and 10th levels.",
+      "keywords": [
+        "luck of the eagle",
+        "reroll d20",
+        "luck bonus",
+        "reroll dice",
+        "daily rerolls",
+        "eagle luck",
+        "dice reroll",
+        "must take new roll"
+      ]
+    },
+    {
+      "id": "steel_falcon_heroic_speech_su",
+      "title": "Heroic Speech (Su) (Steel Falcon)",
+      "anchor_heading": "#### Heroic Speech (Su) {#heroic_speech_su}",
+      "description": "Functions like bardic performance inspire courage, with class levels stacking with bard levels and usable for rounds per day equal to class level plus Charisma modifier.",
+      "keywords": [
+        "heroic speech",
+        "inspire courage",
+        "bardic performance",
+        "class level stacking",
+        "charisma modifier",
+        "rounds per day",
+        "morale bonus",
+        "bard levels stack",
+        "inspire allies"
+      ]
+    },
+    {
+      "id": "steel_falcon_natural_traps_ex",
+      "title": "Natural Traps (Ex) (Steel Falcon)",
+      "anchor_heading": "#### Natural Traps (Ex) {#natural_traps_ex}",
+      "description": "Grants Learn Ranger Trap as a bonus feat and allows learning additional extraordinary ranger traps at higher levels.",
+      "keywords": [
+        "natural traps",
+        "learn ranger trap",
+        "bonus feat",
+        "extraordinary ranger traps",
+        "alarm trap",
+        "burning trap",
+        "exploding trap",
+        "fire trap",
+        "marking trap",
+        "poison trap",
+        "snare trap",
+        "swarm trap",
+        "wisdom bonus uses",
+        "guerilla warfare"
+      ]
+    },
+    {
+      "id": "steel_falcon_comrade8217s_bond_ex",
+      "title": "Comrade\u2019s Bond (Ex) (Steel Falcon)",
+      "anchor_heading": "#### Comrade\u2019s Bond (Ex) {#comrade8217s_bond_ex}",
+      "description": "Grants allies half the Steel Falcon's enemy of slavers bonus as a move action that improves to swift then free action at higher levels.",
+      "keywords": [
+        "comrade's bond",
+        "share favored enemy",
+        "enemy of slavers bonus",
+        "move action",
+        "swift action",
+        "free action",
+        "ally bonus",
+        "30 feet range",
+        "charisma bonus duration",
+        "favored enemy sharing"
+      ]
+    },
+    {
+      "id": "steel_falcon_superior_aid_ex",
+      "title": "Superior Aid (Ex) (Steel Falcon)",
+      "anchor_heading": "#### Superior Aid (Ex) {#superior_aid_ex}",
+      "description": "When using aid another action, provides a +4 bonus instead of the normal +2 bonus to attack rolls or AC.",
+      "keywords": [
+        "superior aid",
+        "aid another",
+        "+4 bonus",
+        "enhanced aid",
+        "attack roll aid",
+        "armor class aid",
+        "teamwork bonus",
+        "improved aid another"
+      ]
+    },
+    {
+      "id": "steel_falcon_subtle_manipulator_ex",
+      "title": "Subtle Manipulator (Ex) (Steel Falcon)",
+      "anchor_heading": "#### Subtle Manipulator (Ex) {#subtle_manipulator_ex}",
+      "description": "After studying a target for a full-round action, grants a +5 circumstance bonus on Diplomacy checks against that target for days equal to Wisdom modifier.",
+      "keywords": [
+        "subtle manipulator",
+        "full-round action",
+        "sense motive check",
+        "will save",
+        "circumstance bonus",
+        "diplomacy checks",
+        "wisdom modifier duration",
+        "study target",
+        "opposed check"
+      ]
+    },
+    {
+      "id": "steel_falcon_sky8217s_blessing_su",
+      "title": "Sky\u2019s Blessing (Su) (Steel Falcon)",
+      "anchor_heading": "#### Sky\u2019s Blessing (Su) {#sky8217s_blessing_su}",
+      "description": "Provides bonuses to Acrobatics jumps and Perception checks, plus constant feather fall that can be reactivated as a move action if dispelled.",
+      "keywords": [
+        "sky's blessing",
+        "competence bonus",
+        "acrobatics jumps",
+        "perception bonus",
+        "feather fall",
+        "constant effect",
+        "dispel reactivation",
+        "move action reactivation",
+        "high jump",
+        "long jump"
+      ]
+    },
+    {
+      "id": "steel_falcon_chainbreaker_ex",
+      "title": "Chainbreaker (Ex) (Steel Falcon)",
+      "anchor_heading": "#### Chainbreaker (Ex) {#chainbreaker_ex}",
+      "description": "Attacks against bindings and chains bypass hardness and grants bonuses to escape manacles and ropes.",
+      "keywords": [
+        "chainbreaker",
+        "bypass hardness",
+        "bindings",
+        "chains",
+        "manacles",
+        "escape artist",
+        "kyton chains",
+        "animated chains",
+        "flails",
+        "nunchaku",
+        "spiked chains",
+        "rope escape",
+        "manacle escape"
+      ]
+    },
+    {
+      "id": "steel_falcon_sky8217s_fury_su",
+      "title": "Sky\u2019s Fury (Su) (Steel Falcon)",
+      "anchor_heading": "#### Sky\u2019s Fury (Su) {#sky8217s_fury_su}",
+      "description": "Creates a fear aura that affects enemies with a fear spell while allowing allies to make new saves against charm, compulsion, and possession effects.",
+      "keywords": [
+        "sky's fury",
+        "fear aura",
+        "standard action",
+        "fear spell",
+        "will save",
+        "charm save",
+        "compulsion save",
+        "possession save",
+        "righteous fury",
+        "30 feet range",
+        "new saving throws",
+        "paralyzed use",
+        "charm use",
+        "compulsion use"
+      ]
+    }
+  ]
+}

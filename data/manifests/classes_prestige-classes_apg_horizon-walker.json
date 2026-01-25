@@ -1,0 +1,129 @@
+{
+  "file": "horizon-walker.md",
+  "source_path": "https://www.d20pfsrd.com/classes/prestige-classes/apg/horizon-walker/",
+  "source_name": "Prestige Class: Horizon Walker",
+  "category": "Classes",
+  "toc_content": "Contents\n* [Requirements](#requirements)\n* [Class Skills](#class_skills)\n* [Class Features](#class_features)\n  + [Weapon and Armor Proficiencies](#weapon_and_armor_proficiencies)\n  + [Favored Terrain](#favored_terrain)\n  + [Terrain Mastery](#terrain_mastery)\n  + [Terrain Dominance](#terrain_dominance)\n  + [Master of All Lands (Su)](#master_of_all_lands_su)",
+  "sections": [
+    {
+      "id": "horizon_walker_overview",
+      "title": "Horizon Walker (Class Overview)",
+      "anchor_heading": "# Horizon Walker",
+      "end_at_heading": "### Requirements {#requirements}",
+      "description": "Overview of the Horizon Walker class including role, alignment, hit die, and starting wealth.",
+      "keywords": [
+        "horizon walker",
+        "class",
+        "hit die",
+        "role",
+        "alignment"
+      ]
+    },
+    {
+      "id": "horizon_walker_weapon_and_armor_proficiencies",
+      "title": "Weapon and Armor Proficiencies (Horizon Walker)",
+      "anchor_heading": "#### Weapon and Armor Proficiencies {#weapon_and_armor_proficiencies}",
+      "description": "Horizon walkers gain no proficiency with any weapon or armor beyond their base class or racial proficiencies.",
+      "keywords": [
+        "weapon proficiency",
+        "armor proficiency",
+        "no proficiencies",
+        "horizon walker proficiencies"
+      ]
+    },
+    {
+      "id": "horizon_walker_favored_terrain",
+      "title": "Favored Terrain (Horizon Walker)",
+      "anchor_heading": "#### Favored Terrain {#favored_terrain}",
+      "description": "Functions like the ranger's favored terrain ability, granting bonuses in selected terrain types and allowing other terrain-based class features to work in these terrains.",
+      "keywords": [
+        "favored terrain",
+        "ranger favored terrain",
+        "terrain bonus",
+        "camouflage",
+        "hide in plain sight",
+        "terrain selection",
+        "favored terrain stacking"
+      ]
+    },
+    {
+      "id": "horizon_walker_terrain_mastery",
+      "title": "Terrain Mastery (Horizon Walker)",
+      "anchor_heading": "#### Terrain Mastery {#terrain_mastery}",
+      "description": "Allows the horizon walker to grant skill bonuses to nearby allies as a move action and provides permanent passive benefits based on the mastered terrain type.",
+      "keywords": [
+        "terrain mastery",
+        "move action",
+        "ally bonuses",
+        "Climb bonus",
+        "Stealth bonus",
+        "Perception bonus",
+        "Survival bonus",
+        "cold resistance",
+        "fire resistance",
+        "exhaustion immunity",
+        "concealment",
+        "competence bonus",
+        "grapple CMD",
+        "medium armor movement",
+        "damage reduction",
+        "adamantine",
+        "Blind-Fight",
+        "breathe air",
+        "breathe water",
+        "detect alignment",
+        "immediate action",
+        "fly speed",
+        "Wisdom modifier duration"
+      ]
+    },
+    {
+      "id": "horizon_walker_terrain_dominance",
+      "title": "Terrain Dominance (Horizon Walker)",
+      "anchor_heading": "#### Terrain Dominance {#terrain_dominance}",
+      "description": "Treats favored terrain bonus as favored enemy bonus against creatures native to the dominated terrain and grants powerful spell-like abilities or supernatural benefits.",
+      "keywords": [
+        "terrain dominance",
+        "favored enemy",
+        "native creatures",
+        "spell-like ability",
+        "dimension door",
+        "ethereal jaunt",
+        "hallucinatory terrain",
+        "charm monster",
+        "charm person",
+        "fly spell",
+        "tremorsense",
+        "freedom of movement",
+        "darkvision",
+        "swim speed",
+        "damage reduction bypass",
+        "alignment weapons",
+        "cold iron",
+        "silver",
+        "fire subtype",
+        "cold subtype",
+        "caster level",
+        "Wisdom modifier uses"
+      ]
+    },
+    {
+      "id": "horizon_walker_master_of_all_lands_su",
+      "title": "Master of All Lands (Su) (Horizon Walker)",
+      "anchor_heading": "#### Master of All Lands (Su) {#master_of_all_lands_su}",
+      "description": "All terrain bonuses increase by +2, treats non-favored terrains as favored, automatically succeeds on weather/temperature saves, and grants bonuses to nearby allies on such saves.",
+      "keywords": [
+        "master of all lands",
+        "terrain bonus increase",
+        "all terrains favored",
+        "automatic success",
+        "temperature saves",
+        "weather saves",
+        "ally bonuses",
+        "60 feet",
+        "mastered terrain",
+        "naturally occurring conditions"
+      ]
+    }
+  ]
+}

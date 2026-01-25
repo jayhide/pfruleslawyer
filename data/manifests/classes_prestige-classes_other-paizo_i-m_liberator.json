@@ -1,0 +1,189 @@
+{
+  "file": "liberator.md",
+  "source_path": "https://www.d20pfsrd.com/classes/prestige-classes/other-paizo/i-m/liberator/",
+  "source_name": "Prestige Class: Liberator",
+  "category": "Classes",
+  "toc_content": "Contents\n* [Requirements](#requirements)\n* [Class Skills](#class_skills)\n* [Class Features](#class_features)\n  + [To the Rescue (Su)](#to_the_rescue_su)\n  + [Poison Resistance (Ex)](#poison_resistance_ex)\n  + [Lockbreaker (Ex)](#lockbreaker_ex)\n  + [Bonus Feat](#bonus_feat)\n  + [Silent Sunder (Ex)](#silent_sunder_ex)\n  + [Slaver\u2019s Ruin (Ex)](#slavers_ruin_ex)\n  + [Greater Sunder (Ex)](#greater_sunder_ex)\n  + [Steely Resolve (Ex)](#steely_resolve_ex)\n  + [Darkvision (Su)](#darkvision_su)\n  + [Quick Pick (Ex)](#quick_pick_ex)\n  + [Freedom of Movement (Su)](#freedom_of_movement_su)",
+  "sections": [
+    {
+      "id": "liberator_overview",
+      "title": "Liberator (Class Overview)",
+      "anchor_heading": "# Liberator",
+      "end_at_heading": "### Requirements {#requirements}",
+      "description": "Overview of the Liberator class including role, alignment, hit die, and starting wealth.",
+      "keywords": [
+        "liberator",
+        "class",
+        "hit die",
+        "role",
+        "alignment"
+      ]
+    },
+    {
+      "id": "liberator_to_the_rescue_su",
+      "title": "To the Rescue (Su) (Liberator)",
+      "anchor_heading": "#### To the Rescue (Su) {#to_the_rescue_su}",
+      "description": "As a standard action, grants allies within 30 feet morale bonuses to attack rolls, Escape Artist checks, and saves against fear effects for several rounds.",
+      "keywords": [
+        "to the rescue",
+        "standard action",
+        "morale bonus",
+        "attack rolls",
+        "escape artist",
+        "fear effects",
+        "rallying cry",
+        "30 feet",
+        "charisma modifier"
+      ]
+    },
+    {
+      "id": "liberator_poison_resistance_ex",
+      "title": "Poison Resistance (Ex) (Liberator)",
+      "anchor_heading": "#### Poison Resistance (Ex) {#poison_resistance_ex}",
+      "description": "Provides a +2 bonus on saving throws against poison effects, increasing to +4 at 7th level.",
+      "keywords": [
+        "poison resistance",
+        "saving throws",
+        "poison",
+        "toxins",
+        "venoms",
+        "drugs",
+        "slaver tactics"
+      ]
+    },
+    {
+      "id": "liberator_lockbreaker_ex",
+      "title": "Lockbreaker (Ex) (Liberator)",
+      "anchor_heading": "#### Lockbreaker (Ex) {#lockbreaker_ex}",
+      "description": "Grants a competence bonus equal to half class level on Disable Device checks to open locks and Escape Artist checks to escape restraints.",
+      "keywords": [
+        "lockbreaker",
+        "disable device",
+        "escape artist",
+        "locks",
+        "bindings",
+        "shackles",
+        "restraints",
+        "competence bonus",
+        "half class level"
+      ]
+    },
+    {
+      "id": "liberator_bonus_feat",
+      "title": "Bonus Feat (Liberator)",
+      "anchor_heading": "#### Bonus Feat {#bonus_feat}",
+      "description": "At 3rd level, gains a bonus feat from a specific list including Blind-Fight, Iron Will, or Skill Focus.",
+      "keywords": [
+        "bonus feat",
+        "3rd level",
+        "blind-fight",
+        "iron will",
+        "skill focus",
+        "class skill",
+        "feat selection"
+      ]
+    },
+    {
+      "id": "liberator_silent_sunder_ex",
+      "title": "Silent Sunder (Ex) (Liberator)",
+      "anchor_heading": "#### Silent Sunder (Ex) {#silent_sunder_ex}",
+      "description": "Allows sunder attacks and breaking objects with Strength checks to make no more noise than normal conversation.",
+      "keywords": [
+        "silent sunder",
+        "sunder attack",
+        "break objects",
+        "strength check",
+        "minimize noise",
+        "stealth breaking",
+        "quiet destruction"
+      ]
+    },
+    {
+      "id": "liberator_slavers_ruin_ex",
+      "title": "Slaver\u2019s Ruin (Ex) (Liberator)",
+      "anchor_heading": "#### Slaver\u2019s Ruin (Ex) {#slavers_ruin_ex}",
+      "description": "Designates creatures engaged in slavery as flat-footed against the liberator's next attack, unless they have immunity to being flat-footed.",
+      "keywords": [
+        "slavers ruin",
+        "flat-footed",
+        "designated foe",
+        "slavery",
+        "imprisonment",
+        "righteous frenzy",
+        "improved uncanny dodge immunity"
+      ]
+    },
+    {
+      "id": "liberator_greater_sunder_ex",
+      "title": "Greater Sunder (Ex) (Liberator)",
+      "anchor_heading": "#### Greater Sunder (Ex) {#greater_sunder_ex}",
+      "description": "Ignores half of an object's hardness when sundering and gains a +2 morale bonus on CMB for sunder attempts.",
+      "keywords": [
+        "greater sunder",
+        "hardness",
+        "ignore hardness",
+        "sunder attack",
+        "cmb bonus",
+        "morale bonus",
+        "object destruction"
+      ]
+    },
+    {
+      "id": "liberator_steely_resolve_ex",
+      "title": "Steely Resolve (Ex) (Liberator)",
+      "anchor_heading": "#### Steely Resolve (Ex) {#steely_resolve_ex}",
+      "description": "Grants a second saving throw attempt one round later when failing saves against charm or compulsion effects.",
+      "keywords": [
+        "steely resolve",
+        "charm effects",
+        "compulsion effects",
+        "second saving throw",
+        "mental domination",
+        "mind control resistance"
+      ]
+    },
+    {
+      "id": "liberator_darkvision_su",
+      "title": "Darkvision (Su) (Liberator)",
+      "anchor_heading": "#### Darkvision (Su) {#darkvision_su}",
+      "description": "Grants darkvision 60 feet, or increases existing darkvision range by 60 feet if already possessed.",
+      "keywords": [
+        "darkvision",
+        "60 feet range",
+        "supernatural vision",
+        "dark environments",
+        "sneaking",
+        "vision enhancement"
+      ]
+    },
+    {
+      "id": "liberator_quick_pick_ex",
+      "title": "Quick Pick (Ex) (Liberator)",
+      "anchor_heading": "#### Quick Pick (Ex) {#quick_pick_ex}",
+      "description": "Allows Disable Device checks to open locks as a move action instead of a full-round action without penalties.",
+      "keywords": [
+        "quick pick",
+        "disable device",
+        "move action",
+        "full-round action",
+        "lockpicking speed",
+        "fast lockpicking"
+      ]
+    },
+    {
+      "id": "liberator_freedom_of_movement_su",
+      "title": "Freedom of Movement (Su) (Liberator)",
+      "anchor_heading": "#### Freedom of Movement (Su) {#freedom_of_movement_su}",
+      "description": "Permanently treated as under freedom of movement spell effects, plus once per day can cast freedom of movement as a spell-like ability.",
+      "keywords": [
+        "freedom of movement",
+        "spell-like ability",
+        "restraint immunity",
+        "movement restriction",
+        "cannot be dispelled",
+        "permanent effect",
+        "caster level"
+      ]
+    }
+  ]
+}

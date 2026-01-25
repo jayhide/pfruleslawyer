@@ -1,0 +1,245 @@
+{
+  "file": "gray-warden.md",
+  "source_path": "https://www.d20pfsrd.com/classes/prestige-classes/other-paizo/e-h/gray-warden/",
+  "source_name": "Prestige Class: Gray Warden",
+  "category": "Classes",
+  "toc_content": "",
+  "sections": [
+    {
+      "id": "gray_warden_overview",
+      "title": "Gray Warden (Class Overview)",
+      "anchor_heading": "# Gray Warden",
+      "end_at_heading": "### Requirements",
+      "description": "Overview of the Gray Warden class including role, alignment, hit die, and starting wealth.",
+      "keywords": [
+        "gray warden",
+        "class",
+        "hit die",
+        "role",
+        "alignment"
+      ]
+    },
+    {
+      "id": "gray_warden_weapon_and_armor_proficiency",
+      "title": "Weapon and Armor Proficiency (Gray Warden)",
+      "anchor_heading": "#### Weapon and Armor Proficiency",
+      "description": "Gray Wardens gain no additional weapon or armor proficiencies beyond their base class.",
+      "keywords": [
+        "weapon proficiency",
+        "armor proficiency",
+        "no proficiencies",
+        "Gray Warden proficiency"
+      ]
+    },
+    {
+      "id": "gray_warden_anonymity_exhttpswwwd20pfsrdcommagictocextraordinaryabilitie",
+      "title": "Anonymity ([Ex](https://www.d20pfsrd.com/magic#TOC-Extraordinary-Abilities-Ex-)) (Gray Warden)",
+      "anchor_heading": "#### Anonymity ([Ex](https://www.d20pfsrd.com/magic#TOC-Extraordinary-Abilities-Ex-))",
+      "description": "Grants a morale bonus equal to class level on Bluff and Disguise checks made to conceal identity.",
+      "keywords": [
+        "anonymity",
+        "conceal identity",
+        "Bluff check",
+        "Disguise check",
+        "morale bonus",
+        "hide identity"
+      ]
+    },
+    {
+      "id": "gray_warden_sneak_attack_exhttpswwwd20pfsrdcommagictocextraordinaryabili",
+      "title": "Sneak Attack ([Ex](https://www.d20pfsrd.com/magic#TOC-Extraordinary-Abilities-Ex-)) (Gray Warden)",
+      "anchor_heading": "#### Sneak Attack ([Ex](https://www.d20pfsrd.com/magic#TOC-Extraordinary-Abilities-Ex-))",
+      "description": "Functions like rogue sneak attack, starting at +1d6 damage and increasing by +1d6 every four levels (5th, 9th).",
+      "keywords": [
+        "sneak attack",
+        "precision damage",
+        "flanking",
+        "flat-footed",
+        "1d6 damage",
+        "rogue ability"
+      ]
+    },
+    {
+      "id": "gray_warden_harsh_judgment_su",
+      "title": "Harsh Judgment (Su) (Gray Warden)",
+      "anchor_heading": "#### Harsh Judgment (Su)",
+      "description": "Functions like inquisitor judgment but limited to destruction, piercing, purity, and smiting judgments.",
+      "keywords": [
+        "harsh judgment",
+        "destruction judgment",
+        "piercing judgment",
+        "purity judgment",
+        "smiting judgment",
+        "inquisitor judgment",
+        "supernatural ability"
+      ]
+    },
+    {
+      "id": "gray_warden_stern_gaze_exhttpswwwd20pfsrdcommagictocextraordinaryabiliti",
+      "title": "Stern Gaze ([Ex](https://www.d20pfsrd.com/magic#TOC-Extraordinary-Abilities-Ex-)) (Gray Warden)",
+      "anchor_heading": "#### Stern Gaze ([Ex](https://www.d20pfsrd.com/magic#TOC-Extraordinary-Abilities-Ex-))",
+      "description": "Grants a morale bonus equal to 1/2 class level on Intimidate and Sense Motive checks.",
+      "keywords": [
+        "stern gaze",
+        "Intimidate check",
+        "Sense Motive check",
+        "morale bonus",
+        "half class level"
+      ]
+    },
+    {
+      "id": "gray_warden_bane_su",
+      "title": "Bane (Su) (Gray Warden)",
+      "anchor_heading": "#### Bane (Su)",
+      "description": "Enhances weapon to excel against certain foes, identical to inquisitor's bane ability, usable for rounds per day equal to class level.",
+      "keywords": [
+        "bane",
+        "weapon enhancement",
+        "creature type",
+        "inquisitor bane",
+        "rounds per day",
+        "weapon special ability"
+      ]
+    },
+    {
+      "id": "gray_warden_dramatic_interrogation_exhttpswwwd20pfsrdcommagictocextraord",
+      "title": "Dramatic Interrogation ([Ex](https://www.d20pfsrd.com/magic#TOC-Extraordinary-Abilities-Ex-)) (Gray Warden)",
+      "anchor_heading": "#### Dramatic Interrogation ([Ex](https://www.d20pfsrd.com/magic#TOC-Extraordinary-Abilities-Ex-))",
+      "description": "Grants +5 competence bonus on Diplomacy, Intimidate, and Perform checks when threatening a helpless creature to influence others.",
+      "keywords": [
+        "dramatic interrogation",
+        "helpless creature",
+        "threatening",
+        "competence bonus",
+        "Diplomacy check",
+        "Intimidate check",
+        "Perform check",
+        "attitude"
+      ]
+    },
+    {
+      "id": "gray_warden_execution_feats_exhttpswwwd20pfsrdcommagictocextraordinaryab",
+      "title": "Execution Feats ([Ex](https://www.d20pfsrd.com/magic#TOC-Extraordinary-Abilities-Ex-)) (Gray Warden)",
+      "anchor_heading": "#### Execution Feats ([Ex](https://www.d20pfsrd.com/magic#TOC-Extraordinary-Abilities-Ex-))",
+      "description": "Grants bonus feats from a specific list every two levels starting at 4th, ignoring prerequisites.",
+      "keywords": [
+        "execution feats",
+        "bonus feat",
+        "Enforcer",
+        "Gang Up",
+        "Sidestep",
+        "Vital Strike",
+        "Dastardly Finish",
+        "Deadly Finish",
+        "ignore prerequisites"
+      ]
+    },
+    {
+      "id": "gray_warden_grim_investigator_exhttpswwwd20pfsrdcommagictocextraordinary",
+      "title": "Grim Investigator ([Ex](https://www.d20pfsrd.com/magic#TOC-Extraordinary-Abilities-Ex-)) (Gray Warden)",
+      "anchor_heading": "#### Grim Investigator ([Ex](https://www.d20pfsrd.com/magic#TOC-Extraordinary-Abilities-Ex-))",
+      "description": "Allows using Intimidate instead of Diplomacy to gather information and grants a reroll on Sense Motive checks opposing Bluff.",
+      "keywords": [
+        "grim investigator",
+        "gather information",
+        "Intimidate instead of Diplomacy",
+        "Sense Motive reroll",
+        "oppose Bluff"
+      ]
+    },
+    {
+      "id": "gray_warden_second_judgment_su",
+      "title": "Second Judgment (Su) (Gray Warden)",
+      "anchor_heading": "#### Second Judgment (Su)",
+      "description": "Allows selecting two different judgments when using judgment ability, consuming only one use, with swift action switching.",
+      "keywords": [
+        "second judgment",
+        "two judgments",
+        "swift action",
+        "change judgment",
+        "multiple judgments"
+      ]
+    },
+    {
+      "id": "gray_warden_improved_bane_su",
+      "title": "Improved Bane (Su) (Gray Warden)",
+      "anchor_heading": "#### Improved Bane (Su)",
+      "description": "Increases bane ability damage to 3d6 against creatures of the selected type.",
+      "keywords": [
+        "improved bane",
+        "3d6 damage",
+        "bane damage increase",
+        "selected creature type"
+      ]
+    },
+    {
+      "id": "gray_warden_sinister_bane_su",
+      "title": "Sinister Bane (Su) (Gray Warden)",
+      "anchor_heading": "#### Sinister Bane (Su)",
+      "description": "Adds the menacing weapon special ability to melee weapons when using bane ability.",
+      "keywords": [
+        "sinister bane",
+        "menacing weapon",
+        "weapon special ability",
+        "melee weapon",
+        "bane enhancement"
+      ]
+    },
+    {
+      "id": "gray_warden_slaying_judgment_su",
+      "title": "Slaying Judgment (Su) (Gray Warden)",
+      "anchor_heading": "#### Slaying Judgment (Su)",
+      "description": "Allows declaring a slaying judgment on attack that forces a Fortitude save or die, like a slaying arrow effect.",
+      "keywords": [
+        "slaying judgment",
+        "slaying arrow",
+        "Fortitude save",
+        "save or die",
+        "melee attack",
+        "ranged attack",
+        "30 feet"
+      ]
+    },
+    {
+      "id": "gray_warden_greater_bane_su",
+      "title": "Greater Bane (Su) (Gray Warden)",
+      "anchor_heading": "#### Greater Bane (Su)",
+      "description": "Increases bane ability damage to 4d6 against creatures of the selected type.",
+      "keywords": [
+        "greater bane",
+        "4d6 damage",
+        "bane damage increase",
+        "maximum bane damage"
+      ]
+    },
+    {
+      "id": "gray_warden_final_demise_su",
+      "title": "Final Demise (Su) (Gray Warden)",
+      "anchor_heading": "#### Final Demise (Su)",
+      "description": "Once per week, can capture the soul of a killed creature in weapon like soul bind spell, transferable to final blade.",
+      "keywords": [
+        "final demise",
+        "soul bind",
+        "capture soul",
+        "final blade",
+        "melee weapon kill",
+        "24 hours",
+        "once per week"
+      ]
+    },
+    {
+      "id": "gray_warden_true_death_su",
+      "title": "True Death (Su) (Gray Warden)",
+      "anchor_heading": "#### True Death (Su)",
+      "description": "Creatures slain by Gray Warden require DC 25 caster level check for resurrection magic to succeed.",
+      "keywords": [
+        "true death",
+        "resurrection difficulty",
+        "raise dead",
+        "DC 25 caster level check",
+        "resurrection magic",
+        "material components wasted"
+      ]
+    }
+  ]
+}

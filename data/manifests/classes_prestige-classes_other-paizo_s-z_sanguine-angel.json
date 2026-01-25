@@ -1,0 +1,152 @@
+{
+  "file": "sanguine-angel.md",
+  "source_path": "https://www.d20pfsrd.com/classes/prestige-classes/other-paizo/s-z/sanguine-angel/",
+  "source_name": "Prestige Class: Sanguine Angel",
+  "category": "Classes",
+  "toc_content": "Contents\n* [Requirements](#requirements)\n* [Class Skills](#class_skills)\n* [Class Features](#class_features)\n  + [Hardened Heart (Ex)](#hardened_heart_ex)\n  + [Maiden\u2019s Shield (Ex)](#maiden8217s_shield_ex)\n  + [Tyrant\u2019s Discipline (Ex)](#tyrant8217s_discipline_ex)\n  + [Armored Angel (Ex)](#armored_angel_ex)\n  + [Eye of Alertness (Su)](#eye_of_alertness_su)\n  + [Mystique (Ex and Sp)](#mystique_ex_and_sp)\n  + [Hollowness (Ex)](#hollowness_ex)\n  + [Angel of Death (Su)](#angel_of_death_su)",
+  "sections": [
+    {
+      "id": "sanguine_angel_overview",
+      "title": "Sanguine Angel (Class Overview)",
+      "anchor_heading": "# Sanguine Angel",
+      "end_at_heading": "### Requirements {#requirements}",
+      "description": "Overview of the Sanguine Angel class including role, alignment, hit die, and starting wealth.",
+      "keywords": [
+        "sanguine angel",
+        "class",
+        "hit die",
+        "role",
+        "alignment"
+      ]
+    },
+    {
+      "id": "sanguine_angel_hardened_heart_ex",
+      "title": "Hardened Heart (Ex) (Sanguine Angel)",
+      "anchor_heading": "#### Hardened Heart (Ex) {#hardened_heart_ex}",
+      "description": "Adds twice class level to the DC of Intimidate attempts against the sanguine angel, making her much harder to intimidate.",
+      "keywords": [
+        "hardened heart",
+        "intimidate DC",
+        "intimidate resistance",
+        "demoralize resistance",
+        "fear immunity",
+        "mental fortitude"
+      ]
+    },
+    {
+      "id": "sanguine_angel_maiden8217s_shield_ex",
+      "title": "Maiden\u2019s Shield (Ex) (Sanguine Angel)",
+      "anchor_heading": "#### Maiden\u2019s Shield (Ex) {#maiden8217s_shield_ex}",
+      "description": "Treats the sanguine angel as having Two-Weapon Fighting when using a longsword and shield, allowing access to TWF feat chains without prerequisites.",
+      "keywords": [
+        "maiden's shield",
+        "two-weapon fighting",
+        "longsword and shield",
+        "TWF prerequisites",
+        "shield bash",
+        "weapon and shield combat"
+      ]
+    },
+    {
+      "id": "sanguine_angel_tyrant8217s_discipline_ex",
+      "title": "Tyrant\u2019s Discipline (Ex) (Sanguine Angel)",
+      "anchor_heading": "#### Tyrant\u2019s Discipline (Ex) {#tyrant8217s_discipline_ex}",
+      "description": "Grants selectable combat disciplines every 2 levels starting at 2nd level, each providing unique tactical abilities and combat options.",
+      "keywords": [
+        "tyrant's discipline",
+        "castling",
+        "driving assault",
+        "erinyes fury",
+        "furious huntress",
+        "kinslayer",
+        "merciless massacre",
+        "queen's sword",
+        "unyielding",
+        "bull rush",
+        "favored enemy",
+        "weapon training",
+        "damage reduction",
+        "gray maiden plate",
+        "dreadnought rage"
+      ]
+    },
+    {
+      "id": "sanguine_angel_armored_angel_ex",
+      "title": "Armored Angel (Ex) (Sanguine Angel)",
+      "anchor_heading": "#### Armored Angel (Ex) {#armored_angel_ex}",
+      "description": "Grants armor training class feature when wearing Gray Maiden plate, with levels stacking with other sources of armor training.",
+      "keywords": [
+        "armored angel",
+        "armor training",
+        "gray maiden plate",
+        "armor check penalty",
+        "maximum dexterity",
+        "armor specialization"
+      ]
+    },
+    {
+      "id": "sanguine_angel_eye_of_alertness_su",
+      "title": "Eye of Alertness (Su) (Sanguine Angel)",
+      "anchor_heading": "#### Eye of Alertness (Su) {#eye_of_alertness_su}",
+      "description": "Grants Alertness feat, +4 profane bonus on Will saves against illusions, and once per day can take Charisma damage to gain true seeing.",
+      "keywords": [
+        "eye of alertness",
+        "alertness feat",
+        "true seeing",
+        "charisma damage",
+        "illusion resistance",
+        "will save bonus",
+        "profane bonus"
+      ]
+    },
+    {
+      "id": "sanguine_angel_mystique_ex_and_sp",
+      "title": "Mystique (Ex and Sp) (Sanguine Angel)",
+      "anchor_heading": "#### Mystique (Ex and Sp) {#mystique_ex_and_sp}",
+      "description": "Provides +4 bonus on Diplomacy and Intimidate against same creature type, and once per day dominate person as a spell-like ability.",
+      "keywords": [
+        "mystique",
+        "diplomacy bonus",
+        "intimidate bonus",
+        "dominate person",
+        "spell-like ability",
+        "same creature type",
+        "social manipulation"
+      ]
+    },
+    {
+      "id": "sanguine_angel_hollowness_ex",
+      "title": "Hollowness (Ex) (Sanguine Angel)",
+      "anchor_heading": "#### Hollowness (Ex) {#hollowness_ex}",
+      "description": "Grants Diehard feat, +4 profane bonus on saves against emotion and pain effects, and immunity to fear effects.",
+      "keywords": [
+        "hollowness",
+        "diehard feat",
+        "emotion immunity",
+        "pain immunity",
+        "fear immunity",
+        "profane bonus",
+        "negative hit points"
+      ]
+    },
+    {
+      "id": "sanguine_angel_angel_of_death_su",
+      "title": "Angel of Death (Su) (Sanguine Angel)",
+      "anchor_heading": "#### Angel of Death (Su) {#angel_of_death_su}",
+      "description": "Changes creature type to evil extraplanar outsider, gains fire resistance 30, telepathy, see in darkness, and 50-foot fly speed with good maneuverability.",
+      "keywords": [
+        "angel of death",
+        "outsider type",
+        "evil subtype",
+        "extraplanar",
+        "fire resistance",
+        "telepathy",
+        "see in darkness",
+        "fly speed",
+        "hell native",
+        "ebon wings",
+        "creature type change"
+      ]
+    }
+  ]
+}

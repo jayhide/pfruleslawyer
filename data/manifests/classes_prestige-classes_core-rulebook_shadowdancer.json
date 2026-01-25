@@ -1,0 +1,250 @@
+{
+  "file": "shadowdancer.md",
+  "source_path": "https://www.d20pfsrd.com/classes/prestige-classes/core-rulebook/shadowdancer/",
+  "source_name": "Prestige Class: Shadowdancer",
+  "category": "Classes",
+  "toc_content": "Contents\n* [Requirements](#requirements)\n* [Class Skills](#class_skills)\n* [Class Features](#class_features)\n  + [Weapon and Armor Proficiency](#weapon_and_armor_proficiency)\n  + [Hide in Plain Sight (Su)](#hide_in_plain_sight_su)\n  + [Evasion (Ex)](#evasion_ex)\n  + [Darkvision (Ex)](#darkvision_ex)\n  + [Uncanny Dodge (Ex)](#uncanny_dodge_ex)\n  + [Rogue Talent](#rogue_talent)\n  + [Shadow Illusion (Sp)](#shadow_illusion_sp)\n  + [Summon Shadow (Su)](#summon_shadow_su)\n  + [Shadow Call (Sp)](#shadow_call_sp)\n  + [Shadow Jump (Su)](#shadow_jump_su)\n  + [Defensive Roll (Ex)](#defensive_roll_ex)\n  + [Improved Uncanny Dodge (Ex)](#improved_uncanny_dodge_ex)\n  + [Slippery Mind (Ex)](#slippery_mind_ex)\n  + [Shadow Power (Sp)](#shadow_power_sp)\n  + [Improved Evasion (Ex)](#improved_evasion_ex)\n  + [Shadow Master (Su)](#shadow_master_su)",
+  "sections": [
+    {
+      "id": "shadowdancer_overview",
+      "title": "Shadowdancer (Class Overview)",
+      "anchor_heading": "# Shadowdancer",
+      "end_at_heading": "### Requirements {#requirements}",
+      "description": "Overview of the Shadowdancer class including role, alignment, hit die, and starting wealth.",
+      "keywords": [
+        "shadowdancer",
+        "class",
+        "hit die",
+        "role",
+        "alignment"
+      ]
+    },
+    {
+      "id": "shadowdancer_weapon_and_armor_proficiency",
+      "title": "Weapon and Armor Proficiency (Shadowdancer)",
+      "anchor_heading": "#### Weapon and Armor Proficiency {#weapon_and_armor_proficiency}",
+      "description": "Shadowdancers are proficient with specific light weapons and ranged weapons, plus light armor but no shields.",
+      "keywords": [
+        "weapon proficiency",
+        "armor proficiency",
+        "light armor",
+        "rapier",
+        "shortbow",
+        "crossbow",
+        "dagger",
+        "short sword",
+        "no shields"
+      ]
+    },
+    {
+      "id": "shadowdancer_hide_in_plain_sight_su",
+      "title": "Hide in Plain Sight (Su) (Shadowdancer)",
+      "anchor_heading": "#### Hide in Plain Sight (Su) {#hide_in_plain_sight_su}",
+      "description": "Allows use of Stealth skill while being observed, as long as within 10 feet of dim light, but cannot hide in own shadow.",
+      "keywords": [
+        "hide in plain sight",
+        "stealth while observed",
+        "dim light",
+        "supernatural stealth",
+        "cannot hide in own shadow",
+        "10 feet"
+      ]
+    },
+    {
+      "id": "shadowdancer_evasion_ex",
+      "title": "Evasion (Ex) (Shadowdancer)",
+      "anchor_heading": "#### Evasion (Ex) {#evasion_ex}",
+      "description": "Takes no damage on successful Reflex saves against effects that normally deal half damage, only while wearing light or no armor.",
+      "keywords": [
+        "evasion",
+        "reflex save",
+        "no damage",
+        "half damage",
+        "light armor requirement",
+        "area effect"
+      ]
+    },
+    {
+      "id": "shadowdancer_darkvision_ex",
+      "title": "Darkvision (Ex) (Shadowdancer)",
+      "anchor_heading": "#### Darkvision (Ex) {#darkvision_ex}",
+      "description": "Grants darkvision 60 feet, or increases existing darkvision range by 30 feet.",
+      "keywords": [
+        "darkvision",
+        "60 feet",
+        "range increase",
+        "30 feet bonus",
+        "low-light vision"
+      ]
+    },
+    {
+      "id": "shadowdancer_uncanny_dodge_ex",
+      "title": "Uncanny Dodge (Ex) (Shadowdancer)",
+      "anchor_heading": "#### Uncanny Dodge (Ex) {#uncanny_dodge_ex}",
+      "description": "Cannot be caught flat-footed even against invisible attackers, but can still lose Dex bonus if immobilized or feinted.",
+      "keywords": [
+        "uncanny dodge",
+        "flat-footed",
+        "invisible attacker",
+        "dexterity bonus",
+        "feint action",
+        "immobilized"
+      ]
+    },
+    {
+      "id": "shadowdancer_rogue_talent",
+      "title": "Rogue Talent (Shadowdancer)",
+      "anchor_heading": "#### Rogue Talent {#rogue_talent}",
+      "description": "Gains rogue talents every three levels starting at 3rd, can select advanced talents if already possessing that class feature.",
+      "keywords": [
+        "rogue talent",
+        "advanced talents",
+        "every three levels",
+        "rogue class feature"
+      ]
+    },
+    {
+      "id": "shadowdancer_shadow_illusion_sp",
+      "title": "Shadow Illusion **(Sp)** (Shadowdancer)",
+      "anchor_heading": "#### Shadow Illusion **(Sp)** {#shadow_illusion_sp}",
+      "description": "Creates visual illusions as silent image spell, usable once per day per two shadowdancer levels with Charisma-based DC.",
+      "keywords": [
+        "shadow illusion",
+        "silent image",
+        "visual illusion",
+        "spell-like ability",
+        "charisma-based DC",
+        "once per day per two levels"
+      ]
+    },
+    {
+      "id": "shadowdancer_summon_shadow_su",
+      "title": "Summon Shadow (Su) (Shadowdancer)",
+      "anchor_heading": "#### Summon Shadow (Su) {#summon_shadow_su}",
+      "description": "Summons an undead shadow companion with matching alignment that cannot create spawn, with special bonuses and penalties for dismissal.",
+      "keywords": [
+        "summon shadow",
+        "shadow companion",
+        "undead companion",
+        "matching alignment",
+        "cannot create spawn",
+        "fortitude save",
+        "negative level",
+        "30 day replacement",
+        "will save bonus"
+      ]
+    },
+    {
+      "id": "shadowdancer_shadow_call_sp",
+      "title": "Shadow Call (Sp) (Shadowdancer)",
+      "anchor_heading": "#### Shadow Call (Sp) {#shadow_call_sp}",
+      "description": "Creates creatures and effects from shadow as shadow conjuration, upgrading to greater shadow conjuration at 10th level.",
+      "keywords": [
+        "shadow call",
+        "shadow conjuration",
+        "greater shadow conjuration",
+        "charisma-based DC",
+        "creatures from shadow",
+        "10th level upgrade"
+      ]
+    },
+    {
+      "id": "shadowdancer_shadow_jump_su",
+      "title": "Shadow Jump (Su) (Shadowdancer)",
+      "anchor_heading": "#### Shadow Jump (Su) {#shadow_jump_su}",
+      "description": "Teleports between areas of dim light like dimension door, with daily distance limits that double every two levels.",
+      "keywords": [
+        "shadow jump",
+        "dimension door",
+        "dim light",
+        "teleport",
+        "daily distance",
+        "40 feet",
+        "10-foot increments",
+        "doubles every two levels"
+      ]
+    },
+    {
+      "id": "shadowdancer_defensive_roll_ex",
+      "title": "Defensive Roll (Ex) (Shadowdancer)",
+      "anchor_heading": "#### Defensive Roll (Ex) {#defensive_roll_ex}",
+      "description": "Once per day can attempt to avoid a lethal blow, functioning as the rogue advanced talent of the same name.",
+      "keywords": [
+        "defensive roll",
+        "lethal blow",
+        "once per day",
+        "rogue advanced talent",
+        "avoid death"
+      ]
+    },
+    {
+      "id": "shadowdancer_improved_uncanny_dodge_ex",
+      "title": "Improved Uncanny Dodge (Ex) (Shadowdancer)",
+      "anchor_heading": "#### Improved Uncanny Dodge (Ex) {#improved_uncanny_dodge_ex}",
+      "description": "Cannot be flanked, preventing sneak attacks unless the attacker has four more rogue levels than shadowdancer levels.",
+      "keywords": [
+        "improved uncanny dodge",
+        "cannot be flanked",
+        "sneak attack",
+        "four more rogue levels",
+        "flanking immunity"
+      ]
+    },
+    {
+      "id": "shadowdancer_slippery_mind_ex",
+      "title": "Slippery Mind (Ex) (Shadowdancer)",
+      "anchor_heading": "#### Slippery Mind (Ex) {#slippery_mind_ex}",
+      "description": "Becomes resilient to enchantment spells, functioning as the rogue advanced talent of the same name.",
+      "keywords": [
+        "slippery mind",
+        "enchantment resistance",
+        "rogue advanced talent",
+        "mental effects"
+      ]
+    },
+    {
+      "id": "shadowdancer_shadow_power_sp",
+      "title": "Shadow Power (Sp) (Shadowdancer)",
+      "anchor_heading": "#### Shadow Power (Sp) {#shadow_power_sp}",
+      "description": "Uses raw shadow to damage foes as shadow evocation spell, usable once per day at 8th level and twice at 10th.",
+      "keywords": [
+        "shadow power",
+        "shadow evocation",
+        "raw shadow damage",
+        "charisma-based DC",
+        "once per day",
+        "twice at 10th"
+      ]
+    },
+    {
+      "id": "shadowdancer_improved_evasion_ex",
+      "title": "Improved Evasion (Ex) (Shadowdancer)",
+      "anchor_heading": "#### Improved Evasion (Ex) {#improved_evasion_ex}",
+      "description": "Takes no damage on successful Reflex saves and half damage on failed saves against effects allowing Reflex saves for half damage.",
+      "keywords": [
+        "improved evasion",
+        "reflex save",
+        "no damage on success",
+        "half damage on failure",
+        "area effects"
+      ]
+    },
+    {
+      "id": "shadowdancer_shadow_master_su",
+      "title": "Shadow Master (Su) (Shadowdancer)",
+      "anchor_heading": "#### Shadow Master (Su) {#shadow_master_su}",
+      "description": "While in dim light, gains DR 10/\u2014 and +2 luck bonus on saves, plus blinds critically hit foes in dim light for 1d6 rounds.",
+      "keywords": [
+        "shadow master",
+        "dim light",
+        "DR 10",
+        "damage reduction",
+        "luck bonus",
+        "saving throws",
+        "critical hit",
+        "blind",
+        "1d6 rounds"
+      ]
+    }
+  ]
+}

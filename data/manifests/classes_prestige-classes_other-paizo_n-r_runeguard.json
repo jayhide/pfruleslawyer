@@ -1,0 +1,85 @@
+{
+  "file": "runeguard.md",
+  "source_path": "https://www.d20pfsrd.com/classes/prestige-classes/other-paizo/n-r/runeguard/",
+  "source_name": "Prestige Class: Runeguard",
+  "category": "Classes",
+  "toc_content": "Contents\n* [Requirements](#requirements)\n* [Class Skills](#class_skills)\n* [Class Features](#class_features)\n  + [Rune Magic](#rune_magic)\n  + [Virtuous Rune (Su)](#virtuous_rune_su)\n  + [Rune Mastery (Su)](#rune_mastery_su)",
+  "sections": [
+    {
+      "id": "runeguard_overview",
+      "title": "Runeguard (Class Overview)",
+      "anchor_heading": "# Runeguard",
+      "end_at_heading": "### Requirements {#requirements}",
+      "description": "Overview of the Runeguard class including role, alignment, hit die, and starting wealth.",
+      "keywords": [
+        "runeguard",
+        "class",
+        "hit die",
+        "role",
+        "alignment"
+      ]
+    },
+    {
+      "id": "runeguard_rune_magic",
+      "title": "Rune Magic (Runeguard)",
+      "anchor_heading": "#### Rune Magic {#rune_magic}",
+      "description": "Adds all spells with 'glyph' or 'symbol' in their name to the runeguard's class spell list.",
+      "keywords": [
+        "rune magic",
+        "glyph spells",
+        "symbol spells",
+        "class spell list",
+        "expanded spell access",
+        "spell availability"
+      ]
+    },
+    {
+      "id": "runeguard_virtuous_rune_su",
+      "title": "Virtuous Rune (Su) (Runeguard)",
+      "anchor_heading": "#### Virtuous Rune (Su) {#virtuous_rune_su}",
+      "description": "Allows the runeguard to use beneficial rune abilities based on seven virtues, each with unique effects like spell transfer, enhanced healing, or temporary bonuses.",
+      "keywords": [
+        "virtuous rune",
+        "seven virtues",
+        "charity rune",
+        "kindness rune",
+        "generosity rune",
+        "humility rune",
+        "love rune",
+        "temperance rune",
+        "zeal rune",
+        "rune focus",
+        "imbue with spell ability",
+        "aid another bonus",
+        "insight bonus",
+        "negative energy immunity",
+        "concentration check bonus",
+        "metamagic enhancement",
+        "spell DC bonus",
+        "standard action",
+        "immediate action",
+        "swift action",
+        "attack of opportunity",
+        "spell transfer",
+        "treat deadly wounds",
+        "telepathic bond",
+        "status effect",
+        "charm and compulsion resistance"
+      ]
+    },
+    {
+      "id": "runeguard_rune_mastery_su",
+      "title": "Rune Mastery (Su) (Runeguard)",
+      "anchor_heading": "#### Rune Mastery (Su) {#rune_mastery_su}",
+      "description": "Grants the ability to cast permanency as a spell-like ability once per day, but can only maintain one permanent effect at a time.",
+      "keywords": [
+        "rune mastery",
+        "permanency spell-like ability",
+        "permanent spell effect",
+        "single permanent effect",
+        "spell-like ability",
+        "once per day ability"
+      ]
+    }
+  ]
+}

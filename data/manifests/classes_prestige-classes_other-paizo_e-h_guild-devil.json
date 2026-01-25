@@ -1,0 +1,172 @@
+{
+  "file": "guild-devil.md",
+  "source_path": "https://www.d20pfsrd.com/classes/prestige-classes/other-paizo/e-h/guild-devil/",
+  "source_name": "Prestige Class: Guild Devil",
+  "category": "Classes",
+  "toc_content": "Contents\n* [Requirements](#requirements)\n* [Class Skills](#class_skills)\n* [Class Features](#class_features)\n  + [Weapon and Armor Proficiency](#weapon_and_armor_proficiency)\n  + [Classically Trained (Ex)](#classically_trained_ex)\n  + [Founders\u2019 Favor (Su)](#founders8217_favor_su)\n  + [Eye of the Seer (Su)](#eye_of_the_seer_su)\n  + [Council\u2019s Guidance (Su)](#council8217s_guidance_su)\n  + [Council\u2019s Craftsmanship (Sp)](#council8217s_craftsmanship_sp)\n  + [Council\u2019s Bounty (Sp)](#council8217s_bounty_sp)\n  + [Council\u2019s Recovery (Sp)](#council8217s_recovery_sp)\n  + [Council\u2019s Shroud (Su)](#council8217s_shroud_su)\n  + [Sneak Attack (Ex)](#sneak_attack_ex)",
+  "sections": [
+    {
+      "id": "guild_devil_overview",
+      "title": "Guild Devil (Class Overview)",
+      "anchor_heading": "# Guild Devil",
+      "end_at_heading": "### Requirements {#requirements}",
+      "description": "Overview of the Guild Devil class including role, alignment, hit die, and starting wealth.",
+      "keywords": [
+        "guild devil",
+        "class",
+        "hit die",
+        "role",
+        "alignment"
+      ]
+    },
+    {
+      "id": "guild_devil_weapon_and_armor_proficiency",
+      "title": "Weapon and Armor Proficiency (Guild Devil)",
+      "anchor_heading": "#### Weapon and Armor Proficiency {#weapon_and_armor_proficiency}",
+      "description": "Grants proficiency with longswords.",
+      "keywords": [
+        "weapon proficiency",
+        "longsword proficiency",
+        "Guild Devil proficiencies",
+        "longsword"
+      ]
+    },
+    {
+      "id": "guild_devil_classically_trained_ex",
+      "title": "Classically Trained (Ex) (Guild Devil)",
+      "anchor_heading": "#### Classically Trained (Ex) {#classically_trained_ex}",
+      "description": "Allows use of Weapon Finesse with a one-handed longsword despite it not being a light weapon.",
+      "keywords": [
+        "Weapon Finesse",
+        "longsword finesse",
+        "Classically Trained",
+        "one-handed longsword",
+        "finessable longsword"
+      ]
+    },
+    {
+      "id": "guild_devil_founders8217_favor_su",
+      "title": "Founders\u2019 Favor (Su) (Guild Devil)",
+      "anchor_heading": "#### Founders\u2019 Favor (Su) {#founders8217_favor_su}",
+      "description": "Provides a pool of favor points that can be spent to enhance skill checks or activate founder-inspired abilities.",
+      "keywords": [
+        "Founders' Favor",
+        "favor points",
+        "skill check bonus",
+        "spell-like abilities",
+        "favor pool",
+        "caster level",
+        "saving throw DC"
+      ]
+    },
+    {
+      "id": "guild_devil_eye_of_the_seer_su",
+      "title": "Eye of the Seer (Su) (Guild Devil)",
+      "anchor_heading": "#### Eye of the Seer (Su) {#eye_of_the_seer_su}",
+      "description": "Allows seeing internal workings of devices for Disable Device bonuses, and later seeing through walls and doors.",
+      "keywords": [
+        "Eye of the Seer",
+        "Disable Device bonus",
+        "see through walls",
+        "see through doors",
+        "lock mechanisms",
+        "trap mechanisms",
+        "full-round action"
+      ]
+    },
+    {
+      "id": "guild_devil_council8217s_guidance_su",
+      "title": "Council\u2019s Guidance (Su) (Guild Devil)",
+      "anchor_heading": "#### Council\u2019s Guidance (Su) {#council8217s_guidance_su}",
+      "description": "Grants speed bonus and skill bonuses in urban environments, with enhanced chase mechanics.",
+      "keywords": [
+        "Council's Guidance",
+        "urban movement",
+        "speed bonus",
+        "Acrobatics bonus",
+        "Stealth bonus",
+        "chase mechanics",
+        "pursuit",
+        "swift action",
+        "enhancement bonus",
+        "insight bonus"
+      ]
+    },
+    {
+      "id": "guild_devil_council8217s_craftsmanship_sp",
+      "title": "Council\u2019s Craftsmanship (Sp) (Guild Devil)",
+      "anchor_heading": "#### Council\u2019s Craftsmanship (Sp) {#council8217s_craftsmanship_sp}",
+      "description": "Provides spell-like abilities to manipulate wood, including warp wood and meld into wood effects.",
+      "keywords": [
+        "Council's Craftsmanship",
+        "warp wood",
+        "meld into wood",
+        "meld into stone",
+        "passwall",
+        "wooden barriers",
+        "wood statue",
+        "hardness 5",
+        "standard action"
+      ]
+    },
+    {
+      "id": "guild_devil_council8217s_bounty_sp",
+      "title": "Council\u2019s Bounty (Sp) (Guild Devil)",
+      "anchor_heading": "#### Council\u2019s Bounty (Sp) {#council8217s_bounty_sp}",
+      "description": "Grants water breathing for 24 hours as an immediate action, affecting multiple creatures.",
+      "keywords": [
+        "Council's Bounty",
+        "water breathing",
+        "underwater navigation",
+        "immediate action",
+        "touch",
+        "24 hours duration"
+      ]
+    },
+    {
+      "id": "guild_devil_council8217s_recovery_sp",
+      "title": "Council\u2019s Recovery (Sp) (Guild Devil)",
+      "anchor_heading": "#### Council\u2019s Recovery (Sp) {#council8217s_recovery_sp}",
+      "description": "Provides healing and restoration spell-like abilities including cure serious wounds and restoration effects.",
+      "keywords": [
+        "Council's Recovery",
+        "cure serious wounds",
+        "lesser restoration",
+        "break enchantment",
+        "restoration",
+        "healing",
+        "material components",
+        "1-minute ritual"
+      ]
+    },
+    {
+      "id": "guild_devil_council8217s_shroud_su",
+      "title": "Council\u2019s Shroud (Su) (Guild Devil)",
+      "anchor_heading": "#### Council\u2019s Shroud (Su) {#council8217s_shroud_su}",
+      "description": "Grants bonuses against city guards including skill bonuses, AC bonus, and saving throw bonuses.",
+      "keywords": [
+        "Council's Shroud",
+        "city guards",
+        "insight bonus",
+        "dodge bonus",
+        "saving throw bonus",
+        "opposed skill checks",
+        "constant ability"
+      ]
+    },
+    {
+      "id": "guild_devil_sneak_attack_ex",
+      "title": "Sneak Attack (Ex) (Guild Devil)",
+      "anchor_heading": "#### Sneak Attack (Ex) {#sneak_attack_ex}",
+      "description": "Grants sneak attack damage that increases with level, functioning like the rogue class feature.",
+      "keywords": [
+        "sneak attack",
+        "sneak attack damage",
+        "1d6 sneak attack",
+        "2d6 sneak attack",
+        "3d6 sneak attack",
+        "rogue sneak attack"
+      ]
+    }
+  ]
+}

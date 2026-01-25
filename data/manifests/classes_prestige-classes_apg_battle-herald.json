@@ -1,0 +1,262 @@
+{
+  "file": "battle-herald.md",
+  "source_path": "https://www.d20pfsrd.com/classes/prestige-classes/apg/battle-herald/",
+  "source_name": "Prestige Class: Battle Herald",
+  "category": "Classes",
+  "toc_content": "Contents\n* [Requirements](#requirements)\n* [Class Skills](#class_skills)\n* [Class Features](#class_features)\n  + [Weapon and Armor Proficiencies](#weapon_and_armor_proficiencies)\n  + [Inspiring Command (Ex)](#inspiring_command_ex)\n  + [Against All Odds (Ex)](#against_all_odds_ex)\n  + [Immortal Dare (Ex)](#immortal_dare_ex)\n  + [Inherited Song](#inherited_song)\n  + [Improved Leadership (Ex)](#improved_leadership_ex)\n  + [Voice of Authority (Ex)](#voice_of_authority_ex)\n  + [Easy March (Ex)](#easy_march_ex)\n  + [Inspire Greatness (Ex)](#inspire_greatness_ex)\n  + [Banner (Ex)](#banner_ex)\n  + [Teamwork Feat](#teamwork_feat)\n  + [Demanding Challenge (Ex)](#demanding_challenge_ex)\n  + [Persistent Commands (Ex)](#persistent_commands_ex)\n  + [Inspire Last Stand (Ex)](#inspire_last_stand_ex)\n  + [Complex Commands (Ex)](#complex_commands_ex)",
+  "sections": [
+    {
+      "id": "battle_herald_overview",
+      "title": "Battle Herald (Class Overview)",
+      "anchor_heading": "# Battle Herald",
+      "end_at_heading": "### Requirements {#requirements}",
+      "description": "Overview of the Battle Herald class including role, alignment, hit die, and starting wealth.",
+      "keywords": [
+        "battle herald",
+        "class",
+        "hit die",
+        "role",
+        "alignment"
+      ]
+    },
+    {
+      "id": "battle_herald_weapon_and_armor_proficiencies",
+      "title": "Weapon and Armor Proficiencies (Battle Herald)",
+      "anchor_heading": "#### Weapon and Armor Proficiencies {#weapon_and_armor_proficiencies}",
+      "description": "Battle heralds gain no proficiency with any weapons or armor beyond what they had before taking the class.",
+      "keywords": [
+        "weapon proficiency",
+        "armor proficiency",
+        "no proficiency",
+        "battle herald proficiencies"
+      ]
+    },
+    {
+      "id": "battle_herald_inspiring_command_ex",
+      "title": "Inspiring Command (Ex) (Battle Herald)",
+      "anchor_heading": "#### Inspiring Command (Ex) {#inspiring_command_ex}",
+      "description": "The battle herald's primary ability allowing them to issue tactical commands that provide bonuses to allies, including inspire courage and various specialized commands with scaling action economy.",
+      "keywords": [
+        "inspiring command",
+        "bardic performance",
+        "inspire courage",
+        "competence bonus",
+        "move action",
+        "swift action",
+        "immediate action",
+        "language-dependent",
+        "mind-affecting",
+        "charisma modifier",
+        "rounds per day",
+        "command bonus",
+        "battle magic",
+        "inspire hardiness",
+        "inspired tactics",
+        "keep your heads",
+        "none shall fall",
+        "pincer maneuver",
+        "rally",
+        "reveille",
+        "scatter",
+        "shake it off",
+        "sound the charge",
+        "sound the retreat",
+        "stand firm",
+        "teamwork",
+        "tuck and roll",
+        "critical hit confirmation",
+        "combat maneuver checks",
+        "dodge bonus",
+        "will saves",
+        "concentration checks",
+        "flanking bonus",
+        "fear effects",
+        "exhaustion",
+        "fatigue",
+        "sleep effects",
+        "CMD bonus",
+        "fortitude saves",
+        "aid another",
+        "reflex saves",
+        "acrobatics checks"
+      ]
+    },
+    {
+      "id": "battle_herald_against_all_odds_ex",
+      "title": "Against All Odds (Ex) (Battle Herald)",
+      "anchor_heading": "#### Against All Odds (Ex) {#against_all_odds_ex}",
+      "description": "Grants a limited number of allies the benefits of the Combat Reflexes feat based on the battle herald's inspiring command bonus.",
+      "keywords": [
+        "against all odds",
+        "combat reflexes",
+        "inspiring command bonus",
+        "attacks of opportunity"
+      ]
+    },
+    {
+      "id": "battle_herald_immortal_dare_ex",
+      "title": "Immortal Dare (Ex) (Battle Herald)",
+      "anchor_heading": "#### Immortal Dare (Ex) {#immortal_dare_ex}",
+      "description": "Grants a limited number of allies the benefits of the Diehard feat based on the battle herald's inspiring command bonus.",
+      "keywords": [
+        "immortal dare",
+        "diehard feat",
+        "inspiring command bonus",
+        "negative hit points"
+      ]
+    },
+    {
+      "id": "battle_herald_inherited_song",
+      "title": "Inherited Song (Battle Herald)",
+      "anchor_heading": "#### Inherited Song {#inherited_song}",
+      "description": "Allows the battle herald to select one bardic performance or raging song from another class and use it as an inspiring command with stacking levels.",
+      "keywords": [
+        "inherited song",
+        "bardic performance",
+        "raging song",
+        "bard levels",
+        "skald levels",
+        "level stacking"
+      ]
+    },
+    {
+      "id": "battle_herald_improved_leadership_ex",
+      "title": "Improved Leadership (Ex) (Battle Herald)",
+      "anchor_heading": "#### Improved Leadership (Ex) {#improved_leadership_ex}",
+      "description": "Adds the battle herald's inspiring command bonus to their Leadership feat score.",
+      "keywords": [
+        "improved leadership",
+        "leadership feat",
+        "leadership score",
+        "inspiring command bonus"
+      ]
+    },
+    {
+      "id": "battle_herald_voice_of_authority_ex",
+      "title": "Voice of Authority (Ex) (Battle Herald)",
+      "anchor_heading": "#### Voice of Authority (Ex) {#voice_of_authority_ex}",
+      "description": "Provides bonuses to Diplomacy and Intimidate checks and helps allies hear commands, while stacking with cavalier tactician abilities.",
+      "keywords": [
+        "voice of authority",
+        "diplomacy bonus",
+        "intimidate bonus",
+        "perception checks",
+        "sense motive checks",
+        "bluff checks",
+        "secret messages",
+        "cavalier levels",
+        "tactician ability",
+        "shared language"
+      ]
+    },
+    {
+      "id": "battle_herald_easy_march_ex",
+      "title": "Easy March (Ex) (Battle Herald)",
+      "anchor_heading": "#### Easy March (Ex) {#easy_march_ex}",
+      "description": "Allows allies within 60 feet to hustle or force march without penalties for a number of hours based on the inspiring command bonus.",
+      "keywords": [
+        "easy march",
+        "hustle",
+        "force march",
+        "overland travel",
+        "inspiring command bonus",
+        "no penalties"
+      ]
+    },
+    {
+      "id": "battle_herald_inspire_greatness_ex",
+      "title": "Inspire Greatness (Ex) (Battle Herald)",
+      "anchor_heading": "#### Inspire Greatness (Ex) {#inspire_greatness_ex}",
+      "description": "Grants the ability to use inspire greatness as an inspiring command, affecting an increasing number of creatures as the battle herald levels up.",
+      "keywords": [
+        "inspire greatness",
+        "bardic performance",
+        "inspiring command",
+        "multiple targets"
+      ]
+    },
+    {
+      "id": "battle_herald_banner_ex",
+      "title": "Banner (Ex) (Battle Herald)",
+      "anchor_heading": "#### Banner (Ex) {#banner_ex}",
+      "description": "Allows the battle herald to fly a battle standard identical to a cavalier's banner ability, with stacking levels for bonuses.",
+      "keywords": [
+        "banner",
+        "battle standard",
+        "cavalier banner",
+        "cavalier levels",
+        "level stacking"
+      ]
+    },
+    {
+      "id": "battle_herald_teamwork_feat",
+      "title": "Teamwork Feat (Battle Herald)",
+      "anchor_heading": "#### Teamwork Feat {#teamwork_feat}",
+      "description": "Grants a bonus teamwork feat and allows using cavalier tactician ability to share it with allies as a move or swift action.",
+      "keywords": [
+        "teamwork feat",
+        "bonus feat",
+        "cavalier tactician",
+        "greater tactician",
+        "move action",
+        "swift action",
+        "grant feat"
+      ]
+    },
+    {
+      "id": "battle_herald_demanding_challenge_ex",
+      "title": "Demanding Challenge (Ex) (Battle Herald)",
+      "anchor_heading": "#### Demanding Challenge (Ex) {#demanding_challenge_ex}",
+      "description": "Functions identically to the 12th-level cavalier demanding challenge ability.",
+      "keywords": [
+        "demanding challenge",
+        "cavalier ability",
+        "challenge"
+      ]
+    },
+    {
+      "id": "battle_herald_persistent_commands_ex",
+      "title": "Persistent Commands (Ex) (Battle Herald)",
+      "anchor_heading": "#### Persistent Commands (Ex) {#persistent_commands_ex}",
+      "description": "Allows inspiring commands to continue for additional rounds based on Charisma bonus when the battle herald becomes incapacitated.",
+      "keywords": [
+        "persistent commands",
+        "incapacitated",
+        "charisma bonus",
+        "dazed",
+        "stunned",
+        "held",
+        "killed",
+        "maintain commands",
+        "free action"
+      ]
+    },
+    {
+      "id": "battle_herald_inspire_last_stand_ex",
+      "title": "Inspire Last Stand (Ex) (Battle Herald)",
+      "anchor_heading": "#### Inspire Last Stand (Ex) {#inspire_last_stand_ex}",
+      "description": "Grants allies within 30 feet the Diehard feat and inspire courage bonuses while at negative hit points.",
+      "keywords": [
+        "inspire last stand",
+        "diehard feat",
+        "inspire courage",
+        "negative hit points",
+        "30 feet"
+      ]
+    },
+    {
+      "id": "battle_herald_complex_commands_ex",
+      "title": "Complex Commands (Ex) (Battle Herald)",
+      "anchor_heading": "#### Complex Commands (Ex) {#complex_commands_ex}",
+      "description": "Allows maintaining multiple inspiring commands simultaneously and one bardic performance in addition to commands, each with separate costs.",
+      "keywords": [
+        "complex commands",
+        "multiple commands",
+        "bardic performance",
+        "separate maintenance",
+        "multiple single-target",
+        "effects don't stack"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,169 @@
+{
+  "file": "darkfire-adept.md",
+  "source_path": "https://www.d20pfsrd.com/classes/prestige-classes/other-paizo/c-d/darkfire-adept/",
+  "source_name": "Prestige Class: Darkfire Adept",
+  "category": "Classes",
+  "toc_content": "Contents\n* [Requirements](#requirements)\n* [Class Skills](#class_skills)\n* [Class Features](#class_features)\n  + [Weapon and Armor Proficiency](#weapon_and_armor_proficiency)\n  + [Sacred Summons](#sacred_summons)\n  + [Darkfire Taint (Su)](#darkfire_taint_su)\n  + [Darkfire Pact (Su)](#darkfire_pact_su)\n  + [Darkfire Eruption (Sp)](#darkfire_eruption_sp)\n  + [Breaching (Su)](#breaching_su)\n  + [Breaching Legion (Su)](#breaching_legion_su)\n  + [Accursed Sympathy (Su)](#accursed_sympathy_su)\n  + [Riftward Breaching (Su)](#riftward_breaching_su)",
+  "sections": [
+    {
+      "id": "darkfire_adept_overview",
+      "title": "Darkfire Adept (Class Overview)",
+      "anchor_heading": "# Darkfire Adept",
+      "end_at_heading": "### Requirements {#requirements}",
+      "description": "Overview of the Darkfire Adept class including role, alignment, hit die, and starting wealth.",
+      "keywords": [
+        "darkfire adept",
+        "class",
+        "hit die",
+        "role",
+        "alignment"
+      ]
+    },
+    {
+      "id": "darkfire_adept_weapon_and_armor_proficiency",
+      "title": "Weapon and Armor Proficiency (Darkfire Adept)",
+      "anchor_heading": "#### Weapon and Armor Proficiency {#weapon_and_armor_proficiency}",
+      "description": "A darkfire adept gains no additional weapon or armor proficiencies beyond their base class.",
+      "keywords": [
+        "weapon proficiency",
+        "armor proficiency",
+        "no proficiencies",
+        "darkfire adept proficiency"
+      ]
+    },
+    {
+      "id": "darkfire_adept_sacred_summons",
+      "title": "Sacred Summons (Darkfire Adept)",
+      "anchor_heading": "#### Sacred Summons {#sacred_summons}",
+      "description": "Darkfire adept gains Sacred Summons as a bonus feat, treating themselves as having an evil aura regardless of actual alignment.",
+      "keywords": [
+        "Sacred Summons",
+        "bonus feat",
+        "evil aura",
+        "alignment independent",
+        "summoning standard action"
+      ]
+    },
+    {
+      "id": "darkfire_adept_darkfire_taint_su",
+      "title": "Darkfire Taint (Su) (Darkfire Adept)",
+      "anchor_heading": "#### Darkfire Taint (Su) {#darkfire_taint_su}",
+      "description": "Creates a destructive resonance with a target within 30 feet, granting attack bonuses and imposing save penalties that scale with level.",
+      "keywords": [
+        "darkfire taint",
+        "standard action",
+        "profane bonus",
+        "attack rolls",
+        "caster level checks",
+        "conjuration penalty",
+        "Will save",
+        "30 feet range",
+        "planar substrate"
+      ]
+    },
+    {
+      "id": "darkfire_adept_darkfire_pact_su",
+      "title": "Darkfire Pact (Su) (Darkfire Adept)",
+      "anchor_heading": "#### Darkfire Pact (Su) {#darkfire_pact_su}",
+      "description": "Choose evil outsider subtypes to gain bonuses against and enhanced summoning capabilities with planar ally and planar binding spells.",
+      "keywords": [
+        "darkfire pact",
+        "evil outsider subtypes",
+        "asura",
+        "daemon",
+        "demodand",
+        "demon",
+        "devil",
+        "div",
+        "kyton",
+        "oni",
+        "qlippoth",
+        "rakshasa",
+        "planar ally",
+        "planar binding",
+        "additional Hit Dice",
+        "temporary hit points"
+      ]
+    },
+    {
+      "id": "darkfire_adept_darkfire_eruption_sp",
+      "title": "Darkfire Eruption (Sp) (Darkfire Adept)",
+      "anchor_heading": "#### Darkfire Eruption (Sp) {#darkfire_eruption_sp}",
+      "description": "Sacrifice a 4th+ level spell slot to create an enhanced unholy blight that ignores hardness and disintegrates slain targets.",
+      "keywords": [
+        "darkfire eruption",
+        "spell sacrifice",
+        "unholy blight",
+        "ignores hardness",
+        "disintegrate effect",
+        "4th level spell slot",
+        "conjuration effect",
+        "searing ebon vortex"
+      ]
+    },
+    {
+      "id": "darkfire_adept_breaching_su",
+      "title": "Breaching (Su) (Darkfire Adept)",
+      "anchor_heading": "#### Breaching (Su) {#breaching_su}",
+      "description": "Sacrifice spell slots to bypass magical wards preventing summoning or blocking attacks from summoned creatures of pact subtypes.",
+      "keywords": [
+        "breaching",
+        "swift action",
+        "spell sacrifice",
+        "summoning blocks",
+        "magic circle",
+        "forbiddance",
+        "dimensional lock",
+        "antimagic field",
+        "prismatic sphere",
+        "caster level check",
+        "warding effects"
+      ]
+    },
+    {
+      "id": "darkfire_adept_breaching_legion_su",
+      "title": "Breaching Legion (Su) (Darkfire Adept)",
+      "anchor_heading": "#### Breaching Legion (Su) {#breaching_legion_su}",
+      "description": "Summoned creatures from darkfire pact subtypes can use their innate summoning abilities, but those creatures are uncontrolled.",
+      "keywords": [
+        "breaching legion",
+        "innate summoning",
+        "uncontrolled summons",
+        "darkfire pact subtypes",
+        "summoning abilities"
+      ]
+    },
+    {
+      "id": "darkfire_adept_accursed_sympathy_su",
+      "title": "Accursed Sympathy (Su) (Darkfire Adept)",
+      "anchor_heading": "#### Accursed Sympathy (Su) {#accursed_sympathy_su}",
+      "description": "Increase damage against darkfire tainted targets and gain temporary hit points when killing tainted creatures.",
+      "keywords": [
+        "accursed sympathy",
+        "swift action",
+        "darkfire taint damage",
+        "temporary hit points",
+        "Hit Dice healing",
+        "damage increase",
+        "death trigger"
+      ]
+    },
+    {
+      "id": "darkfire_adept_riftward_breaching_su",
+      "title": "Riftward Breaching (Su) (Darkfire Adept)",
+      "anchor_heading": "#### Riftward Breaching (Su) {#riftward_breaching_su}",
+      "description": "Use immediate action to unleash darkfire eruption against conjured creatures within 30 feet, potentially banishing them to evil Outer Planes.",
+      "keywords": [
+        "riftward breaching",
+        "immediate action",
+        "conjuration detection",
+        "darkfire eruption",
+        "plane shift",
+        "evil Outer Planes",
+        "teleportation counter",
+        "summoning counter",
+        "30 feet"
+      ]
+    }
+  ]
+}

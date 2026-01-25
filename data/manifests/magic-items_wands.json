@@ -1,0 +1,33 @@
+{
+  "file": "wands.md",
+  "source_path": "https://www.d20pfsrd.com/magic-items/wands/",
+  "sections": [
+    {
+      "id": "wands_overview",
+      "title": "Wands Overview",
+      "anchor_heading": "# Wands",
+      "description": "Complete rules for wands including charges, pricing, physical description, spell trigger activation, and special qualities",
+      "keywords": [
+        "wands",
+        "charges",
+        "spell trigger",
+        "activation",
+        "caster level",
+        "material component"
+      ]
+    },
+    {
+      "id": "third_party_wands",
+      "title": "3rd Party Publisher Wands",
+      "anchor_heading": "### 3rd Party Publisher Wands",
+      "description": "Reference to additional wands from 3rd party publisher sources",
+      "keywords": [
+        "3rd party",
+        "publisher",
+        "third party wands"
+      ]
+    }
+  ],
+  "source_name": "",
+  "category": "Core Rules"
+}

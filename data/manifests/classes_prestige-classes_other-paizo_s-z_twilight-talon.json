@@ -1,0 +1,138 @@
+{
+  "file": "twilight-talon.md",
+  "source_path": "https://www.d20pfsrd.com/classes/prestige-classes/other-paizo/s-z/twilight-talon/",
+  "source_name": "Prestige Class: Twilight Talon",
+  "category": "Classes",
+  "toc_content": "Contents\n* [Requirements](#requirements)\n* [Class Skills](#class_skills)\n* [Class Features](#class_features)\n  + [Many Hats (Ex)](#many_hats_ex)\n  + [Sneak Attack](#sneak_attack)\n  + [Enhanced Tattoo (Sp)](#enhanced_tattoo_sp)\n  + [Resourceful Agent (Ex)](#resourceful_agent_ex)\n  + [Eye for Detail (Ex)](#eye_for_detail_ex)\n  + [Dead Drop (Ex)](#dead_drop_ex)\n  + [Unassuming Presence (Su)](#unassuming_presence_su)",
+  "sections": [
+    {
+      "id": "twilight_talon_overview",
+      "title": "Twilight Talon (Class Overview)",
+      "anchor_heading": "# Twilight Talon",
+      "end_at_heading": "### Requirements {#requirements}",
+      "description": "Overview of the Twilight Talon class including role, alignment, hit die, and starting wealth.",
+      "keywords": [
+        "twilight talon",
+        "class",
+        "hit die",
+        "role",
+        "alignment"
+      ]
+    },
+    {
+      "id": "twilight_talon_many_hats_ex",
+      "title": "Many Hats (Ex) (Twilight Talon)",
+      "anchor_heading": "#### Many Hats (Ex) {#many_hats_ex}",
+      "description": "Allows the Twilight Talon to substitute Sense Motive checks for specific Profession checks when within 60 feet of someone with ranks in those professions.",
+      "keywords": [
+        "many hats",
+        "profession check substitute",
+        "sense motive in place of profession",
+        "architect barrister clerk courtesan driver engineer innkeeper librarian merchant scribe",
+        "60 feet range",
+        "profession skill replacement"
+      ]
+    },
+    {
+      "id": "twilight_talon_sneak_attack",
+      "title": "Sneak Attack (Twilight Talon)",
+      "anchor_heading": "#### Sneak Attack {#sneak_attack}",
+      "description": "Functions as rogue sneak attack, dealing 1d6 extra damage at 1st level and increasing by 1d6 every 3 levels thereafter.",
+      "keywords": [
+        "sneak attack",
+        "1d6 every 3 levels",
+        "sneak attack damage stacking",
+        "rogue sneak attack",
+        "precision damage",
+        "flanking damage"
+      ]
+    },
+    {
+      "id": "twilight_talon_enhanced_tattoo_sp",
+      "title": "Enhanced Tattoo (Sp) (Twilight Talon)",
+      "anchor_heading": "#### Enhanced Tattoo (Sp) {#enhanced_tattoo_sp}",
+      "description": "Grants spell-like abilities through the Twilight Tattoo feat, with new options available every 2 levels starting at 2nd level.",
+      "keywords": [
+        "enhanced tattoo",
+        "twilight tattoo feat",
+        "spell-like abilities",
+        "disguise self",
+        "undetectable alignment",
+        "alter self",
+        "invisibility",
+        "glibness",
+        "secret page",
+        "modify memory",
+        "zone of silence",
+        "mislead",
+        "seeming",
+        "once per day",
+        "charisma-based save DC"
+      ]
+    },
+    {
+      "id": "twilight_talon_resourceful_agent_ex",
+      "title": "Resourceful Agent (Ex) (Twilight Talon)",
+      "anchor_heading": "#### Resourceful Agent (Ex) {#resourceful_agent_ex}",
+      "description": "Improves damage with improvised weapons by one step at 2nd level, grants improved critical range and Critical Focus at 5th level, and Staggering Critical at 9th level.",
+      "keywords": [
+        "resourceful agent",
+        "improvised weapons",
+        "damage step increase",
+        "improvised weapon damage",
+        "19-20 critical threat range",
+        "critical focus bonus feat",
+        "staggering critical bonus feat",
+        "everyday objects as weapons"
+      ]
+    },
+    {
+      "id": "twilight_talon_eye_for_detail_ex",
+      "title": "Eye for Detail (Ex) (Twilight Talon)",
+      "anchor_heading": "#### Eye for Detail (Ex) {#eye_for_detail_ex}",
+      "description": "Grants a +8 bonus on Linguistics checks to forge government documents, as if having seen similar documents before.",
+      "keywords": [
+        "eye for detail",
+        "document forgery",
+        "linguistics check bonus",
+        "government document forgery",
+        "+8 forgery bonus",
+        "seen similar document"
+      ]
+    },
+    {
+      "id": "twilight_talon_dead_drop_ex",
+      "title": "Dead Drop (Ex) (Twilight Talon)",
+      "anchor_heading": "#### Dead Drop (Ex) {#dead_drop_ex}",
+      "description": "Allows access to cached equipment by paying into a fund, with improved efficiency and higher limits at 8th level.",
+      "keywords": [
+        "dead drop",
+        "equipment cache",
+        "dead drop fund",
+        "100 gp per level",
+        "2500 gp maximum",
+        "1d8 hours to find",
+        "30 minutes at 8th level",
+        "wilderness equipment access",
+        "common items",
+        "once per day"
+      ]
+    },
+    {
+      "id": "twilight_talon_unassuming_presence_su",
+      "title": "Unassuming Presence (Su) (Twilight Talon)",
+      "anchor_heading": "#### Unassuming Presence (Su) {#unassuming_presence_su}",
+      "description": "Uses swift action opposed Bluff checks against enemies within 30 feet to attempt Stealth as if having concealment, usable three times per day.",
+      "keywords": [
+        "unassuming presence",
+        "swift action bluff",
+        "opposed bluff check",
+        "stealth without concealment",
+        "30 feet range",
+        "three times per day",
+        "class level bonus to stealth",
+        "redirect attention"
+      ]
+    }
+  ]
+}

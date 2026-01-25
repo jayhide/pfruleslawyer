@@ -1,0 +1,121 @@
+{
+  "file": "veiled-illusionist.md",
+  "source_path": "https://www.d20pfsrd.com/classes/prestige-classes/other-paizo/s-z/veiled-illusionist/",
+  "source_name": "Prestige Class: Veiled Illusionist",
+  "category": "Classes",
+  "toc_content": "Contents\n* [Requirements](#requirements)\n* [Class Skills](#class_skills)\n* [Class Features](#class_features)\n  + [Weapon and Armor Proficiency](#weapon_and_armor_proficiency)\n  + [Veil Pool (Sp)](#veil_pool_sp)\n  + [Goddess\u2019s Veils](#goddess8217s_veils)\n  + [Quick Veil](#quick_veil)\n  + [True Veil](#true_veil)",
+  "sections": [
+    {
+      "id": "veiled_illusionist_overview",
+      "title": "Veiled Illusionist (Class Overview)",
+      "anchor_heading": "# Veiled Illusionist",
+      "end_at_heading": "### Requirements {#requirements}",
+      "description": "Overview of the Veiled Illusionist class including role, alignment, hit die, and starting wealth.",
+      "keywords": [
+        "veiled illusionist",
+        "class",
+        "hit die",
+        "role",
+        "alignment"
+      ]
+    },
+    {
+      "id": "veiled_illusionist_weapon_and_armor_proficiency",
+      "title": "Weapon and Armor Proficiency (Veiled Illusionist)",
+      "anchor_heading": "#### Weapon and Armor Proficiency {#weapon_and_armor_proficiency}",
+      "description": "Veiled illusionists gain no additional weapon or armor proficiencies beyond their base class.",
+      "keywords": [
+        "weapon proficiency",
+        "armor proficiency",
+        "no proficiencies",
+        "veiled illusionist proficiencies"
+      ]
+    },
+    {
+      "id": "veiled_illusionist_veil_pool_sp",
+      "title": "Veil Pool (Sp) (Veiled Illusionist)",
+      "anchor_heading": "#### Veil Pool (Sp) {#veil_pool_sp}",
+      "description": "A magical energy pool used to fuel disguise abilities, granting disguise self effects with scaling sensory enhancements and DC based on remaining pool points.",
+      "keywords": [
+        "veil pool",
+        "disguise self",
+        "glamer",
+        "standard action",
+        "disbelieve DC",
+        "audible properties",
+        "tactile properties",
+        "voice imitation",
+        "scent",
+        "blindsight",
+        "tremorsense",
+        "extraordinary senses"
+      ]
+    },
+    {
+      "id": "veiled_illusionist_goddess8217s_veils",
+      "title": "Goddess\u2019s Veils (Veiled Illusionist)",
+      "anchor_heading": "#### Goddess\u2019s Veils {#goddess8217s_veils}",
+      "description": "Six racial disguise forms that provide enhanced disguise bonuses and unique magical abilities when assumed using the veil pool.",
+      "keywords": [
+        "goddess veils",
+        "racial disguise",
+        "human veil",
+        "halfling veil",
+        "elf veil",
+        "gnome veil",
+        "cyclops veil",
+        "naga veil",
+        "illusion spell selection",
+        "disguise spellcasting",
+        "caster level check reroll",
+        "spell resistance bypass",
+        "swift action concentration",
+        "glamer concentration",
+        "figment concentration",
+        "true seeing",
+        "coiled illusion",
+        "layered illusion",
+        "free action veil change"
+      ]
+    },
+    {
+      "id": "veiled_illusionist_quick_veil",
+      "title": "Quick Veil (Veiled Illusionist)",
+      "anchor_heading": "#### Quick Veil {#quick_veil}",
+      "description": "Reduces the action required to assume or alter disguises from standard action to move action at 5th level, then to swift action at 7th level.",
+      "keywords": [
+        "quick veil",
+        "move action disguise",
+        "swift action disguise",
+        "faster veil",
+        "disguise action economy"
+      ]
+    },
+    {
+      "id": "veiled_illusionist_true_veil",
+      "title": "True Veil (Veiled Illusionist)",
+      "anchor_heading": "#### True Veil {#true_veil}",
+      "description": "Imbues disguises with reality by treating them as polymorph effects with shadow descriptor, granting actual physical transformations and abilities.",
+      "keywords": [
+        "true veil",
+        "polymorph effect",
+        "shadow descriptor",
+        "alter self benefits",
+        "size bonus",
+        "natural armor bonus",
+        "burrow speed",
+        "climb speed",
+        "fly speed",
+        "swim speed",
+        "darkvision",
+        "low-light vision",
+        "ferocity",
+        "guarded thoughts",
+        "poison",
+        "spit",
+        "physical transformation",
+        "real disguise"
+      ]
+    }
+  ]
+}

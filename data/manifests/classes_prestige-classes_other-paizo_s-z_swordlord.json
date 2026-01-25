@@ -1,0 +1,176 @@
+{
+  "file": "swordlord.md",
+  "source_path": "https://www.d20pfsrd.com/classes/prestige-classes/other-paizo/s-z/swordlord/",
+  "source_name": "Prestige Class: Swordlord",
+  "category": "Classes",
+  "toc_content": "Contents\n* [Requirements](#requirements)\n* [Class Skills](#class_skills)\n* [Class Features](#class_features)\n  + [Deft Strike (Ex)](#deft_strike_ex)\n  + [Quick Draw](#quick_draw)\n  + [Display Weapon Prowess (Ex)](#display_weapon_prowess_ex)\n  + [Defensive Parry (Ex)](#defensive_parry_ex)\n  + [Adaptive Tactics (Ex)](#adaptive_tactics_ex)\n  + [Shatter Confidence (Ex)](#shatter_confidence_ex)\n  + [Saving Slash (Ex)](#saving_slash_ex)\n  + [Dexterous Duelist (Ex)](#dexterous_duelist_ex)\n  + [Greater Saving Slash](#greater_saving_slash)\n  + [Confounding Duelist (Ex)](#confounding_duelist_ex)",
+  "sections": [
+    {
+      "id": "swordlord_overview",
+      "title": "Swordlord (Class Overview)",
+      "anchor_heading": "# Swordlord",
+      "end_at_heading": "### Requirements {#requirements}",
+      "description": "Overview of the Swordlord class including role, alignment, hit die, and starting wealth.",
+      "keywords": [
+        "swordlord",
+        "class",
+        "hit die",
+        "role",
+        "alignment"
+      ]
+    },
+    {
+      "id": "swordlord_deft_strike_ex",
+      "title": "Deft Strike (Ex) (Swordlord)",
+      "anchor_heading": "#### Deft Strike (Ex) {#deft_strike_ex}",
+      "description": "Allows adding Dexterity bonus instead of Strength bonus to damage rolls with dueling sword. Cannot be used with shield or off-hand weapon.",
+      "keywords": [
+        "deft strike",
+        "dexterity to damage",
+        "dueling sword damage",
+        "strength to damage",
+        "off-hand weapon restriction",
+        "shield restriction",
+        "finesse weapon damage"
+      ]
+    },
+    {
+      "id": "swordlord_quick_draw",
+      "title": "Quick Draw (Swordlord)",
+      "anchor_heading": "#### Quick Draw {#quick_draw}",
+      "description": "Grants Quick Draw as bonus feat, or Dueling Mastery if already possessed, or any Combat feat if both are known. Prerequisites must be met for selected feat.",
+      "keywords": [
+        "quick draw",
+        "bonus feat",
+        "dueling mastery",
+        "combat feat",
+        "feat prerequisites",
+        "weapon drawing",
+        "free action drawing"
+      ]
+    },
+    {
+      "id": "swordlord_display_weapon_prowess_ex",
+      "title": "Display Weapon Prowess (Ex) (Swordlord)",
+      "anchor_heading": "#### Display Weapon Prowess (Ex) {#display_weapon_prowess_ex}",
+      "description": "Adds half class level bonus to Intimidate checks when using Dazzling Display with dueling sword, plus bonuses for weapon feats. Grants bonuses to performance combat and dueling actions.",
+      "keywords": [
+        "display weapon prowess",
+        "dazzling display",
+        "intimidate bonus",
+        "performance combat",
+        "dueling parry",
+        "dueling resolve",
+        "weapon focus bonus",
+        "weapon specialization bonus",
+        "competence bonus"
+      ]
+    },
+    {
+      "id": "swordlord_defensive_parry_ex",
+      "title": "Defensive Parry (Ex) (Swordlord)",
+      "anchor_heading": "#### Defensive Parry (Ex) {#defensive_parry_ex}",
+      "description": "Grants +1 dodge bonus to AC when making full attack with dueling sword, increasing to +2 at 7th level. Stacks with fighter defender archetype levels.",
+      "keywords": [
+        "defensive parry",
+        "dodge bonus",
+        "full attack",
+        "AC bonus",
+        "dueling sword defense",
+        "fighter defender",
+        "stacking levels"
+      ]
+    },
+    {
+      "id": "swordlord_adaptive_tactics_ex",
+      "title": "Adaptive Tactics (Ex) (Swordlord)",
+      "anchor_heading": "#### Adaptive Tactics (Ex) {#adaptive_tactics_ex}",
+      "description": "Reduces attack penalties for fighting defensively and Combat Expertise by 1-2. After attacking same target, swift action Sense Motive check grants +2 circumstance bonus to attack or AC.",
+      "keywords": [
+        "adaptive tactics",
+        "fighting defensively",
+        "combat expertise",
+        "attack penalty reduction",
+        "sense motive",
+        "circumstance bonus",
+        "swift action",
+        "same target"
+      ]
+    },
+    {
+      "id": "swordlord_shatter_confidence_ex",
+      "title": "Shatter Confidence (Ex) (Swordlord)",
+      "anchor_heading": "#### Shatter Confidence (Ex) {#shatter_confidence_ex}",
+      "description": "Swift action Intimidate to demoralize after critical hit or successful combat maneuvers. Suppresses target's morale bonuses for multiple rounds, including barbarian rage bonuses.",
+      "keywords": [
+        "shatter confidence",
+        "swift action intimidate",
+        "critical hit intimidate",
+        "disarm intimidate",
+        "reposition intimidate",
+        "sunder intimidate",
+        "suppress morale bonuses",
+        "barbarian rage suppression",
+        "shaken condition"
+      ]
+    },
+    {
+      "id": "swordlord_saving_slash_ex",
+      "title": "Saving Slash (Ex) (Swordlord)",
+      "anchor_heading": "#### Saving Slash (Ex) {#saving_slash_ex}",
+      "description": "Immediate action to deflect melee critical hits with 25% chance of reducing to normal hit damage. Does not stack with fortification.",
+      "keywords": [
+        "saving slash",
+        "immediate action",
+        "deflect critical hit",
+        "critical hit reduction",
+        "25% chance",
+        "fortification",
+        "melee critical"
+      ]
+    },
+    {
+      "id": "swordlord_dexterous_duelist_ex",
+      "title": "Dexterous Duelist (Ex) (Swordlord)",
+      "anchor_heading": "#### Dexterous Duelist (Ex) {#dexterous_duelist_ex}",
+      "description": "With free hand, retains Dexterity bonus to Acrobatics and Climb checks, and doesn't provoke attacks of opportunity when standing from prone.",
+      "keywords": [
+        "dexterous duelist",
+        "free hand",
+        "dexterity bonus",
+        "acrobatics",
+        "climb",
+        "standing from prone",
+        "attacks of opportunity",
+        "prone condition"
+      ]
+    },
+    {
+      "id": "swordlord_greater_saving_slash",
+      "title": "Greater Saving Slash (Swordlord)",
+      "anchor_heading": "#### Greater Saving Slash {#greater_saving_slash}",
+      "description": "Improves saving slash to 50% chance against melee critical hits and adds 25% chance against ranged critical hits including rays and touch effects.",
+      "keywords": [
+        "greater saving slash",
+        "50% chance",
+        "ranged critical hit",
+        "ray critical",
+        "touch attack critical",
+        "improved saving slash"
+      ]
+    },
+    {
+      "id": "swordlord_confounding_duelist_ex",
+      "title": "Confounding Duelist (Ex) (Swordlord)",
+      "anchor_heading": "#### Confounding Duelist (Ex) {#confounding_duelist_ex}",
+      "description": "When successfully using shatter confidence, also suppresses the target's competence and insight bonuses in addition to morale bonuses.",
+      "keywords": [
+        "confounding duelist",
+        "shatter confidence",
+        "suppress competence bonus",
+        "suppress insight bonus",
+        "bonus suppression"
+      ]
+    }
+  ]
+}

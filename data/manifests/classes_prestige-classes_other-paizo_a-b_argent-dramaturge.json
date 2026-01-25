@@ -1,0 +1,126 @@
+{
+  "file": "argent-dramaturge.md",
+  "source_path": "https://www.d20pfsrd.com/classes/prestige-classes/other-paizo/a-b/argent-dramaturge/",
+  "source_name": "Prestige Class: Argent Dramaturge",
+  "category": "Classes",
+  "toc_content": "Contents\n* [Requirements](#requirements)\n* [Class Skills](#class_skills)\n* [Class Features](#class_features)\n  + [Argent Performance](#argent_performance)\n  + [Song of Silver (Su)](#song_of_silver_su)\n  + [Anchoring Aria (Su)](#anchoring_aria_su)\n  + [Righteous Chord (Sp)](#righteous_chord_sp)\n  + [Dramaturgical Flourish (Su)](#dramaturgical_flourish_su)",
+  "sections": [
+    {
+      "id": "argent_dramaturge_overview",
+      "title": "Argent Dramaturge (Class Overview)",
+      "anchor_heading": "# Argent Dramaturge",
+      "end_at_heading": "### Requirements {#requirements}",
+      "description": "Overview of the Argent Dramaturge class including role, alignment, hit die, and starting wealth.",
+      "keywords": [
+        "argent dramaturge",
+        "class",
+        "hit die",
+        "role",
+        "alignment"
+      ]
+    },
+    {
+      "id": "argent_dramaturge_argent_performance",
+      "title": "Argent Performance (Argent Dramaturge)",
+      "anchor_heading": "#### Argent Performance {#argent_performance}",
+      "description": "A bardic performance-like ability that uses Perform (sing) to create magical effects specifically targeting outsiders, particularly those affected by silver. Functions similarly to bardic performance but cannot be disrupted and has audible components only.",
+      "keywords": [
+        "argent performance",
+        "perform sing",
+        "bardic performance",
+        "outsiders",
+        "devils",
+        "move action",
+        "swift action",
+        "free action",
+        "audible components",
+        "charisma modifier",
+        "cannot be disrupted",
+        "paralyzed",
+        "stunned",
+        "unconscious"
+      ]
+    },
+    {
+      "id": "argent_dramaturge_song_of_silver_su",
+      "title": "Song of Silver (Su) (Argent Dramaturge)",
+      "anchor_heading": "#### Song of Silver (Su) {#song_of_silver_su}",
+      "description": "An argent performance that makes all weapons within 30 feet count as silver for damage reduction and grants fear immunity plus bonuses against charm and compulsion effects to multiple targets. At 5th level, can grant breath of life as an immediate action once per day.",
+      "keywords": [
+        "song of silver",
+        "silver weapons",
+        "damage reduction",
+        "fear immunity",
+        "sacred bonus",
+        "charm and compulsion",
+        "breath of life",
+        "immediate action",
+        "30-foot radius",
+        "60-foot radius",
+        "charisma modifier targets"
+      ]
+    },
+    {
+      "id": "argent_dramaturge_anchoring_aria_su",
+      "title": "Anchoring Aria (Su) (Argent Dramaturge)",
+      "anchor_heading": "#### Anchoring Aria (Su) {#anchoring_aria_su}",
+      "description": "An argent performance that prevents evil outsiders from using teleportation effects within the area and staggers those that teleport into or are summoned into the area. Requires caster level checks for teleportation attempts to succeed.",
+      "keywords": [
+        "anchoring aria",
+        "teleportation",
+        "evil outsider",
+        "caster level check",
+        "dimensional travel",
+        "summoned",
+        "staggered",
+        "will save",
+        "teleportation subschool",
+        "spell-like abilities",
+        "30-foot radius",
+        "60-foot radius"
+      ]
+    },
+    {
+      "id": "argent_dramaturge_righteous_chord_sp",
+      "title": "Righteous Chord (Sp) (Argent Dramaturge)",
+      "anchor_heading": "#### Righteous Chord (Sp) {#righteous_chord_sp}",
+      "description": "A standard action that costs 2 performance rounds to affect a single evil outsider with banishment, with a Perform check potentially counting as presenting a feared object. Does not end other active performances.",
+      "keywords": [
+        "righteous chord",
+        "banishment",
+        "evil outsider",
+        "standard action",
+        "2 rounds cost",
+        "perform check",
+        "caster level",
+        "feared object",
+        "60 feet",
+        "HD target",
+        "does not end performance"
+      ]
+    },
+    {
+      "id": "argent_dramaturge_dramaturgical_flourish_su",
+      "title": "Dramaturgical Flourish (Su) (Argent Dramaturge)",
+      "anchor_heading": "#### Dramaturgical Flourish (Su) {#dramaturgical_flourish_su}",
+      "description": "Special performance modifications gained every 2 levels that enhance existing bardic performances or grant new capabilities. Includes options like Heartening Song, Masterpiece access, Reactive Performance, Sudden Competence, and Ultimate Courage.",
+      "keywords": [
+        "dramaturgical flourish",
+        "heartening song",
+        "countersong",
+        "mind-affecting",
+        "negative emotions",
+        "masterpiece",
+        "bardic masterpiece",
+        "reactive performance",
+        "immediate action",
+        "sudden competence",
+        "inspire competence",
+        "ultimate courage",
+        "inspire courage",
+        "double morale bonus",
+        "distraction"
+      ]
+    }
+  ]
+}

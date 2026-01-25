@@ -1,0 +1,189 @@
+{
+  "file": "golden-legionnaire.md",
+  "source_path": "https://www.d20pfsrd.com/classes/prestige-classes/other-paizo/e-h/golden-legionnaire/",
+  "source_name": "Prestige Class: Golden Legionnaire",
+  "category": "Classes",
+  "toc_content": "Contents\n* [Requirements](#requirements)\n* [Class Skills](#class_skills)\n* [Class Features](#class_features)\n  + [Weapon and Armor Proficiency](#weapon_and_armor_proficiency)\n  + [Authoritative Command (Ex)](#authoritative_command_ex)\n  + [Defy Danger (Ex)](#defy_danger_ex)\n  + [Intercept (Ex)](#intercept_ex)\n  + [United Defense (Ex)](#united_defense_ex)\n  + [Allied Retribution (Ex)](#allied_retribution_ex)\n  + [Improved Aid (Ex)](#improved_aid_ex)\n  + [Hold the Line (Ex)](#hold_the_line_ex)\n  + [Preemptive Strike (Ex)](#preemptive_strike_ex)\n  + [Retaliate (Ex)](#retaliate_ex)\n  + [Guardian of Liberty (Ex)](#guardian_of_liberty_ex)",
+  "sections": [
+    {
+      "id": "golden_legionnaire_overview",
+      "title": "Golden Legionnaire (Class Overview)",
+      "anchor_heading": "# Golden Legionnaire",
+      "end_at_heading": "### Requirements {#requirements}",
+      "description": "Overview of the Golden Legionnaire class including role, alignment, hit die, and starting wealth.",
+      "keywords": [
+        "golden legionnaire",
+        "class",
+        "hit die",
+        "role",
+        "alignment"
+      ]
+    },
+    {
+      "id": "golden_legionnaire_weapon_and_armor_proficiency",
+      "title": "Weapon and Armor Proficiency (Golden Legionnaire)",
+      "anchor_heading": "#### Weapon and Armor Proficiency {#weapon_and_armor_proficiency}",
+      "description": "Grants proficiency with all simple weapons, martial weapons, armor, and shields.",
+      "keywords": [
+        "weapon proficiency",
+        "armor proficiency",
+        "shield proficiency",
+        "simple weapons",
+        "martial weapons",
+        "proficiency"
+      ]
+    },
+    {
+      "id": "golden_legionnaire_authoritative_command_ex",
+      "title": "Authoritative Command (Ex) (Golden Legionnaire)",
+      "anchor_heading": "#### Authoritative Command (Ex) {#authoritative_command_ex}",
+      "description": "As a move action, grants competence bonuses to attack rolls, damage, saves, and AC for the Golden Legionnaire and compliant allies within 30 feet.",
+      "keywords": [
+        "authoritative command",
+        "move action",
+        "swift action",
+        "competence bonus",
+        "ally bonuses",
+        "leadership",
+        "command allies",
+        "30 feet"
+      ]
+    },
+    {
+      "id": "golden_legionnaire_defy_danger_ex",
+      "title": "Defy Danger (Ex) (Golden Legionnaire)",
+      "anchor_heading": "#### Defy Danger (Ex) {#defy_danger_ex}",
+      "description": "Provides scaling bonuses on saving throws against specific dangers like charms, fear, poisons, or creature types.",
+      "keywords": [
+        "defy danger",
+        "saving throw bonus",
+        "charms and compulsions",
+        "curses",
+        "diseases",
+        "fear",
+        "poisons",
+        "traps",
+        "spell-like abilities",
+        "supernatural abilities",
+        "ranger favored enemy"
+      ]
+    },
+    {
+      "id": "golden_legionnaire_intercept_ex",
+      "title": "Intercept (Ex) (Golden Legionnaire)",
+      "anchor_heading": "#### Intercept (Ex) {#intercept_ex}",
+      "description": "Grants a bonus to combat maneuver checks with Stand Still feat and to CMD against Acrobatics checks to move through threatened squares.",
+      "keywords": [
+        "intercept",
+        "Stand Still",
+        "combat maneuver check",
+        "CMD",
+        "Acrobatics",
+        "threatened squares",
+        "movement prevention"
+      ]
+    },
+    {
+      "id": "golden_legionnaire_united_defense_ex",
+      "title": "United Defense (Ex) (Golden Legionnaire)",
+      "anchor_heading": "#### United Defense (Ex) {#united_defense_ex}",
+      "description": "Takes AC penalty to grant adjacent ally dodge bonus to AC as a swift action.",
+      "keywords": [
+        "united defense",
+        "swift action",
+        "adjacent ally",
+        "dodge bonus",
+        "AC penalty",
+        "armor class transfer"
+      ]
+    },
+    {
+      "id": "golden_legionnaire_allied_retribution_ex",
+      "title": "Allied Retribution (Ex) (Golden Legionnaire)",
+      "anchor_heading": "#### Allied Retribution (Ex) {#allied_retribution_ex}",
+      "description": "Gains morale bonuses on attacks and damage against designated adversaries who attack allies within 60 feet.",
+      "keywords": [
+        "allied retribution",
+        "designated adversary",
+        "morale bonus",
+        "attack rolls",
+        "weapon damage rolls",
+        "60 feet",
+        "ally protection"
+      ]
+    },
+    {
+      "id": "golden_legionnaire_improved_aid_ex",
+      "title": "Improved Aid (Ex) (Golden Legionnaire)",
+      "anchor_heading": "#### Improved Aid (Ex) {#improved_aid_ex}",
+      "description": "Increases the bonus provided by the aid another action in combat.",
+      "keywords": [
+        "improved aid",
+        "aid another",
+        "combat aid",
+        "attack roll bonus",
+        "AC bonus",
+        "aid another action"
+      ]
+    },
+    {
+      "id": "golden_legionnaire_hold_the_line_ex",
+      "title": "Hold the Line (Ex) (Golden Legionnaire)",
+      "anchor_heading": "#### Hold the Line (Ex) {#hold_the_line_ex}",
+      "description": "Causes 5-foot steps and withdrawals from threatened adjacent squares to provoke attacks of opportunity.",
+      "keywords": [
+        "hold the line",
+        "5-foot step",
+        "withdraw",
+        "attack of opportunity",
+        "threatened squares",
+        "adjacent",
+        "provoke"
+      ]
+    },
+    {
+      "id": "golden_legionnaire_preemptive_strike_ex",
+      "title": "Preemptive Strike (Ex) (Golden Legionnaire)",
+      "anchor_heading": "#### Preemptive Strike (Ex) {#preemptive_strike_ex}",
+      "description": "Allows attacks of opportunity against foes moving into any threatened square, once per opponent per day.",
+      "keywords": [
+        "preemptive strike",
+        "attack of opportunity",
+        "threatened squares",
+        "movement",
+        "once per day",
+        "once per opponent"
+      ]
+    },
+    {
+      "id": "golden_legionnaire_retaliate_ex",
+      "title": "Retaliate (Ex) (Golden Legionnaire)",
+      "anchor_heading": "#### Retaliate (Ex) {#retaliate_ex}",
+      "description": "Grants an attack of opportunity when a threatened creature hits an adjacent ally, once per round.",
+      "keywords": [
+        "retaliate",
+        "attack of opportunity",
+        "adjacent ally",
+        "threatened",
+        "once per round",
+        "ally protection"
+      ]
+    },
+    {
+      "id": "golden_legionnaire_guardian_of_liberty_ex",
+      "title": "Guardian of Liberty (Ex) (Golden Legionnaire)",
+      "anchor_heading": "#### Guardian of Liberty (Ex) {#guardian_of_liberty_ex}",
+      "description": "Once per day as an immediate action, can reroll own attack or save, or force enemy to reroll attack against self or adjacent ally.",
+      "keywords": [
+        "guardian of liberty",
+        "immediate action",
+        "reroll",
+        "attack roll",
+        "saving throw",
+        "force reroll",
+        "adjacent ally",
+        "once per day"
+      ]
+    }
+  ]
+}

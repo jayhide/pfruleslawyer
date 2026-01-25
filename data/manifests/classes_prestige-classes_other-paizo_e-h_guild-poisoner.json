@@ -1,0 +1,202 @@
+{
+  "file": "guild-poisoner.md",
+  "source_path": "https://www.d20pfsrd.com/classes/prestige-classes/other-paizo/e-h/guild-poisoner/",
+  "source_name": "Prestige Class: Guild Poisoner",
+  "category": "Classes",
+  "toc_content": "Contents\n* [Requirements](#requirements)\n* [Class Skills](#class_skills)\n* [Class Features](#class_features)\n  + [Weapon and Armor Proficiency](#weapon_and_armor_proficiency)\n  + [Master Poisoner (Ex)](#master_poisoner_ex)\n  + [Poison Resistance (Ex)](#poison_resistance_ex)\n  + [Quick Poisoning (Ex)](#quick_poisoning_ex)\n  + [Toxic Apothecary (Ex and Sp)](#toxic_apothecary_ex_and_sp)\n  + [Toxic Trick](#toxic_trick)\n  + [Toxic Manufactory (Ex)](#toxic_manufactory_ex)\n  + [Trapster (Ex)](#trapster_ex)\n  + [Sneak Attack (Ex)](#sneak_attack_ex)\n  + [Treacherous Toxin (Ex)](#treacherous_toxin_ex)\n  + [Swift Poisoning (Ex)](#swift_poisoning_ex)\n  + [Instantaneous Toxicology (Ex)](#instantaneous_toxicology_ex)",
+  "sections": [
+    {
+      "id": "guild_poisoner_overview",
+      "title": "Guild Poisoner (Class Overview)",
+      "anchor_heading": "# Guild Poisoner",
+      "end_at_heading": "### Requirements {#requirements}",
+      "description": "Overview of the Guild Poisoner class including role, alignment, hit die, and starting wealth.",
+      "keywords": [
+        "guild poisoner",
+        "class",
+        "hit die",
+        "role",
+        "alignment"
+      ]
+    },
+    {
+      "id": "guild_poisoner_weapon_and_armor_proficiency",
+      "title": "Weapon and Armor Proficiency (Guild Poisoner)",
+      "anchor_heading": "#### Weapon and Armor Proficiency {#weapon_and_armor_proficiency}",
+      "description": "Guild poisoners gain no additional weapon or armor proficiencies beyond their base class.",
+      "keywords": [
+        "weapon proficiency",
+        "armor proficiency",
+        "no additional proficiencies",
+        "guild poisoner proficiencies"
+      ]
+    },
+    {
+      "id": "guild_poisoner_master_poisoner_ex",
+      "title": "Master Poisoner ([Ex](https://www.d20pfsrd.com/magic#TOC-Extraordinary-Abilities-Ex-)) (Guild Poisoner)",
+      "anchor_heading": "#### Master Poisoner ([Ex](https://www.d20pfsrd.com/magic#TOC-Extraordinary-Abilities-Ex-)) {#master_poisoner_ex}",
+      "description": "Adds half level to Craft (alchemy) checks for poison and allows changing poison type with 1 hour of work using an alchemist's lab.",
+      "keywords": [
+        "master poisoner",
+        "craft alchemy poison",
+        "poison type",
+        "contact poison",
+        "ingested poison",
+        "inhaled poison",
+        "injury poison",
+        "alchemist lab",
+        "poison save DC"
+      ]
+    },
+    {
+      "id": "guild_poisoner_poison_resistance_ex",
+      "title": "Poison Resistance ([Ex](https://www.d20pfsrd.com/magic#TOC-Extraordinary-Abilities-Ex-)) (Guild Poisoner)",
+      "anchor_heading": "#### Poison Resistance ([Ex](https://www.d20pfsrd.com/magic#TOC-Extraordinary-Abilities-Ex-)) {#poison_resistance_ex}",
+      "description": "Provides scaling bonuses on poison saves, starting at +2 and eventually granting total immunity at 9th level.",
+      "keywords": [
+        "poison resistance",
+        "poison immunity",
+        "poison saves",
+        "alchemist levels stack",
+        "immunity to poison"
+      ]
+    },
+    {
+      "id": "guild_poisoner_quick_poisoning_ex",
+      "title": "Quick Poisoning ([Ex](https://www.d20pfsrd.com/magic#TOC-Extraordinary-Abilities-Ex-)) (Guild Poisoner)",
+      "anchor_heading": "#### Quick Poisoning ([Ex](https://www.d20pfsrd.com/magic#TOC-Extraordinary-Abilities-Ex-)) {#quick_poisoning_ex}",
+      "description": "Allows poisoning a weapon as a move action and creates poisons in half the normal time.",
+      "keywords": [
+        "quick poisoning",
+        "poison weapon",
+        "move action",
+        "craft poison",
+        "half time",
+        "poison application"
+      ]
+    },
+    {
+      "id": "guild_poisoner_toxic_apothecary_ex_and_sp",
+      "title": "Toxic Apothecary (Ex and Sp) (Guild Poisoner)",
+      "anchor_heading": "#### Toxic Apothecary (Ex and Sp) {#toxic_apothecary_ex_and_sp}",
+      "description": "Grants at-will detect poison as a swift action and bonuses to Heal checks when treating poison.",
+      "keywords": [
+        "toxic apothecary",
+        "detect poison",
+        "swift action",
+        "heal checks poison",
+        "treat poison",
+        "save bonus"
+      ]
+    },
+    {
+      "id": "guild_poisoner_toxic_trick",
+      "title": "Toxic Trick (Guild Poisoner)",
+      "anchor_heading": "#### Toxic Trick {#toxic_trick}",
+      "description": "Special abilities usable a limited number of times per day, including poison manipulation, bombs, and traps.",
+      "keywords": [
+        "toxic trick",
+        "choking bomb",
+        "combine poison",
+        "concentrate poison",
+        "launch trap",
+        "poison bomb",
+        "poison conversion",
+        "poison trap",
+        "slow-acting poison",
+        "smoke bomb",
+        "tailored toxin",
+        "toxic magic",
+        "intelligence modifier uses"
+      ]
+    },
+    {
+      "id": "guild_poisoner_toxic_manufactory_ex",
+      "title": "Toxic Manufactory ([Ex](https://www.d20pfsrd.com/magic#TOC-Extraordinary-Abilities-Ex-)) (Guild Poisoner)",
+      "anchor_heading": "#### Toxic Manufactory ([Ex](https://www.d20pfsrd.com/magic#TOC-Extraordinary-Abilities-Ex-)) {#toxic_manufactory_ex}",
+      "description": "Allows creating multiple doses of poisons or antitoxins simultaneously and accelerates crafting progress calculations.",
+      "keywords": [
+        "toxic manufactory",
+        "multiple doses",
+        "intelligence modifier doses",
+        "craft alchemy",
+        "antitoxin",
+        "master alchemist feat",
+        "gp value sp value",
+        "poison creation"
+      ]
+    },
+    {
+      "id": "guild_poisoner_trapster_ex",
+      "title": "Trapster ([Ex](https://www.d20pfsrd.com/magic#TOC-Extraordinary-Abilities-Ex-)) (Guild Poisoner)",
+      "anchor_heading": "#### Trapster ([Ex](https://www.d20pfsrd.com/magic#TOC-Extraordinary-Abilities-Ex-)) {#trapster_ex}",
+      "description": "Adds class level to trap-related skill checks and provides bonuses to poisoned traps created.",
+      "keywords": [
+        "trapster",
+        "perception traps",
+        "craft traps",
+        "disable device",
+        "poisonous traps",
+        "poisoned traps",
+        "trap attack rolls",
+        "trap save DC"
+      ]
+    },
+    {
+      "id": "guild_poisoner_sneak_attack_ex",
+      "title": "Sneak Attack ([Ex](https://www.d20pfsrd.com/magic#TOC-Extraordinary-Abilities-Ex-)) (Guild Poisoner)",
+      "anchor_heading": "#### Sneak Attack ([Ex](https://www.d20pfsrd.com/magic#TOC-Extraordinary-Abilities-Ex-)) {#sneak_attack_ex}",
+      "description": "Functions like rogue sneak attack, dealing extra damage to flanked or flat-footed opponents, scaling with level.",
+      "keywords": [
+        "sneak attack",
+        "rogue sneak attack",
+        "extra damage",
+        "flanked",
+        "flat-footed",
+        "sneak attack damage stack"
+      ]
+    },
+    {
+      "id": "guild_poisoner_treacherous_toxin_ex",
+      "title": "Treacherous Toxin ([Ex](https://www.d20pfsrd.com/magic#TOC-Extraordinary-Abilities-Ex-)) (Guild Poisoner)",
+      "anchor_heading": "#### Treacherous Toxin ([Ex](https://www.d20pfsrd.com/magic#TOC-Extraordinary-Abilities-Ex-)) {#treacherous_toxin_ex}",
+      "description": "Allows trading sneak attack damage dice to increase the save DC of poison on a sneak attack.",
+      "keywords": [
+        "treacherous toxin",
+        "sneak attack poison",
+        "forgo sneak attack",
+        "poison save DC",
+        "poisoned weapon sneak attack"
+      ]
+    },
+    {
+      "id": "guild_poisoner_swift_poisoning_ex",
+      "title": "Swift Poisoning ([Ex](https://www.d20pfsrd.com/magic#TOC-Extraordinary-Abilities-Ex-)) (Guild Poisoner)",
+      "anchor_heading": "#### Swift Poisoning ([Ex](https://www.d20pfsrd.com/magic#TOC-Extraordinary-Abilities-Ex-)) {#swift_poisoning_ex}",
+      "description": "Allows drawing and applying poison to a weapon as a swift action without provoking attacks of opportunity.",
+      "keywords": [
+        "swift poisoning",
+        "swift action poison",
+        "draw poison",
+        "apply poison",
+        "no attacks of opportunity",
+        "free hand"
+      ]
+    },
+    {
+      "id": "guild_poisoner_instantaneous_toxicology_ex",
+      "title": "Instantaneous Toxicology ([Ex](https://www.d20pfsrd.com/magic#TOC-Extraordinary-Abilities-Ex-)) (Guild Poisoner)",
+      "anchor_heading": "#### Instantaneous Toxicology ([Ex](https://www.d20pfsrd.com/magic#TOC-Extraordinary-Abilities-Ex-)) {#instantaneous_toxicology_ex}",
+      "description": "Enables creating poisons as a full-round action that last temporarily, or unstable toxins at reduced cost that expire quickly.",
+      "keywords": [
+        "instantaneous toxicology",
+        "full-round action poison",
+        "craft poison",
+        "unstable toxin",
+        "temporary poison",
+        "poison creation cost",
+        "losing potency"
+      ]
+    }
+  ]
+}

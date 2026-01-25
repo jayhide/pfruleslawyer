@@ -1,0 +1,191 @@
+{
+  "file": "souldrinker-pzo9239.md",
+  "source_path": "https://www.d20pfsrd.com/classes/prestige-classes/other-paizo/s-z/souldrinker-pzo9239/",
+  "source_name": "Prestige Class: Souldrinker (PZO9239)",
+  "category": "Classes",
+  "toc_content": "Contents\n* [Requirements](#requirements)\n* [Class Skills](#class_skills)\n* [Class Features](#class_features)\n  + [Weapon and Armor Proficiencies](#weapon_and_armor_proficiencies)\n  + [Spells per Day/Spells Known](#spells_per_dayspells_known)\n  + [Cacodaemon Familiar (Ex)](#cacodaemon_familiar_ex)\n  + [Daemonic Patron (Ex)](#daemonic_patron_ex)\n  + [Damned (Ex)](#damned_ex)\n  + [Energy Drain (Sp)](#energy_drain_sp)\n  + [Soul Pool (Su)](#soul_pool_su)\n  + [Summon Cacodaemon (Sp)](#summon_cacodaemon_sp)\n  + [Lesser Oblivion (Su)](#lesser_oblivion_su)\n  + [Oblivion (Sp)](#oblivion_sp)\n  + [Greater Oblivion (Sp)](#greater_oblivion_sp)",
+  "sections": [
+    {
+      "id": "souldrinker_pzo9239_overview",
+      "title": "Souldrinker (PZO9239) (Class Overview)",
+      "anchor_heading": "# Souldrinker (PZO9239)",
+      "end_at_heading": "### Requirements {#requirements}",
+      "description": "Overview of the Souldrinker (PZO9239) class including role, alignment, hit die, and starting wealth.",
+      "keywords": [
+        "souldrinker (pzo9239)",
+        "class",
+        "hit die",
+        "role",
+        "alignment"
+      ]
+    },
+    {
+      "id": "souldrinker_pzo9239_weapon_and_armor_proficiencies",
+      "title": "Weapon and Armor Proficiencies (Souldrinker (PZO9239))",
+      "anchor_heading": "#### Weapon and Armor Proficiencies {#weapon_and_armor_proficiencies}",
+      "description": "Souldrinkers gain proficiency only with their daemonic patron's favored weapon and no armor proficiencies.",
+      "keywords": [
+        "weapon proficiency",
+        "armor proficiency",
+        "daemonic patron favored weapon",
+        "souldrinker proficiencies",
+        "limited proficiencies"
+      ]
+    },
+    {
+      "id": "souldrinker_pzo9239_spells_per_dayspells_known",
+      "title": "Spells per Day/Spells Known (Souldrinker (PZO9239))",
+      "anchor_heading": "#### Spells per Day/Spells Known {#spells_per_dayspells_known}",
+      "description": "At indicated levels, souldrinker advances spellcasting in a previous class, gaining spells per day, spells known, and increased caster level but no other class benefits.",
+      "keywords": [
+        "spells per day",
+        "spells known",
+        "spellcasting progression",
+        "prestige class spellcasting",
+        "effective caster level",
+        "spontaneous spellcaster"
+      ]
+    },
+    {
+      "id": "souldrinker_pzo9239_cacodaemon_familiar_ex",
+      "title": "Cacodaemon Familiar (Ex) (Souldrinker (PZO9239))",
+      "anchor_heading": "#### Cacodaemon Familiar (Ex) {#cacodaemon_familiar_ex}",
+      "description": "At 1st level, the souldrinker gains a cacodaemon familiar as if having Improved Familiar feat, which devours any existing familiar without penalty.",
+      "keywords": [
+        "cacodaemon familiar",
+        "improved familiar",
+        "familiar replacement",
+        "cacodaemon soul gems",
+        "evil outsider",
+        "daemon familiar"
+      ]
+    },
+    {
+      "id": "souldrinker_pzo9239_daemonic_patron_ex",
+      "title": "Daemonic Patron (Ex) (Souldrinker (PZO9239))",
+      "anchor_heading": "#### Daemonic Patron (Ex) {#daemonic_patron_ex}",
+      "description": "At 1st level, souldrinker must choose one of the Four Horsemen as patron, a permanent choice that affects later abilities.",
+      "keywords": [
+        "daemonic patron",
+        "four horsemen",
+        "Apollyon",
+        "Charon",
+        "Szuriel",
+        "Trelmarixian",
+        "horseman patron",
+        "permanent choice"
+      ]
+    },
+    {
+      "id": "souldrinker_pzo9239_damned_ex",
+      "title": "Damned (Ex) (Souldrinker (PZO9239))",
+      "anchor_heading": "#### Damned (Ex) {#damned_ex}",
+      "description": "When a souldrinker dies, her patron claims her soul, making resurrection require a caster level check (DC 10 + souldrinker level) or fail.",
+      "keywords": [
+        "damned",
+        "resurrection difficulty",
+        "caster level check",
+        "soul claimed",
+        "patron claims soul",
+        "resurrection failure"
+      ]
+    },
+    {
+      "id": "souldrinker_pzo9239_energy_drain_sp",
+      "title": "Energy Drain (Sp) (Souldrinker (PZO9239))",
+      "anchor_heading": "#### Energy Drain (Sp) {#energy_drain_sp}",
+      "description": "Touch attack as standard action that bestows negative levels (1 at 2nd level, 2 at 6th level), granting temporary hit points and scaling with critical hits.",
+      "keywords": [
+        "energy drain",
+        "negative levels",
+        "touch attack",
+        "temporary hit points",
+        "standard action",
+        "critical hit scaling",
+        "bestow negative levels"
+      ]
+    },
+    {
+      "id": "souldrinker_pzo9239_soul_pool_su",
+      "title": "Soul Pool (Su) (Souldrinker (PZO9239))",
+      "anchor_heading": "#### Soul Pool (Su) {#soul_pool_su}",
+      "description": "Pool of soul points gained from energy drain on qualifying targets, usable for item creation, staff recharge, spell slot recovery, and familiar replacement.",
+      "keywords": [
+        "soul pool",
+        "soul points",
+        "item creation",
+        "staff recharge",
+        "recover spell slot",
+        "replace familiar",
+        "basic soul",
+        "animal spirit",
+        "full-round action"
+      ]
+    },
+    {
+      "id": "souldrinker_pzo9239_summon_cacodaemon_sp",
+      "title": "Summon Cacodaemon (Sp) (Souldrinker (PZO9239))",
+      "anchor_heading": "#### Summon Cacodaemon (Sp) {#summon_cacodaemon_sp}",
+      "description": "Once per day, summon 1d3 cacodaemons for 1 minute per class level, functioning as greater summon cacodaemon.",
+      "keywords": [
+        "summon cacodaemon",
+        "greater summon cacodaemon",
+        "1d3 cacodaemons",
+        "once per day",
+        "minute per level"
+      ]
+    },
+    {
+      "id": "souldrinker_pzo9239_lesser_oblivion_su",
+      "title": "Lesser Oblivion (Su) (Souldrinker (PZO9239))",
+      "anchor_heading": "#### Lesser Oblivion (Su) {#lesser_oblivion_su}",
+      "description": "At 4th level, gain immunity based on patron: diseases (Pestilence), aging/ability penalties (Death), bleed/Strength penalties (War), or poisons/hunger (Famine).",
+      "keywords": [
+        "lesser oblivion",
+        "patron immunity",
+        "disease immunity",
+        "aging immunity",
+        "bleed immunity",
+        "poison immunity",
+        "ability score penalties",
+        "horseman abilities"
+      ]
+    },
+    {
+      "id": "souldrinker_pzo9239_oblivion_sp",
+      "title": "Oblivion (Sp) (Souldrinker (PZO9239))",
+      "anchor_heading": "#### Oblivion (Sp) {#oblivion_sp}",
+      "description": "At 7th level, gain at-will spell-like ability costing 1 soul point per use, varying by patron (contagion, vampiric touch, rage, or bestow curse).",
+      "keywords": [
+        "oblivion",
+        "spell-like ability",
+        "soul point cost",
+        "at will",
+        "contagion",
+        "vampiric touch",
+        "rage",
+        "bestow curse",
+        "summon ceustodaemon"
+      ]
+    },
+    {
+      "id": "souldrinker_pzo9239_greater_oblivion_sp",
+      "title": "Greater Oblivion (Sp) (Souldrinker (PZO9239))",
+      "anchor_heading": "#### Greater Oblivion (Sp) {#greater_oblivion_sp}",
+      "description": "At 10th level, gain powerful at-will spell-like abilities costing 3 soul points per use, including creeping doom, fast healing 10, enhanced weapon bonding, or horrid wilting.",
+      "keywords": [
+        "greater oblivion",
+        "3 soul points",
+        "creeping doom",
+        "fast healing 10",
+        "greater magic weapon",
+        "horrid wilting",
+        "weapon properties",
+        "mighty cleaving",
+        "unholy",
+        "vicious",
+        "wounding"
+      ]
+    }
+  ]
+}

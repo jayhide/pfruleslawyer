@@ -1,0 +1,137 @@
+{
+  "file": "furious-guardian.md",
+  "source_path": "https://www.d20pfsrd.com/classes/prestige-classes/other-paizo/e-h/furious-guardian/",
+  "source_name": "Prestige Class: Furious Guardian",
+  "category": "Classes",
+  "toc_content": "Contents\n* [Requirements](#requirements)\n* [Class Skills](#class_skills)\n* [Class Features](#class_features)\n  + [Chosen Ally (Ex)](#chosen_ally_ex)\n  + [Guard Dedications](#guard_dedications)\n  + [Rage (Ex)](#rage_ex)\n  + [Guarded Thoughts (Ex)](#guarded_thoughts_ex)\n  + [Adaptable Guardian (Ex)](#adaptable_guardian_ex)\n  + [Tight Follower (Ex)](#tight_follower_ex)\n  + [Reactive Strike (Ex)](#reactive_strike_ex)\n  + [Unbreakable Defender (Ex)](#unbreakable_defender_ex)",
+  "sections": [
+    {
+      "id": "furious_guardian_overview",
+      "title": "Furious Guardian (Class Overview)",
+      "anchor_heading": "# Furious Guardian",
+      "end_at_heading": "### Requirements {#requirements}",
+      "description": "Overview of the Furious Guardian class including role, alignment, hit die, and starting wealth.",
+      "keywords": [
+        "furious guardian",
+        "class",
+        "hit die",
+        "role",
+        "alignment"
+      ]
+    },
+    {
+      "id": "furious_guardian_chosen_ally_ex",
+      "title": "Chosen Ally (Ex) (Furious Guardian)",
+      "anchor_heading": "#### Chosen Ally (Ex) {#chosen_ally_ex}",
+      "description": "When entering rage, designate an ally as a free action and grant them AC and Reflex save bonuses while adjacent by taking an AC penalty. The bonus scales at 5th and 10th level.",
+      "keywords": [
+        "chosen ally",
+        "designate ally",
+        "free action rage",
+        "AC penalty dodge bonus",
+        "adjacent ally bonus",
+        "Reflex save bonus",
+        "rage ally selection"
+      ]
+    },
+    {
+      "id": "furious_guardian_guard_dedications",
+      "title": "Guard Dedications (Furious Guardian)",
+      "anchor_heading": "#### Guard Dedications {#guard_dedications}",
+      "description": "Selectable specializations gained at 1st level and every 2 levels thereafter, providing various combat, defensive, and tactical abilities. Includes options like Alert Guardian, Formal Training, Rage Power, and Teamwork.",
+      "keywords": [
+        "guard dedications",
+        "Alert Guardian immediate action rage",
+        "Clothed in Civilization heavy armor",
+        "Curiosity Diplomacy bonus",
+        "Deflect Arrows chosen ally",
+        "Formal Training fighter feats",
+        "Greater Rage dedication",
+        "Rage Power dedication",
+        "Teamwork feat rage",
+        "Uncanny Dodge dedication"
+      ]
+    },
+    {
+      "id": "furious_guardian_rage_ex",
+      "title": "Rage (Ex) (Furious Guardian)",
+      "anchor_heading": "#### Rage (Ex) {#rage_ex}",
+      "description": "Functions as the barbarian rage ability, with class levels stacking with other rage-granting classes for determining rage powers and daily rounds. Focused on defending allies in combat.",
+      "keywords": [
+        "furious guardian rage",
+        "rage stacking levels",
+        "barbarian rage",
+        "rage powers stacking",
+        "rage rounds per day",
+        "class level stacking"
+      ]
+    },
+    {
+      "id": "furious_guardian_guarded_thoughts_ex",
+      "title": "Guarded Thoughts (Ex) (Furious Guardian)",
+      "anchor_heading": "#### Guarded Thoughts (Ex) {#guarded_thoughts_ex}",
+      "description": "Provides an additional saving throw with +5 circumstance bonus against charm or compulsion effects that would force attacking the chosen ally. Usable once per effect.",
+      "keywords": [
+        "guarded thoughts",
+        "charm compulsion save",
+        "additional save chosen ally",
+        "circumstance bonus mental effects",
+        "attack ally compulsion",
+        "once per effect save"
+      ]
+    },
+    {
+      "id": "furious_guardian_adaptable_guardian_ex",
+      "title": "Adaptable Guardian (Ex) (Furious Guardian)",
+      "anchor_heading": "#### Adaptable Guardian (Ex) {#adaptable_guardian_ex}",
+      "description": "Allows changing the chosen ally during rage as a move action at 4th level, improving to a swift action at 8th level.",
+      "keywords": [
+        "adaptable guardian",
+        "change chosen ally",
+        "move action ally change",
+        "swift action ally change",
+        "rage ally switching"
+      ]
+    },
+    {
+      "id": "furious_guardian_tight_follower_ex",
+      "title": "Tight Follower (Ex) (Furious Guardian)",
+      "anchor_heading": "#### Tight Follower (Ex) {#tight_follower_ex}",
+      "description": "When the chosen ally moves more than 10 feet away, move up to your speed as an immediate action to stay within 10 feet of them.",
+      "keywords": [
+        "tight follower",
+        "immediate action movement",
+        "chosen ally distance",
+        "10 feet movement",
+        "follow ally movement"
+      ]
+    },
+    {
+      "id": "furious_guardian_reactive_strike_ex",
+      "title": "Reactive Strike (Ex) (Furious Guardian)",
+      "anchor_heading": "#### Reactive Strike (Ex) {#reactive_strike_ex}",
+      "description": "Make an attack of opportunity against enemies that move adjacent to or attack your chosen ally. Limited to one reactive strike per creature per round.",
+      "keywords": [
+        "reactive strike",
+        "attack of opportunity chosen ally",
+        "ally defender attack",
+        "once per creature per round",
+        "adjacent ally attacker"
+      ]
+    },
+    {
+      "id": "furious_guardian_unbreakable_defender_ex",
+      "title": "Unbreakable Defender (Ex) (Furious Guardian)",
+      "anchor_heading": "#### Unbreakable Defender (Ex) {#unbreakable_defender_ex}",
+      "description": "While within 10 feet of chosen ally, gain Die Hard feat benefits and no longer become fatigued when rage ends.",
+      "keywords": [
+        "unbreakable defender",
+        "Die Hard feat",
+        "no rage fatigue",
+        "10 feet chosen ally",
+        "rage fatigue immunity",
+        "Die Hard benefits"
+      ]
+    }
+  ]
+}

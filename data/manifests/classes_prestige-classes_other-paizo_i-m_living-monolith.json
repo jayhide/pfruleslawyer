@@ -1,0 +1,256 @@
+{
+  "file": "living-monolith.md",
+  "source_path": "https://www.d20pfsrd.com/classes/prestige-classes/other-paizo/i-m/living-monolith/",
+  "source_name": "Prestige Class: Living Monolith",
+  "category": "Classes",
+  "toc_content": "",
+  "sections": [
+    {
+      "id": "living_monolith_overview",
+      "title": "Living Monolith (Class Overview)",
+      "anchor_heading": "# Living Monolith",
+      "end_at_heading": "### Requirements",
+      "description": "Overview of the Living Monolith class including role, alignment, hit die, and starting wealth.",
+      "keywords": [
+        "living monolith",
+        "class",
+        "hit die",
+        "role",
+        "alignment"
+      ]
+    },
+    {
+      "id": "living_monolith_weapon_and_armor_proficiency",
+      "title": "Weapon and Armor Proficiency (Living Monolith)",
+      "anchor_heading": "#### Weapon and Armor Proficiency",
+      "description": "A living monolith gains no additional weapon or armor proficiencies beyond those from previous classes.",
+      "keywords": [
+        "weapon proficiency",
+        "armor proficiency",
+        "no additional proficiencies",
+        "living monolith proficiencies"
+      ]
+    },
+    {
+      "id": "living_monolith_soul_stone_su",
+      "title": "Soul Stone (Su) (Living Monolith)",
+      "anchor_heading": "#### Soul Stone (Su)",
+      "description": "A stone scarab embedded in the forehead that grants +2 saves against death effects, mind-affecting effects, and negative levels, plus 3/day swift action enlarge person ability.",
+      "keywords": [
+        "soul stone",
+        "stone scarab",
+        "forehead scarab",
+        "death effects save",
+        "mind-affecting save",
+        "negative levels save",
+        "swift action enlarge person",
+        "ib stone",
+        "ka stone",
+        "3 times per day"
+      ]
+    },
+    {
+      "id": "living_monolith_ib_stone_su",
+      "title": "Ib Stone (Su) (Living Monolith)",
+      "anchor_heading": "#### Ib Stone (Su)",
+      "description": "Advances spellcasting from a previous class, gaining spells per day and spells known as if gaining a level in that class.",
+      "keywords": [
+        "ib stone",
+        "spellcasting progression",
+        "spells per day",
+        "spells known",
+        "effective caster level",
+        "spontaneous spellcaster",
+        "spellcasting class"
+      ]
+    },
+    {
+      "id": "living_monolith_ka_stone_su",
+      "title": "Ka Stone (Su) (Living Monolith)",
+      "anchor_heading": "#### Ka Stone (Su)",
+      "description": "Grants Toughness as a bonus feat and full base attack bonus from living monolith levels when enlarged.",
+      "keywords": [
+        "ka stone",
+        "Toughness bonus feat",
+        "base attack bonus",
+        "full BAB when enlarged",
+        "living monolith BAB"
+      ]
+    },
+    {
+      "id": "living_monolith_stone_blood_ex",
+      "title": "Stone Blood (Ex) (Living Monolith)",
+      "anchor_heading": "#### Stone Blood (Ex)",
+      "description": "Automatically stabilizes at negative hit points and becomes immune to bleed effects and blood drain ability damage.",
+      "keywords": [
+        "stone blood",
+        "automatic stabilization",
+        "negative hit points",
+        "bleed immunity",
+        "blood drain immunity",
+        "wounding immunity",
+        "ability damage immunity"
+      ]
+    },
+    {
+      "id": "living_monolith_fortified_flesh_ex",
+      "title": "Fortified Flesh (Ex) (Living Monolith)",
+      "anchor_heading": "#### Fortified Flesh (Ex)",
+      "description": "Flesh hardens like stone, providing scaling damage reduction, fortification against critical hits and sneak attacks, and disease immunity at 5th level.",
+      "keywords": [
+        "fortified flesh",
+        "damage reduction",
+        "DR",
+        "fortification",
+        "critical hit immunity",
+        "sneak attack immunity",
+        "disease immunity",
+        "hardness",
+        "stone flesh"
+      ]
+    },
+    {
+      "id": "living_monolith_stability_ex",
+      "title": "Stability (Ex) (Living Monolith)",
+      "anchor_heading": "#### Stability (Ex)",
+      "description": "Grants a +4 bonus to CMD against bull rush and trip attempts while standing on the ground.",
+      "keywords": [
+        "stability",
+        "CMD bonus",
+        "bull rush resistance",
+        "trip resistance",
+        "standing on ground",
+        "combat maneuver defense"
+      ]
+    },
+    {
+      "id": "living_monolith_tombsight_su",
+      "title": "Tombsight (Su) (Living Monolith)",
+      "anchor_heading": "#### Tombsight (Su)",
+      "description": "Perceives life and death balance in creatures as if using deathwatch and detect undead simultaneously at will with concentration.",
+      "keywords": [
+        "tombsight",
+        "deathwatch",
+        "detect undead",
+        "at will",
+        "concentration",
+        "life and death",
+        "perceive undead"
+      ]
+    },
+    {
+      "id": "living_monolith_greater_ka_stone_su",
+      "title": "Greater Ka Stone (Su) (Living Monolith)",
+      "anchor_heading": "#### Greater Ka Stone (Su)",
+      "description": "Ka stone enhancement now provides righteous might instead of enlarge person when invoked.",
+      "keywords": [
+        "greater ka stone",
+        "righteous might",
+        "enlarge person upgrade",
+        "alignment-based DR",
+        "neutral alignment choice"
+      ]
+    },
+    {
+      "id": "living_monolith_attunement_to_stone_sp",
+      "title": "Attunement to Stone (Sp) (Living Monolith)",
+      "anchor_heading": "#### Attunement to Stone (Sp)",
+      "description": "Can use meld into stone at will as a spell-like ability.",
+      "keywords": [
+        "attunement to stone",
+        "meld into stone",
+        "at will",
+        "spell-like ability",
+        "stone melding"
+      ]
+    },
+    {
+      "id": "living_monolith_summon_sphinx_sp",
+      "title": "Summon Sphinx (Sp) (Living Monolith)",
+      "anchor_heading": "#### Summon Sphinx (Sp)",
+      "description": "Can call a sphinx once per day as planar ally, with greater planar ally at 9th level, and gains +4 Diplomacy bonus with sphinxes.",
+      "keywords": [
+        "summon sphinx",
+        "planar ally",
+        "greater planar ally",
+        "sphinx bargaining",
+        "Diplomacy bonus",
+        "once per day",
+        "sphinx services"
+      ]
+    },
+    {
+      "id": "living_monolith_communion_with_stone_su",
+      "title": "Communion with Stone (Su) (Living Monolith)",
+      "anchor_heading": "#### Communion with Stone (Su)",
+      "description": "Gains tremorsense 30 feet, can use stone tell once per day, and learns Terran as a bonus language.",
+      "keywords": [
+        "communion with stone",
+        "tremorsense",
+        "stone tell",
+        "Terran language",
+        "bonus language",
+        "earth communion",
+        "30 feet tremorsense"
+      ]
+    },
+    {
+      "id": "living_monolith_assumption_of_stone_sp",
+      "title": "Assumption of Stone (Sp) (Living Monolith)",
+      "anchor_heading": "#### Assumption of Stone (Sp)",
+      "description": "Can use statue as a personal-range spell-like ability at will and becomes immune to petrification.",
+      "keywords": [
+        "assumption of stone",
+        "statue spell",
+        "at will",
+        "personal range",
+        "petrification immunity",
+        "spell-like ability"
+      ]
+    },
+    {
+      "id": "living_monolith_ageless_stone_ex",
+      "title": "Ageless Stone (Ex) (Living Monolith)",
+      "anchor_heading": "#### Ageless Stone (Ex)",
+      "description": "Becomes immortal by ceasing to age and gaining immunity to energy drain and death effects.",
+      "keywords": [
+        "ageless stone",
+        "immortal",
+        "cease aging",
+        "energy drain immunity",
+        "death effects immunity",
+        "no aging"
+      ]
+    },
+    {
+      "id": "living_monolith_judgment_of_the_monolith_sp",
+      "title": "Judgment of the Monolith (Sp) (Living Monolith)",
+      "anchor_heading": "#### Judgment of the Monolith (Sp)",
+      "description": "Can perform ritual inquisition once per day, functioning as speak with dead on corpses, mark of justice on living creatures, or contact other plane.",
+      "keywords": [
+        "judgment of the monolith",
+        "ritual inquisition",
+        "speak with dead",
+        "mark of justice",
+        "contact other plane",
+        "divine authority",
+        "truthful answers",
+        "once per day"
+      ]
+    },
+    {
+      "id": "living_monolith_master_ka_stone_su",
+      "title": "Master Ka Stone (Su) (Living Monolith)",
+      "anchor_heading": "#### Master Ka Stone (Su)",
+      "description": "When using ka stone to enlarge, regains hit points as if resting for a night without other rest benefits.",
+      "keywords": [
+        "master ka stone",
+        "hit point recovery",
+        "night rest healing",
+        "enlarge healing",
+        "no temporary ability damage",
+        "no rest benefits"
+      ]
+    }
+  ]
+}

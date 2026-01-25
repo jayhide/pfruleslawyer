@@ -1,0 +1,172 @@
+{
+  "file": "divine-scion.md",
+  "source_path": "https://www.d20pfsrd.com/classes/prestige-classes/other-paizo/c-d/divine-scion/",
+  "source_name": "Prestige Class: Divine Scion",
+  "category": "Classes",
+  "toc_content": "Contents\n* [Requirements](#requirements)\n* [Class Skills](#class_skills)\n* [Class Features](#class_features)\n  + [Weapon and Armor Proficiency](#weapon_and_armor_proficiency)\n  + [Opposition Alignment (Ex)](#opposition_alignment_ex)\n  + [Domain Specialization (Su)](#domain_specialization_su)\n  + [Divine Wrath (Su)](#divine_wrath_su)\n  + [Deific Defense (Su)](#deific_defense_su)\n  + [Divine Awe (Su)](#divine_awe_su)\n  + [True Scion](#true_scion)",
+  "sections": [
+    {
+      "id": "divine_scion_overview",
+      "title": "Divine Scion (Class Overview)",
+      "anchor_heading": "# Divine Scion",
+      "end_at_heading": "### Requirements {#requirements}",
+      "description": "Overview of the Divine Scion class including role, alignment, hit die, and starting wealth.",
+      "keywords": [
+        "divine scion",
+        "class",
+        "hit die",
+        "role",
+        "alignment"
+      ]
+    },
+    {
+      "id": "divine_scion_weapon_and_armor_proficiency",
+      "title": "Weapon and Armor Proficiency (Divine Scion)",
+      "anchor_heading": "#### Weapon and Armor Proficiency {#weapon_and_armor_proficiency}",
+      "description": "Divine scions gain no additional weapon or armor proficiencies but can select Greater Weapon Focus, Weapon Specialization, and Greater Weapon Specialization feats without fighter level prerequisites. They also gain spell progression in their existing divine spellcasting class.",
+      "keywords": [
+        "weapon proficiency",
+        "armor proficiency",
+        "greater weapon focus",
+        "weapon specialization",
+        "greater weapon specialization",
+        "fighter prerequisites",
+        "spell progression",
+        "divine spellcasting",
+        "spells per day",
+        "prestige class spellcasting"
+      ]
+    },
+    {
+      "id": "divine_scion_opposition_alignment_ex",
+      "title": "Opposition Alignment (Ex) (Divine Scion)",
+      "anchor_heading": "#### Opposition Alignment (Ex) {#opposition_alignment_ex}",
+      "description": "The divine scion chooses an alignment subtype (chaotic, evil, good, or law) that opposes their own alignment and gains a +1 bonus on caster level checks to overcome spell resistance of creatures with that alignment.",
+      "keywords": [
+        "opposition alignment",
+        "alignment subtype",
+        "chaotic",
+        "evil",
+        "good",
+        "law",
+        "caster level checks",
+        "spell resistance",
+        "overcome spell resistance",
+        "alignment opposition"
+      ]
+    },
+    {
+      "id": "divine_scion_domain_specialization_su",
+      "title": "Domain Specialization (Su) (Divine Scion)",
+      "anchor_heading": "#### Domain Specialization (Su) {#domain_specialization_su}",
+      "description": "At 3rd level, the divine scion selects a domain from their deity and heals damage equal to twice the spell level whenever casting domain spells from that domain. Each domain grants a specific spell-like ability and permanent sacred/profane bonus.",
+      "keywords": [
+        "domain specialization",
+        "domain spells",
+        "healing from domain spells",
+        "spell-like ability",
+        "sacred bonus",
+        "profane bonus",
+        "domain selection",
+        "deity domain",
+        "air domain",
+        "animal domain",
+        "artifice domain",
+        "chaos domain",
+        "charm domain",
+        "community domain",
+        "darkness domain",
+        "death domain",
+        "destruction domain",
+        "earth domain",
+        "evil domain",
+        "fire domain",
+        "glory domain",
+        "good domain",
+        "healing domain",
+        "knowledge domain",
+        "law domain",
+        "liberation domain",
+        "luck domain",
+        "madness domain",
+        "magic domain",
+        "nobility domain",
+        "plant domain",
+        "protection domain",
+        "repose domain",
+        "rune domain",
+        "scalykind domain",
+        "strength domain",
+        "sun domain",
+        "travel domain",
+        "trickery domain",
+        "void domain",
+        "war domain",
+        "water domain",
+        "weather domain"
+      ]
+    },
+    {
+      "id": "divine_scion_divine_wrath_su",
+      "title": "Divine Wrath (Su) (Divine Scion)",
+      "anchor_heading": "#### Divine Wrath (Su) {#divine_wrath_su}",
+      "description": "At 4th level, the divine scion's damaging spells deal +1 point of damage per die against creatures with an alignment subtype matching their opposition alignment.",
+      "keywords": [
+        "divine wrath",
+        "damage per die",
+        "damaging spells",
+        "opposition alignment",
+        "bonus damage",
+        "alignment subtype",
+        "spell damage bonus"
+      ]
+    },
+    {
+      "id": "divine_scion_deific_defense_su",
+      "title": "Deific Defense (Su) (Divine Scion)",
+      "anchor_heading": "#### Deific Defense (Su) {#deific_defense_su}",
+      "description": "At 7th level, the divine scion gains DR 2, which is bypassed by attacks with the alignment subtype matching their opposition alignment.",
+      "keywords": [
+        "deific defense",
+        "damage reduction",
+        "DR 2",
+        "bypassed by alignment",
+        "opposition alignment",
+        "alignment subtype",
+        "DR bypass"
+      ]
+    },
+    {
+      "id": "divine_scion_divine_awe_su",
+      "title": "Divine Awe (Su) (Divine Scion)",
+      "anchor_heading": "#### Divine Awe (Su) {#divine_awe_su}",
+      "description": "At 8th level, creatures matching the divine scion's opposition alignment subtype become staggered for 1 round when they fail saves against the divine scion's spells.",
+      "keywords": [
+        "divine awe",
+        "staggered condition",
+        "failed save",
+        "opposition alignment",
+        "alignment subtype",
+        "spell save",
+        "stagger effect"
+      ]
+    },
+    {
+      "id": "divine_scion_true_scion",
+      "title": "True Scion (Divine Scion)",
+      "anchor_heading": "#### True Scion {#true_scion}",
+      "description": "At 10th level, the divine scion's domain specialization healing doubles, divine wrath increases to +2 damage per die, deific defense increases to DR 5, and they permanently gain +1 to Wisdom or Charisma.",
+      "keywords": [
+        "true scion",
+        "domain specialization healing doubled",
+        "divine wrath +2 damage",
+        "DR 5",
+        "deific defense increase",
+        "permanent ability score increase",
+        "wisdom increase",
+        "charisma increase",
+        "capstone ability"
+      ]
+    }
+  ]
+}

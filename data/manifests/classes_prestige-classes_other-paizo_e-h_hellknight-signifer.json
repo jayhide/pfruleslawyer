@@ -1,0 +1,208 @@
+{
+  "file": "hellknight-signifer.md",
+  "source_path": "https://www.d20pfsrd.com/classes/prestige-classes/other-paizo/e-h/hellknight-signifer/",
+  "source_name": "Prestige Class: Hell Knight Signifer",
+  "category": "Classes",
+  "toc_content": "Contents\n* [Requirements](#requirements)\n* [Class Skills](#class_skills)\n* [Class Features](#class_features)\n  + [Weapon and Armor Proficiency](#weapon_and_armor_proficiency)\n  + [Aura of Law (Ex)](#aura_of_law_ex)\n  + [Catechesis (Ex)](#catechesis_ex)\n  + [Order](#order)\n  + [Signifer Mask (Su)](#signifer_mask_su)\n  + [Arcane Armor Expertise](#arcane_armor_expertise)\n  + [Signifer Armor Training](#signifer_armor_training)\n  + [Assiduous Gaze](#assiduous_gaze)\n  + [Discern Lies (Sp)](#discern_lies_sp)\n  + [Infernal Resilience (Ex)](#infernal_resilience_ex)\n  + [Diabolic Harbinger (Su)](#diabolic_harbinger_su)",
+  "sections": [
+    {
+      "id": "hell_knight_signifer_overview",
+      "title": "Hell Knight Signifer (Class Overview)",
+      "anchor_heading": "# Hell Knight Signifer",
+      "end_at_heading": "### Requirements {#requirements}",
+      "description": "Overview of the Hell Knight Signifer class including role, alignment, hit die, and starting wealth.",
+      "keywords": [
+        "hell knight signifer",
+        "class",
+        "hit die",
+        "role",
+        "alignment"
+      ]
+    },
+    {
+      "id": "hell_knight_signifer_weapon_and_armor_proficiency",
+      "title": "Weapon and Armor Proficiency (Hell Knight Signifer)",
+      "anchor_heading": "#### Weapon and Armor Proficiency {#weapon_and_armor_proficiency}",
+      "description": "Grants proficiency with heavy armor and one favored weapon of the Hell Knight's chosen order.",
+      "keywords": [
+        "weapon proficiency",
+        "armor proficiency",
+        "heavy armor",
+        "Hell Knight signifer proficiency",
+        "order favored weapon",
+        "flail",
+        "dagger",
+        "morningstar",
+        "lance",
+        "halberd",
+        "glaive",
+        "longsword",
+        "whip",
+        "heavy mace"
+      ]
+    },
+    {
+      "id": "hell_knight_signifer_aura_of_law_ex",
+      "title": "Aura of Law ([Ex](https://www.d20pfsrd.com/magic#TOC-Extraordinary-Abilities-Ex-)) (Hell Knight Signifer)",
+      "anchor_heading": "#### Aura of Law ([Ex](https://www.d20pfsrd.com/magic#TOC-Extraordinary-Abilities-Ex-)) {#aura_of_law_ex}",
+      "description": "Creates an aura of law with power equal to the character's total level, detectable by detect law and similar effects.",
+      "keywords": [
+        "aura of law",
+        "detect law",
+        "lawful aura",
+        "Hell Knight signifer aura",
+        "character level aura",
+        "alignment aura"
+      ]
+    },
+    {
+      "id": "hell_knight_signifer_catechesis_ex",
+      "title": "Catechesis ([Ex](https://www.d20pfsrd.com/magic#TOC-Extraordinary-Abilities-Ex-)) (Hell Knight Signifer)",
+      "anchor_heading": "#### Catechesis ([Ex](https://www.d20pfsrd.com/magic#TOC-Extraordinary-Abilities-Ex-)) {#catechesis_ex}",
+      "description": "Allows Hell Knight signifer levels to stack with divine spellcasting classes for domain powers when having Warrior Priest feat, and grants Alignment Channel (chaos) as a bonus feat.",
+      "keywords": [
+        "catechesis",
+        "Warrior Priest",
+        "divine spellcasting",
+        "domain powers",
+        "inquisitions",
+        "mysteries",
+        "Alignment Channel",
+        "chaotic outsiders",
+        "channel energy",
+        "level stacking"
+      ]
+    },
+    {
+      "id": "hell_knight_signifer_order",
+      "title": "Order (Hell Knight Signifer)",
+      "anchor_heading": "#### Order {#order}",
+      "description": "The signifer chooses a Hell Knight order to join, which determines their favored weapon and organizational allegiance.",
+      "keywords": [
+        "Hell Knight order",
+        "Order of the Chain",
+        "Order of the Gate",
+        "Order of the GodClaw",
+        "Order of the Nail",
+        "Order of the Pyre",
+        "Order of the Rack",
+        "Order of the Scourge",
+        "Hell Knight orders",
+        "order selection"
+      ]
+    },
+    {
+      "id": "hell_knight_signifer_signifer_mask_su",
+      "title": "Signifer Mask (Su) (Hell Knight Signifer)",
+      "anchor_heading": "#### Signifer Mask (Su) {#signifer_mask_su}",
+      "description": "Provides a magical mask that grants bonuses to Sense Motive and saves against visual effects, and can be converted into an arcane bonded item.",
+      "keywords": [
+        "signifer mask",
+        "Sense Motive bonus",
+        "visual effects",
+        "competence bonus",
+        "arcane bond",
+        "bonded object",
+        "bonded item",
+        "head slot",
+        "ritual conversion"
+      ]
+    },
+    {
+      "id": "hell_knight_signifer_arcane_armor_expertise",
+      "title": "Arcane Armor Expertise (Hell Knight Signifer)",
+      "anchor_heading": "#### Arcane Armor Expertise {#arcane_armor_expertise}",
+      "description": "Grants Arcane Armor Mastery as a bonus feat and improves its action economy from swift to immediate action at higher levels.",
+      "keywords": [
+        "Arcane Armor Training",
+        "Arcane Armor Mastery",
+        "arcane armor expertise",
+        "swift action",
+        "immediate action",
+        "bonus feat",
+        "armor training"
+      ]
+    },
+    {
+      "id": "hell_knight_signifer_signifer_armor_training",
+      "title": "Signifer Armor Training (Hell Knight Signifer)",
+      "anchor_heading": "#### Signifer Armor Training {#signifer_armor_training}",
+      "description": "Reduces armor check penalty and arcane spell failure chance while wearing armor, and offsets speed reduction at higher levels.",
+      "keywords": [
+        "armor check penalty",
+        "arcane spell failure",
+        "signifer armor training",
+        "armor training",
+        "speed reduction",
+        "medium armor",
+        "heavy armor",
+        "spell failure chance"
+      ]
+    },
+    {
+      "id": "hell_knight_signifer_assiduous_gaze",
+      "title": "Assiduous Gaze (Hell Knight Signifer)",
+      "anchor_heading": "#### Assiduous Gaze {#assiduous_gaze}",
+      "description": "Grants supernatural gaze abilities that can analyze creatures, objects, or areas for magical properties, alignment, or hidden features.",
+      "keywords": [
+        "assiduous gaze",
+        "elucidation",
+        "morality",
+        "scrutiny",
+        "veracity",
+        "vigilance",
+        "swift action",
+        "signifer mask",
+        "detect spells",
+        "true seeing",
+        "spell-like abilities"
+      ]
+    },
+    {
+      "id": "hell_knight_signifer_discern_lies_sp",
+      "title": "Discern Lies (Sp) (Hell Knight Signifer)",
+      "anchor_heading": "#### Discern Lies (Sp) {#discern_lies_sp}",
+      "description": "Grants the ability to use discern lies as a spell-like ability multiple times per day based on Charisma modifier.",
+      "keywords": [
+        "discern lies",
+        "spell-like ability",
+        "Charisma modifier",
+        "lie detection",
+        "truth detection",
+        "caster level"
+      ]
+    },
+    {
+      "id": "hell_knight_signifer_infernal_resilience_ex",
+      "title": "Infernal Resilience ([Ex](https://www.d20pfsrd.com/magic#TOC-Extraordinary-Abilities-Ex-)) (Hell Knight Signifer)",
+      "anchor_heading": "#### Infernal Resilience ([Ex](https://www.d20pfsrd.com/magic#TOC-Extraordinary-Abilities-Ex-)) {#infernal_resilience_ex}",
+      "description": "Provides damage reduction against chaotic attacks and complete immunity to poison effects.",
+      "keywords": [
+        "infernal resilience",
+        "damage reduction",
+        "DR 5/chaotic",
+        "poison immunity",
+        "chaotic damage",
+        "Hell Knight signifer defenses"
+      ]
+    },
+    {
+      "id": "hell_knight_signifer_diabolic_harbinger_su",
+      "title": "Diabolic Harbinger (Su) (Hell Knight Signifer)",
+      "anchor_heading": "#### Diabolic Harbinger (Su) {#diabolic_harbinger_su}",
+      "description": "Grants telepathy, perfect darkvision, immunity to visual impairments, and bonuses when interacting with lawful creatures while wearing the signifer mask.",
+      "keywords": [
+        "diabolic harbinger",
+        "telepathy",
+        "darkvision",
+        "magical darkness",
+        "blindness immunity",
+        "dazzling immunity",
+        "signifer mask",
+        "Charisma checks",
+        "lawful creatures",
+        "lawful outsiders"
+      ]
+    }
+  ]
+}

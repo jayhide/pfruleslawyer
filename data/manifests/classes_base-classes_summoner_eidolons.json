@@ -1,0 +1,520 @@
+{
+  "file": "eidolons.md",
+  "source_path": "https://www.d20pfsrd.com/classes/base-classes/summoner/eidolons/",
+  "sections": [
+    {
+      "id": "eidolon_statistics_table",
+      "title": "Eidolon Base Statistics and Progression",
+      "anchor_heading": "# Eidolons",
+      "description": "Core eidolon statistics table showing progression by summoner level, plus explanations of each column including class level, HD, BAB, saves, skills, feats, armor bonus, ability bonuses, evolution pool, and max attacks",
+      "keywords": [
+        "eidolon",
+        "base statistics",
+        "evolution pool",
+        "hit dice",
+        "base attack bonus",
+        "armor bonus"
+      ]
+    },
+    {
+      "id": "eidolon_special_abilities",
+      "title": "Eidolon Special Abilities",
+      "anchor_heading": "#### Special",
+      "description": "All special abilities gained by eidolons as they level up, including darkvision, link, share spells, evasion, ability score increases, devotion, multiattack, and improved evasion",
+      "keywords": [
+        "darkvision",
+        "link",
+        "share spells",
+        "evasion",
+        "devotion",
+        "multiattack",
+        "improved evasion"
+      ]
+    },
+    {
+      "id": "eidolon_base_forms",
+      "title": "Eidolon Base Forms",
+      "anchor_heading": "## Eidolon Base Forms",
+      "description": "Overview of eidolon base forms and how they determine starting size, speed, AC, attacks, and ability scores, including rules for Small eidolons",
+      "keywords": [
+        "base form",
+        "starting statistics",
+        "natural attacks",
+        "size modifier",
+        "small eidolon"
+      ]
+    },
+    {
+      "id": "aquatic_base_form",
+      "title": "Aquatic Base Form",
+      "anchor_heading": "#### Aquatic",
+      "description": "Statistics and free evolutions for the aquatic base form eidolon",
+      "keywords": [
+        "aquatic",
+        "swim speed",
+        "gills",
+        "bite attack"
+      ]
+    },
+    {
+      "id": "avian_base_form",
+      "title": "Avian Base Form",
+      "anchor_heading": "#### Avian",
+      "description": "Statistics and free evolutions for the avian base form eidolon",
+      "keywords": [
+        "avian",
+        "flight",
+        "claws",
+        "fly speed"
+      ]
+    },
+    {
+      "id": "biped_base_form",
+      "title": "Biped Base Form",
+      "anchor_heading": "#### Biped",
+      "description": "Statistics and free evolutions for the biped base form eidolon",
+      "keywords": [
+        "biped",
+        "humanoid",
+        "claws",
+        "limbs"
+      ]
+    },
+    {
+      "id": "quadruped_base_form",
+      "title": "Quadruped Base Form",
+      "anchor_heading": "#### Quadruped",
+      "description": "Statistics and free evolutions for the quadruped base form eidolon",
+      "keywords": [
+        "quadruped",
+        "four legs",
+        "bite attack",
+        "animal-like"
+      ]
+    },
+    {
+      "id": "serpentine_base_form",
+      "title": "Serpentine Base Form",
+      "anchor_heading": "#### Serpentine",
+      "description": "Statistics and free evolutions for the serpentine base form eidolon",
+      "keywords": [
+        "serpentine",
+        "snake-like",
+        "climb",
+        "tail slap",
+        "reach"
+      ]
+    },
+    {
+      "id": "tauric_base_form",
+      "title": "Tauric Base Form",
+      "anchor_heading": "#### Tauric",
+      "description": "Statistics and free evolutions for the tauric base form eidolon",
+      "keywords": [
+        "tauric",
+        "centaur",
+        "humanoid torso",
+        "quadruped body"
+      ]
+    },
+    {
+      "id": "evolutions_overview",
+      "title": "Evolutions System Overview",
+      "anchor_heading": "## Evolutions",
+      "description": "How evolutions work, including evolution points, natural attacks, primary vs secondary attacks, and how evolutions are organized by point cost",
+      "keywords": [
+        "evolution",
+        "evolution points",
+        "natural attacks",
+        "primary attack",
+        "secondary attack"
+      ]
+    },
+    {
+      "id": "one_point_evolutions",
+      "title": "1-Point Evolutions",
+      "anchor_heading": "### 1-Point Evolutions",
+      "description": "All evolutions that cost 1 evolution point, including basic magic, bite, claws, climb, improved natural armor, resistance, scent, and many others",
+      "keywords": [
+        "1-point evolution",
+        "basic magic",
+        "bite",
+        "claws",
+        "climb",
+        "resistance",
+        "scent",
+        "skilled",
+        "swim"
+      ]
+    },
+    {
+      "id": "two_point_evolutions",
+      "title": "2-Point Evolutions",
+      "anchor_heading": "### 2-Point Evolutions",
+      "description": "All evolutions that cost 2 evolution points, including ability increase, energy attacks, flight, grab, immunity, limbs, and others",
+      "keywords": [
+        "2-point evolution",
+        "ability increase",
+        "energy attacks",
+        "flight",
+        "grab",
+        "immunity",
+        "limbs",
+        "poison"
+      ]
+    },
+    {
+      "id": "three_point_evolutions",
+      "title": "3-Point Evolutions",
+      "anchor_heading": "### 3-Point Evolutions",
+      "description": "All evolutions that cost 3 evolution points, including blindsense, burrow, damage reduction, frightful presence, and swallow whole",
+      "keywords": [
+        "3-point evolution",
+        "blindsense",
+        "burrow",
+        "damage reduction",
+        "frightful presence",
+        "swallow whole"
+      ]
+    },
+    {
+      "id": "four_point_evolutions",
+      "title": "4-Point Evolutions",
+      "anchor_heading": "### 4-Point Evolutions",
+      "description": "All evolutions that cost 4 evolution points, including blindsight, breath weapon, fast healing, large size, and spell resistance",
+      "keywords": [
+        "4-point evolution",
+        "blindsight",
+        "breath weapon",
+        "fast healing",
+        "large",
+        "spell resistance"
+      ]
+    },
+    {
+      "id": "eidolon_models_overview",
+      "title": "Eidolon Models Overview",
+      "anchor_heading": "## Eidolon Models",
+      "description": "Introduction to pre-built eidolon models that provide shortcuts for creating eidolons with specific themes and appearances",
+      "keywords": [
+        "eidolon models",
+        "pre-built",
+        "theme",
+        "appearance",
+        "primary evolutions",
+        "secondary evolutions"
+      ]
+    },
+    {
+      "id": "aboleth_model",
+      "title": "Aboleth Eidolon Model",
+      "anchor_heading": "#### Aboleth",
+      "description": "Pre-built eidolon model for creating an aboleth-like aquatic aberrant creature",
+      "keywords": [
+        "aboleth",
+        "aquatic",
+        "tentacles",
+        "aberrant",
+        "illusion magic"
+      ]
+    },
+    {
+      "id": "angel_model",
+      "title": "Angel Eidolon Model",
+      "anchor_heading": "#### Angel",
+      "description": "Pre-built eidolon model for creating a celestial being like an angel or archon",
+      "keywords": [
+        "angel",
+        "celestial",
+        "wings",
+        "good alignment",
+        "healing magic"
+      ]
+    },
+    {
+      "id": "behir_model",
+      "title": "Behir Eidolon Model",
+      "anchor_heading": "#### Behir",
+      "description": "Pre-built eidolon model for creating a multi-legged reptilian creature like a behir",
+      "keywords": [
+        "behir",
+        "reptilian",
+        "multi-legged",
+        "electricity",
+        "swallow whole"
+      ]
+    },
+    {
+      "id": "bodyguard_model",
+      "title": "Bodyguard Eidolon Model",
+      "anchor_heading": "#### Bodyguard",
+      "description": "Pre-built eidolon model for creating a humanoid warrior protector",
+      "keywords": [
+        "bodyguard",
+        "warrior",
+        "humanoid",
+        "armor",
+        "weapon training"
+      ]
+    },
+    {
+      "id": "centaur_model",
+      "title": "Centaur Eidolon Model",
+      "anchor_heading": "#### Centaur",
+      "description": "Pre-built eidolon model for creating a centaur with humanoid torso and quadruped body",
+      "keywords": [
+        "centaur",
+        "humanoid torso",
+        "horse body",
+        "hooves",
+        "trample"
+      ]
+    },
+    {
+      "id": "chimera_model",
+      "title": "Chimera Eidolon Model",
+      "anchor_heading": "#### Chimera",
+      "description": "Pre-built eidolon model for creating a chimera with multiple heads and breath weapon",
+      "keywords": [
+        "chimera",
+        "multiple heads",
+        "breath weapon",
+        "lion",
+        "dragon head"
+      ]
+    },
+    {
+      "id": "demon_model",
+      "title": "Demon Eidolon Model",
+      "anchor_heading": "#### Demon",
+      "description": "Pre-built eidolon model for creating a demonic outsider",
+      "keywords": [
+        "demon",
+        "fiend",
+        "evil",
+        "damage reduction",
+        "spell resistance"
+      ]
+    },
+    {
+      "id": "devil_model",
+      "title": "Devil Eidolon Model",
+      "anchor_heading": "#### Devil",
+      "description": "Pre-built eidolon model for creating an infernal devil",
+      "keywords": [
+        "devil",
+        "infernal",
+        "lawful evil",
+        "fire immunity",
+        "see in darkness"
+      ]
+    },
+    {
+      "id": "dragon_model",
+      "title": "Dragon Eidolon Model",
+      "anchor_heading": "#### Dragon",
+      "description": "Pre-built eidolon model for creating a dragon-like creature",
+      "keywords": [
+        "dragon",
+        "breath weapon",
+        "flight",
+        "frightful presence",
+        "spell resistance"
+      ]
+    },
+    {
+      "id": "drider_model",
+      "title": "Drider Eidolon Model",
+      "anchor_heading": "#### Drider",
+      "description": "Pre-built eidolon model for creating a drider with humanoid torso and spider body",
+      "keywords": [
+        "drider",
+        "spider",
+        "web",
+        "poison",
+        "climb"
+      ]
+    },
+    {
+      "id": "fey_model",
+      "title": "Fey Eidolon Model",
+      "anchor_heading": "#### Fey",
+      "description": "Pre-built eidolon model for creating a fey creature like a dryad or pixie",
+      "keywords": [
+        "fey",
+        "nature spirit",
+        "magic",
+        "dimension door",
+        "attractive"
+      ]
+    },
+    {
+      "id": "genie_model",
+      "title": "Genie Eidolon Model",
+      "anchor_heading": "#### Genie",
+      "description": "Pre-built eidolon model for creating genies like djinni, efreeti, or marid",
+      "keywords": [
+        "genie",
+        "djinni",
+        "efreeti",
+        "marid",
+        "elemental",
+        "wish"
+      ]
+    },
+    {
+      "id": "hydra_model",
+      "title": "Hydra Eidolon Model",
+      "anchor_heading": "#### Hydra",
+      "description": "Pre-built eidolon model for creating a multi-headed hydra",
+      "keywords": [
+        "hydra",
+        "multiple heads",
+        "fast healing",
+        "bite attacks"
+      ]
+    },
+    {
+      "id": "linnorm_model",
+      "title": "Linnorm Eidolon Model",
+      "anchor_heading": "#### Linnorm",
+      "description": "Pre-built eidolon model for creating a linnorm or wingless dragon",
+      "keywords": [
+        "linnorm",
+        "wingless dragon",
+        "serpentine",
+        "poison",
+        "breath weapon"
+      ]
+    },
+    {
+      "id": "mammoth_model",
+      "title": "Mammoth Eidolon Model",
+      "anchor_heading": "#### Mammoth",
+      "description": "Pre-built eidolon model for creating a large elephant or mastodon",
+      "keywords": [
+        "mammoth",
+        "elephant",
+        "tusks",
+        "trunk",
+        "trample"
+      ]
+    },
+    {
+      "id": "merfolk_model",
+      "title": "Merfolk Eidolon Model",
+      "anchor_heading": "#### Merfolk",
+      "description": "Pre-built eidolon model for creating aquatic humanoids like merfolk",
+      "keywords": [
+        "merfolk",
+        "aquatic humanoid",
+        "fish tail",
+        "underwater"
+      ]
+    },
+    {
+      "id": "nightmare_model",
+      "title": "Nightmare Eidolon Model",
+      "anchor_heading": "#### Nightmare",
+      "description": "Pre-built eidolon model for creating a fiery nightmare horse",
+      "keywords": [
+        "nightmare",
+        "fiery horse",
+        "mount",
+        "fire attacks",
+        "flight"
+      ]
+    },
+    {
+      "id": "sea_serpent_model",
+      "title": "Sea Serpent Eidolon Model",
+      "anchor_heading": "#### Sea Serpent",
+      "description": "Pre-built eidolon model for creating an aquatic serpent",
+      "keywords": [
+        "sea serpent",
+        "aquatic",
+        "constrict",
+        "swallow whole"
+      ]
+    },
+    {
+      "id": "shark_model",
+      "title": "Shark Eidolon Model",
+      "anchor_heading": "#### Shark",
+      "description": "Pre-built eidolon model for creating a shark or aquatic predator",
+      "keywords": [
+        "shark",
+        "aquatic predator",
+        "keen scent",
+        "blindsense"
+      ]
+    },
+    {
+      "id": "storykin_model",
+      "title": "Storykin Eidolon Model",
+      "anchor_heading": "#### Storykin",
+      "description": "Pre-built eidolon model for creating a being made of shifting cards",
+      "keywords": [
+        "storykin",
+        "cards",
+        "harrow",
+        "dimension door",
+        "unnatural aura"
+      ]
+    },
+    {
+      "id": "thing_from_beyond_model",
+      "title": "Thing from Beyond Eidolon Model",
+      "anchor_heading": "#### Thing from Beyond",
+      "description": "Pre-built eidolon model for creating aberrant horrors not meant for mortal eyes",
+      "keywords": [
+        "thing from beyond",
+        "horror",
+        "tentacles",
+        "aberrant",
+        "immunity"
+      ]
+    },
+    {
+      "id": "undead_model",
+      "title": "Undead Eidolon Model",
+      "anchor_heading": "#### Undead",
+      "description": "Pre-built eidolon model for creating undead-appearing creatures",
+      "keywords": [
+        "undead",
+        "skeleton",
+        "zombie",
+        "incorporeal",
+        "lifesense"
+      ]
+    },
+    {
+      "id": "vermin_model",
+      "title": "Vermin Eidolon Model",
+      "anchor_heading": "#### Vermin",
+      "description": "Pre-built eidolon model for creating giant insects or arachnids",
+      "keywords": [
+        "vermin",
+        "insect",
+        "spider",
+        "poison",
+        "tremorsense"
+      ]
+    },
+    {
+      "id": "winged_snake_model",
+      "title": "Winged Snake Eidolon Model",
+      "anchor_heading": "#### Winged Snake",
+      "description": "Pre-built eidolon model for creating winged serpents like couatls or lillends",
+      "keywords": [
+        "winged snake",
+        "couatl",
+        "lillend",
+        "flight",
+        "constrict"
+      ]
+    }
+  ],
+  "source_name": "Eidolons",
+  "category": "Core Rules"
+}

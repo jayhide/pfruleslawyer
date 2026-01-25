@@ -1,0 +1,110 @@
+{
+  "file": "field-agent.md",
+  "source_path": "https://www.d20pfsrd.com/classes/prestige-classes/other-paizo/e-h/field-agent/",
+  "source_name": "Prestige Class: Field Agent",
+  "category": "Classes",
+  "toc_content": "",
+  "sections": [
+    {
+      "id": "field_agent_overview",
+      "title": "Field Agent (Class Overview)",
+      "anchor_heading": "# Field Agent",
+      "end_at_heading": "### Requirements",
+      "description": "Overview of the Field Agent class including role, alignment, hit die, and starting wealth.",
+      "keywords": [
+        "field agent",
+        "class",
+        "hit die",
+        "role",
+        "alignment"
+      ]
+    },
+    {
+      "id": "field_agent_weapon_and_armor_proficiency",
+      "title": "Weapon and Armor Proficiency (Field Agent)",
+      "anchor_heading": "#### Weapon and Armor Proficiency",
+      "description": "Field agents gain no additional weapon or armor proficiencies beyond their base class.",
+      "keywords": [
+        "weapon proficiency",
+        "armor proficiency",
+        "no proficiencies",
+        "field agent proficiency"
+      ]
+    },
+    {
+      "id": "field_agent_field_agent_training",
+      "title": "Field Agent Training (Field Agent)",
+      "anchor_heading": "#### Field Agent Training",
+      "description": "Field agents select special training options at 3rd level and every 3 levels thereafter, providing various abilities like wild empathy, sneak attack, or skill bonuses.",
+      "keywords": [
+        "field agent training",
+        "animal magnetism",
+        "wild empathy",
+        "deft defender",
+        "aid another",
+        "eidetic memory",
+        "knowledge checks untrained",
+        "greater casting",
+        "spells per day",
+        "know thy enemy",
+        "creature type bonus",
+        "rogue talent",
+        "skill specialization",
+        "class skill",
+        "sneak attack",
+        "trapfinding",
+        "training options"
+      ]
+    },
+    {
+      "id": "field_agent_wayfinder_upgrade",
+      "title": "Wayfinder Upgrade (Field Agent)",
+      "anchor_heading": "#### Wayfinder Upgrade",
+      "description": "Field agents can add special abilities to their wayfinder at 1st level and every 3 levels thereafter, such as spell-like abilities or hidden compartments.",
+      "keywords": [
+        "wayfinder upgrade",
+        "dancing lights",
+        "daylight",
+        "flask",
+        "hidden compartment",
+        "swift action retrieval",
+        "hidden wayfinder",
+        "invisible wayfinder",
+        "message",
+        "shielding",
+        "deflection bonus",
+        "silence",
+        "stabilize",
+        "wayfinder abilities",
+        "wayfinder modifications"
+      ]
+    },
+    {
+      "id": "field_agent_bonus_feat",
+      "title": "Bonus Feat (Field Agent)",
+      "anchor_heading": "#### Bonus Feat",
+      "description": "Field agents gain bonus feats at 2nd level and every 3 levels thereafter, limited to Skill Focus or teamwork feats.",
+      "keywords": [
+        "bonus feat",
+        "skill focus",
+        "teamwork feat",
+        "field agent feat",
+        "feat selection"
+      ]
+    },
+    {
+      "id": "field_agent_legends_uncovered_su",
+      "title": "Legends Uncovered (Su) (Field Agent)",
+      "anchor_heading": "#### Legends Uncovered (Su)",
+      "description": "At 10th level, field agents can research ancient subjects once per day as if casting legend lore.",
+      "keywords": [
+        "legends uncovered",
+        "legend lore",
+        "research",
+        "antiquity",
+        "ancient secrets",
+        "supernatural ability"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,247 @@
+{
+  "file": "nature-warden.md",
+  "source_path": "https://www.d20pfsrd.com/classes/prestige-classes/apg/nature-warden/",
+  "source_name": "Prestige Class: Nature Warden",
+  "category": "Classes",
+  "toc_content": "Contents\n* [Requirements](#requirements)\n* [Class Skills](#class_skills)\n* [Class Features](#class_features)\n  + [Weapon and Armor Proficiencies](#weapon_and_armor_proficiencies)\n  + [Spells per Day](#spells_per_day)\n  + [Companion Bond (Ex)](#companion_bond_ex)\n  + [Natural Empathy (Ex)](#natural_empathy_ex)\n  + [Mystic Harmony (Su)](#mystic_harmony_su)\n  + [Wild Stride (Ex)](#wild_stride_ex)\n  + [Animal Speech (Sp)](#animal_speech_sp)\n  + [Silverclaw (Su)](#silverclaw_su)\n  + [Favored Terrain (Ex)](#favored_terrain_ex)\n  + [Survivalist (Ex)](#survivalist_ex)\n  + [Woodforging (Sp)](#woodforging_sp)\n  + [Companion Walk (Su)](#companion_walk_su)\n  + [Plant Speech (Sp)](#plant_speech_sp)\n  + [Ironpaw (Su)](#ironpaw_su)\n  + [Guarded Lands (Ex)](#guarded_lands_ex)\n  + [Companion Soul (Su)](#companion_soul_su)",
+  "sections": [
+    {
+      "id": "nature_warden_overview",
+      "title": "Nature Warden (Class Overview)",
+      "anchor_heading": "# Nature Warden",
+      "end_at_heading": "### Requirements {#requirements}",
+      "description": "Overview of the Nature Warden class including role, alignment, hit die, and starting wealth.",
+      "keywords": [
+        "nature warden",
+        "class",
+        "hit die",
+        "role",
+        "alignment"
+      ]
+    },
+    {
+      "id": "nature_warden_weapon_and_armor_proficiencies",
+      "title": "Weapon and Armor Proficiencies (Nature Warden)",
+      "anchor_heading": "#### Weapon and Armor Proficiencies {#weapon_and_armor_proficiencies}",
+      "description": "Nature wardens gain no proficiency with any weapons or armor when taking this prestige class.",
+      "keywords": [
+        "weapon proficiency",
+        "armor proficiency",
+        "no proficiencies",
+        "prestige class limitations"
+      ]
+    },
+    {
+      "id": "nature_warden_spells_per_day",
+      "title": "Spells per Day (Nature Warden)",
+      "anchor_heading": "#### Spells per Day {#spells_per_day}",
+      "description": "At indicated levels, nature warden levels advance spellcasting progression of a previously held divine spellcasting class for spells per day and caster level only.",
+      "keywords": [
+        "spellcasting progression",
+        "divine spellcasting",
+        "caster level advancement",
+        "spells per day",
+        "prestige class spellcasting"
+      ]
+    },
+    {
+      "id": "nature_warden_companion_bond_ex",
+      "title": "Companion Bond (Ex) (Nature Warden)",
+      "anchor_heading": "#### Companion Bond (Ex) {#companion_bond_ex}",
+      "description": "Nature warden levels stack with other classes for animal companion abilities, grants empathic link, and at 5th level the companion gains favored terrain benefits.",
+      "keywords": [
+        "animal companion",
+        "empathic link",
+        "favored terrain",
+        "companion abilities",
+        "level stacking"
+      ]
+    },
+    {
+      "id": "nature_warden_natural_empathy_ex",
+      "title": "Natural Empathy (Ex) (Nature Warden)",
+      "anchor_heading": "#### Natural Empathy (Ex) {#natural_empathy_ex}",
+      "description": "Nature warden levels stack with wild empathy classes, adds favored terrain bonus to checks in favored terrain, and progressively allows affecting more creature types.",
+      "keywords": [
+        "wild empathy",
+        "favored terrain bonus",
+        "demoralize animals",
+        "magical beasts",
+        "vermin",
+        "plant creatures",
+        "intimidate animals"
+      ]
+    },
+    {
+      "id": "nature_warden_mystic_harmony_su",
+      "title": "Mystic Harmony (Su) (Nature Warden)",
+      "anchor_heading": "#### Mystic Harmony (Su) {#mystic_harmony_su}",
+      "description": "While in favored terrain, gain an insight bonus to AC equal to half the favored terrain bonus, lost when immobilized or helpless.",
+      "keywords": [
+        "insight bonus",
+        "AC bonus",
+        "favored terrain",
+        "immobilized",
+        "helpless",
+        "mystic harmony"
+      ]
+    },
+    {
+      "id": "nature_warden_wild_stride_ex",
+      "title": "Wild Stride (Ex) (Nature Warden)",
+      "anchor_heading": "#### Wild Stride (Ex) {#wild_stride_ex}",
+      "description": "Nature warden and animal companion move through natural hazards of favored terrain at normal speed without damage or impairment.",
+      "keywords": [
+        "wild stride",
+        "natural hazards",
+        "favored terrain",
+        "woodland stride",
+        "environmental hazards",
+        "movement"
+      ]
+    },
+    {
+      "id": "nature_warden_animal_speech_sp",
+      "title": "Animal Speech (Sp) (Nature Warden)",
+      "anchor_heading": "#### Animal Speech (Sp) {#animal_speech_sp}",
+      "description": "Can speak with animals at will in favored terrain or once per day outside favored terrain as a spell-like ability.",
+      "keywords": [
+        "speak with animals",
+        "favored terrain",
+        "spell-like ability",
+        "animal communication",
+        "at will"
+      ]
+    },
+    {
+      "id": "nature_warden_silverclaw_su",
+      "title": "Silverclaw (Su) (Nature Warden)",
+      "anchor_heading": "#### Silverclaw (Su) {#silverclaw_su}",
+      "description": "Animal companion and summoned creatures gain DR/silver equal to class level and their natural weapons count as silver.",
+      "keywords": [
+        "silverclaw",
+        "DR/silver",
+        "damage reduction",
+        "natural weapons",
+        "summoned creatures",
+        "summon nature's ally"
+      ]
+    },
+    {
+      "id": "nature_warden_favored_terrain_ex",
+      "title": "Favored Terrain (Ex) (Nature Warden)",
+      "anchor_heading": "#### Favored Terrain (Ex) {#favored_terrain_ex}",
+      "description": "Gains additional favored terrain selections at 5th and 10th level that stack with ranger favored terrain abilities.",
+      "keywords": [
+        "favored terrain",
+        "ranger ability",
+        "stacking bonuses",
+        "terrain selection"
+      ]
+    },
+    {
+      "id": "nature_warden_survivalist_ex",
+      "title": "Survivalist (Ex) (Nature Warden)",
+      "anchor_heading": "#### Survivalist (Ex) {#survivalist_ex}",
+      "description": "No penalty for improvised weapons or tools at 5th level, and can make them masterwork by spending 1 minute at 10th level.",
+      "keywords": [
+        "improvised weapons",
+        "improvised tools",
+        "masterwork",
+        "survivalist",
+        "no penalty"
+      ]
+    },
+    {
+      "id": "nature_warden_woodforging_sp",
+      "title": "Woodforging (Sp) (Nature Warden)",
+      "anchor_heading": "#### Woodforging (Sp) {#woodforging_sp}",
+      "description": "Can use wood shape daily to create items that function as masterwork ironwood in the warden's hands and can be crafted into magic items.",
+      "keywords": [
+        "wood shape",
+        "woodforging",
+        "masterwork",
+        "ironwood",
+        "Craft Magic Arms and Armor",
+        "spell-like ability"
+      ]
+    },
+    {
+      "id": "nature_warden_companion_walk_su",
+      "title": "Companion Walk (Su) (Nature Warden)",
+      "anchor_heading": "#### Companion Walk (Su) {#companion_walk_su}",
+      "description": "Animal companion can share travel spells and polymorph effects cast by the warden from druid or ranger spell lists.",
+      "keywords": [
+        "companion walk",
+        "travel spells",
+        "tree stride",
+        "transport via plants",
+        "polymorph",
+        "tree shape",
+        "spell sharing"
+      ]
+    },
+    {
+      "id": "nature_warden_plant_speech_sp",
+      "title": "Plant Speech (Sp) (Nature Warden)",
+      "anchor_heading": "#### Plant Speech (Sp) {#plant_speech_sp}",
+      "description": "Can speak with plants at will in favored terrain or once per day outside favored terrain as a spell-like ability.",
+      "keywords": [
+        "speak with plants",
+        "favored terrain",
+        "spell-like ability",
+        "plant communication",
+        "at will"
+      ]
+    },
+    {
+      "id": "nature_warden_ironpaw_su",
+      "title": "Ironpaw (Su) (Nature Warden)",
+      "anchor_heading": "#### Ironpaw (Su) {#ironpaw_su}",
+      "description": "Can grant animal companion and summoned creatures DR/cold iron instead of silverclaw, requiring meditation to switch between abilities.",
+      "keywords": [
+        "ironpaw",
+        "DR/cold iron",
+        "damage reduction",
+        "natural weapons",
+        "silverclaw alternative",
+        "summoned creatures",
+        "prayer and meditation"
+      ]
+    },
+    {
+      "id": "nature_warden_guarded_lands_ex",
+      "title": "Guarded Lands (Ex) (Nature Warden)",
+      "anchor_heading": "#### Guarded Lands (Ex) {#guarded_lands_ex}",
+      "description": "Can designate areas up to 1 square mile as guarded lands, gaining enhanced favored terrain and favored enemy bonuses plus initiative bonuses for allies.",
+      "keywords": [
+        "guarded lands",
+        "favored terrain bonus",
+        "favored enemy",
+        "initiative bonus",
+        "square mile",
+        "ritual",
+        "Wisdom bonus",
+        "allies"
+      ]
+    },
+    {
+      "id": "nature_warden_companion_soul_su",
+      "title": "Companion Soul (Su) (Nature Warden)",
+      "anchor_heading": "#### Companion Soul (Su) {#companion_soul_su}",
+      "description": "Strengthens animal companion bond with increased devotion bonus, daily scrying ability, and ritual revival without negative levels.",
+      "keywords": [
+        "companion soul",
+        "devotion bonus",
+        "morale bonus",
+        "scrying",
+        "raise dead",
+        "animal companion revival",
+        "ritual",
+        "negative levels",
+        "Will saves",
+        "enchantment"
+      ]
+    }
+  ]
+}

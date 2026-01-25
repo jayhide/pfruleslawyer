@@ -1,0 +1,220 @@
+{
+  "file": "crimson-assassin.md",
+  "source_path": "https://www.d20pfsrd.com/classes/prestige-classes/other-paizo/c-d/crimson-assassin/",
+  "source_name": "Prestige Class: Crimson Assassin",
+  "category": "Classes",
+  "toc_content": "Contents\n* [Requirements](#requirements)\n* [Class Skills](#class_skills)\n* [Class Features](#class_features)\n  + [Weapon and Armor Proficiency](#weapon_and_armor_proficiency)\n  + [Spellcasting](#spellcasting)\n  + [Sneak Attack (Ex)](#sneak_attack_ex)\n  + [Sabre Fighting (Ex)](#sabre_fighting_ex)\n  + [Prayer Attack (Su)](#prayer_attack_su)\n  + [Red Shroud (Su)](#red_shroud_su)\n  + [Summon Mantis (Sp)](#summon_mantis_sp)\n  + [Resurrection Sense (Su)](#resurrection_sense_su)\n  + [Mantis Form (Su)](#mantis_form_su)\n  + [Fading (Su)](#fading_su)\n  + [Mantis Doom (Sp)](#mantis_doom_sp)",
+  "sections": [
+    {
+      "id": "crimson_assassin_overview",
+      "title": "Crimson Assassin (Class Overview)",
+      "anchor_heading": "# Crimson Assassin",
+      "end_at_heading": "### Requirements {#requirements}",
+      "description": "Overview of the Crimson Assassin class including role, alignment, hit die, and starting wealth.",
+      "keywords": [
+        "crimson assassin",
+        "class",
+        "hit die",
+        "role",
+        "alignment"
+      ]
+    },
+    {
+      "id": "crimson_assassin_weapon_and_armor_proficiency",
+      "title": "Weapon and Armor Proficiency (Crimson Assassin)",
+      "anchor_heading": "#### Weapon and Armor Proficiency {#weapon_and_armor_proficiency}",
+      "description": "Crimson assassins are proficient with simple weapons, light martial weapons, and light armor but not shields. They can cast spells in light armor without arcane spell failure.",
+      "keywords": [
+        "weapon proficiency",
+        "armor proficiency",
+        "light armor",
+        "arcane spell failure",
+        "simple weapons",
+        "light martial weapons",
+        "shields",
+        "spellcasting in armor"
+      ]
+    },
+    {
+      "id": "crimson_assassin_spellcasting",
+      "title": "Spellcasting (Crimson Assassin)",
+      "anchor_heading": "#### Spellcasting {#spellcasting}",
+      "description": "Crimson assassins cast illusion and transmutation spells from the sorcerer/wizard spell list using Charisma as their casting ability. They gain additional specific spells at certain levels and can replace known spells.",
+      "keywords": [
+        "spellcasting",
+        "illusion",
+        "transmutation",
+        "sorcerer wizard spell list",
+        "charisma",
+        "spells known",
+        "bonus spells",
+        "spell DC",
+        "obscuring mist",
+        "true strike",
+        "darkness",
+        "summon swarm",
+        "fog cloud",
+        "see invisibility",
+        "clairaudience clairvoyance",
+        "hold person",
+        "dimension door",
+        "modify memory",
+        "spontaneous casting"
+      ]
+    },
+    {
+      "id": "crimson_assassin_sneak_attack_ex",
+      "title": "Sneak Attack (Ex) (Crimson Assassin)",
+      "anchor_heading": "#### Sneak Attack (Ex) {#sneak_attack_ex}",
+      "description": "Functions as the rogue sneak attack ability, dealing +1d6 damage at 1st level and increasing by 1d6 every 3rd level. Damage bonuses from other sneak attack sources stack.",
+      "keywords": [
+        "sneak attack",
+        "1d6 damage",
+        "precision damage",
+        "flanking",
+        "flat-footed",
+        "damage stacking",
+        "rogue ability"
+      ]
+    },
+    {
+      "id": "crimson_assassin_sabre_fighting_ex",
+      "title": "Sabre Fighting (Ex) (Crimson Assassin)",
+      "anchor_heading": "#### Sabre Fighting (Ex) {#sabre_fighting_ex}",
+      "description": "Grants Weapon Specialization with sawtooth sabres and treats them as light weapons. Provides Greater Weapon Focus at 5th level and Greater Weapon Specialization at 7th level without meeting fighter prerequisites.",
+      "keywords": [
+        "sawtooth sabre",
+        "weapon specialization",
+        "light weapon",
+        "weapon finesse",
+        "greater weapon focus",
+        "greater weapon specialization",
+        "bonus feat",
+        "fighter prerequisites"
+      ]
+    },
+    {
+      "id": "crimson_assassin_prayer_attack_su",
+      "title": "Prayer Attack (Su) (Crimson Assassin)",
+      "anchor_heading": "#### Prayer Attack (Su) {#prayer_attack_su}",
+      "description": "A signature assassination technique that fascinates a target within 30 feet by weaving sawtooth sabres, allowing for a coup de grace after 3 rounds if the target remains fascinated.",
+      "keywords": [
+        "prayer attack",
+        "fascinated",
+        "will save",
+        "standard action",
+        "coup de grace",
+        "mind-affecting",
+        "sawtooth sabre",
+        "concentration",
+        "30 feet",
+        "charisma modifier",
+        "assassination"
+      ]
+    },
+    {
+      "id": "crimson_assassin_red_shroud_su",
+      "title": "Red Shroud (Su) (Crimson Assassin)",
+      "anchor_heading": "#### Red Shroud (Su) {#red_shroud_su}",
+      "description": "Creates a red mist that provides a dodge bonus to AC and fast healing based on Constitution modifier. Upon death, the assassin can choose to disintegrate into mist.",
+      "keywords": [
+        "red shroud",
+        "dodge bonus",
+        "fast healing",
+        "constitution modifier",
+        "move action",
+        "disintegrate",
+        "death effect",
+        "AC bonus",
+        "mist"
+      ]
+    },
+    {
+      "id": "crimson_assassin_summon_mantis_sp",
+      "title": "Summon Mantis (Sp) (Crimson Assassin)",
+      "anchor_heading": "#### Summon Mantis (Sp) {#summon_mantis_sp}",
+      "description": "Summons various types of blood-red giant mantises once per day as summon monster V. The assassin can mentally direct these vermin as a free action.",
+      "keywords": [
+        "summon mantis",
+        "summon monster V",
+        "fiendish giant mantis",
+        "advanced",
+        "spell-like ability",
+        "mental direction",
+        "free action",
+        "vermin",
+        "blood red",
+        "stealth penalty"
+      ]
+    },
+    {
+      "id": "crimson_assassin_resurrection_sense_su",
+      "title": "Resurrection Sense (Su) (Crimson Assassin)",
+      "anchor_heading": "#### Resurrection Sense (Su) {#resurrection_sense_su}",
+      "description": "Allows the assassin to sense if any creature she killed within the last year has been restored to life, as long as they're on the same plane.",
+      "keywords": [
+        "resurrection sense",
+        "restore to life",
+        "same plane",
+        "killed within year",
+        "sense death",
+        "tracking victims"
+      ]
+    },
+    {
+      "id": "crimson_assassin_mantis_form_su",
+      "title": "Mantis Form (Su) (Crimson Assassin)",
+      "anchor_heading": "#### Mantis Form (Su) {#mantis_form_su}",
+      "description": "Transforms into a blood-red giant mantis as vermin shape II, with magical sawtooth sabre enhancements applying to claw attacks. Gains additional powers at higher levels including bleed damage and negative levels.",
+      "keywords": [
+        "mantis form",
+        "vermin shape II",
+        "giant mantis",
+        "transformation",
+        "blood mantis",
+        "death mantis",
+        "darkvision",
+        "grab",
+        "lunge",
+        "mandibles",
+        "sudden strike",
+        "bleed damage",
+        "negative levels",
+        "damage reduction",
+        "sawtooth sabre enhancement",
+        "claw attacks"
+      ]
+    },
+    {
+      "id": "crimson_assassin_fading_su",
+      "title": "Fading (Su) (Crimson Assassin)",
+      "anchor_heading": "#### Fading (Su) {#fading_su}",
+      "description": "As an immediate action, becomes ethereal for an instant when attacked or making a Reflex save, providing a 50% chance to avoid damage.",
+      "keywords": [
+        "fading",
+        "ethereal",
+        "immediate action",
+        "50% miss chance",
+        "avoid damage",
+        "weapon attack",
+        "reflex save",
+        "constitution modifier uses"
+      ]
+    },
+    {
+      "id": "crimson_assassin_mantis_doom_sp",
+      "title": "Mantis Doom (Sp) (Crimson Assassin)",
+      "anchor_heading": "#### Mantis Doom (Sp) {#mantis_doom_sp}",
+      "description": "Uses creeping doom three times per day, summoning swarms of venomous praying mantises instead of the normal insects.",
+      "keywords": [
+        "mantis doom",
+        "creeping doom",
+        "spell-like ability",
+        "swarms",
+        "venomous praying mantises",
+        "three times per day",
+        "caster level"
+      ]
+    }
+  ]
+}

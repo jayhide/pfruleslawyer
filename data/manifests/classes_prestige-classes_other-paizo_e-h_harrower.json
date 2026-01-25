@@ -1,0 +1,287 @@
+{
+  "file": "harrower.md",
+  "source_path": "https://www.d20pfsrd.com/classes/prestige-classes/other-paizo/e-h/harrower/",
+  "source_name": "Prestige Class: Harrower",
+  "category": "Classes",
+  "toc_content": "",
+  "sections": [
+    {
+      "id": "harrower_overview",
+      "title": "Harrower (Class Overview)",
+      "anchor_heading": "# Harrower",
+      "end_at_heading": "### Requirements",
+      "description": "Overview of the Harrower class including role, alignment, hit die, and starting wealth.",
+      "keywords": [
+        "harrower",
+        "class",
+        "hit die",
+        "role",
+        "alignment"
+      ]
+    },
+    {
+      "id": "harrower_weapon_and_armor_proficiency",
+      "title": "Weapon and Armor Proficiency (Harrower)",
+      "anchor_heading": "#### Weapon and Armor Proficiency",
+      "description": "A harrower gains no additional weapon or armor proficiencies beyond their base class.",
+      "keywords": [
+        "weapon proficiency",
+        "armor proficiency",
+        "no proficiencies",
+        "harrower proficiencies"
+      ]
+    },
+    {
+      "id": "harrower_spells",
+      "title": "Spells (Harrower)",
+      "anchor_heading": "#### Spells",
+      "description": "A harrower continues spell progression from a previous spellcasting class and adds harrowing as a 3rd-level spell to all spell lists.",
+      "keywords": [
+        "spell progression",
+        "spells per day",
+        "harrowing spell",
+        "spellcasting class",
+        "prestige class spells",
+        "3rd-level spell"
+      ]
+    },
+    {
+      "id": "harrower_blessing_of_the_harrow_su",
+      "title": "Blessing of the Harrow (Su) (Harrower)",
+      "anchor_heading": "#### Blessing of the Harrow (Su)",
+      "description": "Once per day, the harrower performs a 10-minute harrowing for allies within 20 feet, granting insight bonuses based on the most common suit drawn for 24 hours.",
+      "keywords": [
+        "blessing of the harrow",
+        "harrowing",
+        "insight bonus",
+        "10 minutes",
+        "20 feet",
+        "24 hours",
+        "suit bonus",
+        "attack rolls",
+        "AC",
+        "weapon damage",
+        "skill checks",
+        "saving throws",
+        "caster level",
+        "concentration checks"
+      ]
+    },
+    {
+      "id": "harrower_harrow_casting_su",
+      "title": "Harrow Casting (Su) (Harrower)",
+      "anchor_heading": "#### Harrow Casting (Su)",
+      "description": "The harrower can draw three Harrow cards while casting spells to potentially modify the spell's effects based on alignment matches and tower abilities.",
+      "keywords": [
+        "harrow casting",
+        "three cards",
+        "somatic component",
+        "focus component",
+        "casting time",
+        "alignment matches",
+        "tower abilities",
+        "metamagic",
+        "harrow deck",
+        "partial matches",
+        "opposite alignment"
+      ]
+    },
+    {
+      "id": "harrower_tower_of_intelligencehttpswwwd20pfsrdcombasicsabilityscoresa",
+      "title": "Tower of [Intelligence](https://www.d20pfsrd.com/basics-ability-scores/ability-scores/#Intelligence_Int) (Su) (Harrower)",
+      "anchor_heading": "#### Tower of [Intelligence](https://www.d20pfsrd.com/basics-ability-scores/ability-scores/#Intelligence_Int) (Su)",
+      "description": "Each Intelligence suit card drawn during Harrow casting grants a +1 bonus on caster level checks to penetrate spell resistance.",
+      "keywords": [
+        "tower of intelligence",
+        "intelligence suit",
+        "caster level check",
+        "spell resistance",
+        "penetrate SR",
+        "harrow casting"
+      ]
+    },
+    {
+      "id": "harrower_tower_of_strength_su",
+      "title": "Tower of Strength (Su) (Harrower)",
+      "anchor_heading": "#### Tower of Strength (Su)",
+      "description": "Each Strength suit card drawn during Harrow casting adds +1 damage per die to spells that deal hit point damage.",
+      "keywords": [
+        "tower of strength",
+        "strength suit",
+        "damage per die",
+        "spell damage",
+        "hit point damage",
+        "harrow casting"
+      ]
+    },
+    {
+      "id": "harrower_tower_of_charismahttpswwwd20pfsrdcombasicsabilityscoresabili",
+      "title": "Tower of [Charisma](https://www.d20pfsrd.com/basics-ability-scores/ability-scores/#Charisma_Cha) (Su) (Harrower)",
+      "anchor_heading": "#### Tower of [Charisma](https://www.d20pfsrd.com/basics-ability-scores/ability-scores/#Charisma_Cha) (Su)",
+      "description": "Each Charisma suit card drawn during Harrow casting increases the spell's save DC by +1.",
+      "keywords": [
+        "tower of charisma",
+        "charisma suit",
+        "save DC",
+        "spell DC",
+        "harrow casting"
+      ]
+    },
+    {
+      "id": "harrower_spirit_deck_su",
+      "title": "Spirit Deck (Su) (Harrower)",
+      "anchor_heading": "#### Spirit Deck (Su)",
+      "description": "As a standard action, the harrower summons a force deck that deals damage to a target within 30 feet based on alignment matches of drawn cards.",
+      "keywords": [
+        "spirit deck",
+        "standard action",
+        "30 feet",
+        "force deck",
+        "alignment matches",
+        "exact match",
+        "partial match",
+        "non-matched",
+        "opposite match",
+        "charisma modifier"
+      ]
+    },
+    {
+      "id": "harrower_divination_sp",
+      "title": "Divination (Sp) (Harrower)",
+      "anchor_heading": "#### Divination (Sp)",
+      "description": "The harrower can cast divination once per day as a spell-like ability with caster level equal to character level.",
+      "keywords": [
+        "divination",
+        "spell-like ability",
+        "once per day",
+        "character level",
+        "caster level"
+      ]
+    },
+    {
+      "id": "harrower_tower_of_constitution_ex",
+      "title": "Tower of Constitution (Ex) (Harrower)",
+      "anchor_heading": "#### Tower of Constitution (Ex)",
+      "description": "Each Constitution suit card drawn during Harrow casting heals the harrower 1d6 points of damage.",
+      "keywords": [
+        "tower of constitution",
+        "constitution suit",
+        "heal damage",
+        "1d6 healing",
+        "harrow casting"
+      ]
+    },
+    {
+      "id": "harrower_tower_of_dexterity_su",
+      "title": "Tower of Dexterity (Su) (Harrower)",
+      "anchor_heading": "#### Tower of Dexterity (Su)",
+      "description": "Each Dexterity suit card drawn during Harrow casting grants +1 bonus to Reflex saves and AC until the beginning of next turn.",
+      "keywords": [
+        "tower of dexterity",
+        "dexterity suit",
+        "reflex save",
+        "AC bonus",
+        "next turn",
+        "harrow casting"
+      ]
+    },
+    {
+      "id": "harrower_tower_of_wisdom_su",
+      "title": "Tower of Wisdom (Su) (Harrower)",
+      "anchor_heading": "#### Tower of Wisdom (Su)",
+      "description": "Each Wisdom suit card drawn during Harrow casting increases the spell's effective caster level by +1.",
+      "keywords": [
+        "tower of wisdom",
+        "wisdom suit",
+        "effective caster level",
+        "caster level bonus",
+        "harrow casting"
+      ]
+    },
+    {
+      "id": "harrower_reading_the_signs_ex",
+      "title": "Reading the Signs (Ex) (Harrower)",
+      "anchor_heading": "#### Reading the Signs (Ex)",
+      "description": "The harrower can draw an extra card when using class abilities or magic items and choose one to ignore, usable every 1d4 rounds.",
+      "keywords": [
+        "reading the signs",
+        "extra card",
+        "ignore card",
+        "1d4 rounds",
+        "class ability",
+        "magic item",
+        "deck of many things",
+        "harrow casting",
+        "spirit deck"
+      ]
+    },
+    {
+      "id": "harrower_basic_fortunetelling_methods",
+      "title": "Basic Fortune-Telling Methods (Harrower)",
+      "anchor_heading": "#### Basic Fortune-Telling Methods",
+      "description": "Guidelines for GMs on conducting fortune-telling sessions including cold readings, true randomness, and false randomness techniques.",
+      "keywords": [
+        "fortune-telling",
+        "cold reading",
+        "true randomness",
+        "false randomness",
+        "GM guidance",
+        "prophecy",
+        "symbolism",
+        "vague answers"
+      ]
+    },
+    {
+      "id": "harrower_fortunetelling_props",
+      "title": "Fortune-Telling Props (Harrower)",
+      "anchor_heading": "#### Fortune-Telling Props",
+      "description": "Advice on using physical props like cards, dice, stones, and crystal balls to enhance fortune-telling sessions in gameplay.",
+      "keywords": [
+        "fortune-telling props",
+        "harrow deck",
+        "tarot cards",
+        "dice",
+        "stones",
+        "crystal ball",
+        "mysticism",
+        "randomness",
+        "verisimilitude"
+      ]
+    },
+    {
+      "id": "harrower_fortunetelling_as_theater",
+      "title": "Fortune-Telling as Theater (Harrower)",
+      "anchor_heading": "#### Fortune-Telling as Theater",
+      "description": "Techniques for creating dramatic fortune-telling sessions using metaphor, allegory, and prepared scripts to engage players.",
+      "keywords": [
+        "theatrical fortune-telling",
+        "metaphor",
+        "allegory",
+        "script",
+        "mood setting",
+        "player engagement",
+        "emotional investment",
+        "suspense"
+      ]
+    },
+    {
+      "id": "harrower_mundane_and_magical_fortunetelling",
+      "title": "Mundane and Magical Fortune-Telling (Harrower)",
+      "anchor_heading": "#### Mundane and Magical Fortune-Telling",
+      "description": "Discussion of legitimate versus fraudulent fortune-tellers and magical divination options available in Pathfinder RPG.",
+      "keywords": [
+        "mundane fortune-telling",
+        "magical fortune-telling",
+        "con artist",
+        "bluff check",
+        "sense motive",
+        "augury",
+        "contact other plane",
+        "vision",
+        "divination spells",
+        "crystal ball",
+        "illusion spells"
+      ]
+    }
+  ]
+}

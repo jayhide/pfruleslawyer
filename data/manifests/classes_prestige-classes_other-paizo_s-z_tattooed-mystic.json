@@ -1,0 +1,126 @@
+{
+  "file": "tattooed-mystic.md",
+  "source_path": "https://www.d20pfsrd.com/classes/prestige-classes/other-paizo/s-z/tattooed-mystic/",
+  "source_name": "Prestige Class: Tattooed Mystic",
+  "category": "Classes",
+  "toc_content": "Contents\n* [Requirements](#requirements)\n* [Class Skills](#class_skills)\n* [Class Features](#class_features)\n  + [Weapon and Armor Proficiency](#weapon_and_armor_proficiency)\n  + [Familiar Tattoo (Su)](#familiar_tattoo_su)\n  + [Mystic Tattoo (Su)](#mystic_tattoo_su)\n  + [Magical Tattoo Artist](#magical_tattoo_artist)\n  + [Skillful Tattooist (Ex)](#skillful_tattooist_ex)\n  + [Tattoo Mastery (Ex)](#tattoo_mastery_ex)\n  + [Potent Tattoos (Ex)](#potent_tattoos_ex)",
+  "sections": [
+    {
+      "id": "tattooed_mystic_overview",
+      "title": "Tattooed Mystic (Class Overview)",
+      "anchor_heading": "# Tattooed Mystic",
+      "end_at_heading": "### Requirements {#requirements}",
+      "description": "Overview of the Tattooed Mystic class including role, alignment, hit die, and starting wealth.",
+      "keywords": [
+        "tattooed mystic",
+        "class",
+        "hit die",
+        "role",
+        "alignment"
+      ]
+    },
+    {
+      "id": "tattooed_mystic_weapon_and_armor_proficiency",
+      "title": "Weapon and Armor Proficiency (Tattooed Mystic)",
+      "anchor_heading": "#### Weapon and Armor Proficiency {#weapon_and_armor_proficiency}",
+      "description": "Tattooed mystics gain no additional weapon or armor proficiencies beyond their base class.",
+      "keywords": [
+        "weapon proficiency",
+        "armor proficiency",
+        "no additional proficiencies",
+        "tattooed mystic proficiencies"
+      ]
+    },
+    {
+      "id": "tattooed_mystic_familiar_tattoo_su",
+      "title": "Familiar Tattoo (Su) (Tattooed Mystic)",
+      "anchor_heading": "#### Familiar Tattoo (Su) {#familiar_tattoo_su}",
+      "description": "Functions identically to the tattooed sorcerer's familiar tattoo ability, allowing the familiar to become a tattoo on the mystic's skin.",
+      "keywords": [
+        "familiar tattoo",
+        "tattooed sorcerer",
+        "familiar becomes tattoo",
+        "supernatural ability",
+        "familiar transformation"
+      ]
+    },
+    {
+      "id": "tattooed_mystic_mystic_tattoo_su",
+      "title": "Mystic Tattoo (Su) (Tattooed Mystic)",
+      "anchor_heading": "#### Mystic Tattoo (Su) {#mystic_tattoo_su}",
+      "description": "The mystic inscribes magical tattoos that enhance spellcasting, gaining one every two levels starting at 2nd level from a list of seven options.",
+      "keywords": [
+        "mystic tattoo",
+        "binding trine",
+        "blistering bands",
+        "flickering eye",
+        "pouncing beasts",
+        "rune of fangs",
+        "swallowing glyph",
+        "twisting script",
+        "spellcasting enhancement",
+        "immediate action",
+        "swift action",
+        "evocation damage",
+        "concealment",
+        "summon monster",
+        "natural attacks",
+        "necromancy",
+        "language-dependent"
+      ]
+    },
+    {
+      "id": "tattooed_mystic_magical_tattoo_artist",
+      "title": "Magical Tattoo Artist (Tattooed Mystic)",
+      "anchor_heading": "#### Magical Tattoo Artist {#magical_tattoo_artist}",
+      "description": "At 3rd level, the tattooed mystic gains Inscribe Magical Tattoo as a bonus feat.",
+      "keywords": [
+        "Inscribe Magical Tattoo",
+        "bonus feat",
+        "magical tattoo creation",
+        "item creation feat"
+      ]
+    },
+    {
+      "id": "tattooed_mystic_skillful_tattooist_ex",
+      "title": "Skillful Tattooist ([Ex](https://www.d20pfsrd.com/magic#TOC-Extraordinary-Abilities-Ex-)) (Tattooed Mystic)",
+      "anchor_heading": "#### Skillful Tattooist ([Ex](https://www.d20pfsrd.com/magic#TOC-Extraordinary-Abilities-Ex-)) {#skillful_tattooist_ex}",
+      "description": "At 5th level, the mystic can craft magical tattoos on his own body in half the normal time using Craft skills.",
+      "keywords": [
+        "skillful tattooist",
+        "Craft calligraphy",
+        "Craft paintings",
+        "Craft tattoos",
+        "half time",
+        "tattoo crafting",
+        "own body"
+      ]
+    },
+    {
+      "id": "tattooed_mystic_tattoo_mastery_ex",
+      "title": "Tattoo Mastery ([Ex](https://www.d20pfsrd.com/magic#TOC-Extraordinary-Abilities-Ex-)) (Tattooed Mystic)",
+      "anchor_heading": "#### Tattoo Mastery ([Ex](https://www.d20pfsrd.com/magic#TOC-Extraordinary-Abilities-Ex-)) {#tattoo_mastery_ex}",
+      "description": "At 7th level, the mystic can use his own ability score modifiers, feats, and caster level when crafting spell tattoos, similar to using a staff.",
+      "keywords": [
+        "tattoo mastery",
+        "spell tattoo DC",
+        "ability score modifier",
+        "caster level",
+        "spell tattoo crafting",
+        "staff mechanics"
+      ]
+    },
+    {
+      "id": "tattooed_mystic_potent_tattoos_ex",
+      "title": "Potent Tattoos ([Ex](https://www.d20pfsrd.com/magic#TOC-Extraordinary-Abilities-Ex-)) (Tattooed Mystic)",
+      "anchor_heading": "#### Potent Tattoos ([Ex](https://www.d20pfsrd.com/magic#TOC-Extraordinary-Abilities-Ex-)) {#potent_tattoos_ex}",
+      "description": "At 9th level, spell tattoos crafted by the mystic use his caster level +1 when determining their save DCs.",
+      "keywords": [
+        "potent tattoos",
+        "caster level +1",
+        "spell tattoo DC",
+        "enhanced tattoo power"
+      ]
+    }
+  ]
+}

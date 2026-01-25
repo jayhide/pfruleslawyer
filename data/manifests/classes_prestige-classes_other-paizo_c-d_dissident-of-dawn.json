@@ -1,0 +1,193 @@
+{
+  "file": "dissident-of-dawn.md",
+  "source_path": "https://www.d20pfsrd.com/classes/prestige-classes/other-paizo/c-d/dissident-of-dawn/",
+  "source_name": "Prestige Class: Dissident of Dawn",
+  "category": "Classes",
+  "toc_content": "Contents\n* [Requirements](#requirements)\n* [Class Skills](#class_skills)\n  + [Table: Dissident of dawn](#table_dissident_of_dawn)\n* [Class Features](#class_features)\n  + [Weapon and Armor Proficiency](#weapon_and_armor_proficiency)\n  + [Divine Deception (Ex)](#divine_deception_ex)\n  + [Eschew Materials](#eschew_materials)\n  + [Secret Caster (Ex)](#secret_caster_ex)\n  + [Schismatic Apostle (Ex)](#schismatic_apostle_ex)\n  + [Burning Blade (Su)](#burning_blade_su)\n  + [Shift Blame (Su)](#shift_blame_su)\n  + [Morning Light (Su)](#morning_light_su)\n  + [Flight of the Phoenix (Su)](#flight_of_the_phoenix_su)",
+  "sections": [
+    {
+      "id": "dissident_of_dawn_overview",
+      "title": "Dissident of Dawn (Class Overview)",
+      "anchor_heading": "# Dissident of Dawn",
+      "end_at_heading": "### Requirements {#requirements}",
+      "description": "Overview of the Dissident of Dawn class including role, alignment, hit die, and starting wealth.",
+      "keywords": [
+        "dissident of dawn",
+        "class",
+        "hit die",
+        "role",
+        "alignment"
+      ]
+    },
+    {
+      "id": "dissident_of_dawn_table_dissident_of_dawn",
+      "title": "Table: Dissident of dawn (Dissident of Dawn)",
+      "anchor_heading": "#### Table: Dissident of dawn {#table_dissident_of_dawn}",
+      "description": "Advancement table showing the Dissident of Dawn's progression from levels 1-10, including BAB, saves, special abilities, and spell progression.",
+      "keywords": [
+        "dissident of dawn table",
+        "class progression",
+        "level advancement",
+        "BAB progression",
+        "save progression",
+        "spellcasting progression",
+        "prestige class table"
+      ]
+    },
+    {
+      "id": "dissident_of_dawn_weapon_and_armor_proficiency",
+      "title": "Weapon and Armor Proficiency (Dissident of Dawn)",
+      "anchor_heading": "#### Weapon and Armor Proficiency {#weapon_and_armor_proficiency}",
+      "description": "Dissident of Dawn gains no additional weapon or armor proficiencies beyond their base class.",
+      "keywords": [
+        "weapon proficiency",
+        "armor proficiency",
+        "no additional proficiencies",
+        "dissident of dawn proficiencies"
+      ]
+    },
+    {
+      "id": "dissident_of_dawn_divine_deception_ex",
+      "title": "Divine Deception ([Ex](https://www.d20pfsrd.com/magic#TOC-Extraordinary-Abilities-Ex-)) (Dissident of Dawn)",
+      "anchor_heading": "#### Divine Deception ([Ex](https://www.d20pfsrd.com/magic#TOC-Extraordinary-Abilities-Ex-)) {#divine_deception_ex}",
+      "description": "Grants sacred bonus to coded message checks and increases spell identification DC, plus adds illusion and concealment spells to spell list with extended duration for same faith worshipers.",
+      "keywords": [
+        "divine deception",
+        "sacred bonus",
+        "coded messages",
+        "bluff checks",
+        "sense motive checks",
+        "spellcraft DC",
+        "spell identification",
+        "illusion of calm",
+        "nondetection",
+        "extended duration",
+        "same faith",
+        "worshipers"
+      ]
+    },
+    {
+      "id": "dissident_of_dawn_eschew_materials",
+      "title": "Eschew Materials (Dissident of Dawn)",
+      "anchor_heading": "#### Eschew Materials {#eschew_materials}",
+      "description": "Grants Eschew Materials as bonus feat and allows ignoring divine focus components for spells.",
+      "keywords": [
+        "eschew materials",
+        "bonus feat",
+        "divine focus",
+        "holy symbol",
+        "spell components",
+        "material components",
+        "ignore components"
+      ]
+    },
+    {
+      "id": "dissident_of_dawn_secret_caster_ex",
+      "title": "Secret Caster ([Ex](https://www.d20pfsrd.com/magic#TOC-Extraordinary-Abilities-Ex-)) (Dissident of Dawn)",
+      "anchor_heading": "#### Secret Caster ([Ex](https://www.d20pfsrd.com/magic#TOC-Extraordinary-Abilities-Ex-)) {#secret_caster_ex}",
+      "description": "Allows disguising spellcasting using Bluff and Sleight of Hand checks with various penalties, increasing casting time but potentially avoiding attacks of opportunity.",
+      "keywords": [
+        "secret caster",
+        "disguise spellcasting",
+        "bluff checks",
+        "sleight of hand",
+        "verbal components",
+        "somatic components",
+        "sense motive",
+        "perception",
+        "casting time",
+        "full-round action",
+        "attacks of opportunity",
+        "hidden casting"
+      ]
+    },
+    {
+      "id": "dissident_of_dawn_schismatic_apostle_ex",
+      "title": "Schismatic Apostle ([Ex](https://www.d20pfsrd.com/magic#TOC-Extraordinary-Abilities-Ex-)) (Dissident of Dawn)",
+      "anchor_heading": "#### Schismatic Apostle ([Ex](https://www.d20pfsrd.com/magic#TOC-Extraordinary-Abilities-Ex-)) {#schismatic_apostle_ex}",
+      "description": "Increases DC of mind-affecting effects against same faith or opposing faith followers, and enhances inquisitor judgment bonuses against these targets.",
+      "keywords": [
+        "schismatic apostle",
+        "mind-affecting",
+        "DC bonus",
+        "same faith",
+        "opposing faith",
+        "inquisitor judgment",
+        "judgment bonus",
+        "followers"
+      ]
+    },
+    {
+      "id": "dissident_of_dawn_burning_blade_su",
+      "title": "Burning Blade (Su) (Dissident of Dawn)",
+      "anchor_heading": "#### Burning Blade (Su) {#burning_blade_su}",
+      "description": "Expends channel energy or judgment to grant flaming (later flaming burst) weapon property to touched scimitars, with merciful option for same faith targets.",
+      "keywords": [
+        "burning blade",
+        "channel energy",
+        "swift action",
+        "scimitar",
+        "flaming",
+        "flaming burst",
+        "weapon special ability",
+        "merciful",
+        "nonlethal damage",
+        "same faith",
+        "judgment ability",
+        "bane ability"
+      ]
+    },
+    {
+      "id": "dissident_of_dawn_shift_blame_su",
+      "title": "Shift Blame (Su) (Dissident of Dawn)",
+      "anchor_heading": "#### Shift Blame (Su) {#shift_blame_su}",
+      "description": "When provoking attacks of opportunity, can use Bluff to redirect the attack to an adjacent creature instead.",
+      "keywords": [
+        "shift blame",
+        "attack of opportunity",
+        "bluff check",
+        "sense motive",
+        "redirect attack",
+        "adjacent creature",
+        "threatened",
+        "base attack bonus",
+        "reroll attack"
+      ]
+    },
+    {
+      "id": "dissident_of_dawn_morning_light_su",
+      "title": "Morning Light (Su) (Dissident of Dawn)",
+      "anchor_heading": "#### Morning Light (Su) {#morning_light_su}",
+      "description": "Expends channel energy or judgment to grant allies new saves against ongoing conditions, with enhanced effect for same faith worshipers.",
+      "keywords": [
+        "morning light",
+        "full-round action",
+        "channel energy",
+        "judgment ability",
+        "new saving throw",
+        "ongoing conditions",
+        "same faith",
+        "litany of wisdom",
+        "ally benefit"
+      ]
+    },
+    {
+      "id": "dissident_of_dawn_flight_of_the_phoenix_su",
+      "title": "Flight of the Phoenix (Su) (Dissident of Dawn)",
+      "anchor_heading": "#### Flight of the Phoenix (Su) {#flight_of_the_phoenix_su}",
+      "description": "Upon death, creates flame strike effect and returns as phoenix ally before being resurrected with negative levels.",
+      "keywords": [
+        "flight of the phoenix",
+        "death trigger",
+        "flame strike",
+        "phoenix",
+        "resurrection",
+        "negative levels",
+        "holy fire",
+        "reborn",
+        "summoned creature",
+        "automatic resurrection"
+      ]
+    }
+  ]
+}

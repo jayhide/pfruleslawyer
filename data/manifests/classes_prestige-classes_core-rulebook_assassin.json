@@ -1,0 +1,229 @@
+{
+  "file": "assassin.md",
+  "source_path": "https://www.d20pfsrd.com/classes/prestige-classes/core-rulebook/assassin/",
+  "source_name": "Prestige Class: Assassin",
+  "category": "Classes",
+  "toc_content": "Contents\n* [Requirements](#requirements)\n* [Class Skills](#class_skills)\n  + [Table: Assassin](#table_assassin)\n* [Class Features](#class_features)\n  + [Weapon and Armor Proficiency](#weapon_and_armor_proficiency)\n  + [Sneak Attack](#sneak_attack)\n  + [Death Attack (Ex)](#death_attack_ex)\n  + [Poison Use](#poison_use)\n  + [Save Bonus against Poison](#save_bonus_against_poison)\n  + [Uncanny Dodge (Ex)](#uncanny_dodge_ex)\n  + [Hidden Weapons (Ex)](#hidden_weapons_ex)\n  + [True Death (Su)](#true_death_su)\n  + [Improved Uncanny Dodge (Ex)](#improved_uncanny_dodge_ex)\n  + [Quiet Death (Ex)](#quiet_death_ex)\n  + [Hide in Plain Sight (Su)](#hide_in_plain_sight_su)\n  + [Swift Death (Ex)](#swift_death_ex)\n  + [Angel of Death (Su)](#angel_of_death_su)",
+  "sections": [
+    {
+      "id": "assassin_overview",
+      "title": "Assassin (Class Overview)",
+      "anchor_heading": "# Assassin",
+      "end_at_heading": "### Requirements {#requirements}",
+      "description": "Overview of the Assassin class including role, alignment, hit die, and starting wealth.",
+      "keywords": [
+        "assassin",
+        "class",
+        "hit die",
+        "role",
+        "alignment"
+      ]
+    },
+    {
+      "id": "assassin_table_assassin",
+      "title": "Table: Assassin (Assassin)",
+      "anchor_heading": "#### Table: Assassin {#table_assassin}",
+      "description": "Level progression table showing assassin base attack bonus, saves, and special abilities gained at each level from 1st to 10th.",
+      "keywords": [
+        "assassin table",
+        "level progression",
+        "base attack bonus",
+        "save progression",
+        "special abilities by level",
+        "assassin advancement"
+      ]
+    },
+    {
+      "id": "assassin_weapon_and_armor_proficiency",
+      "title": "Weapon and Armor Proficiency (Assassin)",
+      "anchor_heading": "#### Weapon and Armor Proficiency {#weapon_and_armor_proficiency}",
+      "description": "Assassins are proficient with specific weapons (crossbows, daggers, darts, rapier, sap, shortbows, short sword) and light armor but not shields.",
+      "keywords": [
+        "weapon proficiency",
+        "armor proficiency",
+        "crossbow",
+        "dagger",
+        "dart",
+        "rapier",
+        "sap",
+        "shortbow",
+        "short sword",
+        "light armor",
+        "no shields"
+      ]
+    },
+    {
+      "id": "assassin_sneak_attack",
+      "title": "Sneak Attack (Assassin)",
+      "anchor_heading": "#### Sneak Attack {#sneak_attack}",
+      "description": "Functions like rogue sneak attack, dealing extra damage that increases by +1d6 every other level, stacking with sneak attack from other sources.",
+      "keywords": [
+        "sneak attack",
+        "extra damage",
+        "1d6 per level",
+        "stacking bonuses",
+        "rogue ability",
+        "precision damage"
+      ]
+    },
+    {
+      "id": "assassin_death_attack_ex",
+      "title": "Death Attack (Ex) (Assassin)",
+      "anchor_heading": "#### Death Attack (Ex) {#death_attack_ex}",
+      "description": "After studying a target for 3 rounds, the assassin can make a sneak attack that kills or paralyzes the target unless they succeed a Fortitude save.",
+      "keywords": [
+        "death attack",
+        "study target",
+        "3 rounds",
+        "paralyze",
+        "kill",
+        "fortitude save",
+        "standard action",
+        "melee weapon",
+        "intelligence modifier",
+        "helpless condition"
+      ]
+    },
+    {
+      "id": "assassin_poison_use",
+      "title": "Poison Use (Assassin)",
+      "anchor_heading": "#### Poison Use {#poison_use}",
+      "description": "Assassins cannot accidentally poison themselves when applying poison to weapons.",
+      "keywords": [
+        "poison use",
+        "applying poison",
+        "no accidental poisoning",
+        "blade coating",
+        "poison immunity"
+      ]
+    },
+    {
+      "id": "assassin_save_bonus_against_poison",
+      "title": "Save Bonus against Poison (Assassin)",
+      "anchor_heading": "#### Save Bonus against Poison {#save_bonus_against_poison}",
+      "description": "Gains increasing saving throw bonuses against poison, starting at +1 at 2nd level and increasing by +1 every two levels.",
+      "keywords": [
+        "poison save bonus",
+        "saving throw bonus",
+        "poison resistance",
+        "fortitude bonus against poison"
+      ]
+    },
+    {
+      "id": "assassin_uncanny_dodge_ex",
+      "title": "Uncanny Dodge (Ex) (Assassin)",
+      "anchor_heading": "#### Uncanny Dodge (Ex) {#uncanny_dodge_ex}",
+      "description": "Cannot be caught flat-footed, even against invisible attackers, but can still lose Dex bonus to AC from immobilization or feinting.",
+      "keywords": [
+        "uncanny dodge",
+        "flat-footed",
+        "invisible attackers",
+        "dexterity bonus",
+        "feint action",
+        "immobilized"
+      ]
+    },
+    {
+      "id": "assassin_hidden_weapons_ex",
+      "title": "Hidden Weapons (Ex) (Assassin)",
+      "anchor_heading": "#### Hidden Weapons (Ex) {#hidden_weapons_ex}",
+      "description": "Adds assassin level to Sleight of Hand checks made to conceal weapons on the body.",
+      "keywords": [
+        "hidden weapons",
+        "sleight of hand",
+        "concealing weapons",
+        "hiding weapons",
+        "weapon concealment"
+      ]
+    },
+    {
+      "id": "assassin_true_death_su",
+      "title": "True Death (Su) (Assassin)",
+      "anchor_heading": "#### True Death (Su) {#true_death_su}",
+      "description": "Creatures killed by death attack are harder to resurrect, requiring caster level checks or remove curse to negate the effect.",
+      "keywords": [
+        "true death",
+        "raise dead",
+        "resurrection",
+        "caster level check",
+        "remove curse",
+        "death attack victim",
+        "material component"
+      ]
+    },
+    {
+      "id": "assassin_improved_uncanny_dodge_ex",
+      "title": "Improved Uncanny Dodge (Ex) (Assassin)",
+      "anchor_heading": "#### Improved Uncanny Dodge (Ex) {#improved_uncanny_dodge_ex}",
+      "description": "Cannot be flanked, denying rogues sneak attacks from flanking unless they have 4+ more rogue levels than the assassin has assassin levels.",
+      "keywords": [
+        "improved uncanny dodge",
+        "flanking",
+        "cannot be flanked",
+        "rogue levels",
+        "sneak attack denial",
+        "flanking immunity"
+      ]
+    },
+    {
+      "id": "assassin_quiet_death_ex",
+      "title": "Quiet Death (Ex) (Assassin)",
+      "anchor_heading": "#### Quiet Death (Ex) {#quiet_death_ex}",
+      "description": "When killing with death attack during surprise round, can make Stealth check to avoid being identified as the killer.",
+      "keywords": [
+        "quiet death",
+        "death attack",
+        "surprise round",
+        "stealth check",
+        "perception check",
+        "avoid detection",
+        "unnoticed killing"
+      ]
+    },
+    {
+      "id": "assassin_hide_in_plain_sight_su",
+      "title": "Hide in Plain Sight (Su) (Assassin)",
+      "anchor_heading": "#### Hide in Plain Sight (Su) {#hide_in_plain_sight_su}",
+      "description": "Can use Stealth while observed if within 10 feet of shadow, but cannot hide in own shadow.",
+      "keywords": [
+        "hide in plain sight",
+        "stealth while observed",
+        "shadow",
+        "10 feet",
+        "own shadow",
+        "stealth skill"
+      ]
+    },
+    {
+      "id": "assassin_swift_death_ex",
+      "title": "Swift Death (Ex) (Assassin)",
+      "anchor_heading": "#### Swift Death (Ex) {#swift_death_ex}",
+      "description": "Once per day, can make a death attack without the normal 3 rounds of study, but must still sneak attack with a melee weapon.",
+      "keywords": [
+        "swift death",
+        "death attack",
+        "no study",
+        "once per day",
+        "sneak attack",
+        "melee weapon",
+        "skip studying"
+      ]
+    },
+    {
+      "id": "assassin_angel_of_death_su",
+      "title": "Angel of Death (Su) (Assassin)",
+      "anchor_heading": "#### Angel of Death (Su) {#angel_of_death_su}",
+      "description": "Once per day on successful death attack, can cause target's body to crumble to dust, preventing raise dead and resurrection but not true resurrection.",
+      "keywords": [
+        "angel of death",
+        "crumble to dust",
+        "death attack",
+        "once per day",
+        "raise dead",
+        "resurrection",
+        "true resurrection",
+        "body destruction"
+      ]
+    }
+  ]
+}

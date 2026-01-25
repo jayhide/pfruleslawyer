@@ -1,0 +1,162 @@
+{
+  "file": "noble-scion.md",
+  "source_path": "https://www.d20pfsrd.com/classes/prestige-classes/other-paizo/n-r/noble-scion/",
+  "source_name": "Prestige Class: Noble Scion",
+  "category": "Classes",
+  "toc_content": "Contents\n* [Requirements](#requirements)\n* [Class Skills](#class_skills)\n* [Class Features](#class_features)\n  + [Weapon and Armor Proficiency](#weapon_and_armor_proficiency)\n  + [Affluent (Ex)](#affluent_ex)\n  + [Greater Leadership (Ex)](#greater_leadership_ex)\n  + [Aristocratic Erudition (Ex)](#aristocratic_erudition_ex)\n  + [Prestigious Influence (Ex)](#prestigious_influence_ex)\n  + [Regional Expertise (Ex)](#regional_expertise_ex)\n  + [Dilettante Studies](#dilettante_studies)\n  + [Servitor (Ex)](#servitor_ex)\n  + [Peerless Patrician (Ex)](#peerless_patrician_ex)",
+  "sections": [
+    {
+      "id": "noble_scion_overview",
+      "title": "Noble Scion (Class Overview)",
+      "anchor_heading": "# Noble Scion",
+      "end_at_heading": "### Requirements {#requirements}",
+      "description": "Overview of the Noble Scion class including role, alignment, hit die, and starting wealth.",
+      "keywords": [
+        "noble scion",
+        "class",
+        "hit die",
+        "role",
+        "alignment"
+      ]
+    },
+    {
+      "id": "noble_scion_weapon_and_armor_proficiency",
+      "title": "Weapon and Armor Proficiency (Noble Scion)",
+      "anchor_heading": "#### Weapon and Armor Proficiency {#weapon_and_armor_proficiency}",
+      "description": "Grants proficiency with all simple and martial weapons, all forms of armor, and shields (excluding tower shields).",
+      "keywords": [
+        "weapon proficiency",
+        "armor proficiency",
+        "shield proficiency",
+        "martial weapons",
+        "simple weapons",
+        "tower shield exclusion"
+      ]
+    },
+    {
+      "id": "noble_scion_affluent_ex",
+      "title": "Affluent ([Ex](https://www.d20pfsrd.com/magic#TOC-Extraordinary-Abilities-Ex-)) (Noble Scion)",
+      "anchor_heading": "#### Affluent ([Ex](https://www.d20pfsrd.com/magic#TOC-Extraordinary-Abilities-Ex-)) {#affluent_ex}",
+      "description": "Provides a regular stipend of gold pieces equal to 750 \u00d7 class level at each level gained.",
+      "keywords": [
+        "affluent",
+        "stipend",
+        "gold pieces",
+        "750 gp per level",
+        "wealth generation",
+        "class level multiplier"
+      ]
+    },
+    {
+      "id": "noble_scion_greater_leadership_ex",
+      "title": "Greater Leadership ([Ex](https://www.d20pfsrd.com/magic#TOC-Extraordinary-Abilities-Ex-)) (Noble Scion)",
+      "anchor_heading": "#### Greater Leadership ([Ex](https://www.d20pfsrd.com/magic#TOC-Extraordinary-Abilities-Ex-)) {#greater_leadership_ex}",
+      "description": "Grants the Leadership feat as a bonus feat at 2nd level, with improved cohort level restrictions (same level cohort at 10th level).",
+      "keywords": [
+        "greater leadership",
+        "Leadership feat",
+        "bonus feat",
+        "cohort",
+        "same level cohort",
+        "leadership improvement"
+      ]
+    },
+    {
+      "id": "noble_scion_aristocratic_erudition_ex",
+      "title": "Aristocratic Erudition ([Ex](https://www.d20pfsrd.com/magic#TOC-Extraordinary-Abilities-Ex-)) (Noble Scion)",
+      "anchor_heading": "#### Aristocratic Erudition ([Ex](https://www.d20pfsrd.com/magic#TOC-Extraordinary-Abilities-Ex-)) {#aristocratic_erudition_ex}",
+      "description": "Provides bonuses to Diplomacy, Knowledge (local), and Knowledge (nobility) checks equal to half class level, and reduces DCs for others gathering information about the noble scion.",
+      "keywords": [
+        "aristocratic erudition",
+        "Diplomacy bonus",
+        "Knowledge local",
+        "Knowledge nobility",
+        "half class level bonus",
+        "information gathering DC reduction"
+      ]
+    },
+    {
+      "id": "noble_scion_prestigious_influence_ex",
+      "title": "Prestigious Influence ([Ex](https://www.d20pfsrd.com/magic#TOC-Extraordinary-Abilities-Ex-)) (Noble Scion)",
+      "anchor_heading": "#### Prestigious Influence ([Ex](https://www.d20pfsrd.com/magic#TOC-Extraordinary-Abilities-Ex-)) {#prestigious_influence_ex}",
+      "description": "Grants a weekly-replenishing pool of virtual gold to spend on services and non-material goods like lodging, transport, spellcasting services, and social favors.",
+      "keywords": [
+        "prestigious influence",
+        "virtual gold",
+        "services",
+        "non-material goods",
+        "weekly replenishment",
+        "spellcasting services",
+        "social favors",
+        "expert hireling"
+      ]
+    },
+    {
+      "id": "noble_scion_regional_expertise_ex",
+      "title": "Regional Expertise ([Ex](https://www.d20pfsrd.com/magic#TOC-Extraordinary-Abilities-Ex-)) (Noble Scion)",
+      "anchor_heading": "#### Regional Expertise ([Ex](https://www.d20pfsrd.com/magic#TOC-Extraordinary-Abilities-Ex-)) {#regional_expertise_ex}",
+      "description": "Grants bonus feats from regional lists at 4th, 6th, and 8th levels without meeting prerequisites, based on the noble scion's place of origin.",
+      "keywords": [
+        "regional expertise",
+        "bonus feats",
+        "no prerequisites",
+        "regional lists",
+        "fallen dragon kings",
+        "empire of devils",
+        "elven forest kingdom",
+        "shadow kingdom",
+        "kingdom of pharaohs"
+      ]
+    },
+    {
+      "id": "noble_scion_dilettante_studies",
+      "title": "Dilettante Studies (Noble Scion)",
+      "anchor_heading": "#### Dilettante Studies {#dilettante_studies}",
+      "description": "Allows selection of specialized studies at 5th and 9th levels that enhance abilities from other classes like bardic performance, spellcasting, sneak attack, or combat prowess.",
+      "keywords": [
+        "dilettante studies",
+        "dilettante performer",
+        "dilettante scholar",
+        "dilettante scoundrel",
+        "dilettante warrior",
+        "bardic performance enhancement",
+        "spellcasting progression",
+        "sneak attack dice"
+      ]
+    },
+    {
+      "id": "noble_scion_servitor_ex",
+      "title": "Servitor ([Ex](https://www.d20pfsrd.com/magic#TOC-Extraordinary-Abilities-Ex-)) (Noble Scion)",
+      "anchor_heading": "#### Servitor ([Ex](https://www.d20pfsrd.com/magic#TOC-Extraordinary-Abilities-Ex-)) {#servitor_ex}",
+      "description": "Provides a faithful NPC servitor with levels in NPC classes who runs errands and maintains the noble scion's affairs while adventuring.",
+      "keywords": [
+        "servitor",
+        "NPC servitor",
+        "faithful servant",
+        "errands",
+        "manor maintenance",
+        "NPC classes only",
+        "cohort level"
+      ]
+    },
+    {
+      "id": "noble_scion_peerless_patrician_ex",
+      "title": "Peerless Patrician ([Ex](https://www.d20pfsrd.com/magic#TOC-Extraordinary-Abilities-Ex-)) (Noble Scion)",
+      "anchor_heading": "#### Peerless Patrician ([Ex](https://www.d20pfsrd.com/magic#TOC-Extraordinary-Abilities-Ex-)) {#peerless_patrician_ex}",
+      "description": "Allows rolling twice per round on social and knowledge checks (taking the better result), and once per day can treat a check as a natural 20.",
+      "keywords": [
+        "peerless patrician",
+        "roll twice",
+        "better roll",
+        "natural 20",
+        "Bluff",
+        "Diplomacy",
+        "Intimidate",
+        "Knowledge nobility",
+        "Sense Motive",
+        "once per day",
+        "once per round"
+      ]
+    }
+  ]
+}

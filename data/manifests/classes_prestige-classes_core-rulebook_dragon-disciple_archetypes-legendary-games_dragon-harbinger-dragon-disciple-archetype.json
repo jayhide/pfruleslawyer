@@ -1,0 +1,39 @@
+{
+  "file": "dragon-harbinger-dragon-disciple-archetype.md",
+  "source_path": "https://www.d20pfsrd.com/classes/prestige-classes/core-rulebook/dragon-disciple/archetypes-legendary-games/dragon-harbinger-dragon-disciple-archetype/",
+  "source_name": "Prestige Class: Dragon Harbinger (Dragon Disciple Archetype)",
+  "category": "Classes",
+  "toc_content": "Contents\n* [Requirements](#requirements)\n  + [Dragon Warrior (Ex)](#dragon_warrior_ex)",
+  "sections": [
+    {
+      "id": "dragon_harbinger_dragon_disciple_archetype_overview",
+      "title": "Dragon Harbinger (Dragon Disciple Archetype) (Class Overview)",
+      "anchor_heading": "# Dragon Harbinger (Dragon Disciple Archetype)",
+      "end_at_heading": "### Requirements {#requirements}",
+      "description": "Overview of the Dragon Harbinger (Dragon Disciple Archetype) class including role, alignment, hit die, and starting wealth.",
+      "keywords": [
+        "dragon harbinger (dragon disciple archetype)",
+        "class",
+        "hit die",
+        "role",
+        "alignment"
+      ]
+    },
+    {
+      "id": "dragon_harbinger_dragon_disciple_archetype_dragon_warrior_ex",
+      "title": "Dragon Warrior (Ex) (Dragon Harbinger (Dragon Disciple Archetype))",
+      "anchor_heading": "#### Dragon Warrior (Ex) {#dragon_warrior_ex}",
+      "description": "A dragon harbinger gains +1 base attack bonus at every level, replacing the dragon disciple's spellcasting progression entirely.",
+      "keywords": [
+        "dragon warrior",
+        "base attack bonus",
+        "BAB progression",
+        "full BAB",
+        "replaces spellcasting",
+        "dragon harbinger",
+        "martial progression",
+        "attack bonus every level"
+      ]
+    }
+  ]
+}

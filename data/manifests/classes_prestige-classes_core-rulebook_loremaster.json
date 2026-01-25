@@ -1,0 +1,148 @@
+{
+  "file": "loremaster.md",
+  "source_path": "https://www.d20pfsrd.com/classes/prestige-classes/core-rulebook/loremaster/",
+  "source_name": "Prestige Class: Loremaster",
+  "category": "Classes",
+  "toc_content": "Contents\n* [Requirements](#requirements)\n* [Class Skills](#class_skills)\n* [Class Features](#class_features)\n  + [Weapon and Armor Proficiency](#weapon_and_armor_proficiency)\n  + [Spells per Day/Spells Known](#spells_per_dayspells_known)\n  + [Secret](#secret)\n  + [Lore](#lore)\n  + [Bonus Languages](#bonus_languages)\n  + [Languages](#languages)\n  + [Greater Lore (Ex)](#greater_lore_ex)\n  + [True Lore (Ex)](#true_lore_ex)",
+  "sections": [
+    {
+      "id": "loremaster_overview",
+      "title": "Loremaster (Class Overview)",
+      "anchor_heading": "# Loremaster",
+      "end_at_heading": "### Requirements {#requirements}",
+      "description": "Overview of the Loremaster class including role, alignment, hit die, and starting wealth.",
+      "keywords": [
+        "loremaster",
+        "class",
+        "hit die",
+        "role",
+        "alignment"
+      ]
+    },
+    {
+      "id": "loremaster_weapon_and_armor_proficiency",
+      "title": "Weapon and Armor Proficiency (Loremaster)",
+      "anchor_heading": "#### Weapon and Armor Proficiency {#weapon_and_armor_proficiency}",
+      "description": "Loremasters gain no proficiency with any weapon or armor when taking levels in this prestige class.",
+      "keywords": [
+        "weapon proficiency",
+        "armor proficiency",
+        "no proficiency",
+        "loremaster proficiency",
+        "prestige class proficiency"
+      ]
+    },
+    {
+      "id": "loremaster_spells_per_dayspells_known",
+      "title": "Spells per Day/Spells Known (Loremaster)",
+      "anchor_heading": "#### Spells per Day/Spells Known {#spells_per_dayspells_known}",
+      "description": "When gaining loremaster levels, the character advances spellcasting in a previously held spellcasting class, gaining spells per day and known spells but no other class features.",
+      "keywords": [
+        "spellcasting progression",
+        "spells per day",
+        "spells known",
+        "prestige class spellcasting",
+        "caster level",
+        "spontaneous caster",
+        "spellbook",
+        "bonus spells"
+      ]
+    },
+    {
+      "id": "loremaster_secret",
+      "title": "Secret (Loremaster)",
+      "anchor_heading": "#### Secret {#secret}",
+      "description": "At specific levels, loremasters choose powerful secrets that grant various abilities, with availability determined by level plus Intelligence modifier.",
+      "keywords": [
+        "loremaster secrets",
+        "instant mastery",
+        "secret health",
+        "newfound arcana",
+        "applicable knowledge",
+        "dodge trick",
+        "weapon trick",
+        "Intelligence modifier",
+        "skill ranks",
+        "bonus feat",
+        "bonus spell"
+      ]
+    },
+    {
+      "id": "loremaster_lore",
+      "title": "Lore (Loremaster)",
+      "anchor_heading": "#### Lore {#lore}",
+      "description": "Loremasters add half their level to all Knowledge skill checks and can make Knowledge checks untrained, stacking with bardic knowledge.",
+      "keywords": [
+        "Knowledge skills",
+        "untrained Knowledge",
+        "bardic knowledge stacking",
+        "lore bonus",
+        "skill bonus",
+        "Knowledge checks"
+      ]
+    },
+    {
+      "id": "loremaster_bonus_languages",
+      "title": "Bonus Languages (Loremaster)",
+      "anchor_heading": "#### Bonus Languages {#bonus_languages}",
+      "description": "Loremasters can learn any new language at 4th and 8th level without spending skill points.",
+      "keywords": [
+        "bonus languages",
+        "learn languages",
+        "language acquisition",
+        "4th level",
+        "8th level"
+      ]
+    },
+    {
+      "id": "loremaster_languages",
+      "title": "Languages (Loremaster)",
+      "anchor_heading": "#### Languages {#languages}",
+      "description": "This section provides a reference list of languages and the types of creatures that typically speak them.",
+      "keywords": [
+        "language reference",
+        "creature languages",
+        "Abyssal",
+        "Celestial",
+        "Draconic",
+        "Infernal",
+        "Sylvan",
+        "Undercommon",
+        "Aquan",
+        "Auran",
+        "Ignan",
+        "Terran"
+      ]
+    },
+    {
+      "id": "loremaster_greater_lore_ex",
+      "title": "Greater Lore (Ex) (Loremaster)",
+      "anchor_heading": "#### Greater Lore (Ex) {#greater_lore_ex}",
+      "description": "At 6th level, loremasters gain a +10 circumstance bonus on Spellcraft checks when examining magic items to determine their properties.",
+      "keywords": [
+        "greater lore",
+        "magic item identification",
+        "Spellcraft bonus",
+        "circumstance bonus",
+        "magic item properties",
+        "item examination"
+      ]
+    },
+    {
+      "id": "loremaster_true_lore_ex",
+      "title": "True Lore (Ex) (Loremaster)",
+      "anchor_heading": "#### True Lore (Ex) {#true_lore_ex}",
+      "description": "At 10th level, once per day a loremaster can use their knowledge to replicate legend lore or analyze dweomer spells, with legend lore having a reduced casting time.",
+      "keywords": [
+        "true lore",
+        "legend lore",
+        "analyze dweomer",
+        "spell-like ability",
+        "casting time",
+        "once per day",
+        "divination",
+        "magic item analysis"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,190 @@
+{
+  "file": "souldrinker.md",
+  "source_path": "https://www.d20pfsrd.com/classes/prestige-classes/other-paizo/s-z/souldrinker/",
+  "source_name": "Prestige Class: Souldrinker (PZO1139)",
+  "category": "Classes",
+  "toc_content": "Contents\n* [Requirements](#requirements)\n* [Class Skills](#class_skills)\n* [Class Features](#class_features)\n  + [Weapon and Armor Proficiencies](#weapon_and_armor_proficiencies)\n  + [Spells per Day/Spells Known](#spells_per_dayspells_known)\n  + [Apocalyptic Vow (Ex)](#apocalyptic_vow_ex)\n  + [Cacodaemon Familiar (Ex)](#cacodaemon_familiar_ex)\n  + [Obedience (Ex)](#obedience_ex)\n  + [Enervation (Sp)](#enervation_sp)\n  + [Soul Pool (Su)](#soul_pool_su)\n  + [Daemonic Boon (Ex, Sp, or Su)](#daemonic_boon_ex_sp_or_su)\n  + [Lesser Oblivion (Su)](#lesser_oblivion_su)\n  + [Oblivion (Sp)](#oblivion_sp)\n  + [Greater Oblivion (Sp)](#greater_oblivion_sp)",
+  "sections": [
+    {
+      "id": "souldrinker_pzo1139_overview",
+      "title": "Souldrinker (PZO1139) (Class Overview)",
+      "anchor_heading": "# Souldrinker (PZO1139)",
+      "end_at_heading": "### Requirements {#requirements}",
+      "description": "Overview of the Souldrinker (PZO1139) class including role, alignment, hit die, and starting wealth.",
+      "keywords": [
+        "souldrinker (pzo1139)",
+        "class",
+        "hit die",
+        "role",
+        "alignment"
+      ]
+    },
+    {
+      "id": "souldrinker_pzo1139_weapon_and_armor_proficiencies",
+      "title": "Weapon and Armor Proficiencies (Souldrinker (PZO1139))",
+      "anchor_heading": "#### Weapon and Armor Proficiencies {#weapon_and_armor_proficiencies}",
+      "description": "A souldrinker gains proficiency with the favored weapon of her chosen daemonic patron.",
+      "keywords": [
+        "weapon proficiency",
+        "daemonic patron",
+        "favored weapon",
+        "Four Horsemen weapon",
+        "daemon harbinger weapon"
+      ]
+    },
+    {
+      "id": "souldrinker_pzo1139_spells_per_dayspells_known",
+      "title": "Spells per Day/Spells Known (Souldrinker (PZO1139))",
+      "anchor_heading": "#### Spells per Day/Spells Known {#spells_per_dayspells_known}",
+      "description": "At indicated levels, a souldrinker gains additional spells per day and spells known as if she had gained a level in a previous spellcasting class, but no other class benefits.",
+      "keywords": [
+        "spells per day",
+        "spells known",
+        "spellcasting progression",
+        "prestige class spellcasting",
+        "effective caster level",
+        "spontaneous spellcaster"
+      ]
+    },
+    {
+      "id": "souldrinker_pzo1139_apocalyptic_vow_ex",
+      "title": "Apocalyptic Vow (Ex) (Souldrinker (PZO1139))",
+      "anchor_heading": "#### Apocalyptic Vow (Ex) {#apocalyptic_vow_ex}",
+      "description": "The souldrinker makes a vow to one of the Four Horsemen or a daemon harbinger, making resurrection difficult but granting +3 bonus on saves against death effects and negative energy.",
+      "keywords": [
+        "apocalyptic vow",
+        "Four Horsemen",
+        "daemon harbinger",
+        "resurrection difficulty",
+        "caster level check",
+        "death effects",
+        "negative energy",
+        "saving throw bonus"
+      ]
+    },
+    {
+      "id": "souldrinker_pzo1139_cacodaemon_familiar_ex",
+      "title": "Cacodaemon Familiar (Ex) (Souldrinker (PZO1139))",
+      "anchor_heading": "#### Cacodaemon Familiar (Ex) {#cacodaemon_familiar_ex}",
+      "description": "The souldrinker gains a cacodaemon familiar that replaces any existing familiar by devouring it, and can use soul gems created by the cacodaemon.",
+      "keywords": [
+        "cacodaemon familiar",
+        "Improved Familiar",
+        "familiar replacement",
+        "soul gems",
+        "evil outsider",
+        "familiar devoured"
+      ]
+    },
+    {
+      "id": "souldrinker_pzo1139_obedience_ex",
+      "title": "Obedience (Ex) (Souldrinker (PZO1139))",
+      "anchor_heading": "#### Obedience (Ex) {#obedience_ex}",
+      "description": "The souldrinker must perform daily obedience to her patron to maintain class abilities and must choose evangelist, exalted, or sentinel path for boon progression.",
+      "keywords": [
+        "daily obedience",
+        "evangelist",
+        "exalted",
+        "sentinel",
+        "spellcasting abilities",
+        "daemonic patron",
+        "boon category"
+      ]
+    },
+    {
+      "id": "souldrinker_pzo1139_enervation_sp",
+      "title": "Enervation (Sp) (Souldrinker (PZO1139))",
+      "anchor_heading": "#### Enervation (Sp) {#enervation_sp}",
+      "description": "The souldrinker can cast enervation as a spell-like ability, starting with 2 uses per day at 2nd level and increasing to 6 uses per day at 8th level.",
+      "keywords": [
+        "enervation",
+        "spell-like ability",
+        "negative levels",
+        "uses per day",
+        "caster level equals character level"
+      ]
+    },
+    {
+      "id": "souldrinker_pzo1139_soul_pool_su",
+      "title": "Soul Pool (Su) (Souldrinker (PZO1139))",
+      "anchor_heading": "#### Soul Pool (Su) {#soul_pool_su}",
+      "description": "The souldrinker maintains a pool of soul points gained by inflicting negative levels, which can be spent to create magic items, recover spell slots, or protect against negative levels.",
+      "keywords": [
+        "soul pool",
+        "soul points",
+        "negative levels",
+        "create magic items",
+        "recover spell slot",
+        "protect soul",
+        "full-round action",
+        "500 gp raw materials"
+      ]
+    },
+    {
+      "id": "souldrinker_pzo1139_daemonic_boon_ex_sp_or_su",
+      "title": "Daemonic Boon ([Ex](https://www.d20pfsrd.com/magic#TOC-Extraordinary-Abilities-Ex-), [Sp](https://www.d20pfsrd.com/magic#TOC-Spell-Like-Abilities-Sp-), or [Su](https://www.d20pfsrd.com/magic#TOC-Supernatural-Abilities-Su-)) (Souldrinker (PZO1139))",
+      "anchor_heading": "#### Daemonic Boon ([Ex](https://www.d20pfsrd.com/magic#TOC-Extraordinary-Abilities-Ex-), [Sp](https://www.d20pfsrd.com/magic#TOC-Spell-Like-Abilities-Sp-), or [Su](https://www.d20pfsrd.com/magic#TOC-Supernatural-Abilities-Su-)) {#daemonic_boon_ex_sp_or_su}",
+      "description": "The souldrinker gains three increasingly powerful boons from her patron at 3rd, 6th, and 9th levels based on her chosen Horseman or harbinger and boon category.",
+      "keywords": [
+        "daemonic boon",
+        "patron boons",
+        "evangelist boons",
+        "exalted boons",
+        "sentinel boons",
+        "Fiendish Obedience",
+        "spell-like ability",
+        "caster level equals character level"
+      ]
+    },
+    {
+      "id": "souldrinker_pzo1139_lesser_oblivion_su",
+      "title": "Lesser Oblivion (Su) (Souldrinker (PZO1139))",
+      "anchor_heading": "#### Lesser Oblivion (Su) {#lesser_oblivion_su}",
+      "description": "At 4th level, the souldrinker gains immunity to specific effects based on her chosen Horseman: diseases, aging/Constitution damage, bleed/Strength damage, or poisons/hunger.",
+      "keywords": [
+        "lesser oblivion",
+        "Horseman of Pestilence",
+        "Horseman of Death",
+        "Horseman of War",
+        "Horseman of Famine",
+        "immunity diseases",
+        "immunity aging",
+        "immunity bleed",
+        "immunity poison",
+        "Constitution damage",
+        "Strength damage"
+      ]
+    },
+    {
+      "id": "souldrinker_pzo1139_oblivion_sp",
+      "title": "Oblivion (Sp) (Souldrinker (PZO1139))",
+      "anchor_heading": "#### Oblivion (Sp) {#oblivion_sp}",
+      "description": "At 7th level, the souldrinker gains an at-will spell-like ability that costs 1 soul point per use, determined by her chosen Horseman.",
+      "keywords": [
+        "oblivion",
+        "soul point cost",
+        "at-will spell-like ability",
+        "contagion",
+        "vampiric touch",
+        "rage",
+        "bestow curse",
+        "1 soul point"
+      ]
+    },
+    {
+      "id": "souldrinker_pzo1139_greater_oblivion_sp",
+      "title": "Greater Oblivion (Sp) (Souldrinker (PZO1139))",
+      "anchor_heading": "#### Greater Oblivion (Sp) {#greater_oblivion_sp}",
+      "description": "At 10th level, the souldrinker gains a more powerful at-will spell-like ability that costs 3 soul points per use, determined by her chosen Horseman.",
+      "keywords": [
+        "greater oblivion",
+        "3 soul points",
+        "at-will spell-like ability",
+        "plague storm",
+        "wither limb",
+        "blade barrier",
+        "quickened feast of ashes"
+      ]
+    }
+  ]
+}

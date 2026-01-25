@@ -1,0 +1,178 @@
+{
+  "file": "planes-walker.md",
+  "source_path": "https://www.d20pfsrd.com/classes/prestige-classes/other-paizo/n-r/planes-walker/",
+  "source_name": "Prestige Class: Planes Walker",
+  "category": "Classes",
+  "toc_content": "",
+  "sections": [
+    {
+      "id": "planes_walker_overview",
+      "title": "Planes Walker (Class Overview)",
+      "anchor_heading": "# Planes Walker",
+      "end_at_heading": "### Requirements",
+      "description": "Overview of the Planes Walker class including role, alignment, hit die, and starting wealth.",
+      "keywords": [
+        "planes walker",
+        "class",
+        "hit die",
+        "role",
+        "alignment"
+      ]
+    },
+    {
+      "id": "planes_walker_weapon_and_armor_proficiency",
+      "title": "Weapon and Armor Proficiency (Planes Walker)",
+      "anchor_heading": "#### Weapon and Armor Proficiency",
+      "description": "The Planes walker gains no additional weapon or armor proficiencies beyond their base class.",
+      "keywords": [
+        "weapon proficiency",
+        "armor proficiency",
+        "no proficiencies",
+        "planes walker proficiency"
+      ]
+    },
+    {
+      "id": "planes_walker_countersummons_su",
+      "title": "Counter-Summons (Su) (Planes Walker)",
+      "anchor_heading": "#### Counter-Summons (Su)",
+      "description": "Allows using summon monster spells as counterspells against conjuration summoning effects, treating them as quickened without spell level increase.",
+      "keywords": [
+        "counter-summons",
+        "counterspell",
+        "summon monster",
+        "ready action",
+        "swift action",
+        "immediate action",
+        "conjuration summoning",
+        "quickened",
+        "outsider summon ability"
+      ]
+    },
+    {
+      "id": "planes_walker_planar_guide_exhttpswwwd20pfsrdcommagictocextraordinaryabili",
+      "title": "Planar Guide ([Ex](https://www.d20pfsrd.com/magic#TOC-Extraordinary-Abilities-Ex-)) (Planes Walker)",
+      "anchor_heading": "#### Planar Guide ([Ex](https://www.d20pfsrd.com/magic#TOC-Extraordinary-Abilities-Ex-))",
+      "description": "Provides the choice of favored enemy (outsider subtype), favored terrain (plane), or terrain mastery benefits every three levels.",
+      "keywords": [
+        "planar guide",
+        "favored enemy",
+        "favored terrain",
+        "terrain mastery",
+        "outsider subtype",
+        "planes",
+        "horizon walker",
+        "ranger abilities"
+      ]
+    },
+    {
+      "id": "planes_walker_planar_channel_su",
+      "title": "Planar Channel (Su) (Planes Walker)",
+      "anchor_heading": "#### Planar Channel (Su)",
+      "description": "Channels baneful energy that damages extraplanar creatures regardless of alignment, functioning like cleric channel energy but only to harm.",
+      "keywords": [
+        "planar channel",
+        "channel energy",
+        "extraplanar",
+        "damage only",
+        "caster level",
+        "cleric level",
+        "cannot heal"
+      ]
+    },
+    {
+      "id": "planes_walker_eradication_su",
+      "title": "Eradication (Su) (Planes Walker)",
+      "anchor_heading": "#### Eradication (Su)",
+      "description": "Grants scaling bonuses to saves against outsiders and increases save DC and caster level when targeting outsiders or countering planar travel.",
+      "keywords": [
+        "eradication",
+        "sacred bonus",
+        "saving throws",
+        "outsiders",
+        "save DC",
+        "caster level",
+        "planar travel",
+        "teleportation",
+        "dispel"
+      ]
+    },
+    {
+      "id": "planes_walker_counterport_su",
+      "title": "Counterport (Su) (Planes Walker)",
+      "anchor_heading": "#### Counterport (Su)",
+      "description": "Allows readying an action to counterspell teleportation effects within 30 feet using identical spells or higher-level conjuration spells.",
+      "keywords": [
+        "counterport",
+        "counterspell",
+        "teleportation",
+        "ready action",
+        "spellcraft",
+        "conjuration",
+        "30 feet",
+        "point of origin"
+      ]
+    },
+    {
+      "id": "planes_walker_planar_scourge_su",
+      "title": "Planar Scourge (Su) (Planes Walker)",
+      "anchor_heading": "#### Planar Scourge (Su)",
+      "description": "Extraplanar creatures that fail saves against planar channel also gain panicked, sickened, or staggered condition for 1d4 rounds.",
+      "keywords": [
+        "planar scourge",
+        "planar channel",
+        "extraplanar",
+        "panicked",
+        "sickened",
+        "staggered",
+        "failed save",
+        "1d4 rounds"
+      ]
+    },
+    {
+      "id": "planes_walker_improved_counterport_su",
+      "title": "Improved Counterport (Su) (Planes Walker)",
+      "anchor_heading": "#### Improved Counterport (Su)",
+      "description": "Upgrades counterport to redirect teleporting creatures and deal damage, plus grants attacks of opportunity against conjured creatures in threatened squares.",
+      "keywords": [
+        "improved counterport",
+        "redirect teleportation",
+        "fortitude save",
+        "1d6 damage per level",
+        "attack of opportunity",
+        "threatened squares",
+        "conjuration"
+      ]
+    },
+    {
+      "id": "planes_walker_planar_purge_su",
+      "title": "Planar Purge (Su) (Planes Walker)",
+      "anchor_heading": "#### Planar Purge (Su)",
+      "description": "Extraplanar creatures failing planar channel saves are banished to their home plane unless they have more than twice the class level in Hit Dice.",
+      "keywords": [
+        "planar purge",
+        "planar channel",
+        "banishment",
+        "extraplanar",
+        "home plane",
+        "hit dice",
+        "twice class level",
+        "no save"
+      ]
+    },
+    {
+      "id": "planes_walker_greater_counterport_su",
+      "title": "Greater Counterport (Su) (Planes Walker)",
+      "anchor_heading": "#### Greater Counterport (Su)",
+      "description": "Allows countering teleportation as an immediate action and can recall recently teleported creatures by expending two planar channel uses.",
+      "keywords": [
+        "greater counterport",
+        "immediate action",
+        "full-round action",
+        "recall teleportation",
+        "expend planar channel",
+        "reverse teleportation",
+        "last turn"
+      ]
+    }
+  ]
+}

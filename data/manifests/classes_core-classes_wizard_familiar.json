@@ -1,0 +1,203 @@
+{
+  "file": "familiar.md",
+  "source_path": "https://www.d20pfsrd.com/classes/core-classes/wizard/familiar/",
+  "sections": [
+    {
+      "id": "familiar_basics_and_table",
+      "title": "Familiar Basics and Selection Table",
+      "anchor_heading": "# Familiars",
+      "description": "Core rules for familiars including what they are, how to obtain and replace them, and the complete table of familiar options with their special abilities",
+      "keywords": [
+        "familiar",
+        "animal companion",
+        "magical beast",
+        "ritual",
+        "improved familiar"
+      ]
+    },
+    {
+      "id": "familiar_mechanics",
+      "title": "Familiar Mechanics and Advancement",
+      "anchor_heading": "#### Familiar Basics",
+      "description": "Detailed mechanics for how familiars work including hit points, attacks, saves, skills, and level-based advancement table with special abilities",
+      "keywords": [
+        "hit dice",
+        "hit points",
+        "attacks",
+        "saving throws",
+        "skills",
+        "natural armor",
+        "intelligence",
+        "spell resistance"
+      ]
+    },
+    {
+      "id": "familiar_ability_descriptions",
+      "title": "Familiar Special Abilities",
+      "anchor_heading": "#### Familiar Ability Descriptions",
+      "description": "Detailed descriptions of all special abilities familiars gain as they advance, including alertness, improved evasion, share spells, empathic link, deliver touch spells, and communication abilities",
+      "keywords": [
+        "alertness",
+        "improved evasion",
+        "share spells",
+        "empathic link",
+        "deliver touch spells",
+        "speak with master",
+        "scry on familiar"
+      ]
+    },
+    {
+      "id": "small_and_vermin_familiars",
+      "title": "Small and Vermin Familiars",
+      "anchor_heading": "## Small and Vermin Familiars",
+      "description": "Special rules for small-sized familiars and how vermin gain intelligence when becoming familiars",
+      "keywords": [
+        "small familiar",
+        "vermin familiar",
+        "flanking",
+        "intelligence",
+        "mindless",
+        "communication"
+      ]
+    },
+    {
+      "id": "approximating_familiars_aa",
+      "title": "Approximating Familiars (Simple Method)",
+      "anchor_heading": "## Approximating Familiars (AA)",
+      "description": "Guidelines for creating custom familiars by re-skinning existing stat blocks to represent different creatures",
+      "keywords": [
+        "custom familiar",
+        "re-skin",
+        "stat block",
+        "challenge rating",
+        "young template"
+      ]
+    },
+    {
+      "id": "approximating_familiars_ff",
+      "title": "Advanced Familiar Customization Methods",
+      "anchor_heading": "## Approximating Familiars (FF)",
+      "description": "Simple and advanced methods for creating custom familiars, including guidelines for modifying skills, feats, attacks, and speeds while maintaining balance",
+      "keywords": [
+        "custom familiar",
+        "simple method",
+        "advanced method",
+        "skills",
+        "feats",
+        "natural attacks",
+        "movement speed"
+      ]
+    },
+    {
+      "id": "controlling_companions",
+      "title": "Controlling Companions and Familiars",
+      "anchor_heading": "## Controlling Companions, Familiars and Followers",
+      "description": "Rules for who controls various types of companions including familiars, covering aspects of control, game balance, and information sharing between characters and companions",
+      "keywords": [
+        "companion control",
+        "nonsentient",
+        "sentient",
+        "eidolon",
+        "magical control",
+        "handle animal"
+      ]
+    },
+    {
+      "id": "advancing_companions",
+      "title": "Advancing Companions",
+      "anchor_heading": "## Advancing Companions",
+      "description": "Guidelines for how companions advance and gain levels, including who makes advancement choices for animal companions, cohorts, eidolons, and other companion types",
+      "keywords": [
+        "advancement",
+        "animal companion",
+        "cohort",
+        "eidolon",
+        "follower",
+        "feats",
+        "skills",
+        "ability scores"
+      ]
+    },
+    {
+      "id": "intelligent_animals",
+      "title": "Intelligent Animals",
+      "anchor_heading": "## Intelligent Animals",
+      "description": "Rules for animals with Intelligence 3+ including language learning, tool use, communication limitations, and the awaken spell's effects",
+      "keywords": [
+        "intelligent animal",
+        "intelligence",
+        "language",
+        "awaken",
+        "tool use",
+        "handle animal"
+      ]
+    },
+    {
+      "id": "companion_plot_hooks",
+      "title": "Companion Plot Hooks",
+      "anchor_heading": "## Companion Plot Hooks",
+      "description": "Story and roleplaying opportunities created by companions, with specific plot hook ideas for animal companions, cohorts, eidolons, familiars, and followers",
+      "keywords": [
+        "plot hooks",
+        "animal companion",
+        "cohort",
+        "eidolon",
+        "familiar",
+        "follower",
+        "backstory"
+      ]
+    },
+    {
+      "id": "reviving_replacing_companions",
+      "title": "Reviving and Replacing Companions",
+      "anchor_heading": "## Reviving And Replacing Companions",
+      "description": "Rules for bringing back dead companions through resurrection magic and finding replacement companions when the original is lost or dies",
+      "keywords": [
+        "revive companion",
+        "replacement",
+        "raise dead",
+        "resurrection",
+        "reincarnate",
+        "ritual",
+        "ceremony"
+      ]
+    },
+    {
+      "id": "bloodline_familiars",
+      "title": "Bloodline Familiars",
+      "anchor_heading": "## Bloodline Familiars",
+      "description": "Special familiar abilities based on sorcerer bloodlines, including specific abilities for aberrant, abyssal, arcane, celestial, destined, draconic, elemental, fey, infernal, and undead bloodlines",
+      "keywords": [
+        "bloodline familiar",
+        "sorcerer",
+        "bloodrager",
+        "bloodline power",
+        "aberrant",
+        "abyssal",
+        "celestial",
+        "draconic",
+        "infernal"
+      ]
+    },
+    {
+      "id": "patron_familiars",
+      "title": "Patron Familiars",
+      "anchor_heading": "## Patron Familiars",
+      "description": "Special familiar abilities tied to witch patrons, including abilities for agility, animals, deception, elements, endurance, plague, shadow, strength, transformation, trickery, water, and wisdom patrons",
+      "keywords": [
+        "patron familiar",
+        "witch",
+        "patron",
+        "agility",
+        "animals",
+        "deception",
+        "elements",
+        "shadow",
+        "transformation",
+        "trickery"
+      ]
+    }
+  ],
+  "source_name": "Familiars",
+  "category": "Core Rules"
+}

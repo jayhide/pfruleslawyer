@@ -1,0 +1,211 @@
+{
+  "file": "esoteric-knight.md",
+  "source_path": "https://www.d20pfsrd.com/classes/prestige-classes/other-paizo/e-h/esoteric-knight/",
+  "source_name": "Prestige Class: Esoteric Knight",
+  "category": "Classes",
+  "toc_content": "Contents\n* [Requirements](#requirements)\n* [Class Skills](#class_skills)\n* [Class Features](#class_features)\n  + [Weapon and Armor Proficiency](#weapon_and_armor_proficiency)\n  + [Spells per Day](#spells_per_day)\n  + [Martial Esoterica](#martial_esoterica)\n  + [Psychic Esoterica](#psychic_esoterica)\n  + [Battle Mind (Su)](#battle_mind_su)\n  + [Confounding Projection (Su)](#confounding_projection_su)\n  + [Eldritch Armor (Su)](#eldritch_armor_su)\n  + [Eldritch Weapon (Su)](#eldritch_weapon_su)\n  + [Phantom\u2019s Armory (Su)](#phantoms_armory_su)\n  + [Shadow Projection (Su)](#shadow_projection_su)\n  + [Step through Reality (Sp)](#step_through_reality_sp)",
+  "sections": [
+    {
+      "id": "esoteric_knight_overview",
+      "title": "Esoteric Knight (Class Overview)",
+      "anchor_heading": "# Esoteric Knight",
+      "end_at_heading": "### Requirements {#requirements}",
+      "description": "Overview of the Esoteric Knight class including role, alignment, hit die, and starting wealth.",
+      "keywords": [
+        "esoteric knight",
+        "class",
+        "hit die",
+        "role",
+        "alignment"
+      ]
+    },
+    {
+      "id": "esoteric_knight_weapon_and_armor_proficiency",
+      "title": "Weapon and Armor Proficiency (Esoteric Knight)",
+      "anchor_heading": "#### Weapon and Armor Proficiency {#weapon_and_armor_proficiency}",
+      "description": "Grants proficiency with all simple and martial weapons, light armor, medium armor, and shields.",
+      "keywords": [
+        "weapon proficiency",
+        "armor proficiency",
+        "simple weapons",
+        "martial weapons",
+        "light armor",
+        "medium armor",
+        "shields",
+        "esoteric knight proficiencies"
+      ]
+    },
+    {
+      "id": "esoteric_knight_spells_per_day",
+      "title": "Spells per Day (Esoteric Knight)",
+      "anchor_heading": "#### Spells per Day {#spells_per_day}",
+      "description": "Advances spellcasting in a psychic spellcasting class or kineticist class abilities at specific levels. For kineticists, increases effective level for wild talents, kinetic blast spell level, and burn capacity.",
+      "keywords": [
+        "spells per day",
+        "psychic spellcasting",
+        "kineticist",
+        "kinetic blast",
+        "wild talents",
+        "burn",
+        "effective caster level",
+        "spontaneous spellcaster",
+        "infusions"
+      ]
+    },
+    {
+      "id": "esoteric_knight_martial_esoterica",
+      "title": "Martial Esoterica (Esoteric Knight)",
+      "anchor_heading": "#### Martial Esoterica {#martial_esoterica}",
+      "description": "Grants bonus combat feats every other level starting at 1st, treating esoteric knight levels as fighter levels for prerequisites. Can exchange the most recent feat by expending spell slots or accepting burn.",
+      "keywords": [
+        "martial esoterica",
+        "bonus combat feats",
+        "fighter levels",
+        "feat prerequisites",
+        "spell slot",
+        "burn",
+        "standard action",
+        "feat exchange"
+      ]
+    },
+    {
+      "id": "esoteric_knight_psychic_esoterica",
+      "title": "Psychic Esoterica (Esoteric Knight)",
+      "anchor_heading": "#### Psychic Esoterica {#psychic_esoterica}",
+      "description": "Special abilities gained every other level starting at 2nd that enhance combat capabilities. Many require expending spell slots or accepting burn to activate.",
+      "keywords": [
+        "psychic esoterica",
+        "air walk",
+        "psychokinesis",
+        "mental feat",
+        "mind connection",
+        "psychic daring",
+        "psychic rage",
+        "spell slots",
+        "burn",
+        "mage hand",
+        "levitate",
+        "telepathic bond",
+        "grit",
+        "panache",
+        "rage duration"
+      ]
+    },
+    {
+      "id": "esoteric_knight_battle_mind_su",
+      "title": "Battle Mind (Su) (Esoteric Knight)",
+      "anchor_heading": "#### Battle Mind (Su) {#battle_mind_su}",
+      "description": "Expend a 1st-level spell slot as a free action to apply metamagic-like benefits to spells or grant archery feats to kinetic blasts.",
+      "keywords": [
+        "battle mind",
+        "Intuitive Spell",
+        "Logical Spell",
+        "Point-Blank Shot",
+        "Precise Shot",
+        "kinetic blast",
+        "free action",
+        "1st-level spell slot",
+        "metamagic"
+      ]
+    },
+    {
+      "id": "esoteric_knight_confounding_projection_su",
+      "title": "Confounding Projection (Su) (Esoteric Knight)",
+      "anchor_heading": "#### Confounding Projection (Su) {#confounding_projection_su}",
+      "description": "Creates a mental duplicate that grants flanking benefits against a target within 30 feet, even against enemies normally immune to flanking.",
+      "keywords": [
+        "confounding projection",
+        "flanking",
+        "mental duplicate",
+        "mind-affecting",
+        "swift action",
+        "1st-level spell slot",
+        "immune to flanking"
+      ]
+    },
+    {
+      "id": "esoteric_knight_eldritch_armor_su",
+      "title": "Eldritch Armor (Su) (Esoteric Knight)",
+      "anchor_heading": "#### Eldritch Armor (Su) {#eldritch_armor_su}",
+      "description": "Adds Intelligence or Charisma bonus as enhancement bonus to armor or shield, with option to trade enhancement for special abilities like glamered or shadow.",
+      "keywords": [
+        "eldritch armor",
+        "enhancement bonus",
+        "Intelligence bonus",
+        "Charisma bonus",
+        "glamered",
+        "shadow",
+        "slick",
+        "armor special abilities",
+        "shield enhancement"
+      ]
+    },
+    {
+      "id": "esoteric_knight_eldritch_weapon_su",
+      "title": "Eldritch Weapon (Su) (Esoteric Knight)",
+      "anchor_heading": "#### Eldritch Weapon (Su) {#eldritch_weapon_su}",
+      "description": "Temporarily grants weapon special abilities like flaming, frost, or keen, or makes weapons count as cold iron or silver for bypassing damage reduction.",
+      "keywords": [
+        "eldritch weapon",
+        "weapon special abilities",
+        "defending",
+        "flaming",
+        "frost",
+        "keen",
+        "merciful",
+        "shock",
+        "cold iron",
+        "silver",
+        "damage reduction",
+        "swift action",
+        "1st-level spell slot"
+      ]
+    },
+    {
+      "id": "esoteric_knight_phantoms_armory_su",
+      "title": "Phantom\u2019s Armory (Su) (Esoteric Knight)",
+      "anchor_heading": "#### Phantom\u2019s Armory (Su) {#phantoms_armory_su}",
+      "description": "Makes attacks and armor function as ghost touch for 1 minute, affecting both weapon attacks and kinetic blasts.",
+      "keywords": [
+        "phantom's armory",
+        "ghost touch",
+        "kinetic blast",
+        "incorporeal",
+        "swift action",
+        "2nd-level spell slot",
+        "ghost touch weapons",
+        "ghost touch armor"
+      ]
+    },
+    {
+      "id": "esoteric_knight_shadow_projection_su",
+      "title": "Shadow Projection (Su) (Esoteric Knight)",
+      "anchor_heading": "#### Shadow Projection (Su) {#shadow_projection_su}",
+      "description": "Summons a phantom ally resembling the esoteric knight that lasts 1 minute per level with no penalty for death or dismissal.",
+      "keywords": [
+        "shadow projection",
+        "summon shadow",
+        "phantom ally",
+        "shadowdancer",
+        "standard action",
+        "3rd-level spell slot",
+        "shadow creature"
+      ]
+    },
+    {
+      "id": "esoteric_knight_step_through_reality_sp",
+      "title": "Step through Reality (Sp) (Esoteric Knight)",
+      "anchor_heading": "#### Step through Reality (Sp) {#step_through_reality_sp}",
+      "description": "Teleports up to 30 feet as dimension door without provoking attacks of opportunity, but cannot bring other creatures.",
+      "keywords": [
+        "step through reality",
+        "teleport",
+        "dimension door",
+        "swift action",
+        "3rd-level spell slot",
+        "attacks of opportunity",
+        "30 feet"
+      ]
+    }
+  ]
+}

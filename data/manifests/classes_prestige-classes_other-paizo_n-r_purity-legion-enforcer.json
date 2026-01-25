@@ -1,0 +1,251 @@
+{
+  "file": "purity-legion-enforcer.md",
+  "source_path": "https://www.d20pfsrd.com/classes/prestige-classes/other-paizo/n-r/purity-legion-enforcer/",
+  "source_name": "Prestige Class: Purity Legion Enforcer",
+  "category": "Classes",
+  "toc_content": "Contents\n* [Requirements](#requirements)\n* [Class Skills](#class_skills)\n* [Class Features](#class_features)\n  + [Weapon and Armor Proficiency](#weapon_and_armor_proficiency)\n  + [Aura Sense (Sp)](#aura_sense_sp)\n  + [Nonbeliever (Su)](#nonbeliever_su)\n  + [Divine Detective (Sp)](#divine_detective_sp)\n  + [Voice of Law (Ex)](#voice_of_law_ex)\n  + [Improved Godless Healing (Su)](#improved_godless_healing_su)\n  + [Confiscate (Ex)](#confiscate_ex)\n  + [Decree of Law (Ex)](#decree_of_law_ex)\n  + [Discern Lies (Sp)](#discern_lies_sp)\n  + [Disruptive Critical (Su)](#disruptive_critical_su)\n  + [Edict of Law (Ex)](#edict_of_law_ex)\n  + [Iconoclast (Ex)](#iconoclast_ex)\n  + [Absolute Law (Ex)](#absolute_law_ex)\n  + [Traces of Divinity (Su)](#traces_of_divinity_su)\n  + [Iron-Willed Atheist (Su)](#iron-willed_atheist_su)",
+  "sections": [
+    {
+      "id": "purity_legion_enforcer_overview",
+      "title": "Purity Legion Enforcer (Class Overview)",
+      "anchor_heading": "# Purity Legion Enforcer",
+      "end_at_heading": "### Requirements {#requirements}",
+      "description": "Overview of the Purity Legion Enforcer class including role, alignment, hit die, and starting wealth.",
+      "keywords": [
+        "purity legion enforcer",
+        "class",
+        "hit die",
+        "role",
+        "alignment"
+      ]
+    },
+    {
+      "id": "purity_legion_enforcer_weapon_and_armor_proficiency",
+      "title": "Weapon and Armor Proficiency (Purity Legion Enforcer)",
+      "anchor_heading": "#### Weapon and Armor Proficiency {#weapon_and_armor_proficiency}",
+      "description": "Grants proficiency with simple weapons plus falchion, scimitar, and shortbow, as well as light and medium armor and shields (except tower shields).",
+      "keywords": [
+        "weapon proficiency",
+        "armor proficiency",
+        "falchion proficiency",
+        "scimitar proficiency",
+        "shortbow proficiency",
+        "light armor proficiency",
+        "medium armor proficiency",
+        "shield proficiency",
+        "tower shield restriction"
+      ]
+    },
+    {
+      "id": "purity_legion_enforcer_aura_sense_sp",
+      "title": "Aura Sense (Sp) (Purity Legion Enforcer)",
+      "anchor_heading": "#### Aura Sense (Sp) {#aura_sense_sp}",
+      "description": "Can cast detect chaos/evil/good/law at will as a spell-like ability, but only detects moderate or higher power auras and one alignment type at a time.",
+      "keywords": [
+        "aura sense",
+        "detect chaos",
+        "detect evil",
+        "detect good",
+        "detect law",
+        "spell-like ability",
+        "moderate aura",
+        "alignment detection",
+        "at will ability"
+      ]
+    },
+    {
+      "id": "purity_legion_enforcer_nonbeliever_su",
+      "title": "Nonbeliever (Su) (Purity Legion Enforcer)",
+      "anchor_heading": "#### Nonbeliever (Su) {#nonbeliever_su}",
+      "description": "Gains bonus equal to half class level on saves against divine spells and spell-like abilities, but must always attempt saves against beneficial divine magic.",
+      "keywords": [
+        "nonbeliever",
+        "divine spell resistance",
+        "saving throw bonus",
+        "divine spell-like abilities",
+        "beneficial divine magic",
+        "mandatory saves",
+        "anti-divine"
+      ]
+    },
+    {
+      "id": "purity_legion_enforcer_divine_detective_sp",
+      "title": "Divine Detective (Sp) (Purity Legion Enforcer)",
+      "anchor_heading": "#### Divine Detective (Sp) {#divine_detective_sp}",
+      "description": "Can cast detect magic at will and gains bonuses on checks to identify divine spells, religious items, and divine magic items.",
+      "keywords": [
+        "divine detective",
+        "detect magic at will",
+        "identify divine spells",
+        "spellcraft divine",
+        "knowledge religion",
+        "religious paraphernalia",
+        "divine scrolls",
+        "aligned weapons",
+        "holy symbols",
+        "divine magic items"
+      ]
+    },
+    {
+      "id": "purity_legion_enforcer_voice_of_law_ex",
+      "title": "Voice of Law (Ex) (Purity Legion Enforcer)",
+      "anchor_heading": "#### Voice of Law (Ex) {#voice_of_law_ex}",
+      "description": "Can use Intimidate as a standard action to demoralize all worshipers of a specific deity within 30 feet, imposing concentration penalties on affected divine spellcasters.",
+      "keywords": [
+        "voice of law",
+        "intimidate deity worshipers",
+        "demoralize worshipers",
+        "concentration penalty",
+        "divine spellcaster intimidation",
+        "standard action intimidate",
+        "30 feet range",
+        "shaken condition"
+      ]
+    },
+    {
+      "id": "purity_legion_enforcer_improved_godless_healing_su",
+      "title": "Improved Godless Healing (Su) (Purity Legion Enforcer)",
+      "anchor_heading": "#### Improved Godless Healing (Su) {#improved_godless_healing_su}",
+      "description": "Can use Godless Healing feat one additional time per day and heals extra 1d8 points per 3 levels (maximum 3d8 at 9th level).",
+      "keywords": [
+        "improved godless healing",
+        "godless healing feat",
+        "additional healing",
+        "extra healing dice",
+        "atheist healing",
+        "supernatural healing"
+      ]
+    },
+    {
+      "id": "purity_legion_enforcer_confiscate_ex",
+      "title": "Confiscate (Ex) (Purity Legion Enforcer)",
+      "anchor_heading": "#### Confiscate (Ex) {#confiscate_ex}",
+      "description": "Gains +2 bonus on disarm and steal combat maneuvers against divine items and can perform these maneuvers without provoking attacks of opportunity.",
+      "keywords": [
+        "confiscate",
+        "disarm divine items",
+        "steal combat maneuver",
+        "divine paraphernalia",
+        "aligned weapons",
+        "divine scrolls",
+        "holy symbols",
+        "unholy symbols",
+        "no attack of opportunity",
+        "combat maneuver bonus"
+      ]
+    },
+    {
+      "id": "purity_legion_enforcer_decree_of_law_ex",
+      "title": "Decree of Law (Ex) (Purity Legion Enforcer)",
+      "anchor_heading": "#### Decree of Law (Ex) {#decree_of_law_ex}",
+      "description": "Upgrades voice of law to a move action and grants +2 morale bonus on attack and damage rolls against creatures affected by voice of law.",
+      "keywords": [
+        "decree of law",
+        "voice of law move action",
+        "morale bonus attacks",
+        "morale bonus damage",
+        "improved voice of law"
+      ]
+    },
+    {
+      "id": "purity_legion_enforcer_discern_lies_sp",
+      "title": "Discern Lies (Sp) (Purity Legion Enforcer)",
+      "anchor_heading": "#### Discern Lies (Sp) {#discern_lies_sp}",
+      "description": "Can use discern lies as an immediate action for a number of rounds per day equal to enforcer level.",
+      "keywords": [
+        "discern lies",
+        "immediate action",
+        "lie detection",
+        "rounds per day",
+        "truth detection",
+        "spell-like ability"
+      ]
+    },
+    {
+      "id": "purity_legion_enforcer_disruptive_critical_su",
+      "title": "Disruptive Critical (Su) (Purity Legion Enforcer)",
+      "anchor_heading": "#### Disruptive Critical (Su) {#disruptive_critical_su}",
+      "description": "Critical hits against divine spellcasters temporarily sever their divine connection, preventing divine spellcasting until they make a concentration check.",
+      "keywords": [
+        "disruptive critical",
+        "critical hit effects",
+        "divine spellcaster disruption",
+        "sever divine connection",
+        "prevent divine spells",
+        "concentration check recovery",
+        "supernatural abilities blocked",
+        "spell-like abilities blocked"
+      ]
+    },
+    {
+      "id": "purity_legion_enforcer_edict_of_law_ex",
+      "title": "Edict of Law (Ex) (Purity Legion Enforcer)",
+      "anchor_heading": "#### Edict of Law (Ex) {#edict_of_law_ex}",
+      "description": "Upgrades voice of law to a swift action and extends the shaken condition to a minimum of 1 minute instead of 1 round.",
+      "keywords": [
+        "edict of law",
+        "voice of law swift action",
+        "extended shaken duration",
+        "1 minute minimum",
+        "improved intimidation"
+      ]
+    },
+    {
+      "id": "purity_legion_enforcer_iconoclast_ex",
+      "title": "Iconoclast (Ex) (Purity Legion Enforcer)",
+      "anchor_heading": "#### Iconoclast (Ex) {#iconoclast_ex}",
+      "description": "Gains +2 bonus on sunder combat maneuvers against divine items and can sunder them without provoking attacks of opportunity.",
+      "keywords": [
+        "iconoclast",
+        "sunder divine items",
+        "sunder combat maneuver",
+        "divine paraphernalia destruction",
+        "no attack of opportunity sunder",
+        "combat maneuver bonus sunder"
+      ]
+    },
+    {
+      "id": "purity_legion_enforcer_absolute_law_ex",
+      "title": "Absolute Law (Ex) (Purity Legion Enforcer)",
+      "anchor_heading": "#### Absolute Law (Ex) {#absolute_law_ex}",
+      "description": "Increases the damage bonus against creatures affected by voice of law ability from +2 to +4.",
+      "keywords": [
+        "absolute law",
+        "increased damage bonus",
+        "voice of law damage",
+        "+4 damage bonus",
+        "improved combat effectiveness"
+      ]
+    },
+    {
+      "id": "purity_legion_enforcer_traces_of_divinity_su",
+      "title": "Traces of Divinity (Su) (Purity Legion Enforcer)",
+      "anchor_heading": "#### Traces of Divinity (Su) {#traces_of_divinity_su}",
+      "description": "When using detect magic on lingering divine auras, treats them as one strength level higher for duration and can sense the caster's aura on successful Spellcraft checks.",
+      "keywords": [
+        "traces of divinity",
+        "lingering divine aura",
+        "detect magic enhancement",
+        "aura strength level",
+        "divine spell tracking",
+        "caster aura detection",
+        "spellcraft divine tracking"
+      ]
+    },
+    {
+      "id": "purity_legion_enforcer_iron-willed_atheist_su",
+      "title": "Iron-Willed Atheist (Su) (Purity Legion Enforcer)",
+      "anchor_heading": "#### Iron-Willed Atheist (Su) {#iron-willed_atheist_su}",
+      "description": "Gains spell resistance equal to 11 + character level against divine spells and abilities (cannot be lowered voluntarily) and increases voice of law damage bonus to +6.",
+      "keywords": [
+        "iron-willed atheist",
+        "spell resistance divine",
+        "cannot lower spell resistance",
+        "involuntary spell resistance",
+        "+6 damage bonus",
+        "divine spell immunity",
+        "character level spell resistance"
+      ]
+    }
+  ]
+}

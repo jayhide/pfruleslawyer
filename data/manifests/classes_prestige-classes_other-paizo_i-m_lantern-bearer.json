@@ -1,0 +1,205 @@
+{
+  "file": "lantern-bearer.md",
+  "source_path": "https://www.d20pfsrd.com/classes/prestige-classes/other-paizo/i-m/lantern-bearer/",
+  "source_name": "Prestige Class: Lantern Bearer",
+  "category": "Classes",
+  "toc_content": "Contents\n* [Requirements](#requirements)\n* [Class Skills](#class_skills)\n* [Class Features](#class_features)\n  + [Lantern Arcana (Sp)](#lantern_arcana_sp)\n  + [Luminous Potency (Su)](#luminous_potency_su)\n  + [Bitter Armament (Su)](#bitter_armament_su)\n  + [Favored Enemy (Ex)](#favored_enemy_ex)\n  + [Superior Discernment (Ex)](#superior_discernment_ex)\n  + [Unbounded Stride (Su)](#unbounded_stride_su)\n  + [Proven Weapon Familiarity (Ex)](#proven_weapon_familiarity_ex)\n  + [Celestial Weaponry (Su)](#celestial_weaponry_su)\n  + [Fade from Sight (Su)](#fade_from_sight_su)\n  + [Gatewalk (Su)](#gatewalk_su)\n  + [Bringer of Brightness (Sp)](#bringer_of_brightness_sp)",
+  "sections": [
+    {
+      "id": "lantern_bearer_overview",
+      "title": "Lantern Bearer (Class Overview)",
+      "anchor_heading": "# Lantern Bearer",
+      "end_at_heading": "### Requirements {#requirements}",
+      "description": "Overview of the Lantern Bearer class including role, alignment, hit die, and starting wealth.",
+      "keywords": [
+        "lantern bearer",
+        "class",
+        "hit die",
+        "role",
+        "alignment"
+      ]
+    },
+    {
+      "id": "lantern_bearer_lantern_arcana_sp",
+      "title": "Lantern Arcana (Sp) (Lantern Bearer)",
+      "anchor_heading": "#### Lantern Arcana (Sp) {#lantern_arcana_sp}",
+      "description": "Grants a series of spell-like abilities with uses per day scaling with class level, including light-based spells, darkvision, and protection effects. Caster level equals character level and save DCs are Intelligence-based.",
+      "keywords": [
+        "lantern arcana",
+        "spell-like abilities",
+        "dancing lights",
+        "faerie fire",
+        "darkvision",
+        "continual flame",
+        "searing light",
+        "daylight",
+        "uses per day",
+        "Intelligence modifier",
+        "caster level",
+        "save DC"
+      ]
+    },
+    {
+      "id": "lantern_bearer_luminous_potency_su",
+      "title": "Luminous Potency (Su) (Lantern Bearer)",
+      "anchor_heading": "#### Luminous Potency (Su) {#luminous_potency_su}",
+      "description": "Adds Lantern Bearer class level as a bonus to caster level checks made to overcome spell resistance when casting spells from other classes or using lantern arcana abilities.",
+      "keywords": [
+        "luminous potency",
+        "spell resistance",
+        "caster level check",
+        "overcome SR",
+        "penetrate spell resistance",
+        "bonus to caster level"
+      ]
+    },
+    {
+      "id": "lantern_bearer_bitter_armament_su",
+      "title": "Bitter Armament (Su) (Lantern Bearer)",
+      "anchor_heading": "#### Bitter Armament (Su) {#bitter_armament_su}",
+      "description": "Metal weapons wielded by the Lantern Bearer are treated as cold iron for overcoming damage reduction, retaining this property for 1 round after leaving her grasp.",
+      "keywords": [
+        "bitter armament",
+        "cold iron",
+        "damage reduction",
+        "metal weapons",
+        "ammunition",
+        "special material",
+        "weapon enhancement"
+      ]
+    },
+    {
+      "id": "lantern_bearer_favored_enemy_ex",
+      "title": "Favored Enemy (Ex) (Lantern Bearer)",
+      "anchor_heading": "#### Favored Enemy (Ex) {#favored_enemy_ex}",
+      "description": "Functions like the ranger favored enemy ability, selecting from specific creature types and stacking with other classes that grant favored enemy. Gains additional selection and bonus increase at 8th level.",
+      "keywords": [
+        "favored enemy",
+        "aberration",
+        "animal",
+        "fey",
+        "humanoid elf",
+        "outsider evil",
+        "plant",
+        "ranger levels",
+        "class stacking",
+        "attack bonus",
+        "damage bonus"
+      ]
+    },
+    {
+      "id": "lantern_bearer_superior_discernment_ex",
+      "title": "Superior Discernment (Ex) (Lantern Bearer)",
+      "anchor_heading": "#### Superior Discernment (Ex) {#superior_discernment_ex}",
+      "description": "Grants one of three specific bonus feats (Eagle Eyes, Elven Accuracy, or Sharp Senses) even without meeting prerequisites.",
+      "keywords": [
+        "superior discernment",
+        "Eagle Eyes",
+        "Elven Accuracy",
+        "Sharp Senses",
+        "bonus feat",
+        "ignore prerequisites",
+        "perception bonus"
+      ]
+    },
+    {
+      "id": "lantern_bearer_unbounded_stride_su",
+      "title": "Unbounded Stride (Su) (Lantern Bearer)",
+      "anchor_heading": "#### Unbounded Stride (Su) {#unbounded_stride_su}",
+      "description": "As a swift action, grants immunity to movement-impairing effects including magical areas, entanglement, and difficult terrain for a limited number of rounds per day equal to class level.",
+      "keywords": [
+        "unbounded stride",
+        "swift action",
+        "movement immunity",
+        "entangled condition",
+        "solid fog",
+        "web",
+        "woodland stride",
+        "magical movement effects",
+        "rounds per day"
+      ]
+    },
+    {
+      "id": "lantern_bearer_proven_weapon_familiarity_ex",
+      "title": "Proven Weapon Familiarity (Ex) (Lantern Bearer)",
+      "anchor_heading": "#### Proven Weapon Familiarity (Ex) {#proven_weapon_familiarity_ex}",
+      "description": "Provides a +1 bonus on attack and damage rolls with specific elven weapons including bows, swords, and any weapon with 'elven' in its name.",
+      "keywords": [
+        "proven weapon familiarity",
+        "elven weapons",
+        "composite longbow",
+        "longbow",
+        "longsword",
+        "rapier",
+        "shortbow",
+        "short sword",
+        "attack bonus",
+        "damage bonus"
+      ]
+    },
+    {
+      "id": "lantern_bearer_celestial_weaponry_su",
+      "title": "Celestial Weaponry (Su) (Lantern Bearer)",
+      "anchor_heading": "#### Celestial Weaponry (Su) {#celestial_weaponry_su}",
+      "description": "All attacks made by the Lantern Bearer are treated as good-aligned for the purpose of overcoming damage reduction.",
+      "keywords": [
+        "celestial weaponry",
+        "good-aligned",
+        "damage reduction",
+        "alignment damage reduction",
+        "good weapons",
+        "evil outsiders"
+      ]
+    },
+    {
+      "id": "lantern_bearer_fade_from_sight_su",
+      "title": "Fade from Sight (Su) (Lantern Bearer)",
+      "anchor_heading": "#### Fade from Sight (Su) {#fade_from_sight_su}",
+      "description": "Allows use of Stealth without cover or concealment and even while being observed, activated as a swift action for a limited number of rounds per day equal to class level.",
+      "keywords": [
+        "fade from sight",
+        "Stealth",
+        "hide in plain sight",
+        "swift action",
+        "no cover",
+        "being observed",
+        "rounds per day",
+        "concealment"
+      ]
+    },
+    {
+      "id": "lantern_bearer_gatewalk_su",
+      "title": "Gatewalk (Su) (Lantern Bearer)",
+      "anchor_heading": "#### Gatewalk (Su) {#gatewalk_su}",
+      "description": "Grants teleportation to studied elf gates once per day as a full-round action, plus dimension door-like movement twice per day as a swift action with 50-foot range.",
+      "keywords": [
+        "gatewalk",
+        "teleport",
+        "elf gate",
+        "word of recall",
+        "dimension door",
+        "full-round action",
+        "swift action",
+        "50 feet",
+        "teleportation",
+        "planar travel"
+      ]
+    },
+    {
+      "id": "lantern_bearer_bringer_of_brightness_sp",
+      "title": "Bringer of Brightness (Sp) (Lantern Bearer)",
+      "anchor_heading": "#### Bringer of Brightness (Sp) {#bringer_of_brightness_sp}",
+      "description": "Once per day, engulfs the Lantern Bearer in brilliant radiance functioning as a holy aura spell targeting only herself.",
+      "keywords": [
+        "bringer of brightness",
+        "holy aura",
+        "radiance",
+        "spell resistance",
+        "deflection bonus",
+        "once per day",
+        "self-target",
+        "divine protection"
+      ]
+    }
+  ]
+}

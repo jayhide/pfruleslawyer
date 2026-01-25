@@ -1,0 +1,112 @@
+{
+  "file": "anchorite.md",
+  "source_path": "https://www.d20pfsrd.com/classes/prestige-classes/other-paizo/a-b/anchorite/",
+  "source_name": "Prestige Class: Anchorite of Dawn",
+  "category": "Classes",
+  "toc_content": "Contents\n* [Requirements](#requirements)\n* [Class Skills](#class_skills)\n* [Class Features](#class_features)\n  + [Solar Invocation (Su)](#solar_invocation_su)\n  + [Credence](#credence)\n  + [Bask in Radiance (Su)](#bask_in_radiance_su)\n  + [Sunbeam (Sp)](#sunbeam_sp)\n  + [Invocation of Dawn (Su)](#invocation_of_dawn_su)",
+  "sections": [
+    {
+      "id": "anchorite_of_dawn_overview",
+      "title": "Anchorite of Dawn (Class Overview)",
+      "anchor_heading": "# Anchorite of Dawn",
+      "end_at_heading": "### Requirements {#requirements}",
+      "description": "Overview of the Anchorite of Dawn class including role, alignment, hit die, and starting wealth.",
+      "keywords": [
+        "anchorite of dawn",
+        "class",
+        "hit die",
+        "role",
+        "alignment"
+      ]
+    },
+    {
+      "id": "anchorite_of_dawn_solar_invocation_su",
+      "title": "Solar Invocation (Su) (Anchorite of Dawn)",
+      "anchor_heading": "#### Solar Invocation (Su) {#solar_invocation_su}",
+      "description": "Grants competence bonuses to attack rolls, damage rolls, and spell DCs against evil creatures while outdoors in light and presenting a holy symbol or scimitar. Duration based on class level and Charisma modifier.",
+      "keywords": [
+        "solar invocation",
+        "competence bonus",
+        "evil creatures",
+        "holy symbol",
+        "scimitar",
+        "outdoor light requirement",
+        "standard action",
+        "move action",
+        "swift action",
+        "animal companion bonus",
+        "Charisma modifier",
+        "rounds per day"
+      ]
+    },
+    {
+      "id": "anchorite_of_dawn_credence",
+      "title": "Credence (Anchorite of Dawn)",
+      "anchor_heading": "#### Credence {#credence}",
+      "description": "Customizable class features chosen every 2 levels starting at 2nd level that enhance combat abilities, expand solar invocation, or improve existing class features.",
+      "keywords": [
+        "credence",
+        "dervish dance",
+        "divine light",
+        "extra invocations",
+        "focused class feature",
+        "shining servants",
+        "solar defense",
+        "solar weapons",
+        "sun blade",
+        "sun's mercy",
+        "flaming weapon",
+        "flaming burst",
+        "undead bane",
+        "nonlethal damage",
+        "sunlight summons",
+        "sacred bonus",
+        "dodge bonus"
+      ]
+    },
+    {
+      "id": "anchorite_of_dawn_bask_in_radiance_su",
+      "title": "Bask in Radiance (Su) (Anchorite of Dawn)",
+      "anchor_heading": "#### Bask in Radiance (Su) {#bask_in_radiance_su}",
+      "description": "Allows the anchorite to share solar invocation bonuses with any number of allies within 30 feet for the duration of the ability.",
+      "keywords": [
+        "bask in radiance",
+        "solar invocation sharing",
+        "allies within 30 feet",
+        "shared bonuses",
+        "maintain solar invocation"
+      ]
+    },
+    {
+      "id": "anchorite_of_dawn_sunbeam_sp",
+      "title": "Sunbeam (Sp) (Anchorite of Dawn)",
+      "anchor_heading": "#### Sunbeam (Sp) {#sunbeam_sp}",
+      "description": "Grants the ability to cast sunbeam as a spell-like ability once per day at 7th level, twice per day at 10th level, with caster level equal to Hit Dice.",
+      "keywords": [
+        "sunbeam",
+        "spell-like ability",
+        "caster level",
+        "Hit Dice",
+        "Charisma-based DC",
+        "once per day",
+        "twice per day"
+      ]
+    },
+    {
+      "id": "anchorite_of_dawn_invocation_of_dawn_su",
+      "title": "Invocation of Dawn (Su) (Anchorite of Dawn)",
+      "anchor_heading": "#### Invocation of Dawn (Su) {#invocation_of_dawn_su}",
+      "description": "Enhanced version of solar invocation usable once per day for 1 minute that works indoors/underground and increases all bonuses by 1 without consuming daily rounds.",
+      "keywords": [
+        "invocation of dawn",
+        "enhanced solar invocation",
+        "1 minute duration",
+        "indoors underground",
+        "bonuses increase by 1",
+        "once per day",
+        "doesn't cost rounds",
+        "ultimate ability"
+      ]
+    }
+  ]
+}

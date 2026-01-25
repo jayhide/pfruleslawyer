@@ -1,0 +1,244 @@
+{
+  "file": "enchanting-courtesan.md",
+  "source_path": "https://www.d20pfsrd.com/classes/prestige-classes/other-paizo/e-h/enchanting-courtesan/",
+  "source_name": "Prestige Class: Enchanting Courtesan",
+  "category": "Classes",
+  "toc_content": "Contents\n* [Requirements](#requirements)\n* [Class Skills](#class_skills)\n* [Class Features](#class_features)\n  + [Weapon and Armor Proficiency](#weapon_and_armor_proficiency)\n  + [Covert Spells (Su)](#covert_spells_su)\n  + [Enchanting Touch (Su)](#enchanting_touch_su)\n  + [Seducer\u2019s Leverage (Ex)](#seducers_leverage_ex)\n  + [Poison Use (Ex)](#poison_use_ex)\n  + [Seductive Intuition (Su)](#seductive_intuition_su)\n  + [Hidden Spell (Su)](#hidden_spell_su)\n  + [Master Poisoner (Ex)](#master_poisoner_ex)\n  + [Contact Poison Wielder (Ex)](#contact_poison_wielder_ex)\n  + [Deluding Touch (Su)](#deluding_touch_su)\n  + [Informative Liaisons (Ex)](#informative_liaisons_ex)\n  + [Overwhelming Touch (Su)](#overwhelming_touch_su)\n  + [Touch of Ecstasy (Ex)](#touch_of_ecstasy_ex)",
+  "sections": [
+    {
+      "id": "enchanting_courtesan_overview",
+      "title": "Enchanting Courtesan (Class Overview)",
+      "anchor_heading": "# Enchanting Courtesan",
+      "end_at_heading": "### Requirements {#requirements}",
+      "description": "Overview of the Enchanting Courtesan class including role, alignment, hit die, and starting wealth.",
+      "keywords": [
+        "enchanting courtesan",
+        "class",
+        "hit die",
+        "role",
+        "alignment"
+      ]
+    },
+    {
+      "id": "enchanting_courtesan_weapon_and_armor_proficiency",
+      "title": "Weapon and Armor Proficiency (Enchanting Courtesan)",
+      "anchor_heading": "#### Weapon and Armor Proficiency {#weapon_and_armor_proficiency}",
+      "description": "The enchanting courtesan gains no proficiency with any weapons or armor.",
+      "keywords": [
+        "weapon proficiency",
+        "armor proficiency",
+        "no proficiency",
+        "nonproficient",
+        "enchanting courtesan proficiencies"
+      ]
+    },
+    {
+      "id": "enchanting_courtesan_covert_spells_su",
+      "title": "Covert Spells (Su) (Enchanting Courtesan)",
+      "anchor_heading": "#### Covert Spells (Su) {#covert_spells_su}",
+      "description": "Allows the enchanting courtesan to cast divination and enchantment spells without observers noticing, using Bluff and Sleight of Hand checks opposed by Sense Motive and Perception.",
+      "keywords": [
+        "covert spells",
+        "hidden spellcasting",
+        "Bluff check",
+        "Sleight of Hand check",
+        "Sense Motive",
+        "Perception check",
+        "divination spells",
+        "enchantment spells",
+        "attacks of opportunity",
+        "somatic components",
+        "material components",
+        "focus components"
+      ]
+    },
+    {
+      "id": "enchanting_courtesan_enchanting_touch_su",
+      "title": "Enchanting Touch (Su) (Enchanting Courtesan)",
+      "anchor_heading": "#### Enchanting Touch (Su) {#enchanting_touch_su}",
+      "description": "Allows delivery of divination or enchantment touch spells through intimate contact, imposing a -4 penalty on the target's skill checks to notice the spellcasting.",
+      "keywords": [
+        "enchanting touch",
+        "touch spells",
+        "kiss",
+        "erotic gesture",
+        "willing target",
+        "spell identification",
+        "divination touch",
+        "enchantment touch",
+        "notice spellcasting"
+      ]
+    },
+    {
+      "id": "enchanting_courtesan_seducers_leverage_ex",
+      "title": "Seducer\u2019s Leverage (Ex) (Enchanting Courtesan)",
+      "anchor_heading": "#### Seducer\u2019s Leverage (Ex) {#seducers_leverage_ex}",
+      "description": "Provides access to an informant network that can determine influence relationships between individuals and organizations, and grants edges in verbal duels.",
+      "keywords": [
+        "seducer's leverage",
+        "informant network",
+        "influence",
+        "organization",
+        "attitudes",
+        "verbal duel",
+        "edge",
+        "consulting network",
+        "relationship secrets"
+      ]
+    },
+    {
+      "id": "enchanting_courtesan_poison_use_ex",
+      "title": "Poison Use (Ex) (Enchanting Courtesan)",
+      "anchor_heading": "#### Poison Use (Ex) {#poison_use_ex}",
+      "description": "Grants training with poisons, preventing accidental self-poisoning when applying poison to weapons.",
+      "keywords": [
+        "poison use",
+        "poison training",
+        "apply poison",
+        "accidental poisoning",
+        "weapon poison",
+        "poison immunity"
+      ]
+    },
+    {
+      "id": "enchanting_courtesan_seductive_intuition_su",
+      "title": "Seductive Intuition (Su) (Enchanting Courtesan)",
+      "anchor_heading": "#### Seductive Intuition (Su) {#seductive_intuition_su}",
+      "description": "Provides a competence bonus to social skills and allows using Sense Motive modifier for Diplomacy and Sleight of Hand against sexually attracted targets.",
+      "keywords": [
+        "seductive intuition",
+        "competence bonus",
+        "Bluff",
+        "Diplomacy",
+        "Sense Motive",
+        "Sleight of Hand",
+        "sexually attracted",
+        "social skills bonus",
+        "skill substitution"
+      ]
+    },
+    {
+      "id": "enchanting_courtesan_hidden_spell_su",
+      "title": "Hidden Spell (Su) (Enchanting Courtesan)",
+      "anchor_heading": "#### Hidden Spell (Su) {#hidden_spell_su}",
+      "description": "Grants circumstance bonuses to spell save DCs and caster level checks against unaware foes, allies, flanked targets, or those denied Dex bonus.",
+      "keywords": [
+        "hidden spell",
+        "circumstance bonus",
+        "save DC",
+        "caster level check",
+        "spell resistance",
+        "unaware",
+        "ally",
+        "flanking",
+        "denied Dexterity bonus",
+        "abjuration",
+        "nondetection",
+        "surprise spellcasting"
+      ]
+    },
+    {
+      "id": "enchanting_courtesan_master_poisoner_ex",
+      "title": "Master Poisoner (Ex) (Enchanting Courtesan)",
+      "anchor_heading": "#### Master Poisoner (Ex) {#master_poisoner_ex}",
+      "description": "Allows changing poison types using Craft (alchemy) and provides bonuses to poison-related crafting checks.",
+      "keywords": [
+        "master poisoner",
+        "Craft alchemy",
+        "poison type",
+        "contact poison",
+        "ingested poison",
+        "inhaled poison",
+        "injury poison",
+        "alchemist lab",
+        "poison crafting"
+      ]
+    },
+    {
+      "id": "enchanting_courtesan_contact_poison_wielder_ex",
+      "title": "Contact Poison Wielder (Ex) (Enchanting Courtesan)",
+      "anchor_heading": "#### Contact Poison Wielder (Ex) {#contact_poison_wielder_ex}",
+      "description": "Enables wielding contact poison as a melee weapon with touch attacks, concealed with Sleight of Hand, and allows swift action drawing.",
+      "keywords": [
+        "contact poison wielder",
+        "contact poison",
+        "melee weapon",
+        "touch attack",
+        "Sleight of Hand",
+        "Perception",
+        "swift action",
+        "Quick Draw",
+        "initiative",
+        "concealed weapon"
+      ]
+    },
+    {
+      "id": "enchanting_courtesan_deluding_touch_su",
+      "title": "Deluding Touch (Su) (Enchanting Courtesan)",
+      "anchor_heading": "#### Deluding Touch (Su) {#deluding_touch_su}",
+      "description": "Causes targets who successfully save against enchanting touch or contact poison to potentially remain unaware of the attack attempt.",
+      "keywords": [
+        "deluding touch",
+        "successful save",
+        "unaware attack",
+        "enchanting touch",
+        "contact poison",
+        "pleasurable attack",
+        "notice attack",
+        "saving throw"
+      ]
+    },
+    {
+      "id": "enchanting_courtesan_informative_liaisons_ex",
+      "title": "Informative Liaisons (Ex) (Enchanting Courtesan)",
+      "anchor_heading": "#### Informative Liaisons (Ex) {#informative_liaisons_ex}",
+      "description": "Establishes contact networks in settlements, allowing taking 20 on Diplomacy to gather information and automatic success on Propaganda checks.",
+      "keywords": [
+        "informative liaisons",
+        "contact network",
+        "settlement",
+        "take 20",
+        "Diplomacy",
+        "gather information",
+        "Propaganda check",
+        "spread rumor",
+        "suppress rumor"
+      ]
+    },
+    {
+      "id": "enchanting_courtesan_overwhelming_touch_su",
+      "title": "Overwhelming Touch (Su) (Enchanting Courtesan)",
+      "anchor_heading": "#### Overwhelming Touch (Su) {#overwhelming_touch_su}",
+      "description": "Forces targets to roll twice and take the worse result on saves against spells delivered via enchanting touch.",
+      "keywords": [
+        "overwhelming touch",
+        "roll twice",
+        "worse result",
+        "saving throw",
+        "enchanting touch",
+        "disadvantage",
+        "entrancing touch"
+      ]
+    },
+    {
+      "id": "enchanting_courtesan_touch_of_ecstasy_ex",
+      "title": "Touch of Ecstasy (Ex) (Enchanting Courtesan)",
+      "anchor_heading": "#### Touch of Ecstasy (Ex) {#touch_of_ecstasy_ex}",
+      "description": "Delivers a touch attack that inflicts ecstatic pleasure, potentially stunning or staggering the target while suppressing pain effects.",
+      "keywords": [
+        "touch of ecstasy",
+        "standard action",
+        "melee touch attack",
+        "ecstatic pleasure",
+        "Fortitude save",
+        "staggered",
+        "stunned",
+        "mind-affecting",
+        "emotion effect",
+        "pain suppression",
+        "precision damage immunity",
+        "bliss"
+      ]
+    }
+  ]
+}

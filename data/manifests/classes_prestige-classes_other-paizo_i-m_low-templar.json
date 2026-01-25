@@ -1,0 +1,176 @@
+{
+  "file": "low-templar.md",
+  "source_path": "https://www.d20pfsrd.com/classes/prestige-classes/other-paizo/i-m/low-templar/",
+  "source_name": "Prestige Class: Low Templar",
+  "category": "Classes",
+  "toc_content": "",
+  "sections": [
+    {
+      "id": "low_templar_overview",
+      "title": "Low Templar (Class Overview)",
+      "anchor_heading": "# Low Templar",
+      "end_at_heading": "### Requirements",
+      "description": "Overview of the Low Templar class including role, alignment, hit die, and starting wealth.",
+      "keywords": [
+        "low templar",
+        "class",
+        "hit die",
+        "role",
+        "alignment"
+      ]
+    },
+    {
+      "id": "low_templar_weapon_and_armor_proficiency",
+      "title": "Weapon and Armor Proficiency (Low Templar)",
+      "anchor_heading": "#### Weapon and Armor Proficiency",
+      "description": "Low templars are proficient with all simple and martial weapons, all forms of armor, and shields.",
+      "keywords": [
+        "weapon proficiency",
+        "armor proficiency",
+        "shield proficiency",
+        "simple weapons",
+        "martial weapons",
+        "all armor"
+      ]
+    },
+    {
+      "id": "low_templar_crusader_ex",
+      "title": "Crusader (Ex) (Low Templar)",
+      "anchor_heading": "#### Crusader (Ex)",
+      "description": "Grants scaling bonuses to attack rolls, damage rolls, and Will saves against chaotic evil outsiders, increasing from +1 at 1st level to +4 at 10th level.",
+      "keywords": [
+        "crusader",
+        "chaotic evil outsiders",
+        "demon hunting",
+        "outsider bonus",
+        "Will save bonus",
+        "attack bonus",
+        "damage bonus"
+      ]
+    },
+    {
+      "id": "low_templar_flag_of_convenience_ex",
+      "title": "Flag of Convenience (Ex) (Low Templar)",
+      "anchor_heading": "#### Flag of Convenience (Ex)",
+      "description": "Provides +2 bonuses to Bluff, Disguise, and Linguistics checks for forgeries, plus special benefits to Leadership feat usage including no penalties for moving or losing followers.",
+      "keywords": [
+        "flag of convenience",
+        "Bluff bonus",
+        "Disguise bonus",
+        "Linguistics bonus",
+        "forgery",
+        "Leadership score",
+        "cohort replacement",
+        "follower replacement"
+      ]
+    },
+    {
+      "id": "low_templar_dirty_fighting_ex",
+      "title": "Dirty Fighting (Ex) (Low Templar)",
+      "anchor_heading": "#### Dirty Fighting (Ex)",
+      "description": "Eliminates non-proficiency penalties with improvised weapons, grants +2 to combat maneuvers, and allows replacing critical hit damage with status effects.",
+      "keywords": [
+        "dirty fighting",
+        "improvised weapons",
+        "combat maneuver bonus",
+        "critical hit effects",
+        "status conditions",
+        "staggered",
+        "nauseated",
+        "deafened",
+        "blinded",
+        "sickened",
+        "fatigued"
+      ]
+    },
+    {
+      "id": "low_templar_sneak_attack_ex",
+      "title": "Sneak Attack (Ex) (Low Templar)",
+      "anchor_heading": "#### Sneak Attack (Ex)",
+      "description": "Functions like the rogue's sneak attack ability, dealing +1d6 extra damage at 3rd level and +2d6 at 8th level when attacking flat-footed or flanked enemies.",
+      "keywords": [
+        "sneak attack",
+        "precision damage",
+        "flanking",
+        "flat-footed",
+        "rogue ability",
+        "extra damage dice"
+      ]
+    },
+    {
+      "id": "low_templar_path_of_darknesspath_of_light_su",
+      "title": "Path of Darkness/Path of Light (Su) (Low Templar)",
+      "anchor_heading": "#### Path of Darkness/Path of Light (Su)",
+      "description": "Allows the low templar to mask one aspect of their alignment from magical detection and gain +2 Diplomacy bonuses with creatures of specific alignment subtypes.",
+      "keywords": [
+        "path of darkness",
+        "path of light",
+        "alignment masking",
+        "detect alignment",
+        "alignment effects",
+        "Diplomacy bonus",
+        "lawful subtype",
+        "good subtype",
+        "chaotic subtype",
+        "evil subtype"
+      ]
+    },
+    {
+      "id": "low_templar_live_to_fight_another_day_ex",
+      "title": "Live to Fight Another Day (Ex) (Low Templar)",
+      "anchor_heading": "#### Live to Fight Another Day (Ex)",
+      "description": "Allows using the withdraw action as a standard action instead of a full-round action, but limits movement to normal speed.",
+      "keywords": [
+        "live to fight another day",
+        "withdraw action",
+        "standard action",
+        "tactical retreat",
+        "movement speed"
+      ]
+    },
+    {
+      "id": "low_templar_ruthless_ex",
+      "title": "Ruthless (Ex) (Low Templar)",
+      "anchor_heading": "#### Ruthless (Ex)",
+      "description": "When killing or dropping a foe to dying with a melee attack, grants an immediate swift action attack with the same weapon plus character level bonus damage.",
+      "keywords": [
+        "ruthless",
+        "killing blow",
+        "dying condition",
+        "swift action attack",
+        "bonus attack",
+        "character level damage",
+        "cleave effect"
+      ]
+    },
+    {
+      "id": "low_templar_parting_shot_ex",
+      "title": "Parting Shot (Ex) (Low Templar)",
+      "anchor_heading": "#### Parting Shot (Ex)",
+      "description": "Upgrades Live to Fight Another Day, allowing the withdraw action as a move action instead of standard action.",
+      "keywords": [
+        "parting shot",
+        "withdraw action",
+        "move action",
+        "improved retreat",
+        "tactical withdrawal"
+      ]
+    },
+    {
+      "id": "low_templar_damnationredemption_su",
+      "title": "Damnation/Redemption (Su) (Low Templar)",
+      "anchor_heading": "#### Damnation/Redemption (Su)",
+      "description": "Allows masking a second alignment trait and grants a planar cohort as if having the Leadership feat, with special benefits if already possessing Leadership.",
+      "keywords": [
+        "damnation",
+        "redemption",
+        "planar cohort",
+        "Leadership feat",
+        "Leadership score bonus",
+        "alignment masking",
+        "cohort replacement",
+        "planar ally"
+      ]
+    }
+  ]
+}

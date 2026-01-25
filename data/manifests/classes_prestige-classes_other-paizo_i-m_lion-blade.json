@@ -1,0 +1,233 @@
+{
+  "file": "lion-blade.md",
+  "source_path": "https://www.d20pfsrd.com/classes/prestige-classes/other-paizo/i-m/lion-blade/",
+  "source_name": "Prestige Class: Lion Blade",
+  "category": "Classes",
+  "toc_content": "",
+  "sections": [
+    {
+      "id": "lion_blade_overview",
+      "title": "Lion Blade (Class Overview)",
+      "anchor_heading": "# Lion Blade",
+      "end_at_heading": "### Requirements",
+      "description": "Overview of the Lion Blade class including role, alignment, hit die, and starting wealth.",
+      "keywords": [
+        "lion blade",
+        "class",
+        "hit die",
+        "role",
+        "alignment"
+      ]
+    },
+    {
+      "id": "lion_blade_weapon_and_armor_proficiency",
+      "title": "Weapon and Armor Proficiency (Lion Blade)",
+      "anchor_heading": "#### Weapon and Armor Proficiency",
+      "description": "A lion blade gains no proficiency with any weapon or armor.",
+      "keywords": [
+        "weapon proficiency",
+        "armor proficiency",
+        "no proficiency",
+        "lion blade proficiency"
+      ]
+    },
+    {
+      "id": "lion_blade_master_of_disguise_ex",
+      "title": "Master of Disguise (Ex) (Lion Blade)",
+      "anchor_heading": "#### Master of Disguise (Ex)",
+      "description": "A lion blade no longer suffers penalties to Disguise checks made to change her gender, race, or age.",
+      "keywords": [
+        "master of disguise",
+        "disguise checks",
+        "gender disguise",
+        "race disguise",
+        "age disguise",
+        "disguise penalties"
+      ]
+    },
+    {
+      "id": "lion_blade_move_with_crowd_ex",
+      "title": "Move with Crowd (Ex) (Lion Blade)",
+      "anchor_heading": "#### Move with Crowd (Ex)",
+      "description": "Lion blades move normally through groups of humanoids that would normally count as difficult terrain.",
+      "keywords": [
+        "move with crowd",
+        "difficult terrain",
+        "crowd movement",
+        "humanoid groups",
+        "movement through crowds"
+      ]
+    },
+    {
+      "id": "lion_blade_inspire_self_su",
+      "title": "Inspire Self (Su) (Lion Blade)",
+      "anchor_heading": "#### Inspire Self (Su)",
+      "description": "A lion blade gains a competence bonus on skill checks with a particular skill through quiet chanting, lasting up to 2 minutes with concentration.",
+      "keywords": [
+        "inspire self",
+        "competence bonus",
+        "skill checks",
+        "chanting",
+        "concentration",
+        "mind-affecting",
+        "skill bonus",
+        "2 minutes"
+      ]
+    },
+    {
+      "id": "lion_blade_slowing_strike_su",
+      "title": "Slowing Strike (Su) (Lion Blade)",
+      "anchor_heading": "#### Slowing Strike (Su)",
+      "description": "On a successful sneak attack, a lion blade can deal 1 less die of damage to reduce the target's movement speed by 5 feet.",
+      "keywords": [
+        "slowing strike",
+        "sneak attack damage",
+        "reduce speed",
+        "ground speed",
+        "flying speed",
+        "movement penalties",
+        "immobilized",
+        "lesser restoration"
+      ]
+    },
+    {
+      "id": "lion_blade_sneak_attack_ex",
+      "title": "Sneak Attack (Ex) (Lion Blade)",
+      "anchor_heading": "#### Sneak Attack (Ex)",
+      "description": "This functions exactly like the rogue sneak attack ability, and damage bonuses stack with other sneak attack sources.",
+      "keywords": [
+        "sneak attack",
+        "rogue ability",
+        "sneak attack damage",
+        "damage bonuses stack"
+      ]
+    },
+    {
+      "id": "lion_blade_unexpected_suggestion_su",
+      "title": "Unexpected Suggestion (Su) (Lion Blade)",
+      "anchor_heading": "#### Unexpected Suggestion (Su)",
+      "description": "Once per day, a lion blade can use suggestion on a target she catches flat-footed, with caster level equal to class level.",
+      "keywords": [
+        "unexpected suggestion",
+        "suggestion spell",
+        "flat-footed",
+        "caster level",
+        "once per day"
+      ]
+    },
+    {
+      "id": "lion_blade_hide_in_plain_sight_su",
+      "title": "Hide in Plain Sight (Su) (Lion Blade)",
+      "anchor_heading": "#### Hide in Plain Sight (Su)",
+      "description": "A lion blade can use Stealth while being observed if within 10 feet of dim light, but cannot hide in her own shadow.",
+      "keywords": [
+        "hide in plain sight",
+        "stealth while observed",
+        "dim light",
+        "10 feet",
+        "own shadow"
+      ]
+    },
+    {
+      "id": "lion_blade_expeditious_advance_ex",
+      "title": "Expeditious Advance (Ex) (Lion Blade)",
+      "anchor_heading": "#### Expeditious Advance (Ex)",
+      "description": "A lion blade's land speed increases by +10 feet when wearing no armor or light armor and not carrying a heavy load.",
+      "keywords": [
+        "expeditious advance",
+        "land speed",
+        "speed increase",
+        "light armor",
+        "heavy load",
+        "movement bonus"
+      ]
+    },
+    {
+      "id": "lion_blade_glean_information_ex",
+      "title": "Glean Information (Ex) (Lion Blade)",
+      "anchor_heading": "#### Glean Information (Ex)",
+      "description": "A lion blade gains a +2 bonus to social skills and can add circumstance bonuses to Knowledge checks about humanoids in her presence.",
+      "keywords": [
+        "glean information",
+        "bluff bonus",
+        "diplomacy bonus",
+        "intimidate bonus",
+        "sense motive bonus",
+        "knowledge checks",
+        "circumstance bonus",
+        "humanoids",
+        "body language"
+      ]
+    },
+    {
+      "id": "lion_blade_secret_step_su",
+      "title": "Secret Step (Su) (Lion Blade)",
+      "anchor_heading": "#### Secret Step (Su)",
+      "description": "A lion blade can move up to double her speed through crowds as a move action without provoking attacks of opportunity.",
+      "keywords": [
+        "secret step",
+        "move action",
+        "double speed",
+        "crowds",
+        "attacks of opportunity",
+        "movement through crowds"
+      ]
+    },
+    {
+      "id": "lion_blade_cloud_the_mind_su",
+      "title": "Cloud the Mind (Su) (Lion Blade)",
+      "anchor_heading": "#### Cloud the Mind (Su)",
+      "description": "Observers suffer a -5 penalty on Perception checks against a stealthing lion blade, and she gains spell resistance against divination spells.",
+      "keywords": [
+        "cloud the mind",
+        "perception penalty",
+        "stealth bonus",
+        "spell resistance",
+        "divination spells",
+        "SR"
+      ]
+    },
+    {
+      "id": "lion_blade_narrow_miss_su",
+      "title": "Narrow Miss (Su) (Lion Blade)",
+      "anchor_heading": "#### Narrow Miss (Su)",
+      "description": "As a swift action, a lion blade gains 20% concealment until her next turn, usable once per day per two class levels.",
+      "keywords": [
+        "narrow miss",
+        "swift action",
+        "20% concealment",
+        "concealment",
+        "once per day",
+        "dodge"
+      ]
+    },
+    {
+      "id": "lion_blade_grandmaster_of_disguise_ex",
+      "title": "Grandmaster of Disguise (Ex) (Lion Blade)",
+      "anchor_heading": "#### Grandmaster of Disguise (Ex)",
+      "description": "A lion blade can improvise disguise materials for a circumstance bonus and create disguises as a full-round action with a -20 penalty.",
+      "keywords": [
+        "grandmaster of disguise",
+        "improvise disguise",
+        "disguise kit",
+        "circumstance bonus",
+        "full-round action",
+        "disguise check penalty"
+      ]
+    },
+    {
+      "id": "lion_blade_silent_soul_ex",
+      "title": "Silent Soul (Ex) (Lion Blade)",
+      "anchor_heading": "#### Silent Soul (Ex)",
+      "description": "A lion blade gains a +10 circumstance bonus to Stealth checks and spell resistance 20 against mind-affecting effects.",
+      "keywords": [
+        "silent soul",
+        "stealth circumstance bonus",
+        "spell resistance 20",
+        "mind-affecting",
+        "SR 20",
+        "stealth bonus"
+      ]
+    }
+  ]
+}

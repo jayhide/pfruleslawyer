@@ -1,0 +1,216 @@
+{
+  "file": "green-faith-acolyte.md",
+  "source_path": "https://www.d20pfsrd.com/classes/prestige-classes/other-paizo/e-h/green-faith-acolyte/",
+  "source_name": "Prestige Class: Green Faith Acolyte",
+  "category": "Classes",
+  "toc_content": "Contents\n* [Requirements](#requirements)\n* [Class Skills](#class_skills)\n* [Class Features](#class_features)\n  + [Weapon and Armor Proficiency](#weapon_and_armor_proficiency)\n  + [Companion Bond (Ex)](#companion_bond_ex)\n  + [Wild Empathy (Ex)](#wild_empathy_ex)\n  + [Wild Link (Su)](#wild_link_su)\n  + [Hibernate (Su)](#hibernate_su)\n  + [Power over Nature (Su)](#power_over_nature_su)\n  + [Animal Covenant (Su)](#animal_covenant_su)\n  + [Venom Immunity (Ex)](#venom_immunity_ex)\n  + [Blighter of Abominations (Su)](#blighter_of_abominations_su)\n  + [Archdruid](#archdruid)\n  + [Great Druid](#great_druid)\n  + [Grand Druid (Su)](#grand_druid_su)\n  + [Longevity (Ex)](#longevity_ex)\n  + [Timeless Body (Ex)](#timeless_body_ex)",
+  "sections": [
+    {
+      "id": "green_faith_acolyte_overview",
+      "title": "Green Faith Acolyte (Class Overview)",
+      "anchor_heading": "# Green Faith Acolyte",
+      "end_at_heading": "### Requirements {#requirements}",
+      "description": "Overview of the Green Faith Acolyte class including role, alignment, hit die, and starting wealth.",
+      "keywords": [
+        "green faith acolyte",
+        "class",
+        "hit die",
+        "role",
+        "alignment"
+      ]
+    },
+    {
+      "id": "green_faith_acolyte_weapon_and_armor_proficiency",
+      "title": "Weapon and Armor Proficiency (Green Faith Acolyte)",
+      "anchor_heading": "#### Weapon and Armor Proficiency {#weapon_and_armor_proficiency}",
+      "description": "Green Faith acolytes gain no additional weapon or armor proficiencies beyond their base class.",
+      "keywords": [
+        "weapon proficiency",
+        "armor proficiency",
+        "no proficiencies",
+        "Green Faith acolyte proficiency"
+      ]
+    },
+    {
+      "id": "green_faith_acolyte_companion_bond_ex",
+      "title": "Companion Bond ([Ex](https://www.d20pfsrd.com/magic#TOC-Extraordinary-Abilities-Ex-)) (Green Faith Acolyte)",
+      "anchor_heading": "#### Companion Bond ([Ex](https://www.d20pfsrd.com/magic#TOC-Extraordinary-Abilities-Ex-)) {#companion_bond_ex}",
+      "description": "Increases effective druid level for animal companion abilities, or grants an animal companion if none exists at half class level.",
+      "keywords": [
+        "companion bond",
+        "animal companion",
+        "effective druid level",
+        "druid level stacking",
+        "companion abilities"
+      ]
+    },
+    {
+      "id": "green_faith_acolyte_wild_empathy_ex",
+      "title": "Wild Empathy ([Ex](https://www.d20pfsrd.com/magic#TOC-Extraordinary-Abilities-Ex-)) (Green Faith Acolyte)",
+      "anchor_heading": "#### Wild Empathy ([Ex](https://www.d20pfsrd.com/magic#TOC-Extraordinary-Abilities-Ex-)) {#wild_empathy_ex}",
+      "description": "Functions identically to the druid wild empathy ability and stacks with other classes that grant wild empathy.",
+      "keywords": [
+        "wild empathy",
+        "class level stacking",
+        "druid ability",
+        "animal interaction",
+        "empathy stacking"
+      ]
+    },
+    {
+      "id": "green_faith_acolyte_wild_link_su",
+      "title": "Wild Link (Su) (Green Faith Acolyte)",
+      "anchor_heading": "#### Wild Link (Su) {#wild_link_su}",
+      "description": "Increases effective druid level for wild shape ability, or grants wild shape at 4th level druid equivalent when reaching +4 bonus.",
+      "keywords": [
+        "wild link",
+        "wild shape",
+        "effective druid level",
+        "wild shape uses",
+        "wild shape powers",
+        "4th level druid"
+      ]
+    },
+    {
+      "id": "green_faith_acolyte_hibernate_su",
+      "title": "Hibernate (Su) (Green Faith Acolyte)",
+      "anchor_heading": "#### Hibernate (Su) {#hibernate_su}",
+      "description": "Allows entering suspended animation similar to sepia snake sigil, providing heal and restoration effects after a week of hibernation.",
+      "keywords": [
+        "hibernate",
+        "suspended animation",
+        "sepia snake sigil",
+        "heal spell",
+        "restoration spell",
+        "full-round action",
+        "hibernation duration"
+      ]
+    },
+    {
+      "id": "green_faith_acolyte_power_over_nature_su",
+      "title": "Power over Nature (Su) (Green Faith Acolyte)",
+      "anchor_heading": "#### Power over Nature (Su) {#power_over_nature_su}",
+      "description": "Divine spells deal or heal additional hit point damage equal to spell level against animal, fey, or plant creatures.",
+      "keywords": [
+        "power over nature",
+        "divine spell damage",
+        "animal type",
+        "fey type",
+        "plant type",
+        "spell level bonus",
+        "healing bonus"
+      ]
+    },
+    {
+      "id": "green_faith_acolyte_animal_covenant_su",
+      "title": "Animal Covenant (Su) (Green Faith Acolyte)",
+      "anchor_heading": "#### Animal Covenant (Su) {#animal_covenant_su}",
+      "description": "Allows excluding animals from area effect divine spells based on Wisdom or Charisma modifier for a limited duration.",
+      "keywords": [
+        "animal covenant",
+        "area effect spells",
+        "exclude animals",
+        "Wisdom modifier",
+        "Charisma modifier",
+        "spell duration",
+        "animal protection"
+      ]
+    },
+    {
+      "id": "green_faith_acolyte_venom_immunity_ex",
+      "title": "Venom Immunity ([Ex](https://www.d20pfsrd.com/magic#TOC-Extraordinary-Abilities-Ex-)) (Green Faith Acolyte)",
+      "anchor_heading": "#### Venom Immunity ([Ex](https://www.d20pfsrd.com/magic#TOC-Extraordinary-Abilities-Ex-)) {#venom_immunity_ex}",
+      "description": "Grants complete immunity to all poisons at 6th level.",
+      "keywords": [
+        "venom immunity",
+        "poison immunity",
+        "immunity to poisons",
+        "poison resistance"
+      ]
+    },
+    {
+      "id": "green_faith_acolyte_blighter_of_abominations_su",
+      "title": "Blighter of Abominations (Su) (Green Faith Acolyte)",
+      "anchor_heading": "#### Blighter of Abominations (Su) {#blighter_of_abominations_su}",
+      "description": "Automatically applies Sickening Spell metamagic to aberrations and Empower Spell metamagic to undead without increasing casting time or spell level.",
+      "keywords": [
+        "blighter of abominations",
+        "Sickening Spell",
+        "Empower Spell",
+        "aberration type",
+        "undead type",
+        "metamagic feat",
+        "casting time",
+        "spell level"
+      ]
+    },
+    {
+      "id": "green_faith_acolyte_archdruid",
+      "title": "Archdruid (Green Faith Acolyte)",
+      "anchor_heading": "#### Archdruid {#archdruid}",
+      "description": "Must gain the Archdruid title through competition or vacancy to progress to 9th level, can lose title through challenges.",
+      "keywords": [
+        "archdruid",
+        "druid title",
+        "hand-to-hand combat",
+        "spell competition",
+        "formal contest",
+        "level progression",
+        "druid hierarchy"
+      ]
+    },
+    {
+      "id": "green_faith_acolyte_great_druid",
+      "title": "Great Druid (Green Faith Acolyte)",
+      "anchor_heading": "#### Great Druid {#great_druid}",
+      "description": "Must gain the Great Druid title similar to Archdruid to progress to 10th level, gives up title when becoming Grand Druid.",
+      "keywords": [
+        "great druid",
+        "druid title",
+        "level progression",
+        "grand druid",
+        "druid hierarchy"
+      ]
+    },
+    {
+      "id": "green_faith_acolyte_grand_druid_su",
+      "title": "Grand Druid (Su) (Green Faith Acolyte)",
+      "anchor_heading": "#### Grand Druid (Su) {#grand_druid_su}",
+      "description": "Provides 10 additional spell levels per day that can be prepared or cast, lost if Grand Druid title is lost.",
+      "keywords": [
+        "grand druid",
+        "additional spell levels",
+        "spell preparation",
+        "spontaneous casting",
+        "druid title",
+        "spell levels per day"
+      ]
+    },
+    {
+      "id": "green_faith_acolyte_longevity_ex",
+      "title": "Longevity ([Ex](https://www.d20pfsrd.com/magic#TOC-Extraordinary-Abilities-Ex-)) (Green Faith Acolyte)",
+      "anchor_heading": "#### Longevity ([Ex](https://www.d20pfsrd.com/magic#TOC-Extraordinary-Abilities-Ex-)) {#longevity_ex}",
+      "description": "Increases maximum age by 20% at 10th level.",
+      "keywords": [
+        "longevity",
+        "maximum age",
+        "age increase",
+        "aging",
+        "lifespan"
+      ]
+    },
+    {
+      "id": "green_faith_acolyte_timeless_body_ex",
+      "title": "Timeless Body ([Ex](https://www.d20pfsrd.com/magic#TOC-Extraordinary-Abilities-Ex-)) (Green Faith Acolyte)",
+      "anchor_heading": "#### Timeless Body ([Ex](https://www.d20pfsrd.com/magic#TOC-Extraordinary-Abilities-Ex-)) {#timeless_body_ex}",
+      "description": "Eliminates aging penalties, functioning exactly like the druid ability of the same name.",
+      "keywords": [
+        "timeless body",
+        "aging penalties",
+        "druid ability",
+        "age immunity",
+        "no aging penalties"
+      ]
+    }
+  ]
+}

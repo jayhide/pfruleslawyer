@@ -1,0 +1,215 @@
+{
+  "file": "soul-warden.md",
+  "source_path": "https://www.d20pfsrd.com/classes/prestige-classes/other-paizo/s-z/soul-warden/",
+  "source_name": "Prestige Class: Soul Warden",
+  "category": "Classes",
+  "toc_content": "Contents\n* [Requirements](#requirements)\n* [Class Skills](#class_skills)\n* [Class Features](#class_features)\n  + [Weapon and Armor Proficiency](#weapon_and_armor_proficiency)\n  + [Spells per Day](#spells_per_day)\n  + [Channel Damage (Su)](#channel_damage_su)\n  + [Focus Item](#focus_item)\n  + [Channel Casting (Su)](#channel_casting_su)\n  + [Corpse Whisperer (Ex)](#corpse_whisperer_ex)\n  + [Bonus Feats](#bonus_feats)\n  + [Harvest (Su)](#harvest_su)\n  + [Undead Imposition (Su)](#undead_imposition_su)\n  + [Negative Energy Ward (Su)](#negative_energy_ward_su)\n  + [Necrotic Resistance (Su)](#necrotic_resistance_su)\n  + [Life Shell (Sp)](#life_shell_sp)",
+  "sections": [
+    {
+      "id": "soul_warden_overview",
+      "title": "Soul Warden (Class Overview)",
+      "anchor_heading": "# Soul Warden",
+      "end_at_heading": "### Requirements {#requirements}",
+      "description": "Overview of the Soul Warden class including role, alignment, hit die, and starting wealth.",
+      "keywords": [
+        "soul warden",
+        "class",
+        "hit die",
+        "role",
+        "alignment"
+      ]
+    },
+    {
+      "id": "soul_warden_weapon_and_armor_proficiency",
+      "title": "Weapon and Armor Proficiency (Soul Warden)",
+      "anchor_heading": "#### Weapon and Armor Proficiency {#weapon_and_armor_proficiency}",
+      "description": "Soul wardens gain no proficiency with any weapon or armor.",
+      "keywords": [
+        "weapon proficiency",
+        "armor proficiency",
+        "no proficiency",
+        "soul warden proficiencies"
+      ]
+    },
+    {
+      "id": "soul_warden_spells_per_day",
+      "title": "Spells per Day (Soul Warden)",
+      "anchor_heading": "#### Spells per Day {#spells_per_day}",
+      "description": "Soul wardens advance their previous divine spellcasting class levels for spells per day, spells known, and effective caster level only.",
+      "keywords": [
+        "spells per day",
+        "spellcasting progression",
+        "prestige class spellcasting",
+        "divine spellcasting",
+        "effective caster level",
+        "spells known",
+        "spontaneous caster"
+      ]
+    },
+    {
+      "id": "soul_warden_channel_damage_su",
+      "title": "Channel Damage (Su) (Soul Warden)",
+      "anchor_heading": "#### Channel Damage (Su) {#channel_damage_su}",
+      "description": "Functions like cleric channel positive energy but only damages undead, using soul warden level as effective cleric level and stacking with other channel energy classes.",
+      "keywords": [
+        "channel damage",
+        "channel positive energy",
+        "channel energy",
+        "undead damage",
+        "effective cleric level",
+        "charisma modifier",
+        "channel energy stacking",
+        "3 + charisma uses per day"
+      ]
+    },
+    {
+      "id": "soul_warden_focus_item",
+      "title": "Focus Item (Soul Warden)",
+      "anchor_heading": "#### Focus Item {#focus_item}",
+      "description": "Soul wardens must present a focus item to channel damage or cast spells requiring divine focus.",
+      "keywords": [
+        "focus item",
+        "divine focus",
+        "channel damage focus",
+        "amulet",
+        "bell",
+        "holy symbol",
+        "staff",
+        "present focus"
+      ]
+    },
+    {
+      "id": "soul_warden_channel_casting_su",
+      "title": "Channel Casting (Su) (Soul Warden)",
+      "anchor_heading": "#### Channel Casting (Su) {#channel_casting_su}",
+      "description": "Expend channel damage uses to spontaneously cast specific undead-related spells, with higher-level spells unlocked as the soul warden advances.",
+      "keywords": [
+        "channel casting",
+        "spontaneous casting",
+        "expend channel damage",
+        "decompose corpse",
+        "detect undead",
+        "hide from undead",
+        "sanctify corpse",
+        "command undead",
+        "disrupting weapon",
+        "halt undead",
+        "death ward",
+        "breath of life",
+        "undeath to death",
+        "spell list addition"
+      ]
+    },
+    {
+      "id": "soul_warden_corpse_whisperer_ex",
+      "title": "Corpse Whisperer (Ex) (Soul Warden)",
+      "anchor_heading": "#### Corpse Whisperer (Ex) {#corpse_whisperer_ex}",
+      "description": "Adds half soul warden level to Charisma checks and Charisma-based skill checks against undead, including control attempts.",
+      "keywords": [
+        "corpse whisperer",
+        "charisma checks against undead",
+        "charisma-based skill checks",
+        "control undead",
+        "command undead feat",
+        "undead interaction bonus"
+      ]
+    },
+    {
+      "id": "soul_warden_bonus_feats",
+      "title": "Bonus Feats (Soul Warden)",
+      "anchor_heading": "#### Bonus Feats {#bonus_feats}",
+      "description": "Gains bonus feats from a specific list of channel energy and undead-focused feats every 3 levels starting at 3rd level.",
+      "keywords": [
+        "bonus feats",
+        "channel smite",
+        "ectoplasmic spell",
+        "greater channel smite",
+        "quick channel",
+        "threnodic spell",
+        "turn undead",
+        "undead master",
+        "metamagic feats",
+        "channel energy feats"
+      ]
+    },
+    {
+      "id": "soul_warden_harvest_su",
+      "title": "Harvest (Su) (Soul Warden)",
+      "anchor_heading": "#### Harvest (Su) {#harvest_su}",
+      "description": "Regains one use of channel damage when destroying undead with channel energy, channel damage, or instantaneous spells, up to class level uses per day.",
+      "keywords": [
+        "harvest",
+        "regain channel damage",
+        "destroy undead",
+        "channel positive energy",
+        "instantaneous duration spells",
+        "one use per round",
+        "class level per day limit"
+      ]
+    },
+    {
+      "id": "soul_warden_undead_imposition_su",
+      "title": "Undead Imposition (Su) (Soul Warden)",
+      "anchor_heading": "#### Undead Imposition (Su) {#undead_imposition_su}",
+      "description": "Expend channel damage use as standard action to control an undead within 30 feet for rounds equal to class level, with Will save negates.",
+      "keywords": [
+        "undead imposition",
+        "control undead",
+        "standard action",
+        "30 feet range",
+        "will save",
+        "expend channel damage",
+        "class level rounds",
+        "command undead"
+      ]
+    },
+    {
+      "id": "soul_warden_negative_energy_ward_su",
+      "title": "Negative Energy Ward (Su) (Soul Warden)",
+      "anchor_heading": "#### Negative Energy Ward (Su) {#negative_energy_ward_su}",
+      "description": "Creates a 15-foot radius ward that blocks low-HD undead and damages higher-HD undead that enter, lasting 1 minute per level.",
+      "keywords": [
+        "negative energy ward",
+        "15-foot radius",
+        "undead ward",
+        "hit dice comparison",
+        "caster level",
+        "will save",
+        "3d6 positive energy damage",
+        "staggered condition",
+        "area denial"
+      ]
+    },
+    {
+      "id": "soul_warden_necrotic_resistance_su",
+      "title": "Necrotic Resistance (Su) (Soul Warden)",
+      "anchor_heading": "#### Necrotic Resistance (Su) {#necrotic_resistance_su}",
+      "description": "Reduces ability drain and negative levels by 1 at 8th level and by 2 at 10th level to a minimum of 0.",
+      "keywords": [
+        "necrotic resistance",
+        "ability drain resistance",
+        "negative level resistance",
+        "energy drain protection",
+        "ability drain reduction",
+        "negative level reduction"
+      ]
+    },
+    {
+      "id": "soul_warden_life_shell_sp",
+      "title": "Life Shell (Sp) (Soul Warden)",
+      "anchor_heading": "#### Life Shell (Sp) {#life_shell_sp}",
+      "description": "Creates an antilife shell effect that only affects undead while granting fast healing 1 to living creatures inside, usable 10 minutes per day.",
+      "keywords": [
+        "life shell",
+        "antilife shell",
+        "undead only",
+        "fast healing 1",
+        "spell-like ability",
+        "10 minutes per day",
+        "1-minute increments",
+        "living creatures",
+        "undead repulsion"
+      ]
+    }
+  ]
+}

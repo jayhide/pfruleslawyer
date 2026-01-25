@@ -1,0 +1,204 @@
+{
+  "file": "rose-warden.md",
+  "source_path": "https://www.d20pfsrd.com/classes/prestige-classes/other-paizo/n-r/rose-warden/",
+  "source_name": "Prestige Class: Rose Warden",
+  "category": "Classes",
+  "toc_content": "Contents\n* [Requirements](#requirements)\n* [Class Skills](#class_skills)\n* [Class Features](#class_features)\n  + [Anonymity (Ex)](#anonymity_ex)\n  + [Insurgent Technique](#insurgent_technique)\n  + [Liberated Mind (Su)](#liberated_mind_su)\n  + [Street Sentinel (Ex)](#street_sentinel_ex)\n  + [Sneak Attack (Ex)](#sneak_attack_ex)\n  + [Voice of the Masses (Ex)](#voice_of_the_masses_ex)\n  + [Cunning Disarm (Ex)](#cunning_disarm_ex)\n  + [Insurrectionist (Su)](#insurrectionist_su)\n  + [Advanced Insurgent Technique](#advanced_insurgent_technique)\n  + [Obfuscate (Su)](#obfuscate_su)\n  + [Rallying Courage (Su)](#rallying_courage_su)\n  + [Smite Tyranny (Su)](#smite_tyranny_su)",
+  "sections": [
+    {
+      "id": "rose_warden_overview",
+      "title": "Rose Warden (Class Overview)",
+      "anchor_heading": "# Rose Warden",
+      "end_at_heading": "### Requirements {#requirements}",
+      "description": "Overview of the Rose Warden class including role, alignment, hit die, and starting wealth.",
+      "keywords": [
+        "rose warden",
+        "class",
+        "hit die",
+        "role",
+        "alignment"
+      ]
+    },
+    {
+      "id": "rose_warden_anonymity_ex",
+      "title": "Anonymity (Ex) (Rose Warden)",
+      "anchor_heading": "#### Anonymity (Ex) {#anonymity_ex}",
+      "description": "Grants a class level bonus on Bluff and Disguise checks specifically to conceal the rose warden's true identity.",
+      "keywords": [
+        "anonymity",
+        "bluff check",
+        "disguise check",
+        "conceal identity",
+        "true identity",
+        "identity concealment"
+      ]
+    },
+    {
+      "id": "rose_warden_insurgent_technique",
+      "title": "Insurgent Technique (Rose Warden)",
+      "anchor_heading": "#### Insurgent Technique {#insurgent_technique}",
+      "description": "Grants access to various technique options including Everbloom's Wrath spell-like abilities, Holy Thorns weapon enhancement, or rogue talents, with techniques gained every 2 levels.",
+      "keywords": [
+        "insurgent technique",
+        "everbloom's wrath",
+        "chaos hammer",
+        "holy smite",
+        "holy thorns",
+        "rogue talent",
+        "good-aligned weapon",
+        "staggered condition",
+        "spell-like ability"
+      ]
+    },
+    {
+      "id": "rose_warden_liberated_mind_su",
+      "title": "Liberated Mind (Su) (Rose Warden)",
+      "anchor_heading": "#### Liberated Mind (Su) {#liberated_mind_su}",
+      "description": "Provides a scaling bonus (+2 at low levels, +4 at 5th level) on saves against charm, compulsion, and fear effects.",
+      "keywords": [
+        "liberated mind",
+        "charm effects",
+        "compulsion effects",
+        "fear effects",
+        "saving throw bonus",
+        "mind affecting"
+      ]
+    },
+    {
+      "id": "rose_warden_street_sentinel_ex",
+      "title": "Street Sentinel (Ex) (Rose Warden)",
+      "anchor_heading": "#### Street Sentinel (Ex) {#street_sentinel_ex}",
+      "description": "Grants bonuses to initiative and various skills when in urban areas, plus the ability to leave no trail while traveling in urban terrain.",
+      "keywords": [
+        "street sentinel",
+        "urban area",
+        "initiative check",
+        "knowledge local",
+        "perception check",
+        "stealth check",
+        "survival check",
+        "no trail",
+        "urban terrain",
+        "tracking"
+      ]
+    },
+    {
+      "id": "rose_warden_sneak_attack_ex",
+      "title": "Sneak Attack (Ex) (Rose Warden)",
+      "anchor_heading": "#### Sneak Attack (Ex) {#sneak_attack_ex}",
+      "description": "Functions identically to rogue sneak attack, starting at 1d6 and increasing every 2 levels, with damage bonuses stacking with other sneak attack sources.",
+      "keywords": [
+        "sneak attack",
+        "precision damage",
+        "1d6 damage",
+        "damage stacking",
+        "rogue ability"
+      ]
+    },
+    {
+      "id": "rose_warden_voice_of_the_masses_ex",
+      "title": "Voice of the Masses (Ex) (Rose Warden)",
+      "anchor_heading": "#### Voice of the Masses (Ex) {#voice_of_the_masses_ex}",
+      "description": "Allows unimpeded movement through crowds and provides a class level bonus on checks to influence crowds.",
+      "keywords": [
+        "voice of the masses",
+        "crowd movement",
+        "influence crowds",
+        "crowd checks",
+        "unimpeded movement"
+      ]
+    },
+    {
+      "id": "rose_warden_cunning_disarm_ex",
+      "title": "Cunning Disarm (Ex) (Rose Warden)",
+      "anchor_heading": "#### Cunning Disarm (Ex) {#cunning_disarm_ex}",
+      "description": "Allows using Sleight of Hand instead of combat maneuver checks for disarm attempts without provoking attacks of opportunity.",
+      "keywords": [
+        "cunning disarm",
+        "sleight of hand",
+        "disarm maneuver",
+        "combat maneuver check",
+        "attack of opportunity",
+        "no provoke"
+      ]
+    },
+    {
+      "id": "rose_warden_insurrectionist_su",
+      "title": "Insurrectionist (Su) (Rose Warden)",
+      "anchor_heading": "#### Insurrectionist (Su) {#insurrectionist_su}",
+      "description": "Grants freedom of movement effects for a limited number of rounds per day, plus the ability to share this with nearby allies once per day.",
+      "keywords": [
+        "insurrectionist",
+        "freedom of movement",
+        "ignore impediments",
+        "mobility",
+        "movement effects",
+        "magical impediments",
+        "allies within 30 feet"
+      ]
+    },
+    {
+      "id": "rose_warden_advanced_insurgent_technique",
+      "title": "Advanced Insurgent Technique (Rose Warden)",
+      "anchor_heading": "#### Advanced Insurgent Technique {#advanced_insurgent_technique}",
+      "description": "Unlocks more powerful technique options including advanced rogue talents, teleportation abilities, precision damage enhancements, and wall of thorns spell-like ability.",
+      "keywords": [
+        "advanced insurgent technique",
+        "advanced rogue talent",
+        "alleyport",
+        "dimension door",
+        "small but fierce",
+        "wall of roses",
+        "wall of thorns",
+        "teleport",
+        "precision damage",
+        "size category"
+      ]
+    },
+    {
+      "id": "rose_warden_obfuscate_su",
+      "title": "Obfuscate (Su) (Rose Warden)",
+      "anchor_heading": "#### Obfuscate (Su) {#obfuscate_su}",
+      "description": "Allows using Stealth while being observed and hiding in the open without cover when in urban areas.",
+      "keywords": [
+        "obfuscate",
+        "stealth while observed",
+        "hide in open",
+        "urban stealth",
+        "no cover",
+        "stealth skill"
+      ]
+    },
+    {
+      "id": "rose_warden_rallying_courage_su",
+      "title": "Rallying Courage (Su) (Rose Warden)",
+      "anchor_heading": "#### Rallying Courage (Su) {#rallying_courage_su}",
+      "description": "Grants immunity to fear effects and allows giving allies a second save against fear conditions once per day.",
+      "keywords": [
+        "rallying courage",
+        "fear immunity",
+        "second saving throw",
+        "fear condition",
+        "inspire ally",
+        "line of sight"
+      ]
+    },
+    {
+      "id": "rose_warden_smite_tyranny_su",
+      "title": "Smite Tyranny (Su) (Rose Warden)",
+      "anchor_heading": "#### Smite Tyranny (Su) {#smite_tyranny_su}",
+      "description": "When dealing sneak attack damage to lawful or evil targets, can add extra damage and potentially stagger the target with a failed save.",
+      "keywords": [
+        "smite tyranny",
+        "sneak attack damage",
+        "lawful target",
+        "evil target",
+        "staggered condition",
+        "fortitude save",
+        "2 points per die",
+        "lawful evil",
+        "charisma modifier"
+      ]
+    }
+  ]
+}

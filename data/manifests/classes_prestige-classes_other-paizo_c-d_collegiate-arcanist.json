@@ -1,0 +1,220 @@
+{
+  "file": "collegiate-arcanist.md",
+  "source_path": "https://www.d20pfsrd.com/classes/prestige-classes/other-paizo/c-d/collegiate-arcanist/",
+  "source_name": "Prestige Class: Collegiate Arcanist",
+  "category": "Classes",
+  "toc_content": "Contents\n* [Requirements](#requirements)\n* [Class Skills](#class_skills)\n* [Class Features](#class_features)\n  + [Aura of Good (Ex)](#aura_of_good_ex)\n  + [Halcyon Magic (Su)](#halcyon_magic_su)\n  + [Superior Spell Mastery (Ex)](#superior_spell_mastery_ex)\n  + [Virtuous Spells (Su)](#virtuous_spells_su)\n  + [Intoned Recollection (Ex)](#intoned_recollection_ex)\n  + [Lasting Goodness (Su)](#lasting_goodness_su)\n  + [Spontaneous Spell Mastery (Ex)](#spontaneous_spell_mastery_ex)\n  + [Blessed Warding (Sp)](#blessed_warding_sp)\n  + [Immediate Spell Mastery (Sp)](#immediate_spell_mastery_sp)\n  + [Righteous Contravention (Su)](#righteous_contravention_su)\n  + [Holy Arcana (Ex)](#holy_arcana_ex)\n  + [Altruistic Guardian (Su)](#altruistic_guardian_su)\n  + [Timeless Body (Ex)](#timeless_body_ex)",
+  "sections": [
+    {
+      "id": "collegiate_arcanist_overview",
+      "title": "Collegiate Arcanist (Class Overview)",
+      "anchor_heading": "# Collegiate Arcanist",
+      "end_at_heading": "### Requirements {#requirements}",
+      "description": "Overview of the Collegiate Arcanist class including role, alignment, hit die, and starting wealth.",
+      "keywords": [
+        "collegiate arcanist",
+        "class",
+        "hit die",
+        "role",
+        "alignment"
+      ]
+    },
+    {
+      "id": "collegiate_arcanist_aura_of_good_ex",
+      "title": "Aura of Good (Ex) (Collegiate Arcanist)",
+      "anchor_heading": "#### Aura of Good (Ex) {#aura_of_good_ex}",
+      "description": "The collegiate arcanist radiates an aura of good as if she were a cleric of a level equal to her class level, detectable by detect good spells.",
+      "keywords": [
+        "aura of good",
+        "detect good",
+        "good aura",
+        "cleric level",
+        "alignment aura",
+        "radiate good"
+      ]
+    },
+    {
+      "id": "collegiate_arcanist_halcyon_magic_su",
+      "title": "Halcyon Magic (Su) (Collegiate Arcanist)",
+      "anchor_heading": "#### Halcyon Magic (Su) {#halcyon_magic_su}",
+      "description": "At each class level, the collegiate arcanist chooses a druid spell at least 2 levels lower than her highest castable spell level and adds it to one of her arcane spell lists as an arcane spell.",
+      "keywords": [
+        "halcyon magic",
+        "druid spell",
+        "arcane spell list",
+        "spell conversion",
+        "divine to arcane",
+        "spell selection",
+        "spellbook",
+        "spell type"
+      ]
+    },
+    {
+      "id": "collegiate_arcanist_superior_spell_mastery_ex",
+      "title": "Superior Spell Mastery (Ex) (Collegiate Arcanist)",
+      "anchor_heading": "#### Superior Spell Mastery (Ex) {#superior_spell_mastery_ex}",
+      "description": "By studying for 24 hours over 3 days, the collegiate arcanist can change which spells she has mastered with the Spell Mastery feat.",
+      "keywords": [
+        "superior spell mastery",
+        "spell mastery",
+        "change mastered spells",
+        "24 hours study",
+        "intelligence modifier",
+        "caster level",
+        "spell preparation"
+      ]
+    },
+    {
+      "id": "collegiate_arcanist_virtuous_spells_su",
+      "title": "Virtuous Spells (Su) (Collegiate Arcanist)",
+      "anchor_heading": "#### Virtuous Spells (Su) {#virtuous_spells_su}",
+      "description": "The collegiate arcanist casts good descriptor spells at +1 caster level but must use two spell slots to prepare evil descriptor spells.",
+      "keywords": [
+        "virtuous spells",
+        "good descriptor",
+        "evil descriptor",
+        "caster level bonus",
+        "spell slot cost",
+        "spell preparation",
+        "alignment spells"
+      ]
+    },
+    {
+      "id": "collegiate_arcanist_intoned_recollection_ex",
+      "title": "Intoned Recollection (Ex) (Collegiate Arcanist)",
+      "anchor_heading": "#### Intoned Recollection (Ex) {#intoned_recollection_ex}",
+      "description": "Through a ritual (1 minute at 3rd level, full-round action at 9th level), the collegiate arcanist can prepare spells into empty spell slots without resting, using her spellbook or Spell Mastery.",
+      "keywords": [
+        "intoned recollection",
+        "spell preparation",
+        "empty spell slot",
+        "ritual",
+        "full-round action",
+        "spell mastery",
+        "spellbook",
+        "intelligence modifier uses"
+      ]
+    },
+    {
+      "id": "collegiate_arcanist_lasting_goodness_su",
+      "title": "Lasting Goodness (Su) (Collegiate Arcanist)",
+      "anchor_heading": "#### Lasting Goodness (Su) {#lasting_goodness_su}",
+      "description": "All of the collegiate arcanist's good descriptor spells have their durations extended by a number of rounds equal to her class level.",
+      "keywords": [
+        "lasting goodness",
+        "good descriptor",
+        "duration extension",
+        "spell duration",
+        "concentration",
+        "instantaneous",
+        "permanent duration"
+      ]
+    },
+    {
+      "id": "collegiate_arcanist_spontaneous_spell_mastery_ex",
+      "title": "Spontaneous Spell Mastery (Ex) (Collegiate Arcanist)",
+      "anchor_heading": "#### Spontaneous Spell Mastery (Ex) {#spontaneous_spell_mastery_ex}",
+      "description": "The collegiate arcanist can lose any prepared spell to spontaneously cast a spell of the same or lower level that she has mastered with Spell Mastery.",
+      "keywords": [
+        "spontaneous spell mastery",
+        "lose prepared spell",
+        "spell mastery",
+        "spontaneous casting",
+        "same spell level",
+        "prepared spellcaster"
+      ]
+    },
+    {
+      "id": "collegiate_arcanist_blessed_warding_sp",
+      "title": "Blessed Warding (Sp) (Collegiate Arcanist)",
+      "anchor_heading": "#### Blessed Warding (Sp) {#blessed_warding_sp}",
+      "description": "The collegiate arcanist is under a constant protection from evil effect that can be reactivated as a swift action if dispelled.",
+      "keywords": [
+        "blessed warding",
+        "protection from evil",
+        "constant effect",
+        "swift action",
+        "dispel",
+        "reactivate",
+        "spell-like ability"
+      ]
+    },
+    {
+      "id": "collegiate_arcanist_immediate_spell_mastery_sp",
+      "title": "Immediate Spell Mastery (Sp) (Collegiate Arcanist)",
+      "anchor_heading": "#### Immediate Spell Mastery (Sp) {#immediate_spell_mastery_sp}",
+      "description": "Once per day, the collegiate arcanist can cast any spell mastered with Spell Mastery without having prepared it, but cannot apply metamagic feats to it.",
+      "keywords": [
+        "immediate spell mastery",
+        "spell mastery",
+        "unprepared spell",
+        "once per day",
+        "metamagic feats",
+        "spell-like ability",
+        "spontaneous casting"
+      ]
+    },
+    {
+      "id": "collegiate_arcanist_righteous_contravention_su",
+      "title": "Righteous Contravention (Su) (Collegiate Arcanist)",
+      "anchor_heading": "#### Righteous Contravention (Su) {#righteous_contravention_su}",
+      "description": "The collegiate arcanist gains a +2 bonus on spell resistance checks and dispel checks against evil creatures, evil descriptor spells, and evil magic items.",
+      "keywords": [
+        "righteous contravention",
+        "spell resistance",
+        "dispel checks",
+        "evil creatures",
+        "evil descriptor",
+        "evil magic items",
+        "+2 bonus",
+        "overcome SR"
+      ]
+    },
+    {
+      "id": "collegiate_arcanist_holy_arcana_ex",
+      "title": "Holy Arcana (Ex) (Collegiate Arcanist)",
+      "anchor_heading": "#### Holy Arcana (Ex) {#holy_arcana_ex}",
+      "description": "The collegiate arcanist adds all Good domain bonus spells to one of her arcane spellcasting class lists as arcane spells.",
+      "keywords": [
+        "holy arcana",
+        "good domain",
+        "bonus spells",
+        "arcane spell list",
+        "cleric domain",
+        "spell conversion",
+        "domain spells"
+      ]
+    },
+    {
+      "id": "collegiate_arcanist_altruistic_guardian_su",
+      "title": "Altruistic Guardian (Su) (Collegiate Arcanist)",
+      "anchor_heading": "#### Altruistic Guardian (Su) {#altruistic_guardian_su}",
+      "description": "Once per day as an immediate action, the collegiate arcanist can redirect harmful spell effects from allies within 30 feet to herself, taking all damage and effects for them.",
+      "keywords": [
+        "altruistic guardian",
+        "immediate action",
+        "redirect effects",
+        "spell resistance",
+        "30 feet",
+        "saving throws",
+        "damage redirection",
+        "protect allies",
+        "intelligence modifier"
+      ]
+    },
+    {
+      "id": "collegiate_arcanist_timeless_body_ex",
+      "title": "Timeless Body (Ex) (Collegiate Arcanist)",
+      "anchor_heading": "#### Timeless Body (Ex) {#timeless_body_ex}",
+      "description": "The collegiate arcanist no longer takes penalties for aging, functioning exactly like the druid ability of the same name.",
+      "keywords": [
+        "timeless body",
+        "aging penalties",
+        "druid ability",
+        "age immunity",
+        "physical aging",
+        "mental aging"
+      ]
+    }
+  ]
+}

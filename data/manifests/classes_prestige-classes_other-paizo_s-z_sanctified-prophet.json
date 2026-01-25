@@ -1,0 +1,178 @@
+{
+  "file": "sanctified-prophet.md",
+  "source_path": "https://www.d20pfsrd.com/classes/prestige-classes/other-paizo/s-z/sanctified-prophet/",
+  "source_name": "Prestige Class: Sanctified Prophet",
+  "category": "Classes",
+  "toc_content": "Contents\n* [Requirements](#requirements)\n* [Class Skills](#class_skills)\n* [Class Features](#class_features)\n  + [Weapon and Armor Proficiency](#weapon_and_armor_proficiency)\n  + [Spells](#spells)\n  + [Auspicious Display (Ex)](#auspicious_display_ex)\n  + [Purchase Spells (Su)](#purchase_spells_su)\n  + [Business Acumen (Ex)](#business_acumen_ex)\n  + [Mystical Contacts (Ex)](#mystical_contacts_ex)\n  + [Prophet\u2019s Chest (Sp)](#prophet8217s_chest_sp)\n  + [Planar Contacts (Su)](#planar_contacts_su)\n  + [Ex-Prophets](#ex-prophets)",
+  "sections": [
+    {
+      "id": "sanctified_prophet_overview",
+      "title": "Sanctified Prophet (Class Overview)",
+      "anchor_heading": "# Sanctified Prophet",
+      "end_at_heading": "### Requirements {#requirements}",
+      "description": "Overview of the Sanctified Prophet class including role, alignment, hit die, and starting wealth.",
+      "keywords": [
+        "sanctified prophet",
+        "class",
+        "hit die",
+        "role",
+        "alignment"
+      ]
+    },
+    {
+      "id": "sanctified_prophet_weapon_and_armor_proficiency",
+      "title": "Weapon and Armor Proficiency (Sanctified Prophet)",
+      "anchor_heading": "#### Weapon and Armor Proficiency {#weapon_and_armor_proficiency}",
+      "description": "Sanctified prophets gain no additional weapon or armor proficiencies beyond their base class or racial proficiencies.",
+      "keywords": [
+        "weapon proficiency",
+        "armor proficiency",
+        "no proficiencies",
+        "sanctified prophet proficiencies"
+      ]
+    },
+    {
+      "id": "sanctified_prophet_spells",
+      "title": "Spells (Sanctified Prophet)",
+      "anchor_heading": "#### Spells {#spells}",
+      "description": "Sanctified prophets cast arcane spells spontaneously from the sorcerer/wizard list, but are limited to divination and enchantment schools with Charisma-based casting.",
+      "keywords": [
+        "sanctified prophet spells",
+        "divination spells",
+        "enchantment spells",
+        "spontaneous casting",
+        "charisma-based casting",
+        "arcane spells",
+        "spells known",
+        "sorcerer wizard spell list",
+        "spell replacement",
+        "divine favor",
+        "floating disk",
+        "augury",
+        "zone of truth",
+        "arcane lock",
+        "make whole",
+        "glibness",
+        "obscure object",
+        "discern lies"
+      ]
+    },
+    {
+      "id": "sanctified_prophet_auspicious_display_ex",
+      "title": "Auspicious Display ([Ex](https://www.d20pfsrd.com/magic#TOC-Extraordinary-Abilities-Ex-)) (Sanctified Prophet)",
+      "anchor_heading": "#### Auspicious Display ([Ex](https://www.d20pfsrd.com/magic#TOC-Extraordinary-Abilities-Ex-)) {#auspicious_display_ex}",
+      "description": "Grants dodge bonus to AC and morale bonus to saves when wearing expensive decorative items, with bonuses scaling by level and required gold value.",
+      "keywords": [
+        "auspicious display",
+        "dodge bonus",
+        "morale bonus",
+        "decorative jewelry",
+        "wealth display",
+        "expensive adornments",
+        "scaling bonuses",
+        "1000 gp",
+        "4000 gp",
+        "9000 gp",
+        "16000 gp"
+      ]
+    },
+    {
+      "id": "sanctified_prophet_purchase_spells_su",
+      "title": "Purchase Spells (Su) (Sanctified Prophet)",
+      "anchor_heading": "#### Purchase Spells (Su) {#purchase_spells_su}",
+      "description": "Allows spontaneous casting of known spells by sacrificing gold or gems, with costs scaling by spell level from 500 gp for 1st-level to 5000 gp for 4th-level.",
+      "keywords": [
+        "purchase spells",
+        "sacrifice gold",
+        "sacrifice gems",
+        "spontaneous casting",
+        "currency sacrifice",
+        "500 gp",
+        "1500 gp",
+        "3000 gp",
+        "5000 gp",
+        "material component cost",
+        "gold sacrifice"
+      ]
+    },
+    {
+      "id": "sanctified_prophet_business_acumen_ex",
+      "title": "Business Acumen ([Ex](https://www.d20pfsrd.com/magic#TOC-Extraordinary-Abilities-Ex-)) (Sanctified Prophet)",
+      "anchor_heading": "#### Business Acumen ([Ex](https://www.d20pfsrd.com/magic#TOC-Extraordinary-Abilities-Ex-)) {#business_acumen_ex}",
+      "description": "Treats settlements as larger size categories for determining base values and purchase limits, improving from +1 at 4th level to +4 at 10th level.",
+      "keywords": [
+        "business acumen",
+        "settlement size",
+        "base value",
+        "purchase limit",
+        "size category",
+        "settlement trading",
+        "marketplace access"
+      ]
+    },
+    {
+      "id": "sanctified_prophet_mystical_contacts_ex",
+      "title": "Mystical Contacts ([Ex](https://www.d20pfsrd.com/magic#TOC-Extraordinary-Abilities-Ex-)) (Sanctified Prophet)",
+      "anchor_heading": "#### Mystical Contacts ([Ex](https://www.d20pfsrd.com/magic#TOC-Extraordinary-Abilities-Ex-)) {#mystical_contacts_ex}",
+      "description": "Once per week, can purchase spellcasting services at half price while still providing expensive material components at full cost.",
+      "keywords": [
+        "mystical contacts",
+        "spellcasting services",
+        "half price",
+        "weekly use",
+        "material components",
+        "trading partners",
+        "spellcaster services"
+      ]
+    },
+    {
+      "id": "sanctified_prophet_prophet8217s_chest_sp",
+      "title": "Prophet\u2019s Chest (Sp) (Sanctified Prophet)",
+      "anchor_heading": "#### Prophet\u2019s Chest (Sp) {#prophet8217s_chest_sp}",
+      "description": "Can hide a chest on the Ethereal Plane and summon it back as a standard action up to three times per day, similar to secret chest but without expensive components.",
+      "keywords": [
+        "prophet's chest",
+        "ethereal plane",
+        "secret chest",
+        "standard action",
+        "three times per day",
+        "chest summoning",
+        "material plane",
+        "monthly access"
+      ]
+    },
+    {
+      "id": "sanctified_prophet_planar_contacts_su",
+      "title": "Planar Contacts (Su) (Sanctified Prophet)",
+      "anchor_heading": "#### Planar Contacts (Su) {#planar_contacts_su}",
+      "description": "Reduces outsider service costs by half for planar ally spells and grants +4 bonus on Charisma checks when negotiating with planar binding targets.",
+      "keywords": [
+        "planar contacts",
+        "outsider services",
+        "half cost",
+        "planar ally",
+        "planar binding",
+        "charisma checks",
+        "opposed checks",
+        "outsider negotiation"
+      ]
+    },
+    {
+      "id": "sanctified_prophet_ex-prophets",
+      "title": "Ex-Prophets (Sanctified Prophet)",
+      "anchor_heading": "#### Ex-Prophets {#ex-prophets}",
+      "description": "Sanctified prophets lose all class features if they cease being lawful neutral or violate dietary and sexual prohibitions, regainable through atonement.",
+      "keywords": [
+        "ex-prophets",
+        "lawful neutral",
+        "alignment restriction",
+        "dietary prohibitions",
+        "sexual prohibitions",
+        "golden prophecies",
+        "atonement",
+        "lose class features",
+        "alignment violation"
+      ]
+    }
+  ]
+}
