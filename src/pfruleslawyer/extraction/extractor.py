@@ -5,6 +5,7 @@ import re
 from pathlib import Path
 
 from pfruleslawyer.core import HtmlCacheDB, Section
+from pfruleslawyer.modification import MarkdownModifier
 
 
 def strip_anchor_id(text: str) -> tuple[str, str | None]:
@@ -130,7 +131,8 @@ class SectionExtractor:
         self,
         rules_dir: str | Path | None = None,
         manifests_dir: str | Path | None = None,
-        db: HtmlCacheDB | None = None
+        db: HtmlCacheDB | None = None,
+        modifier: MarkdownModifier | None = None
     ):
         """Initialize the extractor.
 
@@ -138,10 +140,12 @@ class SectionExtractor:
             rules_dir: Directory containing markdown rules files (legacy)
             manifests_dir: Directory containing manifest JSON files
             db: Database instance for fetching markdown from URLs
+            modifier: MarkdownModifier instance for applying transformations
         """
         self.rules_dir = Path(rules_dir) if rules_dir else DEFAULT_RULES_DIR
         self.manifests_dir = Path(manifests_dir) if manifests_dir else DEFAULT_MANIFESTS_DIR
         self.db = db or HtmlCacheDB()
+        self.modifier = modifier or MarkdownModifier()
         self._sections: list[Section] | None = None
         self._markdown_cache: dict[str, str] = {}
 
@@ -155,8 +159,8 @@ class SectionExtractor:
         if source_path not in self._markdown_cache:
             # Check if source_path is a URL
             if source_path.startswith("http://") or source_path.startswith("https://"):
-                # Fetch from database
-                markdown = self.db.get_markdown(source_path)
+                # Fetch from database with modifications applied
+                markdown = self.modifier.get_markdown(self.db, source_path)
                 if markdown is None:
                     raise FileNotFoundError(f"No markdown found in database for URL: {source_path}")
                 self._markdown_cache[source_path] = markdown

@@ -18,6 +18,9 @@ pfruleslawyer/
 │   │   └── section.py           # Section dataclass
 │   ├── extraction/              # Section extraction
 │   │   └── extractor.py         # SectionExtractor class
+│   ├── modification/            # Markdown modification layer
+│   │   ├── modifier.py          # MarkdownModifier class
+│   │   └── operations.py        # Modification operations
 │   ├── preprocessing/           # LLM-powered preprocessing
 │   │   ├── prompts.py           # Prompt templates
 │   │   ├── processor.py         # Processing functions
@@ -133,6 +136,7 @@ Each directory contains its own CLAUDE.md with detailed documentation:
 | `src/pfruleslawyer/` | Main Python package |
 | `src/pfruleslawyer/core/` | Domain models (Section, HtmlCacheDB) |
 | `src/pfruleslawyer/extraction/` | SectionExtractor for loading sections |
+| `src/pfruleslawyer/modification/` | Markdown modification before preprocessing |
 | `src/pfruleslawyer/preprocessing/` | LLM processing modes and functions |
 | `src/pfruleslawyer/search/` | Vector store, lemmatizer, reranker |
 | `src/pfruleslawyer/rag/` | Q&A logic with tool use |

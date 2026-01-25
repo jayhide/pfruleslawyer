@@ -17,6 +17,47 @@ URLs for secondary class features (archetypes, bloodlines, etc.) that need speci
 
 ## Configuration Structure
 
+### Markdown Modifications
+
+Transforms markdown content before preprocessing. Useful for removing third-party content, mythic variants, or other unwanted sections while keeping the original database content unchanged.
+
+```yaml
+markdown_modifications:
+  # Exact URL match
+  - url: https://www.d20pfsrd.com/gamemastering/combat/
+    operations:
+      - type: remove_section
+        start_heading: "## Third-Party Options"
+        end_heading: "## Official Content"  # optional
+
+  # Pattern-based (applies to multiple URLs)
+  - pattern: https://www.d20pfsrd.com/feats/*/*
+    operations:
+      - type: remove_section
+        start_heading: "## Mythic Version"
+```
+
+#### Supported Operations
+
+| Operation | Description | Parameters |
+|-----------|-------------|------------|
+| `remove_section` | Remove content between headings | `start_heading`, `end_heading` (optional) |
+| `remove_lines` | Remove lines matching regex | `pattern` |
+| `remove_text` | Remove exact text | `text` |
+| `replace` | Regex find-and-replace | `pattern`, `replacement` |
+
+#### Preview Commands
+
+```bash
+# Preview modifications for a URL (shows before/after)
+poetry run pfrules-preprocess --preview-modifications URL
+
+# List all URLs with configured modifications
+poetry run pfrules-preprocess --list-modifications
+```
+
+See `src/pfruleslawyer/modification/CLAUDE.md` for detailed operation documentation.
+
 ### Disambiguation Rules
 
 Prevents title matches when ambiguous terms appear in specific contexts:

@@ -4,6 +4,26 @@
 # See config/CLAUDE.md for detailed documentation.
 
 # =============================================================================
+# Markdown Modifications
+# =============================================================================
+# Transforms markdown content before preprocessing. Useful for removing
+# third-party content, mythic variants, or other unwanted sections.
+#
+# Example:
+# markdown_modifications:
+#   - url: https://www.d20pfsrd.com/gamemastering/combat/
+#     operations:
+#       - type: remove_section
+#         start_heading: "## Third-Party Options"
+#
+#   - pattern: https://www.d20pfsrd.com/feats/*/*
+#     operations:
+#       - type: remove_section
+#         start_heading: "## Mythic Version"
+
+markdown_modifications: []
+
+# =============================================================================
 # Disambiguation Rules
 # =============================================================================
 # Prevents title matches when ambiguous terms appear in specific contexts.

@@ -10,6 +10,7 @@ import anthropic
 from dotenv import load_dotenv
 
 from pfruleslawyer.core import HtmlCacheDB
+from pfruleslawyer.modification import MarkdownModifier
 from pfruleslawyer.preprocessing import (
     load_config,
     url_to_manifest_filename,
@@ -88,6 +89,17 @@ def main():
         action="store_true",
         help="Only process entries that don't require LLM calls (template and faq modes)"
     )
+    parser.add_argument(
+        "--preview-modifications",
+        metavar="URL",
+        type=str,
+        help="Preview markdown modifications for a specific URL and exit"
+    )
+    parser.add_argument(
+        "--list-modifications",
+        action="store_true",
+        help="List all URLs/patterns with configured modifications and exit"
+    )
 
     args = parser.parse_args()
 
@@ -97,6 +109,56 @@ def main():
     except FileNotFoundError as e:
         print(f"Error: {e}", file=sys.stderr)
         sys.exit(1)
+
+    # Initialize modifier for markdown transformations
+    modifier = MarkdownModifier(config.get("markdown_modifications", []))
+
+    # Handle --list-modifications
+    if args.list_modifications:
+        entries_list = modifier.get_all_modified_urls()
+        if not entries_list:
+            print("No markdown modifications configured.")
+            return
+
+        print(f"\nConfigured markdown modifications ({len(entries_list)} entries):\n")
+        for entry in entries_list:
+            if "url" in entry:
+                print(f"  URL: {entry['url']}")
+            elif "pattern" in entry:
+                print(f"  Pattern: {entry['pattern']}")
+            print(f"    Operations: {entry['operation_count']}")
+        return
+
+    # Handle --preview-modifications
+    if args.preview_modifications:
+        db = HtmlCacheDB(args.db)
+        url = args.preview_modifications
+
+        if not modifier.has_modifications(url):
+            print(f"No modifications configured for: {url}")
+            return
+
+        original, modified, changes = modifier.preview(db, url)
+
+        if original is None:
+            print(f"Error: No markdown found in database for: {url}", file=sys.stderr)
+            sys.exit(1)
+
+        print(f"Modifications for: {url}\n")
+        print("Changes applied:")
+        for change in changes:
+            print(f"  - {change}")
+
+        print(f"\n--- Original ({len(original)} chars) ---")
+        print(original[:2000] + ("..." if len(original) > 2000 else ""))
+
+        print(f"\n--- Modified ({len(modified)} chars) ---")
+        print(modified[:2000] + ("..." if len(modified) > 2000 else ""))
+
+        if len(original) > 2000 or len(modified) > 2000:
+            print("\n(Output truncated to 2000 chars)")
+
+        return
 
     entries = config.get("entries", [])
 
@@ -187,7 +249,8 @@ def main():
             model=args.model,
             timeout=args.timeout,
             verbose=args.verbose,
-            dry_run=args.dry_run
+            dry_run=args.dry_run,
+            modifier=modifier
         )
 
         if success:

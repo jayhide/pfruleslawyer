@@ -9,6 +9,7 @@ import anthropic
 import yaml
 
 from pfruleslawyer.core import HtmlCacheDB
+from pfruleslawyer.modification import MarkdownModifier
 from .processor import (
     process_markdown_full,
     process_markdown_simple,
@@ -203,7 +204,8 @@ def process_url(
     model: str = "claude-sonnet-4-20250514",
     timeout: float = 300.0,
     verbose: bool = False,
-    dry_run: bool = False
+    dry_run: bool = False,
+    modifier: MarkdownModifier | None = None
 ) -> bool:
     """Process a single URL and save its manifest.
 
@@ -220,6 +222,7 @@ def process_url(
         timeout: API timeout in seconds
         verbose: Print detailed progress
         dry_run: Preview without making API calls
+        modifier: MarkdownModifier instance for applying transformations
 
     Returns:
         True if successful, False otherwise
@@ -236,8 +239,11 @@ def process_url(
         print(f"  -> Would save to {output_path}")
         return True
 
-    # Get markdown from database
-    markdown = db.get_markdown(url)
+    # Get markdown from database (with modifications if configured)
+    if modifier is not None:
+        markdown = modifier.get_markdown(db, url)
+    else:
+        markdown = db.get_markdown(url)
     if not markdown:
         print(f"  Error: No markdown found for {url}", file=sys.stderr)
         return False

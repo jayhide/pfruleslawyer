@@ -38,6 +38,10 @@ poetry run pfrules-preprocess --stats    # show what would be processed
 poetry run pfrules-preprocess --dry-run  # preview without API calls
 poetry run pfrules-preprocess -v         # process all
 poetry run pfrules-preprocess --category "Spells"  # specific category
+
+# Markdown modification commands
+poetry run pfrules-preprocess --list-modifications           # list configured modifications
+poetry run pfrules-preprocess --preview-modifications URL    # preview changes for a URL
 ```
 
 ### pfrules-server
