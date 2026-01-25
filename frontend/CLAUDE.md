@@ -47,12 +47,38 @@ npm install
 # Start dev server (proxies /api to localhost:8000)
 npm run dev
 
-# Build for production
+# Build for production (includes type check)
 npm run build
 
-# Type check
+# Type check only (no build)
 npm run type-check
+
+# Lint code
+npm run lint
+
+# Preview production build
+npm run preview
 ```
+
+### Available npm Scripts
+
+| Script | Command | Description |
+|--------|---------|-------------|
+| `dev` | `vite` | Start development server with HMR |
+| `build` | `tsc -b && vite build` | Type check then build for production |
+| `type-check` | `tsc --noEmit` | Check TypeScript types without building |
+| `lint` | `eslint .` | Run ESLint on all files |
+| `preview` | `vite preview` | Preview the production build locally |
+
+### Verifying Changes
+
+After making frontend changes, run type checking and linting:
+
+```bash
+npm run type-check && npm run lint
+```
+
+The `npm run build` command also runs type checking first via `tsc -b`.
 
 ## Build Output
 
