@@ -22,7 +22,7 @@ from pfruleslawyer.modification import MarkdownModifier
 from pfruleslawyer.core import HtmlCacheDB
 
 db = HtmlCacheDB()
-modifier = MarkdownModifier()  # Loads from config/preprocess_config.yaml
+modifier = MarkdownModifier()  # Loads from config/markdown_modifications.yaml
 
 # Get modified markdown
 markdown = modifier.get_markdown(db, url)
@@ -92,10 +92,10 @@ Regex find-and-replace. Supports backreferences.
 
 ## Configuration
 
-Add to `config/preprocess_config.yaml`:
+Add to `config/markdown_modifications.yaml`:
 
 ```yaml
-markdown_modifications:
+modifications:
   # Exact URL match
   - url: https://www.d20pfsrd.com/gamemastering/combat/
     operations:

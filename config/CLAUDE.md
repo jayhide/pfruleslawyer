@@ -11,18 +11,22 @@ Main configuration for URL processing in YAML format. YAML supports:
 - YAML anchors for reducing repetition
 - More readable multi-line strings
 
+### markdown_modifications.yaml
+
+Dedicated configuration for markdown content transformations. Loaded by `MarkdownModifier` to apply modifications before preprocessing.
+
 ### class_secondary_urls.json
 
 URLs for secondary class features (archetypes, bloodlines, etc.) that need special handling during class document processing.
 
 ## Configuration Structure
 
-### Markdown Modifications
+### Markdown Modifications (markdown_modifications.yaml)
 
 Transforms markdown content before preprocessing. Useful for removing third-party content, mythic variants, or other unwanted sections while keeping the original database content unchanged.
 
 ```yaml
-markdown_modifications:
+modifications:
   # Exact URL match
   - url: https://www.d20pfsrd.com/gamemastering/combat/
     operations:

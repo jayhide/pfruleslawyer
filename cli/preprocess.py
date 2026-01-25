@@ -111,7 +111,7 @@ def main():
         sys.exit(1)
 
     # Initialize modifier for markdown transformations
-    modifier = MarkdownModifier(config.get("markdown_modifications", []))
+    modifier = MarkdownModifier()  # Loads from config/markdown_modifications.yaml
 
     # Handle --list-modifications
     if args.list_modifications:

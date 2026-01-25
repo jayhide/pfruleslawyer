@@ -11,7 +11,7 @@ from .operations import apply_operation
 
 
 # Default config path relative to this file
-DEFAULT_CONFIG_PATH = Path(__file__).parent.parent.parent.parent / "config" / "preprocess_config.yaml"
+DEFAULT_CONFIG_PATH = Path(__file__).parent.parent.parent.parent / "config" / "markdown_modifications.yaml"
 
 
 class MarkdownModifier:
@@ -35,14 +35,17 @@ class MarkdownModifier:
             self._modifications = self._load_modifications(config_path or DEFAULT_CONFIG_PATH)
 
     def _load_modifications(self, config_path: Path) -> list:
-        """Load markdown_modifications from config file."""
+        """Load modifications from config file."""
         if not config_path.exists():
             return []
 
         with open(config_path) as f:
             config = yaml.safe_load(f)
 
-        return config.get("markdown_modifications", [])
+        if not config:
+            return []
+
+        return config.get("modifications") or []
 
     def _url_matches_pattern(self, url: str, pattern: str) -> bool:
         """Check if URL matches a glob pattern."""

@@ -1,0 +1,18 @@
+# Markdown Modifications Configuration
+#
+# Transforms markdown content before preprocessing. Useful for removing
+# third-party content, mythic variants, or other unwanted sections.
+#
+# See src/pfruleslawyer/modification/CLAUDE.md for operation documentation.
+
+modifications:
+  - url: https://www.d20pfsrd.com/magic-items/rods/
+    operations:
+      - type: remove_section
+        start_heading: "### All Paizo Rods"
+
+  # Example:
+  # - pattern: https://www.d20pfsrd.com/feats/*/*
+  #   operations:
+  #     - type: remove_section
+  #       start_heading: "## Mythic Version"
