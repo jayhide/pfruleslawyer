@@ -6,6 +6,7 @@ import re
 from pathlib import Path
 
 import anthropic
+import yaml
 
 from pfruleslawyer.core import HtmlCacheDB
 from .processor import (
@@ -17,15 +18,15 @@ from .processor import (
 )
 
 # Default paths relative to project root
-DEFAULT_CONFIG_PATH = Path(__file__).parent.parent.parent.parent / "config" / "preprocess_config.json"
+DEFAULT_CONFIG_PATH = Path(__file__).parent.parent.parent.parent / "config" / "preprocess_config.yaml"
 DEFAULT_MANIFESTS_DIR = Path(__file__).parent.parent.parent.parent / "data" / "manifests"
 
 
 def load_config(config_path: Path | None = None) -> dict:
-    """Load configuration from JSON file.
+    """Load configuration from YAML file.
 
     Args:
-        config_path: Path to config file, defaults to config/preprocess_config.json
+        config_path: Path to config file, defaults to config/preprocess_config.yaml
 
     Returns:
         Configuration dictionary
@@ -35,7 +36,7 @@ def load_config(config_path: Path | None = None) -> dict:
         raise FileNotFoundError(f"Config file not found: {path}")
 
     with open(path) as f:
-        return json.load(f)
+        return yaml.safe_load(f)
 
 
 def url_matches_pattern(url: str, pattern: str) -> bool:
@@ -71,8 +72,59 @@ def url_to_manifest_filename(url: str) -> str:
     return f"{filename}.json"
 
 
+def is_index_page(url: str, pattern: str) -> bool:
+    """Check if URL is an index page (single-char segment or exact pattern base).
+
+    Index pages are:
+    - URLs ending with single-character path segments (e.g., /a/, /b/)
+    - The base URL of the pattern (without wildcard)
+    """
+    # Get the base path from pattern (everything before the first *)
+    base = pattern.split("*")[0].rstrip("/")
+
+    # Exact base URL is an index page
+    url_normalized = url.rstrip("/")
+    if url_normalized == base:
+        return True
+
+    # Check for single-char segment at the end
+    # e.g., https://www.d20pfsrd.com/magic/all-spells/a/
+    path = url_normalized.replace(base, "").strip("/")
+    if path and len(path) == 1:
+        return True
+
+    return False
+
+
+def matches_relative_exclude(url: str, exclude_pattern: str) -> bool:
+    """Check if URL matches a relative exclude pattern.
+
+    Relative patterns start with '*/' and match against URL suffixes.
+    e.g., '*/paizo-*-archetypes/' matches any URL ending with that pattern.
+    """
+    if not exclude_pattern.startswith("*/"):
+        return False
+
+    # Convert relative pattern to glob for suffix matching
+    suffix_pattern = exclude_pattern[2:]  # Remove leading */
+
+    # Check if any part of the URL path matches
+    return fnmatch.fnmatch(url, f"*/{suffix_pattern}") or fnmatch.fnmatch(url, f"*/{suffix_pattern}/")
+
+
 def resolve_urls_for_entry(entry: dict, all_urls: list[str]) -> list[tuple[str, str | None, str | None]]:
     """Resolve which URLs match a config entry.
+
+    Supports:
+    - url: Single exact URL match
+    - urls: List of exact URL matches
+    - pattern: Glob pattern with * wildcard
+    - exclude: List of URLs or patterns to exclude
+    - exclude_index_pages: Auto-exclude single-char index pages
+
+    Exclude patterns can be:
+    - Full URLs: "https://www.d20pfsrd.com/feats/combat-feats/"
+    - Relative patterns: "*/paizo-*-archetypes/" (matches any URL ending with pattern)
 
     Returns:
         List of (url, name, name_prefix) tuples.
@@ -94,10 +146,38 @@ def resolve_urls_for_entry(entry: dict, all_urls: list[str]) -> list[tuple[str, 
     elif "pattern" in entry:
         # Pattern match
         pattern = entry["pattern"]
-        excludes = set(entry.get("exclude", []))
+        exclude_list = entry.get("exclude", [])
+        exclude_index = entry.get("exclude_index_pages", False)
+
+        # Separate full URL excludes from relative pattern excludes
+        full_url_excludes = set()
+        relative_excludes = []
+        for exc in exclude_list:
+            if exc.startswith("*/"):
+                relative_excludes.append(exc)
+            else:
+                full_url_excludes.add(exc)
 
         for url in all_urls:
-            if url_matches_pattern(url, pattern) and url not in excludes:
+            if not url_matches_pattern(url, pattern):
+                continue
+
+            # Check full URL excludes
+            if url in full_url_excludes:
+                continue
+
+            # Check index page exclusion
+            if exclude_index and is_index_page(url, pattern):
+                continue
+
+            # Check relative excludes
+            excluded = False
+            for rel_exc in relative_excludes:
+                if matches_relative_exclude(url, rel_exc):
+                    excluded = True
+                    break
+
+            if not excluded:
                 matched.append((url, name, name_prefix))
 
     return matched

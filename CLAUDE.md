@@ -58,7 +58,7 @@ pfruleslawyer/
 │   └── html_cache.db            # SQLite database
 │
 ├── config/                      # Configuration files
-│   ├── preprocess_config.json
+│   ├── preprocess_config.yaml   # URL processing config
 │   └── class_secondary_urls.json
 │
 ├── data/                        # Generated/runtime data

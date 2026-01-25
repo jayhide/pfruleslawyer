@@ -20,7 +20,7 @@ from pfruleslawyer.preprocessing import (
 load_dotenv()
 
 # Default paths - relative to project root
-DEFAULT_CONFIG_PATH = Path(__file__).parent.parent / "config" / "preprocess_config.json"
+DEFAULT_CONFIG_PATH = Path(__file__).parent.parent / "config" / "preprocess_config.yaml"
 DEFAULT_MANIFESTS_DIR = Path(__file__).parent.parent / "data" / "manifests"
 DEFAULT_DB_PATH = Path(__file__).parent.parent / "scraper" / "html_cache.db"
 

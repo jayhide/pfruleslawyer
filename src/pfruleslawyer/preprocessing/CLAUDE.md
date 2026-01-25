@@ -29,10 +29,12 @@ LLM-powered section extraction and manifest generation.
 - `get_source_name()` - Generate human-readable source names
 
 ### from_db.py
-- `load_config()` - Load `config/preprocess_config.json`
+- `load_config()` - Load config from YAML file
 - `process_url()` - Process single URL to manifest
 - `get_urls_to_process()` - Resolve URLs from config patterns
+- `is_index_page()` - Check if URL is an index page for auto-exclusion
+- `matches_relative_exclude()` - Check if URL matches a relative exclude pattern
 
 ## Configuration
 
-See `config/preprocess_config.json` for URL patterns, modes, and category weights.
+See `config/preprocess_config.yaml` for URL patterns, modes, and category weights.

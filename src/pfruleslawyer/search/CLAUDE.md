@@ -82,4 +82,4 @@ if title in self._disambiguation_rules:
         continue  # Skip this title
 ```
 
-Rules are defined in `config/preprocess_config.json` with lemmatized keys.
+Rules are defined in `config/preprocess_config.yaml` with lemmatized keys.

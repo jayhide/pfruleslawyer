@@ -23,7 +23,7 @@ TITLE_MATCH_BOOST = 0.3
 # Default paths relative to project root
 DEFAULT_PERSIST_DIR = Path(__file__).parent.parent.parent.parent / "data" / "vectordb"
 DEFAULT_MANIFESTS_DIR = Path(__file__).parent.parent.parent.parent / "data" / "manifests"
-DEFAULT_CONFIG_PATH = Path(__file__).parent.parent.parent.parent / "config" / "preprocess_config.json"
+DEFAULT_CONFIG_PATH = Path(__file__).parent.parent.parent.parent / "config" / "preprocess_config.yaml"
 
 # Precomputed lemmatized indices
 LEMMATIZED_INDICES_FILENAME = "lemmatized_indices.json"
@@ -210,15 +210,16 @@ class RulesVectorStore:
         # Try to load from config file
         if self._config_path.exists():
             try:
+                import yaml
                 with open(self._config_path, encoding="utf-8") as f:
-                    config = json.load(f)
+                    config = yaml.safe_load(f)
                 if "category_weights" in config:
                     # Merge config weights with defaults
                     for category, weights in config["category_weights"].items():
                         self._category_weights[category] = weights
                 # Load disambiguation rules (keys are lemmatized)
                 self._disambiguation_rules = config.get("disambiguation_rules", {})
-            except (json.JSONDecodeError, KeyError):
+            except (yaml.YAMLError, KeyError):
                 pass  # Use defaults if config is invalid
 
         # Ensure disambiguation_rules is initialized

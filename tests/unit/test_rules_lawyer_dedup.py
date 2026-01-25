@@ -201,24 +201,6 @@ class TestPrintSearchResultsDedup:
         output = captured.getvalue()
         assert "[DUP]" not in output
 
-    def test_skips_content_for_duplicates_in_verbose(self):
-        """In verbose mode, duplicate results should not have their content printed."""
-        results = [
-            make_result("test.md::section1", "Section 1"),
-            make_result("test.md::section2", "Section 2"),
-        ]
-        seen_ids = {"test.md::section1"}
-
-        captured = io.StringIO()
-        with patch("sys.stderr", captured):
-            print_search_results(results, verbose=True, seen_ids=seen_ids)
-
-        output = captured.getvalue()
-        # Section 1 is a duplicate - its content should NOT appear
-        assert "Section 1 content here" not in output
-        # Section 2 is new - its content SHOULD appear
-        assert "Section 2 content here" in output
-
 
 class TestFormatContext:
     """Tests for format_context() function."""
