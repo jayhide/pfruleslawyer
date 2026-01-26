@@ -108,14 +108,17 @@ See `cli/CLAUDE.md` for full command documentation.
 ## Web Frontend
 
 ```bash
+# Install frontend dependencies (one-time)
+npm --prefix frontend install
+
 # Build frontend (requires Node.js)
-cd frontend && npm install && npm run build
+npm run build
 
 # Start server (serves frontend at http://localhost:8000)
 poetry run pfrules-server
 ```
 
-See `frontend/CLAUDE.md` for frontend development details.
+Root `package.json` provides convenience scripts (`build`, `dev`, `type-check`, `lint`, `preview`) that delegate to `frontend/`. See `frontend/CLAUDE.md` for frontend development details.
 
 ## Key Components
 

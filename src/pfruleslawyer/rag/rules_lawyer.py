@@ -17,7 +17,7 @@ MODEL_IDS = {
 
 SEARCH_TOOL = {
     "name": "search_rules",
-    "description": "Search the Pathfinder 1e rules database for additional rules sections. Use this when you need more information about specific rules, conditions, abilities, or mechanics not covered in the provided context. It's best to use this to look up one specific term or mechanic at a time.",
+    "description": "Search the Pathfinder 1e rules database for additional rules sections. Use this when you need more information about specific rules, conditions, abilities, or mechanics not covered in the provided context. It's best to use this to look up one specific term or mechanic at a time. If a search result is marked as duplicate, it means it was already retrieved in the initial search or a previous search. If all or most of the results of your search are duplicates, you've exhausted the available rules and should assume there's nothing more relevant, or try a different search topic.",
     "input_schema": {
         "type": "object",
         "properties": {

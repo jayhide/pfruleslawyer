@@ -40,8 +40,10 @@ frontend/
 
 ## Development
 
+All scripts can be run from the project root (via root `package.json`) or from `frontend/`:
+
 ```bash
-# Install dependencies
+# Install dependencies (from frontend/ directory)
 npm install
 
 # Start dev server (proxies /api to localhost:8000)

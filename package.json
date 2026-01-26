@@ -1,0 +1,12 @@
+{
+  "name": "pfruleslawyer",
+  "private": true,
+  "description": "Convenience scripts for frontend development",
+  "scripts": {
+    "dev": "npm --prefix frontend run dev",
+    "build": "npm --prefix frontend run build",
+    "type-check": "npm --prefix frontend run type-check",
+    "lint": "npm --prefix frontend run lint",
+    "preview": "npm --prefix frontend run preview"
+  }
+}

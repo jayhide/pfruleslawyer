@@ -31,7 +31,7 @@ category_weights:
     keyword_boost: 0.2
     subheading_boost: 0.2
     title_boost: 0.3
-    rerank_weight: 0.1
+    rerank_weight: 0.3
 
   # Title-only categories - no embedding, fast title-based lookup
   # Used for categories where exact name matching is preferred
@@ -40,7 +40,7 @@ category_weights:
     keyword_boost: 0.0
     subheading_boost: 0.0
     title_boost: 1.0
-    rerank_weight: 0.1
+    rerank_weight: 0.3
 
   # FAQ uses pure semantic matching
   FAQ:
@@ -48,7 +48,7 @@ category_weights:
     keyword_boost: 0.0
     subheading_boost: 0.0
     title_boost: 0.0
-    rerank_weight: 0.0
+    rerank_weight: 0.3
 
   # Classes use mixed semantic + title matching
   Classes:
@@ -56,7 +56,7 @@ category_weights:
     keyword_boost: 0.2
     subheading_boost: 0.2
     title_boost: 0.5
-    rerank_weight: 0.1
+    rerank_weight: 0.3
 
   # Title-only categories (reference the anchor)
   Spells: *title_only
