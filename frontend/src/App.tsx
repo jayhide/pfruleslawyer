@@ -16,7 +16,7 @@ function App() {
     <div className="flex flex-col h-screen bg-gray-50">
       <Header onSettingsClick={() => setSettingsOpen(true)} />
 
-      <ChatContainer state={state} showReasoning={settings.show_reasoning} />
+      <ChatContainer state={state} showReasoning={settings.show_reasoning} showTranscript={settings.show_transcript} />
 
       <QueryInput
         onSubmit={handleSubmit}

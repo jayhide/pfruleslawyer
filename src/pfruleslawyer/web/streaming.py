@@ -237,7 +237,16 @@ async def stream_rules_question(
             if ctx:
                 yield {"event": "timing_summary", "data": ctx.as_dict()}
             yield {"event": "turn_complete", "data": {"is_final": True}}
-            yield {"event": "done", "data": {"complete": True}}
+            yield {
+                "event": "done",
+                "data": {
+                    "complete": True,
+                    "transcript": {
+                        "system_prompt": SYSTEM_PROMPT,
+                        "messages": messages,
+                    },
+                },
+            }
             return
 
         # Log reasoning if model provided text before tool calls

@@ -7,6 +7,7 @@ export interface Settings {
   reranker_model: 'ms-marco' | 'bge-large' | 'llm-haiku' | null; // default null
   verbose: boolean; // default false - enables server-side debug logging
   show_reasoning: boolean; // default false - show AI reasoning in UI
+  show_transcript: boolean; // default false - show transcript debug button
 }
 
 export const DEFAULT_SETTINGS: Settings = {
@@ -17,6 +18,7 @@ export const DEFAULT_SETTINGS: Settings = {
   reranker_model: null,
   verbose: false,
   show_reasoning: false,
+  show_transcript: false,
 };
 
 // API request/response types
@@ -78,8 +80,30 @@ export interface ErrorData {
   message: string;
 }
 
+// Transcript types (matches Claude API message format)
+export interface TranscriptContentBlock {
+  type: 'text' | 'tool_use' | 'tool_result';
+  text?: string;           // for text blocks
+  id?: string;             // for tool_use
+  name?: string;           // for tool_use
+  input?: Record<string, unknown>;  // for tool_use
+  tool_use_id?: string;    // for tool_result
+  content?: string | TranscriptContentBlock[];  // for tool_result
+}
+
+export interface TranscriptMessage {
+  role: 'user' | 'assistant';
+  content: string | TranscriptContentBlock[];
+}
+
+export interface Transcript {
+  system_prompt: string;
+  messages: TranscriptMessage[];
+}
+
 export interface DoneData {
   complete: boolean;
+  transcript?: Transcript;
 }
 
 export interface TurnCompleteData {
@@ -107,6 +131,7 @@ export interface Message {
   reasoning?: string; // AI's reasoning text before tool calls
   sources?: SourceInfo[]; // Source URLs for referenced content
   isStreaming?: boolean;
+  transcript?: Transcript; // Full API transcript for debugging
 }
 
 export interface ChatState {
@@ -116,6 +141,7 @@ export interface ChatState {
   accumulatedReasoning: string; // Reasoning from previous turns
   currentToolCalls: ToolCallData[];
   currentSources: SourceInfo[]; // Sources accumulated during streaming
+  currentTranscript: Transcript | null; // Transcript from done event
   error: string | null;
 }
 
@@ -126,5 +152,6 @@ export const initialChatState: ChatState = {
   accumulatedReasoning: '',
   currentToolCalls: [],
   currentSources: [],
+  currentTranscript: null,
   error: null,
 };

@@ -1,15 +1,18 @@
 import { useState } from 'react';
 import ReactMarkdown from 'react-markdown';
 import remarkGfm from 'remark-gfm';
-import type { ToolCallData, SourceInfo } from '../types';
+import type { ToolCallData, SourceInfo, Transcript } from '../types';
 import { SourcesList } from './SourcesList';
+import { TranscriptModal } from './TranscriptModal';
 
 interface AssistantMessageProps {
   content: string;
   toolCalls?: ToolCallData[];
   reasoning?: string;
   sources?: SourceInfo[];
+  transcript?: Transcript;
   showReasoning?: boolean;
+  showTranscriptButton?: boolean;
   isStreaming?: boolean;
   isPending?: boolean; // Show with muted styling during streaming
 }
@@ -72,11 +75,14 @@ export function AssistantMessage({
   toolCalls,
   reasoning,
   sources,
+  transcript,
   showReasoning,
+  showTranscriptButton,
   isStreaming,
   isPending,
 }: AssistantMessageProps) {
   const [reasoningExpanded, setReasoningExpanded] = useState(false);
+  const [transcriptModalOpen, setTranscriptModalOpen] = useState(false);
 
   return (
     <div className="flex justify-start mb-4">
@@ -131,7 +137,31 @@ export function AssistantMessage({
         {!isStreaming && sources && sources.length > 0 && (
           <SourcesList sources={sources} />
         )}
+
+        {/* Transcript button */}
+        {transcript && showTranscriptButton && (
+          <div className="mt-3 pt-3 border-t border-gray-100">
+            <button
+              onClick={() => setTranscriptModalOpen(true)}
+              className="text-xs text-gray-500 hover:text-gray-700 flex items-center gap-1"
+            >
+              <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" strokeWidth={1.5} stroke="currentColor" className="w-3.5 h-3.5">
+                <path strokeLinecap="round" strokeLinejoin="round" d="M17.25 6.75L22.5 12l-5.25 5.25m-10.5 0L1.5 12l5.25-5.25m7.5-3l-4.5 16.5" />
+              </svg>
+              View transcript
+            </button>
+          </div>
+        )}
       </div>
+
+      {/* Transcript Modal */}
+      {transcript && (
+        <TranscriptModal
+          transcript={transcript}
+          isOpen={transcriptModalOpen}
+          onClose={() => setTranscriptModalOpen(false)}
+        />
+      )}
     </div>
   );
 }

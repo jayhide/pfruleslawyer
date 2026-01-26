@@ -1,5 +1,5 @@
 import { useReducer, useCallback, useRef } from 'react';
-import type { ChatState, Settings, Message, ToolCallData, SourceInfo } from '../types';
+import type { ChatState, Settings, Message, ToolCallData, SourceInfo, Transcript } from '../types';
 import { initialChatState } from '../types';
 import { streamQuestion } from '../services/api';
 
@@ -10,6 +10,7 @@ type ChatAction =
   | { type: 'ADD_SOURCES'; sources: SourceInfo[] }
   | { type: 'TURN_COMPLETE'; isFinal: boolean }
   | { type: 'SET_ERROR'; error: string }
+  | { type: 'SET_TRANSCRIPT'; transcript: Transcript }
   | { type: 'COMPLETE_STREAMING' }
   | { type: 'CLEAR' }
   | { type: 'ABORT' };
@@ -35,6 +36,7 @@ function chatReducer(state: ChatState, action: ChatAction): ChatState {
         accumulatedReasoning: '',
         currentToolCalls: [],
         currentSources: [],
+        currentTranscript: null,
         error: null,
       };
     }
@@ -86,6 +88,12 @@ function chatReducer(state: ChatState, action: ChatAction): ChatState {
         error: action.error,
       };
 
+    case 'SET_TRANSCRIPT':
+      return {
+        ...state,
+        currentTranscript: action.transcript,
+      };
+
     case 'COMPLETE_STREAMING': {
       const assistantMessage: Message = {
         id: generateId(),
@@ -101,6 +109,7 @@ function chatReducer(state: ChatState, action: ChatAction): ChatState {
           state.currentSources.length > 0
             ? state.currentSources
             : undefined,
+        transcript: state.currentTranscript || undefined,
       };
       return {
         ...state,
@@ -110,6 +119,7 @@ function chatReducer(state: ChatState, action: ChatAction): ChatState {
         accumulatedReasoning: '',
         currentToolCalls: [],
         currentSources: [],
+        currentTranscript: null,
       };
     }
 
@@ -146,6 +156,7 @@ function chatReducer(state: ChatState, action: ChatAction): ChatState {
         accumulatedReasoning: '',
         currentToolCalls: [],
         currentSources: [],
+        currentTranscript: null,
       };
     }
 
@@ -204,6 +215,9 @@ export function useStreamingQuestion() {
               dispatch({ type: 'SET_ERROR', error: event.data.message });
               return;
             case 'done':
+              if (event.data.transcript) {
+                dispatch({ type: 'SET_TRANSCRIPT', transcript: event.data.transcript });
+              }
               dispatch({ type: 'COMPLETE_STREAMING' });
               return;
           }

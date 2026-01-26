@@ -6,6 +6,7 @@ import { AssistantMessage } from './AssistantMessage';
 interface ChatContainerProps {
   state: ChatState;
   showReasoning: boolean;
+  showTranscript: boolean;
 }
 
 function WelcomeMessage() {
@@ -36,7 +37,7 @@ function WelcomeMessage() {
   );
 }
 
-export function ChatContainer({ state, showReasoning }: ChatContainerProps) {
+export function ChatContainer({ state, showReasoning, showTranscript }: ChatContainerProps) {
   const messagesEndRef = useRef<HTMLDivElement>(null);
 
   // Auto-scroll to bottom when new content arrives
@@ -62,7 +63,9 @@ export function ChatContainer({ state, showReasoning }: ChatContainerProps) {
                 toolCalls={message.toolCalls}
                 reasoning={message.reasoning}
                 sources={message.sources}
+                transcript={message.transcript}
                 showReasoning={showReasoning}
+                showTranscriptButton={showTranscript}
               />
             )
           )}
